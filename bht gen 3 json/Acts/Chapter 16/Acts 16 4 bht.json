@@ -1,32 +1,33 @@
 {
-    "timestamp": "12-19-2023 16:31:55",
+    "timestamp": "12-25-2023 20:08:47",
     "verseRef": "Acts 16:4",
     "bestBHT": {
-        "bht": "To establish and strengthen the faith of believers, Paul visited the elders of the church in Antioch and emphasized his loyalty to the decisions made in Jerusalem. By delivering the decrees to the churches in cities like Iconium and Pisidian Antioch, he provided them with guidance on matters such as abstinence from things offered to idols, blood, things strangled, and fornication. This charter of freedom for the Gentiles aimed to foster unity and peace among the churches, ensuring the permanence of the apostolic conclusions. As a result, the churches increased in number and were established in the faith.",
-        "wordCount": 98,
-        "quoteTokenProportion": 30.77,
-        "qualityScore": 1.8546077447055986,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+        "bht": "As they traveled through various cities, Paul and his companions delivered the decrees established by the apostles in Jerusalem to the churches. This act of delivering the decrees not only demonstrated Paul's loyalty to the Jerusalem compact but also aimed to foster unity and peace among the churches. By providing the churches with these guidelines, Paul sought to ensure that they would observe and follow the determinations ordained by the apostles.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.7524184153617681,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.61,
         "commentatorTierSimilarities": [
-            41.81,
-            23.86,
-            34.33
+            29.24,
+            24.88,
+            45.89
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "He might at Iconium see the elders of the church of Antioch...\" ",
-            "If he went to Antioch, he might regain his route into Phrygia and Galatia...",
-            "crossing the hills east of that city."
+            "He might at Iconium see the elders of the church of Antioch, as he did afterwards those of Ephesus at Miletus.\" ",
+            "If he went to Antioch, he might regain his route into Phrygia and Galatia by crossing the hills east of that city."
         ],
         "Jamieson-Fausset-Brown": [
-            "And so were the churches established in the faith, and increased in number daily."
+            "And so were the churches established in the faith, and increased in number daily.\" ",
+            "They break new ground in Phrygia and Galatia\u2014Their course in that direction being mysteriously hedged up, they travel westward to Troas, where they are divinely directed to Macedonia.\" ",
+            "The historian himself here joining the missionary party, they embark for Neapolis, and reach Philippi."
         ],
         "Albert Barnes": [
-            "The decrees... implied an obligation on the Christians to submit to that decision, since they had submitted the matter to them.",
-            "The same principles, also, would be applicable everywhere, and the decision, therefore, at Jerusalem became conclusive.",
-            "To keep... that were ordained."
+            "They delivered them - Paul and Silas delivered to the Christians in those cities.",
+            "The decrees - \u03c4\u03b1\u0300 \u03b4\u03bf\u0301\u03b3\u03bc\u03b1\u03c4\u03b1 ta dogmata...It properly means a law or edict of a king or legislature.",
+            "To keep - To obey, or to observe."
         ],
         "John Calvin": [
             "The best and strongest bond to keep and foster peace among the churches, was to keep that which was set down by the apostles.",
@@ -39,13 +40,13 @@
         ],
         "Archibald T. Robertson": [
             "This is a proof of Paul's loyalty to the Jerusalem compact.",
-            "A charter of Gentile freedom.",
-            "Emphasizing the permanence of the conclusions reached by the apostles and elders in Jerusalem."
+            "The circumcision of Timothy would indicate also that the points involved were under discussion.",
+            "The decrees...a charter of Gentile freedom."
         ],
         "John Gill": [
-            "They delivered them the decrees for to keep.",
+            "And as they went through the cities, they delivered them the decrees for to keep.",
             "They gave the churches, in these cities, the sentiments, and determinations to be observed and followed by them.",
-            "Concerning the abstinence of the Gentiles from things offered to idols, and from blood, and from things strangled, and from fornication."
+            "That were ordained of the apostles which were at Jerusalem."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -65,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse highlights how Paul continued his journey and visited different cities to strengthen the faith of the believers. By visiting the elders of the church in Antioch, he demonstrated his loyalty to the decisions made in Jerusalem and emphasized the importance of following the decrees. This not only established and increased the number of churches, but also served as a charter of freedom for the Gentiles. The purpose of delivering these decrees was to ensure unity and peace among the churches, and to guide them in matters such as abstaining from things offered to idols, blood, things strangled, and fornication.",
-            "wordCount": 101,
-            "quoteTokenProportion": 34.78,
-            "qualityScore": 1.727185075994503,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "bht": "As Paul and his companions continued their missionary journey, they visited various cities to deliver the decrees established by the apostles in Jerusalem. In doing so, they sought to establish and strengthen the faith of the churches in these cities. This act of delivering the decrees was not only a demonstration of Paul's loyalty to the Jerusalem compact, but it also served as a means to foster peace and unity among the churches. By providing the churches with these guidelines, Paul aimed to ensure that they would observe and follow the determinations ordained by the apostles.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7214678286066785,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
             "commentatorTierSimilarities": [
-                36.53,
-                26.59,
-                36.89
+                30.27,
+                25.49,
+                44.24
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul's journey to various cities, including Iconium and Pisidian Antioch, aimed to strengthen the faith of believers and uphold the decisions made in Jerusalem. This demonstrated his loyalty and emphasized the importance of following the decrees laid out by the apostles and elders. By delivering these decrees, he fostered unity and peace among the churches, providing guidance on abstinence from things offered to idols, blood, things strangled, and fornication. These measures established churches, promoted growth, and ensured the permanence of the apostolic conclusions.",
-            "wordCount": 84,
-            "quoteTokenProportion": 25.81,
-            "qualityScore": 1.6724168710280152,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "bht": "As they traveled through various cities, Paul and his companions delivered the decrees established by the apostles in Jerusalem to the churches. This act of delivering the decrees not only demonstrated Paul's loyalty to the Jerusalem compact but also aimed to foster unity and peace among the churches. By providing the churches with these guidelines, Paul sought to ensure that they would observe and follow the determinations ordained by the apostles.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7524184153617681,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.61,
             "commentatorTierSimilarities": [
-                35.41,
-                26.14,
-                38.45
+                29.24,
+                24.88,
+                45.89
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "To establish and strengthen the faith of believers, Paul visited the elders of the church in Antioch and emphasized his loyalty to the decisions made in Jerusalem. By delivering the decrees to the churches in cities like Iconium and Pisidian Antioch, he provided them with guidance on matters such as abstinence from things offered to idols, blood, things strangled, and fornication. This charter of freedom for the Gentiles aimed to foster unity and peace among the churches, ensuring the permanence of the apostolic conclusions. As a result, the churches increased in number and were established in the faith.",
-            "wordCount": 98,
-            "quoteTokenProportion": 30.77,
-            "qualityScore": 1.8546077447055986,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "bht": "In their missionary journey, Paul and his companions visited different cities to deliver the decrees established by the apostles in Jerusalem. By providing the churches with these guidelines, Paul aimed to strengthen their faith and increase their numbers. The delivery of the decrees not only demonstrated Paul's loyalty to the Jerusalem compact but also served to establish and maintain unity among the churches. This act of delivering the decrees was a significant step in fostering peace and ensuring that the churches would observe and uphold the determinations ordained by the apostles.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6807095031591668,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.23,
             "commentatorTierSimilarities": [
-                41.81,
-                23.86,
-                34.33
+                30.65,
+                25.22,
+                44.13
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In his journey to different cities, Paul's visits to the elders of the church in Antioch underscored his commitment to the decisions made in Jerusalem. Delivering the decrees in cities like Iconium and Pisidian Antioch was crucial for establishing and expanding the churches. These decrees served as a charter of Gentile freedom, emphasizing the permanence of the apostolic conclusions and providing guidance on matters of faith. They aimed to ensure unity, peace, and growth among the believers by addressing issues like abstinence from idol offerings, blood, strangling, and fornication.",
-            "wordCount": 90,
-            "quoteTokenProportion": 26.15,
-            "qualityScore": 1.6447433149069974,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+            "bht": "In their missionary journey, Paul and his companions delivered the decrees of the apostles to the churches in various cities. This act, indicative of Paul's loyalty to the Jerusalem compact, aimed to establish and strengthen the faith of the believers. By providing these guidelines, Paul sought to ensure that the churches would observe and follow the determinations ordained by the apostles, fostering unity and increasing their numbers. This step played a crucial role in maintaining peace and upholding the charter of Gentile freedom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5951649155156982,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.38,
             "commentatorTierSimilarities": [
-                36.61,
-                27.7,
-                35.69
+                32.3,
+                25.33,
+                42.36
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul's visits to the elders in Antioch and his delivery of the decrees in cities like Iconium and Pisidian Antioch underscored his loyalty to the decisions made in Jerusalem. By establishing and increasing the number of churches, these actions served as a charter of Gentile freedom. The decrees provided guidance for the believers, emphasizing the permanence of the apostolic conclusions and promoting unity among the churches. They addressed important matters such as abstinence from things offered to idols, blood, things strangled, and fornication.",
-            "wordCount": 84,
-            "quoteTokenProportion": 27.12,
-            "qualityScore": 1.6694297078831408,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "bht": "On their missionary journey, Paul and his companions delivered the decrees established by the apostles to the churches in different cities. This act showcased Paul's loyalty to the Jerusalem compact and aimed to strengthen the faith of the believers. By providing these guidelines, Paul ensured that the churches would observe and follow the determinations ordained by the apostles. This served to foster unity among the churches and increase their numbers. It was an essential step in maintaining peace and upholding the charter of Gentile freedom.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5877764466193751,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
             "commentatorTierSimilarities": [
-                34.41,
-                28.12,
-                37.46
+                31.05,
+                25.25,
+                43.7
             ],
             "generationAttempt": 5
         }

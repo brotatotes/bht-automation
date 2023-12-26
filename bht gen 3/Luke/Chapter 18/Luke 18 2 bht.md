@@ -1,7 +1,7 @@
 # Luke 18:2 Commentary Help Text
 
 ## BHT:
-In this narrative, we encounter a judge who fearlessly defied God and callously disregarded the opinions and rights of others. This judge's lack of reverence and shame is exemplified in his treatment of a vulnerable widow. Our Lord indirectly guides us to understand the qualities essential for a judge, emphasizing the significance of both fearing God and respecting the rights of individuals. The judge's unprincipled behavior demonstrates the absence of religious and social restraints, rendering him unsuitable for the position of a ruler or magistrate.
+The judge in this account had no fear of God and paid no attention to the opinions or rights of others. Defying God's vengeance and despising the views of men, this judge displayed a complete disregard for everyone. The judge's character was lacking in reverence and respect, failing to meet the standards of a righteous and fair judge who ought to fear God and regard the rights of others. This judge's behavior showcased a selfish and reckless attitude, devoid of any consideration for the people they were meant to serve.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -20,16 +20,16 @@ widow—weak, desolate,
 ### Albert Barnes:
 1. "He that has no regard for God can be expected to have none for man."
 2. "Our Lord has here indirectly taught us what ought to be the character of a judge that he 'should' fear God and regard the rights of man."
-3. "Regarded man - cared not for man. Had no respect for the opinions or the rights of man."
+3. "Had no respect for the opinions or the rights of man."
 
 ### Marvin Vincent:
 1. Regarded [εντρεπομενος] . See on Matthew 21:37.
 
 
 ### Philip Schaff:
-1. "Who feared not God, and regarded not man." 
-2. "The expression is not an uncommon designation of an unprincipled and reckless person."
-3. "Religious motives and even social influences set no check to his selfish recklessness."
+1. "The expression is not an uncommon designation of an unprincipled and reckless person."
+2. "Religious motives and even social influences set no check to his selfish recklessness."
+3. "The ordinary municipal judge, appointed in accordance with Deuteronomy 16:18."
 
 ### Archibald T. Robertson:
 1. "This was a 'hard-boiled' judge who knew no one as his superior."
@@ -37,48 +37,47 @@ widow—weak, desolate,
 3. "Regarded not (μη εντρεπομενος)."
 
 ### John Gill:
-1. "There was in a city a judge...which feared not God, neither regarded man."
-2. "The judge in the text...was destitute of the fear of God...and such an one is very unfit to be a judge."
-3. "Civil magistrates, and rulers of every sort, ought to be just, ruling in the fear of God."
+1. "Although there is no judicature less than three, it is lawful for one to judge, according to the law, as it is said, Leviticus 19:15 'In righteousness shalt thou judge thy neighbour.'"
+2. "But the judge in the text came greatly short of these qualifications: his character follows, which feared not God, neither regarded man."
+3. "Indeed, judges ought not to regard men in judgment; that is, to respect the persons of men, and through affection, or flattery, or bribes, wrest judgment."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:21:15
+- Timestamp: 12-25-2023 19:30:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 30.51%
-- BHT Quality Score: 1.7566533759856715
+- BHT Word Count: 93
+- BHT Commentary Usage: 32.14%
+- BHT Quality Score: 1.9319552126662138
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'absence', 'and', 'behavior', 'both', 'callously', 'defied', 'demonstrates', 'disregarded', 'emphasizing', 'encounter', 'essential', 'exemplified', 'fearing', 'fearlessly', 'for', 'god', 'guides', 'him', 'his', 'in', 'indirectly', 'individuals', 'is', 'judge', 'lack', 'lord', 'magistrate', 'narrative', 'of', 'opinions', 'or', 'others', 'our', 'position', 'qualities', 'religious', 'rendering', 'respecting', 'restraints', 'reverence', 'rights', 'ruler', 's', 'shame', 'significance', 'social', 'the', 'this', 'to', 'treatment', 'understand', 'unprincipled', 'unsuitable', 'us', 'vulnerable', 'we', 'who', 'widow']
-- ChatGPT injected words (significant words only) (41):
-	['absence', 'behavior', 'callously', 'defied', 'demonstrates', 'disregarded', 'emphasizing', 'encounter', 'essential', 'exemplified', 'fearing', 'fearlessly', 'god', 'guides', 'indirectly', 'individuals', 'judge', 'lack', 'lord', 'magistrate', 'narrative', 'opinions', 'position', 'qualities', 'religious', 'rendering', 'respecting', 'restraints', 'reverence', 'rights', 'ruler', 's', 'shame', 'significance', 'social', 'treatment', 'understand', 'unprincipled', 'unsuitable', 'vulnerable', 'widow']
+- ChatGPT injected words (56):
+	['a', 'account', 'and', 'any', 'attention', 'attitude', 'behavior', 'character', 'complete', 'consideration', 'defying', 'despising', 'devoid', 'displayed', 'disregard', 'everyone', 'failing', 'fair', 'fear', 'for', 'god', 'had', 'in', 'judge', 'lacking', 'meant', 'meet', 'men', 'no', 'of', 'opinions', 'or', 'others', 'ought', 'paid', 'people', 'reckless', 'regard', 'respect', 'reverence', 'righteous', 'rights', 's', 'selfish', 'serve', 'showcased', 'standards', 'the', 'they', 'this', 'to', 'vengeance', 'views', 'was', 'were', 'who']
+- ChatGPT injected words (significant words only) (38):
+	['account', 'attention', 'attitude', 'behavior', 'character', 'complete', 'consideration', 'defying', 'despising', 'devoid', 'displayed', 'disregard', 'failing', 'fair', 'fear', 'god', 'judge', 'lacking', 'meant', 'meet', 'men', 'opinions', 'ought', 'paid', 'people', 'reckless', 'regard', 'respect', 'reverence', 'righteous', 'rights', 's', 'selfish', 'serve', 'showcased', 'standards', 'vengeance', 'views']
 
 ### Logs
-- Attempt 1 BHT: In this verse, we see a judge who feared not God and neither regarded man, defying God's vengeance and disregarding the opinions of others. The judge's behavior towards a weak and defenseless widow reflects his lack of reverence and shame. Our Lord indirectly teaches us through this judge the character a judge should have - one that fears God and respects the rights of others. This judge, however, had no regard for God or man and his selfish recklessness prevailed, setting no check to his unprincipled behavior. It is clear that a judge who lacks the fear of God is unfit for the role, as civil magistrates and rulers should rule in the fear of God, being just and fair to all.
-- 🔄 Luke 18:2 (attempt 1, 123 words, 43.42% quotes quality score: 1.9684297794211085, V2 normalized quality score: 56.79, commentator tiers 1-3: 12.51%, 40.81%, 46.68%) 
+- Attempt 1 BHT: The judge in this verse exhibited a complete lack of fear for God and disregard for the opinions and rights of others. This judge was unprincipled, selfish, and reckless, paying no attention to the vengeance of God or the opinions of men. He was a hard-hearted judge who knew no one as his superior and possessed no reverence for God or man. This judge's character fell significantly short of what a judge should be - one who fears God and regards the rights of others. Despite the expectation for judges to judge with righteousness and fairness, this judge failed to demonstrate any respect for the people he was meant to serve.
+- 🔄 Luke 18:2 (attempt 1, 112 words, 34.38% quotes quality score: 2.0320331477552616, V2 normalized quality score: 58.91, commentator tiers 1-3: 15.13%, 35.18%, 49.69%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this passage, we encounter a judge who neither feared God nor regarded man, displaying a complete disregard for divine consequences and opinions of others. The judge's lack of reverence and shame is evident in his treatment of a helpless widow. Our Lord's teachings indirectly highlight the essential qualities of a judge, emphasizing the importance of both fearing God and respecting the rights of others. This unprincipled judge's behavior serves as a stark reminder that rulers, including civil magistrates, should govern justly and with the fear of God.
-- 🔄 Luke 18:2 (attempt 2, 91 words, 31.25% quotes quality score: 1.8419047574342848, V2 normalized quality score: 52.58, commentator tiers 1-3: 15.02%, 37.9%, 47.08%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: The judge in this passage showed complete disregard for God and others, defying God's wrath and despising the opinions of men. In his unprincipled and reckless behavior, he demonstrated no fear or reverence for anyone. Yet, a judge should possess qualities of righteousness and fairness, fearing God and respecting the rights of others. Unfortunately, this judge fell far short of these ideals, showing no regard for the people he was meant to serve.
+- 🔄 Luke 18:2 (attempt 2, 74 words, 33.96% quotes quality score: 1.805703613462732, V2 normalized quality score: 51.38, commentator tiers 1-3: 13.17%, 36.89%, 49.95%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: In this account, we witness a judge who showed no fear towards God and disregarded the rights and opinions of others. His conduct lacked reverence and shame, as seen in his treatment of a defenseless widow. This serves as a reminder of the qualities a judge ought to possess - a reverence for God and a respect for the rights of others. The judge's reckless behavior reveals his lack of principles and disregard for religious and social influences. Such disregard renders him unfit for his role as a ruler.
-- 🔄 Luke 18:2 (attempt 3, 89 words, 31.48% quotes quality score: 1.7058550389257694, V2 normalized quality score: 48.06, commentator tiers 1-3: 17.68%, 42.54%, 39.78%) 
+- Attempt 3 BHT: The judge described here exhibited a complete lack of fear for God and disregard for the opinions and rights of others. This judge was unprincipled, selfish, and reckless, paying no attention to the vengeance of God or the opinions of men. He was a hard-hearted judge who knew no one as his superior and possessed no reverence for God or man. This judge's character fell significantly short of what a judge should be - one who fears God and regards the rights of others. Despite the expectation for judges to judge with righteousness and fairness, this judge failed to demonstrate any respect for the people he was meant to serve.
+- 🔄 Luke 18:2 (attempt 3, 111 words, 34.38% quotes quality score: 1.9972043466747618, V2 normalized quality score: 57.75, commentator tiers 1-3: 14.23%, 35.71%, 50.06%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this narrative, we encounter a judge who fearlessly defied God and callously disregarded the opinions and rights of others. This judge's lack of reverence and shame is exemplified in his treatment of a vulnerable widow. Our Lord indirectly guides us to understand the qualities essential for a judge, emphasizing the significance of both fearing God and respecting the rights of individuals. The judge's unprincipled behavior demonstrates the absence of religious and social restraints, rendering him unsuitable for the position of a ruler or magistrate.
-- 🔄 Luke 18:2 (attempt 4, 87 words, 30.51% quotes quality score: 1.7566533759856715, V2 normalized quality score: 49.75, commentator tiers 1-3: 16.31%, 39.58%, 44.12%) 
+- Attempt 4 BHT: The judge in this verse showed no fear or regard for God and others, defying God's wrath and disregarding the opinions of men. This judge lacked principle and acted recklessly, with no reverence for anyone. However, a judge should possess righteousness, fairness, and a fear of God while respecting the rights of others. Unfortunately, this judge fell far short of these expectations and showed no regard for those he was meant to serve.
+- 🔄 Luke 18:2 (attempt 4, 74 words, 40.82% quotes quality score: 1.8819393205616957, V2 normalized quality score: 53.92, commentator tiers 1-3: 13.62%, 35.83%, 50.56%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: The judge in this account had no fear of God and paid no attention to the opinions or rights of others. Defying God's vengeance and despising the views of men, this judge displayed a complete disregard for everyone. The judge's character was lacking in reverence and respect, failing to meet the standards of a righteous and fair judge who ought to fear God and regard the rights of others. This judge's behavior showcased a selfish and reckless attitude, devoid of any consideration for the people they were meant to serve.
+- 🔄 Luke 18:2 (attempt 5, 93 words, 32.14% quotes quality score: 1.9319552126662138, V2 normalized quality score: 55.58, commentator tiers 1-3: 14.65%, 37.14%, 48.21%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The judge in this account displayed a complete lack of fear towards God and utter disregard for the rights and opinions of others. His actions highlighted his absence of reverence and shame, particularly in his treatment of a vulnerable widow. Through this story, our Lord indirectly illustrates the qualities that a judge should possess - a genuine fear of God and a respectful regard for the rights of individuals. This judge's reckless behavior exemplifies a disregard for both religious motivations and social influences, underscoring his unsuitability for holding a position of authority.
-- 🔄 Luke 18:2 (attempt 5, 92 words, 25.86% quotes quality score: 1.6861819583466429, V2 normalized quality score: 47.41, commentator tiers 1-3: 13.39%, 45.96%, 40.65%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 18:2 bht prompt v0.8 (87 words, 30.51% quotes)
-- quality score: 1.7566533759856715, V2 normalized quality score: 49.75, commentator tiers 1-3: 16.31%, 39.58%, 44.12%)
+- ✅ Luke 18:2 bht prompt v0.8 (93 words, 32.14% quotes)
+- quality score: 1.9319552126662138, V2 normalized quality score: 55.58, commentator tiers 1-3: 14.65%, 37.14%, 48.21%)

@@ -1,13 +1,13 @@
 # Luke 22:34 Commentary Help Text
 
 ## BHT:
-This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now rely on common resources and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, signifying steadfastness, contrasts sharply with his conduct. The cock will not crow until Peter has thrice denied knowing Jesus, showing that this denial will happen before the usual time of cock crowing in the morning.
+This is the only place in the Gospels where Jesus directly addresses Peter by his name, emphasizing the importance of what He is about to say. Jesus is warning the apostles of the dangers they will face, urging them to use common resources and even defend themselves with a sword. All four Gospels relay Jesus' prophetic message to Peter that he will deny knowing Him three times. The significance of Jesus referring to Peter by his steadfast name while foretelling his denial highlights the contrast between his name and his future actions.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "This is the only place in the Gospels where our Lord addresses Peter by the name Peter."
 2. "The meaning of our Lord in this much-controverted passage appears to be, to forewarn the Apostles of the outward dangers which will await them henceforward in their mission."
-3. "unlike the time when He sent them forth without earthly appliances, upheld by His special Providence, they must now make use of common resources for sustenance, yea, and even of the sword itself for defence."
+3. "They must now make use of common resources for sustenance, yea, and even of the sword itself for defence."
 
 ### Jamieson-Fausset-Brown:
 1. 34. cock . . . crow—"twice"
@@ -26,56 +26,54 @@ Deny. See on Mark 14:30.
 
 
 ### Archibald T. Robertson:
-1. "Thrice" is in all four Gospels here for they all give this warning to Peter.
+1. "Thrice" is in all four Gospels here for they all give this warning to Peter. 
 2. Peter will even deny knowing Jesus.
-3. Peter will even deny knowing Jesus (ειδενα).
+3. Peter will thrice deny that he knows Jesus.
 
 ### John Gill:
 1. "I tell thee, Peter, the cock shall not crow this day."
-2. "The cock shall not crow this day before that thou shalt thrice deny that thou knowest me."
+2. "A natural day includes both night and day."
 3. "Before that thou shalt thrice deny that thou knowest me."
 
 ### John Wesley:
-1. "It shall not be the time of cock crowing this day."
+1. "It shall not be the time of cock crowing this day." 
 2. "The common time of cock crowing (which is usually about three in the morning) probably did not come till after the cock which Peter heard had crowed twice, if not oftener."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-25-2023 19:21:22
+- Timestamp: 12-25-2023 20:08:35
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 41.18%
-- BHT Quality Score: 1.7367010891822638
+- BHT Word Count: 92
+- BHT Commentary Usage: 47.62%
+- BHT Quality Score: 1.7815756648173884
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['addresses', 'all', 'and', 'apostles', 'before', 'by', 'cock', 'common', 'conduct', 'contrasts', 'crow', 'crowing', 'dangers', 'defense', 'denial', 'denied', 'emphasizing', 'even', 'face', 'for', 'forewarning', 'four', 'gospels', 'happen', 'has', 'his', 'in', 'is', 'jesus', 'knowing', 'lord', 'mission', 'morning', 'must', 'name', 'not', 'now', 'of', 'on', 'only', 'our', 'peter', 'place', 'rely', 'repeated', 'resources', 's', 'sharply', 'showing', 'significance', 'signifying', 'steadfastness', 'sword', 'that', 'the', 'their', 'they', 'this', 'thrice', 'time', 'unlike', 'until', 'use', 'usual', 'warning', 'where', 'will', 'with']
-- ChatGPT injected words (significant words only) (40):
-	['addresses', 'apostles', 'cock', 'common', 'conduct', 'contrasts', 'crow', 'crowing', 'dangers', 'defense', 'denial', 'denied', 'emphasizing', 'face', 'forewarning', 'gospels', 'happen', 'jesus', 'knowing', 'lord', 'mission', 'morning', 'peter', 'place', 'rely', 'repeated', 'resources', 's', 'sharply', 'showing', 'significance', 'signifying', 'steadfastness', 'sword', 'thrice', 'time', 'unlike', 'use', 'usual', 'warning']
+- ChatGPT injected words (63):
+	['a', 'about', 'actions', 'addresses', 'all', 'and', 'apostles', 'between', 'by', 'common', 'contrast', 'dangers', 'defend', 'denial', 'deny', 'directly', 'emphasizing', 'even', 'face', 'foretelling', 'four', 'future', 'gospels', 'he', 'highlights', 'him', 'his', 'importance', 'in', 'is', 'jesus', 'knowing', 'message', 'name', 'of', 'only', 'peter', 'place', 'prophetic', 'referring', 'relay', 'resources', 'say', 'significance', 'steadfast', 'sword', 'that', 'the', 'them', 'themselves', 'they', 'this', 'three', 'times', 'to', 'urging', 'use', 'warning', 'what', 'where', 'while', 'will', 'with']
+- ChatGPT injected words (significant words only) (33):
+	['actions', 'addresses', 'apostles', 'common', 'contrast', 'dangers', 'defend', 'denial', 'deny', 'directly', 'emphasizing', 'face', 'foretelling', 'future', 'gospels', 'highlights', 'importance', 'jesus', 'knowing', 'message', 'peter', 'place', 'prophetic', 'referring', 'relay', 'resources', 'significance', 'steadfast', 'sword', 'times', 'urging', 'use', 'warning']
 
 ### Logs
-- Attempt 1 BHT: This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now rely on common resources and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, signifying steadfastness, contrasts sharply with his conduct. The cock will not crow until Peter has thrice denied knowing Jesus, showing that this denial will happen before the usual time of cock crowing in the morning.
-- 🔄 Luke 22:34 (attempt 1, 98 words, 41.18% quotes quality score: 1.7367010891822638, V2 normalized quality score: 49.09, commentator tiers 1-3: 36.95%, 28.87%, 34.17%) 
+- Attempt 1 BHT: This is the only place in the Gospels where Jesus directly addresses Peter by his name, emphasizing the importance of what He is about to say. Jesus is warning the apostles of the dangers they will face, urging them to use common resources and even defend themselves with a sword. All four Gospels relay Jesus' prophetic message to Peter that he will deny knowing Him three times. The significance of Jesus referring to Peter by his steadfast name while foretelling his denial highlights the contrast between his name and his future actions.
+- 🔄 Luke 22:34 (attempt 1, 92 words, 47.62% quotes quality score: 1.7815756648173884, V2 normalized quality score: 50.58, commentator tiers 1-3: 48.66%, 32.24%, 19.1%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: This is the only instance where Jesus addresses Peter by name, forewarning the Apostles of the dangers they will encounter in their mission. They must now rely on common resources and even use the sword for defense. The warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, symbolizing steadfastness, contrasts with his conduct. The cock will not crow until Peter denies Jesus three times, occurring before the usual time of cock crowing in the morning.
-- 🔄 Luke 22:34 (attempt 2, 83 words, 42.62% quotes quality score: 1.684281689970553, V2 normalized quality score: 47.34, commentator tiers 1-3: 37.4%, 26.69%, 35.91%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now make use of common resources for sustenance and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The cock will not crow until Peter denies Jesus three times, occurring before the usual time of cock crowing in the morning.
-- 🔄 Luke 22:34 (attempt 3, 85 words, 43.1% quotes quality score: 1.722566562383275, V2 normalized quality score: 48.62, commentator tiers 1-3: 37.83%, 22.45%, 39.72%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Contrary to previous instances, this is the only time in the Gospels where Jesus addresses Peter by his given name, forewarning the Apostles of the imminent external dangers they will encounter in their mission. They are now required to rely on common resources and even employ the sword for self-defense. This warning of Peter's denial is repeated in all four Gospels, underscoring its significance. The crowing of the cock will not occur until Peter has denied Jesus three times, transpiring prior to the customary daybreak crowing.
-- 🔄 Luke 22:34 (attempt 4, 88 words, 40.91% quotes quality score: 1.6625154524532335, V2 normalized quality score: 46.62, commentator tiers 1-3: 38.91%, 22.31%, 38.78%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In this unique passage, Jesus addresses Peter by his given name, Peter, as he warns the Apostles about the forthcoming external dangers they will face during their mission. Unlike before, they will now have to rely on common resources for sustenance and even employ the sword for self-defense. This warning of Peter's denial is found in all four Gospels, emphasizing its significance. The crowing of the cock will not happen before Peter denies Jesus three times, even occurring prior to the usual time of daybreak crowing.
-- 🔄 Luke 22:34 (attempt 5, 88 words, 41.79% quotes quality score: 1.718039545808613, V2 normalized quality score: 48.47, commentator tiers 1-3: 38.89%, 24.48%, 36.63%) 
+- Attempt 2 BHT: Jesus' direct address to Peter by name in this passage highlights the gravity of his warning. He is forewarning the apostles of the dangers they will face in their mission, prompting them to rely on common resources and even use the sword for defense. His prophecy to Peter, mentioned in all four Gospels, emphasizes that Peter will deny knowing Jesus three times. By using Peter's steadfast name during this prophetic message, Jesus highlights the contrast between Peter's name and his future actions.
+- 🔄 Luke 22:34 (attempt 2, 84 words, 42.37% quotes quality score: 1.7403164442492516, V2 normalized quality score: 49.21, commentator tiers 1-3: 47.79%, 36.36%, 15.85%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- ✅ Luke 22:34 bht prompt v0.8 (98 words, 41.18% quotes)
-- quality score: 1.7367010891822638, V2 normalized quality score: 49.09, commentator tiers 1-3: 36.95%, 28.87%, 34.17%)
+- Attempt 3 BHT: Jesus' direct address to Peter by name emphasizes the significance of his warning. By forewarning the apostles about the dangers they will face in their mission, Jesus prompts them to rely on common resources and defend themselves if necessary. The prophecy specifically to Peter, mentioned in all four Gospels, emphasizes that he will deny knowing Jesus three times. Jesus' use of Peter's steadfast name during this prophetic message highlights the contrast between his name and his future actions.
+- 🔄 Luke 22:34 (attempt 3, 79 words, 41.38% quotes quality score: 1.7175774216967183, V2 normalized quality score: 48.45, commentator tiers 1-3: 48.61%, 34.71%, 16.69%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: This is the only place where Jesus addresses Peter by name, signifying the importance of his warning. Jesus forewarns the apostles about the dangers they will face in their mission, urging them to use common resources and even defend themselves. In all four Gospels, Jesus prophesies that Peter will deny knowing Him three times. The use of Peter's steadfast name in this prophecy underscores the contrast between his name and his future actions.
+- 🔄 Luke 22:34 (attempt 4, 74 words, 46.3% quotes quality score: 1.7541258609916834, V2 normalized quality score: 49.67, commentator tiers 1-3: 48.8%, 34.47%, 16.72%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Jesus' direct address to Peter by name brings emphasis to the warning He is about to deliver. By forewarning the apostles of the dangers they will face in their mission, Jesus encourages them to rely on common resources and even employ the sword for self-defense. This prophecy to Peter, found in all four Gospels, emphasizes his forthcoming denials of knowing Jesus three times. Jesus' use of Peter's steadfast name within this prophetic statement underscores the contrast between Peter's name and his future actions.
+- 🔄 Luke 22:34 (attempt 5, 86 words, 38.71% quotes quality score: 1.7074638714423704, V2 normalized quality score: 48.12, commentator tiers 1-3: 48.95%, 35.29%, 15.77%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 22:34 bht prompt v0.8 (92 words, 47.62% quotes)
+- quality score: 1.7815756648173884, V2 normalized quality score: 50.58, commentator tiers 1-3: 48.66%, 32.24%, 19.1%)

@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-25-2023 19:19:12",
+    "timestamp": "12-25-2023 20:08:40",
     "verseRef": "John 4:54",
     "bestBHT": {
-        "bht": "By both, half-belief was strengthened into faith in Him: but in each case it is of a different kind. The inner kernel of the history is the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord. The external point brought out in the commendation there, 'I have not seen such faith, no, not in Israel,' is not only different from, but stands in absolute contrast with, the depreciating charge here, 'Except ye see signs and wonders, ye will not believe.'",
-        "wordCount": 94,
-        "quoteTokenProportion": 44.62,
-        "qualityScore": 1.7276770644142885,
-        "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+        "bht": "This second miracle in Galilee served to strengthen and deepen faith in Jesus, as it manifested his glory and assured believers of his power and love. While the first sign in Cana led to the development of faith, this second miracle evoked a noble confession of divine power, indicating strong and humble faith. Its significance lies not only in its occurrence in Galilee but also in its role in calling forth faith and distinguishing it from previous miracles, whether they took place in Cana or Jerusalem.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.7991404715568504,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.16,
         "commentatorTierSimilarities": [
-            51.69,
-            28.69,
-            19.62
+            31.06,
+            33.05,
+            35.89
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
+            "Certainly, it seems to me, on account of the part which this miracle bore in the calling ont and assuring of faith by the manifestation of His glory, as that first one had done before.",
             "By both, half-belief was strengthened into faith in Him: but in each case it is of a different kind.",
-            "The inner kernel of the history is, in our case here,\u2014the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord.",
-            "And the external point brought out in the commendation there, 'I have not seen such faith, no, not in Israel,' is not only different from, but stands in absolute contrast with, the depreciating charge here, 'Except ye see signs and wonders, ye will not believe.'"
+            "The inner kernel of the history is, in our case here,\u2014the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord; in the other, the commendation of a noble confession of our Lord\u2019s divine power, indicating great strength and grasp of faith, and inducing the greatest personal humility."
         ],
         "Philip Schaff": [
             "The two points upon which our attention is fixed seem to be (1) that this miracle was wrought in Galilee; (2) that it was a second miracle there.",
@@ -26,13 +26,14 @@
             "It is not necessary to discuss the question whether this miracle is identical with that related in Matthew 8:5-13; Luke 7:2-10. We may wonder that such a question was ever raised."
         ],
         "Archibald T. Robertson": [
-            "This again a second sign did Jesus having come out of Judea into Galilee.",
+            "The second sign that (\u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03bf\u03bd \u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd).",
+            "No article, simply predicate accusative, 'This again a second sign did Jesus having come out of Judea into Galilee.'",
             "The first one was also in Cana (John 2:1), but many were wrought in Jerusalem also (John 2:23)."
         ],
         "John Gill": [
             "This [is] again the second miracle [that] Jesus did....",
-            "when he was come out of Judea into Galilee; this was the first he wrought, after his coming out of Judea into Galilee.",
-            "was the second that he wrought in Cana of Galilee; see John 2:11."
+            "When he was come out of Judea into Galilee; this was the first he wrought, after his coming out of Judea into Galilee...",
+            "....and was the second that he wrought in Cana of Galilee; see John 2:11."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -52,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "By both, half-belief was strengthened into faith in Him: but in each case it is of a different kind. The inner kernel of the history is the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord. The external point brought out in the commendation there, 'I have not seen such faith, no, not in Israel,' is not only different from, but stands in absolute contrast with, the depreciating charge here, 'Except ye see signs and wonders, ye will not believe.' This again a second sign did Jesus having come out of Judea into Galilee.",
-            "wordCount": 108,
-            "quoteTokenProportion": 42.67,
-            "qualityScore": 1.9155593138557439,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "bht": "This second miracle in Galilee, following Jesus' rejection by his own people, holds the purpose of strengthening weak faith and deepening conviction in his power and love. While the first sign in Cana birthed faith, this second one commends a noble confession of divine power, displaying strong and humble faith. The significance lies not only in its occurrence in Galilee, but also in its role in calling forth and assuring faith, manifesting Jesus' glory, and distinguishing it from previous miracles. Such miracles, whether in Cana or Jerusalem, constantly revealed Jesus' power and invited faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7737949346793622,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
             "commentatorTierSimilarities": [
-                44.66,
-                26.48,
-                28.86
+                31.33,
+                33.62,
+                35.05
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "By both, half-belief was strengthened into faith in Him: but in each case it is of a different kind. The inner kernel of the history is the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord. The external point brought out in the commendation there, 'I have not seen such faith, no, not in Israel,' is not only different from, but stands in absolute contrast with, the depreciating charge here, 'Except ye see signs and wonders, ye will not believe.'",
-            "wordCount": 94,
-            "quoteTokenProportion": 44.62,
-            "qualityScore": 1.7276770644142885,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+            "bht": "This second miracle in Galilee was meant to strengthen and deepen faith in Jesus, following his rejection by his own people. It was a distinct moment of calling forth and assuring faith, as it manifested his glory and differentiated it from previous miracles. By elevating weak faith into a deep conviction of Jesus' power and love, it commended a noble confession of divine power with strong and humble faith. This miracle carried significant weight, as it happened in Galilee, after Jesus had left his own country.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.7607477898691783,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.89,
             "commentatorTierSimilarities": [
-                51.69,
-                28.69,
-                19.62
+                28.74,
+                35.44,
+                35.83
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In John 4:54, we see the transformation of a weak and wonder-seeking faith into a deep conviction of the power and love of Jesus. Despite the contrast between the commendation of such unwavering faith and the charge to believe only when seeing signs and wonders, Jesus performs a second sign in Galilee. This miracle signifies His acceptance by the Galileans after being rejected by His own people. It is a testament to the different kinds of faith and the transformative power of encountering Jesus.",
-            "wordCount": 84,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.57164226537919,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+            "bht": "This second miracle in Galilee, following Jesus' rejection by his own people, holds the purpose of strengthening weak faith and deepening conviction in his power and love. While the first sign in Cana birthed faith, this second one commends a noble confession of divine power, displaying strong and humble faith. The significance lies not only in its occurrence in Galilee but also in its role in calling forth and assuring faith, manifesting Jesus' glory, and distinguishing it from previous miracles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7559233452774614,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
             "commentatorTierSimilarities": [
-                35.16,
-                31.42,
-                33.42
+                33.81,
+                33.53,
+                32.66
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "By both, half-belief was strengthened into faith in Him: but in each case, it is of a different kind. The inner kernel of the history is the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord. The external point brought out in the commendation is not only different from, but stands in absolute contrast with the depreciating charge here. This again a second sign did Jesus perform, underscoring the significance of this miracle in Galilee.",
-            "wordCount": 89,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.6809874191609455,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.23,
+            "bht": "This second miracle in Galilee served to strengthen and deepen faith in Jesus, as it manifested his glory and assured believers of his power and love. While the first sign in Cana led to the development of faith, this second miracle evoked a noble confession of divine power, indicating strong and humble faith. Its significance lies not only in its occurrence in Galilee but also in its role in calling forth faith and distinguishing it from previous miracles, whether they took place in Cana or Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7991404715568504,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
             "commentatorTierSimilarities": [
-                42.0,
-                31.84,
-                26.16
+                31.06,
+                33.05,
+                35.89
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The transformation of a weak and wonder-seeking faith into a deep conviction of the power and love of our Lord is evident in John 4:54. Despite the contrast between the commendation and the charge to believe only when seeing signs and wonders, Jesus performs a second sign in Galilee. This miracle signifies His acceptance by the Galileans after being rejected, emphasizing the different kinds of faith and the transformative encounter with Jesus.",
-            "wordCount": 72,
-            "quoteTokenProportion": 33.96,
-            "qualityScore": 1.657125227741747,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "bht": "This second miracle in Galilee was a crucial moment in strengthening and deepening faith in Jesus. It served as a manifestation of His glory and a means of assuring believers of His power and love. While the first sign in Cana brought about the development of faith, this second miracle prompted a noble confession of divine power, revealing strong and humble faith. Its significance lies not only in its occurrence in Galilee but also in its role in calling forth and solidifying faith, setting it apart from previous miracles in Cana and Jerusalem.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.6541661865267758,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
             "commentatorTierSimilarities": [
-                35.72,
-                32.73,
-                31.55
+                31.02,
+                32.65,
+                36.33
             ],
             "generationAttempt": 5
         }

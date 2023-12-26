@@ -1,49 +1,49 @@
 {
-    "timestamp": "12-25-2023 19:20:30",
+    "timestamp": "12-25-2023 20:08:52",
     "verseRef": "Matthew 27:62",
     "bestBHT": {
-        "bht": "It was no secret that Jesus had mentioned his resurrection, though the disciples may not have fully grasped its meaning. The religious leaders, driven by their hatred and opposition, took swift action to secure the tomb despite the contradiction to their own laws and traditions. The crucifixion took place on a Friday, and the following Sabbath was a high day, marking the start of the feast of unleavened bread. The meticulous efforts of the religious leaders reveal their determination to prevent any tampering with Jesus's body.",
-        "wordCount": 87,
-        "quoteTokenProportion": 34.38,
-        "qualityScore": 1.759589866146519,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.85,
+        "bht": "The religious leaders were aware of Jesus' prophecy and took precautions to secure the tomb. After Jesus' crucifixion, the fact that He had made such a statement would have circulated among the people, causing concern among the chief priests and Pharisees. On the day after the preparation, which was Friday, they sealed the tomb and set a guard. Acting swiftly after the Jewish Sabbath ended, they sought to ensure Jesus' body remained in the tomb.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.7182366933529765,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.47,
         "commentatorTierSimilarities": [
-            32.6,
-            29.64,
-            37.76
+            26.54,
+            38.16,
+            35.3
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The meaning of the saying may have been, and was, hid from the disciples; but the fact of its having been said could be no secret.",
-            "Hatred is keener sighted than love;\u2014that the raising of Lazarus would show, what sort of a thing rising the dead was to be.",
-            "Till we know much more about the circumstances under which, and the scope with which, each Gospel was compiled, all \u00e0 priori arguments of this kind are good for nothing."
+            "Not to lay any stress on John ii. 19, we have the direct prophecy of Matt. xii. 40\u2014and besides this, there would be a rumour current, through the intercourse of the Apostles with others, that He had been in the habit of so saying.",
+            "But surely we cannot argue in this way\u2014for thus every important fact narrated by one Evangelist alone must be rejected\u2014e. g. (which stands in much the same relation) the satisfaction of Thomas,\u2014and other such narrations."
         ],
         "Jamieson-Fausset-Brown": [
-            "The crucifixion took place on the Friday and all was not over till shortly before sunset, when the Jewish sabbath commenced.\" ",
-            "That sabbath day was an high day, being the first day of the feast of unleavened bread.\" ",
-            "They hastened to take their measures."
+            "Now the next day, that followed the day of the preparation\u2014that is, after six o'clock of our Saturday evening.",
+            "The crucifixion took place on the Friday and all was not over till shortly before sunset, when the Jewish sabbath commenced.",
+            "That day being over at six on Saturday evening, they hastened to take their measures."
         ],
         "Albert Barnes": [
-            "The first day of the feast of the Passover was called the day of 'preparation,' because all things were on that day got in readiness for the observances of the paschal week.",
-            "The 'next day' mentioned here does not mean the following day in our acceptation of the word, or the following 'morning,' but the next day in the Jewish way of speaking - that is, after the next day had commenced, or after sundown.",
-            "To suppose them to have waited until the next morning would be absurd, as the disciples would be as likely to steal him away the first night as the second."
+            "The 'next day' mentioned here does not mean the following day in our acceptation of the word, or the following 'morning,' but the next day in the Jewish way of speaking.",
+            "To suppose them to have waited until the next morning would be absurd, as the disciples would be as likely to steal him away the first night as the second.",
+            "The first day of the feast of the Passover was called the day of 'preparation,' because all things were on that day got in readiness for the observances of the paschal week."
         ],
         "John Calvin": [
-            "The resurrection of Christ would undoubtedly have been less manifest, or, at least, they would have had more plausible grounds for denying it, if they had not taken pains to station witnesses at the sepulcher.",
+            "But while they are attempting to do this, they appear rather as if they had expressly intended to bring it forth to the light, that it might be known.",
             "We see then how the Lord not only disappointeth the crafty, but employs even their own schemes as snares for holding them fast, that he may draw and compel them to render obedience to him.",
             "Yet let us observe that God, as if he had hired them for the purpose, employed their services for rendering the glory of Christ more illustrious."
         ],
         "Philip Schaff": [
-            "The morrow, which is the day after the preparation...The first day of the Passover (Friday) was in one sense a Sabbath, hence this designation is more definite.\" ",
+            "The first day of the Passover (Friday) was in one sense a Sabbath, hence this designation is more definite.",
             "While our Lord rested in the tomb, they desecrated the Sabbath, despite their great scrupulousness.",
-            "It is urged that this must have taken place on Friday evening after six o'clock...But their anxiety was about the night preceding the third day...This is accounted for, if we suppose that this incident occurred on Saturday, and not on Friday evening after six o'clock."
+            "It is urged that this must have taken place on Friday evening after six o'clock, since the rulers would guard against the stealing away on the first night as well as on the subsequent one."
         ],
         "John Gill": [
-            "And yet they themselves could leave their devotions... and make the sepulchre sure, sealing the stone, and setting a watch, which were servile works, and, according to their laws and traditions, not to be done on the sabbath day; and yet they scrupled them not, notwithstanding their characters and profession.\" ",
-            "These were the inveterate and implacable enemies of Christ; they took counsel how to put him to death; they employed Judas to betray him... they got him condemned to death, and followed him to the cross, where they mocked him.\" ",
-            "Though he was dead, they feared his resurrection; and though they could not prevent the thing, they consult to hinder the credit of it."
+            "It shows what consciences these men had, who accused the disciples of Christ of a violation of the Sabbath, for plucking a few ears of corn on that day; and sought to kill Jesus, because he healed a man on it, and bid him take up his bed and walk; and yet they themselves could leave their devotions...",
+            "Which were servile works, and, according to their laws and traditions, not to be done on the Sabbath day; and yet they scrupled them not, notwithstanding their characters and profession...",
+            "For though he was dead, they feared his resurrection; and though they could not prevent the thing, they consult to hinder the credit of it."
         ],
         "John Wesley": [
             "The day of preparation was the day before the Sabbath, whereon they were to prepare for the celebration of it.",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples may not have fully understood the meaning behind Jesus's statement, but it was no secret that he had mentioned his resurrection. It is interesting to note that hatred and opposition often have keener insight than love. It is clear that the religious leaders hastened to take measures to secure the tomb, even though their actions contradicted their own laws and traditions. While the crucifixion took place on a Friday, the Sabbath day following it was considered a high day, being the first day of the feast of unleavened bread. This shows the meticulous efforts made by the religious leaders to ensure that the body of Jesus would not be taken or tampered with.",
-            "wordCount": 116,
-            "quoteTokenProportion": 43.37,
-            "qualityScore": 1.657882567922075,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "bht": "After the crucifixion, there was a concern among the religious leaders that Jesus had predicted His resurrection. Although the disciples may not have fully understood what Jesus meant when He spoke of rising after three days, the fact that He had made such a statement would have circulated among the people. Thus, the chief priests and Pharisees, aware of this prophecy, sought to make sure Jesus stayed in the tomb by sealing it and setting a guard. This took place on the day following the preparation day, which was the Friday before the Sabbath. The Sabbath began at six o'clock on Saturday evening, and it was after it ended that the priests and Pharisees took measures to further secure the tomb.",
+            "wordCount": 122,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8772918104489755,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.76,
             "commentatorTierSimilarities": [
-                33.98,
-                30.16,
-                35.86
+                29.42,
+                37.04,
+                33.55
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "It was no secret that Jesus had mentioned his resurrection, though the disciples may not have fully grasped its meaning. The religious leaders, driven by their hatred and opposition, took swift action to secure the tomb despite the contradiction to their own laws and traditions. The crucifixion took place on a Friday, and the following Sabbath was a high day, marking the start of the feast of unleavened bread. The meticulous efforts of the religious leaders reveal their determination to prevent any tampering with Jesus's body.",
-            "wordCount": 87,
-            "quoteTokenProportion": 34.38,
-            "qualityScore": 1.759589866146519,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.85,
+            "bht": "The religious leaders were aware of Jesus' prophecy of resurrection, which would have been known to the disciples as well. Their concern led them to take measures to secure the tomb, setting a guard and sealing it, to prevent Jesus' body from being stolen. This precaution took place on the day after the preparation, which was Friday. The Sabbath began at six o'clock on Saturday evening, prompting the priests and Pharisees to act swiftly once it ended to further ensure the tomb's security.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.682719316704472,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.29,
             "commentatorTierSimilarities": [
-                32.6,
-                29.64,
-                37.76
+                29.06,
+                38.61,
+                32.33
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples may not have comprehended the full significance of Jesus's resurrection statement, but it was no secret that he had spoken of it. The religious leaders acted swiftly to secure the tomb, even though their actions contradicted their own laws and traditions. The crucifixion occurred on a Friday, and the subsequent day, the Sabbath, marked the beginning of the Passover feast. This demonstrates the meticulous efforts made by the religious leaders to ensure the body of Jesus would not be tampered with.",
-            "wordCount": 84,
-            "quoteTokenProportion": 43.55,
-            "qualityScore": 1.7096041419858015,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "bht": "After Jesus' crucifixion, the religious leaders were aware of His prophecy of resurrection. While the disciples may not have fully comprehended the meaning of His words, the fact that He had made such a statement would have become known to others. In response, the chief priests and Pharisees took precautions to secure the tomb, sealing it and setting a guard. This action took place on the day following the preparation day, which was Friday. They acted quickly after the Sabbath ended to further protect the tomb.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.598959946261005,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
             "commentatorTierSimilarities": [
-                30.93,
-                30.87,
-                38.19
+                28.29,
+                37.76,
+                33.95
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The religious leaders were well aware that Jesus spoke of his resurrection, though the disciples may not have fully grasped its meaning. Showing their sharp insight, they quickly took measures to secure the tomb, disregarding their own laws and traditions. The crucifixion took place on a Friday, and the following Sabbath was a significant day as it marked the start of the feast of unleavened bread. The religious leaders' meticulous actions reveal their determination to prevent any tampering with Jesus's body.",
-            "wordCount": 82,
-            "quoteTokenProportion": 35.94,
-            "qualityScore": 1.7196587489825017,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "bht": "The religious leaders were well-aware of Jesus' prophecy regarding His resurrection. Despite the disciples possibly being unaware of the true meaning behind His words, the fact that He had made such a statement would have undoubtedly spread among the people. Consequently, the chief priests and Pharisees took precautions by sealing the tomb and placing a guard, fearing that His followers might attempt to steal His body. These measures were taken on the day after the preparation day, which was Friday, and after the Jewish Sabbath had ended.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.6612334636397614,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.58,
             "commentatorTierSimilarities": [
-                32.41,
-                30.43,
-                37.16
+                30.3,
+                34.38,
+                35.32
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The religious leaders showed great vigilance by securing the tomb, though their actions contradicted their own laws. While the disciples may not have fully understood, it was no secret that Jesus had spoken of his resurrection. The crucifixion occurred on a Friday, followed by the Sabbath, which marked the beginning of the feast of unleavened bread. This demonstrates the religious leaders' meticulous efforts to ensure that the body of Jesus would not be tampered with or stolen.",
-            "wordCount": 77,
-            "quoteTokenProportion": 42.37,
-            "qualityScore": 1.7298771602381833,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.86,
+            "bht": "The religious leaders were aware of Jesus' prophecy and took precautions to secure the tomb. After Jesus' crucifixion, the fact that He had made such a statement would have circulated among the people, causing concern among the chief priests and Pharisees. On the day after the preparation, which was Friday, they sealed the tomb and set a guard. Acting swiftly after the Jewish Sabbath ended, they sought to ensure Jesus' body remained in the tomb.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.7182366933529765,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
             "commentatorTierSimilarities": [
-                31.97,
-                30.36,
-                37.68
+                26.54,
+                38.16,
+                35.3
             ],
             "generationAttempt": 5
         }

@@ -1,28 +1,28 @@
 {
-    "timestamp": "12-19-2023 17:49:15",
+    "timestamp": "12-25-2023 19:31:16",
     "verseRef": "Hebrews 9:26",
     "bestBHT": {
-        "bht": "The oblation of Himself made by Christ was a once-for-all offering, bringing His blood to the heavenly Holy of Holies. If sacrifices had greater efficacy in their repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice not only atoned for sins, but also abolished sin itself. The one sacrifice of Christ holds absolute and final value, dealing with sin as a principle, while the Levitical sacrifices were for individual transgressions. Through His appearance, He put away sin completely, removing its stain, guilt, and punishment.",
-        "wordCount": 92,
-        "quoteTokenProportion": 48.61,
-        "qualityScore": 1.9176829392287247,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+        "bht": "The sacrifice of Christ was an offering made once for all before God, with enduring significance. If it required repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice was meant to be remembered forever, putting away sin and dealing with sin as a principle. The one sacrifice of Christ is of absolute and final value, atoning for all sins committed since the foundation of the world.",
+        "wordCount": 72,
+        "quoteTokenProportion": 49.02,
+        "qualityScore": 1.9433749723964575,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.96,
         "commentatorTierSimilarities": [
-            35.02,
-            24.74,
-            40.24
+            36.69,
+            22.38,
+            40.92
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "His oblation of Himself before God was once for all (that is, the bringing in of His blood into the heavenly Holy of Holies), and therefore the preliminary suffering was once for all.\" ",
-            "If there had been greater efficacy in the repetition of the oblation, Christ necessarily would not have been so long promised, but would have been sent immediately after the foundation of the world to suffer, and offer Himself at successive periods.\" ",
-            "He hath not only atoned for all actual sins, but destroyed sin itself."
+            "His oblation of Himself before God was once for all, and therefore the preliminary suffering was once for all.",
+            "If there had been greater efficacy in the repetition of the oblation, Christ necessarily would not have been so long promised, but would have been sent immediately after the foundation of the world to suffer, and offer Himself at successive periods.",
+            "The offering of Christ was a thing once done that it might be thought of for ever."
         ],
         "Albert Barnes": [
             "But now once - Once for all; once in the sense that it is not to be repeated again.\" ",
-            "Hath he appeared - He has been manifested in human form.",
+            "In the end of the world - In the last dispensation or economy; that under which the affairs of the world will be wound up.",
             "To put away sin - To remove the stain of sin from the soul."
         ],
         "Marvin Vincent": [
@@ -31,9 +31,9 @@
             "- 18. A summary restatement of the matters discussed from ch. 8 1."
         ],
         "John Calvin": [
-            "Except then the sacrifice of Christ was efficacious, no one of the fathers would have obtained salvation; for as they were exposed to God\u2019s wrath, a remedy for deliverance would have failed them.",
-            "Here stands a truth declared by the Holy Spirit, that sins are not expiated by a sacrifice except blood be shed.",
-            "He then appeared once for all; for had he done so once or twice, there must have been something defective in the first oblation; but this is inconsistent with fullness."
+            "For had he done so once or twice, there must have been something defective in the first oblation; but this is inconsistent with fullness.",
+            "As we are reconciled to God in no other way than by the one death of Christ, sin is rightly said to be put away or destroyed by it.",
+            "The truth implied... is, that sins since the beginning of the world have alone have been expiated by the blood of Christ."
         ],
         "Archibald T. Robertson": [
             "Since, if that were true, it would be necessary for him to suffer often.",
@@ -41,14 +41,14 @@
             "The sacrifice of Christ dealt with sin as a principle: the Levitical sacrifices with individual transgressions."
         ],
         "John Gill": [
-            "Christ's sufferings were but once, though the virtue of them is always.",
-            "The end of his appearance was, to put away sin; the filth of it, by his blood; the guilt of it, by his atoning sacrifice; and the punishment of it, by his sufferings and death.",
-            "This putting it away is signified by his bearing, carrying, and taking it away; by removing it as far as the east is from the west; by finishing and making an end of it; by crucifying the old man, destroying the body of sin, and by an utter disannulling and abolishing it, as a debt, and as a law."
+            "Christ's sufferings were but once, though the virtue of them is always, both before and after.",
+            "He hath appeared to put away sin by the sacrifice of himself.",
+            "The end of his appearance was, to put away sin; the filth of it, by his blood; the guilt of it, by his atoning sacrifice; and the punishment of it, by his sufferings and death, the penalty of the law."
         ],
         "John Wesley": [
             "By suffering once he atoned for all the sins which had been committed from the foundation of the world.",
             "The sacrifice of Christ divides the whole age or duration of the world into two parts, and extends its virtue backward and forward.",
-            "...from this middle point wherein they meet to abolish both the guilt and power of sin."
+            "In this middle point wherein they meet to abolish both the guilt and power of sin."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The blood of Christ was a once-for-all offering, bringing His oblation before God into the heavenly Holy of Holies. The repetition of sacrifices would have negated the need for Christ to be promised and sent at the foundation of the world. His sacrifice not only atoned for sins but destroyed sin itself. If His sacrifice had not been efficacious, the fathers would not have obtained salvation, as sins are not expiated without the shedding of blood. Christ's sufferings were only once, but their virtue continues to last, offering a final and absolute value. His sacrifice dealt with sin as a principle, while the Levitical sacrifices focused on individual transgressions. Through His appearance, He put away the stain, guilt, and punishment of sin, removing it as far as the east is from the west and completely abolishing it.\n",
-            "wordCount": 140,
-            "quoteTokenProportion": 42.22,
-            "qualityScore": 1.8924019935938374,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.26,
+            "bht": "The offering of Christ was a once-for-all event, meant to be remembered and celebrated for eternity. If His sacrifice had needed to be repeated, He would have been sent immediately after the foundation of the world. But Christ's sacrifice was of absolute and final value, dealing with sin as a principle rather than individual transgressions. The one sacrifice of Christ has put away sin, removing its stain from our souls. His appearance was for the purpose of putting away sin, cleansing it by His blood and atoning sacrifice. By suffering once, He atoned for all sins committed from the foundation of the world, dividing the whole age into two parts and extending the virtue of His sacrifice backward and forward.",
+            "wordCount": 123,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.8597069587487223,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
             "commentatorTierSimilarities": [
-                34.54,
-                23.44,
-                42.03
+                31.69,
+                24.58,
+                43.74
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The oblation of Himself made by Christ was a once-for-all offering, bringing His blood to the heavenly Holy of Holies. If sacrifices had greater efficacy in their repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice not only atoned for sins, but also abolished sin itself. The one sacrifice of Christ holds absolute and final value, dealing with sin as a principle, while the Levitical sacrifices were for individual transgressions. Through His appearance, He put away sin completely, removing its stain, guilt, and punishment.",
-            "wordCount": 92,
-            "quoteTokenProportion": 48.61,
-            "qualityScore": 1.9176829392287247,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "bht": "The offering of Christ was a once-for-all event, necessary for the eternity of remembrance and celebration. If His sacrifice required repetition, He would have been sent immediately after the foundation of the world; however, His sacrifice holds absolute and final value, dealing with sin as a principle and not individual transgressions. By suffering once, He atoned for all sins from the foundation of the world, dividing time into two parts and extending the virtue of His sacrifice backward and forward.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.846742664879479,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
             "commentatorTierSimilarities": [
-                35.02,
-                24.74,
-                40.24
+                34.04,
+                21.71,
+                44.25
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The oblation of Himself made by Christ was a once-for-all offering, bringing His blood into the heavenly Holy of Holies. Christ's sacrifice atones for all sins and destroys sin itself. The repetition of sacrifices would negate the need for Christ to be promised and sent after the foundation of the world. His suffering was only once, but its virtue lasts, offering a final and absolute value. His sacrifice deals with sin as a principle, while the Levitical sacrifices focus on individual transgressions. Through His appearance, He puts away sin completely, removing its stain, guilt, and punishment.",
-            "wordCount": 99,
-            "quoteTokenProportion": 39.13,
-            "qualityScore": 1.848747257636934,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "bht": "The sacrifice of Christ was an offering made once for all before God, with enduring significance. If it required repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice was meant to be remembered forever, putting away sin and dealing with sin as a principle. The one sacrifice of Christ is of absolute and final value, atoning for all sins committed since the foundation of the world.",
+            "wordCount": 72,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.9433749723964575,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
             "commentatorTierSimilarities": [
-                34.84,
-                24.06,
-                41.09
+                36.69,
+                22.38,
+                40.92
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The oblation of Himself made by Christ was a once-for-all offering, bringing His blood into the heavenly Holy of Holies. His sacrifice atoned for all sins and destroyed sin itself. Christ's appearance put away sin completely, removing its stain, guilt, and punishment. The repetition of sacrifices would have negated the need for His promised coming. His suffering was only once, but its virtue endures, offering a final and absolute value. His sacrifice dealt with sin as a principle, while the Levitical sacrifices focused on individual transgressions.",
-            "wordCount": 89,
-            "quoteTokenProportion": 38.1,
-            "qualityScore": 1.845678978131752,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "bht": "The offering of Christ was a once-for-all event that had eternal significance, as it dealt with sin as a principle rather than individual transgressions. His sacrifice put away sin, removing its stain from our souls. By suffering once, Christ atoned for all sins committed from the foundation of the world. His sacrifice divided time into two parts, extending its virtue backward and forward. Through His sacrifice, the guilt, power, and punishment of sin were abolished, reconciling us to God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.8512010079144434,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
             "commentatorTierSimilarities": [
-                34.81,
-                25.22,
-                39.98
+                28.98,
+                24.94,
+                46.08
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Christ's oblation of Himself was a once-for-all offering, bringing His blood into the heavenly Holy of Holies. His sacrifice not only atoned for sins but destroyed sin itself. If sacrifices held greater efficacy in repetition, Christ would not have been promised and sent after the foundation of the world. His suffering was once, yet its virtue remains, representing a final and absolute value. His sacrifice addressed sin as a principle, while the Levitical sacrifices addressed individual transgressions. Through His appearance, He completely put away sin, removing its stain, guilt, and punishment.",
-            "wordCount": 94,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.8551640280531387,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "bht": "The offering of Christ was a once-for-all event with eternal significance, dealing with sin as a principle and putting it away. His sacrifice atoned for all sins from the foundation of the world, dividing time into two parts. By His one sacrifice, the guilt, power, and punishment of sin were abolished, reconciling us to God. With the fullness and absolute value of His sacrifice, Christ appeared to put away sin forever, cleansing our souls and offering us redemption.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8904403425444762,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
             "commentatorTierSimilarities": [
-                34.64,
-                25.31,
-                40.04
+                31.09,
+                22.06,
+                46.85
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:14:05",
+    "timestamp": "12-25-2023 19:31:28",
     "verseRef": "Luke 2:27",
     "bestBHT": {
-        "bht": "Guided by the Spirit, Simeon was led to the temple precisely when Mary was presenting Jesus to the Lord. This divine prompting was a reflection of Simeon's deep spiritual walk with God. Following the customary practices of the law, he made an offering for purification and presented Jesus to God. By the same Spirit, Simeon discerned that Jesus was the promised Messiah. The Spirit of God possessed prior knowledge of Christ's sufferings and the subsequent glory and orchestrated this significant encounter at the temple.",
-        "wordCount": 86,
-        "quoteTokenProportion": 30.91,
-        "qualityScore": 1.8157244286659369,
-        "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+        "bht": "Prompted by the Spirit, Simeon was led to the temple at the very moment when Jesus was being presented to the Lord. Simeon's steps were guided by the Spirit, as he walked with God in his spiritual condition, recognizing Jesus as the promised Messiah. Through the Spirit's direction, Simeon arrived at the temple to perform the customary rituals according to the law. This divine encounter was orchestrated by the Spirit of God, who knew the exact time for Jesus' arrival.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.9891607014244597,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.48,
         "commentatorTierSimilarities": [
-            25.2,
-            38.27,
-            36.53
+            22.59,
+            42.57,
+            34.84
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -22,26 +22,26 @@
         ],
         "Albert Barnes": [
             "By the Spirit - By the direction of the Spirit.",
-            "Into the temple - Into that part of the temple where the public worship was chiefly performed - into the court of the women.",
+            "Into the temple - Into that part of the temple where the public worship was chiefly performed.",
             "The custom of the law - That is, to make an offering for purification, and to present him to God."
         ],
         "Marvin Vincent": [
-            "By the Spirit [\u03b5\u03bd \u03c4\u03c9 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9] . Lit., as Rev., 'in the Spirit:' the Holy Spirit prompting him.\" ",
-            "Indicating rather his spiritual condition, as one who walked with God, than a special divine impulse.\" ",
+            "By the Spirit [\u03b5\u03bd \u03c4\u03c9 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9] . Lit., as Rev., 'in the Spirit :' the Holy Spirit prompting him.\" ",
+            "Indicating rather his spiritual condition, as one who walked with God, than a special divine impulse.",
             "After the custom [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03bf \u03b5\u03b9\u03b8\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd] . Lit., according to that which was wont to be done."
         ],
         "Philip Schaff": [
             "His steps were ordered by the Spirit, in the power of which he lived.",
-            "The Spirit led him thither to meet this child.",
-            "He was enabled, by the same Spirit, to recognize as the Messiah."
+            "The Spirit led him thither to meet this child, whom he was enabled, by the same Spirit, to recognize as the Messiah.",
+            "The Spirit led him thither to meet this child, whom he was enabled, by the same Spirit, to recognize as the Messiah."
         ],
         "Archibald T. Robertson": [
             "A neat Greek and Hebrew idiom difficult to render into English, very common in the LXX.\" ",
             "The articular infinitive and two accusatives (one the object, the other accusative of general reference).",
-            "Luke alone in the N.T. uses either word save \u03b5\u03b8\u03bf\u03c2 in John 19:40, though \u03b5\u03b9\u03c9\u03b8\u03b1 from \u03b5\u03b8\u03c9, occurs also in Matthew 27:15; Mark 10:1."
+            "The perfect passive participle \u03b5\u03b9\u03b8\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd, neuter singular from \u03b5\u03b8\u03b9\u03b6\u03c9 (common Greek verb, to accustom) is used as a virtual substantive like \u03c4\u03bf \u03b5\u03b8\u03bf\u03c2 in Luke 1:8."
         ],
         "John Gill": [
-            "The Spirit of God, who knows and searches all things, even the deep things of God, and could testify beforehand the sufferings of Christ, and the glory that should follow, knew the exact time when Jesus would be brought into the temple...\" ",
+            "The Spirit of God, who knows and searches all things, even the deep things of God, and could testify beforehand the sufferings of Christ, and the glory that should follow, knew the exact time when Jesus would be brought into the temple.",
             "The Persic version spoils the glory of the text, making Simeon's coming into the temple, to be upon a report heard, and not the motion of the Holy Ghost.",
             "To do for him after the custom of the law; as was used to be done in such a case, according to the appointment of the law."
         ],
@@ -66,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Guided by the Spirit, Simeon was led to the temple at the moment when Mary was about to present Jesus to the Lord. Simeon's steps were ordered by the Spirit, who prompted and directed him. This was not a mere divine impulse, but a result of Simeon's close walk with God. Arriving at the temple, Simeon followed the custom of the law, making an offering for purification and presenting Jesus to God. By the same Spirit, Simeon recognized Jesus as the Messiah. The Spirit of God, who knows all things, not only foresaw the sufferings and glory of Christ but also knew the exact time for Jesus to be brought into the temple. It was not a report heard but the motion of the Holy Spirit that brought Simeon to this significant meeting.",
-            "wordCount": 135,
-            "quoteTokenProportion": 36.84,
-            "qualityScore": 1.7971108439815626,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "bht": "Prompted by the Spirit, Simeon was guided to the temple at the precise moment the Virgin Mary was presenting Jesus to the Lord. Simeon's steps were ordered by the Spirit, as he walked with God in his spiritual condition. The Spirit led him to meet the Messiah and recognize Jesus as the promised Savior. Through the Spirit's guidance, Simeon arrived at the temple to perform the customary rituals according to the law. The Spirit of God, who knows all things, orchestrated this divine encounter in perfect accordance with the appointed time.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.9891226348884108,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
             "commentatorTierSimilarities": [
-                23.78,
-                37.92,
-                38.3
+                23.06,
+                43.48,
+                33.46
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Guided by the Spirit, Simeon was led to the temple at the moment when Mary was about to present Jesus to the Lord. This was not a mere divine impulse, but a result of Simeon's close walk with God. Arriving at the temple, Simeon followed the custom of the law, making an offering for purification and presenting Jesus to God. By the same Spirit, Simeon recognized Jesus as the Messiah. The Spirit of God not only foresaw the sufferings and glory of Christ but also knew the exact time for Jesus to be brought into the temple.",
-            "wordCount": 98,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.800992075230659,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.22,
+            "bht": "Prompted by the Spirit, Simeon was led to the temple at the very moment when Jesus was being presented to the Lord. Simeon's steps were guided by the Spirit, as he walked with God in his spiritual condition, recognizing Jesus as the promised Messiah. Through the Spirit's direction, Simeon arrived at the temple to perform the customary rituals according to the law. This divine encounter was orchestrated by the Spirit of God, who knew the exact time for Jesus' arrival.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9891607014244597,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
             "commentatorTierSimilarities": [
-                25.35,
-                36.72,
-                37.92
+                22.59,
+                42.57,
+                34.84
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Prompted by the Spirit, Simeon was guided to the temple just as Mary was about to present Jesus to the Lord. This was not merely a divine impulse, but a reflection of Simeon's close relationship with God. Following the customary practices of the law, he made an offering for purification and presented Jesus to God. Through the same Spirit, Simeon recognized Jesus as the long-awaited Messiah. The Spirit of God had foreknowledge of the sufferings and glory of Christ and orchestrated the precise timing of Jesus' entrance into the temple.",
-            "wordCount": 92,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.7866707506330133,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "bht": "Prompted by the Spirit, Simeon arrived at the temple at the same time as the Virgin Mary presented Jesus to the Lord. His steps, guided by the Spirit, reflected his close relationship with God rather than a specific divine impulse. Simeon recognized Jesus as the promised Messiah and the Spirit led him to this destined encounter. The Spirit orchestrated their meeting according to the customs and laws of the time, fulfilling the divine plan set in motion long ago.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.905011736512729,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
             "commentatorTierSimilarities": [
-                24.86,
-                37.82,
-                37.33
+                21.54,
+                42.12,
+                36.35
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Guided by the Spirit, Simeon was led to the temple precisely when Mary was presenting Jesus to the Lord. This divine prompting was a reflection of Simeon's deep spiritual walk with God. Following the customary practices of the law, he made an offering for purification and presented Jesus to God. By the same Spirit, Simeon discerned that Jesus was the promised Messiah. The Spirit of God possessed prior knowledge of Christ's sufferings and the subsequent glory and orchestrated this significant encounter at the temple.",
-            "wordCount": 86,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 1.8157244286659369,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "bht": "Prompted by the Spirit, Simeon arrived at the temple when Jesus was presented to the Lord. His steps were guided by the Spirit, reflecting his close relationship with God. Simeon recognized Jesus as the promised Messiah through the Spirit's leading. This divine encounter was orchestrated according to the customs and laws of the time. The Spirit, who knows all things, planned and arranged the precise timing of this significant event.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.765709188999043,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
             "commentatorTierSimilarities": [
-                25.2,
-                38.27,
-                36.53
+                20.57,
+                42.87,
+                36.55
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Prompted by the Spirit, Simeon was guided to the temple at the precise moment when Mary was presenting Jesus to the Lord. This divine prompting stemmed from Simeon's close relationship with God rather than a random impulse. Following the customary practices of the law, he made an offering for purification and presented Jesus to God. It was through the same Spirit that Simeon recognized Jesus as the long-awaited Messiah. The Spirit, with omniscient knowledge of Christ's sufferings and future glory, orchestrated this meaningful encounter at the temple.",
-            "wordCount": 90,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.8007609495034007,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.22,
+            "bht": "By the Spirit, Simeon was guided to the temple at the very moment when the Virgin was about to present Jesus to the Lord. His steps were prompted by the Spirit, reflecting his close relationship with God. Simeon's arrival at the temple, to meet and recognize Jesus as the Messiah, was orchestrated by the same Spirit. The Spirit's leading brought him to the temple to fulfill the customary rituals in accordance with the law. This divine encounter, foreknown by the Spirit, happened precisely as planned.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9690319042099078,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
             "commentatorTierSimilarities": [
-                25.62,
-                36.51,
-                37.86
+                22.28,
+                44.43,
+                33.29
             ],
             "generationAttempt": 5
         }

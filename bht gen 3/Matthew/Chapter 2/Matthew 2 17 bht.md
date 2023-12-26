@@ -1,11 +1,11 @@
 # Matthew 2:17 Commentary Help Text
 
 ## BHT:
-The fulfillment of the prophecy spoken by Jeremiah should not be narrowly interpreted, but rather understood within the traditional Jewish approach to prophetic fulfillment. The closely connected tribes of Judah and Benjamin are relevant to the prophecy, and the words spoken by Jeremiah effectively convey the sorrowful nature of the event. The mention of Rama, a neighboring town to Bethlehem, adds further meaning to the prophecy. Rachel symbolically represents the grieving mothers, their lamentation, weeping, and mourning expressing their deep sorrow. Although not an exact correspondence, the fulfillment appropriately applies to this tragic event.
+The prophecy spoken by Jeremiah, which expresses the sorrowful departure of the people of Israel into captivity, aptly applies to the event recorded by Matthew. The excessive grief and distress of the sorrowful mothers in Rama is represented by the words of lamentation, weeping, and great mourning. The evangelist uses the quotation to depict the melancholy event, with no need for a strict literal interpretation. This prophecy is fulfilled when it is appropriately applied to the event that took place in Bethlehem, symbolizing the day of redemption.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "We must not draw any fanciful distinction between 'then was fulfilled' and 'that might be fulfilled,' but rather seek our explanation in the acknowledged system of prophetic interpretation among the Jews..."
+1. "We must not draw any fanciful distinction between 'then was fulfilled' and 'that might be fulfilled,' but rather seek our explanation in the acknowledged system of prophetic interpretation among the Jews."
 2. "None of the expressions of this prophecy must be closely and literally pressed."
 3. "We must also take into account the close relation between the tribes of Judah and Benjamin, which had long subsisted."
 
@@ -15,63 +15,62 @@ The fulfillment of the prophecy spoken by Jeremiah should not be narrowly interp
 
 
 ### Albert Barnes:
-1. "Then was fulfilled - The word ‘fulfilled,’ here, is used evidently in the sense that the words in Jeremiah aptly express the event which Matthew was recording." (Commentary)
-2. "That which was spoken by Jeremy the prophet - Jeremiah." (Commentary)
-3. "The sadness of such a scene is well expressed in the language of the prophet, and it no less beautifully and suitably applies to the melancholy event which the evangelist records." (Commentary)
+1. "Then was fulfilled - The word 'fulfilled,' here, is used evidently in the sense that the words in Jeremiah aptly express the event which Matthew was recording." 
+2. "This quotation is taken from Jeremiah 31:15. The original design of the prophecy was to describe the sorrowful departure of the people of Israel into captivity... The sadness of such a scene is well expressed in the language of the prophet." 
+3. "It no less beautifully and suitably applies to the melancholy event which the evangelist records, and there could be no impropriety in his using it as a quotation."
 
 ### Philip Schaff:
 1. Matthew 2:17. Jeremiah the prophet (Jeremiah 32:15). Free quotation (from the Septuagint) of a typical prophecy. Not: ‘that it might be fulfilled,’ but simply: ‘was fulfilled.’
 
 
 ### John Gill:
-1. "By the slaughter of the infants at Bethlehem was literally accomplished what had been predicted by Jeremy the prophet." 
-2. "Rama was not in Arabia, but a town in the tribe of Benjamin, very near to Bethlehem." 
-3. "Rachel is introduced in the prophecy representing the sorrowful mothers of those parts, weeping for their children; whose distress and grief are signified by several words, 'lamentation, weeping and great mourning'."
+1. "Then was fulfilled that which was spoken... in Rama was there a voice heard... weeping for their children; whose distress and grief are signified by several words, 'lamentation, weeping and great mourning', to express the excessiveness thereof, for they would not be comforted."
+2. "Rachel is introduced in the prophecy representing the sorrowful mothers... as well as at Bethlehem."
+3. "I cannot forbear transcribing a remark made by a noted Jew upon that passage... he means, 'the day of redemption'."
 
 ### John Wesley:
-1. "Then was fulfilled"
-2. "A passage of Scripture...is in the language of the New Testament fulfilled"
-3. "when an event happens to which it may with great propriety be accommodated"
+1. "Then was fulfilled — A passage of Scripture, whether prophetic, historical, or poetical, is in the language of the New Testament fulfilled, when an event happens to which it may with great propriety be accommodated."
+2. "A passage of Scripture, whether prophetic, historical, or poetical, is in the language of the New Testament fulfilled, when an event happens to which it may with great propriety be accommodated."
+3. "A passage of Scripture is fulfilled when an event happens to which it may with great propriety be accommodated."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:42:34
+- Timestamp: 12-25-2023 19:29:40
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 28.12%
-- BHT Quality Score: 1.6430929508954986
+- BHT Word Count: 87
+- BHT Commentary Usage: 28.33%
+- BHT Quality Score: 1.851980183170763
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'adds', 'although', 'an', 'and', 'applies', 'approach', 'appropriately', 'are', 'be', 'benjamin', 'bethlehem', 'but', 'by', 'closely', 'connected', 'convey', 'correspondence', 'deep', 'effectively', 'event', 'exact', 'expressing', 'fulfillment', 'further', 'grieving', 'interpreted', 'jeremiah', 'jewish', 'judah', 'lamentation', 'meaning', 'mention', 'mothers', 'mourning', 'narrowly', 'nature', 'neighboring', 'not', 'of', 'prophecy', 'prophetic', 'rachel', 'rama', 'rather', 'relevant', 'represents', 'should', 'sorrow', 'sorrowful', 'spoken', 'symbolically', 'the', 'their', 'this', 'to', 'town', 'traditional', 'tragic', 'tribes', 'understood', 'weeping', 'within', 'words']
-- ChatGPT injected words (significant words only) (46):
-	['adds', 'applies', 'approach', 'appropriately', 'benjamin', 'bethlehem', 'closely', 'connected', 'convey', 'correspondence', 'deep', 'effectively', 'event', 'exact', 'expressing', 'fulfillment', 'grieving', 'interpreted', 'jeremiah', 'jewish', 'judah', 'lamentation', 'meaning', 'mention', 'mothers', 'mourning', 'narrowly', 'nature', 'neighboring', 'prophecy', 'prophetic', 'rachel', 'rama', 'relevant', 'represents', 'sorrow', 'sorrowful', 'spoken', 'symbolically', 'town', 'traditional', 'tragic', 'tribes', 'understood', 'weeping', 'words']
+- ChatGPT injected words (60):
+	['a', 'and', 'applied', 'applies', 'appropriately', 'aptly', 'bethlehem', 'by', 'captivity', 'day', 'departure', 'depict', 'distress', 'evangelist', 'event', 'excessive', 'expresses', 'for', 'fulfilled', 'great', 'grief', 'in', 'interpretation', 'into', 'is', 'israel', 'it', 'jeremiah', 'lamentation', 'literal', 'matthew', 'melancholy', 'mothers', 'mourning', 'need', 'no', 'of', 'people', 'place', 'prophecy', 'quotation', 'rama', 'recorded', 'redemption', 'represented', 'sorrowful', 'spoken', 'strict', 'symbolizing', 'that', 'the', 'this', 'to', 'took', 'uses', 'weeping', 'when', 'which', 'with', 'words']
+- ChatGPT injected words (significant words only) (43):
+	['applied', 'applies', 'appropriately', 'aptly', 'bethlehem', 'captivity', 'day', 'departure', 'depict', 'distress', 'evangelist', 'event', 'excessive', 'expresses', 'fulfilled', 'great', 'grief', 'interpretation', 'israel', 'jeremiah', 'lamentation', 'literal', 'matthew', 'melancholy', 'mothers', 'mourning', 'need', 'people', 'place', 'prophecy', 'quotation', 'rama', 'recorded', 'redemption', 'represented', 'sorrowful', 'spoken', 'strict', 'symbolizing', 'took', 'uses', 'weeping', 'words']
 
 ### Logs
-- Attempt 1 BHT: The prophecy that then was fulfilled in Matthew 2:17 must not be taken too literally, but rather understood in the context of the Jewish interpretation of prophecies. It is important to consider the close relationship between the tribes of Judah and Benjamin in order to fully grasp the meaning. The words spoken by Jeremy the prophet aptly express the sadness of the event, and though the prophecy was not an exact match, it beautifully applies to the tragic scene of the slaughter of infants in Bethlehem. The mention of Rama, a town near Bethlehem, helps to further situate the prophecy. Rachel is used to represent the sorrowful mothers in that region, and her lamentation, weeping, and great mourning signify their grief. The fulfillment of the prophecy is not a perfect match, but rather an appropriate and suitable application to the event that occurred.
-- 🔄 Matthew 2:17 (attempt 1, 142 words, 29.07% quotes quality score: 1.7662072974142289, V2 normalized quality score: 50.07, commentator tiers 1-3: 28.52%, 42.55%, 28.93%) 
+- Attempt 1 BHT: The prophecy spoken by Jeremiah, which expresses the sorrowful departure of the people of Israel into captivity, aptly applies to the event recorded by Matthew. The excessive grief and distress of the sorrowful mothers in Rama is represented by the words of lamentation, weeping, and great mourning. The evangelist uses the quotation to depict the melancholy event, with no need for a strict literal interpretation. This prophecy is fulfilled when it is appropriately applied to the event that took place in Bethlehem, symbolizing the day of redemption.
+- 🔄 Matthew 2:17 (attempt 1, 87 words, 28.33% quotes quality score: 1.851980183170763, V2 normalized quality score: 52.92, commentator tiers 1-3: 19.52%, 41.03%, 39.45%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The fulfillment of the prophecy in Matthew 2:17 should not be taken literally, but rather understood in the context of Jewish prophetic interpretation. The connection between the tribes of Judah and Benjamin is significant, and the words spoken by Jeremy the prophet express the sorrow of the event. The mention of Rama, a town near Bethlehem, helps to situate the prophecy. Rachel represents the grieving mothers, and her lamentation, weeping, and mourning signify their sorrow. The fulfillment of the prophecy is not an exact match, but it appropriately applies to the tragic event.
-- 🔄 Matthew 2:17 (attempt 2, 92 words, 30.0% quotes quality score: 1.7026634001155858, V2 normalized quality score: 47.96, commentator tiers 1-3: 26.26%, 43.9%, 29.84%) 
+- Attempt 2 BHT: The prophecy of Jeremiah, describing the sorrowful departure of Israel into captivity, fittingly applies to the event mentioned by Matthew. The excessive grief of the sorrowful mothers in Rama is expressed through lamentation, weeping, and great mourning. The evangelist uses this quotation to depict the melancholy event, understanding that it does not need to be strictly and literally pressed. The fulfillment of this prophecy occurs when it is suitably applied to the event in Bethlehem, symbolizing the day of redemption.
+- 🔄 Matthew 2:17 (attempt 2, 80 words, 29.09% quotes quality score: 1.73579180559345, V2 normalized quality score: 49.06, commentator tiers 1-3: 19.13%, 42.38%, 38.49%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The fulfillment of the prophecy spoken by Jeremiah is evidenced in the event described by Matthew. The sorrowful departure of Israel into captivity, expressed in the prophecy, is relevant to the occurrence in Bethlehem. The excessive grief and distress of the sorrowful mothers in Rama, signified by lamentation, weeping, and great mourning, find resonance in the event recorded by the evangelist. It is important not to narrowly interpret the prophecy, but rather recognize its apt application to the event, which symbolizes the day of redemption.
+- 🔄 Matthew 2:17 (attempt 3, 85 words, 26.42% quotes quality score: 1.8221718164809544, V2 normalized quality score: 51.93, commentator tiers 1-3: 20.22%, 41.83%, 37.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: The prophecy fulfilled in this verse should not be interpreted too literally, but rather in the context of Jewish understanding. The connection between the tribes of Judah and Benjamin is significant, and the words spoken by Jeremiah the prophet express the sorrow of the event. The mention of Rama, a town near Bethlehem, situates the prophecy. Rachel symbolizes the grieving mothers, with her lamentation, weeping, and mourning representing their sorrow. Although not an exact match, the fulfillment of the prophecy appropriately applies to this tragic event.
-- 🔄 Matthew 2:17 (attempt 3, 86 words, 34.43% quotes quality score: 1.7167899906619861, V2 normalized quality score: 48.43, commentator tiers 1-3: 26.05%, 43.93%, 30.02%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: The fulfillment of the prophecy concerning the sorrowful departure of Israel into captivity finds resonance in the event described by Matthew. The excessiveness of grief and distress experienced by the sorrowful mothers is expressed in the language of lamentation, weeping, and great mourning. The evangelist skillfully applies this quotation to depict the melancholy event, understanding the need to avoid overly strict literal interpretation. The event in Bethlehem serves as a symbol of the day of redemption, appropriately fulfilling the prophecy.
+- 🔄 Matthew 2:17 (attempt 4, 80 words, 20.37% quotes quality score: 1.5807809554315408, V2 normalized quality score: 43.9, commentator tiers 1-3: 18.71%, 39.77%, 41.52%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The fulfillment of the prophecy, as described by the prophet Jeremiah, should not be taken overly literally. Instead, it should be understood within the framework of Jewish prophetic interpretation. The close connection between the tribes of Judah and Benjamin is significant, and the words spoken by Jeremiah effectively express the sorrowful nature of the event. The mention of Rama, a town near Bethlehem, adds contextual depth to the prophecy. Rachel is used symbolically to represent the grieving mothers, whose lamentation, weeping, and mourning reflect their deep sorrow. While not an exact match, the fulfillment appropriately applies to this tragic occurrence.
-- 🔄 Matthew 2:17 (attempt 4, 100 words, 27.78% quotes quality score: 1.5984595593711446, V2 normalized quality score: 44.49, commentator tiers 1-3: 27.13%, 43.33%, 29.54%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The fulfillment of the prophecy spoken by Jeremiah should not be narrowly interpreted, but rather understood within the traditional Jewish approach to prophetic fulfillment. The closely connected tribes of Judah and Benjamin are relevant to the prophecy, and the words spoken by Jeremiah effectively convey the sorrowful nature of the event. The mention of Rama, a neighboring town to Bethlehem, adds further meaning to the prophecy. Rachel symbolically represents the grieving mothers, their lamentation, weeping, and mourning expressing their deep sorrow. Although not an exact correspondence, the fulfillment appropriately applies to this tragic event.
-- 🔄 Matthew 2:17 (attempt 5, 94 words, 28.12% quotes quality score: 1.6430929508954986, V2 normalized quality score: 45.98, commentator tiers 1-3: 25.79%, 44.69%, 29.52%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 2:17 bht prompt v0.8 (94 words, 28.12% quotes)
-- quality score: 1.6430929508954986, V2 normalized quality score: 45.98, commentator tiers 1-3: 25.79%, 44.69%, 29.52%)
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The prophecy of Jeremiah, describing the sorrowful departure of Israel into captivity, fittingly applies to the event mentioned by Matthew. The excessive grief of the sorrowful mothers in Rama is expressed through lamentation, weeping, and great mourning. The evangelist uses this quotation to depict the melancholy event, understanding that it does not need to be strictly and literally pressed. The fulfillment of this prophecy occurs when it is suitably applied to the event in Bethlehem, symbolizing the day of redemption.
+- 🔄 Matthew 2:17 (attempt 5, 80 words, 29.09% quotes quality score: 1.73579180559345, V2 normalized quality score: 49.06, commentator tiers 1-3: 19.13%, 42.38%, 38.49%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Matthew 2:17 bht prompt v0.8 (87 words, 28.33% quotes)
+- quality score: 1.851980183170763, V2 normalized quality score: 52.92, commentator tiers 1-3: 19.52%, 41.03%, 39.45%)

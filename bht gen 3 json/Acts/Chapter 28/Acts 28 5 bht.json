@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:37:30",
+    "timestamp": "12-25-2023 19:29:14",
     "verseRef": "Acts 28:5",
     "bestBHT": {
-        "bht": "When Paul was bitten by a viper in Malta, onlookers viewed it as an extraordinary coincidence or as evidence of his divine nature. However, Luke, who understood the locals, could confirm the true nature of the incident. By shaking off the snake, Paul demonstrated unwavering trust in God's promises and remained calm even amidst the danger. This miraculous event not only spared Paul from harm but also silenced doubts about his calling and authority, serving as a powerful testament to God's faithfulness and protection.",
-        "wordCount": 86,
-        "quoteTokenProportion": 38.24,
-        "qualityScore": 1.7502874630608334,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+        "bht": "When the Apostle Paul shook off the venomous snake and felt no harm, it was a remarkable display of God's protection over him. This incident defied all rational explanation and showed the power of God working through Paul. Despite understanding the danger of the serpent, Paul trusted in God's promise and remained calm. This episode also served as a fulfillment of the promise given by Jesus, as mentioned in Mark 16:18. It served as a visible testament to the miraculous power of God and his faithfulness to those who trust in him.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.8888698119399705,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.15,
         "commentatorTierSimilarities": [
-            29.99,
-            37.14,
-            32.87
+            29.21,
+            41.06,
+            29.73
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
             "According to these rationalists, a fortunate concurrence of accidents must have happened to the Apostles, totally unprecedented in history or probability.",
             "None were so well qualified to judge of the virulence of the serpent,\u2014none so capable of knowing that the hanging on Paul\u2019s hand implied the communication of the venom:\u2014yet they change him from a murderer into a god, on seeing what took place.",
-            "The fact that St. Luke understood what the natives said, is adduced by Dr. Wordsworth as another proof...that the Apostles and Evangelists commonly understood unknown tongues."
+            "The fact that St. Luke understood what the natives said, is adduced by Dr. Wordsworth as another proof... that the Apostles and Evangelists commonly understood unknown tongues."
         ],
         "Jamieson-Fausset-Brown": [
             "5. shook off the beast and felt no",
@@ -28,14 +28,14 @@
             "And he shook off ... - In this was remarkably fulfilled the promise of the Saviour Mark 16:18; \u201cThey shall take up serpents,\u201d etc."
         ],
         "Marvin Vincent": [
+            "Luke uses the word ['beast'] in the same way as the medical writers, who employed it to denote venomous serpents, and particularly the viper.",
             "Treacle, therefore, is originally a preparation of viper's flesh, and was used later of any antidote.",
-            "The saints' experiences help them to a sovereign treacle made of the scorpion's own flesh (which they through Christ have slain), and that hath a virtue above all other to expel the venom of Satan's temptations from the heart.",
-            "We kill the viper and make treacle of him."
+            "The saints' experiences help them to a sovereign treacle made of the scorpion's own flesh (which they through Christ have slain), and that hath a virtue above all other to expel the venom of Satan's temptations from the heart."
         ],
         "John Calvin": [
             "The shaking off of the viper is a token of a quiet mind.",
             "Faith doth not make us blockish, as brain-sick men do imagine, when they be out of danger.",
-            "Though Paul understand that the viper was a noisome beast, yet did he trust to the promise which was made to him, and did not so fear her plaguy biting, that it did trouble him; because he was even ready to die if need had been."
+            "Though Paul understand that the viper was a noisome beast, yet did he trust to the promise which was made to him."
         ],
         "Philip Schaff": [
             "Acts 28:5. Felt no harm. We see here part of the fulfilment of the promise in Mark 16:12, words which were doubtless fulfilled in other instances likewise.",
@@ -45,13 +45,13 @@
             "Shook off (\u03b1\u03c0\u03bf\u03c4\u03b9\u03bd\u03b1\u03be\u03b1\u03c2). First aorist active participle of \u03b1\u03c0\u03bf\u03c4\u03b9\u03bd\u03b1\u03c3\u03c3\u03c9, to shake off. Rare word (Euripides, Galen, LXX). In N.T. only here and Luke 9:5. "
         ],
         "John Gill": [
-            "And he shook off the beast into the fire... as not being afraid of it.\" ",
-            "Having held it a while... though it was the ready way to provoke it to fasten on him again.\" ",
-            "And felt no harm; it having not bit him, nor infected him with its poison."
+            "Having held it a while, and as being master of it, and as not being afraid of it...",
+            "...it having not bit him, nor infected him with its poison...",
+            "...and hereby was fulfilled what our Lord promised to his disciples..."
         ],
         "John Wesley": [
-            "No venomous kind of serpent now breeds in Malta, neither hurts if it be brought thither from another place.\" ",
-            "Children are seen there handling and playing even with scorpions; I have seen one eating them.\" ",
+            "Having shaken off the venomous animal, he suffered no harm.",
+            "No venomous kind of serpent now breeds in Malta, neither hurts if it be brought thither from another place. Children are seen there handling and playing even with scorpions; I have seen one eating them.",
             "If this be so, it seems to be fixed by the wisdom of God, as an eternal memorial of what he once wrought there."
         ]
     },
@@ -72,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When the apostle Paul was bitten by a viper while in Malta, the spectators saw the incident as either an extraordinary coincidence or evidence of Paul's divine nature. Luke, who understood the locals' language, could confirm the true nature of what had happened. Paul, shaking off the snake, demonstrated a calm and unwavering trust in God's promises. He believed in the protection and preservation that had been assured to him, even amidst such danger. Not only did Paul escape unharmed, but his ability to shake off the venomous beast also silenced any doubts about his calling and authority. This miraculous event served as a testament to the power and faithfulness of God.",
-            "wordCount": 114,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.6880120239024516,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "bht": "When the Apostle Paul shook off the venomous snake and felt no harm, it was a remarkable display of God's protection over him. This incident defied all rational explanation and showed the power of God working through Paul. Despite understanding the danger of the serpent, Paul trusted in God's promise and remained calm. This episode also served as a fulfillment of the promise given by Jesus, as mentioned in Mark 16:18. It served as a visible testament to the miraculous power of God and his faithfulness to those who trust in him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8888698119399705,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
             "commentatorTierSimilarities": [
-                30.06,
-                37.81,
-                32.13
+                29.21,
+                41.06,
+                29.73
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When the apostle Paul was bitten by a viper in Malta, onlookers were amazed and interpreted the incident either as a coincidence or as evidence of Paul's divine nature. However, Luke, who understood the language of the locals, could confirm the true nature of the situation. By shaking off the snake, Paul demonstrated his unwavering trust in God's promises and exhibited a calm demeanor despite the danger. This miraculous event not only preserved Paul unharmed but also sealed his calling and authority before the doubters.",
-            "wordCount": 87,
-            "quoteTokenProportion": 35.94,
-            "qualityScore": 1.7265150652720496,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "bht": "When Paul shook off the venomous serpent and remained unharmed, it was a testament to God's protection and the fulfillment of Jesus' promise in Mark 16:18. This event defied all rational explanations, showcasing the exceptional circumstances and the power of God. Despite his understanding of the serpent's danger, Paul's trust in God allowed him to remain composed. This extraordinary incident serves as a visual demonstration of God's faithfulness and the miraculous power that accompanies those who place their trust in Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8681678933306407,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
             "commentatorTierSimilarities": [
-                31.58,
-                37.17,
-                31.25
+                30.16,
+                42.71,
+                27.13
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When Paul was bitten by a viper in Malta, witnesses interpreted the incident as an extraordinary occurrence. However, Luke, who understood the language of the locals, could confirm the true nature of what had happened. By shaking off the snake, Paul demonstrated his trust in God's promises and exhibited a calm demeanor. This miraculous event not only preserved Paul unharmed but also silenced any doubts about his calling and authority. It served as a powerful testament to God's protection and faithfulness.",
-            "wordCount": 83,
-            "quoteTokenProportion": 39.39,
-            "qualityScore": 1.682097127136656,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "bht": "When Paul shook off the venomous snake and felt no harm, it was a remarkable display of God's protection over him. This incident defied all rational explanation and showed the power of God at work. Despite understanding the danger, Paul trusted in God's promise and remained calm. This episode also served as a fulfillment of Jesus' promise in Mark 16:18. It testified to the miraculous power of God and his faithfulness to those who trust in him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7906549925618296,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
             "commentatorTierSimilarities": [
-                30.27,
-                38.38,
-                31.35
+                27.56,
+                41.78,
+                30.67
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When the apostle Paul was bitten by a viper in Malta, the onlookers were astonished, either considering it a remarkable coincidence or proof of Paul's divine nature. However, Luke, who understood the locals' language, could confirm what truly happened. Paul's action of shaking off the snake demonstrated his unwavering faith in God's promises and a calm demeanor amidst danger. The incident not only spared Paul from harm but also affirmed his authority and calling. It served as an undeniable testament to the power and faithfulness of God's protection.",
-            "wordCount": 92,
-            "quoteTokenProportion": 36.62,
-            "qualityScore": 1.699411542411056,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "bht": "When the Apostle Paul shook off the venomous snake and felt no harm, it fulfilled Jesus' promise in Mark 16:18 and demonstrated God's protection. This event defied rational explanation and revealed the power of God. Paul's understanding of the danger didn't shake his trust in God's promise. It served as a visible testament to the miraculous power of God and his faithfulness to those who rely on him. This incident showed the exceptional circumstances and rationalists acknowledge the unusual and unprecedented nature of it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.7409965057943366,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.23,
             "commentatorTierSimilarities": [
-                30.71,
-                38.06,
-                31.23
+                30.32,
+                40.13,
+                29.55
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When Paul was bitten by a viper in Malta, onlookers viewed it as an extraordinary coincidence or as evidence of his divine nature. However, Luke, who understood the locals, could confirm the true nature of the incident. By shaking off the snake, Paul demonstrated unwavering trust in God's promises and remained calm even amidst the danger. This miraculous event not only spared Paul from harm but also silenced doubts about his calling and authority, serving as a powerful testament to God's faithfulness and protection.",
-            "wordCount": 86,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.7502874630608334,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "bht": "When the Apostle Paul shook off the venomous snake and felt no harm, it served as a remarkable display of God's protection. This incident defied rational explanation and showed the power of God at work. Paul's trust in God's promise remained unshaken, despite understanding the danger. This event also fulfilled Jesus' promise in Mark 16:18, showcasing the miraculous power of God and his proven faithfulness to those who trust in him. The extraordinary circumstances surrounding this event were unprecedented and acknowledged as such by rationalists.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7327645706678734,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
             "commentatorTierSimilarities": [
-                29.99,
-                37.14,
-                32.87
+                30.98,
+                40.83,
+                28.19
             ],
             "generationAttempt": 5
         }

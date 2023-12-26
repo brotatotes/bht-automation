@@ -1,57 +1,55 @@
 {
-    "timestamp": "12-19-2023 17:28:21",
+    "timestamp": "12-25-2023 19:29:53",
     "verseRef": "1 Timothy 2:1",
     "bestBHT": {
-        "bht": "Paul's exhortation to Timothy is to pray for all people, including rulers and those in authority, to combat the blasphemous speech and the longing for freedom from oppression that was widespread in Ephesus. The diverse range of terms used emphasizes the comprehensive nature of prayer, encompassing all forms and aspects of it. Supplications are urgent petitions for both physical and spiritual needs, while intercessions involve fervently pleading with God for oneself or others. This all-encompassing scope of prayer embraces sinners and saints, inspiring gratitude and acknowledging God's mercy towards all.",
-        "wordCount": 93,
-        "quoteTokenProportion": 31.88,
-        "qualityScore": 1.8774347757195442,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+        "bht": "The duty of praying for all people, for Christ died for all, is emphasized in this passage. As the destruction of Jerusalem approached, some Jews blasphemed God's name by speaking evil of dignities, while others looked down on non-Christians. However, Paul urges us to pray for all, as the scope of prayer is universal. We are called to make supplications, prayers, intercessions, and give thanks for all kinds of sinners and saints. Prayer for the salvation of the whole world should not be regarded as secondary; it is a fundamental duty grounded in the merit of Jesus Christ.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 1.9814176261384842,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
         "commentatorTierSimilarities": [
-            25.85,
-            37.61,
-            36.54
+            24.2,
+            44.19,
+            31.61
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "What I have therefore to say to thee by way of a",
-            "charge (1 Timothy 1:3; 1 Timothy 1:18),",
-            "is,\" c.",
-            "As the destruction of Jerusalem drew near, the Jews (including those at Ephesus) were seized with the dream of freedom from every yoke; and so virtually 'blasphemed' God's name by 'speaking evil of dignities' (1 Timothy 6:1; 2 Peter 2:10; Judges 1:8). Hence Paul, in opposition, gives prominence to the injunction that prayer be made for all men, especially for magistrates and kings (Titus 3:1-3).",
+            "First of all,\" doubtless, is to be connected with \"I exhort\" what I begin with (for special reasons), is . . . As the destruction of Jerusalem drew near, the Jews (including those at Ephesus) were seized with the dream of freedom from every yoke; and so virtually \"'blasphemed\" God's name by \"speaking evil of dignities\". ",
+            "Some professing Christians looked down on all not Christians, as doomed to perdition; but Paul says all men are to be prayed for, as Christ died for all. ",
+            "\t",
             "The accumulation of terms implies prayer in its every form and aspect, according to all the relations implied in it."
         ],
         "Albert Barnes": [
-            "How singular would it be now for an Episcopal bishop to 'exhort' his presbyters to pray 'for the President of the United States and for all who are in authority.' When the prayer is prescribed, do they not do this as a matter of course?",
             "The duty of praying for the salvation of the whole world was not to be regarded as a subordinate and secondary thing.",
-            "We ought to give thanks for the mercy of God to ourselves; it is right and proper also that we should give thanks for the goodness of God to others. We should render praise that there is a way of salvation provided; that no one is excluded from the offer of mercy; and that God is using so many means to call lost sinners to himself."
+            "There is one great Intercessor between God and man, who pleads for our salvation on the ground of what he himself has done, but we are permitted to intercede for others, not on the ground of any merit which they or we possess, but on the ground of the merit of the great Advocate and Intercessor.",
+            "Prayers should be made for all people - for all need the grace and mercy of God; thanks should be rendered for all, for all may be saved."
         ],
         "Marvin Vincent": [
-            "Supplications be made [\u03c0\u03bf\u03b9\u03b5\u03b9\u03c3\u03b8\u03b1\u03b9 \u03b4\u03b5\u03b7\u03c3\u03b5\u03b9\u03c2] . The phrase occurs Luke 5:33; Philippians 1:4. o LXX o Class. Dehsiv is petitionary prayer.",
-            "Proseuch prayer is limited to prayer to God, while dehsiv may be addressed to men.",
-            "Thus in Romans 8:26, it is not that the Spirit pleads in our behalf, but that he throws himself into our case; takes part in it."
+            "I exhort [\u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03c9] .",
+            "Entugcanein in the passages cited is not to make intercession, but to intervene, interfere.",
+            "In ejnteuxeiv here the idea of interposition is prominent."
         ],
         "John Calvin": [
-            "He enjoins the Ephesians to include in their prayers all men, and not to limit them to the body of the Church.",
+            "I exhort therefore. These exercises of godliness maintain and even strengthen us in the sincere worship and fear of God, and cherish the good conscience of which he had spoken.",
             "Paul, in my own opinion, simply enjoins that, whenever public prayers are offered, petitions and supplications should be made for all men, even for those who at present are not at all related to us.",
-            "That wonderful goodness which he shows every day... is worthy of being praised; and our love of our neighbor ought also to extend to those who are unworthy of it."
+            "That wonderful goodness which he shows every day, when 'he maketh his sun to rise on the good and the bad,' is worthy of being praised; and our love of our neighbor ought also to extend to those who are unworthy of it."
         ],
         "Philip Schaff": [
-            "The primitive worship of the Church included the same elements as those which we find in the earliest liturgies.\" ",
-            "Entreaties rising out of want, danger, or distress; requests for spiritual blessings; intercessions on behalf of the desolate and oppressed; thanksgiving.\" ",
-            "The word rendered 'intercessions' includes earnest personal pleading, meeting God, as it were, in prayer, whether for ourselves or others."
+            "Supplications, prayers, intercessions, and giving of thanks. Each word has a distinct shade of meaning, and without any undue assumption, the list may be looked on as showing that the primitive worship of the Church included the same elements as those which we find in the earliest liturgies.\" ",
+            "(1) entreaties rising out of want, danger, or distress; (2) requests for spiritual blessings; (3) intercessions on behalf of we desolate and oppressed, with an implied prayer against the wickedness of the oppressor; (4) thanksgiving, implying a prayer for the continuance of the blessing for which we give thanks.",
+            "The word rendered \u2018intercessions\u2019 includes earnest personal pleading, meeting God, as it were, in prayer, whether for ourselves or others."
         ],
         "Archibald T. Robertson": [
-            "First of all (\u03c0\u03c1\u03c9\u03c4\u03bf\u03bd \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Take with \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03c9. My first request (first in importance).",
-            "Intercessions (\u03b5\u03bd\u03c4\u03b5\u03c5\u03be\u03b5\u03b9\u03c2). Late word (Polybius, Plutarch, etc.), only here in N.T. and 1 Timothy 4:5, though the verb \u03b5\u03bd\u03c4\u03c5\u03b3\u03c7\u03b1\u03bd\u03c9 in Romans 8:27; Romans 8:34; Romans 11:2; Romans 11:25.",
-            "The scope of prayer is universal including all kinds of sinners (and saints)."
+            "First of all. My first request (first in importance).",
+            "Intercessions. Late word, only here in N.T. The other three words for prayer are common.",
+            "For all men. The scope of prayer is universal including all kinds of sinners (and saints)."
         ],
         "John Gill": [
-            "I exhort, that first, the supplications of all be made\": and so may regard public prayer, the prayer of the whole church, in distinction from private prayer, or the prayer of a single person; which is expressed by different words. (74 words)",
-            "supplications\", signifies such petitions for things that are wanted by men, either by themselves or others; and that either for their bodies or souls, as food and raiment for the one, and discoveries of pardoning love, supplies of grace, spiritual peace, comfort, etc. for the other. (41 words)",
-            "\u00a0",
-            "but for all the inhabitants of the country and city in which men dwell, the peace and prosperity of which are to be prayed for; yea, for enemies, and such as reproach, persecute, and despitefully use the saints, even for all sorts of men, Jews and Gentiles, rich and poor, high and low, bond and free, good men and bad men. (55 words)"
+            "I exhort therefore, that first of all... the two principal parts of public worship, being the ministry of the word and prayer.",
+            "It was what lay much upon his mind, and he was greatly desirous that it should be attended unto.",
+            "These are to be made for all men; not only for all the saints, for all the churches of Christ, and, ministers of the Gospel; nor only for near relations and friends, according to the flesh; but for all the inhabitants of the country and city in which men dwell."
         ],
         "John Wesley": [
             "Supplication is here the imploring help in time of need: prayer is any kind of offering up our desires to God.",
@@ -76,67 +74,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Paul's charge to Timothy in 1 Timothy 2:1 is to pray for all people, including magistrates and kings, in order to counteract the blasphemous speech and the dream of freedom from yokes that was prevalent in Ephesus. The various terms used in this verse convey the comprehensive nature of prayer, encompassing all forms and aspects of it. Supplications are urgent petitions both for physical and spiritual needs, while intercessions involve passionately pleading with God for oneself or others. This universal scope of prayer encompasses all kinds of sinners and saints alike, promoting a spirit of thanksgiving and praising God for his mercy to all.",
-            "wordCount": 103,
-            "quoteTokenProportion": 31.08,
-            "qualityScore": 1.9662108541429977,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "bht": "The verse reminds us of the importance of prayer. As the destruction of Jerusalem drew near, some people blasphemed God's name by speaking evil of dignities, while others looked down on non-Christians. However, Paul urges us to pray for all people, for Christ died for all. The accumulation of terms in the verse implies that prayer should encompass every form and aspect, intervening and interceding on behalf of others. We should pray for all kinds of sinners and saints, making supplications, prayers, intercessions, and giving thanks for them. Prayer for the salvation of the whole world is not secondary, but a duty. Our prayers should be grounded in the merit of the great Intercessor, Jesus Christ, who pleads for our salvation.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9504280810966808,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.19,
             "commentatorTierSimilarities": [
-                27.76,
-                36.08,
-                36.16
+                24.34,
+                44.81,
+                30.85
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul's charge to Timothy is to pray for all people, including magistrates and kings, in order to counteract the blasphemous speech and the dream of freedom from yokes that was prevalent in Ephesus. The various terms used in this passage convey the comprehensive nature of prayer, encompassing all forms and aspects of it. Supplications are urgent petitions for physical and spiritual needs, while intercessions involve passionately pleading with God for oneself or others. This universal scope of prayer encompasses all kinds of sinners and saints alike, promoting a spirit of thanksgiving and praising God for his mercy to all.",
+            "bht": "The duty of praying for all people, for Christ died for all, is emphasized in this passage. As the destruction of Jerusalem approached, some Jews blasphemed God's name by speaking evil of dignities, while others looked down on non-Christians. However, Paul urges us to pray for all, as the scope of prayer is universal. We are called to make supplications, prayers, intercessions, and give thanks for all kinds of sinners and saints. Prayer for the salvation of the whole world should not be regarded as secondary; it is a fundamental duty grounded in the merit of Jesus Christ.",
             "wordCount": 100,
-            "quoteTokenProportion": 30.14,
-            "qualityScore": 1.9519124131940846,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.9814176261384842,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
             "commentatorTierSimilarities": [
-                27.01,
-                36.5,
-                36.5
+                24.2,
+                44.19,
+                31.61
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul's exhortation to Timothy is to pray for all people, including rulers and those in authority, to combat the blasphemous speech and the longing for freedom from oppression that was widespread in Ephesus. The diverse range of terms used emphasizes the comprehensive nature of prayer, encompassing all forms and aspects of it. Supplications are urgent petitions for both physical and spiritual needs, while intercessions involve fervently pleading with God for oneself or others. This all-encompassing scope of prayer embraces sinners and saints, inspiring gratitude and acknowledging God's mercy towards all.",
-            "wordCount": 93,
-            "quoteTokenProportion": 31.88,
-            "qualityScore": 1.8774347757195442,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "bht": "Prayer is a vital duty according to this teaching. In the context of imminent destruction, some Jews blasphemed God's name, while others looked down on non-Christians. Yet Paul urges prayer for all, as Christ died for all. The extensive language in the verse emphasizes the inclusivity of prayer, encouraging supplications, prayers, intercessions, and giving of thanks for all types of individuals. The breadth of prayer should extend to sinners and saints alike. Prayer for the salvation of the entire world should not be underestimated, as it is grounded in the redemptive work of Jesus Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8800795717313674,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
             "commentatorTierSimilarities": [
-                25.85,
-                37.61,
-                36.54
+                23.42,
+                44.1,
+                32.48
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul's charge to Timothy is to pray for all people, including magistrates and kings, in order to counteract the blasphemous speech and the dream of freedom from yokes that was prevalent in Ephesus. The various terms used in this verse convey the comprehensive nature of prayer, encompassing all forms and aspects of it. Supplications are urgent petitions for physical and spiritual needs, while intercessions involve passionately pleading with God for oneself or others. This universal scope of prayer encompasses all kinds of sinners and saints, promoting a spirit of thanksgiving and praising God for his mercy to all.",
-            "wordCount": 99,
-            "quoteTokenProportion": 30.56,
-            "qualityScore": 1.962584927495065,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+            "bht": "Amidst the approaching destruction of Jerusalem, some Jews spoke evil of dignities and others looked down on non-Christians. However, Paul exhorts believers to pray for all people, as Christ died for everyone. The comprehensive language in the passage highlights the various forms and aspects of prayer, including supplications, prayers, intercessions, and thanksgivings. This universal reach of prayer encompasses all kinds of sinners and saints. Praying for the salvation of the whole world is not a secondary duty, but rather a foundational responsibility rooted in the merit of Jesus Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.8455403993960384,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
             "commentatorTierSimilarities": [
-                27.2,
-                36.42,
-                36.38
+                24.57,
+                43.65,
+                31.77
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul's exhortation to pray for all people, including rulers and those in authority, serves as a countermeasure to the derogatory speech and desire for freedom that characterized Ephesus. The varied terms used emphasize the breadth of prayer, encompassing its many forms and aspects. Supplications convey urgent petitions for both physical and spiritual needs, while intercessions involve impassioned pleas on behalf of oneself and others. This expansive concept of prayer extends to all types of individuals, encouraging gratitude and recognition of God's mercy towards all.",
-            "wordCount": 86,
-            "quoteTokenProportion": 29.85,
-            "qualityScore": 1.7828522908125626,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "bht": "Amidst the imminent destruction of Jerusalem, some Jews blasphemed God's name and others looked down on non-Christians. Yet, Paul urges believers to pray for all, as Christ died for all. The verse's language emphasizes the inclusivity of prayer, encompassing supplications, prayers, intercessions, and thanksgivings for sinners and saints alike. Prayer for the salvation of the whole world is not to be underestimated but considered a fundamental duty, grounded in the redemptive work of Jesus Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8672794767134298,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
             "commentatorTierSimilarities": [
-                24.84,
-                38.7,
-                36.46
+                23.43,
+                45.2,
+                31.36
             ],
             "generationAttempt": 5
         }

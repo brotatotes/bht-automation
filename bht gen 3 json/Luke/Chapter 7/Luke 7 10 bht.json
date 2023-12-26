@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-25-2023 19:19:53",
+    "timestamp": "12-25-2023 20:08:28",
     "verseRef": "Luke 7:10",
     "bestBHT": {
-        "bht": "This is one of the three greatest recorded miracles of our Lord. He raised one (Jairus\u2019s daughter) who had been dead, one who was on the way to burial, and one (Lazarus) who had been buried four days. The servant, who had been sick, was found whole. The centurion's expression of faith played a significant role in this miracle, as Christ had declared that the healing would be according to it.",
-        "wordCount": 73,
-        "quoteTokenProportion": 46.15,
-        "qualityScore": 1.3580811600598683,
-        "qualityScoreNormalizedComparedToV2BHTs": 36.5,
+        "bht": "One of the three greatest miracles recorded by Luke is described here. Jesus displayed His power over death by raising the dead, including those who were recently deceased, on their way to burial, and even one who had been buried for four days. In this instance, Jesus healed a sick servant, immediately restoring him to full health due to the centurion's unwavering faith. The meticulous detail in Luke's account underscores the significance of this remarkable event and further showcases the authority of Jesus.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.5004995195675903,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.23,
         "commentatorTierSimilarities": [
-            37.81,
-            13.2,
-            48.99
+            37.61,
+            28.82,
+            33.57
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This is one of the three greatest recorded miracles of our Lord.",
             "He raised one (Jairus\u2019s daughter) when just dead,\u2014one on the way to burial,\u2014and one (Lazarus) who had been buried four days.",
-            "...one of the three greatest recorded miracles of our Lord."
+            "He raised one (Jairus\u2019s daughter) when just dead,\u2014one on the way to burial,\u2014and one (Lazarus) who had been buried four days."
         ],
         "Marvin Vincent": [
             "Whole [\u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1] . See on ch. Luke 5:31. The best texts omit that had been sick. ",
@@ -32,7 +32,7 @@
             "Whole (\u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1). Sound, well. See Luke 5:31. "
         ],
         "John Gill": [
-            "And they that were sent... found the servant whole that had been sick.\" ",
+            "Found the servant whole that had been sick.",
             "He was healed directly, as soon as the centurion had expressed his faith.",
             "Christ had declared that it should be according to it."
         ]
@@ -54,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This verse in Luke recounts one of the three greatest miracles performed by Jesus. It is a miracle of healing, where Jesus restores a servant who had been sick. The servant is found whole or well, highlighting the immediate and complete healing that took place. The centurion's expression of faith played a significant role in this miracle, as Jesus had previously declared that the healing would be according to the centurion's faith. This miracle demonstrates Jesus' power and willingness to heal, even from a distance, in response to sincere faith.",
-            "wordCount": 92,
-            "quoteTokenProportion": 41.67,
-            "qualityScore": 1.3502981969228145,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "bht": "This verse in Luke is one of the greatest miracles performed by Jesus. Just as he raised the dead, he also healed a servant who was sick. The centurion's faith played a crucial role in the healing, as Jesus declared that it would be according to his faith. The servant was restored to full health immediately, showcasing the power and authority of Jesus. Luke pays attention to the details of the narrative, highlighting the significance of this miraculous event.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.476187276873104,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.43,
             "commentatorTierSimilarities": [
-                34.24,
-                21.33,
-                44.43
+                31.95,
+                25.98,
+                42.07
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "This is one of the three greatest recorded miracles of our Lord. He raised one (Jairus\u2019s daughter) who had been dead, one who was on the way to burial, and one (Lazarus) who had been buried four days. The servant, who had been sick, was found whole. The centurion's expression of faith played a significant role in this miracle, as Christ had declared that the healing would be according to it.",
-            "wordCount": 73,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.3580811600598683,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.5,
+            "bht": "This remarkable event recorded by Luke is one of the three greatest miracles performed by Jesus. He raised the dead, including one who was on the way to burial and another who had been buried for four days. In this particular instance, Jesus healed a servant who had been sick and restored him to full health immediately. The centurion's faith was instrumental in the healing, as Jesus had declared that it would be according to his faith. The meticulous detail of Luke's narrative emphasizes the significance of this miraculous event.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.4258971666327738,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.75,
             "commentatorTierSimilarities": [
-                37.81,
-                13.2,
-                48.99
+                34.3,
+                23.62,
+                42.08
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "This particular event is notable as one of the three greatest miracles performed by Jesus. It involved the healing of a servant who had been sick, resulting in the servant being found whole. The centurion's faith was crucial in bringing about this miraculous healing, as Jesus himself had declared that the healing would occur according to the centurion's faith. This healing serves as a powerful demonstration of Jesus' ability and willingness to bring about complete restoration in response to genuine belief.",
-            "wordCount": 83,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.2461467964440658,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.78,
+            "bht": "This remarkable event is one of the three greatest miracles of Jesus recorded by Luke. Jesus had the power to raise the dead, including those who were at the brink of death, on their way to burial, and even one who had been buried for four days. In this case, Jesus healed a servant who had been sick, demonstrating the centurion's faith by restoring him to full health immediately. The attention to detail in Luke's narrative highlights the significance of this miraculous event.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.444941446743019,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
             "commentatorTierSimilarities": [
-                30.1,
-                16.99,
-                52.91
+                37.92,
+                26.92,
+                35.16
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "This is one of the three greatest miracles performed by Jesus, involving the healing of a sick servant who was found whole. The centurion's faith played a vital role in this miraculous event, as Jesus had stated that the healing would be in accordance with the centurion's faith. This powerful demonstration showcases Jesus' ability and willingness to bring about complete restoration in response to sincere belief.",
-            "wordCount": 68,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.2541239358647802,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.04,
+            "bht": "One of the three greatest miracles recorded by Luke is described here. Jesus displayed His power over death by raising the dead, including those who were recently deceased, on their way to burial, and even one who had been buried for four days. In this instance, Jesus healed a sick servant, immediately restoring him to full health due to the centurion's unwavering faith. The meticulous detail in Luke's account underscores the significance of this remarkable event and further showcases the authority of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.5004995195675903,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.23,
             "commentatorTierSimilarities": [
-                34.0,
-                15.94,
-                50.07
+                37.61,
+                28.82,
+                33.57
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "One of the greatest miracles recounted in the scriptures is the healing of a sick servant, where the servant was found whole. This event stands as a testament to Jesus' remarkable power and willingness to bring about complete restoration. It is important to note the significant role that the centurion's faith played in this miraculous occurrence. Jesus himself had declared that the healing would be in accordance with the centurion's faith, emphasizing the vital connection between belief and divine intervention.",
-            "wordCount": 82,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.227168376257071,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.15,
+            "bht": "This extraordinary miracle, one of the three greatest recorded by Luke, demonstrates Jesus' authority over death. He not only raised the dead, including those near death and those who had been buried for days, but also healed a sick servant through the centurion's strong faith. Luke's attention to detail emphasizes the importance of this event, highlighting Jesus' power to bring about immediate and complete restoration.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.466322270339131,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.1,
             "commentatorTierSimilarities": [
-                32.6,
-                20.14,
-                47.27
+                38.41,
+                30.02,
+                31.58
             ],
             "generationAttempt": 5
         }

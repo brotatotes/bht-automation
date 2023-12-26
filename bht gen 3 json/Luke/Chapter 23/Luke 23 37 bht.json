@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-19-2023 16:23:35",
+    "timestamp": "12-25-2023 19:30:40",
     "verseRef": "Luke 23:37",
     "bestBHT": {
-        "bht": "The soldiers and rulers fail to understand that Jesus could not save himself if he was to save others. By mocking him as the king of the Jews, they reveal their ignorance of the profound truth that Jesus' crucifixion was not a sign of weakness, but rather the ultimate act of love and sacrifice. Their scoff and sneer only serve to highlight their lack of understanding, both of who Jesus truly is and of the depth of his mission.",
-        "wordCount": 79,
-        "quoteTokenProportion": 46.3,
-        "qualityScore": 1.7859543300884337,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+        "bht": "The soldiers and rulers fail to grasp that Jesus, while being able to save himself, intentionally chooses not to in order to save others. Mockingly labeling him as the king of the Jews, they display their ignorance of the true significance of Jesus' crucifixion. By urging him to use his purported power to deliver himself from the cross, they unknowingly reveal their lack of understanding that it is precisely through his selfless sacrifice that true salvation is obtained.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.956356524417024,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.39,
         "commentatorTierSimilarities": [
-            49.42,
-            20.55,
-            30.03
+            52.77,
+            23.46,
+            23.77
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Philip Schaff": [
             "If thou art the King of the Jews, save thyself.",
-            "This scoff was learned from the rulers no doubt.",
-            "But it included a sneer at the Jews as well."
+            "This scoff was learned from the rulers no doubt (Matthew 27:42).",
+            "It included a sneer at the Jews as well."
         ],
         "Archibald T. Robertson": [
-            "Jesus could not save himself if he was to save others.",
+            "But both soldiers and rulers fail to understand that Jesus could not save himself if he was to save others.",
             "The soldiers pick out 'the king of the Jews' as the point of their sneer, the point on which Jesus was condemned.",
-            "Both soldiers and rulers fail to understand."
+            "Jesus could not save himself if he was to save others."
         ],
         "John Gill": [
-            "And saying, if thou be the King of the Jews,.... Or their Messiah, who was spoken of as a divine person; for otherwise he might have been their king, and not have been able to have done what is proposed.",
-            "Save thyself: or deliver thyself from the cross."
+            "If thou be the King of the Jews, save thyself.\" ",
+            "Or deliver thyself from the cross."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The soldiers and rulers fail to understand that Jesus could not save himself if he was to save others. By mocking him as the king of the Jews, they reveal their ignorance of the profound truth that Jesus' crucifixion was not a sign of weakness, but rather the ultimate act of love and sacrifice. Their scoff and sneer only serve to highlight their lack of understanding, both of who Jesus truly is and of the depth of his mission.",
-            "wordCount": 79,
-            "quoteTokenProportion": 46.3,
-            "qualityScore": 1.7859543300884337,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "bht": "The soldiers and rulers are oblivious to the fact that Jesus willingly sacrificed himself in order to save others. They mockingly identify him as the king of the Jews, the very reason for his condemnation. Their taunt mirrors the mockery of the Jewish leaders. The soldiers' derisive words also hint at the idea that Jesus should use his alleged power to save himself from the crucifixion. Little do they know that it is precisely through his sacrificial death that true salvation is offered to all.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6464831307311534,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
             "commentatorTierSimilarities": [
-                49.42,
-                20.55,
-                30.03
+                47.44,
+                29.18,
+                23.38
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The soldiers and rulers fail to grasp the significance of Jesus' inability to save himself if he was to save others. In their mocking of him as the king of the Jews, they unwittingly expose their ignorance of the deeper truth that Jesus' crucifixion was not a display of weakness, but rather the ultimate demonstration of love and sacrifice. Their scoff and sneer only serve to underscore their lack of understanding, both regarding Jesus' true identity and the profound purpose of his mission.",
-            "wordCount": 83,
-            "quoteTokenProportion": 40.35,
-            "qualityScore": 1.7079574065391503,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "bht": "The soldiers and rulers fail to comprehend that Jesus, in order to save others, could not save himself. They mockingly designate him as the king of the Jews, the very reason for his condemnation. This sneer reflects the ridicule of the Jewish leaders and implies that Jesus should utilize his power to rescue himself from the cross. Unbeknownst to them, it is precisely through his selfless sacrifice that genuine salvation is made available to all.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9109089162503343,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
             "commentatorTierSimilarities": [
-                49.1,
-                19.98,
-                30.92
+                48.16,
+                28.2,
+                23.65
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The soldiers and rulers are oblivious to the fact that Jesus couldn't save himself if he desired to save others. By ridiculing him as the king of the Jews, they expose their ignorance of the truth that Jesus' crucifixion was not a sign of weakness but rather the ultimate act of love and sacrifice. Their mockery only serves to emphasize their lack of understanding, both about Jesus' true nature and the profound purpose of his mission.",
-            "wordCount": 77,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.703899864414053,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "bht": "The soldiers and rulers, ignorant of Jesus' purpose to save others, taunt him as the king of the Jews, the very accusation that led to his condemnation. Their scorn echoes that of the Jewish leaders and suggests that Jesus should use his power to save himself. Yet, unbeknownst to them, Jesus willingly chose to endure the cross, recognizing that true salvation lay not in self-preservation but in self-sacrifice. In surrendering himself, Jesus offers salvation to all who believe.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.933848041300747,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
             "commentatorTierSimilarities": [
-                48.2,
-                20.9,
-                30.91
+                49.51,
+                25.92,
+                24.58
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The soldiers and rulers fail to comprehend that Jesus, in order to save others, could not save himself. By singling out the king of the Jews as a target of their ridicule, they unveil their lack of understanding. The soldiers' mocking remark reflects the influence of the rulers, further underscoring their ignorance. However, their taunt encompasses more than just derision towards Jesus; it also implies a scorn for the Jewish people. Nevertheless, their limited perception blinds them to the true significance of Jesus' crucifixion and the profound purpose behind it.",
-            "wordCount": 90,
-            "quoteTokenProportion": 43.75,
-            "qualityScore": 1.5065302666105165,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "bht": "The soldiers and rulers fail to grasp that Jesus, while being able to save himself, intentionally chooses not to in order to save others. Mockingly labeling him as the king of the Jews, they display their ignorance of the true significance of Jesus' crucifixion. By urging him to use his purported power to deliver himself from the cross, they unknowingly reveal their lack of understanding that it is precisely through his selfless sacrifice that true salvation is obtained.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.956356524417024,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.39,
             "commentatorTierSimilarities": [
-                45.35,
-                27.58,
-                27.08
+                52.77,
+                23.46,
+                23.77
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The soldiers and rulers reveal their ignorance by failing to grasp that Jesus, in his mission to save others, could not save himself. Their mockery of him as the king of the Jews highlights their lack of understanding. The soldiers' taunt, likely learned from the rulers, not only aims at Jesus but also sneers at the Jewish people. However, they fail to realize the deeper truth that Jesus' crucifixion represents an act of sacrificial love rather than weakness, demonstrating their limited comprehension of his divine nature and purpose.",
-            "wordCount": 88,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.6445319618849057,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "bht": "The soldiers and rulers demonstrate a lack of understanding regarding Jesus' purpose to save others, as they mockingly identify him as the king of the Jews, which led to his condemnation. Unaware of the profound significance of Jesus' crucifixion, they challenge him to save himself, oblivious to the fact that his sacrificial death is precisely what offers true salvation. Their taunt serves as a poignant reminder of Jesus' willingness to endure the cross for the sake of humanity's redemption.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7203966994501494,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
             "commentatorTierSimilarities": [
-                45.67,
-                24.14,
-                30.19
+                53.77,
+                22.71,
+                23.53
             ],
             "generationAttempt": 5
         }

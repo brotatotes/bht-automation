@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-19-2023 17:09:02",
+    "timestamp": "12-25-2023 19:30:47",
     "verseRef": "Titus 2:3",
     "bestBHT": {
-        "bht": "Aged women should exemplify sacred decorum, influencing younger women by their conduct. Their demeanor should be befitting of their sacred service, and they should not engage in slander. These women are called to be teachers of what is good, an important mission. They should embody the requirements of the gospel, avoiding false accusations and instead instructing younger women in good things. Their clothing, speech, and conduct should reflect their holy character, and they should teach only what is honorable and pure.",
-        "wordCount": 81,
-        "quoteTokenProportion": 32.69,
-        "qualityScore": 1.7229982121254848,
-        "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+        "bht": "Women consecrated to God should exhibit behavior fitting for sacred service. This includes being observant of sacred decorum and refraining from addiction to wine, as it is a form of slavery. The term becometh implies a deportment or demeanor that is appropriate for the sacred circumstances, like that of people engaged in sacred duties. These women should not engage in slander, but rather be teachers of that which is good, conveying important messages. Their conduct should exemplify holiness and their speech should be honorable, avoiding false accusations and focusing on instructing the younger generation.",
+        "wordCount": 94,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 1.8049422905145538,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.36,
         "commentatorTierSimilarities": [
-            26.39,
-            36.16,
-            37.45
+            32.32,
+            34.84,
+            32.84
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
+            "As becometh women consecrated to God.",
             "Observant of sacred decorum.",
-            "Addiction to wine is slavery.",
-            "Influencing for good the younger women by precept and example."
+            "Addiction to wine is slavery."
         ],
         "Albert Barnes": [
-            "Their conduct should be such as the gospel requires.",
-            "Not false accusers... as the accuser.",
-            "Teachers of good things... to give instruction to younger females."
+            "That they be in behaviour as becometh holiness - Their conduct should be such as the gospel requires.",
+            "Not false accusers - the word commonly applied to the devil - 'as the accuser.'",
+            "Teachers of good things - That is instructing the younger - whether their own children, or whether they sustain the office of deaconness..."
         ],
         "Marvin Vincent": [
-            "It means, primarily, condition or state. Once in LXX, 3 Macc 5 45, katasthma maniwdev the maddened state into which the war - elephants were excited. Hence the state in which one habitually bears himself - his deportment or demeanor.",
-            "It means beseeming a sacred place, person, or matter. Thus Athenaeus, seven, of one who had given a sacred banquet, says that the table was ornamented iJeroprepestata in a manner most appropriate to the sacred circumstances. The meaning here is becoming those who are engaged in sacred service.",
-            "Better, slanderers. See on Matthew 4:1, and 1 Timothy 3:6, 1 Timothy 3:11."
+            "Once in LXX, 3 Macc 5 45, katasthma maniwdev the maddened state into which the war - elephants were excited. Hence the state in which one habitually bears himself - his deportment or demeanor.",
+            "It means beseeming a sacred place, person, or matter. Thus Athenaeus, seven, of one who had given a sacred banquet, says that the table was ornamented iJeroprepestata in a manner most appropriate to the sacred circumstances.",
+            "The meaning here is becoming those who are engaged in sacred service. This is the more striking if, as there is reason to believe, the presbutidev represented a quasi - official position in the church."
         ],
         "John Calvin": [
             "Paul wished to guard against both extremes, by enjoining them to follow a course that is agreeable both to outward propriety and to religion; or, if you choose to express it in simpler language, to give evidence, by their very dress, that they are holy and godly women.",
@@ -36,24 +36,24 @@
             "Many are also given to drinking, so that, forgetting modesty and gravity, they indulge in an unbecoming wantonness."
         ],
         "Philip Schaff": [
-            "Likewise, for the same moral propriety applies here, modified only by sex.",
-            "Becometh holiness, befitting the solemnity of a consecrated person. Women too are spiritual priests in Christ.",
-            "False accusers; frequent failing of this class; the word is literally 'devils.' It is the diabolic characteristic to slander the good."
+            "Behaviour, or deportment, a wide term, covering \u2018walk, gesture, countenance, speech, silence\u2019 (Jerome).",
+            "Becometh holiness (cf. 1 Timothy 2:10; Ephesians 5:3), befitting the solemnity of a consecrated person. Women too are spiritual priests in Christ.",
+            "False accusers; frequent failing of this class; the word is literally \u2018devils.\u2019 It is the diabolic characteristic to slander the good."
         ],
         "Archibald T. Robertson": [
-            "Reverent (\u03b9\u03b5\u03c1\u03bf\u03c0\u03c1\u03b5\u03c0\u03b5\u03b9\u03c2). Old word. Only here in N.T. Like people engaged in sacred duties.",
+            "Reverent (\u03b9\u03b5\u03c1\u03bf\u03c0\u03c1\u03b5\u03c0\u03b5\u03b9\u03c2). Old word... Like people engaged in sacred duties.",
             "Not slanderers (\u03bc\u03b7 \u03b4\u03b9\u03b1\u03b2\u03bf\u03bb\u03bf\u03c5\u03c2).",
-            "Teachers of that which is good (\u03ba\u03b1\u03bb\u03bf\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c5\u03c2). Compound word. A sorely needed mission."
+            "Teachers of that which is good (\u03ba\u03b1\u03bb\u03bf\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c5\u03c2). A sorely needed mission."
         ],
         "John Gill": [
-            "These aged women design not persons in office, who were ancient widows, and had some care of the poor; or presbyteresses, as some call them, the wives of presbyters or elders, as being distinct from deaconesses; but godly women in years, who are to be instructed and exhorted.\" ",
-            "Such [holy women] ought to be in their clothing, and in their speech, and in the whole of their conduct and conversation, as become the character which they bear, and the profession they make.",
-            "They [aged women] should be teachers, not of old wives' fables, of superstitious customs, rites, and ceremonies, of the intrigues of love, and of things filthy and obscene, which are too often handed down to posterity by such persons; but of things that are solid and substantial, useful and improving, honest and honourable, chaste and pure."
+            "Speak also to them the things which become their profession, and what is right for them to be, and do...be in behaviour as becometh holiness.\" ",
+            "Not false accusers...not raising false reports of, bringing false charges against members of churches, and so making differences and divisions among them.",
+            "Teachers of good things; both by example and by instruction...of things that are solid and substantial, useful and improving, honest and honourable, chaste and pure."
         ],
         "John Wesley": [
-            "In behaviour \u2014 The particulars whereof follow.",
             "Not given to much wine \u2014 If they use a little for their often infirmities.",
-            "Let them teach good only."
+            "Teachers \u2014 Age and experience call them so to be. Let them teach good only.",
+            "In behaviour \u2014 The particulars whereof follow. As becometh holiness \u2014 Literally, observing a holy decorum. Not slanderers - Or evil-speakers."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -73,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Aged women must conduct themselves with sacred decorum, influencing younger women by their example. They should bear themselves in a manner befitting their sacred service. They must not be slanderers, but reverent like those engaged in sacred duties. These women are to be teachers of what is good, a sorely needed mission. Their conduct should reflect the requirements of the gospel, not engaging in false accusations, but teaching good things to younger females. Their clothing, speech, and conduct should be as befits their holy character and profession. They should teach only what is solid, substantial, and honorable, abstaining from old wives' fables and obscene things. They must not be given to much wine, but rather teach what is good.",
-            "wordCount": 119,
-            "quoteTokenProportion": 35.14,
-            "qualityScore": 1.6779872215493272,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "bht": "Women consecrated to God should exhibit behavior fitting for sacred service. This includes being observant of sacred decorum and refraining from addiction to wine, as it is a form of slavery. The term becometh implies a deportment or demeanor that is appropriate for the sacred circumstances, like that of people engaged in sacred duties. These women should not engage in slander, but rather be teachers of that which is good, conveying important messages. Their conduct should exemplify holiness and their speech should be honorable, avoiding false accusations and focusing on instructing the younger generation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.8049422905145538,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
             "commentatorTierSimilarities": [
-                28.67,
-                33.61,
-                37.72
+                32.32,
+                34.84,
+                32.84
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Aged women should exemplify sacred decorum, influencing younger women by their conduct. Their demeanor should be befitting of their sacred service, and they should not engage in slander. These women are called to be teachers of what is good, an important mission. They should embody the requirements of the gospel, avoiding false accusations and instead instructing younger women in good things. Their clothing, speech, and conduct should reflect their holy character, and they should teach only what is honorable and pure.",
-            "wordCount": 81,
-            "quoteTokenProportion": 32.69,
-            "qualityScore": 1.7229982121254848,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+            "bht": "Women consecrated to God should exhibit behavior appropriate for sacred service, observing sacred decorum and refraining from addiction to wine. Their deportment should be in line with the solemnity of their role, like those engaged in sacred duties. They should not engage in slander, but instead be teachers of good, conveying important messages. Their conduct should exemplify holiness, avoiding false accusations and focusing on instructing the younger generation.",
+            "wordCount": 68,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.777949022921066,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
             "commentatorTierSimilarities": [
-                26.39,
-                36.16,
-                37.45
+                27.71,
+                35.97,
+                36.32
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Aged women are meant to embody sacred decorum, influencing the younger generation through their actions and words. Their conduct should reflect their engagement in sacred service, and they should refrain from engaging in slander. These women are called to be teachers of what is good, serving an essential purpose. They should exemplify the requirements of the gospel by avoiding false accusations and instead imparting wisdom and guidance to younger women. Their outward demeanor, speech, and actions should be in line with their holy character and profession.",
-            "wordCount": 86,
-            "quoteTokenProportion": 30.51,
-            "qualityScore": 1.6198386027909666,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "bht": "Women consecrated to God should exhibit behavior befitting their sacred service, showing reverence and decorum. They should not be addicted to wine, as it is a form of slavery that hinders their ability to fulfill their role. Their demeanor and conduct should reflect their sacred calling, as they engage in their quasi-official position within the church. It is important for them to avoid slander and instead serve as teachers of good things, providing much-needed guidance and instruction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.6851257817294596,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.37,
             "commentatorTierSimilarities": [
-                26.39,
-                35.0,
-                38.61
+                28.4,
+                32.65,
+                38.96
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Aged women should bear themselves in a manner befitting sacred service, influencing younger women through their conduct. They are to abstain from slander and instead teach what is good, serving as much-needed instructors. These women are called to embody the requirements of the gospel, refraining from false accusations and providing instruction on honorable and pure matters. Their clothing, speech, and behavior should reflect their holy character and profession while avoiding excessive wine consumption. Their role is to teach only what is good and beneficial.",
-            "wordCount": 85,
-            "quoteTokenProportion": 32.81,
-            "qualityScore": 1.6278473574208059,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "bht": "Women consecrated to God should exhibit behavior that reflects their sacred calling, observing sacred decorum and refraining from addiction to wine. Their demeanor should resemble that of people engaged in sacred duties, exemplifying reverence and honor. It is crucial for them to avoid slander and instead focus on being teachers of good, imparting valuable knowledge and wisdom. Their conduct should be in line with holiness, avoiding false accusations and prioritizing the instruction of the younger generation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.7844692109565434,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
             "commentatorTierSimilarities": [
-                25.23,
-                34.65,
-                40.12
+                27.54,
+                33.79,
+                38.67
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Aged women, engaged in sacred service, must bear themselves with sacred decorum and influence younger women through their example. They should refrain from slander and instead teach what is good, fulfilling a crucial mission. Their conduct should be in line with the requirements of the gospel, avoiding false accusations and imparting wisdom to younger women. Their appearance, speech, and behavior should reflect their holy character and profession while they abstain from excessive wine consumption. They are to be instructors of what is honorable and pure.",
-            "wordCount": 85,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.6579541667488473,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "bht": "Women consecrated to God should exhibit behavior fitting for sacred service, observing sacred decorum and refraining from addiction to wine. Their deportment should be in line with the solemnity of their role, like those engaged in sacred duties. They should not engage in slander, but instead be teachers of good, conveying important messages. Their conduct should exemplify holiness, avoiding false accusations and focusing on instructing the younger generation.",
+            "wordCount": 68,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.771754420172639,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
             "commentatorTierSimilarities": [
-                26.8,
-                33.43,
-                39.78
+                27.7,
+                36.21,
+                36.09
             ],
             "generationAttempt": 5
         }

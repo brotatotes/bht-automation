@@ -1,59 +1,59 @@
 {
-    "timestamp": "12-19-2023 17:28:22",
+    "timestamp": "12-25-2023 19:31:10",
     "verseRef": "1 Timothy 3:11",
     "bestBHT": {
-        "bht": "The women who serve as deaconesses must be serious, not spreading rumors, sober-minded, and trustworthy in all aspects. Slander tends to be a vice among women, so it's important for them to refrain from engaging in it. These deaconesses are responsible for distributing alms and carrying out other ministries faithfully. The behavior of a deacon's wife is significant, as she directly influences his effectiveness in his role. These women as deacons have specific duties, perhaps involving the administration of alms and facing unique temptations.",
-        "wordCount": 87,
-        "quoteTokenProportion": 42.42,
-        "qualityScore": 1.9178548742206067,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+        "bht": "Women deacons possess similar qualifications as their male counterparts, but with gender-based considerations. They must display seriousness and avoid slander, being faithful in all aspects of life. Trustworthiness is vital in fulfilling their duties, such as distributing alms. The role of deaconesses directly impacts their husbands' effectiveness, and their behavior can either enhance or detract from their spouses' reputation. It is crucial for women deacons to steer clear of frivolity, slander, and intemperance, ensuring their faithfulness in all matters, including the unique challenges they may face as almoners. The focus here solely pertains to the qualifications of women deacons, rather than women in general or wives of deacons.",
+        "wordCount": 109,
+        "quoteTokenProportion": 32.47,
+        "qualityScore": 1.966515750489255,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.73,
         "commentatorTierSimilarities": [
-            32.4,
-            34.59,
-            33.01
+            32.98,
+            33.14,
+            33.88
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "These women are deaconesses...must be grave, not slanderers, sober, faithful in all things.\" ",
+            "The women in like manner...are deaconesses...must be grave, not slanderers, sober, faithful in all things.",
             "Slander being the vice to which the female sex is more addicted.",
             "Trusty in the distribution of the alms committed to them, and in all other ministrations."
         ],
         "Jamieson-Fausset-Brown": [
-            "there were doubtless deaconesses at Ephesus, such as Phoeligbe was at Cenchrea (Romans 16:1, \"servant,\" Greek, \"deaconess\"), yet no mention is made of them in this Epistle if not here; whereas, supposing them to be meant here, the third chapter embraces in due proportion all the persons in the service of the Church.",
+            "Moreover, if the wives of the deacons were meant, there seems no reason for the omission of 'their' (not in the Greek).",
             "Thus it appears he requires the same qualifications in female deacons as in deacons, only with such modifications as the difference of sex suggested.",
-            "Trustworthy in respect to the alms committed to them and their other functions, answering to 'not greedy of filthy lucre,' 1 Timothy 3:8, in the case of the deacons."
+            "Faithful in all things\u2014of life as well as faith. Trustworthy in respect to the alms committed to them and their other functions, answering to 'not greedy of filthy lucre' in the case of the deacons."
         ],
         "Albert Barnes": [
-            "No one can doubt that the character of a woman may be such, that it is not desirable that her husband should be an officer in the church.",
-            "They should not be women who were in the habit of calumniating others, or aspersing their character.",
-            "Faithful in all things - To their husbands, to their families, to the church, to the Saviour."
+            "The reason assigned for supposing that it does not refer to the wives of deacons, as such, is, that nothing is said of the qualifications of the wives of bishops - a matter of as much importance as that of the character of the wife of a deacon.",
+            "No one can doubt that the character of a woman may be such, that it is not desirable that her husband should be an officer in the church. A bad woman ought not to be entrusted with any additional power or influence.",
+            "Here it means that they should not be women who were in the habit of calumniating others, or aspersing their character. Mingling as they would with the church, and having an opportunity to claim acquaintance with many, it would be in their power, if they chose, to do great injury to the character of others."
         ],
         "Marvin Vincent": [
             "A Deacon whose wife is wanting in the qualities required in him, is not to be chosen.",
             "She would sustain an active relation to his office, and by her ministries would increase his efficiency.",
-            "By frivolity, slander, or intemperance, would bring him and his office into disrepute."
+            "By frivolity, slander, or intemperance, [the wife] would bring him and his office into disrepute."
         ],
         "John Calvin": [
-            "They must be aids to their husbands in their office; which cannot be, unless their behavior excel that of others.",
-            "Wives... must be aids to their husbands in their office.",
-            "Their behavior must excel that of others."
+            "Likewise the wives... must be aids to their husbands in their office; which cannot be, unless their behavior excel that of others.\" ",
+            "Wives... must be aids to their husbands in their office.\" ",
+            "Their behavior [as wives] must excel that of others."
         ],
         "Philip Schaff": [
-            "The functions of these deaconesses...were probably analogous to those of their male colleagues...the distribution of alms to their own sex, caring for the sick, nursing orphan children, instructing female converts, and helping in the administration of their baptism.",
-            "Not slanderers. The word so translated is that which commonly appears as the name of the devil, as the great slanderer and accuser of man and God.",
-            "Faithful. Chiefly in the sense of 'trust-worthy' in all the details of their work."
+            "The absence alike of the article and the pronoun in the Greek, and the obvious parallelism with 1 Timothy 3:8 make it far more probable that St. Paul is speaking of the women who had a like work, the deaconesses of the Apostolic Church.\" ",
+            "The functions of these deaconesses were probably analogous to those of their male colleagues: the distribution of alms to their own sex, caring for the sick, nursing orphan children, instructing female converts, and helping in the administration of their baptism.\" ",
+            "The word translated as 'not slanderers' is that which commonly appears as the name of the devil, as the great slanderer and accuser of man and God. The Pastoral Epistles are the only part of the New Testament in which it appears in its generic sense."
         ],
         "Archibald T. Robertson": [
-            "Apparently 'women as deacons' and not women in general or just 'wives of deacons.'\" ",
-            "'She-devils' in reality.\" ",
-            "Perhaps as almoners the deaconesses had special temptations."
+            "Women apparently 'women as deacons' and not women in general or just 'wives of deacons.'",
+            "Not slanderers. 'She-devils' in reality.",
+            "Faithful in all things. Perhaps as almoners the deaconesses had special temptations."
         ],
         "John Gill": [
-            "Grave in speech, gesture, and dress, of an honest report, a good behaviour, and chaste conversation; which will reflect honour and credit to their husbands.",
-            "Excessive drinking is very scandalous in the female sex; and is the rather mentioned here, because women in the eastern countries were too frequently addicted to it.",
-            "Faithful in all things; as in the marriage bed, so with whatsoever else they are intrusted with in the family, and civil concerns of their husbands."
+            "Their business it was to visit the poor and sick sisters of the church, and take care of things belonging to them.\" ",
+            "They must be...grave in speech, gesture, and dress, of an honest report, a good behaviour, and chaste conversation.",
+            "As in the marriage bed, so with whatsoever else they are entrusted with in the family, and civil concerns of their husbands."
         ],
         "John Wesley": [
             "Faithful in all things \u2014 Both to God, their husbands, and the poor."
@@ -76,67 +76,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The women who serve as deaconesses must be serious, not spreading rumors, sober-minded, and trustworthy in all aspects. Slander tends to be a vice among women, so it's important for them to refrain from engaging in it. These deaconesses are responsible for distributing alms and carrying out other ministries faithfully. It is likely that deaconesses existed in Ephesus, just as there was Phoebe in Cenchrea, yet they are not explicitly mentioned in this letter. Nevertheless, it seems that they are included here, as the qualifications for female deacons are similar to those for male deacons. The behavior of a deacon's wife is significant, as she directly influences his effectiveness in his role. Frivolousness, slander, or intemperance on her part would bring shame to him and his office. These women as deacons have specific duties, perhaps involving the administration of alms and facing unique temptations. Overall, these women are expected to be faithful in their duties, trustworthy in their care for the needy, and committed to upholding a good reputation for themselves and their husbands.",
-            "wordCount": 177,
-            "quoteTokenProportion": 41.59,
-            "qualityScore": 1.9050937685060552,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "bht": "The qualifications for women deacons are similar to those for male deacons, with some adjustments based on gender. Specifically, women deacons must be serious and not prone to slander. They must also be trustworthy in their responsibilities, such as distributing alms and carrying out other ministerial duties. It is important for women deacons to be faithful in all aspects of life, not just in matters of faith. Their role is integral to their husband's office, as they support his work and enhance his effectiveness. Women deacons must avoid frivolity, slander, and intemperance, as such behavior would bring disrepute to their husband's position. It is worth noting that the term faithful in all things could perhaps be attributed to the unique challenges faced by deaconesses in their role as almoners, exposing them to potential temptations. In this verse, the focus is on women deacons specifically, rather than women in general or the wives of deacons. Their character and behavior play a crucial role in their effectiveness as deaconesses.",
+            "wordCount": 169,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.052238097725829,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
             "commentatorTierSimilarities": [
-                33.35,
-                34.56,
-                32.08
+                32.64,
+                34.96,
+                32.4
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The women who serve as deaconesses must be serious, not spreading rumors, sober-minded, and trustworthy in all aspects. Slander tends to be a vice among women, so it's important for them to refrain from engaging in it. These deaconesses are responsible for distributing alms and carrying out other ministries faithfully. The behavior of a deacon's wife is significant, as she directly influences his effectiveness in his role. These women as deacons have specific duties, perhaps involving the administration of alms and facing unique temptations.",
-            "wordCount": 87,
-            "quoteTokenProportion": 42.42,
-            "qualityScore": 1.9178548742206067,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "bht": "Women deacons share similar qualifications with male deacons but with gender-related considerations. They must be serious and refrain from slander. Trustworthiness is vital in their responsibilities, such as handling alms. Faithfulness is required in all aspects of life. The role of deaconesses significantly impacts their husband's work. They need to avoid frivolous, slanderous, and intemperate behavior that would tarnish their spouse's reputation. The mention of being faithful in all things could pertain to the specific challenges faced by deaconesses in their role as almoners. The focus is solely on women deacons rather than women in general or wives of deacons; their conduct is crucial to their effectiveness.",
+            "wordCount": 110,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.7833856059034452,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
             "commentatorTierSimilarities": [
-                32.4,
-                34.59,
-                33.01
+                32.77,
+                31.09,
+                36.14
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The women serving as deaconesses must be serious and trustworthy, refraining from spreading rumors and living in sobriety. Being faithful in their responsibilities, they are entrusted with the distribution of alms and other ministries. The behavior of a deacon's wife is significant as it impacts his effectiveness and reputation. These women have specific duties, possibly involving the administration of alms, and they may face unique temptations. It is crucial for them to uphold a good reputation and demonstrate trustworthiness in their service.",
-            "wordCount": 83,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.7965343047646338,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "bht": "In the qualifications for women deacons, parallels can be drawn between them and male deacons. However, adjustments are made due to gender differences. Women deacons are expected to exhibit seriousness and refrain from slander. Trustworthiness is crucial, as they are entrusted with the distribution of alms and other ministerial tasks. Faithfulness is required in all areas of life. Their role is intertwined with their husband's office, and their actions can either enhance or diminish his reputation. It is important for deaconesses to avoid frivolity, slander, and intemperance, and to be faithful in all things, considering the unique challenges they may face. The focus of this verse is on women deacons specifically, rather than women in general or wives of deacons.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.873604209959479,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
             "commentatorTierSimilarities": [
-                29.35,
-                34.19,
-                36.47
+                33.45,
+                33.6,
+                32.95
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The women who serve as deaconesses must be serious, trustworthy, and abstain from spreading rumors or engaging in slander. Their faithfulness extends to the distribution of alms and other ministries entrusted to them. The behavior of a deacon's wife plays a crucial role in his effectiveness and reputation, as she aids him in his office. These women have specific duties, likely related to the administration of alms, and may face unique temptations. It is important for them to maintain a good reputation and exhibit trustworthiness in all aspects of their service.",
-            "wordCount": 92,
-            "quoteTokenProportion": 38.81,
-            "qualityScore": 1.7510308155421677,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "bht": "Women deacons possess similar qualifications as their male counterparts, but with gender-based considerations. They must display seriousness and avoid slander, being faithful in all aspects of life. Trustworthiness is vital in fulfilling their duties, such as distributing alms. The role of deaconesses directly impacts their husbands' effectiveness, and their behavior can either enhance or detract from their spouses' reputation. It is crucial for women deacons to steer clear of frivolity, slander, and intemperance, ensuring their faithfulness in all matters, including the unique challenges they may face as almoners. The focus here solely pertains to the qualifications of women deacons, rather than women in general or wives of deacons.",
+            "wordCount": 109,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.966515750489255,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
             "commentatorTierSimilarities": [
-                30.76,
-                33.45,
-                35.79
+                32.98,
+                33.14,
+                33.88
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The women who serve as deaconesses must be serious, not slanderers, sober, and faithful in all things. Their role as deaconesses includes trustworthy distribution of alms and other ministrations. These women are likely included in the third chapter's coverage of all individuals in the Church's service, and they are required to possess similar qualifications as male deacons. Their behavior directly affects the reputation and effectiveness of their husbands' office. It is important for them to exercise their duties faithfully, act with integrity, and avoid engaging in slander or frivolity.",
+            "bht": "The qualifications for women deacons closely mirror those for male deacons, with some adjustments based on gender. They should exhibit seriousness and avoid slander, while being trustworthy in their responsibilities. Deaconesses must be faithful in all aspects of life, including their duties as almoners. Their role is intertwined with their husbands' office, making their behavior essential in maintaining its reputation. Avoiding frivolity, slander, and intemperance is crucial for women deacons, who should be faithful in all matters. This verse specifically addresses women deacons, highlighting the importance of their character and conduct.",
             "wordCount": 91,
-            "quoteTokenProportion": 35.29,
-            "qualityScore": 1.905532764099064,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.035363234895506,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.02,
             "commentatorTierSimilarities": [
-                29.51,
-                34.55,
-                35.94
+                32.46,
+                33.04,
+                34.51
             ],
             "generationAttempt": 5
         }

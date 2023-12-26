@@ -1,7 +1,7 @@
 # Ephesians 1:2 Commentary Help Text
 
 ## BHT:
-Grace and peace to you. These words, used as a form of greeting, are found in other letters as well. Grace, a central theme of this epistle, is mentioned thirteen times throughout. The mention of peace is a prayer that the recipients of this letter would experience peace from God. For further insights on this greeting, see the notes on Romans 1:7.
+The opening of the letter follows a familiar pattern of greeting, resembling other greetings found in Romans 1:7 and 1 Corinthians 1:3. The term grace holds significant weight in this epistle, being mentioned a total of thirteen times. It is crucial for the readers to grasp that this grace is extended to them, along with the peace that originates from God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,34 +29,38 @@ Grace and peace to you. These words, used as a form of greeting, are found in ot
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:25:59
+- Timestamp: 12-25-2023 20:08:22
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 61
-- BHT Commentary Usage: 51.11%
-- BHT Quality Score: 1.671987088222178
+- BHT Word Count: 58
+- BHT Commentary Usage: 37.78%
+- BHT Quality Score: 1.725805642086085
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (45):
-	['a', 'and', 'are', 'as', 'central', 'epistle', 'experience', 'for', 'form', 'found', 'from', 'further', 'god', 'grace', 'greeting', 'in', 'insights', 'is', 'letter', 'letters', 'mention', 'mentioned', 'notes', 'of', 'on', 'other', 'peace', 'prayer', 'recipients', 'romans', 'see', 'that', 'the', 'theme', 'these', 'thirteen', 'this', 'throughout', 'times', 'to', 'used', 'well', 'words', 'would', 'you']
-- ChatGPT injected words (significant words only) (22):
-	['central', 'epistle', 'experience', 'form', 'found', 'god', 'grace', 'greeting', 'insights', 'letter', 'letters', 'mention', 'mentioned', 'notes', 'peace', 'prayer', 'recipients', 'romans', 'theme', 'thirteen', 'times', 'words']
+	['a', 'along', 'and', 'being', 'corinthians', 'crucial', 'epistle', 'extended', 'familiar', 'follows', 'for', 'found', 'from', 'god', 'grace', 'grasp', 'greeting', 'greetings', 'holds', 'in', 'is', 'it', 'letter', 'mentioned', 'of', 'opening', 'originates', 'other', 'pattern', 'peace', 'readers', 'resembling', 'romans', 'significant', 'term', 'that', 'the', 'them', 'thirteen', 'this', 'times', 'to', 'total', 'weight', 'with']
+- ChatGPT injected words (significant words only) (28):
+	['corinthians', 'crucial', 'epistle', 'extended', 'familiar', 'follows', 'found', 'god', 'grace', 'grasp', 'greeting', 'greetings', 'holds', 'letter', 'mentioned', 'opening', 'originates', 'pattern', 'peace', 'readers', 'resembling', 'romans', 'significant', 'term', 'thirteen', 'times', 'total', 'weight']
 
 ### Logs
-- Attempt 1 BHT: Grace and peace to you. These words, used as a form of greeting, are found in other letters as well. Grace, a central theme of this epistle, is mentioned thirteen times throughout. The mention of peace is a prayer that the recipients of this letter would experience peace from God. For further insights on this greeting, see the notes on Romans 1:7.
-- 🔄 Ephesians 1:2 (attempt 1, 61 words, 51.11% quotes quality score: 1.671987088222178, V2 normalized quality score: 46.94, commentator tiers 1-3: 25.22%, 46.77%, 28.01%)
-- Attempt 2 BHT: Grace and peace be to you. The form of greeting used here is similar to other greetings found in Romans 1:7, 1 Corinthians 1:3, 2 Corinthians 1:2, and Galatians 1:3. The word grace is significant in this epistle, as it is used thirteen times. May the grace of God bring you peace.
-- 🔄 Ephesians 1:2 (attempt 2, 46 words, 46.88% quotes quality score: 2.0178636097199063, V2 normalized quality score: 58.44, commentator tiers 1-3: 28.88%, 38.76%, 32.36%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Grace and peace be to you, as is commonly seen in greetings like the ones found in Romans 1:7, 1 Corinthians 1:3, 2 Corinthians 1:2, and Galatians 1:3. The term grace is a prominent theme in this letter, appearing thirteen times. Thus, may the abundant grace of God overwhelm you and bring you true peace.
-- 🔄 Ephesians 1:2 (attempt 3, 49 words, 36.11% quotes quality score: 1.936252479463251, V2 normalized quality score: 55.72, commentator tiers 1-3: 29.69%, 43.23%, 27.09%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: May the grace of God bring you peace. The greeting in Ephesians 1:2 follows a similar pattern as in Romans 1:7, 1 Corinthians 1:3, 2 Corinthians 1:2, and Galatians 1:3. The word grace is used extensively throughout this letter, appearing thirteen times. Therefore, may you experience the unmerited favor and abundant blessings of God, leading to a deep sense of tranquility and well-being.
-- 🔄 Ephesians 1:2 (attempt 4, 57 words, 37.21% quotes quality score: 1.7295050321636776, V2 normalized quality score: 48.85, commentator tiers 1-3: 30.41%, 39.73%, 29.87%) 
+- Attempt 1 BHT: The verse begins with a form of greeting that is similar to other passages in the Bible, such as Romans 1:7 and 1 Corinthians 1:3. The word grace is a recurring theme in the epistle, used thirteen times. This grace is extended to the readers, along with peace from God.
+- 🔄 Ephesians 1:2 (attempt 1, 47 words, 44.44% quotes quality score: 1.9052428193162743, V2 normalized quality score: 54.69, commentator tiers 1-3: 35.34%, 41.61%, 23.06%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: May the grace of God be upon you, accompanied by true peace. This greeting bears resemblance to similar salutations found in Romans, Corinthians, and Galatians. The theme of grace is central to this epistle, being referenced a total of thirteen times. It is through the unmerited favor and divine blessings of God that you are bestowed with tranquility and a sense of well-being.
-- 🔄 Ephesians 1:2 (attempt 5, 64 words, 41.67% quotes quality score: 1.6080244243676034, V2 normalized quality score: 44.81, commentator tiers 1-3: 28.04%, 37.9%, 34.06%) 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The greeting in this passage echoes similar greetings found in other parts of the Bible like Romans 1:7 and 1 Corinthians 1:3. The word grace is a prominent theme throughout the entire epistle, appearing a total of thirteen times. It is important for the readers to understand that this grace is extended to them, along with the peace that comes from God.
+- 🔄 Ephesians 1:2 (attempt 2, 59 words, 37.78% quotes quality score: 1.756227497768069, V2 normalized quality score: 49.74, commentator tiers 1-3: 33.28%, 41.07%, 25.65%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: The opening of the letter follows a familiar pattern of greeting, resembling other greetings found in Romans 1:7 and 1 Corinthians 1:3. The term grace holds significant weight in this epistle, being mentioned a total of thirteen times. It is crucial for the readers to grasp that this grace is extended to them, along with the peace that originates from God.
+- 🔄 Ephesians 1:2 (attempt 3, 58 words, 37.78% quotes quality score: 1.725805642086085, V2 normalized quality score: 48.72, commentator tiers 1-3: 36.62%, 42.16%, 21.23%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 1:2 bht prompt v0.8 (61 words, 51.11% quotes)
-- quality score: 1.671987088222178, V2 normalized quality score: 46.94, commentator tiers 1-3: 25.22%, 46.77%, 28.01%)
+- Attempt 4 BHT: The greeting used in this verse is similar to greetings found in Romans 1:7, 1 Corinthians 1:3, 2 Corinthians 1:2, and Galatians 1:3. The word grace is a prominent theme in this epistle, appearing thirteen times. The readers are reminded that this grace is extended to them, along with the peace that comes from God.
+- 🔄 Ephesians 1:2 (attempt 4, 49 words, 38.89% quotes quality score: 1.9018378653485404, V2 normalized quality score: 54.58, commentator tiers 1-3: 36.17%, 40.15%, 23.68%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: The opening greeting of this passage reflects the greetings found in Romans 1:7, 1 Corinthians 1:3, 2 Corinthians 1:2, and Galatians 1:3. The word grace holds great significance in this epistle, repeatedly mentioned throughout. It is important for readers to grasp that this grace is extended to them, along with the peace that originates from God.
+- 🔄 Ephesians 1:2 (attempt 5, 50 words, 38.46% quotes quality score: 1.7682938878514802, V2 normalized quality score: 50.14, commentator tiers 1-3: 33.72%, 40.43%, 25.86%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- ✅ Ephesians 1:2 bht prompt v0.8 (58 words, 37.78% quotes)
+- quality score: 1.725805642086085, V2 normalized quality score: 48.72, commentator tiers 1-3: 36.62%, 42.16%, 21.23%)

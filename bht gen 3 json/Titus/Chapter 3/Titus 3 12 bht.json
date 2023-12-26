@@ -1,54 +1,54 @@
 {
-    "timestamp": "12-19-2023 17:09:01",
+    "timestamp": "12-25-2023 19:30:11",
     "verseRef": "Titus 3:12",
     "bestBHT": {
-        "bht": "Hasten to come to me to Nicopolis for there I have determined to spend the winter. Tychicus, Paul's well-known disciple, is being sent to help you in Crete. His aid were needed in the work of the ministry there. This person is not elsewhere mentioned in the New Testament, and nothing more is known of him.",
-        "wordCount": 58,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.737408322263967,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+        "bht": "Paul urges Titus to come to him urgently as he plans to winter in Nicopolis, a potential place for ministry. To replace Titus, Artemas and Tychicus, both trusted ministers of the Gospel, will be sent to Crete. Artemas may have been the bishop of Lystra, while Tychicus was a well-known disciple of Paul. The brethren in Crete are described as unfruitful, indicating the need for new leadership. Scholars debate the location of Nicopolis, but it is likely in Epirus.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.8665681053819996,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.4,
         "commentatorTierSimilarities": [
-            29.05,
-            38.95,
-            32.0
+            27.06,
+            35.41,
+            37.53
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Hasten to come to me to Nicopolis... for there I have determined to spend the winter.\" ",
-            "Forward on their journey with zeal Zenas the Lawyer and Apollos, that nothing may be wanting to them.",
-            "There is an apocryphal \u2018Acts of \u2018Titus\u2019 bearing his name"
+            "Hasten (make it thine earnest care) to come to me.",
+            "Forward on their journey with zeal Zenas the Lawyer.",
+            "That nothing may be wanting to them."
         ],
         "Jamieson-Fausset-Brown": [
             "Artemas is said to have been subsequently bishop of Lystra.",
-            "Tychicus was sent twice by Paul from Rome to Lesser Asia in his first imprisonment.",
-            "Tradition makes him [Tychicus] subsequently bishop of Chalcedon, in Bithynia."
+            "Tychicus was sent twice by Paul from Rome to Lesser Asia in his first imprisonment (which shows how well qualified he was to become Titus' successor in Crete).",
+            "Nicopolis\u2014'the city of victory,' called so from the battle of Actium, in Epirus."
         ],
         "Albert Barnes": [
             "This person is not elsewhere mentioned in the New Testament, and nothing more is known of him.",
-            "Why Paul designed to spend the winter there, or what he purposed to do there, are questions on which no light can now be thrown.",
+            "It was at this place, probably, that this epistle was written.",
             "His requesting Titus to leave his important post and to come to him, looks as if his aid were needed in the work of the ministry there, and as if Paul supposed there was a promising field of labor there."
         ],
         "Marvin Vincent": [
-            "To winter. Comp. Acts 27:12; Acts 28:11; 1 Corinthians 16:6. The noun paraceimasia wintering, Acts 27:12.",
-            "Ours. Our brethren in Crete.",
-            "Unfruitful. Only here in Pastorals. In Paul, 1 Corinthians 14:14; Eph. verse 11. Not only in supplying the needs, but in cultivating Christian graces in themselves by acts of Christian service."
+            "To winter [\u03c0\u03b1\u03c1\u03b1\u03c7\u03b5\u03b9\u03bc\u03b1\u03c3\u03b1\u03b9] . Comp. Acts 27:12; Acts 28:11; 1 Corinthians 16:6.",
+            "Ours [\u03b7\u03bc\u03b5\u03c4\u03b5\u03c1\u03bf\u03b9] . Our brethren in Crete.",
+            "Unfruitful [\u03b1\u03ba\u03b1\u03c1\u03c0\u03bf\u03b9] . Only here in Pastorals. In Paul, 1 Corinthians 14:14; Eph. verse 11."
         ],
         "Philip Schaff": [
             "Titus was soon to be replaced that he might rejoin the apostle.",
             "Artemas is unknown; by tradition, Bishop of Lystra.",
-            "Tychicus, of the province of Asia, who carried from Rome the letters to Colosse and to Ephesus."
+            "Tychicus, of the province of Asia (Acts 20:4), who carried from Rome the letters to Colosse (Colossians 4:7-8), and to Ephesus (so called; see Ephesians 6:21-22)."
         ],
         "Archibald T. Robertson": [
-            "I have determined (\u03ba\u03b5\u03ba\u03c1\u03b9\u03ba\u03b1). Perfect active indicative. I have decided.",
-            "To winter there (\u03b5\u03ba\u03b5 \u03c0\u03b1\u03c1\u03b1\u03c7\u03b5\u03b9\u03bc\u03b1\u03c3\u03b1). First aorist active infinitive of \u03c0\u03b1\u03c1\u03b1\u03c7\u03b5\u03b9\u03bc\u03b1\u03b6\u03c9, a literary Koine word for which see Acts 27:12; 1 Corinthians 16:6.",
-            "Or Tychicus (\u03b7 \u03a4\u03c5\u03c7\u03b9\u03ba\u03bf\u03bd). Paul's well-known disciple (Colossians 4:7; Ephesians 6:21; 2 Timothy 4:12)."
+            "Artemas. Perhaps abbreviation of Artemidorus. Nothing more is known of him.",
+            "Or Tychicus. Paul's well-known disciple.",
+            "To Nicopolis. Probably in Epirus, a good place for work in Dalmatia."
         ],
         "John Gill": [
-            "These were both of them ministers of the Gospel; there is no mention of Artemas anywhere else; some say he was one of the seventy disciples, and that he was afterwards bishop of Lystra; but these are uncertain things...\" ",
-            "Hither the apostle would have Titus come to him, after one or other of the above ministers were come to Crete; for as the apostle had the care of all the churches upon him, he would not remove a minister from one place to another, without making a provision in their room...",
-            "...this shows that this epistle was not written from thence, as the subscription asserts; for then he would have said 'here', and not 'there'."
+            "These were both of them ministers of the Gospel; there is no mention of Artemas anywhere else; some say he was one of the seventy disciples, and that he was afterwards bishop of Lystra; but these are uncertain things.",
+            "Hither the apostle would have Titus come to him, after one or other of the above ministers were come to Crete; for as the apostle had the care of all the churches upon him, he would not remove a minister from one place to another, without making a provision in their room.",
+            "For I have determined there to winter; that is, to continue there all the winter; not without labour, but to preach the Gospel, and administer the ordinances to the saints there."
         ],
         "John Wesley": [
             "Titus was properly an evangelist, who, according to the nature of that office, had no fixed residence; but presided over other elders, wherever he travelled from place to place, assisting each of the apostles according to the measure of his abilities.",
@@ -73,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Hasten to come to me to Nicopolis... for there I have determined to spend the winter. Forward on their journey with zeal. I have decided to winter there. Tychicus, Paul's well-known disciple, is being sent to help you in Crete. This person is not elsewhere mentioned in the New Testament, and nothing more is known of him. His requesting Titus to leave his important post and to come to him, looks as if his aid were needed in the work of the ministry there.",
-            "wordCount": 86,
-            "quoteTokenProportion": 45.76,
-            "qualityScore": 1.6622047823662573,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "bht": "Titus is urged to come to Paul urgently as Artemas and Tychicus will be sent to Crete to replace him. It is mentioned that Artemas may have been the bishop of Lystra, while Tychicus was a trusted disciple of Paul. Paul plans to winter in Nicopolis, a place with potential for ministry. The brethren in Crete are described as unfruitful, implying the need for a change in leadership. Scholars debate the location of Nicopolis, but it is likely in Epirus. Titus, being an evangelist, traveled to various places, aiding the apostles as needed. This letter was not written from Nicopolis, suggesting that Titus had not yet arrived there.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.8808183260945053,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
             "commentatorTierSimilarities": [
-                31.77,
-                36.94,
-                31.29
+                23.92,
+                36.19,
+                39.88
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Hasten to come to me to Nicopolis... for there I have determined to spend the winter. Tychicus, Paul's well-known disciple, is being sent to help you in Crete. His requesting Titus to leave his important post and to come to him, looks as if his aid were needed in the work of the ministry there. This person is not elsewhere mentioned in the New Testament, and nothing more is known of him.",
-            "wordCount": 74,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.835559599008219,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "bht": "Paul urges Titus to come to him urgently as he plans to winter in Nicopolis, a potential place for ministry. To replace Titus, Artemas and Tychicus, both trusted ministers of the Gospel, will be sent to Crete. Artemas may have been the bishop of Lystra, while Tychicus was a well-known disciple of Paul. The brethren in Crete are described as unfruitful, indicating the need for new leadership. Scholars debate the location of Nicopolis, but it is likely in Epirus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8665681053819996,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.4,
             "commentatorTierSimilarities": [
-                27.27,
-                40.09,
-                32.65
+                27.06,
+                35.41,
+                37.53
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Hasten to come to me to Nicopolis for there I have determined to spend the winter. Tychicus, Paul's well-known disciple, is being sent to help you in Crete. His aid were needed in the work of the ministry there. This person is not elsewhere mentioned in the New Testament, and nothing more is known of him.",
-            "wordCount": 58,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.737408322263967,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "bht": "Paul exhorts Titus to hasten and join him urgently, as he plans to winter in Nicopolis, a city known as the city of victory. To replace Titus, Paul intends to send Artemas, possibly a bishop of Lystra, and Tychicus, a well-regarded disciple who was sent by Paul on previous occasions. The brethren in Crete are described as unfruitful, highlighting the need for new leadership. Scholars debate the exact location of Nicopolis, but it is believed to be a suitable place for ministry in Epirus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7851730844777236,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
             "commentatorTierSimilarities": [
-                29.05,
-                38.95,
-                32.0
+                26.53,
+                34.46,
+                39.01
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul urges Titus to come to him in Nicopolis for the winter, demonstrating Paul's intention to spend the winter there. Zenas the Lawyer and Apollos are also encouraged to proceed on their journey with zeal. There is some uncertainty surrounding certain individuals mentioned, such as Artemas and Tychicus. It is speculated that Tychicus may have been a disciple of Paul, as he is mentioned in other letters by the apostle. Regardless, Titus, being an evangelist, had no fixed residence and would assist other elders as he traveled. The specific location of Nicopolis is disputed, with some suggesting it may be in Macedonia or along the sea-coast of Epirus. This epistle was likely not written from Nicopolis, as Paul would have used here instead of there if he was already there.",
-            "wordCount": 132,
-            "quoteTokenProportion": 47.19,
-            "qualityScore": 1.8240049302703982,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "bht": "Paul urges Titus to come to him urgently as he plans to winter in Nicopolis, a potential place for ministry. To replace Titus, Artemas and Tychicus, trusted ministers of the Gospel, will be sent to Crete. Scholarly debates surround the location of Nicopolis, but it is likely in Epirus. The unfruitfulness of the brethren in Crete implies the need for new leadership. Artemas was possibly the bishop of Lystra, while Tychicus was a well-known disciple of Paul.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8316945885602263,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
             "commentatorTierSimilarities": [
-                25.52,
-                32.91,
-                41.57
+                26.99,
+                35.66,
+                37.35
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul plans to spend the winter in Nicopolis and urges Titus to join him there. He also encourages Zenas the Lawyer and Apollos to continue their journey with enthusiasm. There is some ambiguity concerning Artemas and Tychicus, but Titus, being an evangelist, traveled and assisted other elders as needed. The location of Nicopolis is debated, with possibilities including Macedonia or the sea-coast of Epirus. The epistle was most likely not written from Nicopolis, as Paul would have used here instead of there if he was already there.",
-            "wordCount": 88,
-            "quoteTokenProportion": 44.62,
-            "qualityScore": 1.7771776736361382,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "bht": "Paul implores Titus to come to him with utmost care and urgency, for he plans to winter in Nicopolis, a city famous for the battle of Actium. To replace Titus in Crete, Paul intends to send either Artemas, whose identity remains uncertain, or Tychicus, a trusted disciple known for delivering letters for Paul in the past. The unfruitfulness of the brethren in Crete necessitates new leadership. Although scholars debate the exact location, Nicopolis in Epirus is viewed as a probable choice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.7117466904615246,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.26,
             "commentatorTierSimilarities": [
-                25.13,
-                34.16,
-                40.72
+                29.61,
+                33.37,
+                37.01
             ],
             "generationAttempt": 5
         }

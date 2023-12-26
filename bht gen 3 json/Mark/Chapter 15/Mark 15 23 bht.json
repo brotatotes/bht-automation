@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-22-2023 23:29:50",
+    "timestamp": "12-25-2023 19:29:50",
     "verseRef": "Mark 15:23",
     "bestBHT": {
-        "bht": "They were giving him wine mingled with myrrh, or myrrhed wine. This drink was offered to Jesus, but he refused it. The purpose of this beverage was to intoxicate and numb the pain, but Jesus did not need any external means to support his spirit or alleviate his sorrows. He fearlessly confronted death without seeking any escape or relief.",
+        "bht": "They were giving, i.e. they offered, wine mingled with myrrh. This drink, possibly sour wine, was for Jesus. However, he refused it, showing he needed no outward means to support him or lessen his sorrows. The mixture may have been intended to intoxicate Jesus, but he steadfastly declined, demonstrating his unwavering strength and trust in God's plan.",
         "wordCount": 59,
-        "quoteTokenProportion": 41.3,
-        "qualityScore": 1.789775945869624,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.8930219913215818,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.28,
         "commentatorTierSimilarities": [
-            34.83,
-            26.82,
-            38.35
+            36.41,
+            24.06,
+            39.53
         ],
         "generationAttempt": 4
     },
@@ -23,9 +23,9 @@
             "Myrrh - See the notes at Matthew 27:34."
         ],
         "Marvin Vincent": [
-            "They were for giving; attempted to give.",
-            "So Rev., excellently, offered.",
-            "Lit., myrrhed wine."
+            "They were for giving; attempted to give.\" ",
+            "Offered.",
+            "Wine mingled with myrrh."
         ],
         "Philip Schaff": [
             "Mark 15:23. They offered him, or, \u2018were giving Him;\u2019 it was offered merely, not forced upon Him.",
@@ -34,14 +34,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "They offered him [...]. The verb means flavoured with myrrh, myrrhed wine.",
+            "They offered him... The verb means flavoured with myrrh, myrrhed wine.\" ",
             "It is not inconsistent with Matthew 27:34 'mingled with gall,' which see.",
             "Mark's statement is that he refused it."
         ],
         "John Gill": [
-            "The design of it was to intoxicate, that they might not feel their pain and misery.",
-            "He needed no such outward means to support his spirits, nor desired any allay of his sorrows.",
-            "He was not afraid to meet death in all its terrors."
+            "he that goes to be executed they mix for him, \u05d1\u05db\u05d5\u05e1 \u05e9\u05dc \u05d9\u05d9\u05df \u05e7\u05d5\u05e8\u05d8 \u05e9\u05dc \u05dc\u05d1\u05d5\u05e0\u05d4, 'a grain of frankincense in a cup of wine', that his mind may be disturbed, or not sensible; as it is said, Proverbs 31:6, 'give strong drink to him that is ready to perish, and wine to the bitter in soul'\".",
+            "the design of it was to intoxicate, that they might not feel their pain and misery: but neither the rich women in general, nor were the public so disposed towards Christ, as to provide such a potion for him\".",
+            "he received it not; nor would he so much as taste of it... to show that he needed no such outward means to support his spirits, nor desired any allay of his sorrows\"."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "They attempted to give him wine mingled with myrrh, also known as myrrhed wine. This was a common drink of the Roman soldiers and it was offered to Jesus, not forced upon him. The purpose of this drink was to intoxicate and numb the pain, but Jesus refused it. He did not need any external means to support his spirits or alleviate his sorrows. He fearlessly faced death in all its terrors without seeking any sort of escape or distraction.",
-            "wordCount": 80,
-            "quoteTokenProportion": 44.07,
-            "qualityScore": 1.7224915808691152,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+            "bht": "They offered him wine mingled with myrrh, which was a common drink of the Roman soldiers. Some suggest that it was wine soured and could be called either vinegar or wine mixed with gall. Mark's statement is that Jesus refused it, emphasizing that he did not need such outward means to sustain him or alleviate his sorrows. The offering of wine mingled with myrrh may have been an attempt to intoxicate Jesus or dull his senses, but he steadfastly declined, choosing to fully experience his pain and misery. His rejection of this potion demonstrated his unwavering strength and his trust in God's plan.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.9236197576313567,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
             "commentatorTierSimilarities": [
-                30.72,
-                27.09,
-                42.18
+                33.76,
+                26.04,
+                40.19
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "They were giving him wine mingled with myrrh, which could also be described as myrrhed wine. This drink, often consumed by Roman soldiers, was offered to Jesus, but he refused it. The purpose of this beverage was to intoxicate and alleviate pain, but Jesus did not need such external means to strengthen his resolve or ease his suffering. He fearlessly confronted death in all its terrifying aspects without seeking any form of escape or relief.",
-            "wordCount": 75,
-            "quoteTokenProportion": 46.88,
-            "qualityScore": 1.697238207798354,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "bht": "They offered him wine mingled with myrrh, an attempt to intoxicate and numb his senses. Yet Jesus refused, showing that he needed no such outward means to support him or lessen his sorrows. The drink may have been sour wine commonly consumed by Roman soldiers. His resolute rejection demonstrated his unwavering strength and his trust in God's plan, choosing to fully experience the pain and misery without any external relief.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.785458553399824,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
             "commentatorTierSimilarities": [
-                33.84,
-                29.6,
-                36.56
+                32.12,
+                22.38,
+                45.51
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "They offered him myrrhed wine, specifically wine mingled with myrrh, which was also referred to as vinegar mingled with gall in Matthew's account. This drink, commonly consumed by Roman soldiers, was given to Jesus, but he refused it. The intention behind this drink was to intoxicate and dull the pain, but Jesus did not require external means to sustain his spirit or alleviate his sorrows. He courageously faced death in all its forms, undeterred by fear.",
+            "bht": "They were for giving, attempting to offer him wine mingled with myrrh, which is flavored with myrrh, myrrhed wine. This drink, possibly sour wine, was commonly consumed by Roman soldiers. However, Jesus refused to partake, revealing that he needed no such external means to sustain him or alleviate his sorrows. The mixture may have been intended to intoxicate Jesus or dull his senses, but he steadfastly declined, displaying his unwavering strength and trust in God's plan.",
             "wordCount": 77,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.741826189614926,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8624341082798601,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
             "commentatorTierSimilarities": [
-                33.27,
-                30.19,
-                36.54
+                32.33,
+                26.16,
+                41.51
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "They were giving him wine mingled with myrrh, or myrrhed wine. This drink was offered to Jesus, but he refused it. The purpose of this beverage was to intoxicate and numb the pain, but Jesus did not need any external means to support his spirit or alleviate his sorrows. He fearlessly confronted death without seeking any escape or relief.",
+            "bht": "They were giving, i.e. they offered, wine mingled with myrrh. This drink, possibly sour wine, was for Jesus. However, he refused it, showing he needed no outward means to support him or lessen his sorrows. The mixture may have been intended to intoxicate Jesus, but he steadfastly declined, demonstrating his unwavering strength and trust in God's plan.",
             "wordCount": 59,
-            "quoteTokenProportion": 41.3,
-            "qualityScore": 1.789775945869624,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8930219913215818,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
             "commentatorTierSimilarities": [
-                34.83,
-                26.82,
-                38.35
+                36.41,
+                24.06,
+                39.53
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "They attempted to give him wine mingled with myrrh, also known as myrrhed wine. This common drink of the Roman soldiers was offered to Jesus, but he refused it. The purpose of this drink was to intoxicate and numb their pain and misery. However, Jesus did not require such outward means to support his spirits or allay his sorrows. He fearlessly faced death in all its terrors without any need for escape.",
-            "wordCount": 72,
-            "quoteTokenProportion": 47.46,
-            "qualityScore": 1.706968129304524,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "bht": "They offered him wine mingled with myrrh, attempting to intoxicate and numb his senses. Yet Jesus refused, displaying his unwavering strength and trust in God's plan. The drink, possibly sour wine, was commonly consumed by Roman soldiers. His resolute rejection demonstrated his self-sufficiency and refusal to rely on external means to alleviate his sorrows. By refusing this potion, Jesus chose to fully experience the pain and misery, showcasing his unwavering commitment to fulfilling his mission.",
+            "wordCount": 77,
+            "quoteTokenProportion": 22.03,
+            "qualityScore": 1.6688152654538442,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.83,
             "commentatorTierSimilarities": [
-                30.64,
-                26.22,
-                43.14
+                33.18,
+                22.93,
+                43.88
             ],
             "generationAttempt": 5
         }

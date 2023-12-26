@@ -1,23 +1,23 @@
 {
-    "timestamp": "12-19-2023 15:16:41",
+    "timestamp": "12-25-2023 19:33:38",
     "verseRef": "2 Corinthians 7:16",
     "bestBHT": {
-        "bht": "I am filled with joy and reassurance because of your good conduct. Your behavior has given me new courage and has dispelled the doubts I once had. Thank you for being a source of encouragement to me.",
-        "wordCount": 37,
-        "quoteTokenProportion": 54.84,
-        "qualityScore": 1.9157630936863939,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+        "bht": "I rejoice that in everything I am of good courage concerning you. Owing to your good conduct, I am (re)-assured by you. The outcome has brought joy, courage, and hope to Paul, inspiring his faith and encouraging him in his ministry. Paul finds confidence in the Corinthians, as they receive his words in good part and he can freely offer reproof, admonition, and advice. Their love and obedience, proven through experience, allow Paul to boast of their faithfulness and speak boldly in their favor.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.9622702164985157,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.59,
         "commentatorTierSimilarities": [
-            50.06,
-            13.75,
-            36.19
+            39.15,
+            21.8,
+            39.05
         ],
-        "generationAttempt": 1
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "I rejoice that in every thing I am (re)-assured by you.",
-            "Am of good courage, in contrast to my former dejection, owing to your good conduct.",
+            "I rejoice...that in every thing I am (re)-assured by you.\" ",
+            "Am of good courage, in contrast to my former dejection.\" ",
             "Owing to your good conduct."
         ],
         "Jamieson-Fausset-Brown": [
@@ -26,7 +26,7 @@
             "As contrasted with my former doubts concerning you."
         ],
         "Albert Barnes": [
-            "No man can be a Christian who voluntarily indulges in sin, or in what he knows to be wrong.",
+            "No man can be a Christian who voluntarily indulges in sin, or in what he knows to be wrong.\" ",
             "The way to bring people to repentance is to present to them the simple and unvarnished truth.",
             "The great purpose of Christian discipline is to benefit the whole church."
         ],
@@ -41,9 +41,9 @@
             "I am of good courage (\u03b8\u03b1\u03c1\u03c1\u03c9). The outcome has brought joy, courage, and hope to Paul. "
         ],
         "John Gill": [
-            "I can speak freely and boldly to you, reprove, admonish, and advise you, since you take it all in good part, as I design it.",
-            "I can confidently speak in your favour, boast of your love and obedience, which is found upon trial and by experience to be truth.",
-            "I can promise myself every good thing from you, that is proper to ask of you, and lies in your power to perform."
+            "I rejoice therefore that I have confidence in you in all things.\" ",
+            "That I can speak freely and boldly to you, reprove, admonish, and advise you, since you take it all in good part, as I design it.",
+            "That I can confidently speak in your favour, boast of your love and obedience, which is found upon trial and by experience to be truth."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "I am filled with joy and reassurance because of your good conduct. Your behavior has given me new courage and has dispelled the doubts I once had. Thank you for being a source of encouragement to me.",
-            "wordCount": 37,
-            "quoteTokenProportion": 54.84,
-            "qualityScore": 1.9157630936863939,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "bht": "I rejoice that in everything I am of good courage concerning you. Despite his previous dejection, Paul now finds reassurance and confidence in the Corinthians' good conduct. His joy, courage, and hope are strengthened by their actions. Paul is comforted by the fact that he can speak freely and boldly to them, offering reproof, admonition, and advice, as they receive it in good part. He can confidently boast of their love and obedience, which has been proven through experience. Through their example, the Corinthians inspire Paul's faith and encourage him in his ministry.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.7442181845415992,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
             "commentatorTierSimilarities": [
-                50.06,
-                13.75,
-                36.19
+                37.9,
+                23.94,
+                38.16
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "I am filled with joy and reassurance because of your good conduct, which has led to my newfound courage and hope. Your actions have proven that my doubts were unfounded, and now I can confidently speak in your favor and boast of your love and obedience. I am encouraged by the outcome and can freely speak to you, reproving and advising you, knowing that you take it all in good part. From you, I can expect every good thing that lies in your power to perform.",
-            "wordCount": 86,
-            "quoteTokenProportion": 46.43,
-            "qualityScore": 2.0766270339024744,
-            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "bht": "I rejoice that in everything I am of good courage concerning you. Owing to your good conduct, I am (re)-assured by you. The outcome has brought joy, courage, and hope to Paul. Paul is comforted by the fact that he can speak freely and boldly to them, offering reproof, admonition, and advice, as they receive it in good part. Through their example, the Corinthians inspire Paul's faith and encourage him in his ministry.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.9054110265326414,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
             "commentatorTierSimilarities": [
-                34.97,
-                14.88,
-                50.15
+                43.61,
+                20.27,
+                36.12
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "I rejoice that in everything I am of good courage, reassured by your good conduct. Your actions have brought me joy, courage, and hope. I can confidently speak in your favor and boast of your love and obedience, knowing that you take my admonishments in good part. From you, I can expect every good thing that lies in your power to perform.",
-            "wordCount": 62,
-            "quoteTokenProportion": 46.34,
-            "qualityScore": 2.1809702900109933,
-            "qualityScoreNormalizedComparedToV2BHTs": 63.86,
+            "bht": "I rejoice that in everything I am of good courage concerning you. Owing to your good conduct, I am (re)-assured by you. The outcome has brought joy, courage, and hope to Paul. Paul is comforted by the fact that he can speak freely and boldly to them. Through their example, the Corinthians inspire Paul's faith and encourage him in his ministry.",
+            "wordCount": 63,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.920761208370021,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
             "commentatorTierSimilarities": [
-                39.68,
-                16.01,
-                44.31
+                43.97,
+                20.34,
+                35.69
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "I am filled with joy and reassurance because of your good conduct, which has led to my newfound courage and hope. Your actions have proven that my doubts were unfounded, and now I can confidently speak in your favor and boast of your love and obedience. I am encouraged by the outcome and can freely speak to you, reproving and advising you, knowing that you take it all in good part. From you, I can expect every good thing that lies in your power to perform.",
-            "wordCount": 86,
-            "quoteTokenProportion": 46.43,
-            "qualityScore": 2.0766270339024744,
-            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "bht": "I rejoice that in everything I am of good courage concerning you. Owing to your good conduct, I am reassured by you. The outcome has brought joy, courage, and hope to Paul. Paul finds reassurance and confidence in the Corinthians' actions. He can speak freely and boldly to them, offering reproof, admonition, and advice, as they receive it in good part. Through their example, the Corinthians inspire Paul's faith and encourage him in his ministry.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8283151679227514,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.13,
             "commentatorTierSimilarities": [
-                34.97,
-                14.88,
-                50.15
+                42.48,
+                20.7,
+                36.82
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "I rejoice in the reassurance and courage I find in you, for your good conduct has brought me joy and hope. My former doubts have been dispelled, and I can now confidently speak in your favor, boasting of your love and obedience. Your actions demonstrate that you take my admonishments in good part, allowing me to freely offer guidance and advice. With you, I can anticipate every good thing within your power to accomplish.",
-            "wordCount": 74,
-            "quoteTokenProportion": 44.23,
-            "qualityScore": 1.9075680702396607,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.77,
+            "bht": "I rejoice that in everything I am of good courage concerning you. Owing to your good conduct, I am (re)-assured by you. The outcome has brought joy, courage, and hope to Paul, inspiring his faith and encouraging him in his ministry. Paul finds confidence in the Corinthians, as they receive his words in good part and he can freely offer reproof, admonition, and advice. Their love and obedience, proven through experience, allow Paul to boast of their faithfulness and speak boldly in their favor.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9622702164985157,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
             "commentatorTierSimilarities": [
-                35.23,
-                14.97,
-                49.81
+                39.15,
+                21.8,
+                39.05
             ],
             "generationAttempt": 5
         }

@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 21:44:34",
+    "timestamp": "12-25-2023 20:08:53",
     "verseRef": "Revelation 9:10",
     "bestBHT": {
-        "bht": "These creatures possess tails resembling scorpions and are capable of inflicting harm upon men for a five-month span. The comparison of their tails to scorpions highlights their undeniable similarity and suggests their authority in causing suffering. The stings found in their tails symbolize the distress and anguish they bring upon others. It is noteworthy that these calamities endure for quite a long time, as represented by the five prophetic months, equivalent to around seventy-nine common years.",
-        "wordCount": 78,
-        "quoteTokenProportion": 37.29,
-        "qualityScore": 1.9250473187427048,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+        "bht": "The locusts described in this statement possess tails resembling scorpions, demonstrating their capacity to cause harm. The specific nature of their sting is located within their tails, signifying their authorized power to inflict injury. This comparison fittingly underscores the distinctiveness of their ability to hurt, much like the quills of a porcupine or a cock's spur. Their tails are emblematic of their potent authority, serving as a symbol of the harm they can cause.",
+        "wordCount": 75,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 2.0285039441669053,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.79,
         "commentatorTierSimilarities": [
-            35.57,
-            32.71,
-            31.72
+            42.42,
+            31.9,
+            25.68
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "And they have tails like to scorpions, and stings: this is the particular especially in which the comparison finds its aptitude.",
-            "And in their tails is their power to hurt men five months.",
-            "In their tails is their power to hurt men."
+            "And they have tails like to scorpions (i.e., to the tails of scorpions), and stings (vis. in their tails: this is the particular especially in which the comparison finds its aptitude).",
+            "In their tails is their power to hurt men five months.",
+            "This is the particular especially in which the comparison finds its aptitude."
         ],
         "Jamieson-Fausset-Brown": [
             "tails like unto scorpions\u2014like unto the tails of scorpions.",
@@ -28,20 +28,22 @@
         "Albert Barnes": [
             "The fancy of an Arab now often discerns a resemblance between the tail of the locust and the scorpion.",
             "The only thing which they have resembling a sting is a hard bony subsubstance like a needle, with which the female punctures the bark and wood of trees in order to deposit her eggs.",
-            "It does not appear that the wrong would be by inflicting bodily torments, but would be characterized by that injustice toward others which produces distress and anguish."
+            "The word used here - \u03b1\u0313\u03b4\u03b9\u03ba\u03b7\u0342\u03c3\u03b1\u03b9 adike\u0304sai, rendered 'to hurt' - is different from the word in Revelation 9:5 - \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03c3\u03b8\u03c9\u0342\u03c3\u03b9\u03bd basanistho\u0304sin, rendered 'should be tormented'."
         ],
         "Archibald T. Robertson": [
-            "Tails...like unto scorpions"
+            "Like unto the tails of the scorpions\" (\u03bf\u03bc\u03bf\u03b9\u03b1\u03c2 \u03c3\u03ba\u03bf\u03c1\u03c0\u03b9\u03bf\u03b9\u03c2). ",
+            "It is used 'of the spur of a cock, the quill of the porcupine, and the stings of insects'.\" ",
+            "This locates 'their power to hurt' (\u03b7 \u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1 \u03b1\u03c5\u03c4\u03c9\u03bd \u03b1\u03b4\u03b9\u03ba\u03b7\u03c3\u03b1) in their tails."
         ],
         "John Gill": [
-            "And they had tails like unto scorpions.\" ",
-            "And there were stings in their tails.\" ",
-            "and their power [was] to hurt men five months."
+            "And they had tails like unto scorpions,.... Locusts are said to have the tail of a serpent, and of the vipers of the earth.\" ",
+            "And there were stings in their tails; either in the baser sort of them, the Saracens and Papists; or in their doctrines, the prophet being the tail, Isaiah 9:15; with which both Mahomet, who set himself up for a prophet, and the Romish clergy, who set up their decrees and unwritten traditions above the word of God, have poisoned and destroyed multitudes of souls.",
+            "And their power [was] to hurt men five months."
         ],
         "John Wesley": [
-            "And they have tails like scorpions \u2014 That is, each tail is like a scorpion, not like the tail of a scorpion.\" ",
-            "To hurt the unsealed men five months - Five prophetic months; that is, seventy-nine common years\" ",
-            "So long did these calamities last."
+            "And they have tails like scorpions... each tail is like a scorpion, not like the tail of a scorpion.\" ",
+            "To hurt the unsealed men five months... so long did these calamities last.",
+            "Five prophetic months; that is, seventy-nine common years."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -61,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse describes creatures with tails like unto scorpions that have the power to hurt men for a period of five months. The commentators remark on the aptitude of this comparison, highlighting the authority and ability of these creatures to inflict harm. They discuss the resemblance between the tails of these creatures and scorpions, pointing out that the stings mentioned may not be literal, but rather symbolic of the distress and anguish caused by their unjust actions. These calamities are said to last for a significant period of time, symbolized by the five prophetic months or seventy-nine common years.",
-            "wordCount": 100,
-            "quoteTokenProportion": 39.13,
-            "qualityScore": 1.7431782680167078,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "bht": "The locusts described in this verse have tails like scorpions, which is where their ability to harm lies. The comparison is apt, highlighting the power and authority they possess. Their ability to hurt men for five months is located specifically in their tails. This image of scorpion-like tails demonstrates the unique nature of their sting, similar to the spur of a cock or quill of a porcupine. This is not a literal representation, but rather a symbol of the locusts' authorized power to inflict harm.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.8595110889471558,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
             "commentatorTierSimilarities": [
-                34.66,
-                31.6,
-                33.73
+                39.73,
+                30.38,
+                29.89
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The creatures in question possess scorpion-like tails with stings that have the authority to harm for five months. The comparison between the creatures and scorpions is emphasized as apt. Although the stings may be symbolic, they represent the distress caused by their unjust actions. These afflictions last for a considerable duration, symbolized by the five prophetic months or seventy-nine common years.",
-            "wordCount": 63,
-            "quoteTokenProportion": 45.1,
-            "qualityScore": 1.6279615638783334,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "bht": "The locusts in this passage possess tails resembling scorpions, portraying their capacity to cause harm. Their ability to inflict pain for a period of five months rests solely in their tails. The comparison of their tails to scorpions' tails is fitting because it accurately conveys the essence of their authorized power to hurt. This imagery sheds light on the distinct nature of their sting, reminiscent of a cock's spur or a porcupine's quill.",
+            "wordCount": 75,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 2.164102945259314,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.3,
             "commentatorTierSimilarities": [
-                34.17,
-                31.75,
-                34.08
+                39.67,
+                32.09,
+                28.24
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "These scorpion-like creatures possess tails and stings that have the power to hurt men for a five-month period. The parallel between their tails and scorpions is notable, emphasizing their authority and ability to inflict harm. The stings, whether literal or symbolic, represent the distress and anguish caused by their unjust actions towards others. These afflictions endure for an extensive period of time, symbolized by the five prophetic months, roughly amounting to seventy-nine common years.",
-            "wordCount": 77,
-            "quoteTokenProportion": 33.9,
-            "qualityScore": 1.7388044493855142,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "bht": "The locusts in this verse possess tails similar to scorpions, and it is in these tails that their ability to harm lies. The comparison between their tails and scorpions is especially fitting, emphasizing their authority to cause injury. Their tails contain their power to hurt men for a period of five months. This comparison effectively conveys the unique nature of their sting, resembling the spurs of a cock or the quills of a porcupine.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1572653633402066,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
             "commentatorTierSimilarities": [
-                33.94,
-                34.49,
-                31.56
+                40.79,
+                29.28,
+                29.94
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The creatures described in this passage have tails like unto scorpions and possess the authority to harm men for a specified period of time. The comparison between their tails and scorpions is appropriate, emphasizing their power in causing harm. The stings in their tails symbolize the distress and anguish they bring upon others. This affliction lasts for a significant duration, represented by the five prophetic months or approximately seventy-nine common years.",
-            "wordCount": 72,
-            "quoteTokenProportion": 35.19,
-            "qualityScore": 1.9270151707321852,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "bht": "The locusts described in this statement possess tails resembling scorpions, demonstrating their capacity to cause harm. The specific nature of their sting is located within their tails, signifying their authorized power to inflict injury. This comparison fittingly underscores the distinctiveness of their ability to hurt, much like the quills of a porcupine or a cock's spur. Their tails are emblematic of their potent authority, serving as a symbol of the harm they can cause.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.0285039441669053,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
             "commentatorTierSimilarities": [
-                37.12,
-                30.63,
-                32.25
+                42.42,
+                31.9,
+                25.68
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "These creatures possess tails resembling scorpions and are capable of inflicting harm upon men for a five-month span. The comparison of their tails to scorpions highlights their undeniable similarity and suggests their authority in causing suffering. The stings found in their tails symbolize the distress and anguish they bring upon others. It is noteworthy that these calamities endure for quite a long time, as represented by the five prophetic months, equivalent to around seventy-nine common years.",
-            "wordCount": 78,
-            "quoteTokenProportion": 37.29,
-            "qualityScore": 1.9250473187427048,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "bht": "The locusts in this passage have tails like scorpions, which is where their power to harm lies. The comparison between their tails and scorpions is particularly apt, emphasizing the specific attribute that enables them to inflict harm. Their ability to hurt men for a duration of five months is found specifically in their tails. This imagery of scorpion-like tails highlights the unique nature of their sting, reminiscent of a cock's spur or a porcupine's quill. It serves as a symbol of their authorized power to inflict harm.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9785983558505658,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
             "commentatorTierSimilarities": [
-                35.57,
-                32.71,
-                31.72
+                40.93,
+                29.32,
+                29.76
             ],
             "generationAttempt": 5
         }

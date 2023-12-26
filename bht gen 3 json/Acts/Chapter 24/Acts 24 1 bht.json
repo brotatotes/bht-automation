@@ -1,47 +1,53 @@
 {
-    "timestamp": "12-19-2023 16:35:52",
+    "timestamp": "12-25-2023 19:34:54",
     "verseRef": "Acts 24:1",
     "bestBHT": {
-        "bht": "After five days since leaving Jerusalem, Ananias and the elders, led by the high priest, appeared before the governor with accusations against Paul. Lacking familiarity with Roman legal procedures, they enlisted the help of Tertullus, a Roman orator, to present their case. This hiring of a Roman lawyer was necessary, as it was the custom in the provinces and the Jews were not well-versed in Roman law. Their actions revealed their evil intentions and the extent of their plot against Paul, but he can find encouragement in this history, knowing that justice will prevail.",
-        "wordCount": 95,
-        "quoteTokenProportion": 38.57,
-        "qualityScore": 1.9679821012534067,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+        "bht": "After five days, Ananias and the elders, representing the Sanhedrin, informed the Roman governor against Paul, hiring Tertullus, a Roman advocate, to contend with him. This choice of a Roman lawyer was necessary because the Jews were not familiar with Roman legal procedure. Their aim went beyond proving Paul's guilt; they sought to oppress him and dampen his ability to defend himself. The high priest, aware of his illegal actions, and the elders, conscious of their involvement in the conspiracy to harm Paul, employed a rhetorician to further their oppressive intentions.",
+        "wordCount": 92,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.993048169208738,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.61,
         "commentatorTierSimilarities": [
-            36.05,
-            36.04,
-            27.91
+            31.94,
+            27.34,
+            40.71
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "This would be the natural point from which to date the proceedings of the High Priest, &c., who were left in Jerusalem.\" ",
-            "Tertullus] The name is a diminutive from Tertius, as Lucullus from Lucius,\u2014Catullus from Catius.\" ",
-            "informed] laid information; and, as it seems, not by writing, but by word of mouth, since they appeared in person, and Paul was called to confront them."
+            "After five days\" - This would be the natural point from which to date the proceedings of the High Priest, &c.",
+            "Tertullus\" - Many Roman youths, who were studying for the bar, were in the habit of accompanying the magistrates into the provinces, to practice themselves in pleading the causes of the provincials.",
+            "Informed\" - They laid information; and, as it seems, not by writing, but by word of mouth, since they appeared in person, and Paul was called to confront them."
         ],
         "Jamieson-Fausset-Brown": [
-            "after five days\u2014or, on the fifth day from their departure from Jerusalem.",
-            "Ananias . . . with the elders\u2014a deputation of the Sanhedrim.",
-            "informed . . . against Paul\u2014\"laid information,\" that is, put in the charges."
+            "after five days\u2014or, on the",
+            "\tfifth day from their departure from Jerusalem.\" ",
+            "Ananias . . . with the",
+            "\telders\u2014a deputation of the Sanhedrim.",
+            "a certain orator\u2014one of",
+            "\tthose Roman advocates who trained themselves for the higher practice",
+            "\tof the metropolis by practicing in the provinces, where the Latin",
+            "\tlanguage, employed in the courts, was but imperfectly understood and",
+            "\tRoman forms were not familiar."
         ],
         "Albert Barnes": [
             "Ananias, the high priest - See the notes on Acts 23:2.",
-            "With a certain orator named Tertullus - Appointed to accuse Paul.",
+            "Descended - Came down from Jerusalem. This was the usual language when a departure from Jerusalem was spoken of. See the notes on Acts 15:1.",
             "Who informed the governor against Paul - Who acted as the accuser, or who managed their cause before the governor."
         ],
         "Marvin Vincent": [
             "An orator [\u03c1\u03b7\u03c4\u03bf\u03c1\u03bf\u03c2] . An advocate. The Jews, being little acquainted with Roman forms and laws, had to employ Roman advocates."
         ],
         "John Calvin": [
-            "It was a sign of an evil conscience...they hire a rhetorician.",
-            "The Jews did omit nothing whereby they might oppress Paul.",
-            "Let him call to mind this history, and let him be of good courage."
+            "Forasmuch as Paul did use no eloquence, they had no need to hire a rhetorician to contend with him in eloquence. Moreover, they did exceed both in dignity and also in multitude, so that it was an easy matter for them to oppress a poor man, and such a one as was destitute of man\u2019s help.\" ",
+            "Therefore it was a sign of an evil conscience, in that seeing they were men of great experience, exercised in public affairs, and skillful in matters pertaining to courts, they hire a rhetorician.\" ",
+            "And Luke declareth this, therefore, that we may know that the Jews did omit nothing whereby they might oppress Paul; and that they might not only prove him guilty, but so dash him out of countenance, that he might not be able to defend himself."
         ],
         "Philip Schaff": [
             "Roman usage required that a case referred to the higher tribunal like this should be proceeded with as soon as possible.",
             "The \u2018orator\u2019 or rhetorician was an advocate acquainted with the forms of Roman law, employed by the Sanhedrim to conduct their cases in the governor\u2019s court at C\u00e6sarea.",
-            "It has been urged that this address of Tertullus was spoken in the Latin tongue, as originally Latin appears to have been insisted on as the language of the law courts throughout the Empire."
+            "The alleged Latinisms of the speech of Tertullus sprang naturally from the forms of procedure and certain of the technical terms being originally derived from Rome."
         ],
         "Archibald T. Robertson": [
             "The employment of a Roman lawyer (Latin orator) was necessary since the Jews were not familiar with Roman legal procedure and it was the custom in the provinces.",
@@ -50,8 +56,8 @@
         ],
         "John Gill": [
             "The high priest must be conscious to himself that he had acted in an illegal manner, in ordering Paul to be smitten on the mouth, in the midst of the council.",
-            "The elders knew what a hand they had in the conspiracy against his life...",
-            "They were sensible that this plot was discovered, and Paul was secretly conveyed away..."
+            "And the elders knew what a hand they had in the conspiracy against his life; and they were sensible that this plot was discovered, and Paul was secretly conveyed away.",
+            "This man's title, in the Greek text, is \u03c1\u03b7\u03c4\u03c9\u03c1, 'Rhetor', a rhetorician; but though with the Latins an 'orator' and a 'rhetorician' are distinguished, an orator being one that pleads causes in courts, and a rhetorician a professor of rhetoric; yet, with the Greeks, the 'Rhetor' is an orator."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +77,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After five days since leaving Jerusalem, Ananias, the high priest, along with a delegation of elders, appeared before the governor to lay information and accusations against Paul. To present their case, they employed an orator named Tertullus, as the Jews were not familiar with Roman legal procedure. This choice of a Roman lawyer was necessary for them, as they had little knowledge of Roman forms and laws. Tertullus, acting as their accuser, spoke in the Latin tongue, as it was originally insisted upon as the language of the law courts throughout the Empire. It is clear that the Jewish leaders spared no effort in their attempt to oppress Paul, revealing their evil intentions and the plot against his life. Paul, however, can take courage in this history, knowing that the truth will prevail.",
-            "wordCount": 133,
-            "quoteTokenProportion": 36.84,
-            "qualityScore": 1.981006605317984,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+            "bht": "Five days after their departure from Jerusalem, a deputation of the Sanhedrin, led by Ananias and the elders, informed the Roman governor against Paul. To contend with Paul, an advocate skilled in Roman law, Tertullus, was hired since the Jews were not familiar with Roman legal procedure. As they accused Paul, their aim was not only to prove his guilt but also to oppress him to the point that he wouldn't be able to defend himself. This action revealed their evil conscience and their desire to silence Paul, a poor man who lacked help. The high priest, conscious of his illegal actions, and the elders, aware of their involvement in the conspiracy against Paul's life, sought to oppress him further by hiring a rhetorician.",
+            "wordCount": 126,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.9095970924014312,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
             "commentatorTierSimilarities": [
-                33.5,
-                37.63,
-                28.87
+                28.44,
+                27.14,
+                44.43
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After five days since leaving Jerusalem, Ananias and the elders, led by the high priest, appeared before the governor with accusations against Paul. Lacking familiarity with Roman legal procedures, they enlisted the help of Tertullus, a Roman orator, to present their case. This hiring of a Roman lawyer was necessary, as it was the custom in the provinces and the Jews were not well-versed in Roman law. Their actions revealed their evil intentions and the extent of their plot against Paul, but he can find encouragement in this history, knowing that justice will prevail.",
-            "wordCount": 95,
-            "quoteTokenProportion": 38.57,
-            "qualityScore": 1.9679821012534067,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+            "bht": "Five days after their departure, a deputation from the Sanhedrin, led by Ananias and the elders, accused Paul before the governor. Since the Jews were unfamiliar with Roman legal procedure, they hired Tertullus, an advocate skilled in Roman law, to contend with Paul. Their goal was not only to prove his guilt but also to oppress him. This revealed their evil conscience and their desire to silence Paul, a poor man lacking help. The high priest, aware of his illegal actions, and the elders, conscious of their involvement in the conspiracy against Paul's life, sought to further oppress him by hiring a rhetorician.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.8115021871602692,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
             "commentatorTierSimilarities": [
-                36.05,
-                36.04,
-                27.91
+                27.93,
+                26.58,
+                45.49
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After five days, Ananias, the high priest, along with a delegation of elders, appeared before the governor in Caesarea to accuse Paul. To navigate the Roman legal proceedings, they employed Tertullus, an orator familiar with Roman law, as their advocate. The Jewish leaders, conscious of their illegal actions, spared no effort to oppress Paul, plotting against his life. However, Paul can find courage in this history, knowing that the truth will prevail and those who conspired against him will be exposed.",
-            "wordCount": 81,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.9036670013336652,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "bht": "After five days, Ananias and the elders, representing the Sanhedrin, informed the Roman governor against Paul, hiring Tertullus, a Roman advocate, to contend with him. This choice of a Roman lawyer was necessary because the Jews were not familiar with Roman legal procedure. Their aim went beyond proving Paul's guilt; they sought to oppress him and dampen his ability to defend himself. The high priest, aware of his illegal actions, and the elders, conscious of their involvement in the conspiracy to harm Paul, employed a rhetorician to further their oppressive intentions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.993048169208738,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
             "commentatorTierSimilarities": [
-                31.65,
-                36.95,
-                31.41
+                31.94,
+                27.34,
+                40.71
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "After five days, Ananias and the elders, accompanied by the high priest, brought forward accusations against Paul before the governor. To navigate the unfamiliarity with Roman legal procedures, they employed Tertullus, an orator well-versed in Roman law, as their advocate. Their actions revealed their evil intentions and the plot against Paul's life. Paul can take solace in this history, knowing that the truth will prevail, and those who conspired against him will face just consequences.",
-            "wordCount": 77,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.854040490536883,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "bht": "Five days after their departure, a deputation from the Sanhedrin, led by Ananias and the elders, accused Paul before the governor. They hired Tertullus, a Roman advocate, since they were unfamiliar with Roman legal procedure. Their intention was not only to prove his guilt but also to oppress and silence him. Their decision to employ a rhetorician highlighted their evil conscience and desire to prevent Paul from defending himself. The high priest, aware of his illegal actions, and the elders, cognizant of their involvement in the conspiracy against Paul's life, sought to further oppress him by hiring an orator.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.789867007495425,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
             "commentatorTierSimilarities": [
-                30.99,
-                37.09,
-                31.92
+                28.88,
+                26.18,
+                44.94
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "After five days, the high priest Ananias, together with a delegation of elders, appeared before the governor to present their accusations against Paul. They enlisted the services of Tertullus, an orator well-versed in Roman law, to navigate the legal proceedings. The Jewish leaders, well aware of their own wrongdoing, made relentless efforts to oppress Paul through their plot against his life. However, Paul can draw strength from this history, knowing that truth will ultimately prevail over their malicious intentions.",
-            "wordCount": 80,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.8092213071901913,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "bht": "After five days, a deputation from the Sanhedrin, led by Ananias and the elders, accused Paul before the Roman governor. To contend with Paul, they hired Tertullus, a Roman advocate, due to their lack of familiarity with Roman legal procedure. Their goal was not only to prove Paul's guilt but also to oppress him and hinder his ability to defend himself. This decision to employ a rhetorician demonstrated their evil conscience and their determination to silence Paul, a vulnerable individual in need of support.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8543994445485623,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
             "commentatorTierSimilarities": [
-                28.99,
-                38.0,
-                33.01
+                29.75,
+                27.0,
+                43.26
             ],
             "generationAttempt": 5
         }

@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 23:46:23",
+    "timestamp": "12-25-2023 19:29:32",
     "verseRef": "Matthew 11:13",
     "bestBHT": {
-        "bht": "John the Baptist's preaching marked the transition to a new era, signifying the end of the old dispensation guided by the law and the prophets. His message of the impending kingdom of heaven not only fulfilled prophecies but also sealed the absence of further prophecies about the Messiah and his kingdom. John's role as the precursor to Christ emphasized the significance of recognizing God's manifestation and not remaining indifferent. His preaching was just the beginning, laying the groundwork for the Gospel and directing attention to the presence of Christ.",
-        "wordCount": 92,
-        "quoteTokenProportion": 29.31,
-        "qualityScore": 1.6501728871913315,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+        "bht": "John the Baptist ushered in a new era, signifying the conclusion of the old dispensation governed by the prophets and the law of Moses. While the law and the prophets depicted God through symbolic means, they didn't fully reveal His presence. John's preaching, though a part of the Gospel, served as an initial lesson, explicitly proclaiming the arrival of Christ. Within this new era, the prophecies regarding the Messiah and His kingdom ceased, marking the end of the old dispensation and the dawn of the new.",
+        "wordCount": 88,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.9689291470003394,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.81,
         "commentatorTierSimilarities": [
             0.0,
-            52.19,
-            47.81
+            55.55,
+            44.45
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Albert Barnes": [
             "John introduced a new dispensation; and that the old one, under which the prophets and the law of Moses were the guide, was closed when he preached that the kingdom of heaven was at hand.",
             "By the 'law' is meant here the five books of Moses; by the prophets, the remainder of the books of the Old Testament.",
-            "It is meant by this verse that John introduced a new dispensation."
+            "John introduced a new dispensation; and that the old one, under which the prophets and the law of Moses were the guide, was closed when he preached that the kingdom of heaven was at hand."
         ],
         "John Calvin": [
             "The Law and the Prophets did not present God before the eyes of men, but represented him under figures and shadows as absent.",
             "It is highly criminal in men to remain indifferent when they have obtained a manifestation of the presence of God.",
-            "Although John\u2019s preaching was a part of the Gospel, it was little more than a first lesson."
+            "John's preaching was a part of the Gospel, but it was little more than a first lesson."
         ],
         "Philip Schaff": [
             "A proof of the coming in of the new era.",
@@ -33,10 +33,10 @@
         "John Gill": [
             "John spake of him as already come, and in plain terms, and directed to his very person.",
             "Since his time, there have been no prophecies concerning the Messiah and his kingdom; vision and prophecy are now sealed up.",
-            "Since that time, they confess they have had no prophet and that they are not able to observe their signs."
+            "From the day that the temple was destroyed, prophecy was taken away from the prophets."
         ],
         "John Wesley": [
-            "For all that is written in the law and the prophets only foretold as distant what is now fulfilled.",
+            "For all the prophets and the law prophesied until John \u2014 For all that is written in the law and the prophets only foretold as distant what is now fulfilled.",
             "In John the old dispensation expired, and the new began.",
             "Luke 16:16."
         ]
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "John the Baptist introduced a new era, closing the old dispensation where the law and the prophets were the guide, and preached that the kingdom of heaven was at hand. His role was significant, as he was both associated with the prophets and supported their high position. Through his preaching, the coming of the Messiah and his kingdom was prophesied and sealed up, leading to the fulfillment of what was previously written in the law and the prophets. John's message was just the beginning of the Gospel, a first lesson that pointed directly to the presence of Christ. Since his time, there have been no prophecies regarding the Messiah, highlighting the importance of heeding God's manifestation and not remaining indifferent.",
-            "wordCount": 122,
-            "quoteTokenProportion": 37.66,
-            "qualityScore": 1.7422267439156078,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "bht": "John the Baptist marked the beginning of a new era, closing the chapter of the old dispensation guided by the prophets and the law of Moses. The law and the prophets, though they represented God through figures and shadows, did not present Him before the eyes of men. John's preaching, part of the Gospel, was a first lesson, speaking plainly about the coming of Christ. With his arrival, the prophecies concerning the Messiah and His kingdom ceased, as the old dispensation expired, and the new began. Luke 16:16 supports this idea. In light of these teachings, it is highly irresponsible for individuals to remain indifferent when the presence of God has been made known to them.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 1.6542228283253273,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
             "commentatorTierSimilarities": [
                 0.0,
-                52.28,
-                47.72
+                49.7,
+                50.3
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "John the Baptist brought forth a new era, marking the end of the old dispensation governed by the law and the prophets. His proclamation of the kingdom of heaven's imminent arrival served as a prophecy fulfilled. As a result, vision and prophecy were sealed up, with no future prophecies concerning the Messiah and his kingdom. John's preaching, although a part of the Gospel, merely provided a foundational lesson that unequivocally pointed to the presence of Christ. It is crucial for individuals to recognize God's manifestation and not remain apathetic or indifferent.",
-            "wordCount": 94,
-            "quoteTokenProportion": 29.85,
-            "qualityScore": 1.5880412110705144,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+            "bht": "With John the Baptist's arrival, a new dispensation began, closing the era of the prophets and the law of Moses. The law and the prophets, presented through figures and shadows, didn't fully reveal God's presence to men. John's preaching, an initial lesson within the Gospel, foretold plainly the coming of Christ. Subsequently, the prophecies about the Messiah and His kingdom ceased, as the old dispensation expired and the new commenced. This transition is supported by Luke 16:16. It is crucial for individuals not to remain apathetic when God's presence is made known to them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.5893655372509605,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.19,
             "commentatorTierSimilarities": [
                 0.0,
-                51.01,
-                48.99
+                50.9,
+                49.1
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "John the Baptist's preaching marked the transition to a new era, signifying the end of the old dispensation guided by the law and the prophets. His message of the impending kingdom of heaven not only fulfilled prophecies but also sealed the absence of further prophecies about the Messiah and his kingdom. John's role as the precursor to Christ emphasized the significance of recognizing God's manifestation and not remaining indifferent. His preaching was just the beginning, laying the groundwork for the Gospel and directing attention to the presence of Christ.",
-            "wordCount": 92,
-            "quoteTokenProportion": 29.31,
-            "qualityScore": 1.6501728871913315,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "bht": "John the Baptist's arrival marked the inauguration of a new era, signifying the end of the previous dispensation led by the prophets and the law of Moses. While the law and the prophets portrayed God through symbols and shadows, they fell short of presenting His complete presence. John, in his preaching, offered an initial lesson within the Gospel, boldly proclaiming the imminent arrival of Christ. As a result, the prophecies concerning the Messiah's kingdom ceased, initiating the transition from the old to the new dispensation. The significance of John's role is confirmed in Luke 16:16.",
+            "wordCount": 97,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.707714467084852,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.12,
             "commentatorTierSimilarities": [
                 0.0,
-                52.19,
-                47.81
+                53.44,
+                46.56
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "John the Baptist played a pivotal role in introducing a new era, bringing an end to the old dispensation governed by the law and the prophets. His proclamation of the kingdom of heaven's imminent arrival fulfilled prophecies and sealed the absence of future prophecies about the Messiah and his kingdom. John's preaching, while a part of the Gospel, served as an initial lesson that unequivocally pointed to the presence of Christ. It is essential to acknowledge God's manifestation and not remain impassive or indifferent when encountering it.",
-            "wordCount": 90,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 1.5393694505455304,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "bht": "The arrival of John the Baptist marked the beginning of a new dispensation, closing the era of the prophets and the law of Moses. The law and the prophets, though they represented God through figures and shadows, did not fully reveal His presence. John's preaching, as the first lesson within the Gospel, openly proclaimed the coming of Christ. With the establishment of the new era, the prophecies regarding the Messiah's kingdom ceased, bringing an end to the old dispensation. This transition is affirmed in Luke 16:16.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7900389040975342,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
             "commentatorTierSimilarities": [
                 0.0,
-                50.69,
-                49.31
+                53.14,
+                46.86
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "John the Baptist marked the transition to a new era, closing the previous dispensation associated with the law and the prophets. Through his preaching, he prophesied the coming of the Messiah and his kingdom, fulfilling what was previously written. John's role was foundational, serving as a precursor to Christ's presence. Since his time, there have been no prophecies concerning the Messiah, highlighting the significance of recognizing and responding to God's manifestation. It is crucial not to remain indifferent when experiencing God's presence and the fulfillment of His plans.",
-            "wordCount": 92,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.6174987895180988,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "bht": "John the Baptist ushered in a new era, signifying the conclusion of the old dispensation governed by the prophets and the law of Moses. While the law and the prophets depicted God through symbolic means, they didn't fully reveal His presence. John's preaching, though a part of the Gospel, served as an initial lesson, explicitly proclaiming the arrival of Christ. Within this new era, the prophecies regarding the Messiah and His kingdom ceased, marking the end of the old dispensation and the dawn of the new.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9689291470003394,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
             "commentatorTierSimilarities": [
                 0.0,
-                51.32,
-                48.68
+                55.55,
+                44.45
             ],
             "generationAttempt": 5
         }

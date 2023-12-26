@@ -1,54 +1,54 @@
 {
-    "timestamp": "12-19-2023 16:35:42",
+    "timestamp": "12-25-2023 20:08:50",
     "verseRef": "Acts 23:16",
     "bestBHT": {
-        "bht": "In this account, Paul's nephew, possibly a student like Paul once was, becomes instrumental in thwarting a plot against his uncle's life. The fact that he had knowledge of the conspiracy suggests that he may have heard about it in the schools or through some other acquaintances. Through his courageous actions, he risked his life by coming forward and informing Paul about the plot. This incident showcases not only the providence of God but also illustrates a remarkable example of duty and affection towards family.",
-        "wordCount": 87,
-        "quoteTokenProportion": 44.44,
-        "qualityScore": 1.6521619807190167,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.28,
+        "bht": "It is uncertain if Paul's sister's son lived in Jerusalem, but if he did, he may have gained knowledge of the conspiracy plot through his education and contacts. He took a risky step by promptly acting upon this information, putting his life in danger. The fact that higher Roman officials treated Paul with courtesy despite his persecuted status is worth noting. This highlights the Lord's wisdom and ability to find a way to save, even in seemingly impossible situations.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.730389477793364,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.88,
         "commentatorTierSimilarities": [
-            37.63,
-            29.66,
-            32.71
+            34.56,
+            38.18,
+            27.26
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The use of ch. xx. 5 will include more than merely Luke.",
-            "From his knowledge of the plot, which presupposes other acquaintances than he would have been likely to make if he had come with St. Paul.",
-            "Possibly under instruction, as was formerly Paul himself, and thus likely, in the schools, to have heard the scheme spoken of."
+            "It is quite uncertain whether Paul\u2019s sister's son lived in Jerusalem, or had accompanied him thither.",
+            "The us of ch. xx. 5, will include more than merely Luke.",
+            "But from his knowledge of the plot, which presupposes other acquaintances than he would have been likely to make if he had come with St. Paul, I should suppose him to have been domiciled at Jerusalem."
         ],
         "Jamieson-Fausset-Brown": [
-            "Paul's sister's son\u2014(See on Acts 9:30).",
-            "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted.",
+            "Paul's sister's son\u2014(See on Acts 9:30). If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted.\" ",
+            "If he was at this time residing at Jerusalem for his education, like Paul himself...",
             "He may have got at the schools those hints of the conspiracy on which he so promptly acted."
         ],
         "Albert Barnes": [
+            "Paul\u2019s sister\u2019s son - This is all that we know of the family of Paul.",
             "It is possible that Paul might have a sister residing there.",
-            "Paul had the privileges of a Roman citizen.",
-            "He was not very closely confined, and his friends might have free access to him."
+            "Paul had the privileges of a Roman citizen, and as no well-founded charge had been laid against him, it is probable that he was not very closely confined."
         ],
         "John Calvin": [
-            "He permitteth them to attempt many things, and he suffereth their wicked endeavors, but at length he showeth even in the twinkling of an eye \u2212 that he doth from heaven deride whatsoever men go about upon earth.\" (16)",
-            "The Lord doth show that his life is most safely kept, so that whatsoever men go about all is in vain.\" (16)",
-            "Who would have thought that a boy would have disclosed their lying in wait, which those who were partners in the conspiracy thought was known to none but to themselves? Therefore, let us learn to lean unto and stay ourselves upon the Lord, though we see no ordinary way to save ourselves, who shall find a way even through places where nothing can pass.\" (16)"
+            "He permitteth them to attempt many things, and he suffereth their wicked endeavors, but at length he showeth even in the twinkling of an eye \u2212 that he doth from heaven deride whatsoever men go about upon earth.",
+            "There is no wisdom... There is no counsel against the Lord.",
+            "Let us learn to lean unto and stay ourselves upon the Lord, though we see no ordinary way to save ourselves, who shall find a way even through places where nothing can pass."
         ],
         "Philip Schaff": [
-            "It is singular that this is the only mention in the 'Acts' of any of Paul's relations.",
-            "There were evidently many belonging to the family of the missionary apostle.",
-            "Apparently there was no difficulty of access to Paul in his temporary imprisonment in Antonia."
+            "It is singular that this is the only mention in the \u2018Acts\u2019 of any of Paul\u2019s relations.",
+            "Apparently there was no difficulty of access to Paul in his temporary imprisonment in Antonia.",
+            "Here, as in several other places, the courtesy of the higher Roman officials towards the seemingly friendless and persecuted missionary is noticeable."
         ],
         "Archibald T. Robertson": [
-            "He came, having come upon them and so discount their plot, a graphic touch.",
-            "He may be a student here from Tarsus as Paul once was.",
+            "He came (\u03c0\u03b1\u03c1\u03b1\u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). Second aorist middle participle of \u03c0\u03b1\u03c1\u03b1\u03b3\u03b9\u03bd\u03bf\u03bc\u03b1. It may mean, 'having come upon them' and so discount their plot, a graphic touch.",
+            "Perhaps, and perhaps not.",
             "He ran the risk of death if discovered."
         ],
         "John Gill": [
-            "Paul's sister's son heard of their lying in wait... he went and entered into the castle... and told Paul\" ",
-            "this her son might be there on account of his studies",
-            "an instance both of duty and affection to his uncle, and worthy of imitation"
+            "Paul might have a sister living in Jerusalem; or this her son might be there on account of his studies; he might be a pupil to one of the doctors, by which means he might come at this secret, that such a number of men were in ambush, in order to take away his uncle's life.\" ",
+            "He went and entered into the castle...though it is plain that he was not very closely confined, it was easy to have access to him; the reason might be, not only because he was a Roman, but because he was uncondemned, nor was any charge proved against him.",
+            "This was an instance both of duty and affection to his uncle, and worthy of imitation, whether it proceeded from natural relation, or from religion, or both."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Acts 23:16, we see Paul's nephew playing a crucial role in foiling a plot against his uncle's life. It is believed that he may have gained knowledge of the conspiracy due to his presence in the schools, similar to Paul's own education. Despite the risks involved, he bravely came forward and exposed the plan, ultimately saving Paul's life. This incident highlights the providence of God, who allows the wicked endeavors of men but ultimately derides them from heaven. It also serves as an example of both duty and affection, as Paul's nephew risked his own life to protect his uncle, demonstrating a faithfulness that should be imitated.",
-            "wordCount": 112,
-            "quoteTokenProportion": 37.66,
-            "qualityScore": 1.7084637719203348,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "bht": "Paul's sister's son may have been residing in Jerusalem, potentially attending the same schools as Paul for his education. It is possible that he acquired knowledge of the conspiracy plot through his connections, which allowed him to promptly act upon it. His risk of death if discovered and the uncertain outcome of his actions demonstrate his courage and loyalty to his uncle, regardless of the reasons behind it. Additionally, the courtesy shown by the higher Roman officials towards Paul, despite his seemingly friendless and persecuted state, is notable. This account reflects the wisdom and counsel of the Lord, who permits wicked endeavors but ultimately derides human plans and finds a way to save, even in seemingly impossible situations.",
+            "wordCount": 120,
+            "quoteTokenProportion": 32.58,
+            "qualityScore": 1.6785223260036017,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.15,
             "commentatorTierSimilarities": [
-                36.11,
-                31.0,
-                32.88
+                32.57,
+                38.0,
+                29.43
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this account, Paul's nephew, possibly a student like Paul once was, becomes instrumental in thwarting a plot against his uncle's life. The fact that he had knowledge of the conspiracy suggests that he may have heard about it in the schools or through some other acquaintances. Through his courageous actions, he risked his life by coming forward and informing Paul about the plot. This incident showcases not only the providence of God but also illustrates a remarkable example of duty and affection towards family.",
-            "wordCount": 87,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.6521619807190167,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.28,
+            "bht": "It is uncertain if Paul's sister's son lived in Jerusalem, but if he did, he may have gained knowledge of the conspiracy plot through his education and contacts. He took a risky step by promptly acting upon this information, putting his life in danger. The fact that higher Roman officials treated Paul with courtesy despite his persecuted status is worth noting. This highlights the Lord's wisdom and ability to find a way to save, even in seemingly impossible situations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.730389477793364,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
             "commentatorTierSimilarities": [
-                37.63,
-                29.66,
-                32.71
+                34.56,
+                38.18,
+                27.26
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this intriguing episode, Paul's nephew, who may have been studying in Jerusalem like his uncle, heard about the conspiracy against Paul. Displaying both duty and affection, he took a bold step and revealed the plot to Paul. This incident showcases the providence of God, who allows and derides the futile endeavors of men. It serves as a testament to the faithfulness and protective measures of the Lord, even when there seems to be no ordinary way to salvation.",
-            "wordCount": 80,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.5760579917814554,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "bht": "Paul's sister's son might have been residing in Jerusalem, potentially acquiring knowledge of the plot through his studies. Taking a risk, he promptly acted upon the information, endangering his life. The courtesy shown by higher Roman officials towards Paul is noteworthy given his persecuted state. It reflects the Lord's wisdom in deriding human plans and finding a way to save, even in seemingly impossible situations.",
+            "wordCount": 68,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.689948967991291,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
             "commentatorTierSimilarities": [
-                31.41,
-                32.97,
-                35.62
+                35.12,
+                40.02,
+                24.86
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this intriguing account, Paul's nephew, possibly a student in Jerusalem like Paul was, discovered the plot against his uncle's life. Displaying remarkable duty and affection, he risked his life by promptly informing Paul. This incident reveals the providence of God, who allows and derides human endeavors. It serves as a reminder to lean on the Lord, even in seemingly hopeless situations, as He can make a way where there appears to be none. The nephew's actions exemplify both loyalty and the pursuit of righteousness, setting an example for us to follow.",
-            "wordCount": 95,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.461649338902939,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.94,
+            "bht": "It is uncertain whether Paul's sister's son lived in Jerusalem, but if he did, he may have acquired hints of the conspiracy through his education. He took a risk by promptly acting on the information, potentially endangering his life. The courtesy shown by higher Roman officials towards Paul, despite his persecuted state, is worth noting. It reflects the Lord's ability to find a way to save, even in seemingly impossible situations.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7168556408019873,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
             "commentatorTierSimilarities": [
-                30.87,
-                32.15,
-                36.99
+                35.41,
+                37.72,
+                26.86
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this dramatic incident, Paul's nephew, potentially a fellow student in Jerusalem, becomes aware of a plot against Paul's life. Acting out of duty and affection, he courageously reveals the conspiracy to Paul. This event underscores the providential derision by God of earthly endeavors and the need to trust in Him, even when deliverance seems unlikely. It serves as both a powerful demonstration of familial loyalty and a lesson for us to imitate in our own acts of faithfulness.",
-            "wordCount": 81,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.6187681493130437,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "bht": "Paul's sister's son may have lived in Jerusalem, potentially acquiring knowledge from the schools about the conspiracy against his uncle. Taking a risk, he promptly acted upon this information, potentially endangering his own life. The courtesy shown by higher Roman officials towards Paul, despite his persecuted state, is worth noting. It exemplifies the Lord's ability to find a way to save, even in seemingly impossible situations.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6681496720200877,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
             "commentatorTierSimilarities": [
-                33.79,
-                33.1,
-                33.11
+                35.63,
+                38.92,
+                25.45
             ],
             "generationAttempt": 5
         }

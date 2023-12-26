@@ -1,79 +1,78 @@
 # John 12:42 Commentary Help Text
 
 ## BHT:
-Among the rulers, such as Nicodemus and Joseph, there were those who believed in Jesus but were reluctant to confess their faith out of fear of being expelled from the synagogue. This reveals their preference for the praise of men over the approval of God, demonstrating a cowardice that persists even today. Despite their remarkable belief, the hesitation to openly proclaim their faith serves as a reminder that true faith requires bold confession, especially in the face of opposition.
+The chief rulers in Jerusalem who believed in Jesus were afraid of the Pharisees and did not openly confess their faith because they did not want to be excommunicated from the synagogue. Their imperfect faith and preference for the praise of men over God's praise were similar to the cowardly excuses made by people today who refuse to step out for Christ. However, amidst the corrupt society of that time, it was truly remarkable that some remained untainted and held onto their faith.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Even of the rulers; such as Nicodemus and Joseph."
-2. "Because of the Pharisees, that is, the leaders of the sects; for they were of it themselves."
-3. "Put out of the synagogue."
+1. "among the chief rulers also"
+2. "because of the Pharisees"
+3. "put out of the synagogue"
 
 ### Albert Barnes:
-1. "Members of the Sanhedrin - Nicodemus, Joseph, and others like them."
-2. "The Pharisees were a majority of the council."
-3. "Two of them, however, did afterward evince their attachment to him. These were Joseph and Nicodemus."
+1. "Did not confess him - Did not openly avow their belief that he was the Messiah."
+2. "Two of them, however, did afterward evince their attachment to him. These were Joseph and Nicodemus."
+3. "Put out of the synagogue - Excommunicated."
 
 ### Marvin Vincent:
-1. "Among the chief rulers...even of the rulers."
-2. "They did not make confession."
-3. "That they should not be put out of the synagogue."
+1. "Among the chief rulers... even of the rulers." 
+2. "It is to be noted that John here uses of this imperfect faith which refused to complete itself in confession, the formula for complete faith." 
+3. "They did not make confession."
 
 ### John Calvin:
-1. "A striking instance, truly, of the grace of God; for, when ungodliness has once prevailed, it is a sort of universal plague, which infects with its contagion every part of the body."
-2. "It always finds some places of retreat; and thus faith has — what may be called — its harbors or places of refuge, that it may not be entirely banished from the world."
+1. "It is therefore a remarkable gift, and special grace of God, when, amidst a people so corrupt, there are some who remain untainted."
+2. "Whoever, then, holds a high station in the world, will, if he is wise, look with suspicion on his rank, that it may not stand in his way."
 3. "Let no man, therefore, flatter himself who, in any respect, conceals or dissembles his faith for fear of incurring the hatred of men; for however hateful the name of Christ may be, that cowardice which compels us to turn aside, in the smallest degree, from the confession of him, admits of no excuse."
 
 ### Philip Schaff:
-1. "Nevertheless, even from among the rulers many believed in him."
-2. "Persons believed, belonging to a body in which the bitterest foes of Jesus bore rule; and greatness of unbelief is thus in some degree counterbalanced by greatness of faith."
-3. "It was not powerful enough to surmount the obstacles placed in its way by the resolution of chap. John 9:22; and it had not reached the point at which alone it could be said that, in ‘leading out’ its possessors after the true Shepherd, its complete victory was gained."
+1. "Even from among the rulers many believed in him...even from among the members of the Sanhedrin many believed in Him." 
+2. "Persons believed, belonging to a body in which the bitterest foes of Jesus bore rule." 
+3. "It was not powerful enough to surmount the obstacles placed in its way by the resolution...and it had not reached the point at which alone it could be said that, in 'leading out' its possessors after the true Shepherd, its complete victory was gained."
 
 ### Archibald T. Robertson:
 1. "These actually 'believed on him' in their convictions, a remarkable statement as to the effect that Christ had in Jerusalem as the Sanhedrin plotted his death."
-2. "How like the cowardly excuses made today by those under conviction who refuse to step out for Christ."
+2. "They kept on not confessing. How like the cowardly excuses made today by those under conviction who refuse to step out for Christ."
 3. "They preferred the glory and praise of men more than the glory and praise of God. How απροπος these words are to some suave cowards today."
 
 ### John Gill:
-1. "The two persons just mentioned may be thought truly to have believed in Christ; but the many here spoken of seem to have had only an historical faith in him, as appears by what follows."
-2. "For where with the heart men believe in Christ to righteousness, there, with the mouth, confession is made to salvation; and between a non-confession of Christ, and a denying him, is no medium."
-3. "They had made a decree in the sanhedrim, that whoever confessed that Jesus was the Messiah, should be cast out; and they had put it into execution upon the man born blind, whose eyes Christ opened, for speaking in favour of his benefactor."
+1. "the many here spoken of seem to have had only an historical faith in him, as appears by what follows."
+2. "and between a non-confession of Christ, and a denying him, is no medium"
+3. "it was looked upon as a very dreadful thing to be put out of the synagogue"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:11:29
+- Timestamp: 12-25-2023 20:08:50
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 38.98%
-- BHT Quality Score: 1.879293649469178
+- BHT Word Count: 84
+- BHT Commentary Usage: 40.98%
+- BHT Quality Score: 1.8141965734269085
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'among', 'and', 'approval', 'as', 'being', 'belief', 'believed', 'bold', 'but', 'confess', 'confession', 'cowardice', 'demonstrating', 'despite', 'especially', 'even', 'expelled', 'face', 'faith', 'fear', 'for', 'from', 'god', 'hesitation', 'in', 'jesus', 'joseph', 'men', 'nicodemus', 'of', 'openly', 'opposition', 'out', 'over', 'persists', 'praise', 'preference', 'proclaim', 'reluctant', 'remarkable', 'reminder', 'requires', 'reveals', 'rulers', 'serves', 'such', 'synagogue', 'that', 'the', 'their', 'there', 'this', 'those', 'to', 'today', 'true', 'were', 'who']
+- ChatGPT injected words (61):
+	['afraid', 'amidst', 'and', 'be', 'because', 'believed', 'by', 'chief', 'christ', 'confess', 'corrupt', 'cowardly', 'did', 'excommunicated', 'excuses', 'faith', 'for', 'from', 'god', 'held', 'however', 'imperfect', 'in', 'it', 'jerusalem', 'jesus', 'made', 'men', 'not', 'of', 'onto', 'openly', 'out', 'over', 'people', 'pharisees', 'praise', 'preference', 'refuse', 'remained', 'remarkable', 'rulers', 's', 'similar', 'society', 'some', 'step', 'synagogue', 'that', 'the', 'their', 'they', 'time', 'to', 'today', 'truly', 'untainted', 'want', 'was', 'were', 'who']
 - ChatGPT injected words (significant words only) (36):
-	['approval', 'belief', 'believed', 'bold', 'confess', 'confession', 'cowardice', 'demonstrating', 'despite', 'especially', 'expelled', 'face', 'faith', 'fear', 'god', 'hesitation', 'jesus', 'joseph', 'men', 'nicodemus', 'openly', 'opposition', 'persists', 'praise', 'preference', 'proclaim', 'reluctant', 'remarkable', 'reminder', 'requires', 'reveals', 'rulers', 'serves', 'synagogue', 'today', 'true']
+	['afraid', 'amidst', 'believed', 'chief', 'christ', 'confess', 'corrupt', 'cowardly', 'excommunicated', 'excuses', 'faith', 'god', 'held', 'imperfect', 'jerusalem', 'jesus', 'men', 'openly', 'people', 'pharisees', 'praise', 'preference', 'refuse', 'remained', 'remarkable', 'rulers', 's', 'similar', 'society', 'step', 'synagogue', 'time', 'today', 'truly', 'untainted', 'want']
 
 ### Logs
-- Attempt 1 BHT: Even among the rulers of the sects, such as Nicodemus and Joseph, there were those who believed in Jesus. However, they did not openly confess their faith for fear of being put out of the synagogue. These individuals preferred the praise of men over the praise of God, making excuses and displaying cowardice in their convictions. Their lack of boldness serves as a stark reminder for those today who hesitate to step out for Christ when under conviction. Though their belief was remarkable considering the hostility of the Sanhedrin, it is clear that true faith necessitates public confession, and the absence of such confession reveals a mere historical faith in Jesus. This dynamic illustrates the universal struggle between godliness and ungodliness, where faith seeks refuge in a hostile world. It is a lesson for all who, fearing the hatred of men, conceal or dissemble their faith, for there is no excuse for this cowardice.
-- 🔄 John 12:42 (attempt 1, 154 words, 38.38% quotes quality score: 1.7835292824174718, V2 normalized quality score: 50.64, commentator tiers 1-3: 33.63%, 29.38%, 36.99%) 
+- Attempt 1 BHT: The chief rulers in Jerusalem who believed in Jesus kept their belief hidden because they were afraid of the Pharisees, and they did not want to be excommunicated or put out of the synagogue. These rulers had an imperfect faith, refusing to openly confess their belief in Jesus. It is unfortunate that they preferred the praise of men over the praise of God, just like some cowards today who make excuses instead of stepping out for Christ. However, amidst the corrupt people of that time, it was truly a remarkable gift and special grace of God that there were some who remained untainted. Let us not be like those who conceal or dissemble our faith for fear of being hated by men, for cowardice in confessing Christ admits of no excuse.
+- 🔄 John 12:42 (attempt 1, 131 words, 42.53% quotes quality score: 1.868123994961398, V2 normalized quality score: 53.46, commentator tiers 1-3: 33.54%, 31.71%, 34.75%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Even among the rulers, such as Nicodemus and Joseph, there were believers in Jesus who refrained from confessing their faith for fear of being expelled from the synagogue. These individuals valued the praise of men over the praise of God, making excuses and displaying cowardice in their convictions. Their example serves as a reminder for those who hesitate to stand up for Christ when faced with opposition. Although their belief was remarkable considering the hostile environment, true faith requires public confession, and the absence of such confession indicates a mere historical faith in Jesus.
-- 🔄 John 12:42 (attempt 2, 94 words, 37.31% quotes quality score: 1.7686168751025269, V2 normalized quality score: 50.15, commentator tiers 1-3: 32.73%, 30.29%, 36.98%) 
+- Attempt 2 BHT: The chief rulers in Jerusalem who believed in Jesus were afraid of the Pharisees and did not openly confess their faith because they did not want to be excommunicated from the synagogue. Their imperfect faith and preference for the praise of men over God's praise were similar to the cowardly excuses made by people today who refuse to step out for Christ. However, amidst the corrupt society of that time, it was truly remarkable that some remained untainted and held onto their faith.
+- 🔄 John 12:42 (attempt 2, 84 words, 40.98% quotes quality score: 1.8141965734269085, V2 normalized quality score: 51.66, commentator tiers 1-3: 34.79%, 33.09%, 32.12%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Among the rulers, such as Nicodemus and Joseph, there were believers in Jesus who were hesitant to openly confess their faith for fear of being expelled from the synagogue. They prioritized the admiration of men over the approval of God, making excuses and displaying cowardice in their convictions. This serves as a poignant reminder for those who shrink back from boldly proclaiming their faith. Though their belief was notable given the antagonistic atmosphere, true faith demands public confession, highlighting the significance of openly acknowledging Jesus as Lord.
-- 🔄 John 12:42 (attempt 3, 87 words, 35.94% quotes quality score: 1.7439679115701838, V2 normalized quality score: 49.33, commentator tiers 1-3: 33.02%, 32.69%, 34.29%) 
+- Attempt 3 BHT: The chief rulers who believed in Jesus kept their faith hidden because they feared the Pharisees and did not want to be excommunicated from the synagogue. They had an imperfect faith, refusing to openly confess their belief, prioritizing the praise of men over God's. Despite the corrupt environment, it was remarkable that some remained untainted in their belief. One should not conceal or dissemble their faith out of fear, for cowardice in confessing Christ admits of no excuse.
+- 🔄 John 12:42 (attempt 3, 79 words, 41.94% quotes quality score: 1.8141416794006728, V2 normalized quality score: 51.66, commentator tiers 1-3: 32.3%, 35.14%, 32.55%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Among the chief rulers in Jerusalem, some believed in Jesus but chose to keep their faith hidden because they feared the Pharisees and did not want to be excommunicated from the synagogue. This demonstrates an imperfect faith that fails to openly confess belief, preferring the praise of men over God's. It is remarkable that amidst the corrupt society, there were those who remained untainted. We should not conceal or dissemble our faith due to the fear of incurring the hatred of others, for such cowardice admits of no excuse.
+- 🔄 John 12:42 (attempt 4, 90 words, 47.95% quotes quality score: 1.7635325914832642, V2 normalized quality score: 49.98, commentator tiers 1-3: 32.17%, 31.49%, 36.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Even among the rulers, like Nicodemus and Joseph, there were those who believed in Jesus but hesitated to confess their faith for fear of being expelled from the synagogue. They preferred the praise of men over that of God and made excuses, reflecting the cowardice seen in society today. Yet their belief was remarkable, considering the Sanhedrin's plot against Jesus. This account reminds us of the tension between godliness and ungodliness, and the need for bold confession in the face of opposition.
-- 🔄 John 12:42 (attempt 4, 83 words, 40.62% quotes quality score: 1.7598067211004922, V2 normalized quality score: 49.86, commentator tiers 1-3: 33.87%, 32.9%, 33.24%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Among the chief rulers in Jerusalem, some believed in Jesus but feared the Pharisees and did not want to be excommunicated. These individuals had an imperfect faith, refusing to openly confess their belief. Remarkably, amidst the corrupt society, there were those who remained untainted. One should not conceal their faith due to the fear of incurring the hatred of others, for cowardice in confessing Christ admits of no excuse.
+- 🔄 John 12:42 (attempt 5, 69 words, 44.64% quotes quality score: 1.8061783376795866, V2 normalized quality score: 51.4, commentator tiers 1-3: 33.25%, 34.92%, 31.83%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Among the rulers, such as Nicodemus and Joseph, there were those who believed in Jesus but were reluctant to confess their faith out of fear of being expelled from the synagogue. This reveals their preference for the praise of men over the approval of God, demonstrating a cowardice that persists even today. Despite their remarkable belief, the hesitation to openly proclaim their faith serves as a reminder that true faith requires bold confession, especially in the face of opposition.
-- 🔄 John 12:42 (attempt 5, 79 words, 38.98% quotes quality score: 1.879293649469178, V2 normalized quality score: 53.83, commentator tiers 1-3: 31.67%, 32.57%, 35.76%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 12:42 bht prompt v0.8 (79 words, 38.98% quotes)
-- quality score: 1.879293649469178, V2 normalized quality score: 53.83, commentator tiers 1-3: 31.67%, 32.57%, 35.76%)
+- ✅ John 12:42 bht prompt v0.8 (84 words, 40.98% quotes)
+- quality score: 1.8141965734269085, V2 normalized quality score: 51.66, commentator tiers 1-3: 34.79%, 33.09%, 32.12%)

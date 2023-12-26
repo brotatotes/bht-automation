@@ -1,46 +1,45 @@
 {
-    "timestamp": "12-19-2023 16:18:21",
+    "timestamp": "12-25-2023 19:29:25",
     "verseRef": "Luke 11:29",
     "bestBHT": {
-        "bht": "This portion highlights that the sign of Jonas encompasses his preaching to the Ninevites after his resurrection, signifying the judgment of God. Jesus compares himself to Jonas and states that his preaching should have been sufficient as a sign. However, this generation seeks additional signs, demonstrating their unfaithfulness. Nonetheless, Jesus affirms that no further sign will be given, except for the sign of Jonas. Luke's account is more concise, omitting certain details found in Matthew's Gospel.",
-        "wordCount": 78,
-        "quoteTokenProportion": 42.37,
-        "qualityScore": 1.678514567821432,
-        "qualityScoreNormalizedComparedToV2BHTs": 47.15,
+        "bht": "The crowds were seeking a sign, just as the people of Nineveh had received a sign through Jonah's preaching. Jesus states that his own preaching should have been enough of a sign, but this generation will be given the greater sign of his resurrection. Luke's account is shorter than Matthew's, but both emphasize the crowd's eagerness for a sign. Jesus warns that this is an evil and adulterous generation that seeks signs beyond what has already been given.",
+        "wordCount": 82,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 1.871196086028868,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.56,
         "commentatorTierSimilarities": [
-            31.05,
-            32.63,
-            36.31
+            29.94,
+            36.12,
+            33.94
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Here we have one part of the sign of Jonas brought out, which is not touched on in Matthew, viz. his preaching after his resurrection to the Ninevites.\" (Luke 11:29)",
-            "His preaching after his resurrection to the Ninevites, announcing\u2014for that would necessarily be involved in that preaching\u2014the wonderful judgment of God in bringing him there.\" (Luke 11:29)",
-            "More than Jonas, a greater sign by far, this generation shall reject.\" (Luke 11:29)"
+            "Here we have one part of the sign of Jonas brought out, which is not touched on in Matthew, viz. his preaching after his resurrection to the Ninevites, announcing\u2014for that would necessarily be involved in that preaching\u2014the wonderful judgment of God in bringing him there",
+            "thus making his own deliverance, that he might preach to them, a sign to that people; which sign (ver. 32) they received, and repented",
+            "but more than Jonas, a greater sign by far, this generation shall reject."
         ],
         "Jamieson-Fausset-Brown": [
             "29-32. (See on :-.)"
         ],
         "Marvin Vincent": [
-            "Were gathering together unto him.",
-            "Evil.",
-            "See on adulterous."
+            "Were gathered thick together [\u03b5\u03c0\u03b1\u03b8\u03c1\u03bf\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd]. The present participle; and therefore, as Rev., were gathering together unto him, or upon him [\u03b5\u03c0\u03b9]. Only here in New Testament.",
+            "Evil. See on adulterous. Matthew 12:39."
         ],
         "Philip Schaff": [
             "Luke 11:29. When the multitudes, etc. Possibly in expectation of the \u2018sign;\u2019 but the controversy with the Pharisees was a prolonged one, which would attract an increasing crowd.",
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Vivid picture of the crowds around Jesus.",
-            "The preaching of Jesus ought to have been sign enough as in the case of Jonah, but the resurrection will be given.",
+            "Vivid picture of the crowds around Jesus.\" ",
+            "The preaching of Jesus ought to have been sign enough as in the case of Jonah, but the resurrection will be given.\" ",
             "Luke's report is much briefer and omits what is in Matthew 12:41."
         ],
         "John Gill": [
-            "this is an evil generation... an adulterous one",
-            "they seek a sign... and there shall no sign be given it",
-            "the sign of Jonas the prophet; one like unto it"
+            "This is an evil generation... an adulterous one.\" ",
+            "They seek a sign... and there shall no sign be given it.\" ",
+            "But the sign of Jonah the prophet; one like unto it."
         ],
         "John Wesley": [
             "It seeketh \u2014 The original word implies seeking more, or over and above what one has already."
@@ -63,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This verse highlights an important aspect of the sign of Jonas not found in Matthew's account: Jonas preached to the Ninevites after his resurrection, announcing the judgment of God. Interestingly, Jesus compares himself to Jonas, claiming that the preaching of Jesus should have been enough of a sign for this generation, but they seek more, just as an adulterous generation seeks more than what they already have. However, Jesus declares that no additional sign will be given except the sign of Jonas. Luke's report is more concise, omitting certain details found in the Gospel of Matthew.",
-            "wordCount": 98,
-            "quoteTokenProportion": 46.97,
-            "qualityScore": 1.7048620093384987,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "bht": "The crowds gathered around Jesus eagerly seeking a sign, just as the people of Nineveh received the sign of Jonah. However, Jesus declares that the preaching of the Word should have been sign enough, but this generation will be given the greater sign of His resurrection. Luke's account is briefer, omitting details found in Matthew's Gospel. The crowd was growing as the controversy with the Pharisees continued, and Jesus warns that this evil and adulterous generation seeks signs beyond what is already given.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8724653136982723,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
             "commentatorTierSimilarities": [
-                34.93,
-                30.95,
-                34.12
+                33.18,
+                37.22,
+                29.6
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "This passage points out that the sign of Jonas mentioned here includes the aspect of his preaching to the Ninevites after his resurrection. Jesus compares himself to Jonas and states that his preaching should have been sufficient as a sign, but this generation seeks more, indicating their unfaithfulness. However, Jesus declares that no additional sign will be given, apart from the sign of Jonas. Luke provides a shorter account, omitting certain details found in Matthew's Gospel.",
-            "wordCount": 77,
-            "quoteTokenProportion": 43.1,
-            "qualityScore": 1.7620575990765905,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "bht": "The crowds gathered around Jesus seeking a sign, just as the people of Nineveh received the sign of Jonah. However, Jesus declares that the preaching of the Word should have been sign enough, but this generation will be given the greater sign of His resurrection. Luke's account is briefer, omitting details found in Matthew's Gospel. The crowd grew as the controversy with the Pharisees continued. Jesus warns that this adulterous generation seeks signs beyond what is already given.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7813046048803334,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.57,
             "commentatorTierSimilarities": [
-                31.93,
-                33.37,
-                34.7
+                32.45,
+                36.83,
+                30.72
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "This portion reveals that the sign of Jonas includes his preaching to the Ninevites after being resurrected. Jesus compares himself to Jonas and implies that his preaching should have been enough of a sign. However, this generation seeks more, indicating their unfaithfulness. Nonetheless, Jesus declares that no further sign will be given, except for the sign of Jonas. Luke's account is more concise, omitting certain details recorded in Matthew's Gospel.",
-            "wordCount": 72,
-            "quoteTokenProportion": 48.15,
-            "qualityScore": 1.6278187576175518,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "bht": "The crowds gathered, expecting a sign, just like the Ninevites had received the sign of Jonah. Jesus, however, declares that the preaching of the Word should have been sufficient. He reveals that this generation will be given an even greater sign through His resurrection. While Luke's account is shorter, it captures the vivid image of the crowds surrounding Jesus. This evil and adulterous generation is seeking more signs, despite the sign already given.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7351569697388634,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.04,
             "commentatorTierSimilarities": [
-                28.56,
-                31.95,
-                39.5
+                30.48,
+                33.68,
+                35.84
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "This portion highlights that the sign of Jonas encompasses his preaching to the Ninevites after his resurrection, signifying the judgment of God. Jesus compares himself to Jonas and states that his preaching should have been sufficient as a sign. However, this generation seeks additional signs, demonstrating their unfaithfulness. Nonetheless, Jesus affirms that no further sign will be given, except for the sign of Jonas. Luke's account is more concise, omitting certain details found in Matthew's Gospel.",
-            "wordCount": 78,
-            "quoteTokenProportion": 42.37,
-            "qualityScore": 1.678514567821432,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.15,
+            "bht": "The crowds were thickly gathered around Jesus, seeking a sign similar to the one Jonah had given to the Ninevites. However, Jesus reveals that His preaching should have been a sufficient sign in itself. Yet, this evil and adulterous generation desires even more signs. Jesus warns that no sign will be given but the sign of His own resurrection, which will surpass Jonah's sign. Luke's account is not as detailed as Matthew's, but it conveys the powerful image of the crowd surrounding Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7691878126013867,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
             "commentatorTierSimilarities": [
-                31.05,
-                32.63,
-                36.31
+                31.75,
+                32.51,
+                35.74
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This part of the text unveils an essential aspect of the sign of Jonas, namely his post-resurrection preaching to the Ninevites, where he proclaimed God's extraordinary judgment. Jesus compares himself to Jonas, emphasizing that his own preaching should have been enough to serve as a sign for this generation. However, this generation seeks more signs, resembling an unfaithful and adulterous group. Despite this, Jesus declares that no other sign will be given aside from the sign of Jonas. Luke's account is more concise, omitting certain details present in Matthew's Gospel.",
-            "wordCount": 94,
-            "quoteTokenProportion": 43.48,
-            "qualityScore": 1.6530079018073667,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+            "bht": "The crowds were seeking a sign, just as the people of Nineveh had received a sign through Jonah's preaching. Jesus states that his own preaching should have been enough of a sign, but this generation will be given the greater sign of his resurrection. Luke's account is shorter than Matthew's, but both emphasize the crowd's eagerness for a sign. Jesus warns that this is an evil and adulterous generation that seeks signs beyond what has already been given.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.871196086028868,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
             "commentatorTierSimilarities": [
-                29.99,
-                32.66,
-                37.34
+                29.94,
+                36.12,
+                33.94
             ],
             "generationAttempt": 5
         }

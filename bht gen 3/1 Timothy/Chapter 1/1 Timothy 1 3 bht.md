@@ -1,47 +1,48 @@
 # 1 Timothy 1:3 Commentary Help Text
 
 ## BHT:
-Paul, in a humble manner, besought Timothy to charge certain individuals not to teach any doctrine contrary to the sound teaching they had received. The charge emphasized the importance of preserving the truth of God and avoiding the introduction of new teachings. It was paramount for Timothy to hold fast to the form of sound words and prevent any deviations from the doctrine of Christ and His apostles. This responsibility to preserve the true doctrine was of great significance, as it was equal to the task of making new acquisitions.
+In his letter, the apostle urges Timothy to stay in Ephesus and continues to emphasize the importance of maintaining established teachings. He beseeches Timothy not to allow others to teach a different doctrine, imploring him to charge them to refrain from introducing any new teachings. The apostle intends for Timothy to exercise authority and power in order to restrain those who deviate from the truth. He emphasizes the need for continuity and adherence to the sound words of the faith, guarding against false ornamentation or human eloquence.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "Listen to his kind consideration, how he does not make use of the force of a master, but rather of a servant: he says not ‘I enjoined, nor ‘I commanded,’ nor ‘I recommended,’ but ‘I besought thee.’"
 2. "The indefinite pronoun is more probably slightly contemptuous: see Jude 4, and Gal. ii, 12."
+3. "The sentence begins As I exhorted thee, &c., but in his negligence of writing, the Apostle does not finish the construction."
 
 ### Jamieson-Fausset-Brown:
-1. "The first title of these overseers seems to have been 'angels'." 
-2. "I cannot think with BIRKS, that this verse is compatible with his theory, that Paul did not actually visit Ephesus, though in its immediate neighborhood." 
-3. "I besought—a mild word, instead of authoritative command, to Timothy, as a fellow helper."
+1. "Timothy's superintendence of the Church at Ephesus was as locum tenens for the apostle, and so was temporary."
+2. "If, then, as the balance of arguments seems to favor, this Epistle was written subsequently to Paul's first imprisonment, the apparent discrepancy between his prophecy and the event may be reconciled."
+3. "The indefinite pronoun is slightly contemptuous as to them."
 
 ### Albert Barnes:
-1. "The word charge here - παραγγειλης parangeilēs - seems to mean more than is commonly implied by the word as used by us."
-2. "Paul expected soon to return to him again, and then they would proceed unitedly with their work."
-3. "He was not to take the charge of a 'diocese,' or to ordain ministers of the 'second rank,' or to administer the rite of confirmation, or to perform acts of discipline."
+1. "As I besought thee to abide still at Ephesus...Paul had been compelled to leave before he had completed what he had designed to do there."
+2. "The word charge here - παραγγειλης parangeilēs - seems to mean more than is commonly implied by the word as used by us..."
+3. "That they teach no other doctrine - That is, no other doctrine than that taught by the apostles."
 
 ### Marvin Vincent:
-1. "An awkward construction, there being nothing to answer to kaqwv." 
-2. "The charge is not to teach anything contrary to the sound teaching or irreconcilable with it." 
-3. "The expression is contemptuous. It is assumed that Timothy knows who they are."
+1. "Even as [καθως] . An awkward construction, there being nothing to answer to kaqwv." 
+2. "To abide [προσμειναι] . To continue on. The compound does not occur in Paul, but is found in Acts 11:23; Acts 13:43; Acts 18:18."
+3. "That they teach no other doctrine [μη ετεροδιδασκαλειν] . Better, not to teach a different doctrine. For eterov different, see on Galatians 1:6."
 
 ### John Calvin:
 1. "To keep what has been gained is not a smaller virtue than to make new acquisitions."
-2. "The word forbid denotes power; for Paul wishes to arm him with power to restrain others."
-3. "For, as the truth of God is one, so is there but one plain manner of teaching it, which is free from false ornament, and which partakes more of the majesty of the Spirit than of the parade of human eloquence."
+2. "He wishes to arm him with power to restrain others."
+3. "As the truth of God is one, so is there but one plain manner of teaching it, which is free from false ornament, and which partakes more of the majesty of the Spirit than of the parade of human eloquence."
 
 ### Philip Schaff:
-1. "To teach no other doctrine. Better 'no different (or strange) doctrine.' The first part of the word implies (as in 2 Corinthians 6:14) 'unequally yoked,' something discordant and out of harmony."
-2. "That thou shouldest charge some. The undefined way in which St. Paul usually speaks of his Judaizing opponents and others whom he condemns."
-3. "Hymenæus, Alexander, Philetus, are afterwards singled out for special mention."
+1. "To teach no different (or strange) doctrine."
+2. "The first part of the word implies (as in 2 Corinthians 6:14) 'unequally yoked,' something discordant and out of harmony."
+3. "The undefined way in which St. Paul usually speaks of his Judaizing opponents and others whom he condemns."
 
 ### Archibald T. Robertson:
-1. "To tarry (προσμεινα). First aorist active infinitive of προσμενω, old verb, attributed by Luke to Paul in Acts 13:43."
-2. "That thou mightest charge (ινα παραγγειληις). Subfinal clause with ινα and the first aorist active subjunctive of παραγγελλω, old verb, to transmit a message along (παρα) from one to another."
-3. "Certain men (τισιν). Dative case. Expressly vague (no names as in 1 Timothy 1:20), though Paul doubtless has certain persons in Ephesus in mind."
+1. "To tarry (προσμεινα). First aorist active infinitive."
+2. "That thou mightest charge (ινα παραγγειληις). Subfinal clause with ινα and the first aorist active subjunctive."
+3. "Not to teach a different doctrine (μη ετεροδιδασκαλειν). Earliest known use of this compound."
 
 ### John Gill:
-1. "than the doctrine of Christ and his apostles; than what had been preached by the apostle at Ephesus, and the saints there had received; than what was agreeably to the Scriptures of truth, and was according to godliness..."
-2. "nor would he have them teach in another way, in new words, but hold fast the form of sound words; for new words often produce new doctrines..."
-3. "It seems as if there were some teachers in this place the apostle was suspicious of, or he had heard that they began to innovate in the doctrine of faith; wherefore he desires Timothy to continue a while, in order to be a check on these persons, and to charge them not to introduce any new doctrine..."
+1. "Nor would he have them teach in another way, in new words, but hold fast the form of sound words; for new words often produce new doctrines." 
+2. "The apostle perhaps by other doctrine chiefly respects the doctrine of justification by the works of the law." 
+3. "It seems as if there were some teachers in this place the apostle was suspicious of, or he had heard that they began to innovate in the doctrine of faith; wherefore he desires Timothy to continue a while, in order to be a check on these persons, and to charge them not to introduce any new doctrine."
 
 ### John Wesley:
 1. Charge some to teach no other doctrine — Than I have taught. Let them put nothing in the place of it, add nothing to it.
@@ -50,38 +51,38 @@ Paul, in a humble manner, besought Timothy to charge certain individuals not to 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:28:12
+- Timestamp: 12-25-2023 19:31:42
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 29.31%
-- BHT Quality Score: 1.8006035401249303
+- BHT Word Count: 87
+- BHT Commentary Usage: 31.15%
+- BHT Quality Score: 1.8574364657148617
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'acquisitions', 'and', 'any', 'apostles', 'as', 'avoiding', 'besought', 'certain', 'charge', 'christ', 'contrary', 'deviations', 'doctrine', 'emphasized', 'equal', 'fast', 'for', 'form', 'from', 'god', 'great', 'had', 'his', 'hold', 'humble', 'importance', 'in', 'individuals', 'introduction', 'it', 'making', 'manner', 'new', 'not', 'of', 'paramount', 'paul', 'preserve', 'preserving', 'prevent', 'received', 'responsibility', 'significance', 'sound', 'task', 'teach', 'teaching', 'teachings', 'the', 'they', 'this', 'timothy', 'to', 'true', 'truth', 'was', 'words']
-- ChatGPT injected words (significant words only) (41):
-	['acquisitions', 'apostles', 'avoiding', 'besought', 'certain', 'charge', 'christ', 'contrary', 'deviations', 'doctrine', 'emphasized', 'equal', 'fast', 'form', 'god', 'great', 'hold', 'humble', 'importance', 'individuals', 'introduction', 'making', 'manner', 'new', 'paramount', 'paul', 'preserve', 'preserving', 'prevent', 'received', 'responsibility', 'significance', 'sound', 'task', 'teach', 'teaching', 'teachings', 'timothy', 'true', 'truth', 'words']
+- ChatGPT injected words (61):
+	['a', 'adherence', 'against', 'allow', 'and', 'any', 'apostle', 'authority', 'beseeches', 'charge', 'continues', 'continuity', 'deviate', 'different', 'doctrine', 'eloquence', 'emphasize', 'emphasizes', 'ephesus', 'established', 'exercise', 'faith', 'false', 'for', 'from', 'guarding', 'he', 'him', 'his', 'human', 'imploring', 'importance', 'in', 'intends', 'introducing', 'letter', 'maintaining', 'need', 'new', 'not', 'of', 'or', 'order', 'ornamentation', 'others', 'power', 'refrain', 'restrain', 'sound', 'stay', 'teach', 'teachings', 'the', 'them', 'those', 'timothy', 'to', 'truth', 'urges', 'who', 'words']
+- ChatGPT injected words (significant words only) (42):
+	['adherence', 'allow', 'apostle', 'authority', 'beseeches', 'charge', 'continues', 'continuity', 'deviate', 'different', 'doctrine', 'eloquence', 'emphasize', 'emphasizes', 'ephesus', 'established', 'exercise', 'faith', 'false', 'guarding', 'human', 'imploring', 'importance', 'intends', 'introducing', 'letter', 'maintaining', 'need', 'new', 'order', 'ornamentation', 'power', 'refrain', 'restrain', 'sound', 'stay', 'teach', 'teachings', 'timothy', 'truth', 'urges', 'words']
 
 ### Logs
-- Attempt 1 BHT: Paul besought Timothy, not commanding him, to charge certain individuals in Ephesus not to teach any doctrine contrary to the sound teaching they had received. The word charge implies more than mere instruction, highlighting its importance. Paul desired to ensure the preservation of the true doctrine of Christ and his apostles, urging Timothy to hold fast to the form of sound words and prevent the introduction of new teachings or deviations from the truth. This responsibility to preserve the doctrine was essential, as Paul recognized that it was equally important to keep what had been gained as it was to make new acquisitions.
-- 🔄 1 Timothy 1:3 (attempt 1, 103 words, 35.71% quotes quality score: 1.910563528852728, V2 normalized quality score: 54.87, commentator tiers 1-3: 25.09%, 31.24%, 43.66%) 
+- Attempt 1 BHT: In his letter to Timothy, the apostle beseeches him to remain in Ephesus as a temporary overseer, emphasizing the importance of maintaining the teachings already established. He urges Timothy not to allow others to teach a different doctrine, one that may be discordant with the truth of God. The apostle's use of the word charge implies a sense of authority and power to restrain those who may deviate from the established teachings. He desires that Timothy keep a watchful eye and not allow any new or innovative doctrines to be introduced, emphasizing the need for continuity and adherence to the sound words of the faith. The apostle's intention is for Timothy to diligently guard the integrity and purity of the teachings that have been received, ensuring that they are not overshadowed by false ornamentation or human eloquence.
+- 🔄 1 Timothy 1:3 (attempt 1, 139 words, 35.63% quotes quality score: 1.955126468877118, V2 normalized quality score: 56.35, commentator tiers 1-3: 27.02%, 32.81%, 40.18%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Paul, in a humble manner, besought Timothy to charge certain individuals not to teach any doctrine contrary to the sound teaching they had received. The charge emphasized the importance of preserving the truth of God and avoiding the introduction of new teachings. It was paramount for Timothy to hold fast to the form of sound words and prevent any deviations from the doctrine of Christ and His apostles. This responsibility to preserve the true doctrine was of great significance, as it was equal to the task of making new acquisitions.
-- 🔄 1 Timothy 1:3 (attempt 2, 90 words, 29.31% quotes quality score: 1.8006035401249303, V2 normalized quality score: 51.21, commentator tiers 1-3: 23.44%, 28.11%, 48.45%) 
+- Attempt 2 BHT: In his letter, the apostle urges Timothy to stay in Ephesus and continues to emphasize the importance of maintaining established teachings. He beseeches Timothy not to allow others to teach a different doctrine, imploring him to charge them to refrain from introducing any new teachings. The apostle intends for Timothy to exercise authority and power in order to restrain those who deviate from the truth. He emphasizes the need for continuity and adherence to the sound words of the faith, guarding against false ornamentation or human eloquence.
+- 🔄 1 Timothy 1:3 (attempt 2, 87 words, 31.15% quotes quality score: 1.8574364657148617, V2 normalized quality score: 53.1, commentator tiers 1-3: 26.21%, 31.8%, 41.99%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Paul, in a servant-like manner, besought Timothy to charge certain individuals in Ephesus not to teach any doctrine contrary to the sound teaching they had received. The charge was to ensure the preservation of the true doctrine of Christ and his apostles, preventing the introduction of new teachings. It was of utmost importance for Timothy to hold fast to the form of sound words and prevent any deviations from the established truth. This responsibility to preserve the doctrine was just as crucial as making new acquisitions.
-- 🔄 1 Timothy 1:3 (attempt 3, 87 words, 31.03% quotes quality score: 1.7644135615987029, V2 normalized quality score: 50.01, commentator tiers 1-3: 23.45%, 28.98%, 47.57%) 
+- Attempt 3 BHT: The apostle urges Timothy to stay in Ephesus and maintain the teachings already established. He beseeches Timothy to charge others not to teach different doctrines or introduce new teachings. The apostle emphasizes the need for continuity and adherence to the sound words of the faith. Timothy is to exercise authority and restrain those who deviate from the truth. This ensures the preservation of the truth of God and guards against false ornamentation or human eloquence.
+- 🔄 1 Timothy 1:3 (attempt 3, 75 words, 32.69% quotes quality score: 1.7696118682069701, V2 normalized quality score: 50.18, commentator tiers 1-3: 26.73%, 32.97%, 40.3%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The apostle entreats Timothy to continue overseeing the church in Ephesus, highlighting the significance of preserving the teachings already in place. He implores Timothy to charge others not to teach a different doctrine and to refrain from introducing new or innovative teachings. This admonition reveals the apostle's concerns about potential deviations from the truth and the need for Timothy to exercise his authority in maintaining the integrity of the faith. The apostle stresses the importance of continuity and adherence to the established teachings, emphasizing their authenticity over any false embellishment or human eloquence.
+- 🔄 1 Timothy 1:3 (attempt 4, 94 words, 29.69% quotes quality score: 1.8269724944988308, V2 normalized quality score: 52.09, commentator tiers 1-3: 27.47%, 31.19%, 41.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Paul, in a humble manner, besought Timothy not to teach anything contrary to the sound teaching and to charge certain individuals in Ephesus to do the same. The charge was to prevent the introduction of new doctrines and to maintain the integrity of the truth. It was crucial for Timothy to hold fast to the form of sound words and to ensure that no deviations from the established teaching occurred. This responsibility to preserve the doctrine was just as important as making new acquisitions.
-- 🔄 1 Timothy 1:3 (attempt 4, 84 words, 35.19% quotes quality score: 1.6614549771259686, V2 normalized quality score: 46.59, commentator tiers 1-3: 23.2%, 27.28%, 49.52%) 
+- Attempt 5 BHT: The apostle urges Timothy to remain in Ephesus, emphasizing the necessity of upholding the teachings already established. He beseeches Timothy to admonish others against teaching a different doctrine and to avoid introducing new teachings. The apostle expresses his concern regarding any potential deviation from the truth and instructs Timothy to exercise his authority in preserving the integrity of the faith. He emphasizes the need for continuity and adherence to the established teachings, prioritizing their authenticity over any false adornment or human eloquence.
+- 🔄 1 Timothy 1:3 (attempt 5, 82 words, 31.58% quotes quality score: 1.812222674373996, V2 normalized quality score: 51.6, commentator tiers 1-3: 27.8%, 31.86%, 40.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul humbly besought Timothy, as a fellow helper, to charge certain individuals in Ephesus not to teach any doctrine contrary to the sound teaching they had received. The charge emphasized the importance of preserving the true doctrine of Christ and his apostles. It was crucial for Timothy to hold fast to the form of sound words and prevent the introduction of new teachings. This responsibility to preserve the doctrine was just as significant as making new acquisitions in the faith.
-- 🔄 1 Timothy 1:3 (attempt 5, 80 words, 31.48% quotes quality score: 1.794609604838557, V2 normalized quality score: 51.01, commentator tiers 1-3: 23.83%, 29.31%, 46.86%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Timothy 1:3 bht prompt v0.8 (90 words, 29.31% quotes)
-- quality score: 1.8006035401249303, V2 normalized quality score: 51.21, commentator tiers 1-3: 23.44%, 28.11%, 48.45%)
+- ✅ 1 Timothy 1:3 bht prompt v0.8 (87 words, 31.15% quotes)
+- quality score: 1.8574364657148617, V2 normalized quality score: 53.1, commentator tiers 1-3: 26.21%, 31.8%, 41.99%)

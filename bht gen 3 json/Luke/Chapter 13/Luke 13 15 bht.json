@@ -1,24 +1,22 @@
 {
-    "timestamp": "12-19-2023 16:19:31",
+    "timestamp": "12-25-2023 19:31:16",
     "verseRef": "Luke 13:15",
     "bestBHT": {
-        "bht": "The Lord, perceiving the hidden intentions of the ruler of the synagogue, confronts his false and inconsistent zeal. The argumentum ad hominem is clear as the Lord exposes the hypocrisy of those who care for their animals on the Sabbath but condemn him for performing a miracle to relieve a suffering woman. By using the example of the beast tied to a manger, the Lord highlights the confinement and suffering experienced by the woman and asserts that works of mercy are indeed works of necessity. This crushing reply silences the hypocrite and reveals the envy that truly motivated his condemnation.",
-        "wordCount": 100,
-        "quoteTokenProportion": 31.82,
-        "qualityScore": 1.8286947131731015,
-        "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+        "bht": "The Lord saw the hypocrisy of his critics who cared more for their animals than for the suffering woman. He exposed their false zeal and tore off their masks, just as he had done before. He pointed out that they themselves would loose their ox or ass and lead them away to be watered on the Sabbath. This incident reveals the hypocrisy of those who prioritize their own regulations over showing compassion and performing acts of mercy on the Sabbath.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8511176385311026,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.89,
         "commentatorTierSimilarities": [
-            21.93,
-            35.18,
-            42.89
+            24.44,
+            33.52,
+            42.04
         ],
-        "generationAttempt": 1
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The Lord saw the real thoughts of his heart, that they were false, and inconsistent with his pretended zeal...\" (Quote 1)",
-            "A man hardly could give forth a doctrine so at variance with common sense and common practice, without some by-end...\" (Quote 2)",
-            "The instance chosen exactly fits the circumstances. A beast tied to the manger is confined down as this poor woman was.\" (Quote 3)"
+            "The Lord saw the real thoughts of his heart, that they were false, and inconsistent with his pretended zeal..."
         ],
         "Jamieson-Fausset-Brown": [
             "15. the Lord\u2014(See on :-). ",
@@ -29,7 +27,7 @@
             "his ox, c.\u2014(See on :- and Luke 6:9)."
         ],
         "Albert Barnes": [
-            "You condemn 'me' for an action, and yet you perform one exactly similar.",
+            "Thou hypocrite! - You condemn 'me' for an action, and yet you perform one exactly similar.",
             "To her I have done good on the Sabbath; you provide for your cattle, and yet blame me for working a miracle to relieve a sufferer on that day.",
             "Stall - A place where cattle are kept to be fed, and sheltered from the weather."
         ],
@@ -39,23 +37,23 @@
         ],
         "John Calvin": [
             "If it be lawful on the Sabbath, to perform the offices of humanity to cattle, it is ridiculous to imagine that the due observance of it will prevent assistance from being granted to the children of God.",
-            "You,\" says he, \"who are so scrupulous about observing the Sabbath, venture to loose oxen and asses, and lead them away to watering. And why may not I be permitted to perform a similar office of kindness to the elect people of God; especially when the necessity is more urgent, when someone is to be delivered from the snares of Satan?",
-            "Now though the wicked reprover was struck dumb with shame, yet we perceive that Christ never performed any work, however illustrious, which wicked men did not seize as an occasion for slander."
+            "You, who are so scrupulous about observing the Sabbath, venture to loose oxen and asses, and lead them away to watering. And why may not I be permitted to perform a similar office of kindness to the elect people of God; especially when the necessity is more urgent, when someone is to be delivered from the snares of Satan?",
+            "Christ never performed any work, however illustrious, which wicked men did not seize as an occasion for slander. Nor need we wonder that Satan labored, with incessant zeal and exertions, to subvert the glory of Christ; for he is constantly employed in spreading his clouds, in order to darken the holy actions of believers."
         ],
         "Philip Schaff": [
-            "The Lord. Perhaps with emphasis; as He had previously proclaimed Himself, 'Lord even of the Sabbath' (chap. Luke 6:5).",
+            "The Lord. Perhaps with emphasis; as He had previously proclaimed Himself, \u2018Lord even of the Sabbath\u2019 (chap. Luke 6:5).",
             "Ye hypocrites. Luke 13:17 shows that other antagonists were present. The plural agrees better with what follows. The hypocrisy is evident from the example our Lord quotes.",
             "Doth not each one of you, etc. This was confessedly permitted. In an important sense works of mercy are works of necessity. The beast tied to the manger aptly represents the case of this poor woman."
         ],
         "Archibald T. Robertson": [
             "It was a crushing and overwhelming reply.",
-            "An argumentum ad hominen. These very critics of Jesus cared too much for an ox or an ass to leave it all the sabbath without water.",
+            "These very critics of Jesus cared too much for an ox or an ass to leave it all the Sabbath without water.",
             "The manger where the infant Jesus was placed."
         ],
         "John Gill": [
-            "Thou hypocrite; the Vulgate Latin, Arabic, and Ethiopic versions read in the plural, 'hypocrites'; as do the Complutensian edition, and four ancient copies of Beza's, and the Alexandrian copy; but the Syriac and Persic versions read in the singular, 'hypocrite'; as this man was.",
-            "And therefore very justly does our Lord observe to the ruler of the synagogue their own practices towards a beast, in defence of his works of mercy to men.",
-            "In defence of himself, and of what he had done, and to expose the hypocrisy of this man, made answer as follows."
+            "thou hypocrite; the Vulgate Latin, Arabic, and Ethiopic versions read in the plural, 'hypocrites'; as do the Complutensian edition, and four ancient copies of Beza's, and the Alexandrian copy; but the Syriac and Persic versions read in the singular, 'hypocrite'; as this man was, who covered his malice and envy at Christ, with a show of zeal for the sabbath day.",
+            "doth not each one of you, on the sabbath day, loose his ox, or his ass, from the stall, or rack, where he is fastened with a rope; and lead him away to watering?",
+            "And therefore very justly does our Lord observe to the ruler of the synagogue their own practices towards a beast, in defence of his works of mercy to men."
         ],
         "John Wesley": [
             "Thou hypocrite \u2014 For the real motive of his speaking was envy, not (as he pretended) pure zeal for the glory of God."
@@ -78,67 +76,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The Lord, perceiving the hidden intentions of the ruler of the synagogue, confronts his false and inconsistent zeal. The argumentum ad hominem is clear as the Lord exposes the hypocrisy of those who care for their animals on the Sabbath but condemn him for performing a miracle to relieve a suffering woman. By using the example of the beast tied to a manger, the Lord highlights the confinement and suffering experienced by the woman and asserts that works of mercy are indeed works of necessity. This crushing reply silences the hypocrite and reveals the envy that truly motivated his condemnation.",
-            "wordCount": 100,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.8286947131731015,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "bht": "The Lord saw the hypocrisy of his critics, who cared more for their animals than for the suffering woman. He exposed their false zeal and tore off their masks, just as he had done before. He pointed out that they themselves would loose their ox or ass and lead them away to be watered on the Sabbath. It was a crushing reply, emphasizing the inconsistency of their condemnation of him. This incident exposes the hypocrisy of those who were more concerned with following their own regulations than with showing compassion and performing acts of mercy on the Sabbath.",
+            "wordCount": 98,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 1.829503512746128,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
             "commentatorTierSimilarities": [
-                21.93,
-                35.18,
-                42.89
+                27.01,
+                31.83,
+                41.16
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Lord, perceiving the ruler of the synagogue's false intentions, confronts his hypocritical zeal. By pointing out the parallel between caring for animals on the Sabbath and his miraculous act of helping a suffering woman, the Lord exposes their inconsistency. Works of mercy, He asserts, are necessary and cannot be hindered by legalistic observances. This crushing reply unveils the envy behind the ruler's condemnation, silencing the hypocrite and bringing clarity to the true motives at play.",
-            "wordCount": 78,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.7878725850074937,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.79,
+            "bht": "The Lord saw their false and inconsistent thoughts, exposing their hypocrisy. He pointed out that they would loosen their ox or ass and lead them away to be watered on the Sabbath, caring more for their animals than for the suffering woman. This incident reveals the hypocrisy of those who prioritize their own regulations over showing compassion and performing acts of mercy on the Sabbath.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.966987148718871,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
             "commentatorTierSimilarities": [
-                18.53,
-                35.07,
-                46.4
+                24.7,
+                35.43,
+                39.87
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The Lord, perceiving the hidden intentions of the ruler of the synagogue, confronts his false and inconsistent zeal. The argumentum ad hominem is clear as the Lord exposes the hypocrisy of those who care for their animals on the Sabbath but condemn him for performing a miracle to relieve a suffering woman. By using the example of the beast tied to a manger, the Lord highlights the confinement and suffering experienced by the woman and asserts that works of mercy are indeed works of necessity. This crushing reply silences the hypocrite and reveals the envy that truly motivated his condemnation.",
-            "wordCount": 100,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.8286947131731015,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "bht": "The Lord saw the false and inconsistent thoughts of his critics, tearing off their masks and exposing their hypocrisy. He pointed out that they themselves would loosen their ox or ass from the stall and lead them to be watered on the Sabbath. This incident serves as a powerful reminder of the hypocrisy displayed by those who prioritize their own regulations over acts of compassion and mercy.",
+            "wordCount": 67,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.8839608418076605,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
             "commentatorTierSimilarities": [
-                21.93,
-                35.18,
-                42.89
+                26.59,
+                33.26,
+                40.14
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The Lord sees through the false zeal of the ruler of the synagogue, exposing his hypocrisy. He draws attention to the parallel between caring for animals on the Sabbath and his act of compassion for a suffering woman. Using the image of the beast tied to a manger, the Lord reveals the woman's confinement and suffering, emphasizing that acts of mercy are essential and cannot be hindered by legalistic practices. This powerful response silences the hypocrite and uncovers the envy that fueled his condemnation.",
-            "wordCount": 85,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.7785560915145422,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "bht": "The Lord saw the hypocrisy of his critics, who cared more for their animals than for the suffering woman. He exposed their false zeal and tore off their masks, just as he had done before. He pointed out that they themselves would loose their ox or ass and lead them away to be watered on the Sabbath. It was a crushing reply, emphasizing the inconsistency of their condemnation of him. This incident exposes the hypocrisy of those who were more concerned with following their own regulations than with showing compassion and performing acts of mercy on the Sabbath.",
+            "wordCount": 98,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 1.829503512746128,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
             "commentatorTierSimilarities": [
-                18.59,
-                37.3,
-                44.1
+                27.01,
+                31.83,
+                41.16
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Lord uncovers the ruler of the synagogue's false thoughts and inconsistent zeal, exposing his hypocrisy. By highlighting the parallel between caring for animals on the Sabbath and performing a miracle to help a suffering woman, the Lord reveals that acts of mercy are necessary and cannot be hindered by legalistic practices. This crushing reply exposes the true motives behind the ruler's condemnation and silences him in the face of his envy.",
-            "wordCount": 74,
-            "quoteTokenProportion": 32.73,
-            "qualityScore": 1.8174171497465998,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "bht": "The Lord saw the hypocrisy of his critics who cared more for their animals than for the suffering woman. He exposed their false zeal and tore off their masks, just as he had done before. He pointed out that they themselves would loose their ox or ass and lead them away to be watered on the Sabbath. This incident reveals the hypocrisy of those who prioritize their own regulations over showing compassion and performing acts of mercy on the Sabbath.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8511176385311026,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
             "commentatorTierSimilarities": [
-                20.49,
-                32.83,
-                46.69
+                24.44,
+                33.52,
+                42.04
             ],
             "generationAttempt": 5
         }

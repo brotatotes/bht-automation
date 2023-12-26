@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-21-2023 03:13:37",
+    "timestamp": "12-25-2023 19:30:56",
     "verseRef": "John 16:25",
     "bestBHT": {
-        "bht": "The disciples struggled to comprehend Jesus' teachings due to the figurative nature of his words. However, the Holy Spirit would soon reveal the true meaning behind these enigmatic sayings, granting them access to the Father and a deep understanding of His perfections, love, and will. The Spirit's illumination would remove the darkness and obscurity in their understanding, allowing them to confidently proclaim the profound truths of God's kingdom with clarity and conviction.",
-        "wordCount": 74,
-        "quoteTokenProportion": 30.19,
-        "qualityScore": 1.90399246617753,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+        "bht": "Jesus acknowledges that he has spoken in figures, parables, and an obscure language, leaving his disciples in astonishment. These obscure teachings will be made clear in the future by the Holy Spirit, who illuminates their hearts and enables them to understand Jesus' words in a new and different manner. Through the Spirit's teaching, they will have a clear understanding of the Father and his perfections. Jesus promises to show the disciples plainly the things of the Father by pouring forth his Spirit upon them, revealing the depths of truth.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9826391812496005,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.26,
         "commentatorTierSimilarities": [
-            19.83,
-            37.6,
-            42.57
+            19.25,
+            35.72,
+            45.03
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This is true of the whole discourse\u2014and of the discourses of the Lord in general, as they must then have seemed to them, before the Holy Spirit furnished the key to their meaning.",
-            "All human language is a parable, or dark saying, only able to hint at, not to express fully, the things of God.",
-            "This inward teaching, because it is a real imparting of the divine Nature and Life, brings with it not only prayer in the name of Jesus, but a free access to the Father Himself."
+            "Olshansen finely remarks, that all human language is a parable, or dark saying, only able to hint at, not to express fully, the things of God; and that the Lord contrasts the use of this weak and insufficient medium, with the inward teaching of the Holy Spirit.",
+            "This speaking plainly however, he continues, is described here by the Lord in its ideal perfection (as it will hereafter be): and is only approximated to on earth."
         ],
         "Jamieson-Fausset-Brown": [
             "25. in proverbs\u2014in obscure",
@@ -26,8 +26,8 @@
             "\tSpirit's teaching."
         ],
         "Albert Barnes": [
+            "In a manner that appears obscure, enigmatical, and difficult to be understood.",
             "The plainest declarations to them on the subject would appear to be involved in mystery.",
-            "It does not appear that he himself, after his resurrection, gave them any more clear or full instruction than he had done before.",
             "The teachings of the Holy Spirit were the teachings of Christ himself."
         ],
         "Marvin Vincent": [
@@ -36,24 +36,24 @@
             "Plainly [\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1]."
         ],
         "John Calvin": [
-            "You think that I now speak to you figuratively, and not in plain and direct language; but I will soon speak to you in a more familiar manner, in order that there may be nothing puzzling or difficult to you in my doctrine.",
-            "That obscurity, therefore, did not lie so much in the doctrine as in their understandings; and, indeed, the same thing happens to us in the present day, for not without good reason does the word of God receive this commendation, that it is our light, but its brightness is so obscured by our darkness, that, what we hear we reckon to be pure allegories.",
+            "The fact, however, clearly shows that Christ did not employ terms purposely obscure, but addressed his disciples in a simple and even homely style but such was their ignorance that they hung on his lips with astonishment.",
+            "For, though their understandings are not completely darkened, like those of unbelievers, still they are covered, as it were, with clouds. Thus God permits us to be stupefied for a time, in order to humble us by a conviction of our own poverty.",
             "The Holy Spirit, certainly, did not teach the apostles anything else than what they had heard from the mouth of Christ himself, but, by enlightening their hearts, he drove away their darkness, so that they heard Christ speak, as it were, in a new and different manner, and thus they easily understood his meaning."
         ],
         "Philip Schaff": [
-            "The contrast suggested is not between figurative and direct speech, or between enigmatical and clear sayings. Jesus had used few figures, and He had taught with the utmost simplicity and plainness of language.",
-            "The effect of His teaching had depended upon the authority of the Teacher, not on the spiritual insight of the pupil.",
-            "The contrast, therefore, between 'in proverbs' and 'plainly' is to be sought in the difference between outward teaching of every kind and that internal teaching which comes from the illuminating influence of the Spirit of God."
+            "The contrast, therefore, between \u2018in proverbs\u2019 and \u2018plainly\u2019 is to be sought in the difference between outward teaching of every kind and that internal teaching which comes from the illuminating influence of the Spirit of God, and which is the best, the only true, teaching.\" ",
+            "The Spirit shall be given after Jesus goes away, and the disciples shall see in their own free and independent insight what as yet they received only upon the authority of their Master.",
+            "The contrast suggested is not between figurative and direct speech, or between enigmatical and clear sayings. Jesus had used few figures, and He had taught with the utmost simplicity and plainness of language."
         ],
         "Archibald T. Robertson": [
-            "In proverbs (\u03b5\u03bd \u03c0\u03b1\u03c1\u03bf\u03b9\u03bc\u03b9\u03b1\u03b9\u03c2).",
-            "Shall tell (\u03b1\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03c9).",
-            "Plainly (\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1)."
+            "In proverbs.\" ",
+            "Shall tell.",
+            "Plainly."
         ],
         "John Gill": [
             "These all seemed as proverbs, parables, and dark sayings, which they did not clearly understand.",
             "I shall show plainly of the Father; by pouring forth his Spirit upon them, who should not only take of his things, but of his Father's also, and show them unto them clearly and plainly.",
-            "Of the perfections of his nature, his distinct personality, his being the Father of Christ, and of all the elect in him; of his everlasting love to their persons; of his choice of them in Christ; of his covenant with them in him; of his mind and will concerning them, and his gracious designs towards them."
+            "They should have a clear understanding of them, as they were capable of; of the perfections of his nature, his distinct personality, his being the Father of Christ, and of all the elect in him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -73,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples struggled to fully comprehend the teachings of Jesus, as they were delivered in parables and figurative language. However, the illumination of the Holy Spirit would soon bring clarity to their understanding. The Holy Spirit would not teach them anything new, but rather enlighten their hearts to perceive the words of Jesus in a new and distinct manner. This internal teaching, imparting the divine nature and life, would grant them free access to the Father and a deep understanding of His perfections, love, and will towards them. The obscurity did not lie in the doctrine itself, but rather in their own limited understanding. The Spirit would remove this darkness and reveal the truth plainly, allowing them to apprehend and proclaim the deep truths of God's kingdom.",
-            "wordCount": 128,
-            "quoteTokenProportion": 30.77,
-            "qualityScore": 1.787305898328616,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "bht": "In this verse, Jesus acknowledges that he has spoken in obscure language, using figures and parables. He contrasts this with the ideal perfection of speaking plainly, which will be realized in the future. The teachings of Jesus must have seemed enigmatic to his disciples before the Holy Spirit gave them understanding. Human language, according to Olshansen, is an insufficient medium to express fully the things of God. However, the Holy Spirit, the internal teaching from God, illuminates and brings clarity to the disciples' understanding. The Spirit enables them to comprehend Christ's teachings in a new and different manner. Through the Spirit, they will have a clear understanding of the Father and his perfections. Jesus promises that he will show plainly the things of the Father to them, pouring forth his Spirit upon them to reveal the depths of truth.",
+            "wordCount": 140,
+            "quoteTokenProportion": 35.8,
+            "qualityScore": 1.8421709191689468,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.59,
             "commentatorTierSimilarities": [
-                18.21,
-                39.14,
-                42.65
+                19.26,
+                37.75,
+                42.99
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The teachings of Jesus were often shrouded in figurative language and obscurity, leaving the disciples struggling to grasp their true meaning. However, the Holy Spirit would soon bring clarity by illuminating their hearts to understand the deep truths of God. Through this internal teaching, the disciples would gain not only a deep understanding of God's perfections, love, and will, but also a direct access to the Father Himself. The Spirit would remove the darkness of their understanding and reveal the truth in a plain and clear manner, enabling them to proclaim the profound doctrines of the kingdom.",
-            "wordCount": 98,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.8541462077245146,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "bht": "Jesus acknowledges that he has spoken in figures, parables, and an obscure language, leaving his disciples in astonishment. These obscure teachings will be made clear in the future by the Holy Spirit, who illuminates their hearts and enables them to understand Jesus' words in a new and different manner. Through the Spirit's teaching, they will have a clear understanding of the Father and his perfections. Jesus promises to show the disciples plainly the things of the Father by pouring forth his Spirit upon them, revealing the depths of truth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9826391812496005,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
             "commentatorTierSimilarities": [
-                18.58,
-                38.76,
-                42.66
+                19.25,
+                35.72,
+                45.03
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples found it challenging to fully comprehend Jesus\u2019 teachings, which were often veiled in parables and figurative language. However, the Holy Spirit would soon provide them with the key to unlock the meaning behind these profound teachings. This inner illumination would not only grant them access to the Father Himself, but also enable them to pray in Jesus' name. The Spirit's teaching would go beyond mere words, imparting the divine nature and life. Through this inward teaching, they would gain a deeper understanding of God's truths, allowing them to boldly and clearly proclaim them to the world.",
-            "wordCount": 100,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.8206588225277822,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "bht": "Jesus acknowledges that his teachings have often been communicated in parables and obscure language, leaving his disciples in awe and confusion. However, he assures them that in the future, through the illuminating influence of the Holy Spirit, these teachings will be made clear. The Holy Spirit will enlighten their hearts, allowing them to understand Jesus' words in a new and profound way. Through this divine teaching, they will gain a clear understanding of the Father and his divine nature, as well as the deep truths of his teachings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9040774239952079,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
             "commentatorTierSimilarities": [
-                20.31,
-                39.81,
-                39.88
+                18.72,
+                38.29,
+                42.99
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples wrestled with the understanding of Jesus' teachings, as they were often expressed through parables and obscured language. However, the Holy Spirit would soon provide them with the key to unlock the meaning behind these enigmatic teachings. This inward teaching would not only grant them access to the Father Himself, but would also bring about a transformative experience of divine nature and life. Through this internal illumination, they would gain a clear understanding of God's truths and confidently proclaim them without hesitation.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.7708904257106663,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "bht": "Jesus acknowledges that his teachings have been communicated in obscure language and figures, leaving the disciples in awe and astonishment. However, he promises that in the future, through the enlightening influence of the Holy Spirit, these teachings will be made plain and clear. The Spirit will enlighten their hearts, allowing them to understand Jesus' words in a new and profound manner. Through this divine insight, they will gain a clear understanding of the Father and his divine perfections. Jesus assures them that these truths will be revealed to them plainly and comprehensibly.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8390531903384657,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
             "commentatorTierSimilarities": [
-                19.44,
-                41.12,
-                39.44
+                18.15,
+                36.94,
+                44.91
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples struggled to comprehend Jesus' teachings due to the figurative nature of his words. However, the Holy Spirit would soon reveal the true meaning behind these enigmatic sayings, granting them access to the Father and a deep understanding of His perfections, love, and will. The Spirit's illumination would remove the darkness and obscurity in their understanding, allowing them to confidently proclaim the profound truths of God's kingdom with clarity and conviction.",
-            "wordCount": 74,
-            "quoteTokenProportion": 30.19,
-            "qualityScore": 1.90399246617753,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "bht": "Jesus acknowledges that his teachings have often been conveyed in parables, using figures and obscure language. This left the disciples in astonishment and with a limited understanding. However, Jesus reassures them that in the future, through the enlightening power of the Holy Spirit, these teachings will be made clear. The Spirit will illuminate their hearts, enabling them to grasp the true meaning of Jesus' words. This divine teaching will provide them with a deep understanding of the Father and his divine attributes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.815382757659679,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
             "commentatorTierSimilarities": [
-                19.83,
-                37.6,
-                42.57
+                18.54,
+                38.47,
+                42.99
             ],
             "generationAttempt": 5
         }

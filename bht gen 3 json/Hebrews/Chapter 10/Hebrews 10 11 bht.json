@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-19-2023 17:49:25",
+    "timestamp": "12-25-2023 19:29:43",
     "verseRef": "Hebrews 10:11",
     "bestBHT": {
-        "bht": "The priests in the old Jewish system, standing in a servile attitude, offered sacrifices that could never fully strip off guilt or take away sins. Christ, as the exalted Savior, offered himself once for all, contrasting the wearisome round of daily offerings. This highlights the imperfection of the old priesthood and the sufficiency of Christ's sacrifice. By placing our faith in him, we find true sanctification and can rest in his victory.",
-        "wordCount": 73,
-        "quoteTokenProportion": 39.66,
-        "qualityScore": 1.811704274226766,
-        "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+        "bht": "Under the Old Covenant, the priests continuously stood and offered daily sacrifices, which, though producing a sense of forgiveness, could not completely remove guilt. In stark contrast, Christ, our exalted Savior, sat down at the right hand of God after offering himself as the one perfect sacrifice. This single offering, once for all, strips off our guilt entirely. The wearisome repetition of the same sacrifices by the priests highlights their insufficiency, while Christ's sacrifice stands as the ultimate and complete atonement for our sins.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.97206879441806,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.91,
         "commentatorTierSimilarities": [
-            22.5,
-            41.71,
-            35.8
+            25.24,
+            38.97,
+            35.79
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "The posture of one being ministered to as a king.",
-            "Legal sacrifices might, in part, produce the sense of forgiveness, yet scarcely even that.",
-            "Entirely to strip off one's guilt they never could."
+            "And\u2014a new point of contrast; the frequent repetition of the sacrifices.",
+            "standeth\u2014the attitude of one ministering; in contrast to 'sat down on the right hand of God,' Hebrews 10:12, said of Christ; the posture of one being ministered to as a king.",
+            "Legal sacrifices might, in part, produce the sense of forgiveness, yet scarcely even that (see on Hebrews 10:1); but entirely to strip off one's guilt they never could."
         ],
         "Albert Barnes": [
-            "And every priest standeth daily ministering...this was done each day, and that every priest was to take his regular place in doing it.\" ",
+            "And every priest standeth daily ministering - That is, this is done every day.",
             "The object of the apostle is to prove that under the Jewish economy sacrifices were repeated constantly, showing their imperfection, but that under the Christian economy the great sacrifice had been offered once, which was sufficient for all.",
-            "The same sacrifices were offered morning and evening every day. Which can never take away sins."
+            "And offering oftentimes the same sacrifices - The same sacrifices were offered morning and evening every day."
         ],
         "Marvin Vincent": [
-            "Standeth. Servile attitude, contrasted with that of the exalted Savior.",
+            "Servile attitude, contrasted with that of the exalted Savior.",
             "The wearisome round of daily offerings, always the same, contrasted with the one offering, once for all.",
-            "The verb [take away] literally means to strip off all round."
+            "The verb literally means to strip off all round."
         ],
         "John Calvin": [
-            "The conclusion then is, that the ancient priesthood, which is inconsistent with this, has ceased; for all the saints find a full consecration in the one offering of Christ.",
+            "He has hitherto labored enough, and more than enough, in defending the priesthood of Christ; the conclusion then is, that the ancient priesthood, which is inconsistent with this, has ceased.",
             "By saying, them who are sanctified, he includes all the children of God; and he reminds us that the grace of sanctification is sought elsewhere in vain.",
-            "If then our faith seeks Christ sitting on God\u2019s right hand, and recumbs quietly on him as there sitting, we shall at length enjoy the fruit of his victory."
+            "If then our faith seeks Christ sitting on God\u2019s right hand, and recumbs quietly on him as there sitting, we shall at length enjoy the fruit of his victory; yea, when our foes, Satan, sin, death, and the whole world are vanquished, and when corruption of our flesh is cast off, we shall triumph for ever together with our head."
         ],
         "Archibald T. Robertson": [
             "Standeth (\u03b5\u03c3\u03c4\u03b7\u03ba\u03b5\u03bd). Perfect active indicative of \u03b9\u03c3\u03c4\u03b7\u03bc (intransitive), vivid picture.",
@@ -41,9 +41,9 @@
             "Take away (\u03c0\u03b5\u03c1\u03b9\u03b5\u03bb\u03b5\u03b9\u03bd). Second aorist active infinitive of \u03c0\u03b5\u03c1\u03b9\u03b1\u03b9\u03c1\u03b5\u03c9, old verb to take from around, to remove utterly as in Acts 27:20."
         ],
         "John Gill": [
-            "Almost every word he uses shows the imperfection of the priesthood of Aaron, and serves to illustrate the priesthood of Christ.\" ",
-            "When he says 'every priest', it supposes there were more than one, as indeed there were many, not only in succession to one another, but together, having different parts of service to perform.\" ",
-            "And this frequent offering, and the offering of the same things, show that they were such which can never take away sins."
+            "Every priest standeth daily ministering... The apostle passes from the anniversary sacrifices offered by the high priest on the day of atonement, having shown the insufficiency and imperfection of them, to the lambs of the daily sacrifice.",
+            "When he says 'every priest', it supposes there were more than one... and everyone of them 'standeth' at the altar, showing that his work was not done.",
+            "And offering oftentimes the same sacrifices... this frequent offering, and the offering of the same things, show that they were such which can never take away sins."
         ],
         "John Wesley": [
             "Every priest standeth \u2014 As a servant in an humble posture."
@@ -66,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse describes the posture of the priests under the old Jewish system as one of servitude and repetition. Their daily offerings were unable to fully strip off guilt or take away sins. In contrast, Christ as the exalted Savior offered himself as the one sacrifice, once for all. The ineffectiveness of the continual sacrifices highlights the imperfection of the old priesthood, while emphasizing the sufficiency of Christ's sacrifice for all believers. By placing our faith in Christ, we find true sanctification and can rest in his victory.",
-            "wordCount": 89,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.765725802086144,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "bht": "Under the Old Covenant, the priests were constantly standing, ministering, and offering sacrifices. However, these repeated sacrifices could never completely remove the guilt and bring true forgiveness. In contrast, Christ, our exalted Savior, sat down at the right hand of God after offering himself as the one perfect sacrifice. His sacrifice, offered once for all, is sufficient to completely strip off our guilt and provide everlasting forgiveness. As believers, we find our sanctification in Christ alone, and by placing our faith in him, we can rest in his victory and triumph over sin, Satan, and death. The continuous standing and offering of the priests highlight the insufficiency of their work, and the repetition of the same sacrifices emphasizes their inability to take away sins. Indeed, the ancient priesthood has ceased, and now we solely rely on the priesthood of Christ, who ministered and offered himself as the Lamb of God.",
+            "wordCount": 150,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8417341310421222,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
             "commentatorTierSimilarities": [
-                22.87,
-                41.52,
-                35.61
+                23.16,
+                38.48,
+                38.36
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The priests in the old Jewish system ministered in a servile attitude, offering sacrifices that could never fully strip off guilt or take away sins. In contrast, Christ, as the exalted Savior, offered himself once for all, unlike the wearisome round of daily offerings. This highlights the imperfection of the old priesthood, while emphasizing the sufficiency of Christ's sacrifice. By placing our faith in him, we find true sanctification and can rest in his victory.",
-            "wordCount": 76,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.8076270433528379,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "bht": "Under the Old Covenant, the priests continuously stood and offered daily sacrifices, which, though producing a sense of forgiveness, could not completely remove guilt. In stark contrast, Christ, our exalted Savior, sat down at the right hand of God after offering himself as the one perfect sacrifice. This single offering, once for all, strips off our guilt entirely. The wearisome repetition of the same sacrifices by the priests highlights their insufficiency, while Christ's sacrifice stands as the ultimate and complete atonement for our sins.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.97206879441806,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
             "commentatorTierSimilarities": [
-                23.3,
-                40.5,
-                36.2
+                25.24,
+                38.97,
+                35.79
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The priests in the old Jewish system stood in a servile attitude, ministering and offering sacrifices that could never entirely strip off guilt or take away sins. Their wearisome round of daily offerings, always the same, contrasts with the one offering of Christ, once for all. This vividly portrays the imperfection of the old priesthood and the sufficiency of Christ's sacrifice. By placing our faith in him, we find true sanctification and can rest in his victory.",
-            "wordCount": 78,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.8021217373631253,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "bht": "Under the Old Covenant, the priests stood daily in a ministerial posture, continually offering the same sacrifices. These repeated sacrifices could not completely strip off guilt nor bring true forgiveness. However, Christ, in a contrasting act, sat down at the right hand of God after offering himself as the single, perfect sacrifice. His sacrifice, once for all, surpasses the wearisome round of daily offerings and brings lasting forgiveness. The insufficiency of the ancient priesthood diminishes as believers place their faith in Christ's victorious work.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9283878828408318,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
             "commentatorTierSimilarities": [
-                22.77,
-                41.32,
-                35.92
+                25.75,
+                38.36,
+                35.89
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The priests in the old Jewish system, in their servile attitude, stood daily ministering and offering sacrifices. However, these sacrifices were insufficient to completely strip off guilt or take away sins. In contrast, the exalted Savior, Christ, offered himself once for all, in contrast to the wearisome round of daily offerings. This vividly demonstrates the imperfection of the old priesthood and the adequacy of Christ's one offering. Those who are sanctified find true consecration through him, and their faith rests on his victorious work.",
+            "bht": "The priests under the Old Covenant would stand, in a servile posture, daily ministering and offering the same sacrifices. However, these sacrifices could not completely strip off guilt or bring forgiveness. In contrast, Christ, our exalted Savior, sat down at the right hand of God after offering himself as the perfect sacrifice. His sacrifice, offered once for all, surpasses the wearisome repetition of the ancient priesthood and provides complete forgiveness. By placing our faith in Christ, we find sanctification and triumph over sin and death.",
             "wordCount": 85,
-            "quoteTokenProportion": 39.06,
-            "qualityScore": 1.7769508343212448,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8441549827964754,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
             "commentatorTierSimilarities": [
-                22.7,
-                41.22,
-                36.08
+                25.69,
+                36.85,
+                37.46
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The priests in the old Jewish system, standing in a servile attitude, offered sacrifices that could never fully strip off guilt or take away sins. Christ, as the exalted Savior, offered himself once for all, contrasting the wearisome round of daily offerings. This highlights the imperfection of the old priesthood and the sufficiency of Christ's sacrifice. By placing our faith in him, we find true sanctification and can rest in his victory.",
-            "wordCount": 73,
-            "quoteTokenProportion": 39.66,
-            "qualityScore": 1.811704274226766,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "bht": "Under the Old Covenant, the priests would stand in a ministerial posture, offering the same sacrifices daily, yet these sacrifices could not fully remove guilt or bring complete forgiveness. In contrast, Christ, our exalted Savior, sat down at the right hand of God after offering himself as the perfect sacrifice. His single offering, once for all, strips off guilt entirely. Unlike the wearisome round of daily offerings, Christ's sacrifice is sufficient for everlasting forgiveness. Placing our faith in Him, we find victory and eternal triumph.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7946879934669404,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
             "commentatorTierSimilarities": [
-                22.5,
-                41.71,
-                35.8
+                26.97,
+                37.61,
+                35.42
             ],
             "generationAttempt": 5
         }

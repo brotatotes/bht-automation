@@ -1,33 +1,33 @@
 # 1 Corinthians 7:1 Commentary Help Text
 
 ## BHT:
-Marriage is honorable and morally salutary, but in certain cases, celibacy may be expedient for devoting oneself to the Lord. While celibacy is not wrong but good, it is important to distinguish God's pure ordinance from the punishment of sin. Balancing the advantages of a single life with the mixture of bitter and sweet consequences is crucial. Paul argues that it is better for a man to abstain if he has the gift of continency, but ultimately, one must make wise choices regarding marriage and be master of oneself.
+Marriage is honorable in all, but there are cases where celibacy may be a matter of Christian expediency. Paul argues that celibacy is morally salutary, allowing one to have leisure to fully devote themselves to God. He acknowledges that celibacy may be good in certain limitations, without opposing marriage. Yet it is vital to distinguish between the pure ordinance of marriage and the punishment of sin. For those with the gift of continency, the advantages of a single life should be considered, enabling greater devotion to the Lord.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Marriage is HONORABLE IN ALL."
-2. "Another reason why in some cases celibacy may be a matter of Christian expediency is stated in 1 Corinthians 7:34; 1 Corinthians 7:35, 'that ye may attend upon the Lord without distraction.'"
+1. "Marriage is HONORABLE IN ALL." 
+2. "Another reason why in some cases celibacy may be a matter of Christian expediency is stated in 1 Corinthians 7:34; 1 Corinthians 7:35."
 3. "But these are exceptional cases, and in exceptional times, such as those of Paul."
 
 ### Albert Barnes:
-1. "It is well. It is fit, convenient, or, it is suited to the present circumstances, or, the thing itself is well and expedient in certain circumstances." 
-2. "The apostle did not mean that marriage was unlawful, for he says Hebrews 13:4 that 'marriage is honorable in all.'"
-3. "Not to be connected with her by marriage."
+1. "It is good - It is well. It is fit, convenient... in certain circumstances." 
+2. "The apostle did not mean that marriage was unlawful... but he here admits... it was well and proper in some circumstances."
+3. "Not to touch a woman - Not to be connected with her by marriage."
 
 ### Marvin Vincent:
-1. "It is good [καλον]. Not merely expedient, but morally salutary." 
-2. "May give yourselves [σχολασητε]. Lit., may have leisure. Like the Latin phrase vacaare rei to be free for a thing, and so to devote one's self to it."
-3. "Incontinency [ακρασιαν]. Only here and Matthew 23:35, on which see note."
+1. "It is good [καλον] . See on John 10:11. Not merely expedient, but morally salutary." 
+2. "May give yourselves [σχολασητε] . Lit., may have leisure. Like the Latin phrase vacaare rei to be free for a thing, and so to devote one's self to it." 
+3. "Incontinency [ακρασιαν] . Only here and Matthew 23:35, on which see note."
 
 ### John Calvin:
-1. "Nothing farther, therefore, can be elicited from Paul’s words than this — that it is indeed expedient and profitable for a man not to be bound to a wife, provided he can do otherwise."
-2. "Hence, as there are in married life many impediments which keep a man entangled, it were on that account good not to be connected in marriage."
-3. "The sum is this, that we must remember to distinguish between the pure ordinance of God and the punishment of sin, which came in subsequently. According to this distinction, it was in the beginning good for a man, without any exception, to be joined to a wife, and even yet, it is good in such a way, that there is in the meantime a mixture of bitter and sweet, in consequence of the curse of God."
+1. "It were good for a man to abstain from connection with a woman, provided it was in his power to do so."
+2. "Nothing farther, therefore, can be elicited from Paul’s words than this — that it is indeed expedient and profitable for a man not to be bound to a wife, provided he can do otherwise."
+3. "The sum is this, that we must remember to distinguish between the pure ordinance of God and the punishment of sin, which came in subsequently."
 
 ### Philip Schaff:
-1. "It is good for a man not to touch a woman i.e. to marry (an Old Testament phrase)."
-2. "Indeed, the 'present distress' (1 Corinthians 7:26) seems to have been his main reason for recommending the single state."
-3. "In Hebrews 13:4, also, marriage is declared to be 'honourable in all,' or 'to be had in honour of all;'"
+1. "It is good for a man not to touch a woman i.e. to marry... Not as if he meant that marriage was wrong in itself." 
+2. "The ‘present distress’ (1 Corinthians 7:26) seems to have been his main reason for recommending the single state."
+3. "Forbidding to marry is given as one of the signs of 'the apostasy of the later times' (1 Timothy 4:3)."
 
 ### Archibald T. Robertson:
 1. "Paul pointedly says that it is not wrong, but good (καλον)."
@@ -35,9 +35,9 @@ Marriage is honorable and morally salutary, but in certain cases, celibacy may b
 3. "Paul is not here opposing marriage. He is only arguing that celibacy may be good in certain limitations."
 
 ### John Gill:
-1. "It is good for a man not to touch a woman; which is to be understood, not of merely touching a woman, which can neither be criminal, nor in all cases inexpedient, or be attended with any ill, or dangerous consequences; but of the act of carnal copulation with a woman."
-2. "The apostle's meaning is not that it is unlawful to marry, or that it is sinful to lie with a woman in lawful wedlock; but that it is much better, and more expedient on several accounts, to abstain from the use of women, when persons have the gift of continency."
-3. "The things they wrote to him about, here referred to, may be collected from the contents of this chapter, and some others following; as whether a Christian man ought not to abstain from the use of women; whether a believer ought to live with an unbelieving yoke fellow; whether such as had been circumcised should not make use of some methods to draw on the foreskin of their flesh; whether apprentices, who were called by the grace of God, ought to serve out their time with their masters; and concerning celibacy or virginity, the eating of things offered to idols, and the maintenance of ministers."
+1. "It is good for a man not to touch a woman."
+2. "The apostle's meaning is not that it is unlawful to marry, or that it is sinful to lie with a woman in lawful wedlock."
+3. "But that it is much better, and more expedient on several accounts, to abstain from the use of women, when persons have the gift of continency."
 
 ### John Wesley:
 1. "It is good for a man — Who is master of himself."
@@ -47,39 +47,39 @@ Marriage is honorable and morally salutary, but in certain cases, celibacy may b
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:06:57
+- Timestamp: 12-25-2023 19:29:53
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 36.92%
-- BHT Quality Score: 1.9184616977486215
+- BHT Word Count: 88
+- BHT Commentary Usage: 42.19%
+- BHT Quality Score: 1.9959436043801355
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'abstain', 'advantages', 'and', 'argues', 'balancing', 'be', 'better', 'bitter', 'but', 'cases', 'celibacy', 'certain', 'choices', 'consequences', 'continency', 'crucial', 'devoting', 'distinguish', 'expedient', 'for', 'from', 'gift', 'god', 'good', 'has', 'he', 'honorable', 'if', 'important', 'in', 'is', 'it', 'life', 'lord', 'make', 'man', 'marriage', 'master', 'may', 'mixture', 'morally', 'must', 'not', 'of', 'one', 'oneself', 'ordinance', 'paul', 'punishment', 'pure', 'regarding', 's', 'salutary', 'sin', 'single', 'sweet', 'that', 'the', 'to', 'ultimately', 'while', 'wise', 'with', 'wrong']
-- ChatGPT injected words (significant words only) (41):
-	['abstain', 'advantages', 'argues', 'balancing', 'better', 'bitter', 'cases', 'celibacy', 'certain', 'choices', 'consequences', 'continency', 'crucial', 'devoting', 'distinguish', 'expedient', 'gift', 'god', 'good', 'honorable', 'important', 'life', 'lord', 'man', 'marriage', 'master', 'mixture', 'morally', 'oneself', 'ordinance', 'paul', 'punishment', 'pure', 's', 'salutary', 'sin', 'single', 'sweet', 'ultimately', 'wise', 'wrong']
+- ChatGPT injected words (64):
+	['a', 'acknowledges', 'advantages', 'all', 'allowing', 'and', 'are', 'argues', 'be', 'between', 'but', 'cases', 'celibacy', 'certain', 'christian', 'considered', 'continency', 'devote', 'devotion', 'distinguish', 'enabling', 'expediency', 'for', 'fully', 'gift', 'god', 'good', 'greater', 'have', 'he', 'honorable', 'in', 'is', 'it', 'leisure', 'life', 'limitations', 'lord', 'marriage', 'matter', 'may', 'morally', 'of', 'one', 'opposing', 'ordinance', 'paul', 'punishment', 'pure', 'salutary', 'should', 'sin', 'single', 'that', 'the', 'themselves', 'there', 'those', 'to', 'vital', 'where', 'with', 'without', 'yet']
+- ChatGPT injected words (significant words only) (37):
+	['acknowledges', 'advantages', 'allowing', 'argues', 'cases', 'celibacy', 'certain', 'christian', 'considered', 'continency', 'devote', 'devotion', 'distinguish', 'enabling', 'expediency', 'fully', 'gift', 'god', 'good', 'greater', 'honorable', 'leisure', 'life', 'limitations', 'lord', 'marriage', 'matter', 'morally', 'opposing', 'ordinance', 'paul', 'punishment', 'pure', 'salutary', 'sin', 'single', 'vital']
 
 ### Logs
-- Attempt 1 BHT: Marriage is honorable, good, and morally salutary. In some cases, celibacy may be a matter of Christian expediency, allowing one to attend upon the Lord without distraction. Paul argues that celibacy may be good and expedient, but he is not opposing marriage. It is important to distinguish between the pure ordinance of God and the punishment of sin. Marriage is not unlawful, but it may be better and more expedient for a man to abstain from the use of women if he has the gift of continency. However, it is crucial to remember that the advantages of a single life should be balanced with the mixture of bitter and sweet that can arise from the curse of God. In the end, it is good for every man to be master of himself and make wise choices regarding marriage.
-- 🔄 1 Corinthians 7:1 (attempt 1, 138 words, 40.0% quotes quality score: 1.9305947754988095, V2 normalized quality score: 55.53, commentator tiers 1-3: 29.99%, 33.4%, 36.61%) 
+- Attempt 1 BHT: Marriage is honorable in all, but there are cases where celibacy may be a matter of Christian expediency. Paul argues that celibacy can be morally salutary and allows one to devote themselves fully to the work of the Lord. While Paul is not opposing marriage, he acknowledges that celibacy may be good in certain limitations. However, it is important to distinguish between the pure ordinance of marriage and the punishment of sin. The apostle's intention is not to forbid marriage, but rather to highlight the advantages of a single life for those who have the gift of continency. Ultimately, the choice to marry or remain single should be based on individual circumstances.
+- 🔄 1 Corinthians 7:1 (attempt 1, 113 words, 42.11% quotes quality score: 2.018693641592793, V2 normalized quality score: 58.46, commentator tiers 1-3: 34.07%, 34.73%, 31.21%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Marriage is honorable and morally salutary. Celibacy may be expedient in some cases, allowing one to attend to the Lord without distraction. However, Paul is not opposing marriage, but arguing for the potential benefits of celibacy. It is important to distinguish between God's pure ordinance and the punishment of sin. While marriage is not unlawful, it may be better for a man to abstain from it if he has the gift of continency. Balancing the advantages of a single life with the bitter and sweet consequences is crucial. Make wise choices about marriage and be master of yourself.
-- 🔄 1 Corinthians 7:1 (attempt 2, 99 words, 39.71% quotes quality score: 1.821740575041101, V2 normalized quality score: 51.91, commentator tiers 1-3: 30.79%, 33.66%, 35.56%) 
+- Attempt 2 BHT: Marriage is honorable in all, but celibacy may be a Christian expediency in exceptional cases. Paul argues that celibacy is morally salutary and allows one to devote themselves fully to God. However, he is not opposing marriage and acknowledges that it can be morally good. The choice between marriage and celibacy should be based on individual circumstances. It is important to distinguish between the pure ordinance of marriage and the punishment of sin. The advantages of a single life should be considered by those who have the gift of continency.
+- 🔄 1 Corinthians 7:1 (attempt 2, 90 words, 43.33% quotes quality score: 1.9124315558670006, V2 normalized quality score: 54.93, commentator tiers 1-3: 32.59%, 34.8%, 32.62%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Marriage is honorable and morally salutary. Celibacy may be expedient in exceptional cases and times, allowing one to attend to the Lord without distraction. Paul argues that celibacy is not wrong, but good, and may be beneficial in certain limitations. However, it is crucial to distinguish between God's pure ordinance and the punishment of sin. While marriage is not unlawful, it may be better for a man to abstain if he has the gift of continency. Balancing the advantages of a single life with the mixture of bitter and sweet consequences is important.
-- 🔄 1 Corinthians 7:1 (attempt 3, 94 words, 34.85% quotes quality score: 1.8134284100954359, V2 normalized quality score: 51.64, commentator tiers 1-3: 32.49%, 31.98%, 35.53%) 
+- Attempt 3 BHT: Marriage is honorable in all, but celibacy can be a matter of Christian expediency. It is morally salutary and allows one to have leisure to devote themselves to God. While Paul is not opposing marriage, he argues that celibacy may be good under certain limitations. However, it is important to distinguish between the pure ordinance of marriage and the punishment of sin. The advantages of a single life should be considered by those who have the gift of continency, as it allows for greater devotion to the Lord.
+- 🔄 1 Corinthians 7:1 (attempt 3, 88 words, 46.77% quotes quality score: 1.9411651327114638, V2 normalized quality score: 55.89, commentator tiers 1-3: 33.96%, 32.52%, 33.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Marriage is honorable and morally salutary, but in certain cases, Paul argues for the potential benefits of celibacy. He distinguishes between God's pure ordinance and the punishment of sin that brought about drawbacks in married life. Celibacy may be expedient and morally good, allowing one to have leisure and devote themselves to the Lord without distraction. However, it is crucial to balance the advantages of a single life with the mixture of bitter and sweet consequences that arise from the curse of God.
-- 🔄 1 Corinthians 7:1 (attempt 4, 84 words, 37.1% quotes quality score: 1.833097262577554, V2 normalized quality score: 52.29, commentator tiers 1-3: 30.93%, 30.85%, 38.22%) 
+- Attempt 4 BHT: Marriage is honorable in all, but celibacy can be a matter of Christian expediency in exceptional cases, such as those of Paul. It is morally salutary and allows one to have leisure to devote themselves fully to God. While Paul is not opposing marriage, he argues that celibacy may be good under certain limitations. However, it is important to distinguish between the pure ordinance of marriage and the punishment of sin. The advantages of a single life should be considered by those who have the gift of continency, as it allows for greater devotion to the Lord.
+- 🔄 1 Corinthians 7:1 (attempt 4, 97 words, 45.45% quotes quality score: 1.9766338968426123, V2 normalized quality score: 57.06, commentator tiers 1-3: 35.06%, 32.1%, 32.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Marriage is honorable and morally salutary, but in certain cases, celibacy may be expedient for devoting oneself to the Lord. While celibacy is not wrong but good, it is important to distinguish God's pure ordinance from the punishment of sin. Balancing the advantages of a single life with the mixture of bitter and sweet consequences is crucial. Paul argues that it is better for a man to abstain if he has the gift of continency, but ultimately, one must make wise choices regarding marriage and be master of oneself.
-- 🔄 1 Corinthians 7:1 (attempt 5, 90 words, 36.92% quotes quality score: 1.9184616977486215, V2 normalized quality score: 55.13, commentator tiers 1-3: 30.53%, 31.2%, 38.27%) 
+- Attempt 5 BHT: Marriage is honorable in all, but there are cases where celibacy may be a matter of Christian expediency. Paul argues that celibacy is morally salutary, allowing one to have leisure to fully devote themselves to God. He acknowledges that celibacy may be good in certain limitations, without opposing marriage. Yet it is vital to distinguish between the pure ordinance of marriage and the punishment of sin. For those with the gift of continency, the advantages of a single life should be considered, enabling greater devotion to the Lord.
+- 🔄 1 Corinthians 7:1 (attempt 5, 88 words, 42.19% quotes quality score: 1.9959436043801355, V2 normalized quality score: 57.71, commentator tiers 1-3: 34.47%, 33.48%, 32.05%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 7:1 bht prompt v0.8 (90 words, 36.92% quotes)
-- quality score: 1.9184616977486215, V2 normalized quality score: 55.13, commentator tiers 1-3: 30.53%, 31.2%, 38.27%)
+- ✅ 1 Corinthians 7:1 bht prompt v0.8 (88 words, 42.19% quotes)
+- quality score: 1.9959436043801355, V2 normalized quality score: 57.71, commentator tiers 1-3: 34.47%, 33.48%, 32.05%)

@@ -1,7 +1,7 @@
 # Luke 5:3 Commentary Help Text
 
 ## BHT:
-Jesus took a boat and taught the multitudes from it, using Peter's boat as a pulpit to spread the Gospel. It may be puzzling why Jesus would go into a boat to address the crowd, but perhaps the serene lake and the silence on the shore provided the perfect conditions for His teachings to be heard clearly. Sitting in the boat, Jesus followed the custom of the times, delivering His message with authority and impact.
+Jesus, seeing the boat nearby, decided to use it as a platform to teach the crowd by putting out to sea. This nautical act allowed Him to safely address the crowd from the boat, away from the crowded shore. By teaching from the boat, Jesus effectively spread the net of the Gospel over His hearers, capturing their attention in a unique and memorable way. This method not only allowed Him to reach a greater number of people but also demonstrated His desire for Peter's companionship.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -10,8 +10,8 @@ Jesus took a boat and taught the multitudes from it, using Peter's boat as a pul
 
 
 ### Albert Barnes:
-1. "It may be somewhat difficult to conceive why Jesus should go into a boat and put off from the shore in order to speak to the multitude."
-2. "It is not improbable that the lake was still; that scarcely a breeze passed over it; that all was silence on the shore, and that there was nothing to disturb his voice."
+1. "It may be somewhat difficult to conceive why Jesus should go into a boat and put off from the shore in order to speak to the multitude; but it is probable that this was a small bay or cove, and that when he was 'in' the boat, the people on the shore stood round him in the form of an amphitheater."
+2. "In such a situation he could be heard by multitudes; and no spectacle could be more sublime than that of the Son of God - the Redeemer of the world - thus speaking from the bosom of a placid lake."
 3. "Oh how much 'more' effect may we suppose the gospel would have in such circumstances, than when proclaimed among the proud, the joyful, the honored, even when assembled in the most splendid edifice that wealth and art could finish!"
 
 ### Marvin Vincent:
@@ -25,48 +25,51 @@ Taught [εδοδασκεν] . The imperfect. He continued the teaching he had be
 3. "Taught the multitudes out of the boat."
 
 ### Archibald T. Robertson:
-1. "To put out a little. Second aorist infinitive of the double compound verb επ-αν-αγω, found in Xenophon and late Greek writers generally."
-2. "Only twice in the N.T. In Matthew 21:18 in the sense of leading back or returning and here in the sense of leading a ship up upon the sea, to put out to sea, a nautical term."
-3. "Christ uses Peter's boat as a pulpit whence to throw the net of the Gospel over His hearers."
+1. "Christ uses Peter's boat as a pulpit whence to throw the net of the Gospel over His hearers." (Plummer)
+2. "To put out to sea, a nautical term." 
+3. "Jesus teaching from the boat in which he was seated and so safe from the jam of the crowd."
 
 ### John Gill:
-1. "To which the Syriac and Persic versions agree; only they make the orders to be given not to Simon singly, but to others, to all in the boat."
-2. "And which adds, agreeable to the sense enough, though it is not in the text, 'when they had executed his command': had done as he entreated, or ordered, and put off the vessel a little way from the shore."
-3. "And whereas he sat while he taught, this was according to the then custom of the times with the Jews."
+1. "Christ desired him; he asked the favour of him to put off a little way from shore." 
+2. "being his Lord and master" 
+3. "this method Christ took at another time, and that for conveniency"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:15:10
+- Timestamp: 12-25-2023 20:08:39
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 41.51%
-- BHT Quality Score: 1.8020021695942772
+- BHT Word Count: 86
+- BHT Commentary Usage: 34.43%
+- BHT Quality Score: 1.6691169208034349
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['a', 'address', 'and', 'as', 'authority', 'be', 'boat', 'but', 'clearly', 'conditions', 'crowd', 'custom', 'delivering', 'followed', 'for', 'from', 'go', 'gospel', 'heard', 'his', 'impact', 'in', 'into', 'it', 'jesus', 'lake', 'may', 'message', 'multitudes', 'of', 'on', 'perfect', 'perhaps', 'peter', 'provided', 'pulpit', 'puzzling', 's', 'serene', 'shore', 'silence', 'sitting', 'spread', 'taught', 'teachings', 'the', 'times', 'to', 'took', 'using', 'why', 'with', 'would']
-- ChatGPT injected words (significant words only) (31):
-	['address', 'authority', 'boat', 'clearly', 'conditions', 'crowd', 'custom', 'delivering', 'followed', 'gospel', 'heard', 'impact', 'jesus', 'lake', 'message', 'multitudes', 'perfect', 'peter', 'provided', 'pulpit', 'puzzling', 's', 'serene', 'shore', 'silence', 'sitting', 'spread', 'taught', 'teachings', 'times', 'took']
+- ChatGPT injected words (61):
+	['a', 'act', 'address', 'allowed', 'also', 'and', 'as', 'attention', 'away', 'boat', 'but', 'by', 'capturing', 'companionship', 'crowd', 'crowded', 'decided', 'demonstrated', 'desire', 'effectively', 'for', 'from', 'gospel', 'greater', 'hearers', 'him', 'his', 'in', 'it', 'jesus', 'memorable', 'method', 'nautical', 'nearby', 'net', 'not', 'number', 'of', 'only', 'out', 'over', 'people', 'peter', 'platform', 'putting', 'reach', 's', 'safely', 'sea', 'seeing', 'shore', 'spread', 'teach', 'teaching', 'the', 'their', 'this', 'to', 'unique', 'use', 'way']
+- ChatGPT injected words (significant words only) (40):
+	['act', 'address', 'allowed', 'attention', 'away', 'boat', 'capturing', 'companionship', 'crowd', 'crowded', 'decided', 'demonstrated', 'desire', 'effectively', 'gospel', 'greater', 'hearers', 'jesus', 'memorable', 'method', 'nautical', 'nearby', 'net', 'number', 'people', 'peter', 'platform', 'putting', 'reach', 's', 'safely', 'sea', 'seeing', 'shore', 'spread', 'teach', 'teaching', 'unique', 'use', 'way']
 
 ### Logs
-- Attempt 1 BHT: Jesus climbed into a boat on the sea and began teaching the multitudes from there. He used Peter's boat as a pulpit to cast the net of the Gospel over His hearers. It may seem strange that Jesus went into a boat to speak to the crowd, but perhaps the lake was calm, the shore was silent, and there was nothing to disturb His voice. Such circumstances would surely have a greater impact on the proclamation of the gospel than any splendid edifice. Jesus sat and taught from the boat, following the custom of the times.
-- 🔄 Luke 5:3 (attempt 1, 97 words, 42.86% quotes quality score: 1.6550376740059134, V2 normalized quality score: 46.37, commentator tiers 1-3: 24.12%, 42.74%, 33.14%) 
+- Attempt 1 BHT: Jesus, being on the shore with a large crowd gathering around Him, decided to teach the people from a boat that was nearby. He saw the boat as an opportunity to reach even more listeners, using it as a pulpit to cast His Gospel net over His hearers. This nautical act of putting out to sea created a safe space for Jesus, avoiding the crowds and providing a unique spectacle of the Son of God speaking from the serene waters of the lake. The impact of the Gospel in such extraordinary circumstances is far greater than any glorious edifice could ever achieve. By choosing Peter's boat, Jesus demonstrated His desire for Simon's companionship and taught the multitudes from this vessel. Ultimately, this method allowed for convenience in reaching a greater number of people with His teachings.
+- 🔄 Luke 5:3 (attempt 1, 138 words, 34.74% quotes quality score: 1.594109403406692, V2 normalized quality score: 44.35, commentator tiers 1-3: 26.8%, 44.2%, 29.01%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Jesus took a boat and taught the multitudes from it, using Peter's boat as a pulpit to spread the Gospel. It may be puzzling why Jesus would go into a boat to address the crowd, but perhaps the serene lake and the silence on the shore provided the perfect conditions for His teachings to be heard clearly. Sitting in the boat, Jesus followed the custom of the times, delivering His message with authority and impact.
-- 🔄 Luke 5:3 (attempt 2, 76 words, 41.51% quotes quality score: 1.8020021695942772, V2 normalized quality score: 51.26, commentator tiers 1-3: 23.01%, 39.91%, 37.09%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus utilized a boat as His platform to teach the multitudes, casting the net of the Gospel over His listeners. The decision to teach from a boat might seem peculiar, but it could have been due to the calmness of the lake, the tranquility of the shore, and the absence of any distractions to hinder His voice. By adopting this method, Jesus effectively communicated His message, adhering to the prevailing practices of that era.
-- 🔄 Luke 5:3 (attempt 3, 74 words, 42.0% quotes quality score: 1.499332986535732, V2 normalized quality score: 41.2, commentator tiers 1-3: 25.83%, 37.88%, 36.29%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus embarked on a boat to teach the multitude, utilizing Peter's boat as a pulpit from which to cast the net of the Gospel upon His hearers. This decision to teach from the water may raise questions, but it is possible that the serene lake and the quiet shore offered an ideal environment for His voice to carry unhindered. Settling in the boat, Jesus adhered to the customs of that time, delivering His message with authority and making a profound impact.
-- 🔄 Luke 5:3 (attempt 4, 82 words, 35.59% quotes quality score: 1.6263445366708775, V2 normalized quality score: 45.42, commentator tiers 1-3: 24.58%, 38.31%, 37.12%) 
+- Attempt 2 BHT: Jesus saw the boat as an opportunity to expand His teaching reach, using it as a pulpit to cast His Gospel net over the crowd. This nautical act of putting out to sea created a safe space for Jesus, providing a unique spectacle of the Son of God speaking from the serene waters of the lake. The impact of the Gospel in such extraordinary circumstances is far greater than any glorious edifice could ever achieve. By choosing Peter's boat, Jesus demonstrated His desire for Simon's company and taught the multitudes from this vessel.
+- 🔄 Luke 5:3 (attempt 2, 95 words, 33.33% quotes quality score: 1.6443526752765347, V2 normalized quality score: 46.02, commentator tiers 1-3: 27.4%, 48.12%, 24.48%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus taught the multitudes from a boat, using Peter's boat as a pulpit to spread the Gospel. It may seem strange that Jesus went into a boat to speak to the crowd, but perhaps the lake was still and the shore was silent, creating an ideal setting for His teachings to be heard without any disturbances. Jesus sat in the boat, following the customs of the time, and delivered His message with authority and impact.
-- 🔄 Luke 5:3 (attempt 5, 76 words, 45.45% quotes quality score: 1.7883092674332821, V2 normalized quality score: 50.8, commentator tiers 1-3: 22.49%, 39.75%, 37.76%) 
+- Attempt 3 BHT: Jesus, seeing the boat nearby, decided to use it as a platform to teach the crowd by putting out to sea. This nautical act allowed Him to safely address the crowd from the boat, away from the crowded shore. By teaching from the boat, Jesus effectively spread the net of the Gospel over His hearers, capturing their attention in a unique and memorable way. This method not only allowed Him to reach a greater number of people but also demonstrated His desire for Peter's companionship.
+- 🔄 Luke 5:3 (attempt 3, 86 words, 34.43% quotes quality score: 1.6691169208034349, V2 normalized quality score: 46.84, commentator tiers 1-3: 30.57%, 40.24%, 29.19%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 5:3 bht prompt v0.8 (76 words, 41.51% quotes)
-- quality score: 1.8020021695942772, V2 normalized quality score: 51.26, commentator tiers 1-3: 23.01%, 39.91%, 37.09%)
+- Attempt 4 BHT: Jesus, recognizing the potential of Peter's boat, chose to use it as a pulpit for His teachings. By putting out to sea, Jesus created a serene and safe space away from the pressing crowd on the shore. This nautical act allowed Him to cast the net of the Gospel over the listeners, reaching a larger audience. Teaching from the boat, Jesus demonstrated His desire for Peter's company and conveyed the profound impact of the Gospel in extraordinary circumstances, surpassing even the grandest structures.
+- 🔄 Luke 5:3 (attempt 4, 85 words, 30.0% quotes quality score: 1.6139520323581393, V2 normalized quality score: 45.01, commentator tiers 1-3: 33.89%, 39.31%, 26.8%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Recognizing the possibility that Peter's boat presented, Jesus used it as a platform for His teaching, venturing out into the sea as a means to address the multitude of people. This maritime maneuver wasn't just a practical choice but also carried symbolic significance, emphasizing Jesus' desire for Peter's companionship and reflecting the profound impact of the Gospel beyond conventional settings. By utilizing the boat, Jesus cast His teachings over the crowd, capturing their attention and offering a unique spectacle of divine instruction upon the calm waters.
+- 🔄 Luke 5:3 (attempt 5, 89 words, 32.35% quotes quality score: 1.6339520323188088, V2 normalized quality score: 45.67, commentator tiers 1-3: 30.9%, 42.04%, 27.06%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 5:3 bht prompt v0.8 (86 words, 34.43% quotes)
+- quality score: 1.6691169208034349, V2 normalized quality score: 46.84, commentator tiers 1-3: 30.57%, 40.24%, 29.19%)

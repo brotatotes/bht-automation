@@ -1,12 +1,12 @@
 # John 18:29 Commentary Help Text
 
 ## BHT:
-Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation, dissimulating his own information. He went out to the Sanhedrin, asking for their charge against Jesus. His abrupt introduction implies familiarity, and his name may mean a javelin or a cap. Pilate seeks fairness as he wants to try the prisoner. The priests offer no reply, yet Pilate complies by going to their court with civility. His aim is to state the matter, open the cause, and provide evidence to ensure an equitable, just, and impartial judgment.
+Pilate, informed about Jesus' situation, demanded a formal accusation to proceed with a fair trial. His abrupt entrance suggests familiarity, and as the Procurator of Judea, Pilate sought to uphold Roman respect for law and judge Jesus fairly. Despite his disdain for Israel's religion, Pilate's question demonstrated his intention to be a good judge. Ultimately, Pilate's inquiry displayed shades of equity, justice, and impartiality, aligning with Roman legal practices and showing his willingness to engage in a fair trial.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "Though Pilate, having granted the service of the band of soldiers to the Sanhedrim, must have been aware of the circumstances under which Jesus was brought before him." 
-2. "He demanded a formal accusation on which legally to proceed."
+2. "He demanded a formal accusation on which legally to proceed." 
 3. "Dissimulating his own information on the subject."
 
 ### Jamieson-Fausset-Brown:
@@ -16,65 +16,66 @@ Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation, dis
 
 
 ### Marvin Vincent:
-1. "Note the abruptness with which he [Pilate] is introduced as one well known."
-2. "Two derivations of the name are given. Pilatus, one armed with the pilum or javelin... Or, a contraction from Pileatus, wearing the pileus or cap, which was the badge of manumitted slaves."
-3. "Not implying Pilate's ignorance of the charge, but his demand for the formal accusation."
+1. "Note the abruptness with which he is introduced as one well known."
+2. "Pilate. Two derivations of the name are given. Pilatus, one armed with the pilum or javelin, like Torquatus, one adorned with a collar [τορθυεσ]."
+3. "Or, a contraction from Pileatus, wearing the pileus or cap, which was the badge of manumitted slaves."
 
 ### John Calvin:
-1. "This heathen is not unwilling to encourage a superstition, which he ridicules and despises."
-2. "He performs the duty of a good judge when he orders them, if they have any accusation, to bring it forward."
+1. "This heathen is not unwilling to encourage a superstition, which he ridicules and despises..."
+2. "...he performs the duty of a good judge, when he orders them, if they have any accusation, to bring it forward."
 3. "The priests...make no other reply, than that he ought to abide by their previous decision."
 
 ### Philip Schaff:
-1. "What accusation bring ye against this man?"
-2. "His character...is that of a skeptical, cold, and cruel man, arbitrary in his acts, and cherishing no feelings but those of contempt for the religion of Israel."
-3. "His first question...was that of one who would try the prisoner before him with all fairness."
+1. "Pilate was Procurator of Judea under the Roman government... arbitrary in his acts, and cherishing no feelings but those of contempt for the religion of Israel." 
+2. "He was, however, a Roman judge... and until his passions were excited there is no cause to think that he would not show the usual Roman respect for law."
+3. "His first question, accordingly, was that of one who would try the prisoner before him with all fairness."
 
 ### Archibald T. Robertson:
-1. "Went out (εξηλθεν εξω). Note both εξ and εξω (went out outside), since the Sanhedrin would not come into Pilate's palace." 
+1. "Note both εξ and εξω (went out outside), since the Sanhedrin would not come into Pilate's palace."
 2. "Accusation (κατηγοριαν). Old word for formal charge, in N.T. only here, 1 Timothy 5:19; Titus 1:6."
 3. "Against this man (του ανθρωπου τουτου). Objective genitive after κατηγοριαν. A proper legal inquiry."
 
 ### John Gill:
-1. "In complaisance to them, since they would not come into his court of judicature, he condescends to go into one of theirs, which showed great civility and humanity in him."
+1. "Wherefore in complaisance to them, since they would not come into his court of judicature, he condescends to go into one of theirs, which showed great civility and humanity in him."
 2. "His view was, to have the matter stated, the cause opened, and evidence given; that the accused being face to face with the accusers, might answer for himself; and he, as a judge, be capable of judging between them."
 3. "All which were very commendable in him, and agreeably to the Roman laws; and have an appearance of equity, justice, and impartiality."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:14:25
+- Timestamp: 12-25-2023 19:30:11
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 34.85%
-- BHT Quality Score: 1.7001949961838663
+- BHT Word Count: 82
+- BHT Commentary Usage: 21.05%
+- BHT Quality Score: 1.8479044618953024
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'abrupt', 'accusation', 'against', 'aim', 'an', 'and', 'as', 'asking', 'by', 'cap', 'cause', 'charge', 'circumstances', 'civility', 'complies', 'court', 'demanded', 'dissimulating', 'ensure', 'equitable', 'evidence', 'fairness', 'familiarity', 'for', 'formal', 'going', 'he', 'his', 'impartial', 'implies', 'information', 'introduction', 'is', 'javelin', 'jesus', 'judgment', 'just', 'knowledgeable', 'matter', 'may', 'mean', 'name', 'no', 'of', 'offer', 'open', 'or', 'out', 'own', 'pilate', 'priests', 'prisoner', 'provide', 'reply', 'sanhedrin', 'seeks', 'state', 'the', 'their', 'to', 'try', 'wants', 'went', 'with', 'yet']
-- ChatGPT injected words (significant words only) (43):
-	['abrupt', 'accusation', 'aim', 'asking', 'cap', 'cause', 'charge', 'circumstances', 'civility', 'complies', 'court', 'demanded', 'dissimulating', 'ensure', 'equitable', 'evidence', 'fairness', 'familiarity', 'formal', 'going', 'impartial', 'implies', 'information', 'introduction', 'javelin', 'jesus', 'judgment', 'knowledgeable', 'matter', 'mean', 'offer', 'open', 'pilate', 'priests', 'prisoner', 'provide', 'reply', 'sanhedrin', 'seeks', 'state', 'try', 'wants', 'went']
+- ChatGPT injected words (57):
+	['a', 'about', 'abrupt', 'accusation', 'aligning', 'and', 'as', 'be', 'demanded', 'demonstrated', 'despite', 'disdain', 'displayed', 'engage', 'entrance', 'equity', 'fair', 'fairly', 'familiarity', 'for', 'formal', 'good', 'his', 'impartiality', 'in', 'informed', 'inquiry', 'intention', 'israel', 'jesus', 'judea', 'judge', 'justice', 'law', 'legal', 'of', 'pilate', 'practices', 'proceed', 'procurator', 'question', 'religion', 'respect', 'roman', 's', 'shades', 'showing', 'situation', 'sought', 'suggests', 'the', 'to', 'trial', 'ultimately', 'uphold', 'willingness', 'with']
+- ChatGPT injected words (significant words only) (45):
+	['abrupt', 'accusation', 'aligning', 'demanded', 'demonstrated', 'despite', 'disdain', 'displayed', 'engage', 'entrance', 'equity', 'fair', 'fairly', 'familiarity', 'formal', 'good', 'impartiality', 'informed', 'inquiry', 'intention', 'israel', 'jesus', 'judea', 'judge', 'justice', 'law', 'legal', 'pilate', 'practices', 'proceed', 'procurator', 'question', 'religion', 'respect', 'roman', 's', 'shades', 'showing', 'situation', 'sought', 'suggests', 'trial', 'ultimately', 'uphold', 'willingness']
 
 ### Logs
-- Attempt 1 BHT: Pilate, well aware of the circumstances surrounding Jesus' arrest, demanded a formal accusation from the Sanhedrim. He dissimulated his own knowledge on the subject and went out to them, asking them to state their charge against Jesus. Pilate's abrupt introduction reveals his familiarity, and his name can be derived from either a javelin or a cap, the latter being a badge of manumitted slaves. Though implying formal accusation, Pilate's query does not imply ignorance. Pilate's inquiry demonstrates his commitment to fairness and justice as he seeks to try the prisoner before him. However, the priests provide no reply, simply reaffirming their previous decision. In compliance with their refusal to enter his court, Pilate takes the initiative to go to theirs, showing great civility and humanity. His goal is to have the matter stated, the cause opened, and evidence given so the accused can answer for himself and Pilate, as a judge, can make an informed judgment. This approach aligns with Roman laws and reflects a demeanor of equity, justice, and impartiality.
-- 🔄 John 18:29 (attempt 1, 174 words, 34.45% quotes quality score: 1.5814325816194348, V2 normalized quality score: 43.93, commentator tiers 1-3: 34.4%, 26.48%, 39.12%) 
+- Attempt 1 BHT: Pilate, aware of the circumstances surrounding Jesus' arrest, demanded a formal accusation from the Sanhedrin, wanting a legitimate basis on which to proceed. His abrupt entrance into the scene suggests his familiarity and notoriety. As the Roman Procurator of Judea, Pilate was known for his arbitrary acts and contempt for Israel's religion, yet he still upheld Roman respect for the law. In asking for an accusation against Jesus, Pilate was acting as a good judge, seeking to establish a fair trial where evidence could be presented and Jesus could defend himself. Pilate's willingness to go to the Sanhedrin's court demonstrated his civility and humanity. Overall, Pilate's inquiry displayed a semblance of equity, justice, and impartiality, aligning with Roman legal practices.
+- 🔄 John 18:29 (attempt 1, 124 words, 29.76% quotes quality score: 1.7887593164295401, V2 normalized quality score: 50.82, commentator tiers 1-3: 24.63%, 43.96%, 31.41%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation, dissimulating his own information. He went out to the Sanhedrin, asking for their charge against Jesus. His abrupt introduction implies familiarity, and his name may mean a javelin or a cap. Pilate seeks fairness as he wants to try the prisoner. The priests offer no reply, yet Pilate complies by going to their court with civility. His aim is to state the matter, open the cause, and provide evidence to ensure an equitable, just, and impartial judgment.
-- 🔄 John 18:29 (attempt 2, 86 words, 34.85% quotes quality score: 1.7001949961838663, V2 normalized quality score: 47.87, commentator tiers 1-3: 33.94%, 33.16%, 32.9%) 
+- Attempt 2 BHT: Pilate, having granted the service to the Sanhedrim, sought a formal accusation, dissimulating his own information. Despite his contempt for Israel's religion, Pilate acted as a good judge by requesting a charge against Jesus, indicating his intention to hold a fair trial. Pilate's willingness to enter the Sanhedrin's court showed civility and humanity, aligning with Roman laws and demonstrating equity, justice, and impartiality. His abrupt introduction suggests his notoriety. As the Roman Procurator of Judea, Pilate upheld respect for the law, even if arbitrary at times.
+- 🔄 John 18:29 (attempt 2, 89 words, 22.73% quotes quality score: 1.7925407038800096, V2 normalized quality score: 50.94, commentator tiers 1-3: 26.59%, 42.68%, 30.73%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Pilate, well aware of Jesus' circumstances, demanded a formal accusation from the Sanhedrin. Dissimulating his own information, he went out to them, asking for their charge against Jesus. Pilate's abrupt introduction illustrates his familiarity, and his name may derive from a javelin or a cap. Seeking fairness, he aims to try the prisoner. The priests provide no reply, but Pilate complies with civility, going to their court. His goal is to state the matter, open the cause, and ensure an equitable, just, and impartial judgment.
-- 🔄 John 18:29 (attempt 3, 86 words, 36.36% quotes quality score: 1.6844151913398875, V2 normalized quality score: 47.35, commentator tiers 1-3: 34.35%, 33.12%, 32.53%) 
+- Attempt 3 BHT: Pilate, aware of the circumstances, demanded a formal accusation from the Sanhedrin to proceed with a fair trial. Though known for his contempt towards Israel's religion, Pilate upheld the Roman respect for law and sought to judge Jesus with fairness. His entry into the scene hints at his familiarity. As the Procurator of Judea, Pilate's question revealed his intention to try the prisoner fairly. Despite his arbitrary acts, Pilate's inquiry displayed hints of equity, justice, and impartiality in line with Roman legal practices.
+- 🔄 John 18:29 (attempt 3, 86 words, 24.59% quotes quality score: 1.7570375803263913, V2 normalized quality score: 49.76, commentator tiers 1-3: 27.54%, 44.43%, 28.04%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation from the Sanhedrin. Dissimulating his own information, he went out to them, asking for their charge against Jesus. Pilate's abrupt introduction demonstrates his familiarity, and his name can be derived from a javelin or a cap. Seeking fairness, he aims to try the prisoner before him. The priests provide no reply, but Pilate complies by going to their court with civility. His goal is to state the matter, open the cause, and ensure an equitable, just, and impartial judgment.
-- 🔄 John 18:29 (attempt 4, 89 words, 39.13% quotes quality score: 1.686162163615923, V2 normalized quality score: 47.41, commentator tiers 1-3: 33.86%, 33.56%, 32.57%) 
+- Attempt 4 BHT: Pilate, informed about Jesus' situation, demanded a formal accusation to proceed with a fair trial. His abrupt entrance suggests familiarity, and as the Procurator of Judea, Pilate sought to uphold Roman respect for law and judge Jesus fairly. Despite his disdain for Israel's religion, Pilate's question demonstrated his intention to be a good judge. Ultimately, Pilate's inquiry displayed shades of equity, justice, and impartiality, aligning with Roman legal practices and showing his willingness to engage in a fair trial.
+- 🔄 John 18:29 (attempt 4, 82 words, 21.05% quotes quality score: 1.8479044618953024, V2 normalized quality score: 52.78, commentator tiers 1-3: 25.0%, 44.41%, 30.6%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Pilate, aware of Jesus' circumstances, demanded a formal accusation. Going out to the Sanhedrin, he asked for their charge against Jesus. Pilate's abrupt introduction shows his familiarity, and his name may mean a javelin or a cap. Seeking fairness, he aims to try the prisoner. The priests provide no reply, but Pilate complies by going to their court with civility. His goal is to state the matter, open the cause, and ensure an equitable, just, and impartial judgment.
-- 🔄 John 18:29 (attempt 5, 79 words, 35.0% quotes quality score: 1.6814300683356347, V2 normalized quality score: 47.25, commentator tiers 1-3: 34.73%, 34.02%, 31.25%) 
+- Attempt 5 BHT: Pilate, having granted the service to the Sanhedrin, demanded a formal accusation, dissimulating his own information. Pilate's abrupt introduction suggests his notoriety, while his willingness to enter the Sanhedrin's court exhibited civility and humanity. As the Procurator of Judea, Pilate upheld Roman respect for the law, even if arbitrary at times. His inquiry sought a fair trial, displaying equity, justice, and impartiality in accordance with Roman legal practices. Despite his contempt for Israel's religion, Pilate's actions showcased elements of a good judge, creating the appearance of fairness.
+- 🔄 John 18:29 (attempt 5, 91 words, 22.39% quotes quality score: 1.7837478644421831, V2 normalized quality score: 50.65, commentator tiers 1-3: 24.66%, 44.23%, 31.11%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 18:29 bht prompt v0.8 (86 words, 34.85% quotes)
-- quality score: 1.7001949961838663, V2 normalized quality score: 47.87, commentator tiers 1-3: 33.94%, 33.16%, 32.9%)
+- ✅ John 18:29 bht prompt v0.8 (82 words, 21.05% quotes)
+- quality score: 1.8479044618953024, V2 normalized quality score: 52.78, commentator tiers 1-3: 25.0%, 44.41%, 30.6%)

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:06:07",
+    "timestamp": "12-25-2023 19:32:05",
     "verseRef": "John 5:7",
     "bestBHT": {
-        "bht": "The man's response indicates his belief in the popular notion that the first person to enter the water would be healed. He describes his fruitless attempts to obtain healing, but remains steadfast by the pool, refusing to depart from the divine way of healing. Despite his low hopes, his perseverance is rewarded with a glorious cure. This story serves as a reminder to hold on and trust in God's timing, even when our circumstances seem bleak and hopeless.",
-        "wordCount": 80,
-        "quoteTokenProportion": 37.5,
-        "qualityScore": 1.8840523338265838,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+        "bht": "The man at the pool answered Jesus, revealing his belief in the popular notion that only the first person to enter the water after it was stirred would be healed. He longed to be healed, but lacked the ability and someone to assist him, which intensified his affliction. Nevertheless, he patiently waited, hoping for his turn. When Jesus approached him, the man's perseverance was finally rewarded with a glorious cure. His story reflects the attitude of a sinner at Mercy's gate, waiting with faith and holding on to the promise of healing.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.934925171771142,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.68,
         "commentatorTierSimilarities": [
-            35.98,
-            32.49,
-            31.53
+            32.9,
+            32.7,
+            34.41
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,36 +21,37 @@
             "The same slow motion which he describes here, would suffice for his daily coming and going."
         ],
         "Jamieson-Fausset-Brown": [
-            "Instead of saying he wished to be cured, he just tells with piteous simplicity how fruitless had been all his efforts to obtain it, and how helpless and all but hopeless he was.\" ",
-            "Yet he will not go away. He may get nothing by staying, he may drop into his grave ere he get into the pool; but by going from the appointed, divine way of healing, he can get nothing.\" ",
-            "The man's hopes seemed low enough ere Christ came to him... But he held on, and his perseverance was rewarded with a glorious cure."
+            "Here he is at the pool, waiting on. It seemed of no use nay, only tantalizing.\" ",
+            "Wait therefore he will, wait he does, and when Christ comes to heal him, lo! he is waiting his turn. What an attitude for a sinner at Mercy's gate!",
+            "But he held on, and his perseverance was rewarded with a glorious cure."
         ],
         "Albert Barnes": [
-            "The answer of the man implied that he did wish it, but, in addition to all his other trials, he had no 'friend' to aid him.",
+            "The answer of the man implied that he did wish it...\" ",
+            "...but, in addition to all his other trials, he had no 'friend' to aid him.",
             "This is an additional circumstance that heightened his affliction."
         ],
         "Marvin Vincent": [
             "Put [\u03b2\u03b1\u03bb\u03b7] . Literally, cast; indicating the hasty movement required to bring him to the water before its agitation should have ceased. See on Mark 7:30; Luke 16:20."
         ],
         "John Calvin": [
-            "Christ forgives his weakness, and in this we have a mirror of that forbearance of which every one of us has daily experience, when, on the one hand, we keep our attention fixed on the means which are within our reach, and when, on the other hand, contrary to expectation, he displays his hand from hidden places.\" ",
-            "Thus shows how far his goodness goes beyond the narrow limits of our faith.",
+            "He limits the assistance of God according to his own thought, and does not venture to promise to himself anything more than he conceives in his mind.",
+            "Christ forgives his weakness, and in this we have a mirror of that forbearance of which every one of us has daily experience.",
             "When our afflictions are long continued, though we discover no termination of them, still we ought always to believe that God is a wonderful deliverer, who, by His power, easily removes every obstacle out of the way."
         ],
         "Philip Schaff": [
             "The man does not give a direct answer to the question \u2018Wilt thou?\u2019 but the answer sought is implied.",
             "He had the will, but he had not the power to do what he believed must be done before healing could be obtained.",
-            "The very extremity of his need rendered unavailing his repeated efforts to be the first to reach the waters when the mysterious troubling had taken place."
+            "He had no friend to help, to hurry him to the pool at the moment when the waters were thought to have received their healing power."
         ],
         "Archibald T. Robertson": [
             "The popular belief was that, at each outflow of this intermittent spring, there was healing power in the water for the first one getting in.",
-            "That he throw me in quickly before anyone else.",
-            "Temporal use of the relative, 'in which time.' \u0395\u03b3\u03c9 (I) is emphatic."
+            "That he throw me in\" quickly before anyone else.",
+            "In which time\" (\u03c7\u03c1\u03bf\u03bd\u03c9 or \u03ba\u03b1\u03b9\u03c1\u03c9 understood). \u0395\u03b3\u03c9 (I) is emphatic."
         ],
         "John Gill": [
             "I have no man; he had no servant, so Nonnus, or servants, to wait upon him, and take him up in their arms, and carry him into the pool.",
-            "while I am coming; in a slow way, by the help of his crutches, or in the best manner he could.",
-            "another steppeth down before me; not so much disordered, or more active and nimble."
+            "While I am coming; in a slow way, by the help of his crutches, or in the best manner he could.",
+            "Another steppeth down before me; not so much disordered, or more active and nimble."
         ],
         "John Wesley": [
             "The sick man answered \u2014 Giving the reason why he was not made whole, notwithstanding his desire."
@@ -73,67 +74,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The man's response to Jesus implies the popular belief that whoever stepped into the pool first after it bubbled up would be healed. He describes his efforts to be cured and his hopelessness, yet he perseveres and stays by the pool. The man's determination is rewarded when Jesus heals him. The man's hopeless situation highlights his need for someone to help him. He had the will to be healed, but lacked the power to reach the water in time. Despite his weakness, Jesus forgives him and displays his goodness beyond human expectations. This story teaches us to trust in God's deliverance, even when our afflictions seem endless.",
-            "wordCount": 111,
-            "quoteTokenProportion": 41.33,
-            "qualityScore": 1.8613409878925098,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "bht": "The man at the pool answered Jesus, revealing his belief in the popular notion that only the first person to enter the water after it was stirred would be healed. He longed to be healed, but lacked the ability and someone to assist him, which intensified his affliction. Nevertheless, he patiently waited, hoping for his turn. When Jesus approached him, the man's perseverance was finally rewarded with a glorious cure. His story reflects the attitude of a sinner at Mercy's gate, waiting with faith and holding on to the promise of healing.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.934925171771142,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
             "commentatorTierSimilarities": [
-                33.01,
-                34.52,
-                32.47
+                32.9,
+                32.7,
+                34.41
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The man's response reflects the popular belief that stepping into the water immediately after it bubbled up could bring healing. He shares his futile attempts to be cured, but he persists in staying by the pool. Despite his hopelessness, he continues to hold on, which is eventually rewarded with a miraculous healing. Jesus forgives the man's weaknesses and shows his exceeding goodness. This story encourages us to trust in God's deliverance, even in the face of seemingly endless afflictions.",
-            "wordCount": 82,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 1.8768815408969641,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "bht": "The man at the pool admitted his hope in the popular belief that the first person to enter the water after it stirred would be healed. Though he desired healing, he lacked the means and assistance to quickly reach the pool. Despite this, he kept waiting, persevering in anticipation. Finally, Jesus rewarded his patience with a glorious cure. The man's steadfastness and determination in the face of obstacles make him a powerful example of faith and trust in God's timing and provision.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.8163703978562742,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
             "commentatorTierSimilarities": [
-                33.49,
-                33.55,
-                32.96
+                35.05,
+                32.38,
+                32.57
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The man acknowledges the popular belief that the first person to step into the water after it bubbled up would be healed. He recounts his fruitless efforts to obtain healing, yet he remains persistent. Despite his hopeless situation, he continues to stay by the pool, unwilling to depart from the God-appointed way of healing. Finally, his perseverance is rewarded with a glorious cure. This story reminds us of the importance of holding on to faith and trusting in God's timing, even when our circumstances seem bleak.",
-            "wordCount": 88,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.8317247051443801,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "bht": "The man by the pool held on, waiting for his turn, as he believed the popular belief that the first person to enter the water after it stirred would be healed. He longed for healing, but lacked the ability and someone to assist him. Despite the discouragement, he persisted and his perseverance paid off when Jesus came to heal him. This man's story serves as a reminder of the power of unwavering faith and determination in the face of challenges and obstacles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8492719738612733,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.83,
             "commentatorTierSimilarities": [
-                35.83,
-                32.88,
-                31.3
+                30.89,
+                34.97,
+                34.14
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The man's response reveals the prevailing belief that the first person to enter the water after it was stirred would receive healing. He describes his desperate efforts for a cure and his feelings of helplessness. However, instead of giving up, he chooses to stay near the pool, knowing that departing from the divine way of healing would yield nothing. His persistence is ultimately rewarded with a glorious healing. This narrative teaches us the value of perseverance and unfaltering faith in the face of seemingly insurmountable challenges.",
+            "bht": "The man at the pool, holding on to hope, believed that the first one to step into the stirred water would be healed. However, he lacked the means and support to reach the pool in time. Yet, he continued to wait, displaying patience and perseverance. Finally, his steadfastness was rewarded when Jesus arrived to heal him. This man's unwavering faith and determination in the face of discouragement teach us the importance of trusting in God's timing and remaining steadfast in our own journey towards healing.",
             "wordCount": 87,
-            "quoteTokenProportion": 34.85,
-            "qualityScore": 1.7708550268976886,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7591760139101211,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
             "commentatorTierSimilarities": [
-                34.57,
-                36.37,
-                29.06
+                33.1,
+                31.79,
+                35.11
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The man's response indicates his belief in the popular notion that the first person to enter the water would be healed. He describes his fruitless attempts to obtain healing, but remains steadfast by the pool, refusing to depart from the divine way of healing. Despite his low hopes, his perseverance is rewarded with a glorious cure. This story serves as a reminder to hold on and trust in God's timing, even when our circumstances seem bleak and hopeless.",
-            "wordCount": 80,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.8840523338265838,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "bht": "The man at the pool clung to the popular belief that the first person to enter the water after it bubbled up would be healed. Though he desired healing, he lacked the means and assistance to swiftly reach the pool. However, he patiently waited, buoyed by hope. When Jesus approached him, the man's perseverance was finally rewarded with a glorious cure. His unwavering faith and determination serve as a poignant reminder that even in the face of hardship, we must hold onto hope and trust in the timing of God's deliverance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8503614843092415,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
             "commentatorTierSimilarities": [
-                35.98,
-                32.49,
-                31.53
+                34.85,
+                32.43,
+                32.72
             ],
             "generationAttempt": 5
         }

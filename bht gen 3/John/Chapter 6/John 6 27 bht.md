@@ -1,87 +1,85 @@
 # John 6:27 Commentary Help Text
 
 ## BHT:
-Jesus, taking on the title that signifies His incarnate life, imparts the bread of everlasting life. He encourages the crowd to labor not for perishable food, but for the imperishable sustenance of eternal life. With a mystical metaphor, Jesus goes beyond the crowd's shallow hunger for physical nourishment and directs their desires towards the deeper spiritual nourishment He offers. The sealing of Jesus by God the Father, though its exact meaning is unclear, signifies authenticity and approval, underscoring Christ's unique authority and mission.
+Do not strive for temporary sustenance that perishes, but instead pursue the enduring nourishment that leads to eternal life. Jesus, known as the Son of man, has been sealed by God the Father to share the bread of everlasting life with the world. It is not the earthly food that perishes, but rather the metaphorical food that Jesus offers, which goes beyond the shallow desires of the crowd. The Father's seal affirms the Son's role as the Savior and authenticates his message. Let us strive for this spiritual nourishment, for in Christ, life is revealed and assured.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "taking that title of Himself which denoted His incarnate life."
-2. "marked out and authenticated for that transcendent office"
-3. "to impart to the world the bread of an everlasting life"
+1. "which the Son of man—taking that title of Himself which denoted His incarnate life."
+2. "shall give unto you—in the sense of John 6:51."
+3. "him hath God the Father sealed—marked out and authenticated for that transcendent office, to impart to the world the bread of an everlasting life, and this in the character of 'the Son of man.'"
 
 ### Albert Barnes:
 1. "Labour not - This does not mean that we are to make no effort for the supply of our wants, but that we are not to manifest anxiety, we are not to make this the main or supreme object of our desire." 
-2. "The strength you derive from it is soon exhausted, and your wasted powers need to be reinvigorated."
-3. "The strength derived from the doctrines of the gospel is not exhausted. It endures without wasting away. It nourishes the soul to everlasting life."
+2. "The meat that perisheth - The food for the supply of your natural needs. It perishes. The strength you derive from it is soon exhausted, and your wasted powers need to be reinvigorated."
+3. "That meat which endureth - The supply of your spiritual wants; that which supports, and nourishes, and strengthens the soul; the doctrines of the gospel, that are to a weak and guilty soul what needful food is to the weary and decaying body."
 
 ### Marvin Vincent:
-1. "Meat (brwsin). See on 4 32. In Matthew 6:19, Matthew 6:20, and there only, it is used in the sense of rust, that which eats or corrodes. Similarly, corrode is from rodo, to gnaw."
-2. "Him hath God the Father sealed. The Rev. makes the sentence culminate properly in God: 'for Him the Father, even God, hath sealed.'"
-3. "According to the strict Greek order it is: for Him the Father sealed, even God. On sealed [εσφραγισεν] see on 3 33. Wyc., betokened Him."
+1. "Meat (brwsin). See on 4 32. In Matthew 6:19, Matthew 6:20, and there only, it is used in the sense of rust, that which eats or corrodes." 
+2. "Similarly, corrode is from rodo, to gnaw."
+3. "For Him the Father sealed, even God."
 
 ### John Calvin:
-1. "Labour for food, not that which perisheth. He shows to what object our desires ought to be directed, namely, to eternal life."
-2. "We must receive the gifts of the Spirit, that they may be earnests and pledges of eternal life."
+1. "The heavenly life ought to be preferred to this earthly life, because the godly have no other reason for living here than that, being sojourners in the world, they may travel rapidly towards their heavenly country."
+2. "We know that our souls are fed by the doctrine of the gospel, when it is efficacious in us by the power of the Spirit; and, therefore, as faith is the life of the soul, all that nourishes and promotes faith is compared to food."
 3. "Let us know, therefore, that life is exhibited to us in Christ, in order that each of us may aspire to it, not at random, but with certainty of success."
 
 ### Philip Schaff:
-1. "Work not for the eating which perisheth...use all the energies of your nature, not unto partaking of perishable but of imperishable food."
-2. "It is not an act of life but the active life itself that is referred to, and the object of this whole life."
-3. "The multitudes had toiled, in that they had put aside all obstacles to come to Him: having come to Him they may receive His free gift."
+1. "Work not for the eating which perisheth." 
+2. "In contrast with what they had sought in thus toiling to discover Him, Jesus sets the feast which it is His glory to offer and of which they should be eager to partake." 
+3. "For this very purpose that He might be the Giver of eternal life, was He made the Son of man, was He sent by the Father into the world."
 
 ### Archibald T. Robertson:
-1. "Work not for...the meat...which perisheth." 
-2. "Mystical metaphor quite beyond this crowd hungry only for more loaves and fishes."
-3. "Sealing by God is rare in N.T...It is not clear to what item, if any single one, John refers when the Father set his seal of approval on the Son."
+1. "Work not for...the meat...which perisheth. Mystical metaphor quite beyond this crowd hungry only for more loaves and fishes." 
+2. "The outcome is still future and will be decided by their attitude towards the Son of man." 
+3. "It is not clear to what item, if any single one, John refers when the Father set his seal of approval on the Son."
 
 ### John Gill:
-1. "Labour not for the meat which perisheth." 
-2. "But for that which endureth unto everlasting life." 
-3. "For him hath God the Father sealed."
+1. "Labour not for the meat which perisheth... but for that which endureth unto everlasting life." 
+2. "Grace, and the blessings of it, are freely given by him, and so are the Gospel and its ordinances."
+3. "Him hath God the Father sealed; designated and appointed to be the Saviour... to confirm it."
 
 ### John Wesley:
-1. "Labour not for the meat which perisheth — For bodily food: not for that only not chiefly: not at all, but in subordination to grace, faith, love, the meat which endureth to everlasting life." 
+1. "Labour not for the meat which perisheth — For bodily food: not for that only not chiefly: not at all, but in subordination to grace, faith, love, the meat which endureth to everlasting life."
 2. "Labour, work for this; for everlasting life. So our Lord expressly commands, work for life, as well as from life: from a principle of faith and love."
 3. "Him hath the Father sealed — By this very miracle, as well as by his whole testimony concerning him. Sealing is a mark of the authenticity of a writing."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:07:02
+- Timestamp: 12-25-2023 19:31:41
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 31.75%
-- BHT Quality Score: 1.7997904096922683
+- BHT Word Count: 99
+- BHT Commentary Usage: 35.38%
+- BHT Quality Score: 1.8905168903532485
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'and', 'approval', 'authenticity', 'authority', 'beyond', 'bread', 'but', 'by', 'christ', 'crowd', 'deeper', 'desires', 'directs', 'encourages', 'eternal', 'everlasting', 'exact', 'father', 'food', 'for', 'god', 'goes', 'he', 'his', 'hunger', 'imparts', 'imperishable', 'incarnate', 'is', 'its', 'jesus', 'labor', 'life', 'meaning', 'metaphor', 'mission', 'mystical', 'not', 'nourishment', 'of', 'offers', 'on', 'perishable', 'physical', 's', 'sealing', 'shallow', 'signifies', 'spiritual', 'sustenance', 'taking', 'that', 'the', 'their', 'though', 'title', 'to', 'towards', 'unclear', 'underscoring', 'unique', 'with']
-- ChatGPT injected words (significant words only) (43):
-	['approval', 'authenticity', 'authority', 'bread', 'christ', 'crowd', 'deeper', 'desires', 'directs', 'encourages', 'eternal', 'everlasting', 'exact', 'father', 'food', 'god', 'goes', 'hunger', 'imparts', 'imperishable', 'incarnate', 'jesus', 'labor', 'life', 'meaning', 'metaphor', 'mission', 'mystical', 'nourishment', 'offers', 'perishable', 'physical', 's', 'sealing', 'shallow', 'signifies', 'spiritual', 'sustenance', 'taking', 'title', 'unclear', 'underscoring', 'unique']
+- ChatGPT injected words (65):
+	['affirms', 'and', 'as', 'assured', 'authenticates', 'been', 'beyond', 'bread', 'but', 'by', 'christ', 'crowd', 'desires', 'do', 'earthly', 'enduring', 'eternal', 'everlasting', 'father', 'food', 'for', 'god', 'goes', 'has', 'his', 'in', 'instead', 'is', 'it', 'jesus', 'known', 'leads', 'let', 'life', 'man', 'message', 'metaphorical', 'not', 'nourishment', 'of', 'offers', 'perishes', 'pursue', 'rather', 'revealed', 'role', 's', 'savior', 'seal', 'sealed', 'shallow', 'share', 'son', 'spiritual', 'strive', 'sustenance', 'temporary', 'that', 'the', 'this', 'to', 'us', 'which', 'with', 'world']
+- ChatGPT injected words (significant words only) (42):
+	['affirms', 'assured', 'authenticates', 'bread', 'christ', 'crowd', 'desires', 'earthly', 'enduring', 'eternal', 'everlasting', 'father', 'food', 'god', 'goes', 'instead', 'jesus', 'known', 'leads', 'let', 'life', 'man', 'message', 'metaphorical', 'nourishment', 'offers', 'perishes', 'pursue', 'revealed', 'role', 's', 'savior', 'seal', 'sealed', 'shallow', 'share', 'son', 'spiritual', 'strive', 'sustenance', 'temporary', 'world']
 
 ### Logs
-- Attempt 1 BHT: Jesus, in John 6:27, refers to Himself as the one who imparts the bread of eternal life, a title that authenticates His incarnation. While the crowd focused solely on material sustenance, Jesus uses a mystical metaphor to teach them of a deeper spiritual nourishment. He urges them to labor not for the temporary food that perishes but for the imperishable sustenance of everlasting life. This directive is a call to redirect their desires towards the eternal. The sealing of Jesus by God the Father is a rare act in the New Testament, and its exact significance remains uncertain. Nevertheless, it serves as a mark of authenticity and approval, highlighting Christ's unique authority and mission.
-- 🔄 John 6:27 (attempt 1, 114 words, 34.57% quotes quality score: 1.584168359583297, V2 normalized quality score: 44.02, commentator tiers 1-3: 32.77%, 30.99%, 36.24%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Jesus, taking on the title that signifies His incarnate life, imparts the bread of everlasting life. He encourages the crowd to labor not for perishable food, but for the imperishable sustenance of eternal life. With a mystical metaphor, Jesus goes beyond the crowd's shallow hunger for physical nourishment and directs their desires towards the deeper spiritual nourishment He offers. The sealing of Jesus by God the Father, though its exact meaning is unclear, signifies authenticity and approval, underscoring Christ's unique authority and mission.
-- 🔄 John 6:27 (attempt 2, 85 words, 31.75% quotes quality score: 1.7997904096922683, V2 normalized quality score: 51.18, commentator tiers 1-3: 31.39%, 33.64%, 34.97%) 
+- Attempt 1 BHT: Do not toil for the temporary sustenance that perishes, but instead seek after the enduring nourishment that leads to eternal life. Jesus, referred to as the Son of man, has been sealed by God the Father to impart the bread of everlasting life to the world. It is not the earthly meat that corrodes, but rather the mystical metaphorical meat that Jesus offers, which is beyond the superficial desires of the crowd. The Father's seal on the Son confirms his role as the Saviour and gives authenticity to his message. Let us strive for this spiritual sustenance, for it is in Christ that life is revealed and guaranteed.
+- 🔄 John 6:27 (attempt 1, 109 words, 34.78% quotes quality score: 1.9252558940396167, V2 normalized quality score: 55.36, commentator tiers 1-3: 31.58%, 32.01%, 36.42%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus, by referring to Himself as the one who imparts the bread of everlasting life, authenticates His incarnate life. He challenges the crowd to focus on the imperishable sustenance of eternal life rather than the temporary food that perishes. Through a mystical metaphor, Jesus emphasizes the need for a deeper spiritual nourishment beyond the crowd's mere desire for physical sustenance. The sealing of Jesus by God the Father, while rare in the New Testament and its exact meaning uncertain, serves as a mark of authenticity and approval, signifying Christ's unique authority and purpose.
-- 🔄 John 6:27 (attempt 3, 95 words, 32.35% quotes quality score: 1.7759181739470558, V2 normalized quality score: 50.39, commentator tiers 1-3: 33.89%, 31.11%, 35.0%) 
+- Attempt 2 BHT: Do not strive for temporary sustenance that perishes, but instead pursue the enduring nourishment that leads to eternal life. Jesus, known as the Son of man, has been sealed by God the Father to share the bread of everlasting life with the world. It is not the earthly food that perishes, but rather the metaphorical food that Jesus offers, which goes beyond the shallow desires of the crowd. The Father's seal affirms the Son's role as the Savior and authenticates his message. Let us strive for this spiritual nourishment, for in Christ, life is revealed and assured.
+- 🔄 John 6:27 (attempt 2, 99 words, 35.38% quotes quality score: 1.8905168903532485, V2 normalized quality score: 54.2, commentator tiers 1-3: 32.58%, 31.58%, 35.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus, in this verse, assumes the title that signifies His incarnate life and authenticates His mission to impart the bread of everlasting life. He exhorts the crowd to labor not for perishable food but for the imperishable sustenance of eternal life. By using a mystical metaphor, Jesus goes beyond the superficial hunger of the crowd and directs them to seek a deeper spiritual nourishment. The sealing of Jesus by God the Father, albeit rare and its exact significance unclear, serves as a mark of authenticity, highlighting Christ's unique authority and purpose.
-- 🔄 John 6:27 (attempt 4, 92 words, 28.79% quotes quality score: 1.8010635144400147, V2 normalized quality score: 51.23, commentator tiers 1-3: 32.23%, 32.81%, 34.96%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: Jesus, by assuming the title that authenticates His incarnate life, imparts the bread of everlasting life. He urges the crowd to focus on the imperishable sustenance of eternal life rather than material food that perishes. Using a mystical metaphor, Jesus goes beyond the surface level desires for physical nourishment and directs them towards a deeper spiritual nourishment. The sealing of Jesus by God the Father, though its exact meaning remains unclear, serves as a mark of authenticity and approval, highlighting Christ's unique authority and purpose.
-- 🔄 John 6:27 (attempt 5, 86 words, 30.3% quotes quality score: 1.794888357718531, V2 normalized quality score: 51.02, commentator tiers 1-3: 31.86%, 32.41%, 35.74%) 
+- Attempt 3 BHT: Do not strive for temporal sustenance that perishes, but seek the enduring nourishment leading to eternal life. Jesus, referred to as the Son of man, has been sealed by God the Father, appointed to provide the bread of everlasting life. The perishable food of the earthly realm corrodes, while the metaphorical food Jesus offers transcends the superficial cravings of the crowd. The Father's seal authenticates the Son's role as Savior. Strive for this spiritual sustenance, for in Christ, life is manifested and guaranteed.
+- 🔄 John 6:27 (attempt 3, 85 words, 29.31% quotes quality score: 1.8631124284673077, V2 normalized quality score: 53.29, commentator tiers 1-3: 33.35%, 31.43%, 35.21%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 6:27 bht prompt v0.8 (85 words, 31.75% quotes)
-- quality score: 1.7997904096922683, V2 normalized quality score: 51.18, commentator tiers 1-3: 31.39%, 33.64%, 34.97%)
+- Attempt 4 BHT: Instead of laboring for temporary sustenance that perishes, focus on the enduring nourishment that leads to everlasting life. Jesus, known as the Son of man, has been authenticated and marked out by God the Father to provide the bread of eternal life. The earthly food that corrodes and decays is insignificant compared to the metaphorical nourishment that Jesus offers, which goes beyond the shallow desires of the crowd. The Father's seal confirms Jesus' role as the Savior. Strive for this spiritual sustenance, for in Christ, life is revealed and secured.
+- 🔄 John 6:27 (attempt 4, 91 words, 27.87% quotes quality score: 1.8684246874710995, V2 normalized quality score: 53.47, commentator tiers 1-3: 32.23%, 32.11%, 35.66%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Do not strive for perishable food, but seek the enduring nourishment that leads to eternal life. Jesus, known as the Son of man, has been sealed by God the Father to offer the bread of everlasting life. The temporal sustenance that corrodes is of little significance compared to the metaphorical food that Jesus provides, beyond the shallow desires of the crowd. The Father's seal authenticates Jesus' role as the Savior. Strive for this spiritual sustenance, for in Christ lies the guarantee of life.
+- 🔄 John 6:27 (attempt 5, 84 words, 29.09% quotes quality score: 1.8490647033224727, V2 normalized quality score: 52.82, commentator tiers 1-3: 32.75%, 31.72%, 35.53%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 6:27 bht prompt v0.8 (99 words, 35.38% quotes)
+- quality score: 1.8905168903532485, V2 normalized quality score: 54.2, commentator tiers 1-3: 32.58%, 31.58%, 35.84%)

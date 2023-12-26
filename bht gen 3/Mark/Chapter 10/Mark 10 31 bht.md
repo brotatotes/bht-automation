@@ -1,7 +1,7 @@
 # Mark 10:31 Commentary Help Text
 
 ## BHT:
-Some suggest that in this verse, Jesus is rebuking Peter's boast by using the paradox of the first and the last, a concept also mentioned in Matthew 19:30. This proverb is further illustrated by the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes that those who consider themselves important or privileged may find themselves in a different position than expected.
+The paradox of the first and last is employed in this rebuke to Peter's boast, linked to the illustration in Matthew 19:30. Matthew 20:1-16 deepens the understanding of this proverb through the parable of the laborers in the vineyard. It conveys the message that those who perceive themselves as first may actually end up being last, highlighting the significance of humility and the reversal of expectations within the realm of God's kingdom.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -22,41 +22,39 @@ last , probably a rebuke here to Peter's boast.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-25-2023 19:19:21
+- Timestamp: 12-25-2023 20:08:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 70
-- BHT Commentary Usage: 48.0%
-- BHT Quality Score: 1.6884871431086532
+- BHT Word Count: 72
+- BHT Commentary Usage: 41.67%
+- BHT Quality Score: 1.7177033094677503
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (50):
-	['a', 'also', 'and', 'are', 'be', 'boast', 'by', 'concept', 'consider', 'different', 'emphasizes', 'expected', 'find', 'first', 'further', 'illustrated', 'important', 'in', 'is', 'jesus', 'laborers', 'last', 'many', 'matthew', 'may', 'mentioned', 'of', 'or', 'parable', 'paradox', 'peter', 'phrase', 'position', 'privileged', 'proverb', 'rebuking', 's', 'shall', 'some', 'suggest', 'than', 'that', 'the', 'themselves', 'this', 'those', 'using', 'verse', 'vineyard', 'who']
-- ChatGPT injected words (significant words only) (26):
-	['boast', 'concept', 'consider', 'different', 'emphasizes', 'expected', 'find', 'illustrated', 'important', 'jesus', 'laborers', 'matthew', 'mentioned', 'parable', 'paradox', 'peter', 'phrase', 'position', 'privileged', 'proverb', 'rebuking', 's', 'shall', 'suggest', 'verse', 'vineyard']
+- ChatGPT injected words (48):
+	['actually', 'and', 'as', 'being', 'boast', 'conveys', 'deepens', 'employed', 'end', 'expectations', 'first', 'god', 'highlighting', 'humility', 'illustration', 'in', 'is', 'it', 'kingdom', 'laborers', 'last', 'linked', 'matthew', 'may', 'message', 'of', 'parable', 'paradox', 'perceive', 'peter', 'proverb', 'realm', 'rebuke', 'reversal', 's', 'significance', 'that', 'the', 'themselves', 'this', 'those', 'through', 'to', 'understanding', 'up', 'vineyard', 'who', 'within']
+- ChatGPT injected words (significant words only) (28):
+	['actually', 'boast', 'conveys', 'deepens', 'employed', 'end', 'expectations', 'god', 'highlighting', 'humility', 'illustration', 'kingdom', 'laborers', 'linked', 'matthew', 'message', 'parable', 'paradox', 'perceive', 'peter', 'proverb', 'realm', 'rebuke', 'reversal', 's', 'significance', 'understanding', 'vineyard']
 
 ### Logs
-- Attempt 1 BHT: Some commentators suggest that in Mark 10:31, Jesus's reference to the paradox of the first and the last may be a rebuke to Peter's boast. This idea is also seen in Matthew 19:30, where the same proverb is mentioned and further illustrated by the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes the idea that those who may consider themselves important or privileged may ultimately find themselves in a different position than they expect.
-- 🔄 Mark 10:31 (attempt 1, 84 words, 47.37% quotes quality score: 1.655327518601113, V2 normalized quality score: 46.38, commentator tiers 1-3: 25.8%, 64.92%, 9.28%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: In Mark 10:31, the paradox of the first and last is used as a rebuke to Peter's boast. This is similar to the illustration in Matthew 19:30 where the proverb is accompanied by the parable of the laborers in the vineyard. The verse suggests that those who consider themselves first may end up being last, emphasizing the importance of humility and the reversal of expectations in the kingdom of God.
+- 🔄 Mark 10:31 (attempt 1, 69 words, 45.65% quotes quality score: 1.67321957748912, V2 normalized quality score: 46.98, commentator tiers 1-3: 30.23%, 65.79%, 3.98%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Some suggest that in this verse, Jesus is rebuking Peter's boast by using the paradox of the first and the last, a concept also mentioned in Matthew 19:30. This proverb is further illustrated by the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes that those who consider themselves important or privileged may find themselves in a different position than expected.
-- 🔄 Mark 10:31 (attempt 2, 70 words, 48.0% quotes quality score: 1.6884871431086532, V2 normalized quality score: 47.48, commentator tiers 1-3: 23.75%, 66.74%, 9.5%) 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: In this passage, a rebuke is given to Peter's boast by employing the paradox of the first and last, as seen in Matthew 19:30. The verse further illustrates this proverb through the parable of the laborers in the vineyard, as mentioned in Matthew 20:1-16. It conveys the idea that those who consider themselves first may actually end up being last, emphasizing the importance of humility and the unexpected nature of the kingdom of God.
+- 🔄 Mark 10:31 (attempt 2, 73 words, 43.14% quotes quality score: 1.705105418797892, V2 normalized quality score: 48.04, commentator tiers 1-3: 30.14%, 66.79%, 3.07%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 3 BHT: The paradox of the first and last is used here as a rebuke to Peter's boast, drawing a parallel to Matthew 19:30. A similar concept is depicted through the parable of the laborers in the vineyard in Matthew 20:1-16. It teaches us that those who perceive themselves as first may ultimately be last, underscoring the value of humility and the unexpected nature of God's kingdom.
+- 🔄 Mark 10:31 (attempt 3, 65 words, 46.67% quotes quality score: 1.6096340941169611, V2 normalized quality score: 44.86, commentator tiers 1-3: 31.32%, 66.27%, 2.41%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The paradox of the first and last is employed in this rebuke to Peter's boast, linked to the illustration in Matthew 19:30. Matthew 20:1-16 deepens the understanding of this proverb through the parable of the laborers in the vineyard. It conveys the message that those who perceive themselves as first may actually end up being last, highlighting the significance of humility and the reversal of expectations within the realm of God's kingdom.
+- 🔄 Mark 10:31 (attempt 4, 72 words, 41.67% quotes quality score: 1.7177033094677503, V2 normalized quality score: 48.46, commentator tiers 1-3: 29.32%, 67.39%, 3.29%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The paradox of the first and last is used as a direct response to Peter's boast, as witnessed in Matthew 19:30. It is further clarified through the parable of the laborers in the vineyard found in Matthew 20:1-16. This verse implies that those who believe themselves to be first may ultimately find themselves at the end, highlighting the importance of humility and the unexpected nature of God's kingdom.
+- 🔄 Mark 10:31 (attempt 5, 68 words, 45.83% quotes quality score: 1.6479805805611187, V2 normalized quality score: 46.14, commentator tiers 1-3: 28.2%, 66.66%, 5.14%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: In this passage, the paradox of the first and the last is highlighted as a possible rebuke to Peter's boast. This concept is found in Matthew 19:30, where the same proverb is used and illustrated through the parable of the laborers in the vineyard (Matthew 20:1-16). Jesus' statement that many that are first shall be last emphasizes the potential reversal of positions, cautioning against pride and reminding us that our perceived importance may not align with God's perspective.
-- 🔄 Mark 10:31 (attempt 3, 78 words, 44.64% quotes quality score: 1.6739536833760749, V2 normalized quality score: 47.0, commentator tiers 1-3: 29.33%, 66.45%, 4.22%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: This verse alludes to the paradox of the first and the last, possibly as a rebuke to Peter's boast. A similar proverb is mentioned in Matthew 19:30, and this teaching is further illustrated through the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes the potential reversal of positions, cautioning against pride and reminding us that our perceived importance may not align with God's perspective.
-- 🔄 Mark 10:31 (attempt 4, 75 words, 42.59% quotes quality score: 1.6754247429033855, V2 normalized quality score: 47.05, commentator tiers 1-3: 29.05%, 66.55%, 4.4%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: This verse highlights the paradox of the first and the last, potentially as a rebuke to Peter's boast. A similar proverb is mentioned elsewhere, and its meaning is exemplified by the parable of the laborers in the vineyard. The phrase many that are first shall be last underscores the possibility of positions being reversed, warning against pride and reminding us that our perceived importance may not align with God's perspective.
-- 🔄 Mark 10:31 (attempt 5, 72 words, 45.45% quotes quality score: 1.4153081396644076, V2 normalized quality score: 38.4, commentator tiers 1-3: 30.86%, 63.86%, 5.28%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Mark 10:31 bht prompt v0.8 (70 words, 48.0% quotes)
-- quality score: 1.6884871431086532, V2 normalized quality score: 47.48, commentator tiers 1-3: 23.75%, 66.74%, 9.5%)
+- ✅ Mark 10:31 bht prompt v0.8 (72 words, 41.67% quotes)
+- quality score: 1.7177033094677503, V2 normalized quality score: 48.46, commentator tiers 1-3: 29.32%, 67.39%, 3.29%)

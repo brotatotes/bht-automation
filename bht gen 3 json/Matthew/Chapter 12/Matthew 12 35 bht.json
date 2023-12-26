@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 23:46:59",
+    "timestamp": "12-25-2023 19:29:51",
     "verseRef": "Matthew 12:35",
     "bestBHT": {
-        "bht": "Our words hold great significance, for they are a reflection of the inner treasures stored within us that are only fully known by God. These treasures encompass both good and evil, and in the judgment to come, our entire lives, including our words, will be exposed. From the overflow of our hearts, a good person brings forth goodness, while an evil person brings forth wickedness. Our words, spoken under the pressure of the abundance within, reveal to which kingdom we belong, whether the kingdom of light or another.",
-        "wordCount": 88,
-        "quoteTokenProportion": 45.16,
-        "qualityScore": 1.8340350193824895,
-        "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+        "bht": "The words we speak are a reflection of the treasure within us, known only by God and partially by ourselves. These words, often overlooked, hold great significance and will be subjects of judgment. They spring forth from the inner fountains of good and evil within our hearts. A good man brings forth good things from the abundance of his heart, while an evil man brings forth evil things. Our words not only defile ourselves but also reveal the kingdom to which we truly belong.",
+        "wordCount": 84,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 1.8669211468652853,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.42,
         "commentatorTierSimilarities": [
-            31.42,
-            30.76,
-            37.83
+            33.85,
+            31.41,
+            34.74
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The treasure spoken of is that inner storehouse of good and evil only seen by God and (partially) by ourselves.",
-            "Because words, so lightly thought of by the world and the careless, spring from the inner fountains of good and ill, therefore they will form subjects of the judgment of the great day.",
-            "The whole life shall be unfolded and pronounced upon."
+            "Because words, so lightly thought of by the world and the careless, spring from the inner fountains of good and ill.",
+            "[Words] will form subjects of the judgment of the great day, when the whole life shall be unfolded and pronounced upon."
         ],
         "Jamieson-Fausset-Brown": [
             "A good man, out of the good treasure of the heart, bringeth forth good things.\" ",
@@ -33,12 +33,12 @@
         "Philip Schaff": [
             "The good treasure. The words: 'of the heart,' though not in the text, suggest the correct explanation.",
             "The contents of our hearts are known to God alone and partially to ourselves.",
-            "But our unrestrained utterances show what is laid up there."
+            "Our unrestrained utterances show what is laid up there."
         ],
         "John Gill": [
             "A good man, out of the good treasure of the heart... brings forth good things.\" ",
-            "The good treasure of the heart... is no other than the superabundant grace of God... and the rich experience of it he is blessed with.",
-            "An evil man, out of the evil treasure... brings forth evil things... blasphemies against God, Christ, and the blessed Spirit."
+            "And an evil man, out of the evil treasure bringeth forth evil things.\" ",
+            "From whence are continually proceeding evil and corrupt communications, which not only defile himself, but others."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse is a reminder that the words we speak are not to be taken lightly, for they reveal the state of our hearts, which only God truly sees. On the day of judgment, our entire lives will be examined and pronounced upon. A good man, drawing from the deep well of goodness within his heart, brings forth good things, while an evil man, fueled by the darkness within, brings forth evil things. These words, spoken out of abundance, show to which kingdom we belong. It is through our unrestrained utterances that the contents of our hearts are revealed, confirming whether we possess the treasure of God's grace or the treasure of evil intentions.",
-            "wordCount": 115,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.7470366752310509,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "bht": "The words we speak come from the inner storehouse of good and evil within us. These words have great significance, as they will be subjects of judgment in the future. A good man, with a heart filled with good treasures, brings forth good things, while an evil man, with an evil treasure in his heart, brings forth evil things. Our words reflect the abundance within us, and they reveal to which kingdom we truly belong. It is important to guard our hearts and be mindful of the contents within, as our unrestrained utterances can not only defile ourselves but also others.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.7990175029503894,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
             "commentatorTierSimilarities": [
-                31.38,
-                31.99,
-                36.63
+                33.03,
+                33.88,
+                33.09
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Our words hold great weight, as they originate from the inner storehouse of good and evil known only to God and partially to ourselves. In the grand scheme of things, our entire lives and the words we speak will be subjected to judgment. Those who draw from the abundance of goodness in their hearts bring forth virtuous things, while those who yield to darkness bring forth wickedness. Our words ultimately reveal our allegiance, showcasing whether we belong to the kingdom of light or oppose it by proclaiming loyalty to another kingdom.",
-            "wordCount": 91,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.5598197737145207,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "bht": "The treasure within us, seen by God and partially by ourselves, determines the words we speak, which will be judged one day. A good man brings forth good things from the good treasure of the heart, while an evil man brings forth evil things. Our words reveal to which kingdom we belong. They are a reflection of the abundance within and can both defile ourselves and others. It is crucial to guard our hearts and be mindful of the contents within.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.7669562058869093,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.09,
             "commentatorTierSimilarities": [
-                35.42,
-                30.56,
-                34.02
+                32.46,
+                34.62,
+                32.92
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Our words are not to be taken lightly, as they reveal the inward treasure that only God and partially ourselves can see. On the day of judgment, our entire lives will be examined, and our words play a significant role in this assessment. A good person brings forth good things from the abundance of their heart, while an evil person brings forth evil. Our words reflect the kingdom to which we belong, either aligning with the kingdom of light or openly opposing it.",
-            "wordCount": 83,
-            "quoteTokenProportion": 48.39,
-            "qualityScore": 1.6051767591214747,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "bht": "The words we speak are a reflection of the treasure within us, known only by God and partially by ourselves. These words, often overlooked, hold great significance and will be subjects of judgment. They spring forth from the inner fountains of good and evil within our hearts. A good man brings forth good things from the abundance of his heart, while an evil man brings forth evil things. Our words not only defile ourselves but also reveal the kingdom to which we truly belong.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.8669211468652853,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
             "commentatorTierSimilarities": [
-                33.4,
-                30.97,
-                35.63
+                33.85,
+                31.41,
+                34.74
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Our words hold great significance, for they are a reflection of the inner treasures stored within us that are only fully known by God. These treasures encompass both good and evil, and in the judgment to come, our entire lives, including our words, will be exposed. From the overflow of our hearts, a good person brings forth goodness, while an evil person brings forth wickedness. Our words, spoken under the pressure of the abundance within, reveal to which kingdom we belong, whether the kingdom of light or another.",
-            "wordCount": 88,
-            "quoteTokenProportion": 45.16,
-            "qualityScore": 1.8340350193824895,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "bht": "The words we speak are a manifestation of the inner treasures stored within us, which are known to God and partially known to ourselves. These words hold significance as they will be subjects of judgment in the future. A good person brings forth good things from the abundance of their heart, while an evil person brings forth evil things. Our words reflect the kingdom we belong to and have the potential to defile ourselves and others. It is crucial to guard our hearts and be mindful of what we store within.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.6078127369655473,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.8,
             "commentatorTierSimilarities": [
-                31.42,
-                30.76,
-                37.83
+                34.32,
+                34.95,
+                30.74
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Our words hold great weight in revealing the contents of our hearts, known fully only by God and partially by ourselves. On the day of judgment, our lives will be examined and pronounced upon. From the treasures within, a good person brings forth goodness, while an evil person brings forth wickedness. Through our words, we openly proclaim to which kingdom we belong, either aligning with the kingdom of light or opposing it. The abundance of our hearts is poured out through our words, showcasing the true nature within.",
-            "wordCount": 88,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.6689716546128934,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "bht": "The words we speak reflect the inner storehouse of good and evil within us, known to God and partially to ourselves. These words hold weight as they will be subjects of judgment. A good person brings forth good things from the abundance of their heart, while an evil person brings forth evil things. Our words reveal the kingdom to which we belong and have the power to defile ourselves and others. It is crucial to guard our hearts and be mindful of what we store within.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.6354546070055382,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.72,
             "commentatorTierSimilarities": [
-                33.21,
-                33.63,
-                33.15
+                35.5,
+                32.08,
+                32.41
             ],
             "generationAttempt": 5
         }

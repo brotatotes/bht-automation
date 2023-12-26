@@ -5,10 +5,6 @@ from bht.bht import Footnotes, BHTWithFootnotes, BHTVersion, ChoicestQuotesForVe
 import json
 import time
 
-# retroactively generate all JSONs for gen 2. 
-# JSON needs to be incorporated in future generations as part of the pipeline. 
-# Then this script should be deleted
-
 if __name__ == '__main__':
     
     start_time = time.time()

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 13:54:09",
+    "timestamp": "12-25-2023 19:35:01",
     "verseRef": "Philippians 2:26",
     "bestBHT": {
-        "bht": "Epaphroditus, the messenger from the Philippians, longed after them all with a deep and earnest yearning. He was not only longing for the city of Philippi, but for the church and all its members. His distress was akin to the heaviness Christ experienced in Gethsemane, as it greatly troubled him and he was even near death. This demonstrates the sign of a true pastor, someone who is concerned for the well-being and grief of their flock.",
-        "wordCount": 77,
-        "quoteTokenProportion": 50.85,
-        "qualityScore": 1.9768812807275555,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+        "bht": "Epaphroditus, the messenger who brought the letter to the Philippians, was not just longing to be with them, but he was actually overwhelmed with heavy grief and concern for them. He felt their sadness and anxiety from a distance, and now he is rushing to them in order to relieve their minds. His longing after them was not just a general affection, but a deep and heartfelt desire to be with his beloved church. This mutual love and tender affection between the minister and the people is something that characterized the early churches.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.9962416742657476,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.72,
         "commentatorTierSimilarities": [
-            33.21,
-            25.97,
-            40.81
+            28.1,
+            31.47,
+            40.43
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -32,24 +32,24 @@
             "Was full of heaviness [\u03b7\u03bd \u03b1\u03b4\u03b7\u03bc\u03bf\u03bd\u03c9\u03bd] . Rev., was sore troubled. Used of Christ in Gethsemane, Matthew 26:27."
         ],
         "John Calvin": [
-            "He longed after you. It is a sign of a true pastor...",
-            "On learning that his sheep were distressed on his account, he was concerned as to their grief.",
-            "The anxiety of the Philippians for their pastor is here discovered."
+            "He longed after you. It is a sign of a true pastor, that while he was at a great distance, and was willingly detained by a pious engagement, he was nevertheless affected with concern for his flock, and a longing after them...",
+            "...and on learning that his sheep were distressed on his account, he was concerned as to their grief.",
+            "On the other hand, the anxiety of the Philippians for their pastor is here discovered."
         ],
         "Philip Schaff": [
-            "Since he longed after you all.",
-            "The strength of this word will be recognised from its being used [...] of Christ\u2019s agony in the garden.",
-            "There can be no question that a considerable amount of time must have elapsed since St. Paul came to Rome before these words were written."
+            "The strength of this word will be recognised from its being used (Matthew 26:37; Mark 14:33) of Christ\u2019s agony in the garden...Its strong character is not unsuited to the feelings of one who has been very sick at a distance from all his friends.",
+            "In his recovery feels that home is the only place in which he can thoroughly recover.",
+            "The anxiety of his friends has been reported at Rome."
         ],
         "Archibald T. Robertson": [
-            "He longed after... \" - He was yearning after.",
-            "Was sore troubled... \" - The distress of Epaphroditus was greatly increased.",
-            "Nigh unto death... \" - Nigh unto death."
+            "He longed after (\u03b5\u03c0\u03b9\u03c0\u03bf\u03b8\u03c9\u03bd \u03b7\u03bd)... he was yearning after.",
+            "You all (\u03c0\u03b1\u03bd\u03c4\u03b1\u03c2 \u03c5\u03bc\u03b1\u03c2)...",
+            "Only example in N.T. of this compound adverbial preposition (from the adjective \u03c0\u03b1\u03c1\u03b1\u03c0\u03bb\u03b7\u03c3\u03b9\u03bf\u03c2) with the dative case."
         ],
         "John Gill": [
-            "It was not the city of Philippi he longed to see... but the church there; and not the officers of it only, the bishops and deacons, but all the members of it...",
-            "He was full of heaviness: almost pressed down, quite disheartened and dispirited, ready to sink and die away, not so much with his own disorder and illness, as with sorrow on account of the church at Philippi.",
-            "We have here an instance of that mutual love, tender affection and sympathy; which were in the first churches, and what subsisted between ministers and people; see how they loved one another!"
+            "He had a very vehement and longing desire after all of them.",
+            "It was not the city of Philippi he longed to see, which might be his native place, nor his natural relations and family, but the church there.",
+            "We have here an instance of that mutual love, tender affection and sympathy; which were in the first churches, and what subsisted between ministers and people."
         ],
         "John Wesley": [
             "He was full of heaviness \u2014 Because he supposed you would be afflicted at hearing that he was sick."
@@ -72,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The apostle Paul writes that Epaphroditus, the messenger from the Philippians, longed after them all. Epaphroditus felt a deep yearning to be with the church in Philippi, as reflected in the use of the past tense for his longing. He was not only longing for the city of Philippi, but for the church and all its members. The distress he felt was akin to the heaviness Christ experienced in Gethsemane. Epaphroditus was greatly troubled and even near death because he knew his illness would cause distress to the Philippians. This demonstrates the sign of a true pastor, someone who is concerned for the well-being and grief of their flock.",
-            "wordCount": 110,
-            "quoteTokenProportion": 45.07,
-            "qualityScore": 2.0400158900371688,
-            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "bht": "Epaphroditus, the messenger who brought the letter to the Philippians, was not just longing to be with them, but he was actually overwhelmed with heavy grief and concern for them. He felt their sadness and anxiety from a distance, and now he is rushing to them in order to relieve their minds. His longing after them was not just a general affection, but a deep and heartfelt desire to be with his beloved church. This mutual love and tender affection between the minister and the people is something that characterized the early churches.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9962416742657476,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
             "commentatorTierSimilarities": [
-                34.56,
-                27.75,
-                37.68
+                28.1,
+                31.47,
+                40.43
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Epaphroditus, the messenger from the Philippians, longed after them all with a deep and earnest yearning. He was not only longing for the city of Philippi, but for the church and all its members. His distress was akin to the heaviness Christ experienced in Gethsemane, as it greatly troubled him and he was even near death. This demonstrates the sign of a true pastor, someone who is concerned for the well-being and grief of their flock.",
-            "wordCount": 77,
-            "quoteTokenProportion": 50.85,
-            "qualityScore": 1.9768812807275555,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+            "bht": "Epaphroditus, the messenger who brought the letter, was not only longing to be with the Philippians, but was actually overwhelmed with heavy grief and concern for them. He felt their sadness and anxiety from a distance, and now he is rushing to them to relieve their minds. His longing after them was not just a general affection, but a deep and heartfelt desire to be with his beloved church. This mutual love and tender affection between the minister and the people characterized the early churches.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9835060044369346,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
             "commentatorTierSimilarities": [
-                33.21,
-                25.97,
-                40.81
+                28.89,
+                31.1,
+                40.01
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Epaphroditus, the messenger from the Philippians, deeply longed to be with them. He was not only longing for the city of Philippi, but for the church and all its members. His distress was comparable to the heaviness Christ experienced in Gethsemane, as it greatly troubled him to the point of near death. This highlights the true nature of a pastor, someone who cares deeply and is concerned for the well-being and grief of their flock.",
-            "wordCount": 76,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.9383120076427498,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "bht": "Epaphroditus, the messenger who brought the letter, was not only longing to be with the Philippians, but was actually overwhelmed with heavy grief and concern for them. He felt their sadness and anxiety from a distance, and now he is rushing to them to relieve their minds. This mutual love and tender affection between the minister and the people characterized the early churches. The strength of Epaphroditus' longing is evident in the comparison to Christ's agony in the garden.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8723176939588186,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
             "commentatorTierSimilarities": [
-                32.17,
-                27.34,
-                40.48
+                30.18,
+                31.3,
+                38.52
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Epaphroditus, the messenger from the Philippians, yearned to be with them all. His deep longing extended to the church and its members, causing him great distress similar to the heaviness that weighed on Christ in Gethsemane. This genuine concern exemplifies the heart of a true pastor, who is not only attentive to the physical well-being of the flock but also deeply empathizes with their sorrows. Epaphroditus' love for the Philippians reflects the mutual affection and sympathy that characterized the early churches.",
+            "bht": "The messenger, Epaphroditus, not only longed to be with the Philippians, but was actually overwhelmed with heavy grief and concern for them. He felt their sorrow and anxiety from a distance, and now he hastens to relieve their minds. His intense longing demonstrates a true pastor's heart, as he is deeply affected by the distress of his flock. This mutual love, tender affection, and sympathy between ministers and people is an example of the close bond that characterized the early churches.",
             "wordCount": 82,
-            "quoteTokenProportion": 42.19,
-            "qualityScore": 1.789655226137421,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9908543670667553,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.54,
             "commentatorTierSimilarities": [
-                34.67,
-                25.42,
-                39.9
+                28.26,
+                32.63,
+                39.1
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Epaphroditus, the messenger from the Philippians, deeply longed to be reunited with them. He not only yearned for the city of Philippi, but also for the church and its members. His distress was akin to the heaviness Christ experienced in the garden of Gethsemane, greatly troubling him to the point of near death. This displays the genuine care and concern of a true pastor, who empathizes with the sorrows of the flock and seeks to alleviate their anxieties.",
-            "wordCount": 78,
-            "quoteTokenProportion": 39.66,
-            "qualityScore": 1.7716904691874893,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "bht": "Epaphroditus, the messenger sent to the Philippians, not only longed to be with them, but was actually overwhelmed with heavy grief and concern. He felt their sorrow and anxiety from afar and hurried to alleviate their distress. His intense longing reveals a true pastor's heart, deeply moved by the distress of his flock. This heartfelt bond of mutual love, tender affection, and sympathy between ministers and people exemplifies the close relationships that characterized the early churches.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.935281465285827,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.69,
             "commentatorTierSimilarities": [
-                31.26,
-                27.98,
-                40.75
+                28.8,
+                32.5,
+                38.7
             ],
             "generationAttempt": 5
         }

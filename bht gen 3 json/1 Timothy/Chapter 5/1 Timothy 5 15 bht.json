@@ -1,48 +1,49 @@
 {
-    "timestamp": "12-19-2023 17:29:12",
+    "timestamp": "12-25-2023 20:08:47",
     "verseRef": "1 Timothy 5:15",
     "bestBHT": {
-        "bht": "Some young widows have already turned aside after Satan, the seducer, giving occasion for reproach. These widows have followed the great Tempter instead of the Lord Jesus, leading them astray from the right path. Their actions have exposed them to the revilings of those who, consciously or unconsciously, are doing the work of Satan. This serves as a reminder that even the most holy ordinances can be tainted by the wickedness of people. Therefore, it is crucial to remain steadfast and not deviate from the Lord, for turning aside leads to bondage under Satan.",
-        "wordCount": 94,
-        "quoteTokenProportion": 45.07,
-        "qualityScore": 1.752156744976983,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+        "bht": "Some young widows are already turned aside after Satan, the seducer, following the great Tempter rather than the Lord Jesus. They have been drawn away from the right path by the great Adversary, exposing themselves to revilings and causing mischief through their idleness. It is a warning that even those who were once children of God can become slaves of Satan when they turn aside from the truth and the government of Christ.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.7176543837487106,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.45,
         "commentatorTierSimilarities": [
-            34.34,
-            27.62,
-            38.05
+            23.12,
+            34.69,
+            42.19
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "Some (widows) are already turned aside after Satan, the seducer.",
             "Satan finds some mischief still for the idle hands to do.",
-            "They have given occasion of reproach."
+            "Satan...by such errors as are stigmatized...sexual passion, idleness, &c."
         ],
         "Albert Barnes": [
             "For some are already turned aside after Satan - That is, some young widows.\" ",
-            "The meaning is, that in the respects above mentioned 1 Timothy 5:13, they had followed the great Tempter, rather than the Lord Jesus.\" ",
-            "This is stated as a reason why they should not be admitted into the number of the widows who were to be maintained at the expense of the church, and to whom the care of the younger female members was to be committed."
+            "They had followed the great Tempter, rather than the Lord Jesus.\" ",
+            "This is stated as a reason why they should not be admitted into the number of the widows who were to be maintained at the expense of the church."
         ],
         "John Calvin": [
             "It is certain, that there is no ordinance so holy that some evil may not arise out of it through the wickedness of men.",
             "If the revolt of some women was regarded by him as a sufficiently strong argument for seeking a universal remedy, how many arguments would the Papists have for abolishing their filthy celibacy, if they had any regard to edification!",
-            "We learn from this how destructive is turning aside from the right course, since, from being children of God, it makes us slaves of Satan."
+            "We learn from this how destructive is turning aside from the right course, since, from being children of God, it makes us slaves of Satan, and, by withdrawing us from the government of Christ, places Satan over us as our guide."
         ],
         "Philip Schaff": [
             "The warning was not uncalled for. Facts had shown that there was urgent need for it.",
             "Those of whom he speaks had been turned out of the right path by the great Adversary, and so were exposed to the revilings of those who, consciously or unconsciously, were doing his work.",
-            "The Greek, indeed, refers to some definite time present to St. Paul\u2019s thoughts, probably that of his last visit to Ephesus."
+            "Those of whom he speaks had been turned out of the right path by the great Adversary."
         ],
         "Archibald T. Robertson": [
-            "Are turned aside (\u03b5\u03be\u03b5\u03c4\u03c1\u03b1\u03c0\u03b7\u03c3\u03b1\u03bd).\" ",
-            "After Satan (\u03bf\u03c0\u03b9\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03a3\u03b1\u03c4\u03b1\u03bd\u03b1)."
+            "Are turned aside (\u03b5\u03be\u03b5\u03c4\u03c1\u03b1\u03c0\u03b7\u03c3\u03b1\u03bd).",
+            "Second aorist (effective) passive indicative of \u03b5\u03ba\u03c4\u03c1\u03b5\u03c0\u03c9.",
+            "Late use of \u03bf\u03c0\u03b9\u03c3\u03c9 (behind) as a preposition."
         ],
         "John Gill": [
             "For some are already turned aside after Satan.",
-            "They turned their backs on Christ, and gave themselves up to carnal lusts and pleasures, and an idle and impure life and conversation.",
-            "Everyone that apostatizes from a profession of Christ [...] may be said to turn aside after Satan."
+            "Meaning some of those younger widows, whom the apostle knew, and had observed to have departed from the faith they first professed.",
+            "For so everyone that apostatizes from a profession of Christ, and follows either false teachers, and their doctrines, or any sinful and impure way of life, may be said to turn aside after Satan."
         ],
         "John Wesley": [
             "Some \u2014 Widows.",
@@ -66,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some young widows have already turned aside after Satan, the great seducer, causing reproach to be brought upon them. These widows have been led astray from the right path and have followed the temptations of the enemy, exposing themselves to the revilings of those who are doing his work. It is clear that even the most holy ordinance can be corrupted by the wickedness of individuals. Therefore, it is crucial to remain steadfast and not deviate from the right course, for turning aside from the Lord turns us into slaves of Satan.",
-            "wordCount": 92,
-            "quoteTokenProportion": 47.76,
-            "qualityScore": 1.684151458056696,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "bht": "Some young widows are already turned aside after Satan, the seducer, following the great Tempter rather than the Lord Jesus. They have been drawn away from the right path by the great Adversary, exposing themselves to revilings and causing mischief through their idleness. It is a warning that even those who were once children of God can become slaves of Satan when they turn aside from the truth and the government of Christ. This serves as a reminder that no ordinance is so holy that evil cannot arise from it through the wickedness of men, and a caution against apostasy.",
+            "wordCount": 100,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.6082379699723774,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.82,
             "commentatorTierSimilarities": [
-                31.06,
-                28.42,
-                40.51
+                21.29,
+                34.24,
+                44.47
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Some young widows have already turned aside after Satan, giving occasion for reproach. They have followed the temptations of the great seducer and have been drawn away from the right path. By turning their backs on Christ, they have become slaves of Satan, exposing themselves to reviling. It is a stark reminder that even the holiest of ordinances can be corrupted by the wickedness of individuals. Therefore, it is imperative to stay firm and not deviate from the Lord, for straying leads to bondage under the influence of Satan.",
-            "wordCount": 89,
-            "quoteTokenProportion": 41.54,
-            "qualityScore": 1.7448260718974202,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "bht": "Some young widows are already turned aside after Satan, the seducer, following the great Tempter rather than the Lord Jesus. They have been drawn away from the right path by the great Adversary, exposing themselves to revilings and causing mischief through their idleness. It is a warning that even those who were once children of God can become slaves of Satan when they turn aside from the truth and the government of Christ.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.7176543837487106,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.45,
             "commentatorTierSimilarities": [
-                36.31,
-                24.0,
-                39.69
+                23.12,
+                34.69,
+                42.19
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Some young widows have already turned aside after Satan, the seducer, giving occasion for reproach. These widows have followed the great Tempter instead of the Lord Jesus, leading them astray from the right path. Their actions have exposed them to the revilings of those who, consciously or unconsciously, are doing the work of Satan. This serves as a reminder that even the most holy ordinances can be tainted by the wickedness of people. Therefore, it is crucial to remain steadfast and not deviate from the Lord, for turning aside leads to bondage under Satan.",
-            "wordCount": 94,
-            "quoteTokenProportion": 45.07,
-            "qualityScore": 1.752156744976983,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "bht": "Some widows have already been led astray by Satan, the great seducer, and have turned aside from the right path. They have allowed themselves to be influenced by the temptations of sexual passion and idleness. This turning aside has been a result of the wickedness and deception of the Evil One, who constantly seeks to lead believers astray. The apostle Paul warns against admitting these young widows into the group of those who are to be supported by the church. The consequences of straying from the truth are dire, as it places believers under the destructive influence and control of Satan.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5021326100473087,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
             "commentatorTierSimilarities": [
-                34.34,
-                27.62,
-                38.05
+                26.08,
+                33.12,
+                40.79
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Some young widows have already turned aside after Satan, the seducer, causing reproach to be brought upon them. These widows have been led astray from the right path and have followed the temptations of the enemy, exposing themselves to the revilings of those who are doing his work. It is clear that even the most holy ordinance can be corrupted by the wickedness of individuals. Therefore, it is crucial to remain steadfast and not deviate from the right course, for turning aside from the Lord turns us into slaves of Satan.",
-            "wordCount": 91,
-            "quoteTokenProportion": 48.48,
-            "qualityScore": 1.6956237538194605,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "bht": "Some widows have already turned aside after Satan, the seducer who finds mischief for idle hands. The apostle Paul warns against admitting these young widows into the group supported by the church, as they have followed the great Tempter instead of the Lord Jesus. Turning away from the right path leads to being under the destructive influence of Satan. It is a reminder of the danger that can arise from the wickedness of men and highlights the need to stay steadfast in faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5907435981348401,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
             "commentatorTierSimilarities": [
-                31.7,
-                28.12,
-                40.19
+                28.05,
+                32.05,
+                39.9
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Some young widows have already turned aside after Satan, giving occasion for reproach. They have followed the temptations of the great seducer and have been drawn away from the right path. By turning their backs on Christ, they have become slaves of Satan, exposing themselves to reviling. It is a stark reminder that even the holiest of ordinances can be corrupted by the wickedness of individuals. Therefore, it is imperative to stay firm and not deviate from the Lord, for straying leads to bondage under the influence of Satan.",
-            "wordCount": 89,
-            "quoteTokenProportion": 41.54,
-            "qualityScore": 1.7448260718974202,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "bht": "Some widows have already been turned aside after Satan, the seducer, who finds mischief for idle hands. The apostle Paul warns against admitting these young widows into the supported group, as they have followed the great Tempter rather than the Lord Jesus. Turning away from the right path puts believers under the destructive influence of Satan and exposes them to revilings. It highlights the importance of staying steadfast in faith and avoiding the temptations and deceptions of the Evil One.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.606074538232361,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
             "commentatorTierSimilarities": [
-                36.31,
-                24.0,
-                39.69
+                27.16,
+                32.19,
+                40.65
             ],
             "generationAttempt": 5
         }

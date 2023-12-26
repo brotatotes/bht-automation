@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-22-2023 23:23:41",
+    "timestamp": "12-25-2023 20:08:47",
     "verseRef": "Mark 6:29",
     "bestBHT": {
-        "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion. He, who wept at the grave of Lazarus, would not have taken such news lightly. Jesus may have allowed John's disciples to be with Him until the end, providing them with an opportunity to honor their teacher's body. This was a mournful time for them, but they showed their commitment by carefully laying John's body in a tomb, despite the dangers involved.",
-        "wordCount": 84,
-        "quoteTokenProportion": 46.88,
-        "qualityScore": 1.668280784537383,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+        "bht": "The disciples of John came to Jesus to share the news of their master's death, possibly with mixed emotions. While they may have had some reflections on Jesus for seemingly neglecting John, they were also drawn to Him as orphans, choosing to align themselves with His disciples. Aware of Jesus' compassion, it is likely that He received this news with deep emotion. Perhaps Jesus allowed some of John's disciples to remain with Him, creating a small group of dedicated friends who would care for His own body in the future.",
+        "wordCount": 92,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.8244018318375028,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.0,
         "commentatorTierSimilarities": [
-            37.91,
-            25.86,
-            36.23
+            40.01,
+            34.7,
+            25.29
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "How Jesus felt, or what He said, on receiving this intelligence, is not recorded; but He of whom it was said, as He stood by the grave of His friend Lazarus, 'Jesus wept,' was not likely to receive such intelligence without deep emotion.\" (Mark 6:29)",
-            "And one reason why He might not be unwilling that a small body of John's disciples should cling to him to the last, might be to provide some attached friends who should do for his precious body, on a small scale, what was afterwards to be done for His own.\" (Mark 6:29)",
-            "Here, for the first time, all the four streams of sacred text run parallel. The occasion and all the circumstances of this grand section are thus brought before us with a vividness quite remarkable.\" (Mark 6:30-44)"
+            "If these disciples had, up to this time, stood apart from Him, as adherents of John (Matthew 14:12- :), perhaps they now came to Jesus, not without some secret reflection on Him for His seeming neglect of their master; but perhaps, too, as orphans, to cast in their lot henceforth with the Lord's disciples.",
+            "But He of whom it was said, as He stood by the grave of His friend Lazarus, 'Jesus wept,' was not likely to receive such intelligence without deep emotion.",
+            "And one reason why He might not be unwilling that a small body of John's disciples should cling to him to the last, might be to provide some attached friends who should do for his precious body, on a small scale, what was afterwards to be done for His own."
         ],
         "Marvin Vincent": [
-            "This man, whose inner life was burnt out; who was made up of contradictions, speaking of his kingdom like Ahasuerus, and yet the slave of his Jezebel.\" ",
-            "Willingly hearing the prophet, and unwillingly killing him; who will be a Sadducee, and yet thinks of a resurrection.\" ",
-            "Who has a superstitious fear of the Lord Jesus, and yet a curiosity to see him."
+            "This man, whose inner life was burnt out; who was made up of contradictions, speaking of his kingdom like Ahasuerus, and yet the slave of his Jezebel...\" ",
+            "Willingly hearing the prophet, and unwillingly killing him...",
+            "Who will be a Sadducee, and yet thinks of a resurrection; who has a superstitious fear of the Lord Jesus, and yet a curiosity to see him."
         ],
         "John Calvin": [
+            "It was, to leave the corpse of the holy man unburied; for there is reason to believe that, when his disciples performed this duty, the attendants of the tyrant had thrown out the corpse.",
             "Though the honor of burial is of no importance to the dead, yet it is the will of the Lord that we should observe this ceremony as a token of the last resurrection.",
-            "God was pleased with the carefulness which was manifested by the disciples when they came to commit to the tomb the body of their master.",
             "This confession was therefore worthy of praise, more especially as it was not without danger; for they could not do honor to a man who had been put to death by the executioner without exciting against themselves the rage of the tyrant."
         ],
         "Philip Schaff": [
@@ -35,14 +35,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "His corpse (\u03c4\u03bf \u03c0\u03c4\u03c9\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5). It was a mournful time for the disciples of John.",
+            "His corpse (\u03c4\u03bf \u03c0\u03c4\u03c9\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5). See on Matthew 24:28.",
             "It was a mournful time for the disciples of John.",
             "What else could they do?"
         ],
         "John Gill": [
-            "And when his disciples heard of it... they came; to the prison in the castle of Machaerus.",
-            "they took up his corpse; the trunk of his body; for his head was carried away, to glut the revenge of Herodias.",
-            "and laid it in a tomb."
+            "When his disciples heard of it... they came and took up his corpse.\" ",
+            "For his head was carried away, to glut the revenge of Herodias.",
+            "And laid it in a tomb."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -62,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion, as He was not one to receive such intelligence without being moved. Jesus may have allowed John's disciples to cling to Him until the end, providing them with the opportunity to honor John's body, just as would later be done for Jesus. The circumstances surrounding this significant section in Mark are brought before us with vividness. It was indeed a mournful time for the disciples of John, and in their carefulness to give him a proper burial, they showed their commitment to him despite the dangers involved.",
-            "wordCount": 108,
-            "quoteTokenProportion": 48.05,
-            "qualityScore": 1.7182622324761603,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "bht": "After the disciples of John heard of his cruel death, they must have been filled with a mix of emotions. Perhaps there was some secret reflection on Jesus for seemingly neglecting their master, but also a sense of orphanhood that led them to cast their lot with Jesus and his disciples. Jesus, who wept at the grave of Lazarus, surely received this news with deep emotion. It is possible that Jesus allowed a small group of John's disciples to cling to him to the very end, providing loyal friends who would later care for his own body. The disciples of John lovingly took up his corpse to ensure a proper burial, a mournful duty in such a time. What else could they do?",
+            "wordCount": 124,
+            "quoteTokenProportion": 44.32,
+            "qualityScore": 1.708934378259011,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.16,
             "commentatorTierSimilarities": [
-                37.81,
-                31.65,
-                30.54
+                41.56,
+                26.77,
+                31.68
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion. He, who wept at the grave of Lazarus, would not have taken such news lightly. Jesus may have allowed John's disciples to be with Him until the end, providing them with an opportunity to honor their teacher's body. This was a mournful time for them, but they showed their commitment by carefully laying John's body in a tomb, despite the dangers involved.",
-            "wordCount": 84,
-            "quoteTokenProportion": 46.88,
-            "qualityScore": 1.668280784537383,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "bht": "Filled with a mix of emotions, the disciples of John must have come to Jesus, perhaps with some secret reflection on His seeming neglect of their master. Knowing Jesus' compassionate nature, He surely received the news of John's death with deep emotion. It's possible that Jesus allowed a small group of John's disciples to cling to Him, providing loyal friends to care for His own body in the future. This duty to lovingly take up John's corpse for a proper burial was a mournful time for them, leaving them to wonder what else they could do.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.7944982008697563,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
             "commentatorTierSimilarities": [
-                37.91,
-                25.86,
-                36.23
+                41.54,
+                27.44,
+                31.02
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion. He, who wept at the grave of Lazarus, would not have taken such news lightly. Jesus may have allowed John's disciples to be with Him until the end, providing them with an opportunity to honor their teacher's body. This was a mournful time for them, but they showed their commitment by carefully laying John's body in a tomb, despite the dangers involved.",
-            "wordCount": 84,
-            "quoteTokenProportion": 46.88,
-            "qualityScore": 1.668280784537383,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "bht": "Hearing of John the Baptist's death, the disciples were faced with a mix of emotions. Perhaps they questioned Jesus for seemingly neglecting their master, but deep down they desired to cast their lot with Him. Jesus, who wept at Lazarus' grave, surely received this news with deep emotion. He may have allowed a small group of John's disciples to remain with Him, providing loyal friends who would later care for His own body. Taking up John's corpse for a proper burial, they fulfilled their mournful duty.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6606358743729224,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
             "commentatorTierSimilarities": [
-                37.91,
-                25.86,
-                36.23
+                40.01,
+                25.58,
+                34.41
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Upon receiving the news of John the Baptist's death, it is likely that Jesus experienced deep emotion. Just as He wept at Lazarus' grave, the thought of John's demise would not leave Him unaffected. He may have allowed John's disciples to remain with Him until the end, providing them an opportunity to pay their respects for their beloved teacher. In this mournful time, they carefully laid John's body in a tomb, demonstrating their unwavering commitment, despite the inherent dangers.",
-            "wordCount": 83,
-            "quoteTokenProportion": 39.39,
-            "qualityScore": 1.5789513861267102,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.84,
+            "bht": "The disciples of John came to Jesus to share the news of their master's death, possibly with mixed emotions. While they may have had some reflections on Jesus for seemingly neglecting John, they were also drawn to Him as orphans, choosing to align themselves with His disciples. Aware of Jesus' compassion, it is likely that He received this news with deep emotion. Perhaps Jesus allowed some of John's disciples to remain with Him, creating a small group of dedicated friends who would care for His own body in the future.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.8244018318375028,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
             "commentatorTierSimilarities": [
-                38.8,
-                24.88,
-                36.32
+                40.01,
+                34.7,
+                25.29
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus' reception of the news of John the Baptist's death likely stirred deep emotion within Him. Just as He wept at the grave of Lazarus, Jesus would not have taken this news lightly. Perhaps He permitted John's disciples to cling to Him until the end, allowing them to honor their beloved teacher's body. Despite the dangers involved, they showed their commitment by carefully laying John's body in a tomb, signifying their devotion and respect for him during this mournful time.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.6471660969383943,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "bht": "Having heard of John the Baptist's death, the disciples may have approached Jesus with a mix of emotions, perhaps reflecting on Him for what seemed like neglect of their master. However, they were also drawn to Jesus, coming to Him as orphans and joining His disciples. Jesus, known for His compassionate nature, would have surely received this news with deep emotion. It is possible that He allowed a small group of John's disciples to remain with Him, forming loyal friends who would later attend to His own body.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7356083837583118,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.05,
             "commentatorTierSimilarities": [
-                38.31,
-                26.1,
-                35.59
+                40.39,
+                32.46,
+                27.15
             ],
             "generationAttempt": 5
         }

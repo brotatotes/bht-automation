@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:23:31",
+    "timestamp": "12-25-2023 20:08:22",
     "verseRef": "Luke 23:52",
     "bestBHT": {
-        "bht": "Joseph of Arimathea, in an act of personal favor, boldly approached Pilate to ask for the body of Jesus. He knew that Jesus was dead and needed to be properly buried, wanting to prevent any mistreatment of the body by the mob or association with the two malefactors.",
-        "wordCount": 48,
-        "quoteTokenProportion": 42.11,
-        "qualityScore": 1.7151447485535867,
-        "qualityScoreNormalizedComparedToV2BHTs": 48.37,
+        "bht": "Joseph of Arimathea, in a personal favor, asked for the body of Jesus as a personal favor. The middle voice of his request indicates that he approached Pilate directly, seeking to bury Jesus' body and prevent it from being desecrated by the mob or associated with the two malefactors.",
+        "wordCount": 49,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.9825459653590798,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.26,
         "commentatorTierSimilarities": [
-            57.19,
-            19.42,
-            23.38
+            66.4,
+            20.3,
+            13.3
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -24,8 +24,8 @@
         ],
         "John Gill": [
             "He went 'boldly' to him.",
-            "Knowing he was dead; that he might bury it.",
-            "And prevent its being inferred with the two malefactors, or abused by the mob."
+            "Knowing he was dead.",
+            "That he might bury it, [...] and prevent its being inferred with the two malefactors, or abused by the mob."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -45,67 +45,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Joseph of Arimathea asked for the body of Jesus as a personal favor, going boldly to Pilate and knowing that Jesus was dead and needed to be buried. His request was likely made to prevent the body from being left with the other two malefactors or being abused by the mob.",
-            "wordCount": 51,
-            "quoteTokenProportion": 47.5,
-            "qualityScore": 1.3565222833756283,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.45,
+            "bht": "Joseph of Arimathea, in an act of personal favor, asked Pilate for the body of Jesus. This bold request, made in the knowledge that Jesus was dead, allowed Joseph to bury it and prevent any further desecration or abuse by the mob or association with the two malefactors. (Based on Luke 23:52 and related passages)",
+            "wordCount": 54,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.5258737591036993,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
             "commentatorTierSimilarities": [
-                43.93,
-                20.42,
-                35.65
+                51.87,
+                30.49,
+                17.64
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Joseph of Arimathea, in an act of personal favor, boldly approached Pilate to ask for the body of Jesus. He knew that Jesus was dead and needed to be properly buried, wanting to prevent any mistreatment of the body by the mob or association with the two malefactors.",
-            "wordCount": 48,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.7151447485535867,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.37,
+            "bht": "In a demonstration of personal favor, Joseph of Arimathea went boldly to Pilate and asked for Jesus' body, knowing that He was dead. His intention was to bury the body and prevent any further desecration or abuse in association with the two malefactors or by the mob.",
+            "wordCount": 47,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.3962782384067154,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.77,
             "commentatorTierSimilarities": [
-                57.19,
-                19.42,
-                23.38
+                43.55,
+                18.17,
+                38.28
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Joseph of Arimathea, in a personal favor, asked for the body of Jesus, going boldly to Pilate. He knew that Jesus was dead and needed to be buried, preventing any abuse or association with the two malefactors or the mob.",
-            "wordCount": 40,
-            "quoteTokenProportion": 44.12,
-            "qualityScore": 1.6311136249865021,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+            "bht": "In a personal favor, Joseph of Arimathea asked for the body of Jesus as he went boldly to Pilate. Aware that Jesus was dead, Joseph sought to bury the body to prevent it from being inferred with the two malefactors or from being abused by the mob.",
+            "wordCount": 47,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.8823223849495165,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
             "commentatorTierSimilarities": [
-                53.95,
-                20.48,
-                25.57
+                55.76,
+                19.84,
+                24.4
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Joseph of Arimathea, in a personal favor, asked for the body of Jesus, going boldly to Pilate. He knew that Jesus was dead and needed to be buried in order to prevent any abuse or association with the two malefactors or the mob.",
-            "wordCount": 43,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.6549330388818104,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "bht": "Joseph of Arimathea, in a personal favor, asked for the body of Jesus as a personal favor. The middle voice of his request indicates that he approached Pilate directly, seeking to bury Jesus' body and prevent it from being desecrated by the mob or associated with the two malefactors.",
+            "wordCount": 49,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.9825459653590798,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
             "commentatorTierSimilarities": [
-                53.35,
-                20.78,
-                25.87
+                66.4,
+                20.3,
+                13.3
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Joseph of Arimathea asked for the body of Jesus as a personal favor, going boldly to Pilate and knowing that Jesus was dead and needed to be buried. His request was likely made to prevent the body from being left with the other two malefactors or being abused by the mob.",
-            "wordCount": 51,
-            "quoteTokenProportion": 47.5,
-            "qualityScore": 1.3565222833756283,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.45,
+            "bht": "Joseph of Arimathea, seeking a personal favor, asked for the body of Jesus as a personal favor. He went boldly to Pilate, knowing that Jesus was dead. His intention was to bury the body and prevent it from being inferred with the two malefactors or abused by the mob.",
+            "wordCount": 49,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.4536050281078663,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.68,
             "commentatorTierSimilarities": [
-                43.93,
-                20.42,
-                35.65
+                46.42,
+                18.11,
+                35.46
             ],
             "generationAttempt": 5
         }

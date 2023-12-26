@@ -1,23 +1,23 @@
 {
-    "timestamp": "12-21-2023 03:14:25",
+    "timestamp": "12-25-2023 19:30:11",
     "verseRef": "John 18:29",
     "bestBHT": {
-        "bht": "Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation, dissimulating his own information. He went out to the Sanhedrin, asking for their charge against Jesus. His abrupt introduction implies familiarity, and his name may mean a javelin or a cap. Pilate seeks fairness as he wants to try the prisoner. The priests offer no reply, yet Pilate complies by going to their court with civility. His aim is to state the matter, open the cause, and provide evidence to ensure an equitable, just, and impartial judgment.",
-        "wordCount": 86,
-        "quoteTokenProportion": 34.85,
-        "qualityScore": 1.7001949961838663,
-        "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+        "bht": "Pilate, informed about Jesus' situation, demanded a formal accusation to proceed with a fair trial. His abrupt entrance suggests familiarity, and as the Procurator of Judea, Pilate sought to uphold Roman respect for law and judge Jesus fairly. Despite his disdain for Israel's religion, Pilate's question demonstrated his intention to be a good judge. Ultimately, Pilate's inquiry displayed shades of equity, justice, and impartiality, aligning with Roman legal practices and showing his willingness to engage in a fair trial.",
+        "wordCount": 82,
+        "quoteTokenProportion": 21.05,
+        "qualityScore": 1.8479044618953024,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.78,
         "commentatorTierSimilarities": [
-            33.94,
-            33.16,
-            32.9
+            25.0,
+            44.41,
+            30.6
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
             "Though Pilate, having granted the service of the band of soldiers to the Sanhedrim, must have been aware of the circumstances under which Jesus was brought before him.\" ",
-            "He demanded a formal accusation on which legally to proceed.",
+            "He demanded a formal accusation on which legally to proceed.\" ",
             "Dissimulating his own information on the subject."
         ],
         "Jamieson-Fausset-Brown": [
@@ -26,27 +26,27 @@
             "\tcharge."
         ],
         "Marvin Vincent": [
-            "Note the abruptness with which he [Pilate] is introduced as one well known.",
-            "Two derivations of the name are given. Pilatus, one armed with the pilum or javelin... Or, a contraction from Pileatus, wearing the pileus or cap, which was the badge of manumitted slaves.",
-            "Not implying Pilate's ignorance of the charge, but his demand for the formal accusation."
+            "Note the abruptness with which he is introduced as one well known.",
+            "Pilate. Two derivations of the name are given. Pilatus, one armed with the pilum or javelin, like Torquatus, one adorned with a collar [\u03c4\u03bf\u03c1\u03b8\u03c5\u03b5\u03c3].",
+            "Or, a contraction from Pileatus, wearing the pileus or cap, which was the badge of manumitted slaves."
         ],
         "John Calvin": [
-            "This heathen is not unwilling to encourage a superstition, which he ridicules and despises.",
-            "He performs the duty of a good judge when he orders them, if they have any accusation, to bring it forward.",
+            "This heathen is not unwilling to encourage a superstition, which he ridicules and despises...",
+            "...he performs the duty of a good judge, when he orders them, if they have any accusation, to bring it forward.",
             "The priests...make no other reply, than that he ought to abide by their previous decision."
         ],
         "Philip Schaff": [
-            "What accusation bring ye against this man?",
-            "His character...is that of a skeptical, cold, and cruel man, arbitrary in his acts, and cherishing no feelings but those of contempt for the religion of Israel.",
-            "His first question...was that of one who would try the prisoner before him with all fairness."
+            "Pilate was Procurator of Judea under the Roman government... arbitrary in his acts, and cherishing no feelings but those of contempt for the religion of Israel.\" ",
+            "He was, however, a Roman judge... and until his passions were excited there is no cause to think that he would not show the usual Roman respect for law.",
+            "His first question, accordingly, was that of one who would try the prisoner before him with all fairness."
         ],
         "Archibald T. Robertson": [
-            "Went out (\u03b5\u03be\u03b7\u03bb\u03b8\u03b5\u03bd \u03b5\u03be\u03c9). Note both \u03b5\u03be and \u03b5\u03be\u03c9 (went out outside), since the Sanhedrin would not come into Pilate's palace.\" ",
+            "Note both \u03b5\u03be and \u03b5\u03be\u03c9 (went out outside), since the Sanhedrin would not come into Pilate's palace.",
             "Accusation (\u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b9\u03b1\u03bd). Old word for formal charge, in N.T. only here, 1 Timothy 5:19; Titus 1:6.",
             "Against this man (\u03c4\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5). Objective genitive after \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b9\u03b1\u03bd. A proper legal inquiry."
         ],
         "John Gill": [
-            "In complaisance to them, since they would not come into his court of judicature, he condescends to go into one of theirs, which showed great civility and humanity in him.",
+            "Wherefore in complaisance to them, since they would not come into his court of judicature, he condescends to go into one of theirs, which showed great civility and humanity in him.",
             "His view was, to have the matter stated, the cause opened, and evidence given; that the accused being face to face with the accusers, might answer for himself; and he, as a judge, be capable of judging between them.",
             "All which were very commendable in him, and agreeably to the Roman laws; and have an appearance of equity, justice, and impartiality."
         ]
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Pilate, well aware of the circumstances surrounding Jesus' arrest, demanded a formal accusation from the Sanhedrim. He dissimulated his own knowledge on the subject and went out to them, asking them to state their charge against Jesus. Pilate's abrupt introduction reveals his familiarity, and his name can be derived from either a javelin or a cap, the latter being a badge of manumitted slaves. Though implying formal accusation, Pilate's query does not imply ignorance. Pilate's inquiry demonstrates his commitment to fairness and justice as he seeks to try the prisoner before him. However, the priests provide no reply, simply reaffirming their previous decision. In compliance with their refusal to enter his court, Pilate takes the initiative to go to theirs, showing great civility and humanity. His goal is to have the matter stated, the cause opened, and evidence given so the accused can answer for himself and Pilate, as a judge, can make an informed judgment. This approach aligns with Roman laws and reflects a demeanor of equity, justice, and impartiality.",
-            "wordCount": 174,
-            "quoteTokenProportion": 34.45,
-            "qualityScore": 1.5814325816194348,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "bht": "Pilate, aware of the circumstances surrounding Jesus' arrest, demanded a formal accusation from the Sanhedrin, wanting a legitimate basis on which to proceed. His abrupt entrance into the scene suggests his familiarity and notoriety. As the Roman Procurator of Judea, Pilate was known for his arbitrary acts and contempt for Israel's religion, yet he still upheld Roman respect for the law. In asking for an accusation against Jesus, Pilate was acting as a good judge, seeking to establish a fair trial where evidence could be presented and Jesus could defend himself. Pilate's willingness to go to the Sanhedrin's court demonstrated his civility and humanity. Overall, Pilate's inquiry displayed a semblance of equity, justice, and impartiality, aligning with Roman legal practices.",
+            "wordCount": 124,
+            "quoteTokenProportion": 29.76,
+            "qualityScore": 1.7887593164295401,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
             "commentatorTierSimilarities": [
-                34.4,
-                26.48,
-                39.12
+                24.63,
+                43.96,
+                31.41
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation, dissimulating his own information. He went out to the Sanhedrin, asking for their charge against Jesus. His abrupt introduction implies familiarity, and his name may mean a javelin or a cap. Pilate seeks fairness as he wants to try the prisoner. The priests offer no reply, yet Pilate complies by going to their court with civility. His aim is to state the matter, open the cause, and provide evidence to ensure an equitable, just, and impartial judgment.",
-            "wordCount": 86,
-            "quoteTokenProportion": 34.85,
-            "qualityScore": 1.7001949961838663,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "bht": "Pilate, having granted the service to the Sanhedrim, sought a formal accusation, dissimulating his own information. Despite his contempt for Israel's religion, Pilate acted as a good judge by requesting a charge against Jesus, indicating his intention to hold a fair trial. Pilate's willingness to enter the Sanhedrin's court showed civility and humanity, aligning with Roman laws and demonstrating equity, justice, and impartiality. His abrupt introduction suggests his notoriety. As the Roman Procurator of Judea, Pilate upheld respect for the law, even if arbitrary at times.",
+            "wordCount": 89,
+            "quoteTokenProportion": 22.73,
+            "qualityScore": 1.7925407038800096,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
             "commentatorTierSimilarities": [
-                33.94,
-                33.16,
-                32.9
+                26.59,
+                42.68,
+                30.73
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Pilate, well aware of Jesus' circumstances, demanded a formal accusation from the Sanhedrin. Dissimulating his own information, he went out to them, asking for their charge against Jesus. Pilate's abrupt introduction illustrates his familiarity, and his name may derive from a javelin or a cap. Seeking fairness, he aims to try the prisoner. The priests provide no reply, but Pilate complies with civility, going to their court. His goal is to state the matter, open the cause, and ensure an equitable, just, and impartial judgment.",
+            "bht": "Pilate, aware of the circumstances, demanded a formal accusation from the Sanhedrin to proceed with a fair trial. Though known for his contempt towards Israel's religion, Pilate upheld the Roman respect for law and sought to judge Jesus with fairness. His entry into the scene hints at his familiarity. As the Procurator of Judea, Pilate's question revealed his intention to try the prisoner fairly. Despite his arbitrary acts, Pilate's inquiry displayed hints of equity, justice, and impartiality in line with Roman legal practices.",
             "wordCount": 86,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.6844151913398875,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.35,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.7570375803263913,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
             "commentatorTierSimilarities": [
-                34.35,
-                33.12,
-                32.53
+                27.54,
+                44.43,
+                28.04
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Pilate, knowledgeable of Jesus' circumstances, demanded a formal accusation from the Sanhedrin. Dissimulating his own information, he went out to them, asking for their charge against Jesus. Pilate's abrupt introduction demonstrates his familiarity, and his name can be derived from a javelin or a cap. Seeking fairness, he aims to try the prisoner before him. The priests provide no reply, but Pilate complies by going to their court with civility. His goal is to state the matter, open the cause, and ensure an equitable, just, and impartial judgment.",
-            "wordCount": 89,
-            "quoteTokenProportion": 39.13,
-            "qualityScore": 1.686162163615923,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "bht": "Pilate, informed about Jesus' situation, demanded a formal accusation to proceed with a fair trial. His abrupt entrance suggests familiarity, and as the Procurator of Judea, Pilate sought to uphold Roman respect for law and judge Jesus fairly. Despite his disdain for Israel's religion, Pilate's question demonstrated his intention to be a good judge. Ultimately, Pilate's inquiry displayed shades of equity, justice, and impartiality, aligning with Roman legal practices and showing his willingness to engage in a fair trial.",
+            "wordCount": 82,
+            "quoteTokenProportion": 21.05,
+            "qualityScore": 1.8479044618953024,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
             "commentatorTierSimilarities": [
-                33.86,
-                33.56,
-                32.57
+                25.0,
+                44.41,
+                30.6
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Pilate, aware of Jesus' circumstances, demanded a formal accusation. Going out to the Sanhedrin, he asked for their charge against Jesus. Pilate's abrupt introduction shows his familiarity, and his name may mean a javelin or a cap. Seeking fairness, he aims to try the prisoner. The priests provide no reply, but Pilate complies by going to their court with civility. His goal is to state the matter, open the cause, and ensure an equitable, just, and impartial judgment.",
-            "wordCount": 79,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.6814300683356347,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "bht": "Pilate, having granted the service to the Sanhedrin, demanded a formal accusation, dissimulating his own information. Pilate's abrupt introduction suggests his notoriety, while his willingness to enter the Sanhedrin's court exhibited civility and humanity. As the Procurator of Judea, Pilate upheld Roman respect for the law, even if arbitrary at times. His inquiry sought a fair trial, displaying equity, justice, and impartiality in accordance with Roman legal practices. Despite his contempt for Israel's religion, Pilate's actions showcased elements of a good judge, creating the appearance of fairness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 22.39,
+            "qualityScore": 1.7837478644421831,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
             "commentatorTierSimilarities": [
-                34.73,
-                34.02,
-                31.25
+                24.66,
+                44.23,
+                31.11
             ],
             "generationAttempt": 5
         }

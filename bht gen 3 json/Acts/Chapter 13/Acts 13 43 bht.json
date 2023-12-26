@@ -1,57 +1,58 @@
 {
-    "timestamp": "12-19-2023 16:30:52",
+    "timestamp": "12-25-2023 19:30:39",
     "verseRef": "Acts 13:43",
     "bestBHT": {
-        "bht": "After speaking to the people, Paul and Barnabas encouraged them to continue in the grace of God, which they had experienced through the Gospel. Many religious proselytes followed them and embraced the doctrines of the Gospel. This success showed the power of faithfully preaching the Gospel. Paul, known for his persuasive abilities, urged them to persist in the grace they had received. Trials were at hand, so they needed invincible constancy to endure and stand strong in the grace of God.",
-        "wordCount": 81,
-        "quoteTokenProportion": 34.62,
-        "qualityScore": 1.7483500323346304,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+        "bht": "Paul and Barnabas encouraged the Jews and Gentile converts to persist in the grace of God, persuading them to continue in faith, prayer, and obedience. Many fervently followed them after experiencing the power of their preaching. Paul's persuasive ability, seen elsewhere in the New Testament, emphasized the importance of remaining unwavering in the midst of trials. By urging the new converts to hold fast to the grace they had received through the gospel, Paul and Barnabas aimed to strengthen their faith in the hope of eternal salvation.",
+        "wordCount": 88,
+        "quoteTokenProportion": 25.45,
+        "qualityScore": 1.8193574364678131,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.84,
         "commentatorTierSimilarities": [
-            25.04,
-            26.61,
-            48.35
+            30.37,
+            28.2,
+            41.42
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "Speaking to them\u2014following up the discourse in the synagogue by some further words of encouragement.",
-            "Persuaded them to continue in the grace of God.",
-            "Which they had experienced through the Gospel."
+            "Persuaded them to continue in the grace of God\u2014which they had experienced through the Gospel.",
+            "(Compare Acts 11:23)."
         ],
         "Albert Barnes": [
-            "It does not mean that it was broken up by violence or disorder. It was dismissed in the usual way.",
             "Still a deep impression was made on many of them.",
-            "This success was remarkable, and shows the power of the gospel when it is preached faithfully to people."
+            "This success was remarkable, and shows the power of the gospel when it is preached faithfully to people.",
+            "In the grace of God - In his favor - in the faith, and prayer, and obedience which would be connected with his favor."
         ],
         "Marvin Vincent": [
             "Religious [\u03c3\u03b5\u03b2\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd] . Lit., worshipping.",
             "Proselytes [\u03c0\u03c1\u03bf\u03c3\u03b7\u03bb\u03c5\u03c4\u03c9\u03bd] . Originally, one who arrives at a place; a stranger; thence of one who comes over to another faith."
         ],
         "John Calvin": [
-            "They exhorted Paul and Barnabas that they should not faint, but stand stoutly in the grace of God.",
             "They saw combats prepared for them; and that therefore they had need of invincible constancy to suffer and abide the brunts of the contrary faction.",
-            "They entertained [those who came] courteously and gently, and confirmed and strengthened them, that they might persist in the grace which they had received."
+            "That they did not reject those which came, but they entertained them courteously and gently, and confirmed and strengthened them, that they might persist in the grace which they had received.",
+            "The word grace doth first comprehend the faith of the gospel; secondly, those good things which come thence to us; or, that I may speak more briefly, the calling into the hope of eternal salvation."
         ],
         "Philip Schaff": [
             "To continue in the grace of God.",
             "It was a very favourite expression of his.",
-            "No doubt the very words of Paul used to these Jews and proselytes who followed the missionaries to their temporary home in the city."
+            "See Act 20:24; 1 Corinthians 15:10; 2 Corinthians 6:1; Galatians 2:21."
         ],
         "Archibald T. Robertson": [
-            "Of the devout proselytes (\u03c4\u03c9\u03bd \u03c3\u03b5\u03b2\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd \u03c0\u03c1\u03bf\u03c3\u03b7\u03bb\u03c5\u03c4\u03c9\u03bd).",
-            "Yet the rabbis used it also of proselytes of the gate who had not yet become circumcised, probably the idea here.",
+            "In the N.T. the word occurs only in Matthew 23:15; Acts 2:10; Acts 6:5; Acts 13:43.",
+            "Many (both Jews and proselytes) followed (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd, ingressive aorist active indicative of \u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03c9) Paul and Barnabas to hear more without waiting till the next Sabbath.",
             "Paul had great powers of persuasion (Acts 18:4; Acts 19:8; Acts 19:26; Acts 26:28; Acts 28:23; 2 Corinthians 5:11; Galatians 1:10)."
         ],
         "John Gill": [
-            "Many of the Jews and religious proselytes followed Paul and Barnabas... and cordially embraced the doctrines of the Gospel\" (19 words).",
-            "Paul and Barnabas took notice of them, and found that the word had reached their hearts, and they had embraced the doctrine of the Gospel\" (24 words).",
-            "...they spoke a word of exhortation to them, beseeching them to continue in it, it springing from the grace of God\" (24 words)."
+            "Who were converted by this sermon, and believed in Christ, and cordially embraced the doctrines of the Gospel, that had been preached.",
+            "Meaning, not that the Jews and proselytes spoke to Paul and Barnabas, and entreated and persuaded them to persevere in preaching the doctrine of the grace of God, but that Paul and Barnabas took notice of them, and by their following them, and by the conversation they had with them, found that the word had reached their hearts.",
+            "They spoke a word of exhortation to them, beseeching them to continue in it, it springing from the grace of God, and being a declaration of it; and particularly in those special doctrines of grace, which had been insisted on, namely, remission of sins, and free justification by the blood of Christ."
         ],
         "John Wesley": [
-            "Persuaded them to continue - For trials were at hand.",
-            "In the grace of God - That is, to adhere to the Gospel or Christian faith."
+            "Persuaded them to continue - For trials were at hand",
+            "In the grace of God - That is, to adhere to the Gospel",
+            "Or Christian faith"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After speaking to the people, Paul and Barnabas encouraged them to continue in the grace of God, which they had experienced through the Gospel. Many religious proselytes, who had come to worship and were open to another faith, followed Paul and Barnabas and embraced the doctrines of the Gospel. This success showed the power of faithfully preaching the gospel to people. Paul, known for his persuasive abilities, spoke words of exhortation to them, urging them to persist in the grace they had received. Trials were at hand, so they needed invincible constancy to endure and stand strong in the grace of God.",
-            "wordCount": 102,
-            "quoteTokenProportion": 32.79,
-            "qualityScore": 1.7883759011489841,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "bht": "After delivering a powerful discourse in the synagogue, Paul and Barnabas spoke words of encouragement to the Jews and Gentile converts, persuading them to persist in the grace of God. The impact of their preaching was evident as many followed them, eager to hear more. Paul's ability to persuade was well-known, reflecting his deep conviction in the gospel. The phrase continue in the grace of God was a recurring theme in his teachings, emphasizing the importance of remaining steadfast in faith, prayer, and obedience. This call to perseverance resonated with those who had embraced the message and were about to face trials. By exhorting them to hold fast to the grace that they had received through the proclamation of the gospel, Paul and Barnabas sought to strengthen and confirm their new converts in the hope of eternal salvation.",
+            "wordCount": 140,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.7280555575862402,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
             "commentatorTierSimilarities": [
-                25.41,
-                26.22,
-                48.37
+                27.15,
+                30.67,
+                42.18
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After speaking to the people, Paul and Barnabas encouraged them to continue in the grace of God, which they had experienced through the Gospel. Many religious proselytes followed them and embraced the doctrines of the Gospel. This success showed the power of faithfully preaching the Gospel. Paul, known for his persuasive abilities, urged them to persist in the grace they had received. Trials were at hand, so they needed invincible constancy to endure and stand strong in the grace of God.",
-            "wordCount": 81,
-            "quoteTokenProportion": 34.62,
-            "qualityScore": 1.7483500323346304,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "bht": "Paul and Barnabas, after delivering a compelling sermon, encouraged the Jews and Gentile converts to persist in the grace of God. Their persuasion was effective as many followed them eagerly. Paul's persuasive abilities, well-documented in the New Testament, reflected his strong conviction in the gospel. The phrase continue in the grace of God was a recurring theme in his teachings, emphasizing the importance of remaining steadfast in faith, prayer, and obedience. By urging the new converts to hold fast to the grace they had received, Paul and Barnabas sought to strengthen and confirm their faith in the hope of eternal salvation.",
+            "wordCount": 103,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.7419919900727092,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
             "commentatorTierSimilarities": [
-                25.04,
-                26.61,
-                48.35
+                27.7,
+                31.59,
+                40.71
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After speaking to the people, Paul and Barnabas urged them to continue in the grace of God. Many religious proselytes followed them and embraced the doctrines of the Gospel, revealing the power of faithful preaching. Paul, known for his persuasive abilities, encouraged them to persist in the grace they had received, as trials were imminent and required unwavering constancy. Stand strong, endure, and continue in the grace of God.",
-            "wordCount": 69,
-            "quoteTokenProportion": 30.43,
-            "qualityScore": 1.7256742794752933,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "bht": "Paul and Barnabas, following their discourse in the synagogue, spoke words of encouragement to the Jews and Gentile converts, persuading them to continue in the grace of God. The impact of their preaching was evident as many eagerly followed them. Paul's persuasive abilities, attested throughout the New Testament, emphasized the importance of steadfastness in faith, prayer, and obedience. By urging the new converts to hold fast to the grace they had received, Paul and Barnabas aimed to strengthen and confirm their faith in the hope of eternal salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7683064920362188,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
             "commentatorTierSimilarities": [
-                25.8,
-                24.98,
-                49.23
+                29.43,
+                28.49,
+                42.08
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "After Paul and Barnabas spoke to the people, they encouraged them to continue in the grace of God, which they had experienced through the Gospel. Many religious proselytes followed them and embraced the doctrines of the Gospel, highlighting the effectiveness of faithful preaching. Paul, known for his persuasive abilities, urged them to persist in the grace they had received. Trials were imminent, so they needed unwavering constancy to endure and stand strong in the grace of God.",
-            "wordCount": 77,
-            "quoteTokenProportion": 32.65,
-            "qualityScore": 1.7465367879385858,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "bht": "Paul and Barnabas encouraged the Jews and Gentile converts to continue in the grace of God, urging them to persist in faith, prayer, and obedience. Their persuasive words found success as many eagerly followed them. Paul's ability to persuade, evident in his other teachings, emphasized the importance of remaining steadfast in the face of trials. By urging the new converts to hold fast to the grace they had received, Paul and Barnabas sought to strengthen and confirm their faith in the hope of eternal salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.675630730064758,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.06,
             "commentatorTierSimilarities": [
-                24.57,
-                24.29,
-                51.14
+                28.19,
+                28.51,
+                43.3
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "After their discourse in the synagogue, Paul and Barnabas spoke further words of encouragement to the people, persuading them to continue in the grace of God. Many religious proselytes followed them and embraced the doctrines of the Gospel, showcasing the power of faithful preaching. Paul, renowned for his persuasive abilities, urged them to persist in the grace they had received, as trials were anticipated and demanded unwavering constancy. It was crucial for them to stand strong and endure challenges, remaining steadfast in the grace of God.",
-            "wordCount": 86,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.7117933286360159,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.26,
+            "bht": "Paul and Barnabas encouraged the Jews and Gentile converts to persist in the grace of God, persuading them to continue in faith, prayer, and obedience. Many fervently followed them after experiencing the power of their preaching. Paul's persuasive ability, seen elsewhere in the New Testament, emphasized the importance of remaining unwavering in the midst of trials. By urging the new converts to hold fast to the grace they had received through the gospel, Paul and Barnabas aimed to strengthen their faith in the hope of eternal salvation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.8193574364678131,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
             "commentatorTierSimilarities": [
-                25.29,
-                24.57,
-                50.14
+                30.37,
+                28.2,
+                41.42
             ],
             "generationAttempt": 5
         }

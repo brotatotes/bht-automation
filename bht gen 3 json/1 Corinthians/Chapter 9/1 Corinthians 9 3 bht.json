@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 15:08:54",
+    "timestamp": "12-25-2023 20:08:49",
     "verseRef": "1 Corinthians 9:3",
     "bestBHT": {
-        "bht": "The Corinthians' questioning of Paul's apostleship led him to defend himself by pointing to their own faith as the seal of his apostleship. The fact of their conversion was emphasized, and Paul reminded them that their faith and conversion were the confirmation of his authority. As critics examined him closely, he presented his defense and relied on their own faith as a shield against detractors, showcasing it as evidence of his genuine calling as an apostle.",
-        "wordCount": 77,
-        "quoteTokenProportion": 42.0,
-        "qualityScore": 1.6905685020911498,
-        "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+        "bht": "In response to doubts about his apostleship, Paul defends himself by pointing to the Corinthians' own faith as validation. He emphasizes that their conversion is the seal of his calling, countering the critics in Corinth who scrutinize him. Through their faith, the Corinthians become evidence of Paul's authenticity as an apostle. Despite being under constant examination, he finds assurance in their unwavering belief in Christ, which serves as a powerful defense of his ministry.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.6830546334448622,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.3,
         "commentatorTierSimilarities": [
-            24.74,
-            36.54,
-            38.73
+            27.31,
+            38.66,
+            34.03
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "This, viz. the fact of your conversion: this word is the predicate, not the subject\u2014as in John i. 19; xvii. 3, and stands here in the emphatic place before the verb; referring to what went before.\" ",
-            "With ver. 4 a new course of questions begins, which furnish no defence.",
-            "Me is emphatic."
+            "This belongs to the preceding, not, as in A.V., to the following verses.",
+            "This, viz. the fact of your conversion: this word is the predicate, not the subject.",
+            "With ver. 4 a new course of questions begins, which furnish no defence."
         ],
         "Jamieson-Fausset-Brown": [
             "3. to them that . . . examine",
@@ -28,33 +28,33 @@
             "\tyou are the seal of mine apostleship."
         ],
         "Albert Barnes": [
-            "My 'apology;' my defense.\" ",
+            "Mine answer - Greek \u0397\u0314 \u03b5\u0313\u03bc\u03b7\u0300 \u03b1\u0313\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u0301\u03b1 He\u0304 eme\u0304 apologia. My 'apology;' my defense.",
             "To those who 'inquire' of me; or who 'censure' and condemn me as not having any claims to the apostolic office.",
-            "He seems to have designed to take up their objections to his apostolic claims one by one, and to show that they were of no force."
+            "In these statements (1 Corinthians 9:4-6, etc.) he seems to have designed to take up their objections to his apostolic claims one by one, and to show that they were of no force."
         ],
         "Marvin Vincent": [
             "Answer [\u03b1\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03b1] . See on 1 Peter 3:15. ",
             "Examine [\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03bf\u03c5\u03c3\u03b9\u03bd] . See on Luke 23:14."
         ],
         "John Calvin": [
-            "I am accustomed to put you forward as my shield, in the event of any one detracting from the honor of my Apostleship.",
-            "The Corinthians are injurious and inimical to themselves, if they do not acknowledge him as such, for if their faith was a solemn attestation of Paul\u2019s Apostleship, and his defense, against slanderers, the one could not be invalidated without the other falling along with it.",
-            "Those who were desirous to bring his Apostleship into dispute, and overhale it, as they say."
+            "I am accustomed...to put you forward as my shield, in the event of any one detracting from the honor of my Apostleship.",
+            "The Corinthians are injurious and inimical to themselves, if they do not acknowledge him as such.",
+            "If their faith was a solemn attestation of Paul\u2019s Apostleship, and his defense, against slanderers, the one could not be invalidated without the other falling along with it."
         ],
         "Philip Schaff": [
             "My defence to them that examine me is this not this which I am now to give; for what follows is not an answer to such questioners, but this which I have already stated.\" ",
-            "Accordingly, 1 Corinthians 9:3 is to be viewed as closing the subject of his apostleship, so far as any question could be raised about it.",
+            "1 Corinthians 9:3 is to be viewed as closing the subject of his apostleship, so far as any question could be raised about it.",
             "In his Second Epistle he takes it up again."
         ],
         "Archibald T. Robertson": [
-            "My defence (\u03b7 \u03b5\u03bc\u03b7 \u03b1\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03b1). Original sense, not idea of apologizing as we say.",
-            "The critics in Corinth were 'investigating' Paul with sharp eyes to find faults.",
+            "My defence (\u03b7 \u03b5\u03bc\u03b7 \u03b1\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03b1). Original sense, not idea of apologizing as we say.\" ",
+            "The critics in Corinth were 'investigating' Paul with sharp eyes to find faults.\" ",
             "How often the pastor is under the critic's spy-glass."
         ],
         "John Gill": [
             "Mine answer to them that do examine me is this.",
-            "What he thought fit to say in answer to them, and in defence of himself, was by referring them to the famous church at Corinth, who were as particular persons, and as a church, his work in the Lord.",
-            "Everyone of them [the Corinthian church] as so many seals of his apostleship."
+            "What he thought fit to say in answer to them, and in defence of himself, was by referring them to the famous church at Corinth.",
+            "They were as particular persons, and as a church, his work in the Lord, and everyone of them as so many seals of his apostleship."
         ],
         "John Wesley": [
             "My answer to them who examine me \u2014 Concerning my apostleship.",
@@ -78,67 +78,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The Corinthians' questioning of Paul's apostleship led him to defend himself by pointing to their own faith as the seal of his apostleship. He emphasized the fact of their conversion, placing it in an emphatic position before the verb. The Corinthians, acting as critics, were investigating Paul's claims with sharp eyes, scrutinizing his every move. In response to their scrutiny, Paul presented his defense, reminding them that their faith and conversion were the confirmation of his authority as an apostle. The Corinthians themselves were a testimony to the legitimacy of his calling, and their faith served as a shield against detractors.",
-            "wordCount": 103,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.6536292668188626,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "bht": "In 1 Corinthians 9:3, Paul addresses the Corinthians' doubts about his apostleship. He defends himself against their scrutiny by pointing to their own faith as the evidence of his authenticity as an apostle. He tells them that their conversion is the seal of his apostleship, emphasizing the importance of their own spiritual journey as an affirmation of his legitimacy. Paul's response to those who question him serves as a reminder that the Corinthians themselves are a testament to his calling. Despite the critics in Corinth examining him with sharp eyes, Paul finds solace in the fact that their faith in Christ stands as a powerful defense of his ministry.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.722499795343274,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
             "commentatorTierSimilarities": [
-                27.66,
-                36.24,
-                36.1
+                26.57,
+                39.56,
+                33.87
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Corinthians' questioning of Paul's apostleship led him to defend himself by pointing to their own faith as the seal of his apostleship. The fact of their conversion was emphasized, and Paul reminded them that their faith and conversion were the confirmation of his authority. As critics examined him closely, he presented his defense and relied on their own faith as a shield against detractors, showcasing it as evidence of his genuine calling as an apostle.",
-            "wordCount": 77,
-            "quoteTokenProportion": 42.0,
-            "qualityScore": 1.6905685020911498,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+            "bht": "In response to the Corinthians' doubts about his apostleship, Paul defends himself by pointing to their own faith as proof of his legitimacy. He tells them that their conversion is the seal of his apostleship, emphasizing the importance of their spiritual journey as a confirmation of his calling. Despite the critics in Corinth examining him closely, Paul finds reassurance in the fact that their faith in Christ serves as a powerful defense of his ministry.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.6680968401657816,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
             "commentatorTierSimilarities": [
-                24.74,
-                36.54,
-                38.73
+                24.11,
+                38.69,
+                37.19
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The Corinthians' inquiry into Paul's apostleship prompted his defense, where he referred to their own faith as the seal of his authority. With an emphasis on their conversion, Paul highlighted the significance of their faith as a confirmation of his apostleship. Subjected to scrutiny, he provided his answer to those who examined him, pointing to the Corinthians themselves as a testimony to his genuine calling as an apostle. Their faith served as a shield against any detraction, affirming the legitimacy of his ministry.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.6775958505715884,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "bht": "In 1 Corinthians 9:3, Paul addresses the Corinthians' doubts about his apostleship. He defends himself by pointing to their own faith as a confirmation of his legitimacy. He reminds them that their conversion serves as the seal of his apostleship. Despite the scrutiny and investigation from the critics in Corinth, Paul takes solace in the fact that their faith in Christ stands as a strong defense of his ministry. The Corinthians themselves are a living testament to his calling and the authenticity of his apostleship.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.649647655602914,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
             "commentatorTierSimilarities": [
-                23.8,
-                36.91,
-                39.29
+                24.82,
+                39.02,
+                36.16
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul's defense of his apostleship was a response to the Corinthians' questioning and examination. He pointed to their own faith as the seal of his authority, emphasizing the significance of their conversion. In the face of scrutiny, Paul relied on their faith as a shield, using it as evidence of his legitimate calling as an apostle. The Corinthians themselves served as a testimony, confirming the authenticity of his ministry in the Lord.",
-            "wordCount": 73,
-            "quoteTokenProportion": 36.96,
-            "qualityScore": 1.6213724497121795,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "bht": "In response to doubts about his apostleship, Paul defends himself by pointing to the Corinthians' own faith as validation. He emphasizes that their conversion is the seal of his calling, countering the critics in Corinth who scrutinize him. Through their faith, the Corinthians become evidence of Paul's authenticity as an apostle. Despite being under constant examination, he finds assurance in their unwavering belief in Christ, which serves as a powerful defense of his ministry.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6830546334448622,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
             "commentatorTierSimilarities": [
-                25.29,
-                36.64,
-                38.07
+                27.31,
+                38.66,
+                34.03
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul's defense of his apostleship was a response to the Corinthians' inquiry and scrutiny. He highlighted their faith as the seal of his authority, emphasizing their conversion. By pointing to their faith as a shield, Paul presented their belief as evidence of his genuine calling. The Corinthians' acknowledgement of his apostleship was crucial, as their faith in him validated his ministry in the Lord, serving as a testimony to his legitimacy.",
-            "wordCount": 72,
-            "quoteTokenProportion": 30.95,
-            "qualityScore": 1.6558031861864313,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "bht": "In addressing the Corinthians' doubts about his apostleship, Paul relies on their conversion as proof of his legitimacy. He highlights the fact that their faith acts as the seal of his calling, countering the skeptics in Corinth. Even as he faces constant examination, Paul takes comfort in their steadfast belief in Christ, which serves as a resolute defense of his ministry. The Corinthians themselves stand as a living testament to his role as an apostle, offering undeniable support for his mission.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.643428748620353,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
             "commentatorTierSimilarities": [
-                24.64,
-                37.03,
-                38.33
+                25.9,
+                39.72,
+                34.39
             ],
             "generationAttempt": 5
         }

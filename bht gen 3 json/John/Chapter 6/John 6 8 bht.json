@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-25-2023 19:23:23",
+    "timestamp": "12-25-2023 19:28:56",
     "verseRef": "John 6:8",
     "bestBHT": {
-        "bht": "One of His disciples, Andrew, the brother of Simon Peter, contributes significantly to the narrative. Andrew's noteworthy role includes bringing Simon to Christ and frequently being mentioned alongside Philip. It is interesting to observe the discrepancies in the portrayal of the disciples' ownership of the loaves and fishes in different Gospel accounts. Additionally, Andrew's involvement is highlighted by his reception of the revelation regarding the writing of the Fourth Gospel. Though his faith may have been similar to Philip's, Andrew's part in the unfolding of Jesus' ministry is crucial.",
-        "wordCount": 93,
-        "quoteTokenProportion": 29.31,
-        "qualityScore": 1.6492900250852944,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.18,
+        "bht": "One of His disciples, Andrew, is mentioned in this narrative, even though Philip is also a disciple. This slight variation in detail showcases the ways in which differences arise within the Gospels. Andrew's significance lies in his role of introducing Simon Peter to Christ. Notably, Philip and Andrew are mentioned together in another instance, underscoring their connection.",
+        "wordCount": 58,
+        "quoteTokenProportion": 42.22,
+        "qualityScore": 1.9219198387121554,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.25,
         "commentatorTierSimilarities": [
-            33.05,
-            30.68,
-            36.28
+            32.74,
+            34.76,
+            32.5
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Meyer remarks, that the words one of His disciples may seem strange, seeing that Philip also was this: but that it has its value in the narrative.",
-            "In the three other Gospels, the loaves and fishes appear as the disciples\u2019 own;\u2014and we have thus a very simple but very instructive instance of the way in which differences in detail arose.",
-            "They were their own,\u2014but not till they had bought them."
+            "The words one of His disciples may seem strange, seeing that Philip also was this: but that it has its value in the narrative.\" ",
+            "In the three other Gospels, the loaves and fishes appear as the disciples\u2019 own.",
+            "We have thus a very simple but very instructive instance of the way in which differences in detail arose."
         ],
         "Philip Schaff": [
             "On the appellation here given to Andrew see on chap. John 1:40.",
@@ -26,12 +26,12 @@
         ],
         "Archibald T. Robertson": [
             "The great distinction of Andrew was precisely this that he brought Simon to Christ.",
-            "Philip and Andrew appear together again in John 12:20-22, but in the Synoptics he is distinguished only in Mark 13:3.",
+            "Philip and Andrew appear together again in John 12:20-22.",
             "In the Muratorian Fragment Andrew received the revelation for John to write the Fourth Gospel."
         ],
         "John Gill": [
-            "One of his disciples, Andrew, Simon Peter's brother.... Who also, and his brother Peter, were of Bethsaida, as well as Philip, and was a disciple of Christ's.",
-            "hearing what Christ said to Philip, and what answer he returned,",
+            "One of his disciples, Andrew, Simon Peter's brother.... Who also, and his brother Peter, were of Bethsaida, as well as Philip.\" ",
+            "hearing what Christ said to Philip, and what answer he returned",
             "saith unto him; to Christ, with but little more faith than Philip, if any."
         ]
     },
@@ -52,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "One of the disciples mentioned in this verse is Andrew, the brother of Simon Peter. Andrew is known for bringing Simon to Christ, and he and Philip are often mentioned together in the Gospels. Interestingly, while the other Gospels portray the loaves and fishes as the disciples' own, John's account highlights the differences in detail that arose from the disciples' perspective. Andrew's significance is further emphasized by his role in receiving the revelation for John to write the Fourth Gospel. Ultimately, Andrew's faith may have been similar to Philip's, but he played a crucial part in the unfolding narrative of Jesus' ministry.",
-            "wordCount": 106,
-            "quoteTokenProportion": 40.58,
-            "qualityScore": 1.9608895164525615,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.54,
+            "bht": "One of His disciples, Andrew, who is often associated with Philip, is mentioned in this verse. It may seem strange that Andrew is referred to as one of His disciples when Philip is also one of His disciples, but this distinction serves a purpose within the narrative. In the other Gospels, the disciples are portrayed as the ones who bring the loaves and fishes, so this difference in detail is an instructive reminder of how variations can arise. Andrew's significant role is highlighted in this verse, as he is known for introducing Simon Peter to Christ. Interestingly, Philip and Andrew are mentioned together again in another passage, further emphasizing their connection.",
+            "wordCount": 112,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 2.084069723810229,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
             "commentatorTierSimilarities": [
-                32.95,
-                32.32,
-                34.73
+                33.35,
+                34.46,
+                32.18
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "One of His disciples, Andrew, Simon Peter's brother, played a significant role in the narrative. Andrew brought Simon to Christ and is often mentioned alongside Philip. While the loaves and fishes are portrayed as the disciples' own in other Gospels, John's account highlights the differences that arose from their perspectives. Notably, Andrew received the revelation for John to write the Fourth Gospel, further underscoring his importance in the unfolding of Jesus' ministry. His contribution, though perhaps with little more faith than Philip, was integral to the story.",
-            "wordCount": 89,
-            "quoteTokenProportion": 38.81,
-            "qualityScore": 1.8934699610836376,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "bht": "One of His disciples, Andrew, is mentioned in this narrative, even though Philip is also a disciple. This seeming discrepancy serves to emphasize Andrew's role within the story. In the other Gospels, it is the disciples who provide the loaves and fishes, so this slight variation in detail is an instructive reminder of how differences can arise. Andrew's significance lies in his role of bringing Simon Peter to Christ. Interestingly, Philip and Andrew are mentioned together elsewhere, further highlighting their connection.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.806209836874368,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
             "commentatorTierSimilarities": [
-                31.65,
-                32.54,
-                35.82
+                34.17,
+                34.03,
+                31.8
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this narrative, one of His disciples, Andrew, the brother of Simon Peter, plays a significant role. Andrew's distinction lies in bringing Simon to Christ, and he often appears alongside Philip. It is worth noting that while other Gospels mention the loaves and fishes as the disciples' possessions, John's account highlights the differences that arose in the details. Furthermore, it is significant that Andrew received the revelation necessitating John to write the Fourth Gospel. Despite having similar faith to Philip, Andrew's involvement is crucial to the unfolding of Jesus' ministry.",
-            "wordCount": 93,
-            "quoteTokenProportion": 26.98,
-            "qualityScore": 1.9223558147646638,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "bht": "One of His disciples, Andrew, is mentioned in this narrative, even though Philip is also a disciple. This slight variation in detail showcases the ways in which differences arise within the Gospels. Andrew's significance lies in his role of introducing Simon Peter to Christ. Notably, Philip and Andrew are mentioned together in another instance, underscoring their connection.",
+            "wordCount": 58,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.9219198387121554,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
             "commentatorTierSimilarities": [
-                32.64,
-                32.86,
-                34.5
+                32.74,
+                34.76,
+                32.5
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "One of His disciples, Andrew, the brother of Simon Peter, contributes significantly to the narrative. Andrew's noteworthy role includes bringing Simon to Christ and frequently being mentioned alongside Philip. It is interesting to observe the discrepancies in the portrayal of the disciples' ownership of the loaves and fishes in different Gospel accounts. Additionally, Andrew's involvement is highlighted by his reception of the revelation regarding the writing of the Fourth Gospel. Though his faith may have been similar to Philip's, Andrew's part in the unfolding of Jesus' ministry is crucial.",
-            "wordCount": 93,
-            "quoteTokenProportion": 29.31,
-            "qualityScore": 1.6492900250852944,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.18,
+            "bht": "One of His disciples, Andrew, plays an important role in this account, although Philip is also a disciple. This minor difference in detail serves to demonstrate how variations can arise within the Gospel narratives. Andrew's significance lies in his role as the one who brings Simon Peter to Christ. Interestingly, Philip and Andrew are mentioned together again in another context, further highlighting their connection.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.7816732887835087,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
             "commentatorTierSimilarities": [
-                33.05,
-                30.68,
-                36.28
+                33.09,
+                33.71,
+                33.2
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "One of His disciples, Andrew, the brother of Simon Peter, is mentioned in this narrative. Andrew's significance lies in bringing Simon to Christ and his association with Philip. The accounts of the disciples' ownership of the loaves and fishes differ between the Gospels, highlighting the variations in detail. Notably, Andrew received the revelation for John to write the Fourth Gospel, underscoring his important role. Although his faith may have been similar to Philip's, Andrew played a crucial part in the development of Jesus' ministry.",
-            "wordCount": 86,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.9025930193530616,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "bht": "Andrew, one of His disciples, is mentioned in this account, alongside Philip, another disciple. Although this may seem peculiar, it serves a purpose within the narrative and highlights differences in detail that can emerge. Andrew's significance lies in his role of introducing Simon Peter to Christ, a distinction for which he is remembered. The connection between Philip and Andrew is further emphasized in another context, demonstrating their partnership in discipleship.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7983844552995696,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
             "commentatorTierSimilarities": [
-                30.97,
-                33.78,
-                35.24
+                32.23,
+                34.71,
+                33.05
             ],
             "generationAttempt": 5
         }

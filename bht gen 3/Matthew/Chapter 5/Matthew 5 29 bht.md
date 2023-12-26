@@ -1,89 +1,85 @@
 # Matthew 5:29 Commentary Help Text
 
 ## BHT:
-Jesus's words compel us to resist the initial triggers of evil desires, even if it means letting go of what is valuable to us. In doing so, we prioritize our own self-interest, recognizing the profitability of self-denial. This call to self-mastery emphasizes the need to strike at the root of unholy tendencies and avoid actions that lead to moral stumbling. Disregarding this warning could result in severe consequences, underscoring the urgency of making difficult sacrifices to overcome sin and ensure our eternal well-being.
+To truly follow Jesus and live a righteous life, we must resist the first springs of evil desire and be willing to sacrifice what is dear to us. By doing so, we protect ourselves from falling into temptation and safeguard our self-interest. We must strike at the root of unholy dispositions and cut off the occasions that stimulate them. Failure to do so would result in being cast into hell. It is better to deny ourselves sinful pleasures and remove any obstacles that hinder our moral walk, even if it means losing something as precious as our eyes.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "An admonition, arising out of the truth announced in the last verse, to withstand the first springs and occasions of evil desire, even by the sacrifice of what is most useful and dear to us."
-2. "Our Lord grounds His precept of the most rigid and decisive self-denial on the considerations of the truest self-interest,—it is profitable for thee."
-3. "See ch. xviii. 8, 9, and notes."
+1. "An admonition, arising out of the truth announced in the last verse, to withstand the first springs and occasions of evil desire."
+2. "Even by the sacrifice of what is most useful and dear to us."
+3. "Our Lord grounds His precept of the most rigid and decisive self-denial on the considerations of the truest self-interest."
 
 ### Jamieson-Fausset-Brown:
-1. "If thine eye be single, thy whole body shall be full of light, and, when directed by a holy mind, becomes an 'instrument of righteousness unto God.'" 
-2. "Our Lord certainly means that we are to strike at the root of such unholy dispositions, as well as cut off the occasions which tend to stimulate them." 
+1. "if thine eye be single, thy whole body shall be full of light"
+2. "we are to strike at the root of such unholy dispositions, as well as cut off the occasions which tend to stimulate them"
 3. "He who despises the warning to cast from him, with indignant promptitude, an offending member, will find his whole body 'cast,' with a retributive promptitude of indignation, 'into hell.'"
 
 ### Albert Barnes:
-1. "An evil eye denotes sometimes envy...and sometimes an evil passion, or sin in general." 
-2. "It means to cause to fall into sin. The eye does this when it wantonly looks upon a woman to lust after her." 
+1. "An evil eye denotes sometimes envy... and sometimes an evil passion, or sin in general." 
+2. "The right eye and hand are mentioned because they are of most use to us, and denote that, however strong the passion may be, or difficult to part with, yet that we should do it."
 3. "It is better to deny yourself the gratification of an evil passion here, however much it may cost you, than to go down to hell forever."
 
 ### Marvin Vincent:
-1. "The Rev., by restoring the picture in the word, restores its true meaning, causeth to stumble."
-2. "Christ's meaning here is: 'If your eye or your hand serve as an obstacle or trap to ensnare or make you fall in your moral walk.'"
-3. "He who, when his eye proves a stumbling-block, takes care not to see, does in reality blind himself."
+1. "Hence the Rev., by restoring the picture in the word, restores its true meaning, causeth to stumble."
+2. "The kindred noun is skandalon, a later form of skandalhqron, the stick in a trap on which the bait is placed, and which springs up and shuts the trap at the touch of an animal."
+3. "Christ's meaning here is: 'If your eye or your hand serve as an obstacle or trap to ensnare or make you fall in your moral walk.'"
 
 ### John Calvin:
-1. "However difficult, or severe, or troublesome, or harsh, any commandment of God may be, yet no excuse ought to be pleaded on those grounds, because the justice of God ought to stand higher in our estimation."
-2. "You have no right to object to me, that you can scarcely turn your eyes in any direction, without being suddenly drawn away by some temptation: for you ought rather to part with your eyes, than to depart from the commandments of God."
-3. "Whatever hinders us from yielding that obedience to God which he requires in his law, ought to be cut off."
+1. "You have no right to object to me, that you can scarcely turn your eyes in any direction, without being suddenly drawn away by some temptation: for you ought rather to part with your eyes, than to depart from the commandments of God."
+2. "Whatever hinders us from yielding that obedience to God which he requires in his law, ought to be cut off."
+3. "We are so far from being as careful as we ought to be, to avoid allurements, that we rather provoke our senses to wickedness by allowing them unbounded liberty."
 
 ### Philip Schaff:
-1. "We should resist 'the first springs and occasions of evil desire, even by the sacrifice of what is most useful and dear to us.'" 
+1. "We should resist ‘the first springs and occasions of evil desire, even by the sacrifice of what is most useful and dear to us.’"
 2. "The surgeon does not hesitate to amputate a limb, if he hopes thereby to save a life; no earthly sacrifice is too great where eternal life is concerned."
-3. "However 'profitable,' the overcoming of sin is painful."
+3. "However ‘profitable,’ the overcoming of sin is painful."
 
 ### Archibald T. Robertson:
-1. "It is not the notion of giving offence or provoking, but of setting a trap or snare for one." 
-2. "These vivid pictures are not to be taken literally, but powerfully plead for self-mastery."
-3. "The man who plays with fire will get burnt."
+1. "It is not the notion of giving offence or provoking, but of setting a trap or snare for one."
+2. "The man who plays with fire will get burnt."
+3. "The tonsils, the teeth, the appendix, to go no further, if left diseased, will destroy the whole body. Cut them out in time and the life will be saved."
 
 ### John Gill:
-1. "Our Lord has no regard here to near and dear relations seeking to alienate us from God and Christ, and hinder us in the pursuit of divine things; whose solicitations are to be rejected with the utmost indignation, and they themselves to be parted with, and forsaken, rather than complied with."
-2. "Persons should...turn them away from beholding such objects, which may tend to excite impure thoughts and desires; deny themselves the gratification of the sense of seeing, or feeding the eyes with such sights, as are graceful to the flesh; and with indignation and contempt, reject, and avoid all opportunities and occasions of sinning."
-3. "It will turn to better account, to lose all the carnal pleasures of the eye, or all those pleasing sights, which are grateful to a carnal heart, than, by enjoying them, to expose the whole man, body and soul, to everlasting destruction, in the fire of hell."
+1. "Persons should make a covenant with their eyes...turn them away from beholding such objects, which may tend to excite impure thoughts and desires..."
+2. "Deny themselves the gratification of the sense of seeing, or feeding the eyes with such sights, as are graceful to the flesh..."
+3. "It will turn to better account, to lose all the carnal pleasures of the eye...than, by enjoying them, to expose the whole man, body and soul, to everlasting destruction, in the fire of hell."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:44:05
+- Timestamp: 12-25-2023 19:30:30
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 35.29%
-- BHT Quality Score: 1.8032175063803235
+- BHT Word Count: 99
+- BHT Commentary Usage: 43.42%
+- BHT Quality Score: 1.9587142990027488
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['actions', 'and', 'at', 'avoid', 'being', 'call', 'compel', 'consequences', 'could', 'denial', 'desires', 'difficult', 'disregarding', 'doing', 'emphasizes', 'ensure', 'eternal', 'even', 'evil', 'go', 'if', 'in', 'initial', 'interest', 'is', 'it', 'jesus', 'lead', 'letting', 'making', 'mastery', 'means', 'moral', 'need', 'of', 'our', 'overcome', 'own', 'prioritize', 'profitability', 'recognizing', 'resist', 'result', 'root', 's', 'sacrifices', 'self', 'severe', 'sin', 'so', 'strike', 'stumbling', 'tendencies', 'that', 'the', 'this', 'to', 'triggers', 'underscoring', 'unholy', 'urgency', 'us', 'valuable', 'warning', 'we', 'well', 'what', 'words']
-- ChatGPT injected words (significant words only) (44):
-	['actions', 'avoid', 'compel', 'consequences', 'denial', 'desires', 'difficult', 'disregarding', 'emphasizes', 'ensure', 'eternal', 'evil', 'initial', 'interest', 'jesus', 'lead', 'letting', 'making', 'mastery', 'means', 'moral', 'need', 'overcome', 'prioritize', 'profitability', 'recognizing', 'resist', 'result', 'root', 's', 'sacrifices', 'self', 'severe', 'sin', 'strike', 'stumbling', 'tendencies', 'triggers', 'underscoring', 'unholy', 'urgency', 'valuable', 'warning', 'words']
+- ChatGPT injected words (76):
+	['a', 'and', 'any', 'as', 'at', 'be', 'being', 'better', 'by', 'cast', 'cut', 'dear', 'deny', 'desire', 'dispositions', 'do', 'doing', 'even', 'evil', 'eyes', 'failure', 'falling', 'first', 'follow', 'from', 'hell', 'hinder', 'if', 'in', 'interest', 'into', 'is', 'it', 'jesus', 'life', 'live', 'losing', 'means', 'moral', 'must', 'obstacles', 'occasions', 'of', 'off', 'our', 'ourselves', 'pleasures', 'precious', 'protect', 'remove', 'resist', 'result', 'righteous', 'root', 'sacrifice', 'safeguard', 'self', 'sinful', 'so', 'something', 'springs', 'stimulate', 'strike', 'temptation', 'that', 'the', 'them', 'to', 'truly', 'unholy', 'us', 'walk', 'we', 'what', 'willing', 'would']
+- ChatGPT injected words (significant words only) (43):
+	['better', 'cast', 'cut', 'dear', 'deny', 'desire', 'dispositions', 'evil', 'eyes', 'failure', 'falling', 'follow', 'hell', 'hinder', 'interest', 'jesus', 'life', 'live', 'losing', 'means', 'moral', 'obstacles', 'occasions', 'pleasures', 'precious', 'protect', 'remove', 'resist', 'result', 'righteous', 'root', 'sacrifice', 'safeguard', 'self', 'sinful', 'springs', 'stimulate', 'strike', 'temptation', 'truly', 'unholy', 'walk', 'willing']
 
 ### Logs
-- Attempt 1 BHT: Jesus's words in Matthew 5:29 serve as a reminder to us to guard against the first seeds of evil desire, even if it means sacrificing what is most important to us. He emphasizes the importance of self-denial and self-interest, urging us to remove anything that may cause us to stumble. This imagery is not to be taken literally, but rather to underscore the need for self-mastery and the drastic measures required to overcome sinful tendencies. Jesus warns that failing to do so may lead to severe consequences, illustrating the urgency and seriousness of the matter. It is better to willingly deny ourselves the gratification of sinful passions in this life, regardless of the cost, than to face eternal damnation.
-- 🔄 Matthew 5:29 (attempt 1, 122 words, 35.71% quotes quality score: 1.947129758060488, V2 normalized quality score: 56.08, commentator tiers 1-3: 24.82%, 36.25%, 38.94%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Jesus's instruction in this verse urges us to resist and cut off the first occasions of evil desires, even if it means sacrificing what is most useful and dear to us. By doing so, we prioritize our own self-interest and well-being. These vivid pictures of self-denial stress the importance of striking at the root of unholy dispositions and abstaining from anything that may cause us to stumble morally. Ignoring this warning may have severe consequences, highlighting the need for self-mastery and the willingness to make difficult sacrifices to overcome sin.
-- 🔄 Matthew 5:29 (attempt 2, 95 words, 43.24% quotes quality score: 1.8228020839727257, V2 normalized quality score: 51.95, commentator tiers 1-3: 24.73%, 36.9%, 38.37%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: Jesus's words compel us to resist the initial triggers of evil desires, even if it means letting go of what is valuable to us. In doing so, we prioritize our own self-interest, recognizing the profitability of self-denial. This call to self-mastery emphasizes the need to strike at the root of unholy tendencies and avoid actions that lead to moral stumbling. Disregarding this warning could result in severe consequences, underscoring the urgency of making difficult sacrifices to overcome sin and ensure our eternal well-being.
-- 🔄 Matthew 5:29 (attempt 3, 88 words, 35.29% quotes quality score: 1.8032175063803235, V2 normalized quality score: 51.3, commentator tiers 1-3: 24.84%, 37.89%, 37.27%) 
+- Attempt 1 BHT: To truly follow Jesus and live a righteous life, we must be willing to resist and cut off the first sparks of evil desire, even if it means sacrificing something that is dear to us. By doing so, we are safeguarding our own self-interest and protecting ourselves from falling into temptation. This means not only removing the occasions that lead us astray, but also addressing the root of our unholy dispositions. If we fail to do so, we risk suffering the consequences of our actions, just like one would be caught in a trap. Thus, it is crucial that we take decisive action to remove any obstacles that hinder our moral walk. It may be painful to deny ourselves the immediate gratification of our sinful desires, but the cost of eternal life is far greater. Therefore, it is imperative that we amputate whatever hinders our obedience to God, even if it is as precious as our eyes. It is better to lose the carnal pleasures of this world than to risk everlasting destruction in hell.
+- 🔄 Matthew 5:29 (attempt 1, 176 words, 38.6% quotes quality score: 1.9397696144802972, V2 normalized quality score: 55.84, commentator tiers 1-3: 25.18%, 38.15%, 36.67%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus emphasizes the importance of self-denial in Matthew 5:29, urging us to resist the first springs of evil desire, even if it means sacrificing what is most dear to us. This admonition is grounded in the idea of self-interest, as it is profitable for us to turn away from anything that may lead us astray. By cutting off unholy dispositions and avoiding temptation, we can ensure the well-being of our whole being, both body and soul, and avoid the retribution of hell.
-- 🔄 Matthew 5:29 (attempt 4, 84 words, 46.03% quotes quality score: 2.0702482290475044, V2 normalized quality score: 60.18, commentator tiers 1-3: 23.82%, 38.77%, 37.41%) 
+- Attempt 2 BHT: To truly follow Jesus and live a righteous life, we must resist the first springs of evil desire and be willing to sacrifice what is dear to us. By doing so, we protect ourselves from falling into temptation and safeguard our self-interest. We must strike at the root of unholy dispositions and cut off the occasions that stimulate them. Failure to do so would result in being cast into hell. It is better to deny ourselves sinful pleasures and remove any obstacles that hinder our moral walk, even if it means losing something as precious as our eyes.
+- 🔄 Matthew 5:29 (attempt 2, 99 words, 43.42% quotes quality score: 1.9587142990027488, V2 normalized quality score: 56.47, commentator tiers 1-3: 26.91%, 37.91%, 35.18%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Jesus's call in this passage urges us to resist the first springs of evil desires, even if it means giving up what is most dear and useful to us. By sacrificing these things, we prioritize our true self-interest and well-being. The imagery used here serves as a powerful reminder to strike at the root of unholy dispositions and cut off any occasions that might stimulate them. Ignoring this warning can result in severe consequences, reflecting the urgent need for self-mastery and the willingness to make difficult sacrifices to overcome sin.
-- 🔄 Matthew 5:29 (attempt 5, 94 words, 44.87% quotes quality score: 1.889418121316175, V2 normalized quality score: 54.16, commentator tiers 1-3: 26.7%, 37.71%, 35.59%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: In order to live a righteous life, we must resist the initial sparks of evil desire and be willing to sacrifice what is valuable to us. By doing so, we protect ourselves from temptation and ensure our own self-interest. It is crucial to not only eliminate the situations that lead us astray, but also address the root of our unholy dispositions. Failing to do so can have serious consequences, akin to being ensnared in a trap. It is better to deny ourselves sinful pleasures and remove any hindrances, even if it means giving up something as precious as our eyes.
+- 🔄 Matthew 5:29 (attempt 3, 101 words, 46.75% quotes quality score: 1.9283700481368813, V2 normalized quality score: 55.46, commentator tiers 1-3: 26.94%, 37.13%, 35.93%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Matthew 5:29 bht prompt v0.8 (88 words, 35.29% quotes)
-- quality score: 1.8032175063803235, V2 normalized quality score: 51.3, commentator tiers 1-3: 24.84%, 37.89%, 37.27%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: To live a righteous life, we must resist the initial sparks of evil desire, even if it means sacrificing what is valuable to us. By doing so, we protect ourselves from falling into temptation and safeguard our own self-interest. It is essential to address the root of our unholy dispositions and remove the occasions that stimulate them. Failing to do so can result in grave consequences, like being caught in a trap. We should be willing to deny ourselves sinful pleasures and eliminate any hindrances, even if it means giving up something as precious as our eyes.
+- 🔄 Matthew 5:29 (attempt 4, 98 words, 44.59% quotes quality score: 1.9358934863661168, V2 normalized quality score: 55.71, commentator tiers 1-3: 27.28%, 37.58%, 35.14%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: To lead a righteous life, we must resist the initial sparks of evil desire and be willing to sacrifice what is valuable to us. This ensures our protection against temptation and guards our self-interest. We must address the root of our unholy dispositions and remove the occasions that stimulate them. Failure to do so results in grave consequences, akin to being caught in a trap. It is necessary to deny ourselves sinful pleasures and eliminate any hindrances, even if it means giving up something as precious as our eyes.
+- 🔄 Matthew 5:29 (attempt 5, 90 words, 40.58% quotes quality score: 1.9201286110364357, V2 normalized quality score: 55.19, commentator tiers 1-3: 28.8%, 36.29%, 34.91%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 5:29 bht prompt v0.8 (99 words, 43.42% quotes)
+- quality score: 1.9587142990027488, V2 normalized quality score: 56.47, commentator tiers 1-3: 26.91%, 37.91%, 35.18%)

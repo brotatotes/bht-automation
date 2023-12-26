@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-25-2023 19:19:21",
+    "timestamp": "12-25-2023 20:08:24",
     "verseRef": "Mark 10:31",
     "bestBHT": {
-        "bht": "Some suggest that in this verse, Jesus is rebuking Peter's boast by using the paradox of the first and the last, a concept also mentioned in Matthew 19:30. This proverb is further illustrated by the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes that those who consider themselves important or privileged may find themselves in a different position than expected.",
-        "wordCount": 70,
-        "quoteTokenProportion": 48.0,
-        "qualityScore": 1.6884871431086532,
-        "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+        "bht": "The paradox of the first and last is employed in this rebuke to Peter's boast, linked to the illustration in Matthew 19:30. Matthew 20:1-16 deepens the understanding of this proverb through the parable of the laborers in the vineyard. It conveys the message that those who perceive themselves as first may actually end up being last, highlighting the significance of humility and the reversal of expectations within the realm of God's kingdom.",
+        "wordCount": 72,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.7177033094677503,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.46,
         "commentatorTierSimilarities": [
-            23.75,
-            66.74,
-            9.5
+            29.32,
+            67.39,
+            3.29
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -45,67 +45,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some commentators suggest that in Mark 10:31, Jesus's reference to the paradox of the first and the last may be a rebuke to Peter's boast. This idea is also seen in Matthew 19:30, where the same proverb is mentioned and further illustrated by the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes the idea that those who may consider themselves important or privileged may ultimately find themselves in a different position than they expect.",
-            "wordCount": 84,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 1.655327518601113,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "bht": "In Mark 10:31, the paradox of the first and last is used as a rebuke to Peter's boast. This is similar to the illustration in Matthew 19:30 where the proverb is accompanied by the parable of the laborers in the vineyard. The verse suggests that those who consider themselves first may end up being last, emphasizing the importance of humility and the reversal of expectations in the kingdom of God.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.67321957748912,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
             "commentatorTierSimilarities": [
-                25.8,
-                64.92,
-                9.28
+                30.23,
+                65.79,
+                3.98
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Some suggest that in this verse, Jesus is rebuking Peter's boast by using the paradox of the first and the last, a concept also mentioned in Matthew 19:30. This proverb is further illustrated by the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes that those who consider themselves important or privileged may find themselves in a different position than expected.",
-            "wordCount": 70,
-            "quoteTokenProportion": 48.0,
-            "qualityScore": 1.6884871431086532,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "bht": "In this passage, a rebuke is given to Peter's boast by employing the paradox of the first and last, as seen in Matthew 19:30. The verse further illustrates this proverb through the parable of the laborers in the vineyard, as mentioned in Matthew 20:1-16. It conveys the idea that those who consider themselves first may actually end up being last, emphasizing the importance of humility and the unexpected nature of the kingdom of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.705105418797892,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.04,
             "commentatorTierSimilarities": [
-                23.75,
-                66.74,
-                9.5
+                30.14,
+                66.79,
+                3.07
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this passage, the paradox of the first and the last is highlighted as a possible rebuke to Peter's boast. This concept is found in Matthew 19:30, where the same proverb is used and illustrated through the parable of the laborers in the vineyard (Matthew 20:1-16). Jesus' statement that many that are first shall be last emphasizes the potential reversal of positions, cautioning against pride and reminding us that our perceived importance may not align with God's perspective.",
-            "wordCount": 78,
-            "quoteTokenProportion": 44.64,
-            "qualityScore": 1.6739536833760749,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "bht": "The paradox of the first and last is used here as a rebuke to Peter's boast, drawing a parallel to Matthew 19:30. A similar concept is depicted through the parable of the laborers in the vineyard in Matthew 20:1-16. It teaches us that those who perceive themselves as first may ultimately be last, underscoring the value of humility and the unexpected nature of God's kingdom.",
+            "wordCount": 65,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.6096340941169611,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
             "commentatorTierSimilarities": [
-                29.33,
-                66.45,
-                4.22
+                31.32,
+                66.27,
+                2.41
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "This verse alludes to the paradox of the first and the last, possibly as a rebuke to Peter's boast. A similar proverb is mentioned in Matthew 19:30, and this teaching is further illustrated through the parable of the laborers in the vineyard (Matthew 20:1-16). The phrase many that are first shall be last emphasizes the potential reversal of positions, cautioning against pride and reminding us that our perceived importance may not align with God's perspective.",
-            "wordCount": 75,
-            "quoteTokenProportion": 42.59,
-            "qualityScore": 1.6754247429033855,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "bht": "The paradox of the first and last is employed in this rebuke to Peter's boast, linked to the illustration in Matthew 19:30. Matthew 20:1-16 deepens the understanding of this proverb through the parable of the laborers in the vineyard. It conveys the message that those who perceive themselves as first may actually end up being last, highlighting the significance of humility and the reversal of expectations within the realm of God's kingdom.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7177033094677503,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.46,
             "commentatorTierSimilarities": [
-                29.05,
-                66.55,
-                4.4
+                29.32,
+                67.39,
+                3.29
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This verse highlights the paradox of the first and the last, potentially as a rebuke to Peter's boast. A similar proverb is mentioned elsewhere, and its meaning is exemplified by the parable of the laborers in the vineyard. The phrase many that are first shall be last underscores the possibility of positions being reversed, warning against pride and reminding us that our perceived importance may not align with God's perspective.",
-            "wordCount": 72,
-            "quoteTokenProportion": 45.45,
-            "qualityScore": 1.4153081396644076,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.4,
+            "bht": "The paradox of the first and last is used as a direct response to Peter's boast, as witnessed in Matthew 19:30. It is further clarified through the parable of the laborers in the vineyard found in Matthew 20:1-16. This verse implies that those who believe themselves to be first may ultimately find themselves at the end, highlighting the importance of humility and the unexpected nature of God's kingdom.",
+            "wordCount": 68,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.6479805805611187,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.14,
             "commentatorTierSimilarities": [
-                30.86,
-                63.86,
-                5.28
+                28.2,
+                66.66,
+                5.14
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 15:17:57",
+    "timestamp": "12-25-2023 20:08:52",
     "verseRef": "2 Corinthians 11:11",
     "bestBHT": {
-        "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love, and it is God who knows my heart and understands my motives.",
-        "wordCount": 94,
-        "quoteTokenProportion": 50.85,
-        "qualityScore": 1.8807086261670454,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+        "bht": "Do I refuse to accept anything from you because I don't love you? God knows that is not the reason. Love is often offended when the recipient does not want to be obliged to the one who offers. So, it is not that I don't love you, but rather, it is because I can better promote the gospel and advance the kingdom of the Redeemer by not being under any obligation to you.",
+        "wordCount": 75,
+        "quoteTokenProportion": 58.33,
+        "qualityScore": 1.9680596108065347,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.78,
         "commentatorTierSimilarities": [
-            32.69,
-            27.51,
-            39.81
+            36.02,
+            26.23,
+            37.75
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,18 +21,19 @@
             "Knoweth, viz. that I love you."
         ],
         "Jamieson-Fausset-Brown": [
-            "Love is often offended at its favors being not accepted.",
-            "as though the party to whom they are offered wished to be under no obligation to the offerer."
+            "Love is often offended at its favors being not accepted",
+            "as though the party to whom they are offered wished to be under no obligation to the offerer",
+            "Love is often offended when the recipient does not want to be obliged to the one who offers"
         ],
         "Albert Barnes": [
             "It is not because I do not love you.",
             "I have a deep and tender attachment to you.",
-            "But it is because I can thus best promote the gospel and advance the kingdom of the Redeemer."
+            "It is because I can thus best promote the gospel and advance the kingdom of the Redeemer."
         ],
         "John Calvin": [
-            "Is it because I love you not? Those that we love, we treat with greater familiarity.",
-            "In the course of three verses there are two oaths, but they are lawful and holy, because they have a good design in view, and a legitimate reason is involved.",
-            "To condemn indiscriminately all oaths is to act the part of fanatics, who make no distinction between white and black."
+            "Those that we love, we treat with greater familiarity.",
+            "Hence to condemn indiscriminately all oaths is to act the part of fanatics, who make no distinction between white and black.",
+            "An oath is to be used, when other means are deficient; and more particularly, we are then only to swear, when the honor of God is concerned, or Religion and Christianity is falsely accused."
         ],
         "Philip Schaff": [
             "2 Corinthians 11:11. Wherefore? because I love you not? God knoweth.",
@@ -42,9 +43,9 @@
             "God knoweth (\u03bf \u03b8\u03b5\u03bf\u03c2 \u03bf\u03b9\u03b4\u03b5\u03bd). Whether they do or not. He knows that God understands his motives. "
         ],
         "John Gill": [
-            "Why did the apostle do this? why did he take nothing, and resolve to take nothing of the Corinthians, for preaching the Gospel to them? why did he determine, that no man should prevent his glorying of this, in all the country of Achaia?\" ",
-            "To which he answers by saying, God knoweth; which is another form of an oath, and is a solemn appeal to God, the searcher of hearts, who knows all things, that he knew he heartily loved them.",
-            "It was not want of love to them, which was the reason of his entering into such a resolution, never to take anything of them; but it was something else, quite another thing, which induced him to it, and is mentioned in the following verse."
+            "Why did he determine, that no man should prevent his glorying of this, in all the country of Achaia? was it because he did not love the Corinthians? ... God knoweth.\" ",
+            "To which he answers by saying, God knoweth; which is another form of an oath, and is a solemn appeal to God, the searcher of hearts, who knows all things, that he knew he heartily loved them...",
+            "that it was not want of love to them, which was the reason of his entering into such a resolution, never to take anything of them; but it was something else, quite another thing, which induced him to it, and is mentioned in the following verse."
         ],
         "John Wesley": [
             "Do I refuse to receive anything of you, because I love you not? God knoweth that is not the case."
@@ -67,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but rather because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love. It is God who knows my heart and understands my motives in this matter.",
-            "wordCount": 97,
-            "quoteTokenProportion": 52.38,
-            "qualityScore": 1.7998354484130115,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "bht": "Do I refuse to accept anything from you because I don't love you? God knows that is not the reason. In fact, it is quite the opposite. I have a deep and tender attachment to you, and I willingly incur obligations to those I love. Love is often offended when its favors are not accepted or when the recipient does not want to be obliged to the one who offers. So, it is not that I don't love you, but rather, it is because I can better promote the gospel and advance the kingdom of the Redeemer by not being under any obligation to you. God knows my heart and understands my motives.",
+            "wordCount": 115,
+            "quoteTokenProportion": 52.86,
+            "qualityScore": 1.7901126099559042,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
             "commentatorTierSimilarities": [
-                33.96,
-                27.6,
-                38.44
+                36.23,
+                27.89,
+                35.89
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. It is God who knows my heart and understands my motives in this matter.",
-            "wordCount": 86,
-            "quoteTokenProportion": 51.79,
-            "qualityScore": 1.8099998281024616,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "bht": "Do I refuse to accept anything from you because I don't love you? God knows that is not the reason. I have a deep and tender attachment to you, and I willingly incur obligations to those I love. Love is often offended when its favors are not accepted or when the recipient does not want to be obliged to the one who offers. So, it is not that I don't love you, but rather, it is because I can better promote the gospel and advance the kingdom of the Redeemer by not being under any obligation to you.",
+            "wordCount": 100,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.943036825999161,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
             "commentatorTierSimilarities": [
-                31.41,
-                28.3,
-                40.3
+                35.1,
+                28.54,
+                36.36
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. It is God who knows my heart and understands my motives.",
-            "wordCount": 83,
-            "quoteTokenProportion": 50.94,
-            "qualityScore": 1.8171142716528372,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "bht": "Do I refuse to accept anything from you because I don't love you? God knows that is not the reason. Love is often offended when the recipient does not want to be obliged to the one who offers. So, it is not that I don't love you, but rather, it is because I can better promote the gospel and advance the kingdom of the Redeemer by not being under any obligation to you.",
+            "wordCount": 75,
+            "quoteTokenProportion": 58.33,
+            "qualityScore": 1.9680596108065347,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
             "commentatorTierSimilarities": [
-                31.96,
-                28.23,
-                39.81
+                36.02,
+                26.23,
+                37.75
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but rather because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love, and it is God who knows my heart and understands my motives.",
-            "wordCount": 95,
-            "quoteTokenProportion": 51.67,
-            "qualityScore": 1.8795492492676442,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "bht": "Why did he determine, that no man should prevent his glorying of this, in all the country of Achaia? was it because he did not love the Corinthians? ... God knoweth. It is not because he does not love them, for he has a deep and tender attachment to them. Rather, he chooses not to accept anything from them, not to be under obligation to them, a decision driven by his love for the gospel and the advancement of the kingdom of the Redeemer. Love is often offended when the recipient does not want to be obliged to the one who offers, and in this case, Paul's love for the Corinthians is not the reason for his resolution. God knows his motives and the sincerity of his love towards them.",
+            "wordCount": 130,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9444489870893507,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
             "commentatorTierSimilarities": [
-                32.73,
-                27.44,
-                39.83
+                38.58,
+                23.95,
+                37.46
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love, and it is God who knows my heart and understands my motives.",
-            "wordCount": 94,
-            "quoteTokenProportion": 50.85,
-            "qualityScore": 1.8807086261670454,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "bht": "Why did he determine, that no man should prevent his glorying of this, in all the country of Achaia? was it because he did not love the Corinthians? ... God knoweth. It is not because he does not love them, for he has a deep and tender attachment to them. Rather, he chooses not to accept anything from them to avoid any appearance that he wishes to be under no obligation to them. God knows that his motive is not a lack of love, but a desire to promote the gospel and advance the kingdom of the Redeemer.",
+            "wordCount": 97,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.8348555648828238,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
             "commentatorTierSimilarities": [
-                32.69,
-                27.51,
-                39.81
+                38.36,
+                23.07,
+                38.58
             ],
             "generationAttempt": 5
         }

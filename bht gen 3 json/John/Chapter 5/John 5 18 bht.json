@@ -1,64 +1,63 @@
 {
-    "timestamp": "12-21-2023 03:06:13",
+    "timestamp": "12-25-2023 19:30:27",
     "verseRef": "John 5:18",
     "bestBHT": {
-        "bht": "The Jews rightly grasped the significance of Jesus' claim to be His own Father, understanding it to indicate a unique Sonship and equality of nature with God. Their furious response and relentless pursuit to end His life exemplified the depth of their comprehension. Undeterred by the opposition, Jesus fearlessly asserted this truth, unyielding in His proclamation. This clash emphasized the profound doctrine of His divine relationship with the Father and shattered their conventional understanding of Sabbath observance. The conflict between Jesus and the Jews endured, ultimately leading to His sacrificial death.",
-        "wordCount": 91,
-        "quoteTokenProportion": 24.59,
-        "qualityScore": 1.7973133264756558,
-        "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+        "bht": "The Jews objected to Jesus' use of MY FATHER because they understood it to indicate His unique relationship and equality with God, which they considered blasphemous. This opposition unwittingly affirmed the high doctrine Jesus taught. By claiming God as His own Father in the highest sense, Jesus was indeed asserting His equality with God. Their hostility grew as they perceived Jesus annulling the Sabbath law, leading to their relentless pursuit of His death. Jesus, however, exemplified unwavering commitment to truth, even in the face of danger and opposition.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.9350611690846011,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.68,
         "commentatorTierSimilarities": [
-            30.23,
-            33.69,
-            36.08
+            29.78,
+            30.09,
+            40.13
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The Jews understood His words to mean nothing short of peculiar personal Sonship, and thus equality of nature with God.",
-            "And that this their understanding was the right one, the discourse testifies.",
+            "All might in one sense, and the Jews did in a closer sense, call God their, or our, Father; but they at once said that the individual use of \u2018MY FATHER\u2019 by Jesus had a totally distinct, and in their view a blasphemous, meaning.",
             "Thus we obtain from the adversaries of the faith a most important statement of one of its highest and holiest doctrines."
         ],
         "Jamieson-Fausset-Brown": [
-            "His own [or peculiar] Father...",
-            "His claim of right to act as His Father did in the like high sphere...",
-            "We have here an assumption of peculiar personal Sonship, or participation in the Father's essential nature."
+            "His own [or peculiar] Father.",
+            "Gathering this to be His meaning.",
+            "An assumption of peculiar personal Sonship."
         ],
         "Albert Barnes": [
-            "We are not to keep back truth because it may endanger us.",
-            "We are not to keep back truth because it will irritate and enrage sinners.",
-            "When any one portion of truth enrages hypocrites, they will be enraged the more they hear."
+            "We may learn from his answer: 1. That we are not to keep back truth because it may endanger us.\" ",
+            "That we are not to keep back truth because it will irritate and enrage sinners. The fault is not in the 'truth,' but in the 'sinner.'",
+            "That when any one portion of truth enrages hypocrites, they will be enraged the more they hear."
         ],
         "Marvin Vincent": [
-            "Literally, was loosing: the imperfect tense.",
+            "Literally, was loosing: the imperfect tense. See on He did, ver. 16.",
             "Not, broke the Sabbath in any particular case, but was annulling the law and duty of Sabbath observance.",
-            "His own Father."
+            "Properly, His own Father. So Rev."
         ],
         "John Calvin": [
             "By his example he has taught us that we ought never to yield to the fury of wicked men, but should endeavor to maintain the truth of God, so far as necessity demands it, though the whole world should oppose and murmur.",
-            "We need not wonder if, in proportion as the glory of God is more fully displayed, Satan rages the more violently in his members and instruments.",
-            "Christ intended that it should be understood that God was his Father in a peculiar sense, so as to distinguish himself from the ordinary rank of other men."
+            "Nor is there any reason why the servants of Christ should take it ill that they do not profit all men according to their wish, since Christ himself did not always succeed; and we need not wonder if, in proportion as the glory of God is more fully displayed, Satan rages the more violently in his members and instruments.",
+            "This refutes the madness of the Arians, who acknowledged that Christ is God, but did not think that he is equal to the Father, as if in the one and simple essence of God there could be any inequality."
         ],
         "Philip Schaff": [
             "He who could thus speak, and who justified His works by the works of God, was calling God His own Father in the highest sense which these words can bear, and was claiming equality with God.",
-            "The thought of the condensation which must have taken place in the record of these discourses of our Lord is that which fully justifies the devout reader\u2019s effort to catch every shade of meaning and follow every turn of expression.",
+            "The thought of the condensation which must have taken place in the record of these discourses of our Lord is that which fully justifies the devout reader's effort to catch every shade of meaning and follow every turn of expression.",
             "From this point onwards we have the conflict that nothing could reconcile, the enmity of the Jews which would not and could not rest until they had compassed the death of Him who had come to save them."
         ],
         "Archibald T. Robertson": [
-            "This bitter anger, murderous wrath, will go on and grow for two years.",
-            "He was now a common and regular Sabbath-breaker.",
-            "The Jews understood Jesus to claim equality with the Father in nature and privilege and power."
+            "Their own blood was up on this Sabbath issue and they bend every energy to put Jesus to death.",
+            "He was now a common and regular Sabbath-breaker. \u039b\u03c5\u03c9 means to loosen, to set at naught.",
+            "Certainly the Jews understood Jesus to claim equality with the Father in nature and privilege and power."
         ],
         "John Gill": [
             "They were the more desirous to take away his life, and were more bent and resolute upon it, and studied all ways and means how to bring it about.",
-            "He had not only broken the sabbath... but said also that God was his Father.",
-            "Making himself to be equal with God... they rightly understood him, that he asserted his equality with him."
+            "...if they had known what that means, that God will have mercy, and not sacrifice, they would have been convinced that he had not broke it by this act of mercy to a poor distressed object.",
+            "...by saying that God was his Father, and so that he was the Son of God, a phrase, which, with them, signified a divine person... they rightly understood him, that he asserted his equality with him."
         ],
         "John Wesley": [
-            "His own Father... in such a sense as no creature can speak.",
-            "Making himself equal with God... all the hearers so understood him.",
-            "Our Lord never contradicted, but confirmed it."
+            "His own Father \u2014 The Greek word means his own Father in such a sense as no creature can speak.",
+            "Making himself equal with God \u2014 It is evident all the hearers so understood him, and that our Lord never contradicted, but confirmed it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -78,67 +77,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The Jews were astute in understanding that Jesus' claim of being His own Father signified a unique personal Sonship and equality of nature with God. This provoked a bitter anger and murderous wrath within them, leading to their pursuit of Jesus' death. Yet, despite the opposition and danger it posed, Jesus did not shy away from proclaiming this truth. His unwavering declaration of His divine Sonship and equality with God highlights the high and holy doctrine of His unique relationship with the Father. His words challenged the norm of Sabbath observance and shattered the religious expectations of the Jews, ultimately solidifying their understanding that He was making Himself equal with God. This conflict between Jesus and the Jews would persist until His sacrificial death to save them.",
-            "wordCount": 127,
-            "quoteTokenProportion": 33.75,
-            "qualityScore": 1.8274406709164785,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "bht": "The Jews, understanding Jesus' words to mean an assertion of His peculiar personal Sonship and equality with God, regarded His use of MY FATHER as blasphemous. However, their opposition actually affirmed the high and holy doctrine of Jesus' unique relationship with God. By claiming God as His own Father in the highest sense, Jesus was indeed calling for equality with God. The Jews' animosity towards Jesus grew stronger with His apparent disregard for Sabbath observance, which they viewed as annulling the law. Despite their fury, Jesus exemplified the unyielding commitment to truth, even in the face of danger and opposition. The conflict between Jesus and the Jews would ultimately culminate in their relentless pursuit of His death. Clearly, Jesus' claim of equality with the Father had profound implications and further solidified their determination to eliminate Him.",
+            "wordCount": 136,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.9681865530615439,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
             "commentatorTierSimilarities": [
-                29.3,
-                34.25,
-                36.44
+                31.22,
+                29.62,
+                39.15
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Jews correctly understood the implications of Jesus' claim to be His own Father, recognizing it as a declaration of His unique Sonship and equality with God. Their angered response and determination to end His life were a result of their comprehension. In the face of opposition, Jesus fearlessly asserted this truth, unyielding in His proclamation. This confrontation emphasized the profound doctrine of His divine relationship with the Father and disrupted their conventional understanding of Sabbath observance. The conflict between Jesus and the Jews persisted, leading ultimately to His sacrificial death.",
-            "wordCount": 91,
-            "quoteTokenProportion": 26.67,
-            "qualityScore": 1.7711635096047065,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "bht": "The Jews vehemently opposed Jesus' use of MY FATHER, believing it to imply peculiar personal Sonship and equality of nature with God, a meaning they considered blasphemous. However, their outcry unintentionally confirmed the important and sacred doctrine Jesus espoused. His claim of equality with God, combined with his perceived violation of the Sabbath, fueled their determination to have him put to death. Nevertheless, in the face of their hostility, Jesus demonstrated unwavering commitment to the truth, regardless of the danger it posed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8921737733094575,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.26,
             "commentatorTierSimilarities": [
-                30.73,
-                32.69,
-                36.57
+                29.64,
+                31.52,
+                38.84
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The Jews rightly grasped the significance of Jesus' claim to be His own Father, understanding it to indicate a unique Sonship and equality of nature with God. Their furious response and relentless pursuit to end His life exemplified the depth of their comprehension. Undeterred by the opposition, Jesus fearlessly asserted this truth, unyielding in His proclamation. This clash emphasized the profound doctrine of His divine relationship with the Father and shattered their conventional understanding of Sabbath observance. The conflict between Jesus and the Jews endured, ultimately leading to His sacrificial death.",
-            "wordCount": 91,
-            "quoteTokenProportion": 24.59,
-            "qualityScore": 1.7973133264756558,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "bht": "The Jews' opposition to Jesus' use of MY FATHER confirms the doctrine of his unique relationship with God, which they viewed as blasphemous. Their anger intensified as they perceived his violation of Sabbath laws, leading to their relentless pursuit of his death. Nonetheless, Jesus remained resolute in upholding the truth, refusing to yield to the fury of wicked men. This conflict between Jesus and the Jews testifies to the hostility that arises when the glory of God is fully manifested.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.918536519215412,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
             "commentatorTierSimilarities": [
-                30.23,
-                33.69,
-                36.08
+                27.4,
+                35.11,
+                37.49
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The Jews understood Jesus' claim to be His own Father as a declaration of His unique Sonship and equality of nature with God. This profound revelation provoked their anger and led to their determination to put an end to His life. However, Jesus fearlessly proclaimed this truth, unwavering in the face of opposition. His declaration challenged their traditional understanding of Sabbath observance and affirmed the high and holy doctrine of His divine relationship with the Father. This clash between Jesus and the Jews persisted until His eventual sacrificial death.",
-            "wordCount": 89,
-            "quoteTokenProportion": 30.51,
-            "qualityScore": 1.7956295911156466,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "bht": "The Jews objected to Jesus' use of MY FATHER because they understood it to indicate His unique relationship and equality with God, which they considered blasphemous. This opposition unwittingly affirmed the high doctrine Jesus taught. By claiming God as His own Father in the highest sense, Jesus was indeed asserting His equality with God. Their hostility grew as they perceived Jesus annulling the Sabbath law, leading to their relentless pursuit of His death. Jesus, however, exemplified unwavering commitment to truth, even in the face of danger and opposition.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9350611690846011,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
             "commentatorTierSimilarities": [
-                31.34,
-                32.66,
-                36.0
+                29.78,
+                30.09,
+                40.13
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Jews rightly perceived Jesus' claim of being His own Father as an assertion of unique Sonship and equality with God. Their outraged response and relentless pursuit to end His life reflect their deep understanding. Undeterred by opposition, Jesus fearlessly declared this truth, unyielding in His proclamation. The clash highlighted the profound doctrine of His divine relationship with the Father, challenging their conventional view of Sabbath observance. Ultimately, this conflict culminated in Jesus' sacrificial death, as the enmity of the Jews could not be reconciled.",
-            "wordCount": 85,
-            "quoteTokenProportion": 27.42,
-            "qualityScore": 1.7730175897110652,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "bht": "The Jews' objection to Jesus' use of MY FATHER stemmed from their belief that it implied His peculiar personal Sonship and equality with God, which they deemed blasphemous. However, this opposition unintentionally affirmed the significant doctrine Jesus taught. By claiming God as His own Father in the highest sense, Jesus was emphatically asserting His equality with God. The Jews' animosity grew as they perceived Jesus undermining the observance of the Sabbath, resulting in their unwavering determination to put Him to death. Nevertheless, Jesus unwaveringly upheld the truth amidst their fury and hostility.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9300869761253536,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
             "commentatorTierSimilarities": [
-                28.64,
-                35.45,
-                35.91
+                30.91,
+                29.89,
+                39.2
             ],
             "generationAttempt": 5
         }

@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 16:21:26",
+    "timestamp": "12-25-2023 19:29:29",
     "verseRef": "Luke 18:35",
     "bestBHT": {
-        "bht": "A blind beggar sat by the wayside between the old and new Jericho, asking for something. Mark identifies him as Bartimaeus, while Matthew mentions two blind men. However, this particular blind man is not Bartimaeus, though his story shares similarities.",
-        "wordCount": 40,
-        "quoteTokenProportion": 47.22,
-        "qualityScore": 1.664346841167381,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+        "bht": "A blind man sat by the wayside begging, most likely between the old and new Jericho. While Mark identifies him as Bartimaeus, there is no mention of his name in Luke's account. It is important to note that this blind man is different from the blind man healed by Jesus as he entered Jericho.",
+        "wordCount": 55,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.86590239082858,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.38,
         "commentatorTierSimilarities": [
-            60.66,
+            55.18,
             0.0,
-            39.34
+            44.82
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Archibald T. Robertson": [
             "Unto Jericho (\u03b5\u03b9\u03c2 \u0399\u03b5\u03c1\u03b5\u03b9\u03c7\u03c9). See on Matthew 20:29; Mark 10:46, for discussion of the two Jerichos in Mark and Matt. (the old and the new as here).\" ",
-            "Begging (\u03b5\u03c0\u03b1\u03b9\u03c4\u03c9\u03bd). Asking for something. He probably was by the wayside between the old Jericho and the new Roman Jericho.",
+            "Begging (\u03b5\u03c0\u03b1\u03b9\u03c4\u03c9\u03bd). Asking for something. He probably was by the wayside between the old Jericho and the new Roman Jericho.\" ",
             "Mark gives his name Bartimaeus (Luke 10:46). Matthew 20:30 mentions two."
         ],
         "John Gill": [
-            "Which lay in his way to Jerusalem",
-            "this was not blind Bartimaeus",
-            "though much the same things are related in this account"
+            "a certain blind man sat by the way side begging: this was not blind Bartimaeus, nor his companion, for they were cured by Christ as he went out of Jericho.",
+            "but this man before he came to it; for we afterwards read of his entrance into, and passing through Jericho,",
+            "though much the same things are related in this account, as in that of the other two blind men"
         ],
         "John Wesley": [
             "Matthew 20:29; Mark 10:46."
@@ -46,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "A blind beggar was sitting by the wayside between the old and new Jericho, asking for something. According to Mark, his name was Bartimaeus, and Matthew mentions two blind men. This particular blind man, however, was not Bartimaeus. This individual, whose story is similar to others, lay in the way to Jerusalem.",
-            "wordCount": 52,
-            "quoteTokenProportion": 46.34,
-            "qualityScore": 1.526211485492092,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.09,
+            "bht": "A blind man sat by the wayside begging, most likely between the old and new Jericho. While Mark identifies him as Bartimaeus, there is no mention of his name in Luke's account. It is important to note that this blind man is different from the blind man healed by Jesus as he entered Jericho. Although there are similarities in the details described by Matthew and Mark, Luke provides a unique perspective on this encounter.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7890431984779749,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
             "commentatorTierSimilarities": [
-                56.57,
+                54.43,
                 0.0,
-                43.43
+                45.57
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "A blind beggar, known as Bartimaeus, was found on the way to Jerusalem between the old and new Jericho, asking for something. This individual is distinct from the blind men mentioned by Matthew, although his tale bears similarities to theirs.",
-            "wordCount": 40,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.6466995584757693,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
+            "bht": "A blind man sat by the wayside begging, most likely between the old and new Jericho. While Mark identifies him as Bartimaeus, there is no mention of his name in Luke's account. It is important to note that this blind man is different from the blind man healed by Jesus as he entered Jericho.",
+            "wordCount": 55,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.86590239082858,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
             "commentatorTierSimilarities": [
-                61.92,
+                55.18,
                 0.0,
-                38.08
+                44.82
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "A blind beggar sat by the wayside between the old and new Jericho, asking for something. Mark identifies him as Bartimaeus, while Matthew mentions two blind men. However, this particular blind man is not Bartimaeus, though his story shares similarities.",
-            "wordCount": 40,
-            "quoteTokenProportion": 47.22,
-            "qualityScore": 1.664346841167381,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+            "bht": "A blind man sat by the wayside begging, most likely between the old and new Jericho. While Mark identifies him as Bartimaeus, there is no mention of his name in Luke's account. It is important to note that this blind man is different from the blind man healed by Jesus as he entered Jericho.",
+            "wordCount": 55,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.86590239082858,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
             "commentatorTierSimilarities": [
-                60.66,
+                55.18,
                 0.0,
-                39.34
+                44.82
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "A blind beggar, identified as Bartimaeus in Mark's account, was situated by the wayside between the old and new Jericho, where he was asking for something. Matthew also mentions two blind men, although this particular individual is not Bartimaeus. His story, while similar to others, took place on the way to Jerusalem.",
-            "wordCount": 53,
-            "quoteTokenProportion": 48.94,
-            "qualityScore": 1.624076002323398,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "bht": "A blind man sat by the wayside begging, most likely between the old and new Jericho. While Mark identifies him as Bartimaeus, there is no mention of his name in Luke's account. It is important to note that this blind man is different from the blind man healed by Jesus as he entered Jericho.",
+            "wordCount": 55,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.86590239082858,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
             "commentatorTierSimilarities": [
-                60.64,
+                55.18,
                 0.0,
-                39.36
+                44.82
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "A blind beggar, referred to as Bartimaeus in Mark's narrative, was found by the wayside between the old and new Jericho, where he was begging for something. This account aligns with Matthew's mention of two blind individuals, although this specific person is not Bartimaeus. It is noteworthy that his story shares similarities with the others, occurring along the path to Jerusalem.",
-            "wordCount": 63,
-            "quoteTokenProportion": 48.08,
-            "qualityScore": 1.508701606489898,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "bht": "A blind man sat by the wayside begging, most likely between the old and new Jericho. While Mark identifies him as Bartimaeus, there is no mention of his name in Luke's account. It is important to note that this blind man is different from the blind man healed by Jesus as he entered Jericho.",
+            "wordCount": 55,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.86590239082858,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
             "commentatorTierSimilarities": [
-                61.06,
+                55.18,
                 0.0,
-                38.94
+                44.82
             ],
             "generationAttempt": 5
         }

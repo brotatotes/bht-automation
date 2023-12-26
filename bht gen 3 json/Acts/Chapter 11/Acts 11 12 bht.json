@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:29:44",
+    "timestamp": "12-25-2023 19:34:24",
     "verseRef": "Acts 11:12",
     "bestBHT": {
-        "bht": "In response to the accusation of associating with uncircumcised men, Peter brings up the six brethren who had witnessed the events firsthand. Notably, he avoids mentioning Cornelius' name or high position, instead emphasizing the uncircumcised man to whom he had been divinely sent. Peter acknowledges the charge against him and any potential doubt, but affirms that it was the Spirit who commanded him to go with them. This revelation suggests that Peter was aware of the scrutiny he would face for his actions.",
-        "wordCount": 83,
-        "quoteTokenProportion": 44.44,
-        "qualityScore": 1.922462709167431,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+        "bht": "Peter defended his actions by recounting the events and was supported by the six brethren who accompanied him. He made no mention of Cornelius' high position, focusing solely on the uncircumcised man to whom he had been sent. Peter emphasized that he entered into the man's house without doubting or making any distinction, as per the original sense of the verb. These six brethren served as witnesses for Peter and themselves, for they had committed the same offense.",
+        "wordCount": 79,
+        "quoteTokenProportion": 48.33,
+        "qualityScore": 1.9477674793342306,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.1,
         "commentatorTierSimilarities": [
-            36.75,
-            36.05,
-            27.2
+            32.46,
+            38.02,
+            29.52
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -23,23 +23,23 @@
             "To the charge, 'Thou wentest in to men uncircumcised,' he simply speaks of the uncircumcised 'man' to whom he had been divinely sent."
         ],
         "Marvin Vincent": [
-            "Nothing doubting [\u03bc\u03b7\u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03ba\u03c1\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd]. The Rev. renders making no distinction, taking the verb in its original sense, which is to separate or distinguish. The rendering seems rather strained, doubting being a common rendering in the New Testament and giving a perfectly good sense here.\" ",
+            "Nothing doubting... making no distinction, taking the verb in its original sense, which is to separate or distinguish... doubting being a common rendering in the New Testament and giving a perfectly good sense here.\" ",
+            "It was natural that Peter should hesitate.",
             "The six brethren. The men of Joppa who had gone with Peter to Cornelius, and had accompanied him also to Jerusalem, either as witnesses for him or for their own vindication, since they had committed the same offense."
         ],
         "Philip Schaff": [
-            "St. Peter had said nothing of having gone up to the house-top.",
-            "The phrase 'these six brethren,' marking the vividness of his appeal to them at the moment of speaking, should not be unobserved.",
-            "Even as regards the personal character of Cornelius, his habit of prayer, his generous almsgiving, his faithful discharge of domestic duty, it would not have been politic in Peter to have laid stress on these points before an audience full of prejudice against the Heathen."
+            "Moreover these six brethren accompanied me...showing how deep an impression had been made by the recent events at Caesarea and Joppa.",
+            "St. Peter simply terms Cornelius 'the man'...These particulars would have been positively distasteful to his Jewish listeners.",
+            "There was much point in his saying, however briefly, that he 'entered into the man's house.' This was the very ground of the censure under which Peter had fallen."
         ],
         "Archibald T. Robertson": [
-            "Making no distinction... The difference in voice shows the distinction in meaning.",
-            "We entered into the man's house... Peter confesses it, but shows that the other six went in also.",
-            "He avoids mention of Cornelius's name and office."
+            "Making no distinction.\" ",
+            "We entered into the man's house."
         ],
         "John Gill": [
-            "And the Spirit bade me go with them, nothing doubting",
-            "it looks as if Peter was aware, that he should be called to an account for his conduct",
-            "entering into whose house they were contending with him"
+            "And the Spirit bade me go with them, nothing doubting.\" ",
+            "Moreover, these six brethren accompanied me... to be witnesses for him, of what they had seen and heard, which was a very wise and prudential step.\" ",
+            "And we entered into the man's house; the house of Cornelius, for entering into whose house they were contending with him, and where he entered not alone, but the six brethren with him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Peter is addressing the accusation of his association with uncircumcised men, and he does so by referencing the six brethren who had witnessed his interaction with Cornelius. Peter intentionally avoids mentioning Cornelius' name and high position, focusing instead on the uncircumcised man to whom he had been divinely sent. By stating that they all entered into the man's house, Peter emphasizes that it was not only him but also the other six brethren who were involved. He acknowledges the charge against him and acknowledges any potential doubt, but clarifies that the Spirit had commanded him to go with them. This revelation indicates that Peter was aware that his actions would be scrutinized.",
-            "wordCount": 113,
-            "quoteTokenProportion": 49.35,
-            "qualityScore": 1.9622188960703468,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "bht": "Peter defended his actions by recounting the events that took place, supported by the six brethren who had accompanied him to Jerusalem. He deliberately avoided mentioning Cornelius by name or highlighting his high position, as it was irrelevant to the matter at hand. Instead, he referred to him simply as the man, emphasizing that he had been divinely sent to the uncircumcised. Peter clarified that he had entered into the man's house, not making any distinction or doubting the Spirit's instruction. These six brethren served as witnesses not only for Peter but also for themselves, as they had committed the same offense. Overall, Peter's testimony aimed to justify his actions and address the criticism he faced for associating with the uncircumcised.",
+            "wordCount": 124,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8888321475443681,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
             "commentatorTierSimilarities": [
-                37.83,
-                34.96,
-                27.21
+                33.23,
+                39.23,
+                27.55
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Peter, in response to the accusation of associating with uncircumcised men, defends himself by referencing the six brethren who were witnesses to his interaction with the uncircumcised man. He avoids mentioning Cornelius' name and position, instead emphasizing the divine direction he received to go to the uncircumcised. Peter acknowledges the charge against him and any potential doubt, but clarifies that he was commanded by the Spirit to go with them, showing his awareness of the scrutiny his actions would face.",
-            "wordCount": 80,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.9049052047274033,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "bht": "Peter defended himself by recounting the events, supported by the six brethren who accompanied him to Jerusalem. He emphasized that he had been divinely sent to the uncircumcised, referring to Cornelius simply as the man. Peter clarified that he entered into the man's house, making no distinction and not doubting the Spirit's instruction. These six brethren served as witnesses for Peter and themselves, as they had committed the same offense. Peter's testimony aimed to justify his actions and address the criticism he faced for associating with the uncircumcised.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9392033847333114,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.82,
             "commentatorTierSimilarities": [
-                39.61,
-                36.46,
-                23.93
+                32.24,
+                39.28,
+                28.48
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Peter defends himself against the accusation of associating with uncircumcised men by referring to the six brethren who witnessed his encounter with the uncircumcised man. He intentionally avoids mentioning Cornelius' name and position, focusing instead on the divine command that led him to the uncircumcised. Peter acknowledges the charge and any possible doubt, but clarifies that the Spirit instructed him to go with them, indicating his awareness of the scrutiny his actions would face.",
-            "wordCount": 74,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.8134652513314236,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.64,
+            "bht": "Peter defended his actions by recounting the events, backed by the six brethren who accompanied him. He referred to Cornelius simply as the man to avoid stirring his Jewish listeners further. Peter emphasized that he entered into the man's house, making no distinction or doubting the Spirit's instruction. These six brethren served as witnesses, either for Peter or for their own vindication, having committed the same offense. Peter sought to justify his actions and address the criticism he faced for associating with the uncircumcised.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9015423620488368,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
             "commentatorTierSimilarities": [
-                40.04,
-                36.94,
-                23.01
+                29.88,
+                41.54,
+                28.59
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In response to the accusation of associating with uncircumcised men, Peter brings up the six brethren who had witnessed the events firsthand. Notably, he avoids mentioning Cornelius' name or high position, instead emphasizing the uncircumcised man to whom he had been divinely sent. Peter acknowledges the charge against him and any potential doubt, but affirms that it was the Spirit who commanded him to go with them. This revelation suggests that Peter was aware of the scrutiny he would face for his actions.",
-            "wordCount": 83,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.922462709167431,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "bht": "In his defense, Peter called upon the six brethren who had accompanied him as witnesses to validate the facts of the matter. He notably avoided mentioning Cornelius by name or his high status, as it was irrelevant. Peter stressed that he had been divinely sent to the uncircumcised, referring to him as the man. He emphasized that he made no distinction, entering into the man's house without doubting the Spirit's guidance. These six brethren stood as witnesses for Peter and themselves, having committed the same offense.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8793621323240426,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
             "commentatorTierSimilarities": [
-                36.75,
-                36.05,
-                27.2
+                31.1,
+                35.93,
+                32.97
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In response to the accusation of associating with uncircumcised men, Peter points to the six brethren who had accompanied him as witnesses. He deliberately avoids mentioning Cornelius' name and position, focusing instead on the uncircumcised man he had been sent to by divine guidance. Peter acknowledges the charge and any doubt, but asserts that the Spirit commanded him to go with them. This indicates Peter's awareness that his actions would be scrutinized and calls into question the validity of the accusation.",
-            "wordCount": 82,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.8207554884373074,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "bht": "Peter defended his actions by recounting the events and was supported by the six brethren who accompanied him. He made no mention of Cornelius' high position, focusing solely on the uncircumcised man to whom he had been sent. Peter emphasized that he entered into the man's house without doubting or making any distinction, as per the original sense of the verb. These six brethren served as witnesses for Peter and themselves, for they had committed the same offense.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.9477674793342306,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
             "commentatorTierSimilarities": [
-                38.12,
-                34.19,
-                27.69
+                32.46,
+                38.02,
+                29.52
             ],
             "generationAttempt": 5
         }

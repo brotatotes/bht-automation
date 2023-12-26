@@ -1,13 +1,13 @@
 # Luke 7:10 Commentary Help Text
 
 ## BHT:
-This is one of the three greatest recorded miracles of our Lord. He raised one (Jairus’s daughter) who had been dead, one who was on the way to burial, and one (Lazarus) who had been buried four days. The servant, who had been sick, was found whole. The centurion's expression of faith played a significant role in this miracle, as Christ had declared that the healing would be according to it.
+One of the three greatest miracles recorded by Luke is described here. Jesus displayed His power over death by raising the dead, including those who were recently deceased, on their way to burial, and even one who had been buried for four days. In this instance, Jesus healed a sick servant, immediately restoring him to full health due to the centurion's unwavering faith. The meticulous detail in Luke's account underscores the significance of this remarkable event and further showcases the authority of Jesus.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "This is one of the three greatest recorded miracles of our Lord."
 2. "He raised one (Jairus’s daughter) when just dead,—one on the way to burial,—and one (Lazarus) who had been buried four days."
-3. "...one of the three greatest recorded miracles of our Lord."
+3. "He raised one (Jairus’s daughter) when just dead,—one on the way to burial,—and one (Lazarus) who had been buried four days."
 
 ### Marvin Vincent:
 1. Whole [υγιαινοντα] . See on ch. Luke 5:31. The best texts omit that had been sick. 
@@ -24,46 +24,50 @@ This is one of the three greatest recorded miracles of our Lord. He raised one (
 
 
 ### John Gill:
-1. "And they that were sent... found the servant whole that had been sick." 
+1. "Found the servant whole that had been sick."
 2. "He was healed directly, as soon as the centurion had expressed his faith."
 3. "Christ had declared that it should be according to it."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-25-2023 19:19:53
+- Timestamp: 12-25-2023 20:08:28
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 46.15%
-- BHT Quality Score: 1.3580811600598683
+- BHT Word Count: 85
+- BHT Commentary Usage: 42.42%
+- BHT Quality Score: 1.5004995195675903
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (52):
-	['a', 'according', 'and', 'as', 'be', 'been', 'burial', 'buried', 'centurion', 'christ', 'daughter', 'days', 'dead', 'declared', 'expression', 'faith', 'found', 'four', 'greatest', 'had', 'he', 'healing', 'in', 'is', 'it', 'jairus', 'lazarus', 'lord', 'miracle', 'miracles', 'of', 'on', 'one', 'our', 'played', 'raised', 'recorded', 'role', 's', 'servant', 'sick', 'significant', 'that', 'the', 'this', 'three', 'to', 'was', 'way', 'who', 'whole', 'would']
-- ChatGPT injected words (significant words only) (28):
-	['according', 'burial', 'buried', 'centurion', 'christ', 'daughter', 'days', 'dead', 'declared', 'expression', 'faith', 'found', 'greatest', 'healing', 'jairus', 'lazarus', 'lord', 'miracle', 'miracles', 'played', 'raised', 'recorded', 'role', 's', 'servant', 'sick', 'significant', 'way']
+- ChatGPT injected words (66):
+	['a', 'account', 'and', 'authority', 'been', 'burial', 'buried', 'by', 'centurion', 'days', 'dead', 'death', 'deceased', 'described', 'detail', 'displayed', 'due', 'even', 'event', 'faith', 'for', 'four', 'full', 'further', 'greatest', 'had', 'healed', 'health', 'here', 'him', 'his', 'immediately', 'in', 'including', 'instance', 'is', 'jesus', 'luke', 'meticulous', 'miracles', 'of', 'on', 'one', 'over', 'power', 'raising', 'recently', 'recorded', 'remarkable', 'restoring', 's', 'servant', 'showcases', 'sick', 'significance', 'the', 'their', 'this', 'those', 'three', 'to', 'underscores', 'unwavering', 'way', 'were', 'who']
+- ChatGPT injected words (significant words only) (38):
+	['account', 'authority', 'burial', 'buried', 'centurion', 'days', 'dead', 'death', 'deceased', 'described', 'detail', 'displayed', 'event', 'faith', 'greatest', 'healed', 'health', 'immediately', 'including', 'instance', 'jesus', 'luke', 'meticulous', 'miracles', 'power', 'raising', 'recently', 'recorded', 'remarkable', 'restoring', 's', 'servant', 'showcases', 'sick', 'significance', 'underscores', 'unwavering', 'way']
 
 ### Logs
-- Attempt 1 BHT: This verse in Luke recounts one of the three greatest miracles performed by Jesus. It is a miracle of healing, where Jesus restores a servant who had been sick. The servant is found whole or well, highlighting the immediate and complete healing that took place. The centurion's expression of faith played a significant role in this miracle, as Jesus had previously declared that the healing would be according to the centurion's faith. This miracle demonstrates Jesus' power and willingness to heal, even from a distance, in response to sincere faith.
-- 🔄 Luke 7:10 (attempt 1, 92 words, 41.67% quotes quality score: 1.3502981969228145, V2 normalized quality score: 36.24, commentator tiers 1-3: 34.24%, 21.33%, 44.43%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: This verse in Luke is one of the greatest miracles performed by Jesus. Just as he raised the dead, he also healed a servant who was sick. The centurion's faith played a crucial role in the healing, as Jesus declared that it would be according to his faith. The servant was restored to full health immediately, showcasing the power and authority of Jesus. Luke pays attention to the details of the narrative, highlighting the significance of this miraculous event.
+- 🔄 Luke 7:10 (attempt 1, 80 words, 39.29% quotes quality score: 1.476187276873104, V2 normalized quality score: 40.43, commentator tiers 1-3: 31.95%, 25.98%, 42.07%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: This is one of the three greatest recorded miracles of our Lord. He raised one (Jairus’s daughter) who had been dead, one who was on the way to burial, and one (Lazarus) who had been buried four days. The servant, who had been sick, was found whole. The centurion's expression of faith played a significant role in this miracle, as Christ had declared that the healing would be according to it.
-- 🔄 Luke 7:10 (attempt 2, 73 words, 46.15% quotes quality score: 1.3580811600598683, V2 normalized quality score: 36.5, commentator tiers 1-3: 37.81%, 13.2%, 48.99%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: This particular event is notable as one of the three greatest miracles performed by Jesus. It involved the healing of a servant who had been sick, resulting in the servant being found whole. The centurion's faith was crucial in bringing about this miraculous healing, as Jesus himself had declared that the healing would occur according to the centurion's faith. This healing serves as a powerful demonstration of Jesus' ability and willingness to bring about complete restoration in response to genuine belief.
-- 🔄 Luke 7:10 (attempt 3, 83 words, 41.07% quotes quality score: 1.2461467964440658, V2 normalized quality score: 32.78, commentator tiers 1-3: 30.1%, 16.99%, 52.91%) 
+- Attempt 2 BHT: This remarkable event recorded by Luke is one of the three greatest miracles performed by Jesus. He raised the dead, including one who was on the way to burial and another who had been buried for four days. In this particular instance, Jesus healed a servant who had been sick and restored him to full health immediately. The centurion's faith was instrumental in the healing, as Jesus had declared that it would be according to his faith. The meticulous detail of Luke's narrative emphasizes the significance of this miraculous event.
+- 🔄 Luke 7:10 (attempt 2, 92 words, 43.75% quotes quality score: 1.4258971666327738, V2 normalized quality score: 38.75, commentator tiers 1-3: 34.3%, 23.62%, 42.08%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: This is one of the three greatest miracles performed by Jesus, involving the healing of a sick servant who was found whole. The centurion's faith played a vital role in this miraculous event, as Jesus had stated that the healing would be in accordance with the centurion's faith. This powerful demonstration showcases Jesus' ability and willingness to bring about complete restoration in response to sincere belief.
-- 🔄 Luke 7:10 (attempt 4, 68 words, 41.18% quotes quality score: 1.2541239358647802, V2 normalized quality score: 33.04, commentator tiers 1-3: 34.0%, 15.94%, 50.07%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: One of the greatest miracles recounted in the scriptures is the healing of a sick servant, where the servant was found whole. This event stands as a testament to Jesus' remarkable power and willingness to bring about complete restoration. It is important to note the significant role that the centurion's faith played in this miraculous occurrence. Jesus himself had declared that the healing would be in accordance with the centurion's faith, emphasizing the vital connection between belief and divine intervention.
-- 🔄 Luke 7:10 (attempt 5, 82 words, 37.93% quotes quality score: 1.227168376257071, V2 normalized quality score: 32.15, commentator tiers 1-3: 32.6%, 20.14%, 47.27%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: This remarkable event is one of the three greatest miracles of Jesus recorded by Luke. Jesus had the power to raise the dead, including those who were at the brink of death, on their way to burial, and even one who had been buried for four days. In this case, Jesus healed a servant who had been sick, demonstrating the centurion's faith by restoring him to full health immediately. The attention to detail in Luke's narrative highlights the significance of this miraculous event.
+- 🔄 Luke 7:10 (attempt 3, 85 words, 41.38% quotes quality score: 1.444941446743019, V2 normalized quality score: 39.39, commentator tiers 1-3: 37.92%, 26.92%, 35.16%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 7:10 bht prompt v0.8 (73 words, 46.15% quotes)
-- quality score: 1.3580811600598683, V2 normalized quality score: 36.5, commentator tiers 1-3: 37.81%, 13.2%, 48.99%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: One of the three greatest miracles recorded by Luke is described here. Jesus displayed His power over death by raising the dead, including those who were recently deceased, on their way to burial, and even one who had been buried for four days. In this instance, Jesus healed a sick servant, immediately restoring him to full health due to the centurion's unwavering faith. The meticulous detail in Luke's account underscores the significance of this remarkable event and further showcases the authority of Jesus.
+- 🔄 Luke 7:10 (attempt 4, 85 words, 42.42% quotes quality score: 1.5004995195675903, V2 normalized quality score: 41.23, commentator tiers 1-3: 37.61%, 28.82%, 33.57%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: This extraordinary miracle, one of the three greatest recorded by Luke, demonstrates Jesus' authority over death. He not only raised the dead, including those near death and those who had been buried for days, but also healed a sick servant through the centurion's strong faith. Luke's attention to detail emphasizes the importance of this event, highlighting Jesus' power to bring about immediate and complete restoration.
+- 🔄 Luke 7:10 (attempt 5, 67 words, 40.0% quotes quality score: 1.466322270339131, V2 normalized quality score: 40.1, commentator tiers 1-3: 38.41%, 30.02%, 31.58%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 7:10 bht prompt v0.8 (85 words, 42.42% quotes)
+- quality score: 1.5004995195675903, V2 normalized quality score: 41.23, commentator tiers 1-3: 37.61%, 28.82%, 33.57%)

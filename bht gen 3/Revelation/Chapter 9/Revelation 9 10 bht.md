@@ -1,13 +1,13 @@
 # Revelation 9:10 Commentary Help Text
 
 ## BHT:
-These creatures possess tails resembling scorpions and are capable of inflicting harm upon men for a five-month span. The comparison of their tails to scorpions highlights their undeniable similarity and suggests their authority in causing suffering. The stings found in their tails symbolize the distress and anguish they bring upon others. It is noteworthy that these calamities endure for quite a long time, as represented by the five prophetic months, equivalent to around seventy-nine common years.
+The locusts described in this statement possess tails resembling scorpions, demonstrating their capacity to cause harm. The specific nature of their sting is located within their tails, signifying their authorized power to inflict injury. This comparison fittingly underscores the distinctiveness of their ability to hurt, much like the quills of a porcupine or a cock's spur. Their tails are emblematic of their potent authority, serving as a symbol of the harm they can cause.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "And they have tails like to scorpions, and stings: this is the particular especially in which the comparison finds its aptitude."
-2. "And in their tails is their power to hurt men five months."
-3. "In their tails is their power to hurt men."
+1. "And they have tails like to scorpions (i.e., to the tails of scorpions), and stings (vis. in their tails: this is the particular especially in which the comparison finds its aptitude)."
+2. "In their tails is their power to hurt men five months."
+3. "This is the particular especially in which the comparison finds its aptitude."
 
 ### Jamieson-Fausset-Brown:
 1. "tails like unto scorpions—like unto the tails of scorpions."
@@ -17,56 +17,60 @@ These creatures possess tails resembling scorpions and are capable of inflicting
 ### Albert Barnes:
 1. "The fancy of an Arab now often discerns a resemblance between the tail of the locust and the scorpion."
 2. "The only thing which they have resembling a sting is a hard bony subsubstance like a needle, with which the female punctures the bark and wood of trees in order to deposit her eggs."
-3. "It does not appear that the wrong would be by inflicting bodily torments, but would be characterized by that injustice toward others which produces distress and anguish."
+3. "The word used here - ἀδικῆσαι adikēsai, rendered 'to hurt' - is different from the word in Revelation 9:5 - βασανισθῶσιν basanisthōsin, rendered 'should be tormented'."
 
 ### Archibald T. Robertson:
-1. "Tails...like unto scorpions"
+1. "Like unto the tails of the scorpions" (ομοιας σκορπιοις). 
+2. "It is used 'of the spur of a cock, the quill of the porcupine, and the stings of insects'." 
+3. "This locates 'their power to hurt' (η εξουσια αυτων αδικησα) in their tails."
 
 ### John Gill:
-1. "And they had tails like unto scorpions." 
-2. "And there were stings in their tails." 
-3. "and their power [was] to hurt men five months."
+1. "And they had tails like unto scorpions,.... Locusts are said to have the tail of a serpent, and of the vipers of the earth." 
+2. "And there were stings in their tails; either in the baser sort of them, the Saracens and Papists; or in their doctrines, the prophet being the tail, Isaiah 9:15; with which both Mahomet, who set himself up for a prophet, and the Romish clergy, who set up their decrees and unwritten traditions above the word of God, have poisoned and destroyed multitudes of souls."
+3. "And their power [was] to hurt men five months."
 
 ### John Wesley:
-1. "And they have tails like scorpions — That is, each tail is like a scorpion, not like the tail of a scorpion." 
-2. "To hurt the unsealed men five months - Five prophetic months; that is, seventy-nine common years" 
-3. "So long did these calamities last."
+1. "And they have tails like scorpions... each tail is like a scorpion, not like the tail of a scorpion." 
+2. "To hurt the unsealed men five months... so long did these calamities last."
+3. "Five prophetic months; that is, seventy-nine common years."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 21:44:34
+- Timestamp: 12-25-2023 20:08:53
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 78
-- BHT Commentary Usage: 37.29%
-- BHT Quality Score: 1.9250473187427048
+- BHT Word Count: 75
+- BHT Commentary Usage: 28.85%
+- BHT Quality Score: 2.0285039441669053
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'and', 'anguish', 'are', 'around', 'as', 'authority', 'bring', 'by', 'calamities', 'capable', 'causing', 'common', 'comparison', 'creatures', 'distress', 'endure', 'equivalent', 'five', 'for', 'found', 'harm', 'highlights', 'in', 'inflicting', 'is', 'it', 'long', 'men', 'month', 'months', 'nine', 'noteworthy', 'of', 'others', 'possess', 'prophetic', 'quite', 'represented', 'resembling', 'scorpions', 'seventy', 'similarity', 'span', 'stings', 'suffering', 'suggests', 'symbolize', 'tails', 'that', 'the', 'their', 'these', 'they', 'time', 'to', 'undeniable', 'upon', 'years']
+- ChatGPT injected words (52):
+	['a', 'ability', 'are', 'as', 'authority', 'authorized', 'can', 'capacity', 'cause', 'cock', 'comparison', 'demonstrating', 'described', 'distinctiveness', 'emblematic', 'fittingly', 'harm', 'hurt', 'in', 'inflict', 'injury', 'is', 'like', 'located', 'locusts', 'much', 'nature', 'of', 'or', 'porcupine', 'possess', 'potent', 'power', 'quills', 'resembling', 's', 'scorpions', 'serving', 'signifying', 'specific', 'spur', 'statement', 'sting', 'symbol', 'tails', 'the', 'their', 'they', 'this', 'to', 'underscores', 'within']
 - ChatGPT injected words (significant words only) (37):
-	['anguish', 'authority', 'bring', 'calamities', 'capable', 'causing', 'common', 'comparison', 'creatures', 'distress', 'endure', 'equivalent', 'found', 'harm', 'highlights', 'inflicting', 'long', 'men', 'month', 'months', 'noteworthy', 'possess', 'prophetic', 'represented', 'resembling', 'scorpions', 'seventy', 'similarity', 'span', 'stings', 'suffering', 'suggests', 'symbolize', 'tails', 'time', 'undeniable', 'years']
+	['ability', 'authority', 'authorized', 'capacity', 'cause', 'cock', 'comparison', 'demonstrating', 'described', 'distinctiveness', 'emblematic', 'fittingly', 'harm', 'hurt', 'inflict', 'injury', 'like', 'located', 'locusts', 'nature', 'porcupine', 'possess', 'potent', 'power', 'quills', 'resembling', 's', 'scorpions', 'serving', 'signifying', 'specific', 'spur', 'statement', 'sting', 'symbol', 'tails', 'underscores']
 
 ### Logs
-- Attempt 1 BHT: The verse describes creatures with tails like unto scorpions that have the power to hurt men for a period of five months. The commentators remark on the aptitude of this comparison, highlighting the authority and ability of these creatures to inflict harm. They discuss the resemblance between the tails of these creatures and scorpions, pointing out that the stings mentioned may not be literal, but rather symbolic of the distress and anguish caused by their unjust actions. These calamities are said to last for a significant period of time, symbolized by the five prophetic months or seventy-nine common years.
-- 🔄 Revelation 9:10 (attempt 1, 100 words, 39.13% quotes quality score: 1.7431782680167078, V2 normalized quality score: 49.3, commentator tiers 1-3: 34.66%, 31.6%, 33.73%) 
+- Attempt 1 BHT: The locusts described in this verse have tails like scorpions, which is where their ability to harm lies. The comparison is apt, highlighting the power and authority they possess. Their ability to hurt men for five months is located specifically in their tails. This image of scorpion-like tails demonstrates the unique nature of their sting, similar to the spur of a cock or quill of a porcupine. This is not a literal representation, but rather a symbol of the locusts' authorized power to inflict harm.
+- 🔄 Revelation 9:10 (attempt 1, 86 words, 34.55% quotes quality score: 1.8595110889471558, V2 normalized quality score: 53.17, commentator tiers 1-3: 39.73%, 30.38%, 29.89%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The creatures in question possess scorpion-like tails with stings that have the authority to harm for five months. The comparison between the creatures and scorpions is emphasized as apt. Although the stings may be symbolic, they represent the distress caused by their unjust actions. These afflictions last for a considerable duration, symbolized by the five prophetic months or seventy-nine common years.
-- 🔄 Revelation 9:10 (attempt 2, 63 words, 45.1% quotes quality score: 1.6279615638783334, V2 normalized quality score: 45.47, commentator tiers 1-3: 34.17%, 31.75%, 34.08%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: These scorpion-like creatures possess tails and stings that have the power to hurt men for a five-month period. The parallel between their tails and scorpions is notable, emphasizing their authority and ability to inflict harm. The stings, whether literal or symbolic, represent the distress and anguish caused by their unjust actions towards others. These afflictions endure for an extensive period of time, symbolized by the five prophetic months, roughly amounting to seventy-nine common years.
-- 🔄 Revelation 9:10 (attempt 3, 77 words, 33.9% quotes quality score: 1.7388044493855142, V2 normalized quality score: 49.16, commentator tiers 1-3: 33.94%, 34.49%, 31.56%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The creatures described in this passage have tails like unto scorpions and possess the authority to harm men for a specified period of time. The comparison between their tails and scorpions is appropriate, emphasizing their power in causing harm. The stings in their tails symbolize the distress and anguish they bring upon others. This affliction lasts for a significant duration, represented by the five prophetic months or approximately seventy-nine common years.
-- 🔄 Revelation 9:10 (attempt 4, 72 words, 35.19% quotes quality score: 1.9270151707321852, V2 normalized quality score: 55.41, commentator tiers 1-3: 37.12%, 30.63%, 32.25%) 
+- Attempt 2 BHT: The locusts in this passage possess tails resembling scorpions, portraying their capacity to cause harm. Their ability to inflict pain for a period of five months rests solely in their tails. The comparison of their tails to scorpions' tails is fitting because it accurately conveys the essence of their authorized power to hurt. This imagery sheds light on the distinct nature of their sting, reminiscent of a cock's spur or a porcupine's quill.
+- 🔄 Revelation 9:10 (attempt 2, 75 words, 27.45% quotes quality score: 2.164102945259314, V2 normalized quality score: 63.3, commentator tiers 1-3: 39.67%, 32.09%, 28.24%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: These creatures possess tails resembling scorpions and are capable of inflicting harm upon men for a five-month span. The comparison of their tails to scorpions highlights their undeniable similarity and suggests their authority in causing suffering. The stings found in their tails symbolize the distress and anguish they bring upon others. It is noteworthy that these calamities endure for quite a long time, as represented by the five prophetic months, equivalent to around seventy-nine common years.
-- 🔄 Revelation 9:10 (attempt 5, 78 words, 37.29% quotes quality score: 1.9250473187427048, V2 normalized quality score: 55.35, commentator tiers 1-3: 35.57%, 32.71%, 31.72%) 
+- Attempt 3 BHT: The locusts in this verse possess tails similar to scorpions, and it is in these tails that their ability to harm lies. The comparison between their tails and scorpions is especially fitting, emphasizing their authority to cause injury. Their tails contain their power to hurt men for a period of five months. This comparison effectively conveys the unique nature of their sting, resembling the spurs of a cock or the quills of a porcupine.
+- 🔄 Revelation 9:10 (attempt 3, 74 words, 33.33% quotes quality score: 2.1572653633402066, V2 normalized quality score: 63.07, commentator tiers 1-3: 40.79%, 29.28%, 29.94%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: The locusts described in this statement possess tails resembling scorpions, demonstrating their capacity to cause harm. The specific nature of their sting is located within their tails, signifying their authorized power to inflict injury. This comparison fittingly underscores the distinctiveness of their ability to hurt, much like the quills of a porcupine or a cock's spur. Their tails are emblematic of their potent authority, serving as a symbol of the harm they can cause.
+- 🔄 Revelation 9:10 (attempt 4, 75 words, 28.85% quotes quality score: 2.0285039441669053, V2 normalized quality score: 58.79, commentator tiers 1-3: 42.42%, 31.9%, 25.68%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Revelation 9:10 bht prompt v0.8 (78 words, 37.29% quotes)
-- quality score: 1.9250473187427048, V2 normalized quality score: 55.35, commentator tiers 1-3: 35.57%, 32.71%, 31.72%)
+- Attempt 5 BHT: The locusts in this passage have tails like scorpions, which is where their power to harm lies. The comparison between their tails and scorpions is particularly apt, emphasizing the specific attribute that enables them to inflict harm. Their ability to hurt men for a duration of five months is found specifically in their tails. This imagery of scorpion-like tails highlights the unique nature of their sting, reminiscent of a cock's spur or a porcupine's quill. It serves as a symbol of their authorized power to inflict harm.
+- 🔄 Revelation 9:10 (attempt 5, 90 words, 34.48% quotes quality score: 1.9785983558505658, V2 normalized quality score: 57.13, commentator tiers 1-3: 40.93%, 29.32%, 29.76%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- ✅ Revelation 9:10 bht prompt v0.8 (75 words, 28.85% quotes)
+- quality score: 2.0285039441669053, V2 normalized quality score: 58.79, commentator tiers 1-3: 42.42%, 31.9%, 25.68%)

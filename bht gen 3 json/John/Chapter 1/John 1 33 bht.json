@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-21-2023 03:03:42",
+    "timestamp": "12-25-2023 20:08:45",
     "verseRef": "John 1:33",
     "bestBHT": {
-        "bht": "The Holy Spirit is the one who baptizes, as revealed by God to John. The distinction is drawn between John baptizing in water and the Messiah baptizing in the Holy Spirit. Knowledge of Jesus and His role is acquired through a personal and deep relationship. The divine sign given to John is not merely for his sake but for the benefit of everyone. When the Spirit descends and remains on Jesus, it serves as confirmation that He is the one who baptizes with the Holy Spirit.",
-        "wordCount": 86,
-        "quoteTokenProportion": 46.15,
-        "qualityScore": 1.9853152674186785,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+        "bht": "In this text, the baptism with the Holy Ghost is brought up, which had not been previously mentioned. It highlights the contrast between John's water baptism and the Messiah's baptism with the Holy Spirit, as seen in the other Gospels. The emphasis on the pronoun used indicates that it was God who sent John and revealed this knowledge. The revelation comes from a personal and intimate relationship with God rather than from societal norms. An additional sign is given as confirmation, validating John's divine authorization for his baptism.",
+        "wordCount": 91,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.7216935681180712,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.59,
         "commentatorTierSimilarities": [
-            62.37,
+            50.6,
             0.0,
-            37.63
+            49.4
         ],
         "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The same is he which baptizeth with the Holy Ghost."
+            "the same is he which baptizeth with the Holy Ghost",
+            "Here again we seem to have a reference to the cycle of narratives of the three other Gospels",
+            "our Evangelist has not before mentioned this office of the Messiah"
         ],
         "John Calvin": [
-            "No rank or excellence of man ought to prevent us from doing our duty.",
-            "The knowledge here mentioned is that which arises from personal and long acquaintance.",
-            "This sign was added for confirmation, and that it was not so much for the sake of John as for the sake of us all."
+            "No rank or excellence of man ought to prevent us from doing our duty, and therefore John would have shown disrespect to God and to his baptism if he had spoken in this manner to any other person than the Son of God.",
+            "The knowledge here mentioned is that which arises from personal and long acquaintance...they were not known to each other according to the ordinary custom of men, for the commencement of his knowledge proceeded from God.",
+            "This sign was added for confirmation, and it was not so much for the sake of John as for the sake of us all...this came as an addition to the former revelation which had been given to John."
         ],
         "Archibald T. Robertson": [
-            "He said, referring to God as the one who sent John.",
-            "With the Holy Spirit.",
-            "The contrast between John's baptism in water and that of the Messiah in the Holy Spirit."
+            "He said (\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 \u03b5\u03b9\u03c0\u03b5\u03bd). Explicit and emphatic pronoun as in verse John 1:8, referring to God as the one who sent John (verse John 1:6).",
+            "With the Holy Spirit (\u03b5\u03bd \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4 \u03b1\u03b3\u03b9\u03c9). 'In the Holy Spirit.'",
+            "Here again one needs the background of the Synoptics for the contrast between John's baptism in water (John 1:26) and that of the Messiah in the Holy Spirit (Mark 1:8; Matthew 3:11; Luke 3:16)."
         ],
         "John Gill": [
-            "And I knew him not,.... That is, before he came to be baptized by him; when it was secretly suggested to him who he was, and the following signal was given him, to confirm him in it.",
-            "but he that sent me to baptize with water; or 'in water'; that is, God; for John's mission was from God, as in John 1:6, and his baptism from heaven; he had a divine warrant and commission for what he did.",
-            "the same said unto me; either by an articulate voice, or by a divine impulse on his mind, or by the revelation of the Spirit:",
-            "upon whom thou shalt see the Spirit descending and remaining on him,",
-            "the same is he which baptizeth with the Holy Ghost; that is, the Messiah."
+            "But he that sent me to baptize with water... had a divine warrant and commission for what he did.",
+            "The same said unto me...the Messiah.",
+            "The same is he which baptizeth with the Holy Ghost."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The one who baptizes with the Holy Spirit is none other than God, who sent John to baptize with water. The baptism that John performed in water was a mere contrast to the Messiah's baptism in the Holy Spirit. This knowledge was not gained through any earthly distinction or greatness, but rather through a personal and deep relationship. The divine sign given to John was not just for his benefit, but for the edification of all. When the Spirit descended and remained on Jesus, it confirmed that he is the one who baptizes with the Holy Spirit, the Messiah.",
-            "wordCount": 100,
-            "quoteTokenProportion": 49.18,
-            "qualityScore": 1.8840447763830812,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "bht": "The verse refers to the one who baptizes with the Holy Ghost, which our Evangelist had not mentioned before. It alludes to the narratives of the three other Gospels and highlights the contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit. The pronoun used emphasizes that God is the one who sent John and brought forth this knowledge. This knowledge comes from personal acquaintance with God, not the ordinary custom of men. This additional sign was given as confirmation, not just for John but for all of us. John had divine warrant and commission for his baptism, as he was sent by the same one who baptized with the Holy Spirit.",
+            "wordCount": 118,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.8037429777152665,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.32,
             "commentatorTierSimilarities": [
-                59.48,
+                49.19,
                 0.0,
-                40.52
+                50.81
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The one who baptizes with the Holy Spirit is God Himself, who sent John to baptize with water. The baptism in water performed by John serves as a contrast to the Messiah's baptism in the Holy Spirit. The knowledge about Jesus and His role comes from personal and profound acquaintance. The divine sign given to John was not only for him but for the benefit of all. The Spirit descending and remaining on Jesus confirmed that He is the Messiah who baptizes with the Holy Spirit.",
-            "wordCount": 87,
-            "quoteTokenProportion": 48.15,
-            "qualityScore": 1.9590390502207533,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "bht": "The verse sheds light on the baptism with the Holy Ghost, a previously unmentioned aspect of the Messiah's role mentioned in the other Gospels. The pronoun used emphasizes that God is the one who sent John and brought forth this knowledge. The contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit is evident, showing the divine warrant and commission John had. This knowledge is not based on ordinary custom, but on personal acquaintance with God, confirmed by an additional sign given for all to see.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7865373309434984,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
             "commentatorTierSimilarities": [
-                60.65,
+                49.52,
                 0.0,
-                39.35
+                50.48
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The one who baptizes with the Holy Spirit is none other than God, who sent John. The contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit is apparent. The knowledge about Jesus and His role stems from a personal, deep relationship. The divine sign given to John confirms his identity as the baptizer with the Holy Spirit. It is not just for his sake, but for the benefit of all. When the Spirit descended and remained on Jesus, it affirmed His role as the Messiah.",
-            "wordCount": 92,
-            "quoteTokenProportion": 46.43,
-            "qualityScore": 1.8661847003088599,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "bht": "The verse introduces the significance of baptism with the Holy Ghost, highlighting the contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit. This distinction emphasizes that John had divine warrant and commission for his baptism. The pronoun used emphasizes that God is the one who sent John, and this revelation arises from personal acquaintance with God, not from ordinary customs. The inclusion of an additional sign confirms the authenticity of this knowledge.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4908285572503253,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.91,
             "commentatorTierSimilarities": [
-                63.87,
+                46.45,
                 0.0,
-                36.13
+                53.55
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The one who baptizes with the Holy Spirit is the same God who sent John to baptize with water. This contrast between water baptism and the Messiah's baptism in the Holy Spirit is significant. The knowledge of Jesus and His purpose comes from a personal, intimate relationship. The divine sign given to John serves to confirm his understanding of Jesus as the one who baptizes with the Holy Spirit. This sign is not just for John's sake, but for the benefit of all. It validates Jesus as the promised Messiah.",
-            "wordCount": 92,
-            "quoteTokenProportion": 42.31,
-            "qualityScore": 1.7888461817446357,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "bht": "The passage discusses the baptism with the Holy Ghost, which hadn't been previously mentioned by the Evangelist. It draws attention to the contrast between John's water baptism and the Messiah's baptism with the Holy Spirit, as shown in the other Gospels. The pronoun used emphasizes that God sent John and revealed this knowledge. This revelation stems from a personal and deep relationship with God, not ordinary customs. An additional sign is given as confirmation, authenticating John's divine warrant and commission for his baptism.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7084455195218786,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
             "commentatorTierSimilarities": [
-                62.05,
+                50.01,
                 0.0,
-                37.95
+                49.99
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Holy Spirit is the one who baptizes, as revealed by God to John. The distinction is drawn between John baptizing in water and the Messiah baptizing in the Holy Spirit. Knowledge of Jesus and His role is acquired through a personal and deep relationship. The divine sign given to John is not merely for his sake but for the benefit of everyone. When the Spirit descends and remains on Jesus, it serves as confirmation that He is the one who baptizes with the Holy Spirit.",
-            "wordCount": 86,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.9853152674186785,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "bht": "In this text, the baptism with the Holy Ghost is brought up, which had not been previously mentioned. It highlights the contrast between John's water baptism and the Messiah's baptism with the Holy Spirit, as seen in the other Gospels. The emphasis on the pronoun used indicates that it was God who sent John and revealed this knowledge. The revelation comes from a personal and intimate relationship with God rather than from societal norms. An additional sign is given as confirmation, validating John's divine authorization for his baptism.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.7216935681180712,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.59,
             "commentatorTierSimilarities": [
-                62.37,
+                50.6,
                 0.0,
-                37.63
+                49.4
             ],
             "generationAttempt": 5
         }

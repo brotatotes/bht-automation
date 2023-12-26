@@ -1,18 +1,18 @@
 # Matthew 11:13 Commentary Help Text
 
 ## BHT:
-John the Baptist's preaching marked the transition to a new era, signifying the end of the old dispensation guided by the law and the prophets. His message of the impending kingdom of heaven not only fulfilled prophecies but also sealed the absence of further prophecies about the Messiah and his kingdom. John's role as the precursor to Christ emphasized the significance of recognizing God's manifestation and not remaining indifferent. His preaching was just the beginning, laying the groundwork for the Gospel and directing attention to the presence of Christ.
+John the Baptist ushered in a new era, signifying the conclusion of the old dispensation governed by the prophets and the law of Moses. While the law and the prophets depicted God through symbolic means, they didn't fully reveal His presence. John's preaching, though a part of the Gospel, served as an initial lesson, explicitly proclaiming the arrival of Christ. Within this new era, the prophecies regarding the Messiah and His kingdom ceased, marking the end of the old dispensation and the dawn of the new.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
 1. "John introduced a new dispensation; and that the old one, under which the prophets and the law of Moses were the guide, was closed when he preached that the kingdom of heaven was at hand."
 2. "By the 'law' is meant here the five books of Moses; by the prophets, the remainder of the books of the Old Testament."
-3. "It is meant by this verse that John introduced a new dispensation."
+3. "John introduced a new dispensation; and that the old one, under which the prophets and the law of Moses were the guide, was closed when he preached that the kingdom of heaven was at hand."
 
 ### John Calvin:
 1. "The Law and the Prophets did not present God before the eyes of men, but represented him under figures and shadows as absent."
 2. "It is highly criminal in men to remain indifferent when they have obtained a manifestation of the presence of God."
-3. "Although John’s preaching was a part of the Gospel, it was little more than a first lesson."
+3. "John's preaching was a part of the Gospel, but it was little more than a first lesson."
 
 ### Philip Schaff:
 1. "A proof of the coming in of the new era."
@@ -22,49 +22,49 @@ John the Baptist's preaching marked the transition to a new era, signifying the 
 ### John Gill:
 1. "John spake of him as already come, and in plain terms, and directed to his very person."
 2. "Since his time, there have been no prophecies concerning the Messiah and his kingdom; vision and prophecy are now sealed up."
-3. "Since that time, they confess they have had no prophet and that they are not able to observe their signs."
+3. "From the day that the temple was destroyed, prophecy was taken away from the prophets."
 
 ### John Wesley:
-1. "For all that is written in the law and the prophets only foretold as distant what is now fulfilled."
+1. "For all the prophets and the law prophesied until John — For all that is written in the law and the prophets only foretold as distant what is now fulfilled."
 2. "In John the old dispensation expired, and the new began."
 3. "Luke 16:16."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:46:23
+- Timestamp: 12-25-2023 19:29:32
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 29.31%
-- BHT Quality Score: 1.6501728871913315
+- BHT Word Count: 88
+- BHT Commentary Usage: 30.36%
+- BHT Quality Score: 1.9689291470003394
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'about', 'absence', 'also', 'and', 'as', 'attention', 'baptist', 'beginning', 'but', 'by', 'christ', 'directing', 'dispensation', 'emphasized', 'end', 'era', 'for', 'fulfilled', 'further', 'god', 'gospel', 'groundwork', 'guided', 'heaven', 'his', 'impending', 'indifferent', 'john', 'just', 'kingdom', 'law', 'laying', 'manifestation', 'marked', 'message', 'messiah', 'new', 'not', 'of', 'old', 'only', 'preaching', 'precursor', 'presence', 'prophecies', 'prophets', 'recognizing', 'remaining', 'role', 's', 'sealed', 'significance', 'signifying', 'the', 'to', 'transition', 'was']
-- ChatGPT injected words (significant words only) (41):
-	['absence', 'attention', 'baptist', 'beginning', 'christ', 'directing', 'dispensation', 'emphasized', 'end', 'era', 'fulfilled', 'god', 'gospel', 'groundwork', 'guided', 'heaven', 'impending', 'indifferent', 'john', 'kingdom', 'law', 'laying', 'manifestation', 'marked', 'message', 'messiah', 'new', 'old', 'preaching', 'precursor', 'presence', 'prophecies', 'prophets', 'recognizing', 'remaining', 'role', 's', 'sealed', 'significance', 'signifying', 'transition']
+- ChatGPT injected words (56):
+	['a', 'an', 'and', 'arrival', 'as', 'baptist', 'by', 'ceased', 'christ', 'conclusion', 'dawn', 'depicted', 'didn', 'dispensation', 'end', 'era', 'explicitly', 'fully', 'god', 'gospel', 'governed', 'his', 'in', 'initial', 'john', 'kingdom', 'law', 'lesson', 'marking', 'means', 'messiah', 'moses', 'new', 'of', 'old', 'part', 'preaching', 'presence', 'proclaiming', 'prophecies', 'prophets', 'regarding', 'reveal', 's', 'served', 'signifying', 'symbolic', 't', 'the', 'they', 'this', 'though', 'through', 'ushered', 'while', 'within']
+- ChatGPT injected words (significant words only) (39):
+	['arrival', 'baptist', 'ceased', 'christ', 'conclusion', 'dawn', 'depicted', 'didn', 'dispensation', 'end', 'era', 'explicitly', 'fully', 'god', 'gospel', 'governed', 'initial', 'john', 'kingdom', 'law', 'lesson', 'marking', 'means', 'messiah', 'moses', 'new', 'old', 'preaching', 'presence', 'proclaiming', 'prophecies', 'prophets', 'reveal', 's', 'served', 'signifying', 'symbolic', 't', 'ushered']
 
 ### Logs
-- Attempt 1 BHT: John the Baptist introduced a new era, closing the old dispensation where the law and the prophets were the guide, and preached that the kingdom of heaven was at hand. His role was significant, as he was both associated with the prophets and supported their high position. Through his preaching, the coming of the Messiah and his kingdom was prophesied and sealed up, leading to the fulfillment of what was previously written in the law and the prophets. John's message was just the beginning of the Gospel, a first lesson that pointed directly to the presence of Christ. Since his time, there have been no prophecies regarding the Messiah, highlighting the importance of heeding God's manifestation and not remaining indifferent.
-- 🔄 Matthew 11:13 (attempt 1, 122 words, 37.66% quotes quality score: 1.7422267439156078, V2 normalized quality score: 49.27, commentator tiers 1-3: 0.0%, 52.28%, 47.72%) 
+- Attempt 1 BHT: John the Baptist marked the beginning of a new era, closing the chapter of the old dispensation guided by the prophets and the law of Moses. The law and the prophets, though they represented God through figures and shadows, did not present Him before the eyes of men. John's preaching, part of the Gospel, was a first lesson, speaking plainly about the coming of Christ. With his arrival, the prophecies concerning the Messiah and His kingdom ceased, as the old dispensation expired, and the new began. Luke 16:16 supports this idea. In light of these teachings, it is highly irresponsible for individuals to remain indifferent when the presence of God has been made known to them.
+- 🔄 Matthew 11:13 (attempt 1, 116 words, 38.75% quotes quality score: 1.6542228283253273, V2 normalized quality score: 46.35, commentator tiers 1-3: 0.0%, 49.7%, 50.3%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: John the Baptist brought forth a new era, marking the end of the old dispensation governed by the law and the prophets. His proclamation of the kingdom of heaven's imminent arrival served as a prophecy fulfilled. As a result, vision and prophecy were sealed up, with no future prophecies concerning the Messiah and his kingdom. John's preaching, although a part of the Gospel, merely provided a foundational lesson that unequivocally pointed to the presence of Christ. It is crucial for individuals to recognize God's manifestation and not remain apathetic or indifferent.
-- 🔄 Matthew 11:13 (attempt 2, 94 words, 29.85% quotes quality score: 1.5880412110705144, V2 normalized quality score: 44.14, commentator tiers 1-3: 0.0%, 51.01%, 48.99%) 
+- Attempt 2 BHT: With John the Baptist's arrival, a new dispensation began, closing the era of the prophets and the law of Moses. The law and the prophets, presented through figures and shadows, didn't fully reveal God's presence to men. John's preaching, an initial lesson within the Gospel, foretold plainly the coming of Christ. Subsequently, the prophecies about the Messiah and His kingdom ceased, as the old dispensation expired and the new commenced. This transition is supported by Luke 16:16. It is crucial for individuals not to remain apathetic when God's presence is made known to them.
+- 🔄 Matthew 11:13 (attempt 2, 98 words, 31.34% quotes quality score: 1.5893655372509605, V2 normalized quality score: 44.19, commentator tiers 1-3: 0.0%, 50.9%, 49.1%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: John the Baptist's preaching marked the transition to a new era, signifying the end of the old dispensation guided by the law and the prophets. His message of the impending kingdom of heaven not only fulfilled prophecies but also sealed the absence of further prophecies about the Messiah and his kingdom. John's role as the precursor to Christ emphasized the significance of recognizing God's manifestation and not remaining indifferent. His preaching was just the beginning, laying the groundwork for the Gospel and directing attention to the presence of Christ.
-- 🔄 Matthew 11:13 (attempt 3, 92 words, 29.31% quotes quality score: 1.6501728871913315, V2 normalized quality score: 46.21, commentator tiers 1-3: 0.0%, 52.19%, 47.81%) 
+- Attempt 3 BHT: John the Baptist's arrival marked the inauguration of a new era, signifying the end of the previous dispensation led by the prophets and the law of Moses. While the law and the prophets portrayed God through symbols and shadows, they fell short of presenting His complete presence. John, in his preaching, offered an initial lesson within the Gospel, boldly proclaiming the imminent arrival of Christ. As a result, the prophecies concerning the Messiah's kingdom ceased, initiating the transition from the old to the new dispensation. The significance of John's role is confirmed in Luke 16:16.
+- 🔄 Matthew 11:13 (attempt 3, 97 words, 25.4% quotes quality score: 1.707714467084852, V2 normalized quality score: 48.12, commentator tiers 1-3: 0.0%, 53.44%, 46.56%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: John the Baptist played a pivotal role in introducing a new era, bringing an end to the old dispensation governed by the law and the prophets. His proclamation of the kingdom of heaven's imminent arrival fulfilled prophecies and sealed the absence of future prophecies about the Messiah and his kingdom. John's preaching, while a part of the Gospel, served as an initial lesson that unequivocally pointed to the presence of Christ. It is essential to acknowledge God's manifestation and not remain impassive or indifferent when encountering it.
-- 🔄 Matthew 11:13 (attempt 4, 90 words, 30.16% quotes quality score: 1.5393694505455304, V2 normalized quality score: 42.53, commentator tiers 1-3: 0.0%, 50.69%, 49.31%) 
+- Attempt 4 BHT: The arrival of John the Baptist marked the beginning of a new dispensation, closing the era of the prophets and the law of Moses. The law and the prophets, though they represented God through figures and shadows, did not fully reveal His presence. John's preaching, as the first lesson within the Gospel, openly proclaimed the coming of Christ. With the establishment of the new era, the prophecies regarding the Messiah's kingdom ceased, bringing an end to the old dispensation. This transition is affirmed in Luke 16:16.
+- 🔄 Matthew 11:13 (attempt 4, 87 words, 34.48% quotes quality score: 1.7900389040975342, V2 normalized quality score: 50.86, commentator tiers 1-3: 0.0%, 53.14%, 46.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: John the Baptist marked the transition to a new era, closing the previous dispensation associated with the law and the prophets. Through his preaching, he prophesied the coming of the Messiah and his kingdom, fulfilling what was previously written. John's role was foundational, serving as a precursor to Christ's presence. Since his time, there have been no prophecies concerning the Messiah, highlighting the significance of recognizing and responding to God's manifestation. It is crucial not to remain indifferent when experiencing God's presence and the fulfillment of His plans.
-- 🔄 Matthew 11:13 (attempt 5, 92 words, 33.33% quotes quality score: 1.6174987895180988, V2 normalized quality score: 45.12, commentator tiers 1-3: 0.0%, 51.32%, 48.68%) 
+- Attempt 5 BHT: John the Baptist ushered in a new era, signifying the conclusion of the old dispensation governed by the prophets and the law of Moses. While the law and the prophets depicted God through symbolic means, they didn't fully reveal His presence. John's preaching, though a part of the Gospel, served as an initial lesson, explicitly proclaiming the arrival of Christ. Within this new era, the prophecies regarding the Messiah and His kingdom ceased, marking the end of the old dispensation and the dawn of the new.
+- 🔄 Matthew 11:13 (attempt 5, 88 words, 30.36% quotes quality score: 1.9689291470003394, V2 normalized quality score: 56.81, commentator tiers 1-3: 0.0%, 55.55%, 44.45%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 11:13 bht prompt v0.8 (92 words, 29.31% quotes)
-- quality score: 1.6501728871913315, V2 normalized quality score: 46.21, commentator tiers 1-3: 0.0%, 52.19%, 47.81%)
+- ✅ Matthew 11:13 bht prompt v0.8 (88 words, 30.36% quotes)
+- quality score: 1.9689291470003394, V2 normalized quality score: 56.81, commentator tiers 1-3: 0.0%, 55.55%, 44.45%)

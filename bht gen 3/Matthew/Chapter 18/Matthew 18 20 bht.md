@@ -1,83 +1,84 @@
 # Matthew 18:20 Commentary Help Text
 
 ## BHT:
-When two or three come together in the name of Jesus, he is there with them, presiding over their gathering, directing their actions, and granting them his blessing. This promise highlights the value of unity in prayer and worship. By depending on his assistance and seeking his glory, believers can experience the guidance and presence of Christ. This assurance encourages pious worshippers to unite in piety and holiness, knowing that they will never be deprived of his grace and that he will faithfully lead them in all their endeavors.
+Whenever two or three believers gather together in unity, with a shared desire and faith in Christ, they can be assured of the Father's presence. Jesus places great value on unity in prayer, encouraging believers to come together and offer their prayers as one harmonious voice. This promise of Christ's presence is not limited to a specific number but extends to any gathering that is centered around Him. Therefore, let us come together in unity, laying aside anything that hinders us, and experience the invaluable blessing of His presence among us.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "But not these assemblies only does He deign to countenance and honor. For even two uniting to bring any matter before Him shall find that they are not alone, for My Father is with them, says Jesus."
+1. "For even two uniting to bring any matter before Him shall find that they are not alone, for My Father is with them, says Jesus."
 2. "Next, observe the premium here put upon union in prayer. As this cannot exist with fewer than two, so by letting it down so low as that number, He gives the utmost conceivable encouragement to union in this exercise."
-3. "Thus will He be the living Conductor of the prayer upward, and the answer downward."
+3. "But further, it is not merely union in prayer for the same thing—for that might be with very jarring ideas of the thing to be desired—but it is to symphonious prayer, the prayer by kindred spirits, members of one family, servants of one Lord, constrained by the same love, fighting under one banner, cheered by assurances of the same victory; a living and loving union, whose voice in the divine ear is as the sound of many waters."
 
 ### Albert Barnes:
-1. "Wherever two or three are assembled together in his name, he is in the midst of them."
+1. "He affirms that wherever two or three are assembled together in his name, he is in the midst of them."
 2. "Nothing could more clearly prove that Jesus must be omnipresent, and, of course, be God."
 3. "Millions thus at the same time, in every quarter of the globe, worship in his name, and experience the truth of the promise that he is present with them."
 
 ### Marvin Vincent:
-1. "In my name [εις το εμον ονομα]."
-2. "When two or three are drawn together into Christ as the common center of their desire and faith."
+1. "In my name...When two or three are drawn together into Christ as the common center of their desire and faith."
+2. "Two or three are drawn together into Christ as the common center of their desire and faith."
+3. "When two or three are drawn together into Christ."
 
 ### John Calvin:
-1. "There is therefore no reason to doubt that those who give themselves up to his direction will derive most desirable advantage from his presence."
-2. "And since it is an invaluable blessing to have Christ for our director in all our affairs, to bless our deliberations and their results; and since, on the other hand, nothing can be more miserable than to be deprived of his grace, this promise ought to add no small excitement to us to unite with each other in piety and holiness."
+1. "And since it is an invaluable blessing to have Christ for our director in all our affairs, to bless our deliberations and their results; and since, on the other hand, nothing can be more miserable than to be deprived of his grace, this promise ought to add no small excitement to us to unite with each other in piety and holiness."
+2. "If therefore we do not wish to expose Christ to their ridicule, and at the same time to overturn what he has here promised, we must know first of all what is meant by this phrase. It means that those who are assembled together, laying aside every thing that hinders them from approaching to Christ, shall sincerely raise their desires to him, shall yield obedience to his word, and allow themselves to be governed by the Spirit."
 3. "Let us therefore know that none but the pious worshippers of God, who sincerely seek Christ, are encouraged to entertain the confident hope that he will never leave them."
 
 ### Philip Schaff:
-1. "The ground of the promised answer is not human agreement, but the presence of Christ." 
-2. "The order gives an intimation of increase." 
-3. "Agreement in prayer had the promise of an answer; unity in the name of Jesus that of Christ’s presence."
+1. "The ground of the promised answer is not human agreement, but the presence of Christ."
+2. "Agreement in prayer had the promise of an answer; unity in the name of Jesus that of Christ’s presence."
+3. "The marks of a true Church: not size, success, nor succession, but an inward life of prayer and an outward life of confession."
 
 ### Archibald T. Robertson:
-1. "This blessed promise implies that those gathered together are really disciples with the spirit of Christ as well as 'in his name.'"
+1. "This blessed promise implies that those gathered together are really disciples with the spirit of Christ as well as 'in his name'." 
 2. "Wherever there are (two) they are not without God, and wherever there is one alone I say I am with him."
 3. "Raise the stone and there thou shalt find me, cleave the wood and there am I."
 
 ### John Gill:
-1. "though the number is ever so few that are met together to pray to God; or to hear his word, attend on his ordinances, or do the business of his house, or transact any affair that is for the glory of God, and the good of souls, in my name, says Christ; that is, by his authority, depending on his assistance, calling upon his name, and making use of it, and seeking the glory of it."
+1. "Though the number is ever so few that are met together...in my name, says Christ; that is, by his authority, depending on his assistance, calling upon his name, and making use of it, and seeking the glory of it." 
 2. "there am I in the midst of them; presiding over them, ruling in their hearts, directing their counsels, assisting them in all they are concerned, confirming what they do, and giving a blessing and success to all they are engaged in."
-3. "The Jews, though they say there is no congregation less than ten, yet own that the divine presence may be with a lesser number, even as small an one as here mentioned."
+3. "The divine presence may be with a lesser number, even as small an one as here mentioned."
 
 ### John Wesley:
-1. "Where two or three are gathered together in my name — That is, to worship me."
-2. "I am in the midst of them — By my Spirit, to quicken their prayers, guide their counsels, and answer their petitions."
+1. "Where two or three are gathered together in my name...to worship me."
+2. "I am in the midst of them...to quicken their prayers, guide their counsels, and answer their petitions."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:49:49
+- Timestamp: 12-25-2023 19:30:23
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 44.62%
-- BHT Quality Score: 1.7772731654101244
+- BHT Word Count: 93
+- BHT Commentary Usage: 47.06%
+- BHT Quality Score: 1.9763397237048275
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['actions', 'all', 'and', 'assistance', 'assurance', 'be', 'believers', 'blessing', 'by', 'can', 'christ', 'come', 'depending', 'deprived', 'directing', 'encourages', 'endeavors', 'experience', 'faithfully', 'gathering', 'glory', 'grace', 'granting', 'guidance', 'he', 'highlights', 'his', 'holiness', 'in', 'is', 'jesus', 'knowing', 'lead', 'name', 'never', 'of', 'on', 'or', 'over', 'piety', 'pious', 'prayer', 'presence', 'presiding', 'promise', 'seeking', 'that', 'the', 'their', 'them', 'there', 'they', 'this', 'three', 'to', 'together', 'two', 'unite', 'unity', 'value', 'when', 'will', 'with', 'worship', 'worshippers']
+- ChatGPT injected words (68):
+	['a', 'among', 'and', 'any', 'anything', 'around', 'as', 'aside', 'assured', 'be', 'believers', 'blessing', 'but', 'can', 'centered', 'christ', 'come', 'desire', 'encouraging', 'experience', 'extends', 'faith', 'father', 'gather', 'gathering', 'great', 'harmonious', 'him', 'hinders', 'his', 'in', 'invaluable', 'is', 'jesus', 'laying', 'let', 'limited', 'not', 'number', 'of', 'offer', 'on', 'one', 'or', 'places', 'prayer', 'prayers', 'presence', 'promise', 's', 'shared', 'specific', 'that', 'the', 'their', 'therefore', 'they', 'this', 'three', 'to', 'together', 'two', 'unity', 'us', 'value', 'voice', 'whenever', 'with']
 - ChatGPT injected words (significant words only) (36):
-	['actions', 'assistance', 'assurance', 'believers', 'blessing', 'christ', 'come', 'depending', 'deprived', 'directing', 'encourages', 'endeavors', 'experience', 'faithfully', 'gathering', 'glory', 'grace', 'granting', 'guidance', 'highlights', 'holiness', 'jesus', 'knowing', 'lead', 'piety', 'pious', 'prayer', 'presence', 'presiding', 'promise', 'seeking', 'unite', 'unity', 'value', 'worship', 'worshippers']
+	['aside', 'assured', 'believers', 'blessing', 'centered', 'christ', 'come', 'desire', 'encouraging', 'experience', 'extends', 'faith', 'father', 'gather', 'gathering', 'great', 'harmonious', 'hinders', 'invaluable', 'jesus', 'laying', 'let', 'limited', 'number', 'offer', 'places', 'prayer', 'prayers', 'presence', 'promise', 's', 'shared', 'specific', 'unity', 'value', 'voice']
 
 ### Logs
-- Attempt 1 BHT: Whenever even just two or three people gather together in the name of Jesus, he is present among them. This promise encourages unity in prayer, emphasizing the importance of coming together and seeking God's guidance and favor. Jesus assures that when these individuals gather in his authority, depending on his assistance, and seeking his glory, he will not only be present but will also direct their hearts, guide their counsels, and bless their endeavors. This assurance extends to all who sincerely seek Christ and worship God, reminding them of the invaluable advantage of having Christ as their director in all aspects of their lives.
-- 🔄 Matthew 18:20 (attempt 1, 105 words, 44.59% quotes quality score: 1.786780760650882, V2 normalized quality score: 50.75, commentator tiers 1-3: 30.3%, 29.31%, 40.4%) 
+- Attempt 1 BHT: Whenever two or three believers come together with a shared desire and faith in Christ, they can be confident that the Father is with them. Jesus places great value on unity in prayer, encouraging believers to come together and offer their prayers as one harmonious voice. It is not simply the act of praying together, but the unity of hearts and minds, with a common purpose and love for God, that brings about the promised presence of Christ. This promise extends to all disciples who gather in the name of Jesus, drawing together as one family under His authority and seeking His glory. In these gatherings, Christ presides over them, ruling in their hearts, directing their counsels, and blessing their endeavors. Even when the number is small, as long as they gather in His name, Christ is in their midst, ready to guide their prayers and answer their petitions. Therefore, let us come together in unity, laying aside anything that hinders us from approaching Christ, so that we may experience the invaluable blessing of His presence among us.
+- 🔄 Matthew 18:20 (attempt 1, 178 words, 42.06% quotes quality score: 1.9884888596446373, V2 normalized quality score: 57.46, commentator tiers 1-3: 33.94%, 31.69%, 34.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: When two or three gather in Jesus' name, he is present among them, guiding their prayers and actions. This encourages unity and emphasizes the privilege of having Christ as their director. Such gatherings, whether for worship, prayer, or any godly purpose, are not overlooked by God. The promise of Christ's presence adds motivation for believers to come together and seek his guidance and grace. These words assure that sincere worshippers who sincerely seek Christ with piety and holiness can confidently rely on his never-ending presence in their midst.
-- 🔄 Matthew 18:20 (attempt 2, 90 words, 44.59% quotes quality score: 1.7593191318250954, V2 normalized quality score: 49.84, commentator tiers 1-3: 29.24%, 31.61%, 39.15%) 
+- Attempt 2 BHT: When two or three believers gather together in unity, with a shared desire and faith in Christ, they can be assured of the Father's presence. Jesus places great importance on union in prayer, encouraging believers to come together as a unified voice. This symphonious prayer, coming from kindred spirits, bound by the same love, and fighting under one banner, is pleasing to God. The promise of Christ's presence is not limited to a certain number, but rather extends to any gathering that is centered around Him. Therefore, let us join in prayer, seeking unity in our worship of Him.
+- 🔄 Matthew 18:20 (attempt 2, 101 words, 44.74% quotes quality score: 1.939509510587771, V2 normalized quality score: 55.83, commentator tiers 1-3: 34.17%, 34.11%, 31.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When two or three come together in the name of Jesus, he is there with them, presiding over their gathering, directing their actions, and granting them his blessing. This promise highlights the value of unity in prayer and worship. By depending on his assistance and seeking his glory, believers can experience the guidance and presence of Christ. This assurance encourages pious worshippers to unite in piety and holiness, knowing that they will never be deprived of his grace and that he will faithfully lead them in all their endeavors.
-- 🔄 Matthew 18:20 (attempt 3, 89 words, 44.62% quotes quality score: 1.7772731654101244, V2 normalized quality score: 50.44, commentator tiers 1-3: 28.9%, 31.8%, 39.31%) 
+- Attempt 3 BHT: Whenever two or three believers come together with a shared desire and faith in Christ, they can be confident that the Father is with them. Jesus values unity in prayer, encouraging believers to come together as one harmonious voice. This promise of Christ's presence is not dependent on the size of the group, but rather on their gathering in His name and seeking His glory. In these gatherings, Christ presides over them, guiding their prayers and answering their petitions. Let us therefore gather in unity, putting aside anything that hinders us, and experience the invaluable blessing of His presence among us.
+- 🔄 Matthew 18:20 (attempt 3, 102 words, 47.22% quotes quality score: 1.9771987232517088, V2 normalized quality score: 57.08, commentator tiers 1-3: 33.48%, 32.84%, 33.68%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Whenever even just two or three people gather together in the name of Jesus, he is present among them, presiding over their gathering, directing their counsels, and answering their petitions. This promise encourages unity in prayer, emphasizing the importance of seeking God's guidance and favor together. Sincere worshippers who truly seek Christ can confidently expect his constant presence, benefiting from his direction and grace. This assurance adds motivation for believers to come together, trusting in his authority and relying on his assistance in all aspects of their lives.
-- 🔄 Matthew 18:20 (attempt 4, 89 words, 38.03% quotes quality score: 1.7267466783202905, V2 normalized quality score: 48.76, commentator tiers 1-3: 27.75%, 30.99%, 41.26%) 
+- Attempt 4 BHT: Whenever two or three believers gather together in unity, with a shared desire and faith in Christ, they can be assured of the Father's presence. Jesus places great value on unity in prayer, encouraging believers to come together and offer their prayers as one harmonious voice. This promise of Christ's presence is not limited to a specific number but extends to any gathering that is centered around Him. Therefore, let us come together in unity, laying aside anything that hinders us, and experience the invaluable blessing of His presence among us.
+- 🔄 Matthew 18:20 (attempt 4, 93 words, 47.06% quotes quality score: 1.9763397237048275, V2 normalized quality score: 57.05, commentator tiers 1-3: 32.68%, 35.51%, 31.81%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: When two or three gather in Jesus' name, he is present among them, guiding their prayers and actions. This encourages unity and emphasizes the importance of seeking God's guidance. Jesus assures that when they gather in his authority, he will direct and bless their endeavors. This assurance extends to all who sincerely seek Christ, reminding them of the invaluable advantage of having him as their guide. The promise of Christ's presence adds motivation for believers to come together, seeking his direction and grace.
-- 🔄 Matthew 18:20 (attempt 5, 85 words, 41.27% quotes quality score: 1.6898974700301999, V2 normalized quality score: 47.53, commentator tiers 1-3: 29.54%, 31.46%, 39.0%) 
+- Attempt 5 BHT: Whenever two or three believers gather together in unity, with a shared desire and faith in Christ, they can be confident that the Father is with them. Jesus values unity in prayer, encouraging believers to come together as one harmonious voice. This promise of Christ's presence is not contingent on the number of people, but on their gathering in His name and seeking His glory. In these gatherings, Christ presides over them, guiding their prayers and answering their petitions. Let us, therefore, gather in unity, setting aside anything that hinders us, and experience the invaluable blessing of His presence among us.
+- 🔄 Matthew 18:20 (attempt 5, 102 words, 46.48% quotes quality score: 1.9955016433371615, V2 normalized quality score: 57.69, commentator tiers 1-3: 32.64%, 33.98%, 33.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 18:20 bht prompt v0.8 (89 words, 44.62% quotes)
-- quality score: 1.7772731654101244, V2 normalized quality score: 50.44, commentator tiers 1-3: 28.9%, 31.8%, 39.31%)
+- ✅ Matthew 18:20 bht prompt v0.8 (93 words, 47.06% quotes)
+- quality score: 1.9763397237048275, V2 normalized quality score: 57.05, commentator tiers 1-3: 32.68%, 35.51%, 31.81%)

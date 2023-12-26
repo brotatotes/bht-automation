@@ -1,37 +1,38 @@
 # 1 Timothy 5:15 Commentary Help Text
 
 ## BHT:
-Some young widows have already turned aside after Satan, the seducer, giving occasion for reproach. These widows have followed the great Tempter instead of the Lord Jesus, leading them astray from the right path. Their actions have exposed them to the revilings of those who, consciously or unconsciously, are doing the work of Satan. This serves as a reminder that even the most holy ordinances can be tainted by the wickedness of people. Therefore, it is crucial to remain steadfast and not deviate from the Lord, for turning aside leads to bondage under Satan.
+Some young widows are already turned aside after Satan, the seducer, following the great Tempter rather than the Lord Jesus. They have been drawn away from the right path by the great Adversary, exposing themselves to revilings and causing mischief through their idleness. It is a warning that even those who were once children of God can become slaves of Satan when they turn aside from the truth and the government of Christ.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "Some (widows) are already turned aside after Satan, the seducer."
 2. "Satan finds some mischief still for the idle hands to do."
-3. "They have given occasion of reproach."
+3. "Satan...by such errors as are stigmatized...sexual passion, idleness, &c."
 
 ### Albert Barnes:
 1. "For some are already turned aside after Satan - That is, some young widows." 
-2. "The meaning is, that in the respects above mentioned 1 Timothy 5:13, they had followed the great Tempter, rather than the Lord Jesus." 
-3. "This is stated as a reason why they should not be admitted into the number of the widows who were to be maintained at the expense of the church, and to whom the care of the younger female members was to be committed."
+2. "They had followed the great Tempter, rather than the Lord Jesus." 
+3. "This is stated as a reason why they should not be admitted into the number of the widows who were to be maintained at the expense of the church."
 
 ### John Calvin:
 1. "It is certain, that there is no ordinance so holy that some evil may not arise out of it through the wickedness of men."
 2. "If the revolt of some women was regarded by him as a sufficiently strong argument for seeking a universal remedy, how many arguments would the Papists have for abolishing their filthy celibacy, if they had any regard to edification!"
-3. "We learn from this how destructive is turning aside from the right course, since, from being children of God, it makes us slaves of Satan."
+3. "We learn from this how destructive is turning aside from the right course, since, from being children of God, it makes us slaves of Satan, and, by withdrawing us from the government of Christ, places Satan over us as our guide."
 
 ### Philip Schaff:
 1. "The warning was not uncalled for. Facts had shown that there was urgent need for it."
 2. "Those of whom he speaks had been turned out of the right path by the great Adversary, and so were exposed to the revilings of those who, consciously or unconsciously, were doing his work."
-3. "The Greek, indeed, refers to some definite time present to St. Paul’s thoughts, probably that of his last visit to Ephesus."
+3. "Those of whom he speaks had been turned out of the right path by the great Adversary."
 
 ### Archibald T. Robertson:
-1. "Are turned aside (εξετραπησαν)." 
-2. "After Satan (οπισω του Σατανα)."
+1. "Are turned aside (εξετραπησαν)."
+2. "Second aorist (effective) passive indicative of εκτρεπω."
+3. "Late use of οπισω (behind) as a preposition."
 
 ### John Gill:
 1. "For some are already turned aside after Satan."
-2. "They turned their backs on Christ, and gave themselves up to carnal lusts and pleasures, and an idle and impure life and conversation."
-3. "Everyone that apostatizes from a profession of Christ [...] may be said to turn aside after Satan."
+2. "Meaning some of those younger widows, whom the apostle knew, and had observed to have departed from the faith they first professed."
+3. "For so everyone that apostatizes from a profession of Christ, and follows either false teachers, and their doctrines, or any sinful and impure way of life, may be said to turn aside after Satan."
 
 ### John Wesley:
 1. Some — Widows.
@@ -41,39 +42,36 @@ Have turned aside after Satan — Who has drawn them from Christ.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:29:12
+- Timestamp: 12-25-2023 20:08:47
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 45.07%
-- BHT Quality Score: 1.752156744976983
+- BHT Word Count: 73
+- BHT Commentary Usage: 50.85%
+- BHT Quality Score: 1.7176543837487106
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (71):
-	['a', 'actions', 'after', 'already', 'and', 'are', 'as', 'aside', 'astray', 'be', 'bondage', 'by', 'can', 'consciously', 'crucial', 'deviate', 'doing', 'even', 'exposed', 'followed', 'for', 'from', 'giving', 'great', 'have', 'holy', 'instead', 'is', 'it', 'jesus', 'leading', 'leads', 'lord', 'most', 'not', 'occasion', 'of', 'or', 'ordinances', 'path', 'people', 'remain', 'reminder', 'reproach', 'revilings', 'right', 'satan', 'seducer', 'serves', 'some', 'steadfast', 'tainted', 'tempter', 'that', 'the', 'their', 'them', 'therefore', 'these', 'this', 'those', 'to', 'turned', 'turning', 'unconsciously', 'under', 'who', 'wickedness', 'widows', 'work', 'young']
-- ChatGPT injected words (significant words only) (39):
-	['actions', 'aside', 'astray', 'bondage', 'consciously', 'crucial', 'deviate', 'exposed', 'followed', 'giving', 'great', 'holy', 'instead', 'jesus', 'leading', 'leads', 'lord', 'occasion', 'ordinances', 'path', 'people', 'remain', 'reminder', 'reproach', 'revilings', 'right', 'satan', 'seducer', 'serves', 'steadfast', 'tainted', 'tempter', 'turned', 'turning', 'unconsciously', 'wickedness', 'widows', 'work', 'young']
+- ChatGPT injected words (59):
+	['a', 'adversary', 'after', 'already', 'and', 'are', 'aside', 'away', 'become', 'been', 'by', 'can', 'causing', 'children', 'christ', 'drawn', 'even', 'exposing', 'following', 'from', 'god', 'government', 'great', 'have', 'idleness', 'is', 'it', 'jesus', 'lord', 'mischief', 'of', 'once', 'path', 'rather', 'revilings', 'right', 'satan', 'seducer', 'slaves', 'some', 'tempter', 'than', 'that', 'the', 'their', 'themselves', 'they', 'those', 'through', 'to', 'truth', 'turn', 'turned', 'warning', 'were', 'when', 'who', 'widows', 'young']
+- ChatGPT injected words (significant words only) (29):
+	['adversary', 'aside', 'away', 'causing', 'children', 'christ', 'drawn', 'exposing', 'following', 'god', 'government', 'great', 'idleness', 'jesus', 'lord', 'mischief', 'path', 'revilings', 'right', 'satan', 'seducer', 'slaves', 'tempter', 'truth', 'turn', 'turned', 'warning', 'widows', 'young']
 
 ### Logs
-- Attempt 1 BHT: Some young widows have already turned aside after Satan, the great seducer, causing reproach to be brought upon them. These widows have been led astray from the right path and have followed the temptations of the enemy, exposing themselves to the revilings of those who are doing his work. It is clear that even the most holy ordinance can be corrupted by the wickedness of individuals. Therefore, it is crucial to remain steadfast and not deviate from the right course, for turning aside from the Lord turns us into slaves of Satan.
-- 🔄 1 Timothy 5:15 (attempt 1, 92 words, 47.76% quotes quality score: 1.684151458056696, V2 normalized quality score: 47.34, commentator tiers 1-3: 31.06%, 28.42%, 40.51%) 
+- Attempt 1 BHT: Some young widows are already turned aside after Satan, the seducer, following the great Tempter rather than the Lord Jesus. They have been drawn away from the right path by the great Adversary, exposing themselves to revilings and causing mischief through their idleness. It is a warning that even those who were once children of God can become slaves of Satan when they turn aside from the truth and the government of Christ. This serves as a reminder that no ordinance is so holy that evil cannot arise from it through the wickedness of men, and a caution against apostasy.
+- 🔄 1 Timothy 5:15 (attempt 1, 100 words, 48.0% quotes quality score: 1.6082379699723774, V2 normalized quality score: 44.82, commentator tiers 1-3: 21.29%, 34.24%, 44.47%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Some young widows have already turned aside after Satan, giving occasion for reproach. They have followed the temptations of the great seducer and have been drawn away from the right path. By turning their backs on Christ, they have become slaves of Satan, exposing themselves to reviling. It is a stark reminder that even the holiest of ordinances can be corrupted by the wickedness of individuals. Therefore, it is imperative to stay firm and not deviate from the Lord, for straying leads to bondage under the influence of Satan.
-- 🔄 1 Timothy 5:15 (attempt 2, 89 words, 41.54% quotes quality score: 1.7448260718974202, V2 normalized quality score: 49.36, commentator tiers 1-3: 36.31%, 24.0%, 39.69%) 
+- Attempt 2 BHT: Some young widows are already turned aside after Satan, the seducer, following the great Tempter rather than the Lord Jesus. They have been drawn away from the right path by the great Adversary, exposing themselves to revilings and causing mischief through their idleness. It is a warning that even those who were once children of God can become slaves of Satan when they turn aside from the truth and the government of Christ.
+- 🔄 1 Timothy 5:15 (attempt 2, 73 words, 50.85% quotes quality score: 1.7176543837487106, V2 normalized quality score: 48.45, commentator tiers 1-3: 23.12%, 34.69%, 42.19%)
+- Attempt 3 BHT: Some widows have already been led astray by Satan, the great seducer, and have turned aside from the right path. They have allowed themselves to be influenced by the temptations of sexual passion and idleness. This turning aside has been a result of the wickedness and deception of the Evil One, who constantly seeks to lead believers astray. The apostle Paul warns against admitting these young widows into the group of those who are to be supported by the church. The consequences of straying from the truth are dire, as it places believers under the destructive influence and control of Satan.
+- 🔄 1 Timothy 5:15 (attempt 3, 101 words, 38.81% quotes quality score: 1.5021326100473087, V2 normalized quality score: 41.29, commentator tiers 1-3: 26.08%, 33.12%, 40.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Some young widows have already turned aside after Satan, the seducer, giving occasion for reproach. These widows have followed the great Tempter instead of the Lord Jesus, leading them astray from the right path. Their actions have exposed them to the revilings of those who, consciously or unconsciously, are doing the work of Satan. This serves as a reminder that even the most holy ordinances can be tainted by the wickedness of people. Therefore, it is crucial to remain steadfast and not deviate from the Lord, for turning aside leads to bondage under Satan.
-- 🔄 1 Timothy 5:15 (attempt 3, 94 words, 45.07% quotes quality score: 1.752156744976983, V2 normalized quality score: 49.6, commentator tiers 1-3: 34.34%, 27.62%, 38.05%) 
+- Attempt 4 BHT: Some widows have already turned aside after Satan, the seducer who finds mischief for idle hands. The apostle Paul warns against admitting these young widows into the group supported by the church, as they have followed the great Tempter instead of the Lord Jesus. Turning away from the right path leads to being under the destructive influence of Satan. It is a reminder of the danger that can arise from the wickedness of men and highlights the need to stay steadfast in faith.
+- 🔄 1 Timothy 5:15 (attempt 4, 83 words, 38.46% quotes quality score: 1.5907435981348401, V2 normalized quality score: 44.23, commentator tiers 1-3: 28.05%, 32.05%, 39.9%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Some young widows have already turned aside after Satan, the seducer, causing reproach to be brought upon them. These widows have been led astray from the right path and have followed the temptations of the enemy, exposing themselves to the revilings of those who are doing his work. It is clear that even the most holy ordinance can be corrupted by the wickedness of individuals. Therefore, it is crucial to remain steadfast and not deviate from the right course, for turning aside from the Lord turns us into slaves of Satan.
-- 🔄 1 Timothy 5:15 (attempt 4, 91 words, 48.48% quotes quality score: 1.6956237538194605, V2 normalized quality score: 47.72, commentator tiers 1-3: 31.7%, 28.12%, 40.19%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Some widows have already been turned aside after Satan, the seducer, who finds mischief for idle hands. The apostle Paul warns against admitting these young widows into the supported group, as they have followed the great Tempter rather than the Lord Jesus. Turning away from the right path puts believers under the destructive influence of Satan and exposes them to revilings. It highlights the importance of staying steadfast in faith and avoiding the temptations and deceptions of the Evil One.
+- 🔄 1 Timothy 5:15 (attempt 5, 80 words, 37.5% quotes quality score: 1.606074538232361, V2 normalized quality score: 44.74, commentator tiers 1-3: 27.16%, 32.19%, 40.65%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Some young widows have already turned aside after Satan, giving occasion for reproach. They have followed the temptations of the great seducer and have been drawn away from the right path. By turning their backs on Christ, they have become slaves of Satan, exposing themselves to reviling. It is a stark reminder that even the holiest of ordinances can be corrupted by the wickedness of individuals. Therefore, it is imperative to stay firm and not deviate from the Lord, for straying leads to bondage under the influence of Satan.
-- 🔄 1 Timothy 5:15 (attempt 5, 89 words, 41.54% quotes quality score: 1.7448260718974202, V2 normalized quality score: 49.36, commentator tiers 1-3: 36.31%, 24.0%, 39.69%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Timothy 5:15 bht prompt v0.8 (94 words, 45.07% quotes)
-- quality score: 1.752156744976983, V2 normalized quality score: 49.6, commentator tiers 1-3: 34.34%, 27.62%, 38.05%)
+- ✅ 1 Timothy 5:15 bht prompt v0.8 (73 words, 50.85% quotes)
+- quality score: 1.7176543837487106, V2 normalized quality score: 48.45, commentator tiers 1-3: 23.12%, 34.69%, 42.19%)

@@ -1,34 +1,33 @@
 {
-    "timestamp": "12-19-2023 23:48:36",
+    "timestamp": "12-25-2023 20:08:47",
     "verseRef": "Matthew 15:19",
     "bestBHT": {
-        "bht": "Evil thoughts and actions emerge from the heart, leading to detractions, debates, and a disheartening list of sins. To attain wholeness, the soul must be healed, for it serves as the origin of both good and evil. Renouncing wicked thoughts and desires is crucial, as they give birth to a variety of transgressions, such as murder and railings. Recognizing that these sins are purposeful acts for which individuals are accountable underscores the necessity of guarding against evil.",
-        "wordCount": 77,
-        "quoteTokenProportion": 37.5,
-        "qualityScore": 1.6515637648118453,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+        "bht": "The evil that emerges from the heart takes shape in the form of reasonings or considerations about certain actions. It encompasses desires for more, various forms of wickedness, deceit, and even lasciviousness. This grim catalog of sins highlights the deeply corrupt nature of the heart. All good and evil, whether in the body or in human nature, stem from the soul and spill over into actions. Therefore, to address the root of these sins and bring about true transformation, the soul must be healed and purified.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.5830713258550493,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.98,
         "commentatorTierSimilarities": [
-            24.3,
-            34.34,
-            41.36
+            26.74,
+            32.46,
+            40.8
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "The first shape which the evil that is in the heart takes, when it begins actively to stir, is that of 'considerations' or 'reasonings' on certain suggested actions.",
-            "Detractions, whether directed against God or man; here the reference seems to be to the latter.",
+            "covetousnesses'\u2014or desires after more; 'wickednesses'\u2014here meaning, perhaps, malignities of various forms; 'deceit, lasciviousness'\u2014meaning, excess or enormity of any kind, though by later writers restricted to lewdness.",
             "How appalling is this black catalogue!"
         ],
         "Marvin Vincent": [
-            "For all good and evil, whether in the body or in human nature, originates, as he declared, in the soul.\" ",
-            "If the head and body are to be well, you must begin by curing the soul.",
-            "Thoughts, lit., reasonings or disputings, like the captious questioning of the Pharisees about washing hands."
+            "For all good and evil, whether in the body or in human nature, originates, as he declared, in the soul, and overflows from thence, as from the head into the eyes; and therefore, if the head and body are to be well, you must begin by curing the soul. That is the first thing.",
+            "Thoughts [\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf\u03b9]. Lit., reasonings (compare Mark 9:33, Rev.), or disputings (Philippians 2:14), like the captious questioning of the Pharisees about washing hands."
         ],
         "John Calvin": [
             "Out of the heart of man proceeds all that is sinful and that corrupts by its pollution.",
-            "To say that an evil eye proceeds from the heart is not strictly accurate, but it means, that an unholy heart pollutes the eyes by making them the ministers, or organs, of wicked desires.",
-            "The heart of man is the seat and the source of all evils."
+            "All sins proceed from the wicked and corrupt affections of the heart.",
+            "An unholy heart pollutes the eyes by making them the ministers, or organs, of wicked desires."
         ],
         "Philip Schaff": [
             "For out of the heart proceed evil thoughts, i.e., reasonings, purposes, not mere notions.",
@@ -37,8 +36,8 @@
         ],
         "John Gill": [
             "The thoughts of sin are evil, are to be hated, forsaken, and for which men are accountable to God.",
-            "All wicked imaginations, carnal reasonings, lustful desires, and malicious contrivances, are here included; which take their rise from, and are devised, and forged, in the corrupt heart of man.",
-            "Uncleanness committed between married persons, both in thought, and deed."
+            "[These include] all wicked imaginations, carnal reasonings, lustful desires, and malicious contrivances.",
+            "An evil eye; of envy and covetousness."
         ],
         "John Wesley": [
             "First evil thoughts \u2014 then murders - and the rest.",
@@ -62,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse reveals that the root of evil lies in the heart, manifesting as reasonings and actions directed against both God and man. This dark reality includes detractions, debates, and a list of sins that originates from the corrupt soul. Therefore, the healing of the head and body begins with the cure of the soul, addressing the wicked imaginations, lustful desires, and malicious contrivances that arise within the heart. It is important to recognize that these sins are not mere notions, but purposeful acts for which individuals are accountable. This passage emphasizes the need to guard against evil thoughts and desires, as they can lead to a multitude of sins, such as murders and railings.",
-            "wordCount": 115,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.6643500897386965,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+            "bht": "The verse reveals the insidious nature of the evil that resides in the heart. It begins with subtle considerations or reasonings on certain actions, which can lead to an insatiable desire for more, various forms of wickedness, deceit, and even lasciviousness. The darkness of this catalogue is truly horrifying. However, it is essential to recognize that all good and evil originate in the soul. Therefore, in order to bring healing and restoration, one must first address the state of the soul. This verse not only exposes the corrupt origin of sin but also emphasizes the necessity of purifying the heart to safeguard against its devastating consequences.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 1.3993153562788412,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.87,
             "commentatorTierSimilarities": [
-                25.2,
-                34.85,
-                39.95
+                28.37,
+                31.15,
+                40.47
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The evil in the heart begins with reasonings and actions against both God and man. These include detractions, debates, and a myriad of sins that originate from the corrupt soul. To achieve wholeness, the soul must be healed, for all good and evil stem from it. This entails forsaking wicked thoughts and desires, as they give rise to various transgressions, such as murder and railings. It is vital to acknowledge that these sins are purposeful acts, for which individuals are accountable.",
-            "wordCount": 81,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.6278268325027845,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "bht": "The evil that emerges from the heart takes shape in the form of reasonings or considerations about certain actions. It encompasses desires for more, various forms of wickedness, deceit, and even lasciviousness. This grim catalog of sins highlights the deeply corrupt nature of the heart. All good and evil, whether in the body or in human nature, stem from the soul and spill over into actions. Therefore, to address the root of these sins and bring about true transformation, the soul must be healed and purified.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5830713258550493,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
             "commentatorTierSimilarities": [
-                24.78,
-                34.24,
-                40.99
+                26.74,
+                32.46,
+                40.8
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The root of evil lies in reasonings and actions originating from the heart, including detractions and a disturbing array of sins. To achieve true well-being, the soul must be healed, for it is the source of all good and evil. It is crucial to renounce wicked thoughts and desires, as they lead to a multitude of transgressions, such as murder and railings. Recognizing that these sins are purposeful acts for which individuals are accountable highlights the importance of guarding against evil.",
-            "wordCount": 82,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 1.6178276718107367,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "bht": "Evil takes its initial form in the heart as reasonings or considerations, leading to desires for more, various forms of wickedness, deceit, and lasciviousness. This disturbing list serves as a stark reminder of the depth of darkness that resides within. It is crucial to acknowledge that all good and evil stem from the soul, necessitating the prioritization of soul healing for overall well-being. The origin of sin lies in the innermost being, highlighting the need for a transformation at the deepest level.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.484945781507625,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
             "commentatorTierSimilarities": [
-                24.57,
-                33.82,
-                41.61
+                29.2,
+                31.37,
+                39.42
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The evil that resides in the heart finds expression through reasonings and actions, including detractions and a distressing array of sins. To achieve wholeness, the soul requires healing as it serves as the source of all good and evil. It is essential to reject wicked thoughts and desires, as they give rise to a multitude of transgressions, including murder and railings. Being mindful that these sins are purposeful acts for which individuals are responsible underscores the need to guard against evil.",
+            "bht": "Evil begins its activity by manifesting as reasonings and considerations in the heart. This leads to desires for more, various forms of wickedness, deceit, and lasciviousness. The weight of this distressing list is undeniable. However, it reinforces the understanding that all good and evil originate in the soul, spilling over into actions. True healing and restoration require addressing the core of the soul. Therefore, the eradication of these sins necessitates a transformation from within, an essential step towards purity and righteousness.",
             "wordCount": 81,
-            "quoteTokenProportion": 34.48,
-            "qualityScore": 1.63358004558739,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.66,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3544891418475182,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.38,
             "commentatorTierSimilarities": [
-                23.89,
-                34.66,
-                41.45
+                25.01,
+                31.58,
+                43.41
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Evil thoughts and actions emerge from the heart, leading to detractions, debates, and a disheartening list of sins. To attain wholeness, the soul must be healed, for it serves as the origin of both good and evil. Renouncing wicked thoughts and desires is crucial, as they give birth to a variety of transgressions, such as murder and railings. Recognizing that these sins are purposeful acts for which individuals are accountable underscores the necessity of guarding against evil.",
-            "wordCount": 77,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.6515637648118453,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+            "bht": "At the heart of humanity reside the beginnings of evil\u2014the stirring of reasonings and considerations on certain actions. From this starting point, desires for more, wickedness, deceit, and lasciviousness spring forth. The catalogue of sins is both appalling and extensive. It serves as a sobering reminder that all good and evil originate in the soul, influencing the body and nature. To truly address these sins, one must first attend to the healing of the soul, recognizing its pivotal role in shaping thoughts and actions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4737326832321784,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.34,
             "commentatorTierSimilarities": [
-                24.3,
-                34.34,
-                41.36
+                25.8,
+                32.46,
+                41.74
             ],
             "generationAttempt": 5
         }

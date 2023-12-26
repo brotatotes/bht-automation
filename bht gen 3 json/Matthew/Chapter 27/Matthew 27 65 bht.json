@@ -1,32 +1,32 @@
 {
-    "timestamp": "12-19-2023 23:54:51",
+    "timestamp": "12-25-2023 19:29:22",
     "verseRef": "Matthew 27:65",
     "bestBHT": {
-        "bht": "Pilate grants the Jews' request to have a guard posted at the tomb, telling them to make it as secure as they can. This permission binds them tightly so they cannot escape responsibility. The Jews have their own guard at the tower of Antonia and are given the authority to take additional measures. Although Pilate seems dismissive, his permission is significant and establishes their accountability.",
-        "wordCount": 65,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.6527990798201357,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+        "bht": "The sealing of the sepulchre was made secure with a cord and sealing-clay, as the guards were ordered by the Sanhedrim to fulfill their duty. Pilate allowed them to post their own guard, binding them to the responsibility. By granting this permission, Pilate ensured their accountability and prevented them from evading any consequences. The Jews had their own guard stationed in the tower of Antonia, which served the temple.",
+        "wordCount": 70,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.7610501050957952,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.9,
         "commentatorTierSimilarities": [
-            23.07,
-            42.75,
-            34.19
+            25.38,
+            40.12,
+            34.5
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The sealing was by means of a cord or string passing across the stone at the mouth of the sepulchre, and fastened at either end to the rock by sealing-clay.",
-            "Ye have\u2014the verb rendered may be either 1), indicative, Ye have:\u2014but then the question arises, What guard had they?",
-            "Take a body of men for a guard. And to this latter I rather incline: see the note in my Greek Test."
+            "The guards were under the Sanhedrim is plain from ch. xxviii. 11, where they make their report, not to Pilate, but to the chief priests.",
+            "Take a body of men for a guard. And to this latter I rather incline: see the note in my Greek Test. as ye can] literally as you know how:\u2014in the best manner you can."
         ],
         "Jamieson-Fausset-Brown": [
-            "Ye have a watch\u2014The guards had already acted under orders of the Sanhedrim, with Pilate's consent; but probably they were not clear about employing them as a night watch without Pilate's express authority.",
-            "Go your way, make it as sure as ye can\u2014as ye know how, or in the way ye deem securest.",
-            "Though there may be no irony in this speech, it evidently insinuated that if the event should be contrary to their wish, it would not be for want of sufficient human appliances to prevent it."
+            "Ye have a watch\u2014The guards had already acted under orders.",
+            "make it as sure as ye can\u2014as ye know how, or in the way ye deem securest.",
+            "it would not be for want of sufficient human appliances to prevent it."
         ],
         "Albert Barnes": [
-            "The Jews had a guard of Roman soldiers, who kept watch in the tower of Antonia, on the northwest of the temple.",
+            "Ye have a watch - The Jews had a guard of Roman soldiers, who kept watch in the tower of Antonia, on the northwest of the temple.",
             "Pilate either referred to these, or to the 'watch' that attended the crucifixion - the whole 'band' that had been appointed for that.",
             "As the torments of crucifixion sometimes lasted many days, the band had been probably granted to them during that time, and they were therefore still at the direction of the chief priests."
         ],
@@ -36,7 +36,7 @@
         "John Calvin": [
             "By these words, Pilate means that he grants their request by permitting them to post soldiers to keep watch.",
             "This permission bound them more firmly, so that they could not escape by any evasion.",
-            "With Pilate's signet, they as truly shut their own mouths as they shut up the sepulcher."
+            "With Pilate\u2019s signet they as truly shut their own mouths as they shut up the sepulcher."
         ],
         "Philip Schaff": [
             "Ye have a guard, or, 'have a guard,' i.e., I permit you to take one.",
@@ -44,13 +44,14 @@
             "Pilate shirks the responsibility, but again gives way. Yet this was overruled for good."
         ],
         "Archibald T. Robertson": [
-            "Make it secure for yourselves as you know how.",
-            "Have a guard, a guard of Roman soldiers, not mere temple police.",
+            "Make it secure for yourselves (ingressive aorist middle) as you know how.",
+            "Have a guard (\u03b5\u03c7\u03b5\u03c4\u03b5 \u03ba\u03bf\u03c5\u03c3\u03c4\u03c9\u03b4\u03b9\u03b1\u03bd), present imperative, a guard of Roman soldiers, not mere temple police.",
             "The curt permission to the Jews whom he despised is suitable in the mouth of the Roman official."
         ],
         "John Gill": [
-            "Ye have a watch...take a watch.\" ",
-            "Go your way...make [it] as sure as you can."
+            "ye have a watch, have yea watch",
+            "go your way... make [it] as sure as you can",
+            "satisfy yourselves in this point"
         ],
         "John Wesley": [
             "Ye have a guard \u2014 Of your own, in the tower of Antonia, which was stationed there for the service of the temple."
@@ -73,67 +74,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Pilate grants the Jews' request to have a guard posted at the tomb, telling them to make it as secure as they can. This permission binds them tightly so they cannot escape responsibility. Pilate's words insinuate that if the outcome goes against their wishes, it won't be for lack of human effort to prevent it. The Jews have their own guard at the tower of Antonia and are given the authority to take additional measures. Although Pilate seems dismissive, his permission is significant and establishes their accountability.",
-            "wordCount": 89,
-            "quoteTokenProportion": 44.62,
-            "qualityScore": 1.5980725079962683,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "bht": "The sealing of the sepulchre was done using a cord or string fastened with sealing-clay, making it as secure as possible. The guards, under the jurisdiction of the chief priests, were instructed to ensure the tomb's security to the best of their ability. Pilate granted their request to post soldiers as a means of binding them to their responsibility. This permission also prevented them from escaping any consequences. Pilate's words, though seemingly curt, ultimately sealed their own fate. The Jews had their own guard stationed in the tower of Antonia for the temple's service.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.5951440987278005,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.38,
             "commentatorTierSimilarities": [
-                24.11,
-                41.83,
-                34.06
+                27.31,
+                37.05,
+                35.64
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Pilate grants the Jews' request to have a guard posted at the tomb, telling them to make it as secure as they can. This permission binds them tightly so they cannot escape responsibility. The Jews have their own guard at the tower of Antonia and are given the authority to take additional measures. Although Pilate seems dismissive, his permission is significant and establishes their accountability.",
-            "wordCount": 65,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.6527990798201357,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+            "bht": "The sealing of the sepulchre was made secure with a cord and sealing-clay, as the guards were ordered by the Sanhedrim to fulfill their duty. Pilate allowed them to post their own guard, binding them to the responsibility. By granting this permission, Pilate ensured their accountability and prevented them from evading any consequences. The Jews had their own guard stationed in the tower of Antonia, which served the temple.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.7610501050957952,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
             "commentatorTierSimilarities": [
-                23.07,
-                42.75,
-                34.19
+                25.38,
+                40.12,
+                34.5
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The sealing of the sepulchre was done by fastening a cord across the stone and sealing it with clay. It is uncertain whether Pilate's words were meant to indicate that they already had a guard or if he was telling them to take a guard. Nevertheless, his permission allowed them to post soldiers to keep watch, although Pilate shifted the responsibility onto them. The phrase make it as sure as ye can insinuated that they were to do everything in their power to ensure that nothing would happen to the body. Overall, Pilate's curt permission and the use of the term make it secure demonstrated his disdain for the Jews and their request.",
-            "wordCount": 115,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.698964714103432,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "bht": "The sealing of the sepulchre was done using a cord or string fastened with sealing-clay, making it as secure as possible. The guards, under the jurisdiction of the chief priests, were instructed to ensure the tomb's security to the best of their ability. Pilate granted their request to post soldiers, binding them to their responsibility and preventing them from escaping any consequences. The Jews had their own guard stationed in the tower of Antonia for the temple's service.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7466081545767547,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
             "commentatorTierSimilarities": [
-                30.61,
-                40.54,
-                28.85
+                27.89,
+                37.93,
+                34.18
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The sealing of the sepulchre was done by fastening a cord across the stone, Seal it with clay, Binding them more firmly, so they could not escape. Pilate's permission allowed the Jews to post soldiers to keep watch, but he shifted the responsibility onto them. His dismissive tone and the phrase make it secure demonstrated his disdain for their request. He essentially told them to do everything in their power to ensure that nothing would happen to the body, as if mocking their efforts.",
-            "wordCount": 85,
-            "quoteTokenProportion": 48.53,
-            "qualityScore": 1.4599140896854963,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "bht": "The sealing of the sepulchre was made secure using a cord and sealing-clay, ensuring its utmost security. The guards, under the Sanhedrim's authority, were instructed to fulfill their duty of protecting the tomb. Pilate granted them permission to post soldiers, holding them accountable and preventing any evasions. The Jews had their own guard stationed in the tower of Antonia for the temple's service.",
+            "wordCount": 66,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.737943665811442,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
             "commentatorTierSimilarities": [
-                26.06,
-                36.71,
-                37.22
+                27.49,
+                36.11,
+                36.4
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The sealing of the sepulchre was done by fastening a cord across the stone and sealing it with clay. Whether Pilate's words indicated they already had a guard or that they should take one is uncertain. Nevertheless, his permission allowed them to post soldiers to keep watch, although he shifted the responsibility onto them. The phrase make it as sure as ye can insinuated that they were to do everything in their power to ensure that nothing would happen to the body. Pilate's curt permission and the term make it secure demonstrated his disdain for the Jews and their request.",
-            "wordCount": 102,
-            "quoteTokenProportion": 53.42,
-            "qualityScore": 1.616559162305934,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.09,
+            "bht": "The sealing of the sepulchre involved fastening a cord or string with sealing-clay, making it secure and preventing any tampering. The guards, under the Sanhedrim's jurisdiction, were responsible for ensuring the tomb's safety. Pilate consented to their request, permitting them to post soldiers, holding them accountable for the task. The Jews had their own guard stationed in the tower of Antonia, fulfilling their duty in service to the temple.",
+            "wordCount": 72,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.6834701132424619,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
             "commentatorTierSimilarities": [
-                33.13,
-                37.81,
-                29.06
+                27.82,
+                36.97,
+                35.21
             ],
             "generationAttempt": 5
         }

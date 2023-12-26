@@ -1,54 +1,54 @@
 {
-    "timestamp": "12-19-2023 16:40:43",
+    "timestamp": "12-25-2023 20:08:57",
     "verseRef": "2 Peter 2:14",
     "bestBHT": {
-        "bht": "These individuals are like a vivid picture, unable to see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices, causing them to be cursed individuals. This serves as a warning against the dangers of allowing our eyes to become avenues for lust, and emphasizes the importance of having a stable faith that guards against the deceitful arts and destructive allurements of the ungodly.",
-        "wordCount": 86,
-        "quoteTokenProportion": 34.92,
-        "qualityScore": 1.7167296225627222,
-        "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+        "bht": "These false teachers are perpetually consumed by their adulterous desires, their eyes always fixed on temptation. Their hearts are trained in pursuing immoral desires, unable to resist sin. Like baiters, they entice and prey upon unstable souls, using deceitful arts to allure. Let us remain cautious of their flatteries and steadfast in our faith, as an excessive love of money is the root of all evil and the source of heresy.",
+        "wordCount": 71,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.6876617885969434,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.46,
         "commentatorTierSimilarities": [
-            28.87,
-            37.07,
-            34.07
+            22.5,
+            37.68,
+            39.83
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "full of an adulteress,\" as though they carried about adulteresses always dwelling in their eyes: the eye being the avenue of lust [HORNEIUS]. BENGEL makes the adulteress who fills their eyes, to be \"alluring desire.",
+            "full of adultery...carried about adulteresses always dwelling in their eyes.",
             "that cannot be made to cease from sin.",
-            "children of curse,\" that is, devoted to the curse. Cursing and covetousness, as in Balaam's case, often go together: the curse he designed for Israel fell on Israel's foes and on himself. True believers bless, and curse not, and so are blessed."
+            "children of curse, that is, devoted to the curse."
         ],
         "Albert Barnes": [
-            "The wanton glance is a principal occasion of exciting the sin; and there is much often in dress, and mien, and gesture, to charm the eye and to deepen the debasing passion.",
-            "Those who are not strong in Christian principle, or who are naturally fluctuating and irresolute... [they] allure them to sin.",
-            "The idea here is that these persons had made this their study, and had learned the ways in which men could be induced to part with their money under religious pretences."
+            "The eye was, as it were, full of this passion; it saw nothing else but some occasion for its indulgence; it expressed nothing else but the desire.",
+            "There are many men in whom the presence of the most virtuous woman only excites impure and corrupt desires.",
+            "We should always be on our guard when professedly religious teachers propose to have much to do with money matters."
         ],
         "Marvin Vincent": [
-            "Eyes. Another illustration of Peter's emphasis on sight. It is the instrument of evil no less than of good.\" ",
-            "That cannot cease.\" ",
-            "An heart they have exercised. Better, Rev., having a heart exercised."
+            "Eyes. Another illustration of Peter's emphasis on sight. It is the instrument of evil no less than of good. Compare Matthew 5:28.\" ",
+            "Beguiling. An appropriate word from Peter the fisherman. Rev., enticing.\" ",
+            "An heart they have exercised. Better, Rev., having a heart exercised. Exercised is the word used for gymnastic training, from which gymnastic is derived."
         ],
         "John Calvin": [
-            "He reminds the faithful to beware of their hidden and deceitful arts; for he compares their impostures to hooks which may catch the unwary to their destruction.\" ",
+            "By the metaphor of baiting he reminds the faithful to beware of their hidden and deceitful arts...they have no excuse who suffer themselves to be baited or lured by such flatteries.",
             "Let there be then a stability of faith, and we shall be safe from the artifices of the ungodly.",
-            "He may be understood to mean, that they were so either actively or passively, that is, that they brought a curse with them wherever they went, or that they deserved a curse."
+            "By calling them cursed or execrable children, he may be understood to mean, that they were so either actively or passively, that is, that they brought a curse with them wherever they went, or that they deserved a curse."
         ],
         "Philip Schaff": [
             "having eyes full of an adulteress...having eyes for nothing else but an adulteress, or revealing in their very eyes the adulterous object of their desire.",
-            "and that cannot be made to cease from sin...restlessness and persistence.",
-            "enticing unstable souls...to allure by holding out a bait to one."
+            "cannot be made to cease from sin...adds the strokes of restlessness and persistence to the picture of their sensual profligacy.",
+            "enticing unstable souls...to allure by holding out a bait to one...it means to allure by holding out a bait to one."
         ],
         "Archibald T. Robertson": [
             "Vivid picture of a man who cannot see a woman without lascivious thoughts toward her.",
-            "Insatiable lust.",
+            "Unable to stop. Insatiable lust.",
             "Rhetorical metaphor from the gymnasium."
         ],
         "John Gill": [
-            "Having eyes full of adultery",
-            "A heart they have exercised with covetous practices",
-            "Cursed children"
+            "The heart and the 'eye' are sin's two brokers.",
+            "Having a lewd and infamous woman always in mind and sight, continually looking at her and lusting after her.",
+            "An immoderate love of money, a covetous desire after it, is the root of all evil, the bane of religion, and source of heresy."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "These individuals are described as having eyes full of an adulteress, meaning that their eyes are constantly filled with lustful desires. They cannot cease from sin, engaging in insatiable lust that they exercise with their hearts. They are like a vivid picture of a person who cannot see a woman without lascivious thoughts toward her. This verse serves as a warning against the danger of allowing our eyes to become avenues for lust and desires that lead us astray. It emphasizes the importance of having a stable faith and not being allured by the deceitful arts of the ungodly, who seek to curse and destroy the unwary.",
-            "wordCount": 107,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.7904527326263433,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "bht": "These men are full of adultery, always carrying adulteresses in their eyes and unable to cease from sin. They are like cursed children, devoted to the curse. Peter emphasizes the power of sight, the instrument of both good and evil, comparing it to Jesus' teachings in Matthew 5:28. These false teachers beguile and entice others, their hearts exercised in the pursuit of their immoral desires. It's a vivid picture of insatiable lust, a rhetorical metaphor from the gymnasium. They are like baiters, using hidden and deceitful arts to allure and prey on unstable souls. Let us be wary of their flatteries and remain steadfast in our faith, for an immoderate love of money is the root of all evil and the source of heresy.",
+            "wordCount": 124,
+            "quoteTokenProportion": 29.07,
+            "qualityScore": 1.5975359652448717,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
             "commentatorTierSimilarities": [
-                34.5,
-                37.96,
-                27.54
+                28.88,
+                30.82,
+                40.3
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "These individuals are like a vivid picture, unable to see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices, causing them to be cursed individuals. This serves as a warning against the dangers of allowing our eyes to become avenues for lust, and emphasizes the importance of having a stable faith that guards against the deceitful arts and destructive allurements of the ungodly.",
-            "wordCount": 86,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 1.7167296225627222,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "bht": "These false teachers are consumed by adultery and cannot resist the allure of sinful desires. Their eyes are fixated on the object of their lust, unable to see anything else but temptation. Peter emphasizes the power of sight, highlighting its role in both good and evil. Their hearts are trained in pursuing immoral desires, showcasing their insatiable lust. Like baiters, they entice and prey on the vulnerable. Let us be cautious of their deceitful ways and remain steadfast in our faith, as an excessive love of money leads to all kinds of evil and even heresy.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.6513085839749106,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.25,
             "commentatorTierSimilarities": [
-                28.87,
-                37.07,
-                34.07
+                25.52,
+                35.91,
+                38.56
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "These individuals are like a vivid picture of someone who cannot see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices, causing them to be cursed individuals. This warns against the dangers of allowing our eyes to become avenues for lust and emphasizes the importance of having a stable faith that guards against the deceitful arts and destructive allurements of the ungodly.",
-            "wordCount": 85,
-            "quoteTokenProportion": 38.1,
-            "qualityScore": 1.7120136291080712,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "bht": "These false teachers are constantly driven by their lustful desires and cannot be swayed from their sinful ways. Their eyes are always focused on the object of their lust, as their hearts have become accustomed to pursuing immoral desires. They are like baiters, using deceitful arts to entice and trap those who are unstable. We must remain cautious of their alluring ways and hold firm to our faith, for an excessive love of money is the root of all evil and can lead to dangerous heresies.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.6550208278098564,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
             "commentatorTierSimilarities": [
-                29.26,
-                36.78,
-                33.95
+                20.65,
+                40.26,
+                39.08
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "These individuals are like a vivid picture of someone who cannot see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices. This warns against the dangers of allowing our eyes to become avenues for lust and emphasizes the importance of having a stable faith. It serves as a reminder to be cautious of the deceitful arts and destructive allurements of the ungodly.",
-            "wordCount": 85,
-            "quoteTokenProportion": 39.06,
-            "qualityScore": 1.5753499426458095,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "bht": "These false teachers are perpetually consumed by their adulterous desires, their eyes always fixed on temptation. Their hearts are trained in pursuing immoral desires, unable to resist sin. Like baiters, they entice and prey upon unstable souls, using deceitful arts to allure. Let us remain cautious of their flatteries and steadfast in our faith, as an excessive love of money is the root of all evil and the source of heresy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6876617885969434,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
             "commentatorTierSimilarities": [
-                28.48,
-                35.94,
-                35.57
+                22.5,
+                37.68,
+                39.83
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "These individuals are like a vivid picture of someone who cannot see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices. This warns against the dangers of allowing our eyes to become avenues for lust and emphasizes the importance of having a stable faith. It serves as a reminder to be cautious of the deceitful arts and destructive allurements of the ungodly.",
-            "wordCount": 85,
-            "quoteTokenProportion": 39.06,
-            "qualityScore": 1.5753499426458095,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "bht": "These false teachers are described as being full of adultery and having eyes that are always fixated on their immoral desires. They are unable to cease from sin and are like cursed children who bring a curse wherever they go. Peter highlights the power of sight as the instrument of both good and evil, comparing it to Jesus' teachings in Matthew 5:28. These deceitful individuals entice and prey on unstable souls, luring them with their flatteries and hidden arts. We must be cautious of their influence and remain steadfast in our faith, guarding against the love of money as it is the root of all evil and can lead to heresy.",
+            "wordCount": 110,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.5681306996162871,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
             "commentatorTierSimilarities": [
-                28.48,
-                35.94,
-                35.57
+                24.75,
+                32.24,
+                43.01
             ],
             "generationAttempt": 5
         }

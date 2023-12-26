@@ -1,87 +1,87 @@
 # Matthew 5:22 Commentary Help Text
 
 ## BHT:
-In his teaching, Jesus confronts the misconception that anger without cause is permissible, likening it to incipient murder. He asserts his superiority over the Mosaic regulations and emphasizes that true justice will be rendered by the heart-searching Judge. Jesus employs the term Gehenna, associated with the Valley of Hinnom, to depict a place of future punishment for the wicked. His authoritative words challenge his followers to guard against causeless anger, contemptuous language, and judgment of others.
+Jesus takes the commandment against murder further, warning against causeless anger and hateful words. He explains that expressing contempt for a person's head or heart results in guilt before the divine tribunal and varying degrees of punishment. Gehenna, symbolizing the place of future punishment for the wicked, is mentioned. As the giver of the law, Jesus has the authority to interpret it and condemns anger without cause. He emphasizes that our motives and spirits matter, calling us to a higher standard of love and cautioning against the severity of our words and actions.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "But I say unto you that it is broken even by causeless anger, which is but hatred in the bud, as hatred is incipient murder."
-2. "...just as there are gradations in human courts of judicature, and in the sentences which they pronounce according to the degrees of criminality, so will the judicial treatment of all the breakers of this commandment at the divine tribunal be according to their real criminality before the heart-searching Judge."
-3. "Oh, what holy teaching is this!"
+2. "If by the feelings, much more by those words in which all ill feeling, from the slightest to the most envenomed, are wont to be cast upon a brother."
+3. "Just as there are gradations in human courts of judicature, and in the sentences which they pronounce according to the degrees of criminality, so will the judicial treatment of all the breakers of this commandment at the divine tribunal be according to their real criminality before the heart-searching Judge."
 
 ### Albert Barnes:
-1. "He therefore spoke here and elsewhere as having authority, and not as the scribes."
+1. "Jesus being God as well as man John 1:1, John 1:14, and therefore, being the original giver of the law, had a right to expound it or change it as he pleased."
 2. "What he condemns here is anger without a cause; that is, unjustly, rashly, hastily, where no offence has been given or intended."
-3. "He specifies three forms of such violation: anger without cause, contempt, and abusive language."
+3. "The amount, then, of this difficult and important verse is this: The Jews considered but one crime a violation of the sixth commandment, namely, actual murder, or willful, unlawful taking life. Jesus says that the commandment is much broader."
 
 ### Marvin Vincent:
-1. "The word Gehenna, rendered hell, occurs outside of the Gospels only at James 3:6. It is the Greek representative of the Hebrew Ge - Hinnom, or Valley of Hinnom."
-2. "After this it became the common refuse - place of the city, into which the bodies of criminals, carcasses of animals, and all sorts of filth were cast."
+1. "The word Gehenna, rendered hell, occurs outside of the Gospels only at James 3:6."
+2. "It is the Greek representative of the Hebrew Ge - Hinnom, or Valley of Hinnom, a deep, narrow glen to the south of Jerusalem, where, after the introduction of the worship of the fire - gods by Ahaz, the idolatrous Jews sacrificed their children to Molech."
 3. "From its depth and narrowness, and its fire and ascending smoke, it became the symbol of the place of the future punishment of the wicked."
 
 ### John Calvin:
 1. "Hence we conclude, that truth is of greater weight than custom or the number of years."
-2. "He who shall say to his brother... 'Racha'... it is an interjection of contempt or disdain."
-3. "Γἔεννα (hell) is, beyond all question, a foreign word... the very name might be dreaded by the people as shocking and alarming."
+2. "But, as he who manifests his indignation by bitter language goes farther than this, Christ says, that that man will be held guilty by the whole heavenly council, that he may receive severer punishment."
+3. "Those, again, who break out into reproaches are adjudged to the hell of fire: which implies, that hatred, and every thing that is contrary to love, is enough to expose them to eternal death, though they may have committed no acts of violence."
 
 ### Philip Schaff:
-1. "Angry with his brother. ‘Brother’ is equivalent to neighbor, in the wide sense."
-2. "Thou fool. The Greek word implies ‘stupid fool.’ It may be a Hebrew expression (‘moreh’) containing a charge of wickedness and great impiety."
-3. "General sense: murderous feelings and words are deemed a proper ground of condemnation in Christ’s kingdom."
+1. "This implies equal authority with Him who gave the Decalogue, greater authority than those who expounded it."
+2. "In either case, the whole phrase is a significant expression for the place of future punishment."
+3. "The sin is not in the word and act as such, but in the motive and spirit."
 
 ### Archibald T. Robertson:
-1. "Jesus thus assumes a tone of superiority over the Mosaic regulations and proves it in each of the six examples."
-2. "Raca expresses contempt for a man's head=you stupid! More expresses contempt for his heart and character=you scoundrel."
-3. "Gehenna 'should be carefully distinguished from Hades (αιδης) which is never used for the place of punishment, but for the place of departed spirits, without reference to their moral condition.'"
+1. "But I say unto you... He goes further than the Law into the very heart." 
+2. "Raca expresses contempt for a man's head=you stupid! More expresses contempt for his heart and character=you scoundrel." 
+3. "Gehenna 'should be carefully distinguished from Hades which is never used for the place of punishment, but for the place of departed spirits, without reference to their moral condition.'"
 
 ### John Gill:
-1. "But I say unto you...opposing himself, not to the law of "Moses, thou shalt not kill"; but to the false gloss the ancient doctors had put upon it."
-2. "but it is causeless anger which is here condemned by Christ, as a breach of the law, 'thou shalt not kill'."
-3. "There is a manifest gradation in the text from causeless anger in the breast, or reproachful words; and from thence to a censorious judging of a man's spiritual and eternal estate, which is what is here condemned."
+1. "By 'brother' is meant, not in a religious sense, one that is of the same faith, or in the same church state; nor, in a strict natural sense, one that is so in the bonds of consanguinity; but in a large sense, any man, of whatsoever country or nation."
+2. "It is causeless anger which is here condemned by Christ, as a breach of the law, 'thou shalt not kill'."
+3. "Calling a man by such names was not allowed of by the Jews themselves... which is pretty much what Christ here says, shall be in danger of hell fire."
 
 ### John Wesley:
 1. "Who hath authority to use this language, but the one lawgiver, who is able to save and to destroy."
 2. "We ought not, for any cause, to be angry at the person of the sinner, but at his sins only."
-3. "Therefore both as to its former and latter state, it was a fit emblem of hell."
+3. "Hell fire — In the valley of Hinnom (whence the word in the original is taken) the children were used to be burnt alive to Moloch...Therefore both as to its former and latter state, it was a fit emblem of hell."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:43:59
+- Timestamp: 12-25-2023 19:33:28
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 32.79%
-- BHT Quality Score: 1.8596353018588334
+- BHT Word Count: 94
+- BHT Commentary Usage: 30.3%
+- BHT Quality Score: 1.9374926305828037
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'against', 'and', 'anger', 'asserts', 'associated', 'authoritative', 'be', 'by', 'cause', 'causeless', 'challenge', 'confronts', 'contemptuous', 'depict', 'emphasizes', 'employs', 'followers', 'for', 'future', 'gehenna', 'guard', 'he', 'heart', 'hinnom', 'his', 'in', 'incipient', 'is', 'it', 'jesus', 'judge', 'judgment', 'justice', 'language', 'likening', 'misconception', 'mosaic', 'murder', 'of', 'others', 'over', 'permissible', 'place', 'punishment', 'regulations', 'rendered', 'searching', 'superiority', 'teaching', 'term', 'that', 'the', 'to', 'true', 'valley', 'wicked', 'will', 'with', 'without', 'words']
-- ChatGPT injected words (significant words only) (41):
-	['anger', 'asserts', 'associated', 'authoritative', 'cause', 'causeless', 'challenge', 'confronts', 'contemptuous', 'depict', 'emphasizes', 'employs', 'followers', 'future', 'gehenna', 'guard', 'heart', 'hinnom', 'incipient', 'jesus', 'judge', 'judgment', 'justice', 'language', 'likening', 'misconception', 'mosaic', 'murder', 'permissible', 'place', 'punishment', 'regulations', 'rendered', 'searching', 'superiority', 'teaching', 'term', 'true', 'valley', 'wicked', 'words']
+- ChatGPT injected words (66):
+	['a', 'actions', 'against', 'and', 'anger', 'as', 'authority', 'before', 'calling', 'cause', 'causeless', 'cautioning', 'commandment', 'condemns', 'contempt', 'degrees', 'divine', 'emphasizes', 'explains', 'expressing', 'for', 'further', 'future', 'gehenna', 'giver', 'guilt', 'has', 'hateful', 'he', 'head', 'heart', 'higher', 'in', 'interpret', 'is', 'it', 'jesus', 'law', 'love', 'matter', 'mentioned', 'motives', 'murder', 'of', 'or', 'our', 'person', 'place', 'punishment', 'results', 's', 'severity', 'spirits', 'standard', 'symbolizing', 'takes', 'that', 'the', 'to', 'tribunal', 'us', 'varying', 'warning', 'wicked', 'without', 'words']
+- ChatGPT injected words (significant words only) (46):
+	['actions', 'anger', 'authority', 'calling', 'cause', 'causeless', 'cautioning', 'commandment', 'condemns', 'contempt', 'degrees', 'divine', 'emphasizes', 'explains', 'expressing', 'future', 'gehenna', 'giver', 'guilt', 'hateful', 'head', 'heart', 'higher', 'interpret', 'jesus', 'law', 'love', 'matter', 'mentioned', 'motives', 'murder', 'person', 'place', 'punishment', 'results', 's', 'severity', 'spirits', 'standard', 'symbolizing', 'takes', 'tribunal', 'varying', 'warning', 'wicked', 'words']
 
 ### Logs
-- Attempt 1 BHT: Jesus teaches in Matthew 5:22 that anger, even without cause, is a violation of the commandment against murder. His words reveal that anger harbored in the heart is as destructive as hatred and incipient murder. Jesus warns that such violation will be treated according to their real criminality before the heart-searching Judge. The term Gehenna, meaning hell, symbolizes the place of future punishment for the wicked, distinct from Hades. His authoritative teaching challenges the false interpretations of the Mosaic regulations. Jesus emphasizes that it is not only the act of murder, but also the sinful feelings and words that warrant condemnation. Thus, he calls his followers to guard their hearts against causeless anger and to refrain from contemptuous language and judgment of others.
-- 🔄 Matthew 5:22 (attempt 1, 123 words, 33.73% quotes quality score: 1.7880189142252019, V2 normalized quality score: 50.79, commentator tiers 1-3: 32.49%, 37.05%, 30.47%) 
+- Attempt 1 BHT: Jesus goes beyond the letter of the law and addresses the root of the commandment in Matthew 5:22. He teaches that causeless anger is akin to hatred and is a violation of the sixth commandment. It is not just the act of murder that breaks the commandment, but also the thoughts and words harbored against others. He warns that those who express contempt for their brother's head or heart will be held guilty before the divine tribunal, facing varying degrees of punishment. The word Gehenna, used to describe the place of punishment, symbolizes the Valley of Hinnom where idolatrous Jews sacrificed their children. It represents the future punishment of the wicked, distinct from Hades. Jesus, being both God and man, has the authority to interpret and expand upon the law. He condemns anger without cause, emphasizing the importance of the motive and spirit behind our actions and words. The focus should not be on the person, but on their sins. Ultimately, Jesus calls us to a higher standard of love and urges us to be mindful of the severity of our words and actions.
+- 🔄 Matthew 5:22 (attempt 1, 184 words, 33.63% quotes quality score: 1.8657327779617918, V2 normalized quality score: 53.38, commentator tiers 1-3: 31.97%, 37.03%, 31.0%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In his teaching, Jesus confronts the misconception that anger without cause is permissible, likening it to incipient murder. He asserts his superiority over the Mosaic regulations and emphasizes that true justice will be rendered by the heart-searching Judge. Jesus employs the term Gehenna, associated with the Valley of Hinnom, to depict a place of future punishment for the wicked. His authoritative words challenge his followers to guard against causeless anger, contemptuous language, and judgment of others.
-- 🔄 Matthew 5:22 (attempt 2, 77 words, 32.79% quotes quality score: 1.8596353018588334, V2 normalized quality score: 53.17, commentator tiers 1-3: 32.9%, 37.61%, 29.49%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus delivers a profound teaching in Matthew 5:22 regarding the commandment against murder. He goes beyond the external act and addresses the inner disposition of the heart. His words emphasize that anger, even without cause, is a violation of this commandment, equating it to hatred and incipient murder. He warns that the judicial treatment of such violation will correspond to the true extent of one's guilt before the divine Judge. Jesus uses the term Gehenna, representing the Valley of Hinnom, to illustrate a place of future punishment for the wicked. This teaching reflects Jesus' authority and his call to his followers to examine their hearts, guard against anger and contemptuous language, and refrain from judging others.
-- 🔄 Matthew 5:22 (attempt 3, 116 words, 32.91% quotes quality score: 1.716177659333948, V2 normalized quality score: 48.4, commentator tiers 1-3: 34.28%, 35.32%, 30.4%) 
+- Attempt 2 BHT: Jesus expands on the commandment concerning anger in Matthew 5:22. He warns that causeless anger is akin to both hatred and murder. He goes so far as to say that expressing contempt for a person's head or heart will lead to guilt before the divine tribunal. Gehenna, the place of punishment, is a symbol of the future punishment of the wicked. Jesus, both God and man, has the authority to interpret the law. He condemns anger without cause, emphasizing the significance of our motives and spirits. We are called to a higher standard of love, mindful of the severity of our words and actions.
+- 🔄 Matthew 5:22 (attempt 2, 104 words, 32.39% quotes quality score: 1.7826780605149586, V2 normalized quality score: 50.62, commentator tiers 1-3: 32.91%, 36.25%, 30.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: Jesus' teaching in this verse illuminates the deeper implications of the commandment against murder. He exposes the gravity of causeless anger, as it is rooted in hatred and can be likened to the early stages of murder. Jesus asserts his authority by surpassing the Mosaic regulations and proclaiming the true justice that will be meted out by the divine Judge. The concept of Gehenna, associated with the Valley of Hinnom, serves as a symbolic representation of the future punishment for the wicked. This teaching calls believers to examine their hearts, refrain from contemptuous language, and avoid hasty judgment.
-- 🔄 Matthew 5:22 (attempt 4, 98 words, 31.94% quotes quality score: 1.772515156241758, V2 normalized quality score: 50.28, commentator tiers 1-3: 36.59%, 33.29%, 30.12%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: Jesus' teaching challenges the notion that anger without cause is permissible, collapsing the distinction between hatred and incipient murder. He proclaims his authority by surpassing the Mosaic regulations and exposes the true justice that will be administered by the divine Judge. Through the illustration of Gehenna, associated with the Valley of Hinnom, Jesus vividly depicts the place of future punishment for the wicked. This teaching calls believers to guard their hearts against causeless anger, refrain from contemptuous language, and abstain from rash judgment.
-- 🔄 Matthew 5:22 (attempt 5, 83 words, 30.77% quotes quality score: 1.8191216196812916, V2 normalized quality score: 51.83, commentator tiers 1-3: 36.02%, 34.06%, 29.91%) 
+- Attempt 3 BHT: Jesus takes the commandment against murder further, warning against causeless anger and hateful words. He explains that expressing contempt for a person's head or heart results in guilt before the divine tribunal and varying degrees of punishment. Gehenna, symbolizing the place of future punishment for the wicked, is mentioned. As the giver of the law, Jesus has the authority to interpret it and condemns anger without cause. He emphasizes that our motives and spirits matter, calling us to a higher standard of love and cautioning against the severity of our words and actions.
+- 🔄 Matthew 5:22 (attempt 3, 94 words, 30.3% quotes quality score: 1.9374926305828037, V2 normalized quality score: 55.76, commentator tiers 1-3: 33.34%, 35.32%, 31.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 5:22 bht prompt v0.8 (77 words, 32.79% quotes)
-- quality score: 1.8596353018588334, V2 normalized quality score: 53.17, commentator tiers 1-3: 32.9%, 37.61%, 29.49%)
+- Attempt 4 BHT: Jesus goes beyond the letter of the law and addresses the root of the commandment. Causeless anger is akin to hatred and violates the sixth commandment. The severity of punishment at the divine tribunal will be based on the real criminality of breaking this commandment. Gehenna, the symbol of future punishment, is distinct from Hades. Jesus, being both God and man, has the authority to interpret and expand upon the law. He condemns anger without cause, focusing on the motive and spirit behind our actions and words. Love and mindfulness of the severity of our words and actions are emphasized.
+- 🔄 Matthew 5:22 (attempt 4, 100 words, 33.87% quotes quality score: 1.7647766801101943, V2 normalized quality score: 50.02, commentator tiers 1-3: 32.72%, 38.26%, 29.02%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Jesus goes beyond the letter of the law, addressing the root of the commandment. Causeless anger is a manifestation of hatred and violates the sixth commandment. Punishment at the divine tribunal will be based on the real criminality of breaking this commandment. Gehenna, symbolizing future punishment, is distinct from Hades. Jesus, being God and man, has the authority to interpret and expand upon the law. He condemns anger without cause, emphasizing the motive and spirit behind our actions and words. Love and mindfulness of our words and actions are paramount.
+- 🔄 Matthew 5:22 (attempt 5, 90 words, 34.43% quotes quality score: 1.7321458794520024, V2 normalized quality score: 48.94, commentator tiers 1-3: 32.71%, 38.65%, 28.63%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 5:22 bht prompt v0.8 (94 words, 30.3% quotes)
+- quality score: 1.9374926305828037, V2 normalized quality score: 55.76, commentator tiers 1-3: 33.34%, 35.32%, 31.34%)

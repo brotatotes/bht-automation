@@ -1,57 +1,56 @@
 {
-    "timestamp": "12-19-2023 16:33:59",
+    "timestamp": "12-25-2023 19:33:51",
     "verseRef": "Acts 19:37",
     "bestBHT": {
-        "bht": "In Ephesus, Paul exercised caution not to demean the worship of Artemis, only exposing the falsity of idols as necessary. He had friends among the Asiarchs, indicating his respectful approach. The accusation of robbing temples was baseless, as Paul and his companions conducted themselves blamelessly. This serves as a lesson for missionaries and ministers to avoid insulting the beliefs of others. Paul directed his righteous anger towards those who claimed to follow God while disregarding His will. Their message did not blaspheme the goddess, but rather emphasized the truth of the one God and the futility of idols.",
-        "wordCount": 98,
-        "quoteTokenProportion": 39.44,
-        "qualityScore": 1.9624313455349718,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+        "bht": "The town-clerk states that Paul and his companions are not robbers of temples nor blasphemers of the goddess. Paul exercised caution and did not insult the worship of Artemis. Their innocent conduct serves as a lesson for missionaries and ministers, illustrating the importance of avoiding insults to the beliefs of those being addressed. By taking a tactful approach, they can effectively spread their message and avoid unnecessary conflict, gaining influence through their consideration for others.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.9918112893202413,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.57,
         "commentatorTierSimilarities": [
-            33.09,
-            32.86,
-            34.05
+            36.88,
+            30.82,
+            32.29
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Paul had proceeded at Ephesus with the same caution as at Athens, and had not held up to contempt the worship of Artemis, any further than unavoidably the truths which he preached would render it contemptible.",
-            "This is also manifest from his having friends among the Asiarchs.",
-            "The sentence implies that they were then actually going on. They were the periodical assizes of the district, held by the proconsul and his assessors."
+            "From this verse it appears that Paul had proceeded at Ephesus with the same caution as at Athens, and had not held up to contempt the worship of Artemis, any further than unavoidably the truths which he preached would render it contemptible.",
+            "Chrysostom, however, treats this assertion of the town-clerk merely as a device to appease the people: 'this,' he says, 'was a lie, and was said only for the populace.'",
+            "court-days are held] The sentence implies that they were then actually going on. They were the periodical assizes of the district, held by the proconsul and his assessors...deputies] i.e.,\u2014see on ch. xiii. 7,\u2014proconsuls: the fit officers before whom to bring these causes. So the Commentators generally. But perhaps the assessors of the proconsul may have themselves popularly borne the name. let them implead one another] i.e. let them (the plaintiffs and defendants) plead against one another."
         ],
         "Jamieson-Fausset-Brown": [
             "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.\" ",
-            "This is a remarkable testimony, showing that the apostle had, in preaching against idolatry, studiously avoided insulting the feelings of those whom he addressed.",
-            "A lesson this to missionaries and ministers in general."
+            "[The apostle had] studiously avoided insulting the feelings of those whom he addressed\u2014a lesson this to missionaries and ministers in general."
         ],
         "Albert Barnes": [
-            "The word 'churches' we now apply to edifices reared for purposes of Christian worship. Since no such churches had then been built, this translation is unhappy, and is not at all demanded by the original.",
-            "The meaning here is that Paul and his companions had not been guilty of robbing the temple of Diana, or any other temple. The charge of sacrilege could not be brought against them.",
-            "People should employ reason, and not harsh or reproachful language against a pervading evil; and that the way to remove it is to enlighten the minds of people, and to convince them of the error of their ways."
+            "The charge of sacrilege could not be brought against them. Though they had preached against idols and idol worship, yet they had offered no violence to the temples of idolaters, nor had they attempted to strip them of the sacred utensils employed in their service. What they had done, they had done peaceably.",
+            "They had not used harsh or reproachful language of Diana. This had not been charged on them, nor is there the least evidence that they had done it. They had opposed idolatry; had reasoned against it; and had endeavored to turn the people from it.",
+            "This shows that people should employ reason, and not harsh or reproachful language against a pervading evil; and that the way to remove it is to enlighten the minds of people, and to convince them of the error of their ways."
         ],
         "Marvin Vincent": [
             "Robbers of churches [\u03b9\u03b5\u03c1\u03bf\u03c3\u03c5\u03bb\u03bf\u03c5\u03c2] . The A. V. puts a droll anachronism into the mouth of the town - clerk of a Greek city. Render, rather, as Rev., robbers of temples."
         ],
         "John Calvin": [
-            "Those be sacrilegious persons who translate the honor which is due to God alone unto idols.\" ",
-            "He had respect unto this alone to extinguish the heat of the uproar.",
-            "An opportunity was given to the proconsul to impose a heavy fine on the city."
+            "For seeing that all superstition is profane and polluted, it followeth that those be sacrilegious persons who translate the honor which is due to God alone unto idols.\" ",
+            "But the wisdom of the town-clerk, and that carnal, is here commended, and not his godliness.\" ",
+            "And therefore doth he at length conclude, if Demetrius have any private matter, there be judgment-seats and magistrates."
         ],
         "Philip Schaff": [
-            "St. Paul and his immediate followers no doubt owed not a little of their wonderful influence over men\u2019s hearts to their winning and graceful courtesy, to their chivalrous consideration for the feelings of others.",
-            "He hurt no ancient prejudices, no time-honoured customs, by rude invective.",
-            "His fiery wrath was especially reserved for those who knew their Lord\u2019s will and only pretended to do it."
+            "In the time when the English Version was made, it was by no means unusual to style a heathen temple a \u2018church\u2019 or a \u2018chapel.\u2019\" ",
+            "He hurt no ancient prejudices, no time-honoured customs, by rude invective.\" ",
+            "St. Paul and his immediate followers no doubt owed not a little of their wonderful influence over men\u2019s hearts to their winning and graceful courtesy, to their chivalrous consideration for the feelings of others."
         ],
         "Archibald T. Robertson": [
-            "The ancients felt as strongly about temple-robbing as westerners used to feel about a horse-thief.",
-            "That is to say, these men (Gaius and Aristarchus) as Christians had so conducted themselves that no charge could be placed against them either in act or word.",
+            "That is to say, these men (Gaius and Aristarchus) as Christians had so conducted themselves (Colossians 4:5) that no charge could be placed against them either in act (temple-robbery) or word (blasphemy).",
+            "They had done a rash thing since these men are innocent.",
             "Paul had used tact in Ephesus as in Athens in avoiding illegalities."
         ],
         "John Gill": [
-            "They have not stolen anything out of the temple of Diana, nor any other.\" ",
-            "They have not made mention of her name, much less said anything against her.",
-            "He did not stick to tell an officious lie to screen them, as did the Egyptian midwives in favour of the Hebrew women."
+            "which are neither robbers of churches; or \"temples\"; or, as the Arabic version renders it, 'robbers of the vessels of the temple', sacrilegious persons",
+            "they have not stolen anything out of the temple of Diana, nor any other",
+            "nor yet blasphemers of your goddess; they have not made mention of her name, much less said anything against her"
         ],
         "John Wesley": [
             "Nor blasphemers of your goddess \u2014 They simply declared the one God, and the vanity of idols in general."
@@ -74,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Paul had shown great caution in his approach at Ephesus, not openly demeaning the worship of Artemis beyond what his preaching required. This is evident through his friendships with the Asiarchs and his careful avoidance of insulting the feelings of those he addressed. Paul's tact in preaching against idolatry serves as a powerful lesson for missionaries and ministers. The accusation that these men were robbers of temples is inaccurate; they conducted themselves in a manner that would not warrant such a charge. Paul was strategic in avoiding any illegalities and was careful not to offend ancient customs or prejudices with rude invective. Instead, he reserved his fiery wrath for those who knew the Lord's will and only pretended to follow it. Their message was not one of blasphemy against the goddess, but of proclaiming the one true God and exposing the vanity of idols.",
-            "wordCount": 146,
-            "quoteTokenProportion": 37.62,
-            "qualityScore": 2.0321928836720136,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "bht": "The town-clerk in Acts 19:37 defends Paul and his companions, acknowledging that they have not committed sacrilege or blasphemy. Paul conducted himself with caution in Ephesus, avoiding insults and illegal actions towards the worship of Artemis. Though they preached against idols, they did so peacefully and without using harsh or reproachful language. Paul's tactful approach and chivalrous consideration for the feelings of others helped him have a powerful influence. This incident reminds us of the importance of employing reason and enlightening minds in order to remove pervasive evil.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8920149075566437,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
             "commentatorTierSimilarities": [
-                32.9,
-                37.39,
-                29.7
+                31.99,
+                40.04,
+                27.97
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul handled his preaching in Ephesus with caution, not wanting to outright belittle the worship of Artemis. He had friends among the Asiarchs, indicating his respectful approach. The accusation that they robbed temples is unfounded; they conducted themselves in an upright manner. Paul tactfully refrained from insulting the beliefs of those he addressed, serving as a lesson for missionaries and ministers. He focused his wrath on those who claimed to follow God's will but did not. Their message did not blaspheme the goddess, but rather proclaimed the one true God and the emptiness of idols.",
-            "wordCount": 96,
-            "quoteTokenProportion": 39.73,
-            "qualityScore": 1.8770034784118534,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "bht": "The town-clerk defends Paul and his companions, stating that they did not commit sacrilege or blasphemy. They avoided insulting the worship of Artemis and had not stolen anything from the temple. Their peaceful approach and avoidance of harsh language showed wisdom and consideration for others. By reasoning against idolatry and enlightening minds, they sought to remove pervasive evil. This incident emphasizes the importance of using reason instead of reproachful language and respecting the feelings of others.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8936149793654873,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
             "commentatorTierSimilarities": [
-                31.86,
-                32.65,
-                35.49
+                27.9,
+                39.91,
+                32.19
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul proceeded cautiously in Ephesus, avoiding contempt for the worship of Artemis as much as possible. He had friends among the Asiarchs, showing his respectful approach. The accusation that they were temple robbers is baseless; their conduct was blameless. Paul's tactful preaching serves as a valuable lesson for missionaries and ministers. He reserved his wrath for those who ignored God's will. Their message did not blaspheme the goddess but rather preached the one true God and exposed the futility of idols.",
-            "wordCount": 83,
-            "quoteTokenProportion": 39.39,
-            "qualityScore": 1.8825680242916278,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "bht": "The town-clerk assures the people that Paul and his companions are not robbers of temples nor blasphemers of their goddess. Paul's approach in Ephesus was marked by caution and restraint, avoiding insults to the worship of Artemis. Through their peaceful conduct and avoidance of illegalities, they displayed innocence and won hearts. This incident serves as a lesson for missionaries and ministers, emphasizing the importance of not insulting the beliefs of those being addressed. By taking a tactful approach, they can effectively spread their message and avoid unnecessary conflict.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.9366837265161005,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
             "commentatorTierSimilarities": [
-                34.16,
-                33.02,
-                32.82
+                36.64,
+                32.55,
+                30.81
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul handled his preaching in Ephesus with caution and did not seek to undermine the worship of Artemis. He had friends among the Asiarchs, which reflects his respectful approach. His words in defense of him and his companions highlight their blameless conduct and their avoidance of insulting the beliefs of their audience. This demonstrates a lesson for missionaries and ministers to follow. Paul reserved his anger for those who claimed to follow God's will but failed to do so. Their message did not blaspheme the goddess, but rather asserted the existence of the one true God and the emptiness of idols.",
-            "wordCount": 102,
-            "quoteTokenProportion": 37.68,
-            "qualityScore": 1.8695972589660692,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "bht": "The town-clerk states that Paul and his companions are not robbers of temples nor blasphemers of the goddess. Paul exercised caution and did not insult the worship of Artemis. Their innocent conduct serves as a lesson for missionaries and ministers, illustrating the importance of avoiding insults to the beliefs of those being addressed. By taking a tactful approach, they can effectively spread their message and avoid unnecessary conflict, gaining influence through their consideration for others.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.9918112893202413,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
             "commentatorTierSimilarities": [
-                33.27,
-                33.4,
-                33.32
+                36.88,
+                30.82,
+                32.29
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In Ephesus, Paul exercised caution not to demean the worship of Artemis, only exposing the falsity of idols as necessary. He had friends among the Asiarchs, indicating his respectful approach. The accusation of robbing temples was baseless, as Paul and his companions conducted themselves blamelessly. This serves as a lesson for missionaries and ministers to avoid insulting the beliefs of others. Paul directed his righteous anger towards those who claimed to follow God while disregarding His will. Their message did not blaspheme the goddess, but rather emphasized the truth of the one God and the futility of idols.",
-            "wordCount": 98,
-            "quoteTokenProportion": 39.44,
-            "qualityScore": 1.9624313455349718,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "bht": "The town-clerk assures the people that Paul and his companions did not commit sacrilege or blasphemy. They did not steal from or insult the temples or goddess. Their tactful approach in Ephesus avoided insulting the beliefs and customs of others. By conducting themselves peacefully and reasoning against idolatry, they sought to enlighten minds and remove evil. This incident highlights the importance of using reason instead of reproachful language and showing consideration for the feelings of others.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9254376619892999,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
             "commentatorTierSimilarities": [
-                33.09,
-                32.86,
-                34.05
+                28.96,
+                38.27,
+                32.77
             ],
             "generationAttempt": 5
         }

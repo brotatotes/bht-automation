@@ -1,48 +1,46 @@
 # John 13:33 Commentary Help Text
 
 ## BHT:
-Jesus affectionately addresses His disciples as little children, conveying His deep love and care for them. He comforts them by assuring that their sorrowful separation from Him is only temporary. He encourages them to seek Him and find Him by following the way of Love, both towards Him and towards one another. Through their unity and recognition of His presence, they form the Church. He assures them that in a little while, they will once again be reunited with Him.
+Jesus, in expressing his brotherly and fatherly love for his disciples, addresses them as little children. He assures them that although he will be leaving them, they will seek and find him through the way of love. Jesus emphasizes the unity of his disciples, calling for the formation of a united Church where his presence will be felt. The use of this term of endearment is unique to this Gospel, and it is also employed by John in his first Epistle. Furthermore, Jesus acknowledges that the disciples will eventually follow him, even though a temporary separation is imminent.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "This term,—here only used by Christ,—affectingly expresses His not only brotherly, but fatherly love for His own..."
-2. "Ye shall be left here: but, unlike the Jews, ye shall seek Me and shall find Me, and the way is that of Love,—to Me, and to one another..."
-3. "...forming an united Body, the Church, in which all shall recognize My presence among you as My disciples."
+1. "Little children] This term,—here only used by Christ,—affectingly expresses His not only brotherly, but fatherly love"
+2. "Ye shall be left here: but, unlike the Jews, ye shall seek Me and shall find Me, and the way is that of Love"
+3. "form an united Body, the Church, in which all shall recognize My presence among you as My disciples."
 
 ### Jamieson-Fausset-Brown:
 1. "Little children—From the height of His own glory He now descends, with sweet pity, to His 'little children,' all now His own."
-2. "This term of endearment, nowhere else used in the Gospels, and once only employed by Paul (Galatians 4:19), is appropriated by the beloved disciple himself."
+2. "This term of endearment, nowhere else used in the Gospels, and once only employed by Paul (Galatians 4:19), is appropriated by the beloved disciple himself, who no fewer than seven times employs it in his first Epistle."
 3. "Ye shall seek me—feel the want of Me. As I said to the Jews—But oh in what a different sense!"
 
 ### Albert Barnes:
-1. "Little children - An expression of great tenderness, denoting his deep interest in their welfare."
-2. "As he was about to leave them, he endeavors to mitigate their grief by the most tender expressions of attachment."
-3. "He consoled them with the assurance that the separation would be only temporary, and that they should afterward follow him."
+1. "Little children" is often given to Christians as implying...that they sustain toward him that endearing relation...As denoting their need of teaching and guidance.
+2. "Yet a little while I am with you" shows that he loved them to the end...the presence of the Savior to break the agony of the parting pang, and to console us with the words of his grace.
+3. "They could not follow him then...He consoled them...with the assurance that the separation would be only temporary, and that they should afterward follow him."
 
 ### Marvin Vincent:
-1. "Little children [τεκνια]. Diminutive, occurring only here in the Gospel, but repeatedly in the First Epistle." 
-2. "Now [αρτι]. In ver. 31, now is nun, which marks the point of time absolutely. Arti marks the point of time as related to the past or to the future."
-3. "Here the word implies that the sorrowful announcement of Jesus' departure from His disciples had been withheld until the present. The time was now come."
+1. "Little children [τεκνια]. Diminutive, occurring only here in the Gospel, but repeatedly in the First Epistle. Nowhere else in the New Testament."
 
 ### John Calvin:
-1. "Little children, yet a little while am I with you... he loves them very tenderly."
-2. "He declares that they cannot follow him, in order that they may endure patiently his temporary absence."
-3. "He does not perpetually exclude them, as Jews, from the kingdom of God, but only bids them wait patiently."
+1. "True, the object which he had in view in clothing himself with our flesh was, that he might be our brother, but by that other name he expresses more strongly the ardor of his love."
+2. "he declares that they cannot follow him, in order that they may endure patiently his temporary absence, and — so to speak — bridles them in, that they may remain in their office, till they have finished their warfare on earth."
+3. "he does not perpetually exclude them, as Jews, from the kingdom of God, but only bids them wait patiently, till he bring them, along with himself, into the heavenly kingdom."
 
 ### Philip Schaff:
-1. "For them there is separation from Him, and the thought of its nearness lends more than ordinary tenderness to the words of Jesus."
-2. "He calls them 'little children,' a term found nowhere in the New Testament, except here and in the First Epistle of John."
-3. "It is remarkable that, formerly addressed to determined enemies, they should now be addressed to beloved disciples."
+1. "Little children, yet a little while I am with you. For them there is separation from Him, and the thought of its nearness lends more than ordinary tenderness to the words of Jesus."
+2. "He calls them ‘little children,’ a term found nowhere in the New Testament, except here and in the First Epistle of John."
+3. "The desolate state in which the disciples would thus be left, and, not less than this, the greater responsibility that would then rest upon them to carry out the work of Jesus, prepare the way for the words that follow."
 
 ### Archibald T. Robertson:
-1. "Little children. Only here in this Gospel, but common in I John (1 John 2:1, etc.), and nowhere else in N.T."
-2. "Yet a little while. Accusative of extent of time. See also John 7:33; John 8:21 (to which Jesus here refers); John 16:16-19."
-3. "So now I say unto you. This juncture point (αρτ) of time relatively to the past and the future (John 9:25; John 16:12; John 16:31)."
+1. "Little children. Diminutive... common in I John, and nowhere else in N.T."
+2. "Yet a little while... Accusative of extent of time."
+3. "So now I say unto you... juncture point of time relatively to the past and the future."
 
 ### John Gill:
-1. "Little children, yet a little while I am with you... it was but a little while he was to be with them, a few days more; the time of his departure was at hand, his hour was as it were come, and the last sands were dropping." 
-2. "Ye shall seek me; as persons in distress, under great concern, not knowing what to do, or where to go."
-3. "Whither I go ye cannot come, so now I say unto you; but with this difference, whereas the unbelieving Jews, who died in their sins, could never come whither he went, these his disciples, though they could not come now, yet they should hereafter, all of them, as well as Peter."
+1. "Little children, yet a little while I am with you...ye shall seek me...whither I go ye cannot come."
+2. "...expressing the relation which subsisted between them...his great affection for them, his consideration of their weakness, and sympathy with them on that account."
+3. "...these his disciples...they should hereafter, all of them."
 
 ### John Wesley:
 1. Ye cannot come — Not yet; being not yet ripe for it. John 7:34.
@@ -51,39 +49,46 @@ Jesus affectionately addresses His disciples as little children, conveying His d
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:12:14
+- Timestamp: 12-25-2023 19:30:59
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 52.63%
-- BHT Quality Score: 1.7838916463992578
+- BHT Word Count: 98
+- BHT Commentary Usage: 42.19%
+- BHT Quality Score: 1.9596580861438593
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'addresses', 'affectionately', 'again', 'and', 'another', 'as', 'assures', 'assuring', 'be', 'both', 'by', 'care', 'children', 'church', 'comforts', 'conveying', 'deep', 'disciples', 'encourages', 'find', 'following', 'for', 'form', 'from', 'he', 'him', 'his', 'in', 'is', 'jesus', 'little', 'love', 'of', 'once', 'one', 'only', 'presence', 'recognition', 'reunited', 'seek', 'separation', 'sorrowful', 'temporary', 'that', 'the', 'their', 'them', 'they', 'through', 'to', 'towards', 'unity', 'way', 'while', 'will', 'with']
-- ChatGPT injected words (significant words only) (27):
-	['addresses', 'affectionately', 'assures', 'assuring', 'care', 'children', 'church', 'comforts', 'conveying', 'deep', 'disciples', 'encourages', 'find', 'following', 'form', 'jesus', 'little', 'love', 'presence', 'recognition', 'reunited', 'seek', 'separation', 'sorrowful', 'temporary', 'unity', 'way']
+- ChatGPT injected words (64):
+	['a', 'acknowledges', 'addresses', 'also', 'although', 'and', 'as', 'assures', 'be', 'brotherly', 'by', 'calling', 'children', 'church', 'disciples', 'emphasizes', 'employed', 'endearment', 'epistle', 'even', 'eventually', 'expressing', 'fatherly', 'felt', 'find', 'first', 'follow', 'for', 'formation', 'furthermore', 'gospel', 'he', 'him', 'his', 'imminent', 'in', 'is', 'it', 'jesus', 'john', 'leaving', 'little', 'love', 'of', 'presence', 'seek', 'separation', 'temporary', 'term', 'that', 'the', 'them', 'they', 'this', 'though', 'through', 'to', 'unique', 'united', 'unity', 'use', 'way', 'where', 'will']
+- ChatGPT injected words (significant words only) (37):
+	['acknowledges', 'addresses', 'assures', 'brotherly', 'calling', 'children', 'church', 'disciples', 'emphasizes', 'employed', 'endearment', 'epistle', 'eventually', 'expressing', 'fatherly', 'felt', 'find', 'follow', 'formation', 'furthermore', 'gospel', 'imminent', 'jesus', 'john', 'leaving', 'little', 'love', 'presence', 'seek', 'separation', 'temporary', 'term', 'unique', 'united', 'unity', 'use', 'way']
 
 ### Logs
-- Attempt 1 BHT: In this verse, Jesus addresses His disciples with great love and tenderness, calling them little children. This expression of endearment, used exclusively by Jesus and Paul, signifies His deep affection for His own. He assures them that although He will be leaving soon, they will seek Him and find Him in the way of Love, both towards Him and towards one another, forming a united Church where His presence will be recognized among His disciples. Jesus emphasizes that their sorrowful separation from Him will only be temporary, for in just a little while, they will follow Him. His words bring comfort and hope, reminding them to patiently wait for the time when they shall be with Him once again.
-- 🔄 John 13:33 (attempt 1, 119 words, 45.45% quotes quality score: 2.0990938508870274, V2 normalized quality score: 61.14, commentator tiers 1-3: 28.95%, 46.5%, 24.55%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Jesus lovingly addresses His disciples as little children, conveying His deep affection and tender care for them. As He prepares to depart from them, He offers solace by assuring them that their separation is only temporary, and they will ultimately find Him as they follow the path of Love, both towards Him and towards one another. He creates a sense of unity among His disciples, forming a Church where His presence will be recognized. Their sadness will soon turn into joy as they patiently wait to be reunited with Him.
-- 🔄 John 13:33 (attempt 2, 90 words, 43.08% quotes quality score: 1.8256753793873886, V2 normalized quality score: 52.05, commentator tiers 1-3: 23.78%, 53.48%, 22.74%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: With heartfelt love, Jesus addresses His disciples as little children, a term expressing His fatherly care and tenderness towards them. Although He will soon depart from them, He assures them that they will seek and find Him by following the way of Love, both towards Him and towards each other. This unity will create a Church where they will experience His presence. Their sorrow will be temporary, for in a little while, they will follow Him. Their separation will soon transform into joyful reunion.
-- 🔄 John 13:33 (attempt 3, 84 words, 47.46% quotes quality score: 1.7440256066218165, V2 normalized quality score: 49.33, commentator tiers 1-3: 22.58%, 53.54%, 23.88%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus affectionately addresses His disciples as little children, conveying His deep love and care for them. He comforts them by assuring that their sorrowful separation from Him is only temporary. He encourages them to seek Him and find Him by following the way of Love, both towards Him and towards one another. Through their unity and recognition of His presence, they form the Church. He assures them that in a little while, they will once again be reunited with Him.
-- 🔄 John 13:33 (attempt 4, 80 words, 52.63% quotes quality score: 1.7838916463992578, V2 normalized quality score: 50.66, commentator tiers 1-3: 23.32%, 53.57%, 23.12%)
-- Attempt 5 BHT: In John 13:33, Jesus addresses his disciples as little children to express His deep affection towards them. As He prepared to depart from them, He consoled them with the assurance that it would be a temporary separation and that they would eventually be reunited with Him. Jesus emphasizes the importance of love, urging them to love one another as He has loved them. The term little children is not commonly used in the Gospels but is significant in highlighting the beloved disciples' close relationship with Jesus. Furthermore, Jesus tells them that they will long for His presence, seeking Him with a sense of need and urgency. Although they cannot follow Him in that moment, Jesus assures them that they will be able to join Him in the future.
-- 🔄 John 13:33 (attempt 5, 127 words, 40.54% quotes quality score: 1.9675942697378836, V2 normalized quality score: 56.76, commentator tiers 1-3: 28.61%, 46.79%, 24.6%) 
+- Attempt 1 BHT: In John 13:33, Jesus addresses his disciples as little children, a term that reflects both his brotherly and fatherly love for them. He comforts them by assuring that although he will be leaving them, they will seek and find him through the way of love. Jesus emphasizes the importance of unity among his disciples, forming a united Church where his presence will be felt. This endearing term of affection is only used here in the Gospels and is also found in the first Epistle of John. Jesus recognizes the disciples' need for him and assures them that despite the temporary separation, they will eventually follow him. The disciples' future responsibility and the desolation they will feel in his absence prepare the way for the upcoming words of Jesus.
+- 🔄 John 13:33 (attempt 1, 127 words, 37.84% quotes quality score: 2.0075306383301417, V2 normalized quality score: 58.09, commentator tiers 1-3: 26.86%, 48.08%, 25.06%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ John 13:33 bht prompt v0.8 (80 words, 52.63% quotes)
-- quality score: 1.7838916463992578, V2 normalized quality score: 50.66, commentator tiers 1-3: 23.32%, 53.57%, 23.12%)
+- Attempt 2 BHT: Jesus, in addressing his disciples as little children, expresses both his brotherly and fatherly love for them. He assures them that despite his impending departure, they will seek and find him through the way of love. Emphasizing the importance of unity, Jesus calls for the formation of a united Church where his presence will be recognized among his disciples. This affectionate term is unique to this passage in the Gospels and is also used in John's first Epistle. Jesus acknowledges the disciples' need for him, assuring them that the separation will be temporary and that they will eventually follow him.
+- 🔄 John 13:33 (attempt 2, 101 words, 38.46% quotes quality score: 1.974765409517771, V2 normalized quality score: 57.0, commentator tiers 1-3: 27.63%, 47.57%, 24.8%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: Jesus, in expressing his brotherly and fatherly love for his disciples, addresses them as little children. He assures them that although he will be leaving them, they will seek and find him through the way of love. Jesus emphasizes the unity of his disciples, calling for the formation of a united Church where his presence will be felt. The use of this term of endearment is unique to this Gospel, and it is also employed by John in his first Epistle. Furthermore, Jesus acknowledges that the disciples will eventually follow him, even though a temporary separation is imminent.
+- 🔄 John 13:33 (attempt 3, 98 words, 42.19% quotes quality score: 1.9596580861438593, V2 normalized quality score: 56.5, commentator tiers 1-3: 28.16%, 46.38%, 25.46%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: Addressing his disciples as little children, Jesus emphasizes his loving and caring relationship with them. He assures them that despite his departure, they will seek and find him through the path of love. Jesus highlights the importance of unity among his followers, forming a united Church where his presence will be evident. This endearing term is unique to this passage and is also used in John's first Epistle. Additionally, Jesus acknowledges the disciples' future ability to follow him, even though a temporary separation is imminent.
+- 🔄 John 13:33 (attempt 4, 86 words, 39.39% quotes quality score: 1.8730509352795779, V2 normalized quality score: 53.62, commentator tiers 1-3: 27.67%, 47.42%, 24.92%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 5 BHT: As Jesus addresses his disciples as little children, he conveys deep affection and love. He assures them that although he will be leaving, they will seek and find him through the path of love. Jesus underscores the significance of unity among his followers, establishing a united Church where his presence will be recognized. This tender expression is unique to this Gospel and also appears in John's first Epistle. Additionally, Jesus acknowledges that the disciples will eventually follow him, despite an impending temporary separation.
+- 🔄 John 13:33 (attempt 5, 84 words, 38.1% quotes quality score: 1.900682235652078, V2 normalized quality score: 54.54, commentator tiers 1-3: 28.42%, 46.27%, 25.31%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ John 13:33 bht prompt v0.8 (98 words, 42.19% quotes)
+- quality score: 1.9596580861438593, V2 normalized quality score: 56.5, commentator tiers 1-3: 28.16%, 46.38%, 25.46%)

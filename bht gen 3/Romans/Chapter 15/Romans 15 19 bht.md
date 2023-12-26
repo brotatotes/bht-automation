@@ -1,28 +1,28 @@
 # Romans 15:19 Commentary Help Text
 
 ## BHT:
-The Apostle Paul fearlessly preached the gospel, not relying on his own strength but on the power of the Holy Spirit. He traveled extensively, spreading the message from Jerusalem to Illyricum, fully developing and expanding its reach. Through signs and wonders, Paul's preaching was accompanied by evidence and conviction, convincing the Gentiles to embrace the gospel. It was not by his own power, but by the efficacious grace of God's Spirit that Paul filled all places with the message of salvation.
+Through mighty signs and wonders, by the power of the Holy Spirit, Paul fully preached the gospel from Jerusalem to Illyricum. His message, accompanied by miraculous displays, had a powerful impact on the minds of the Gentiles, compelling them to embrace the Gospel. This success was not due to human effort alone, but through the powerful and efficacious grace of the Spirit of God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Through mighty—literally, 'in the power of'." (Romans 15:19) 
-2. "by the power of the Spirit of God—"the Holy Ghost," as the true reading seems to be." (Romans 15:19)
-3. "so that from Jerusalem, and round about unto—'as far as' Illyricum—to the extreme northwestern boundary of Greece." (Romans 15:19)
+1. "Through mighty—literally, 'in the power of'." 
+2. "signs and wonders—that is, glorious miracles."
+3. "by the power of the Spirit of God—'the Holy Ghost,' as the true reading seems to be."
 
 ### Albert Barnes:
-1. "By stupendous and striking miracles."
-2. "He traced his success in 'all' things to the aid of the Holy Spirit."
-3. "He had faithfully diffused the knowledge of the gospel in all that immense country."
+1. "Through mighty signs and wonders - By stupendous and striking miracles."
+2. "So that from Jerusalem - Jerusalem, as a 'center' of his work; the center of all religious operations and preaching under the gospel."
+3. "I have fully preached - The word used here means properly 'to fill up,' 'to complete,' and here is used in the sense of 'diffusing abroad,' or of 'filling up' all that region with the gospel."
 
 ### Marvin Vincent:
-1. "For the facts, Acts 13:19."
-2. "In the division between the Eastern and Western Empire it was divided into Illyris Barbara, annexed to the Western Empires and Illyris Graeca, to the Eastern, including, Greece, Epirus, and Macedonia."
-3. "Fully preached [πεπληρωκεναι] . Lit., fulfilled Some explain, have given the Gospel its fall development so that it has reached every quarter."
+1. "Signs - wonders."
+2. "Illyricum. Lying between Italy, Germany, Macedonia, and Thrace, bounded by the Adriatic and the Danube."
+3. "Fully preached [πεπληρωκεναι] . Lit., fulfilled Some explain, have given the Gospel its full development so that it has reached every quarter."
 
 ### John Calvin:
-1. "For who could have gathered so many churches for Christ, without being aided by the power of God?" 
+1. "From Jerusalem, I have propagated the gospel as far as Illyricum, and not by hastening to the end of my course by a straight way, but by going all around, and through the intervening countries."
 2. "He diffused, as it were by filling up, the preaching of the gospel; for others had before begun, but he spread it wider."
-3. "The notion of filling up, which [Calvin] gives to it, is hardly consistent with what the Apostle says in Romans 15:20."
+3. "The verb πλήρωμα in Greek means perfection as well as a supplement."
 
 ### Philip Schaff:
 1. "Christ wrought through him, in word and work, in virtue of these powers; that proceeding from (miraculous) signs and wonders, and that which came from the Holy Spirit working through him on the minds of men."
@@ -30,49 +30,50 @@ The Apostle Paul fearlessly preached the gospel, not relying on his own strength
 3. "He had fully spread the glad tidings and with success everywhere, sufficient to attest his apostolic mission, and give him a ground of glorying in what Christ had wrought through him."
 
 ### Archibald T. Robertson:
-1. "In power of signs and wonders."
-2. "Note repetition of εν δυναμε here with πνευματος αγιου."
-3. "Arabia and Illyricum would thus be the extreme limits of Paul's mission journeys so far."
+1. "In power of signs and wonders...the 'power' of the Holy Spirit in Paul's preaching." 
+2. "Result expressed by the perfect active infinitive...general reference." 
+3. "Illyricum seems to be the name for the region west of Macedonia...would thus be the extreme limits of Paul's mission journeys so far."
 
 ### John Gill:
-1. "These carrying along with them evidence and conviction of the truth of what was delivered, wrought wonderfully and powerfully on the minds of the Gentiles to embrace the Gospel." 
-2. "It was not by might, or power of the preacher; nor merely by the power of signs and wonders; but by the powerful and efficacious grace of the Spirit of God."
-3. "He filled all places with it wherever he came, even from Jerusalem round about unto Illyricum."
+1. "These carrying along with them evidence and conviction of the truth of what was delivered, wrought wonderfully and powerfully on the minds of the Gentiles to embrace the Gospel."
+2. "but by the Spirit of God, by whom Christ and all his apostles wrought the miracles they did."
+3. "it was not by might, or power of the preacher; nor merely by the power of signs and wonders; but by the powerful and efficacious grace of the Spirit of God."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:10:22
+- Timestamp: 12-25-2023 19:31:22
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 34.55%
-- BHT Quality Score: 1.8197179051145902
+- BHT Word Count: 64
+- BHT Commentary Usage: 39.13%
+- BHT Quality Score: 1.9112564821759062
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (55):
-	['accompanied', 'all', 'and', 'apostle', 'but', 'by', 'conviction', 'convincing', 'developing', 'efficacious', 'embrace', 'evidence', 'expanding', 'extensively', 'fearlessly', 'filled', 'from', 'fully', 'gentiles', 'god', 'gospel', 'grace', 'he', 'his', 'holy', 'illyricum', 'it', 'its', 'jerusalem', 'message', 'not', 'of', 'on', 'own', 'paul', 'places', 'power', 'preached', 'preaching', 'reach', 'relying', 's', 'salvation', 'signs', 'spirit', 'spreading', 'strength', 'that', 'the', 'through', 'to', 'traveled', 'was', 'with', 'wonders']
-- ChatGPT injected words (significant words only) (36):
-	['accompanied', 'apostle', 'conviction', 'convincing', 'developing', 'efficacious', 'embrace', 'evidence', 'expanding', 'extensively', 'fearlessly', 'filled', 'fully', 'gentiles', 'god', 'gospel', 'grace', 'holy', 'illyricum', 'jerusalem', 'message', 'paul', 'places', 'power', 'preached', 'preaching', 'reach', 'relying', 's', 'salvation', 'signs', 'spirit', 'spreading', 'strength', 'traveled', 'wonders']
+- ChatGPT injected words (46):
+	['a', 'accompanied', 'alone', 'and', 'but', 'by', 'compelling', 'displays', 'due', 'efficacious', 'effort', 'embrace', 'from', 'fully', 'gentiles', 'god', 'gospel', 'grace', 'had', 'his', 'holy', 'human', 'illyricum', 'impact', 'jerusalem', 'message', 'mighty', 'minds', 'miraculous', 'not', 'of', 'on', 'paul', 'power', 'powerful', 'preached', 'signs', 'spirit', 'success', 'the', 'them', 'this', 'through', 'to', 'was', 'wonders']
+- ChatGPT injected words (significant words only) (28):
+	['accompanied', 'compelling', 'displays', 'efficacious', 'effort', 'embrace', 'fully', 'gentiles', 'god', 'gospel', 'grace', 'holy', 'human', 'illyricum', 'impact', 'jerusalem', 'message', 'mighty', 'minds', 'miraculous', 'paul', 'power', 'powerful', 'preached', 'signs', 'spirit', 'success', 'wonders']
 
 ### Logs
-- Attempt 1 BHT: The Apostle Paul boldly proclaimed the gospel, not in his own strength, but in the power of the Holy Spirit. He traveled extensively, spreading the message from Jerusalem to the far-reaching boundaries of Illyricum. Through the power of signs and wonders, he fully preached the Gospel, giving it its complete development. His success in gathering churches for Christ was a testament to the power of God working through him. The Holy Spirit, along with miraculous signs and wonders, had a profound impact on the Gentiles, convincing them to embrace the truth of the Gospel. It was not by human might or power, but by the efficacious grace of God's Spirit that Paul filled all places with the message of salvation.
-- 🔄 Romans 15:19 (attempt 1, 122 words, 37.84% quotes quality score: 1.8636038367397683, V2 normalized quality score: 53.31, commentator tiers 1-3: 20.03%, 39.36%, 40.61%) 
+- Attempt 1 BHT: Through the mighty power of signs and wonders, by the Holy Spirit, the apostle Paul has fully preached the gospel from Jerusalem to Illyricum, encompassing a wide circuit of regions. His preaching was not a hasty journey, but a deliberate and comprehensive spreading of the glad tidings. Through miraculous signs and the working of the Holy Spirit, Paul's message was accompanied by convincing evidence and had a powerful impact on the minds of the Gentiles. It was not merely through human effort or miraculous displays, but by the powerful and efficacious grace of the Spirit of God.
+- 🔄 Romans 15:19 (attempt 1, 98 words, 28.33% quotes quality score: 1.8565928488281265, V2 normalized quality score: 53.07, commentator tiers 1-3: 22.45%, 38.28%, 39.27%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The Apostle Paul fearlessly preached the gospel, not relying on his own strength but on the power of the Holy Spirit. He traveled extensively, spreading the message from Jerusalem to Illyricum, fully developing and expanding its reach. Through signs and wonders, Paul's preaching was accompanied by evidence and conviction, convincing the Gentiles to embrace the gospel. It was not by his own power, but by the efficacious grace of God's Spirit that Paul filled all places with the message of salvation.
-- 🔄 Romans 15:19 (attempt 2, 83 words, 34.55% quotes quality score: 1.8197179051145902, V2 normalized quality score: 51.85, commentator tiers 1-3: 20.68%, 37.15%, 42.17%) 
+- Attempt 2 BHT: Through the mighty power of signs and wonders, by the Holy Spirit, the apostle Paul fully preached the gospel from Jerusalem to Illyricum. His comprehensive spreading of the glad tidings was not a hasty journey, but a deliberate endeavor. Accompanied by convincing evidence and impactful miracles, Paul's message had a powerful effect on the minds of the Gentiles. This was not due to mere human effort or miraculous displays, but rather, the powerful and efficacious grace of the Spirit of God.
+- 🔄 Romans 15:19 (attempt 2, 82 words, 31.03% quotes quality score: 1.7042498354594604, V2 normalized quality score: 48.01, commentator tiers 1-3: 22.96%, 36.84%, 40.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The Apostle Paul fearlessly proclaimed the gospel, empowered by the Holy Spirit. From Jerusalem to Illyricum, he traveled extensively, spreading the good news and fully developing its reach. Accompanied by miraculous signs and wonders, his preaching carried evidence and conviction, persuading the Gentiles to embrace the truth. Paul's success was not by his own effort, but by the powerful grace of God's Spirit. He left no place untouched as he filled all locations with the message of salvation.
-- 🔄 Romans 15:19 (attempt 3, 80 words, 28.33% quotes quality score: 1.6395587191735048, V2 normalized quality score: 45.86, commentator tiers 1-3: 18.02%, 40.74%, 41.24%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Apostle Paul fearlessly preached the gospel not in his own strength, but by the power of the Holy Spirit. With signs and wonders accompanying his message, Paul fully developed and spread the good news from Jerusalem to Illyricum. His success in gathering churches for Christ testified to the aid of God's power, bringing evidence and conviction to the Gentiles. The expansive reach of Paul's ministry was not of his own making, but a result of the powerful and efficacious grace of the Spirit of God.
-- 🔄 Romans 15:19 (attempt 4, 88 words, 27.27% quotes quality score: 1.7686829277901837, V2 normalized quality score: 50.15, commentator tiers 1-3: 19.01%, 38.36%, 42.62%) 
+- Attempt 3 BHT: Through the mighty power of signs and wonders, by the Holy Spirit, the apostle Paul fully preached the gospel from Jerusalem to Illyricum. His comprehensive spreading of the glad tidings was not a hasty journey, but a deliberate endeavor. Accompanied by convincing evidence and impactful miracles, Paul's message had a powerful effect on the minds of the Gentiles. This was not due to mere human effort or miraculous displays, but rather, the powerful and efficacious grace of the Spirit of God.
+- 🔄 Romans 15:19 (attempt 3, 82 words, 31.03% quotes quality score: 1.7042498354594604, V2 normalized quality score: 48.01, commentator tiers 1-3: 22.96%, 36.84%, 40.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Apostle Paul fearlessly preached the gospel, not in his own strength but by the power of the Holy Spirit. Accompanied by signs and wonders, he fully developed and spread the message from Jerusalem to Illyricum. Through God's power, he successfully gathered churches for Christ and filled all places with the good news. It was not by his own might or ability, but by the efficacious grace of the Spirit that Paul carried out his ministry.
-- 🔄 Romans 15:19 (attempt 5, 77 words, 40.0% quotes quality score: 1.7543815163229577, V2 normalized quality score: 49.68, commentator tiers 1-3: 18.73%, 38.32%, 42.94%) 
+- Attempt 4 BHT: Through mighty signs and wonders, by the power of the Holy Spirit, Paul fully preached the gospel from Jerusalem to Illyricum, not by hastening in a straight path, but by going all around and through intervening countries. His message, accompanied by convincing evidence and miraculous displays, had a powerful impact on the minds of the Gentiles, compelling them to embrace the truth of the Gospel. This success was not due to human effort alone, but through the powerful and efficacious grace of the Spirit of God.
+- 🔄 Romans 15:19 (attempt 4, 86 words, 36.21% quotes quality score: 1.8761362266268724, V2 normalized quality score: 53.72, commentator tiers 1-3: 22.14%, 36.79%, 41.08%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Romans 15:19 bht prompt v0.8 (83 words, 34.55% quotes)
-- quality score: 1.8197179051145902, V2 normalized quality score: 51.85, commentator tiers 1-3: 20.68%, 37.15%, 42.17%)
+- Attempt 5 BHT: Through mighty signs and wonders, by the power of the Holy Spirit, Paul fully preached the gospel from Jerusalem to Illyricum. His message, accompanied by miraculous displays, had a powerful impact on the minds of the Gentiles, compelling them to embrace the Gospel. This success was not due to human effort alone, but through the powerful and efficacious grace of the Spirit of God.
+- 🔄 Romans 15:19 (attempt 5, 64 words, 39.13% quotes quality score: 1.9112564821759062, V2 normalized quality score: 54.89, commentator tiers 1-3: 23.95%, 37.0%, 39.05%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Romans 15:19 bht prompt v0.8 (64 words, 39.13% quotes)
+- quality score: 1.9112564821759062, V2 normalized quality score: 54.89, commentator tiers 1-3: 23.95%, 37.0%, 39.05%)

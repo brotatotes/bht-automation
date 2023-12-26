@@ -1,46 +1,47 @@
 {
-    "timestamp": "12-19-2023 16:32:04",
+    "timestamp": "12-25-2023 19:29:14",
     "verseRef": "Acts 16:17",
     "bestBHT": {
-        "bht": "The evil spirit recognized Paul and his companions as servants of God, akin to demons acknowledging Jesus. The phrase the Most High God was used in pagan inscriptions for the Supreme Being. The slave-girl persistently testified to their divine affiliation, possibly during their religious activities. Jesus and His disciples rejected such demon testimony, highlighting the distinction between God's power and evil spirits. This event raises inquiries about possession connections to sin and illnesses. It emphasizes salvation through Jesus amidst various salvation offerings in that era.",
-        "wordCount": 87,
-        "quoteTokenProportion": 32.35,
-        "qualityScore": 1.7071611643120046,
-        "qualityScoreNormalizedComparedToV2BHTs": 48.11,
+        "bht": "The evil spirit's testimony regarding Paul and his company as servants of the Most High God is comparable to the recognition of Jesus by the demons. This acknowledgment reveals the power of God and His Christ, whether in the person of Jesus or in the actions of His servants. Such testimony, given repeatedly and even during religious services, is a glorious confirmation. It underscores the exclusive way of salvation through Jesus Christ, who brings grace, glory, and everlasting righteousness.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.8386621954809426,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.48,
         "commentatorTierSimilarities": [
-            39.12,
-            31.08,
-            29.8
+            40.67,
+            21.33,
+            37.99
         ],
         "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The recognition of Paul and his company here by the spirit is strictly analogous to that of our Lord by the d\u00e6mons.\" (22 words)",
-            "The evil spirit knew and confessed the power of God and His Christ, whether in His own Person or that of His servants.\" (21 words)"
+            "The recognition of Paul and his company here by the spirit is strictly analogous to that of our Lord by the d\u00e6mons.\" ",
+            "The evil spirit knew and confessed the power of God and His Christ, whether in His own Person or that of His servants.",
+            "The same account to be given of both: viz. that the evil spirit knew and confessed the power of God and His Christ, whether in His own Person or that of His servants."
         ],
         "Jamieson-Fausset-Brown": [
             "These men are servants of the most high God, &c.\u2014Glorious testimony!",
-            "This did she many days\u2014that is, on many successive occasions...",
-            "...when on their way to their usual place of meeting, or when engaged in religious services."
+            "This did she many days\u2014that is, on many successive occasions.",
+            "When engaged in religious services."
         ],
         "Albert Barnes": [
             "The same followed Paul ... - Why she did this, or under what presence, the sacred writer has not informed us. It may have been:",
             " "
         ],
         "Philip Schaff": [
-            "This testimony on the part of the evil spirit which possessed the unhappy slave-girl... was by no means an unusual incident in the early days of Christianity.",
-            "It is observable that neither Christ nor His servants would ever accept this testimony from demons.",
+            "This testimony on the part of the evil spirit... was by no means an unusual incident in the early days of Christianity.",
+            "There is but little doubt that these fearful soul-maladies... were often due, in the first instance, to some terrible sin the hapless victim had indulged in.",
             "The whole question of 'possession by evil spirits,' insanity in its varied forms, epilepsy, and other kindred maladies, and their connection with sin, is as yet very little understood."
         ],
         "Archibald T. Robertson": [
-            "The Most High God. Pagan inscriptions use this language for the Supreme Being.",
-            "It looks like supernatural testimony like that borne by the demoniacs to Jesus as 'son of the Most High God.'",
+            "The Most High God (\u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c5\u03c8\u03b9\u03c3\u03c4\u03bf\u03c5). Pagan inscriptions use this language for the Supreme Being.",
+            "It looks like supernatural testimony like that borne by the demoniacs to Jesus as 'son of the Most High God'.",
             "There were many 'ways of salvation' offered to men then as now."
         ],
         "John Gill": [
-            "These men are the servants of the most high God.\" ",
-            "The only way of salvation is by the Lord Jesus Christ.",
+            "These men are the servants of the most high God; not of Python, or Apollo, as she and her masters were; or of any of the deities of the Gentiles; nor of sin, nor of Satan, nor of men, but of the one only true and living God.\" ",
+            "The only way of salvation is by the Lord Jesus Christ, by whom the law is fulfilled, satisfaction is made for sin, peace and pardon are procured, an everlasting righteousness is brought in, and through whom grace and glory are given.\" ",
             "The way to life and immortality is only brought to light in the Gospel."
         ],
         "John Wesley": [
@@ -64,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The evil spirit that possessed the slave-girl recognized Paul and his companions as servants of God, similar to how demons recognized Jesus as the Son of God. This acknowledgment of God's power highlights the supernatural nature of the testimony, akin to what the demoniacs did for Jesus. The phrase the Most High God was also used in pagan inscriptions to refer to the Supreme Being. The slave-girl continued giving this testimony on multiple occasions, potentially when they were going to their usual meeting places or engaged in religious activities. It is important to note that neither Jesus nor His disciples accepted such testimony from demons, emphasizing the distinction between the true power of God and evil spirits. This event raises questions about possession by evil spirits and its relationship to sin and various illnesses. Ultimately, the verse speaks to the singular path to salvation through Jesus Christ, as opposed to the many offerings of salvation prevalent in that time.",
-            "wordCount": 162,
-            "quoteTokenProportion": 35.58,
-            "qualityScore": 1.812906680338136,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "bht": "The evil spirit recognized the power of God and confessed it both in the person of Jesus and in his servants, like Paul. This recognition of power extended to the acknowledgement that Paul and his company were servants of the Most High God. This testimony was given repeatedly, and on one occasion it was during a religious service. The recognition of Paul's authority by the evil spirit was a glorifying testimony. Just as Jesus was acknowledged as the Son of the Most High God by the demoniacs, Paul and his companions were recognized as servants of the same God. This recognition is significant, as there were many different ways of salvation offered during that time.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8664250285186252,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.4,
             "commentatorTierSimilarities": [
-                37.62,
-                33.88,
-                28.5
+                42.44,
+                24.01,
+                33.56
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The evil spirit acknowledged Paul and his companions as servants of God, reminiscent of how demons recognized Jesus. The phrase the Most High God was used in pagan inscriptions for the Supreme Being. The slave-girl continually testified to their divine affiliation on various occasions, possibly during their religious activities. Jesus and His disciples rejected such testimony from demons, underscoring the distinction between God's power and evil spirits. This event raises inquiries about possession and its association with sin and illnesses. Ultimately, the passage emphasizes salvation through Jesus amidst numerous offerings of salvation in that era.",
-            "wordCount": 97,
-            "quoteTokenProportion": 34.67,
-            "qualityScore": 1.6856159380649267,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "bht": "The evil spirit's recognition of Paul and his company is analogous to the acknowledgement of Jesus by the demons. The spirit attests to the power of God and His Christ, whether in His own Person or in the actions of His servants. This testimony serves as a glorious confirmation of their status as servants of the Most High God. Such recognition was given repeatedly, even during religious services. It is a reminder that the only true way of salvation is through the Lord Jesus Christ, who brings grace, glory, and everlasting righteousness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7309086363446786,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
             "commentatorTierSimilarities": [
-                39.33,
-                31.74,
-                28.93
+                43.36,
+                21.61,
+                35.03
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The evil spirit recognized Paul and his companions as servants of God, akin to demons acknowledging Jesus. The term the Most High God was used in pagan inscriptions to refer to the Supreme Being. The slave-girl persistently testified to their divine affiliation, possibly during their religious activities. Jesus and His disciples rejected such demon testimony, highlighting the distinction between God's power and evil spirits. This event raises questions about possession, sin, and illness connections. Ultimately, it underscores salvation through Jesus amidst various salvation offerings during that era.",
-            "wordCount": 89,
-            "quoteTokenProportion": 30.43,
-            "qualityScore": 1.6782194069797147,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "bht": "The recognition of Paul and his companions by the evil spirit is comparable to the acknowledgement of Jesus by the demons. This testimony highlights the power of God in both His own Person and in the actions of His servants. The repeated acknowledgement serves as a glorious testimony to their status as servants of the Most High God. It also reinforces the unique way of salvation through Jesus Christ, who brings grace, glory, and everlasting righteousness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.7750171654984033,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.36,
             "commentatorTierSimilarities": [
-                39.23,
-                31.7,
-                29.06
+                43.31,
+                20.74,
+                35.96
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The evil spirit acknowledged Paul and his companions as servants of God, similar to how demons recognized Jesus. The testimony given by the slave-girl highlights the supernatural nature of their divine affiliation. The phrase the Most High God was used in pagan inscriptions to refer to the Supreme Being. The repeated testimony suggests that it occurred during their usual religious activities. It is important to note that Jesus and His disciples did not accept such testimony from demons, emphasizing the distinction between God's power and evil spirits. This event raises questions about possession and its connection to sin and illness. Ultimately, the verse emphasizes salvation through Jesus amidst the various offerings of salvation prevalent then and now.",
-            "wordCount": 119,
-            "quoteTokenProportion": 35.29,
-            "qualityScore": 1.7369822819063412,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "bht": "The evil spirit's recognition of Paul and his companions is analogous to the acknowledgment of Jesus by the demons. The spirit confesses the power of God and his Christ, whether in His own Person or in the actions of His servants. This repeated testimony serves as a glorious confirmation of their role as servants of the Most High God. It reminds us that the only way of salvation is through Jesus Christ, who brings grace, glory, and everlasting righteousness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8307923395525212,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
             "commentatorTierSimilarities": [
-                37.59,
-                33.18,
-                29.23
+                42.54,
+                21.75,
+                35.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The evil spirit recognized Paul and his companions as servants of God, akin to demons acknowledging Jesus. The phrase the Most High God was used in pagan inscriptions for the Supreme Being. The slave-girl persistently testified to their divine affiliation, possibly during their religious activities. Jesus and His disciples rejected such demon testimony, highlighting the distinction between God's power and evil spirits. This event raises inquiries about possession connections to sin and illnesses. It emphasizes salvation through Jesus amidst various salvation offerings in that era.",
-            "wordCount": 87,
-            "quoteTokenProportion": 32.35,
-            "qualityScore": 1.7071611643120046,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.11,
+            "bht": "The evil spirit's testimony regarding Paul and his company as servants of the Most High God is comparable to the recognition of Jesus by the demons. This acknowledgment reveals the power of God and His Christ, whether in the person of Jesus or in the actions of His servants. Such testimony, given repeatedly and even during religious services, is a glorious confirmation. It underscores the exclusive way of salvation through Jesus Christ, who brings grace, glory, and everlasting righteousness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8386621954809426,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
             "commentatorTierSimilarities": [
-                39.12,
-                31.08,
-                29.8
+                40.67,
+                21.33,
+                37.99
             ],
             "generationAttempt": 5
         }

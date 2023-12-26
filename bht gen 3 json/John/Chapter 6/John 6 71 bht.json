@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:07:32",
+    "timestamp": "12-25-2023 19:32:24",
     "verseRef": "John 6:71",
     "bestBHT": {
-        "bht": "The name Iscariot is applied to Simon, Judas's father, as he was a man of Kerioth, a town in the tribe of Judah. Judas, the only one of the twelve who was not a Galilean, reached his breaking point after Jesus's last words, giving him up finally. It is astonishing how Jesus had treated him with utmost kindness despite knowing his deep hatred and imminent betrayal. The mention of Iscariot as the one who would betray Jesus deepens the eternal horror of his crime.",
-        "wordCount": 86,
-        "quoteTokenProportion": 42.62,
-        "qualityScore": 1.874798944004184,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+        "bht": "Judas Iscariot, the son of Simon Iscariot, carried the name Iscariot due to his father's hometown, Kerioth in Judah. Unlike the rest of the twelve disciples who were Galileans, Judas was an outsider. The disciples were unable to withstand Jesus' words about his imminent betrayal, and it proved to be the breaking point for their loyalty. The treachery of Judas serves as a haunting testament to the depth of darkness that can reside within the human heart.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.964874127585671,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.67,
         "commentatorTierSimilarities": [
-            32.94,
-            40.9,
-            26.16
+            37.88,
+            37.78,
+            24.33
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,37 +21,36 @@
         "Jamieson-Fausset-Brown": [
             "Those last words of our Lord seemed to have given them the finishing stroke\u2014they could not stand it any longer.",
             "They could not stand it any longer.",
-            "Many a journey, it may be, they had taken with Him, but now they gave Him up finally!"
+            "Now they gave Him up finally!"
         ],
         "Albert Barnes": [
-            "Jesus spoke of one, to put them on their guard, to check their confidence, and to lead them to self-examination.",
-            "If Judas had known anything against the Saviour he would have alleged it. If he had known that he was an impostor, and had alleged it, he would have saved his own life and been rewarded. If Jesus was an impostor, he ought to have made it known, and to have been rewarded for it.",
+            "In every church, or company of professing Christians, we may know that it is probable that there may be some one or more deceived; but we may not know who it may be, and should therefore inquire prayerfully and honestly, 'Lord, is it I?'\".",
+            "It was that Judas might be an important witness for the innocence of Jesus, and for the fact that he was not an impostor.",
             "What benevolence did the Saviour evince - what patience and forbearance - that he had with him for more than three years a man who he knew hated him at heart, and who would yet betray him to be put to death on a cross, and that during all that time he treated him with the utmost kindness!"
         ],
         "Marvin Vincent": [
-            "The correct reading is Iskariwtou, Iscariot, agreeing in the genitive case with Simwnov, of Simon.\" ",
-            "Iscariot denotes the name of Simon's town: a man of Kerioth.",
-            "See on Matthew 10:5."
+            "Judas Iscariot the son of Simon [...] Iscariot denotes the name of Simon's town: a man of Kerioth.\" ",
+            "The correct reading is Iskariwtou, Iscariot, agreeing in the genitive case with Simwnov, of Simon. ",
+            "Render, as Rev., Judas, the son of Simon Iscariot."
         ],
         "John Calvin": [
-            "Hypocrites are so stupid that they do not feel their sores.\" ",
+            "Hypocrites are so stupid that they do not feel their sores.",
             "In the presence of men they have such hardened effrontery.",
             "They do not scruple to prefer themselves to the very best of men."
         ],
         "Philip Schaff": [
-            "In all probability the word signifies \u2018man of Kerioth,\u2019 a town in the tribe of Judah.",
-            "The double link of connection seems to deepen the thought.",
-            "How much is the criminality of the germ already springing up in his heart heightened by the closing remark, in which we see at once the anger and the pathos of the Evangelist."
+            "Judas was not yet the traitor; \u2018was about to\u2019 expresses only the futurity of the event...",
+            "How much is the criminality of the germ already springing up in his heart...",
+            "In all probability the word signifies \u2018man of Kerioth,\u2019 a town in the tribe of Judah..."
         ],
         "Archibald T. Robertson": [
             "Judas was the only one of the twelve not a Galilean.\" ",
-            "The rest of the verse is like John 12:4.",
             "The eternal horror of the thing."
         ],
         "John Gill": [
-            "These are the words of the evangelist, pointing out the person Christ intended, lest any other should be suspected.\" ",
-            "For he it was that should betray him: as it was determined and foretold...\" ",
-            "Being one of the twelve; apostles, whom Christ had chosen, and which was an aggravation of his crime."
+            "He spake of Judas Iscariot... lest any other should be suspected.",
+            "For he it was that should betray him... an aggravation of his crime.",
+            "Being one of the twelve... an aggravation of his crime."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +70,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The name Iscariot is applied to Simon, Judas's father, as he was a man of Kerioth, a town in the tribe of Judah. Judas, the only one of the twelve who was not a Galilean, reached his breaking point after Jesus's last words, giving him up finally. It is astonishing how Jesus had treated him with utmost kindness despite knowing his deep hatred and imminent betrayal. The mention of Iscariot as the one who would betray Jesus deepens the eternal horror of his crime.",
-            "wordCount": 86,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.874798944004184,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "bht": "The name Iscariot, which is applied to Simon, Judas's father, indicates that Simon was from a town called Kerioth in the tribe of Judah. Judas Iscariot was the only one of the twelve disciples who was not a Galilean. His betrayal of Jesus, as foretold in John 6:71, was the ultimate act of treachery. The moment Jesus spoke those last words, it all became too much for the rest of the disciples to bear, and they finally gave Him up. The unimaginable horror of such an act would forever be etched in history, serving as a stark reminder of the evil that can reside within the human heart.",
+            "wordCount": 108,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8733218766589066,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
             "commentatorTierSimilarities": [
-                32.94,
-                40.9,
-                26.16
+                38.36,
+                40.54,
+                21.1
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The name Iscariot is applied to Simon, Judas's father, as he was a man of Kerioth, a town in the tribe of Judah. Judas, the only one of the twelve who was not a Galilean, reached his breaking point after Jesus's last words, giving him up finally. It is astonishing how Jesus had treated him with utmost kindness despite knowing his deep hatred and imminent betrayal. The mention of Iscariot as the one who would betray Jesus deepens the eternal horror of his crime.",
-            "wordCount": 86,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.874798944004184,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "bht": "Judas Iscariot, the son of Simon Iscariot, was the only non-Galilean among the twelve disciples. His name, Iscariot, referred to Simon's hometown of Kerioth. Judas's betrayal of Jesus, as predicted in the passage, deeply affected the other disciples. Overwhelmed by what had transpired, they could not endure it any longer and eventually relinquished their allegiance to Jesus. This act of betrayal by Judas remains an eternal testament to the profound darkness that can manifest in the human heart.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.8444992543053633,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
             "commentatorTierSimilarities": [
-                32.94,
-                40.9,
-                26.16
+                40.24,
+                35.56,
+                24.21
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The name Iscariot is applied to Simon, Judas's father, as he was a man of Kerioth, a town in the tribe of Judah. Judas, the only one of the twelve who was not a Galilean, reached his breaking point after Jesus's last words, giving him up finally. Despite Jesus's knowledge of Judas's deep hatred and imminent betrayal, he had treated him with utmost kindness for over three years. The mention of Iscariot as the one who would betray Jesus underscores the eternal horror of his crime.",
-            "wordCount": 90,
-            "quoteTokenProportion": 43.55,
-            "qualityScore": 1.8165296744855262,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "bht": "Judas Iscariot, the son of Simon Iscariot, bore a unique title among the twelve disciples - Iscariot denoting the name of his father's town, Kerioth. Unlike the other disciples, Judas was not a Galilean. When Jesus spoke about his impending betrayal, the weight of those words proved unbearable for the rest of the disciples. Unable to bear witness to such treachery, they finally abandoned Jesus. Judas's act of betrayal forever etches a lasting reminder of the gravity of evil within the human soul.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8896443787261215,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
             "commentatorTierSimilarities": [
-                33.9,
-                40.71,
-                25.39
+                36.59,
+                34.89,
+                28.52
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The name Iscariot is applied to Simon, Judas's father, as he was a man of Kerioth, a town in the tribe of Judah. Judas, the only one of the twelve who was not a Galilean, reached his breaking point after Jesus's last words, giving him up finally. Despite Jesus's knowledge of Judas's deep hatred and imminent betrayal, he had treated him with utmost kindness for over three years. The mention of Iscariot as the one who would betray Jesus highlights the eternal horror of his crime.",
-            "wordCount": 90,
-            "quoteTokenProportion": 43.55,
-            "qualityScore": 1.8175451306719266,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "bht": "Judas Iscariot, the son of Simon Iscariot, carried the name Iscariot due to his father's hometown, Kerioth in Judah. Unlike the rest of the twelve disciples who were Galileans, Judas was an outsider. The disciples were unable to withstand Jesus' words about his imminent betrayal, and it proved to be the breaking point for their loyalty. The treachery of Judas serves as a haunting testament to the depth of darkness that can reside within the human heart.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.964874127585671,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
             "commentatorTierSimilarities": [
-                33.54,
-                41.12,
-                25.34
+                37.88,
+                37.78,
+                24.33
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The name Iscariot is applied to Simon, Judas's father, as he was a man of Kerioth, a town in the tribe of Judah. Judas, the only one of the twelve who was not a Galilean, reached his breaking point after Jesus's last words, giving him up finally. Despite Jesus's knowledge of Judas's deep hatred and imminent betrayal, he had treated him with utmost kindness for over three years. The mention of Iscariot as the one who would betray Jesus underscores the eternal horror of his crime.",
-            "wordCount": 90,
-            "quoteTokenProportion": 43.55,
-            "qualityScore": 1.8165296744855262,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "bht": "Judas Iscariot, the son of Simon Iscariot, was not a Galilean like the other disciples. Iscariot referred to Simon's hometown of Kerioth in Judah. When Jesus spoke about Judas's betrayal, the other disciples reached their limit and could no longer endure the weight of those words. They ultimately gave up on Jesus. Judas's act of betrayal stands as a permanent testimony to the unfathomable evil that can take root within the human heart.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8490125883944661,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
             "commentatorTierSimilarities": [
-                33.9,
                 40.71,
-                25.39
+                35.31,
+                23.98
             ],
             "generationAttempt": 5
         }

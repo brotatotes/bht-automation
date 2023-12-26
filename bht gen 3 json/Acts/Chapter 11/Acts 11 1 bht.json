@@ -1,56 +1,54 @@
 {
-    "timestamp": "12-19-2023 16:29:35",
+    "timestamp": "12-25-2023 19:31:51",
     "verseRef": "Acts 11:1",
     "bestBHT": {
-        "bht": "The news of the extraordinary occurrence at Caesarea quickly spread throughout Judea, reaching the Jewish Christians in all communities. This unexpected event, where Gentiles were included into the church through the descent of the Holy Spirit, caused both attention and contention. The fact that real Romans, with Jewish connections, received this blessing without becoming Jews was difficult for many to comprehend. Nevertheless, the rapid spread of the news and the Gentiles' reception of the Holy Spirit could not be ignored, leaving believers intrigued and concerned.",
-        "wordCount": 85,
-        "quoteTokenProportion": 39.68,
-        "qualityScore": 1.8154505052488379,
-        "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+        "bht": "The news from Caesarea spread quickly throughout Judea, but many Jewish Christians were incredulous about the acceptance of Gentiles into the church. They argued fiercely to bring the Gentiles under Jewish customs and traditions, for the manner in which the Gentiles were called seemed contrary to reason. The apostles and brethren, however, must have rejoiced in the thought that the Gospel had found acceptance in other hearts. Despite their initial confusion, they understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they had received His grace.",
+        "wordCount": 92,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.966565442473652,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.73,
         "commentatorTierSimilarities": [
-            20.76,
-            45.91,
-            33.33
+            19.96,
+            46.72,
+            33.32
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
             "They seem to have heard the fact, without any circumstantial detail.",
-            "From some reporter who gave the objectionable part of it, as is not uncommon in such cases.",
-            "All prominence."
+            "From some reporter who gave the objectionable part of it, as is not uncommon in such cases, all prominence."
         ],
         "Jamieson-Fausset-Brown": [
             "1-11. the apostles and brethren . .",
             "\t. in Judea\u2014rather, \"throughout Judea."
         ],
         "Albert Barnes": [
-            "So extraordinary an occurrence as that at Caesarea...would excite attention.\" ",
-            "...the descent of the Holy Spirit on the Gentiles, and their reception into the church.\" ",
+            "So extraordinary an occurrence as that at Caesarea, the descent of the Holy Spirit on the Gentiles, and their reception into the church.\" ",
             "It was so contrary to all the ideas of the Jews, that it is not to be wondered at that it led to contention."
         ],
         "Marvin Vincent": [
             "In Judaea [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b9\u03bf\u03c5\u03b4\u03b1\u03b9\u03b1\u03bd] . More correctly, \"throughout Judaea."
         ],
         "John Calvin": [
-            "We see that through this ambition and pride the Church was troubled; because the equality which did diminish their dignity was not tolerable.\" ",
-            "But forasmuch as it was foretold by so many prophecies of the prophets, that the Church should be gathered of all people after the coming of the Messiah, and forasmuch as Christ had given commandment to his apostles touching the preaching of the gospel throughout the whole world, how can it be that the conversion of a few men should move some, as some strange thing, and should terrify other some, as if it were some monster?\" ",
+            "For which cause they did contend stoutly to bring the necks of the Gentiles under the yoke.",
+            "But the manner of the calling, the beginning whereof they saw then, was not only unknown, but it seemed to be quite contrary to reason.",
             "Finally, they do not straightway comprehend the mystery, which, as Paul teacheth, was unknown to the angels from the creation of the world."
         ],
         "Philip Schaff": [
-            "It is observable that the 'elders' or presbyters, who are first mentioned in the last verse of this chapter, do not yet appear. Compare Acts 15:2.",
             "The news must have rapidly spread through all the Christian communities of the land.",
+            "These \u2018apostles and brethren\u2019 had Christian hearts, and they must have rejoiced in the thought that the Gospel had found acceptance in other hearts.",
             "That which they could not understand was that these Gentiles should have been reached by this blessing without first becoming Jews."
         ],
         "Archibald T. Robertson": [
-            "The news from Casearea spread like wildfire among the Jewish Christians.",
+            "The news from Caesarea spread like wildfire among the Jewish Christians.",
             "The case of the Samaritans was different, for they were half Jews, though disliked.",
             "But here were real Romans even if with Jewish affinities."
         ],
         "John Gill": [
-            "There were in it now more churches than that at Jerusalem.",
-            "The news by some means or other were quickly brought to them.",
-            "No doubt but they also heard that they had received the Holy Ghost, his extraordinary gifts, as well as his special grace, though no mention is made of them."
+            "The rest of the twelve apostles, and the private members of the churches that were in Judea",
+            "the news by some means or other were quickly brought to them",
+            "no doubt but they also heard that they had received the Holy Ghost, his extraordinary gifts, as well as his special grace"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -70,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The news from Caesarea had quickly spread throughout Judea, reaching the Jewish Christians in all the communities. This extraordinary occurrence, the descent of the Holy Spirit on the Gentiles and their inclusion into the church, was met with both attention and contention. While the case of the Samaritans was different due to their Jewish affinities, the fact that real Romans, with Jewish connections, had received this blessing without first becoming Jews was something that many struggled to understand. Nonetheless, the rapid spread of the news and the apparent reception of the Holy Spirit by the Gentiles could not be ignored, causing both intrigue and concern among the believers.",
-            "wordCount": 108,
-            "quoteTokenProportion": 40.85,
-            "qualityScore": 1.8503876677249516,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "bht": "The news from Caesarea spread quickly throughout Judea, but many Jewish Christians were incredulous about the acceptance of Gentiles into the church. They argued fiercely to bring the Gentiles under Jewish customs and traditions, for the manner in which the Gentiles were called seemed contrary to reason. The apostles and brethren, however, must have rejoiced in the thought that the Gospel had found acceptance in other hearts. Despite their initial confusion, they understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they had received His grace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.966565442473652,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
             "commentatorTierSimilarities": [
-                23.17,
-                43.55,
-                33.27
+                19.96,
+                46.72,
+                33.32
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The news of the extraordinary occurrence at Caesarea quickly spread throughout Judea, reaching the Jewish Christians in all communities. This unexpected event, where Gentiles were included into the church through the descent of the Holy Spirit, caused both attention and contention. The fact that real Romans, with Jewish connections, received this blessing without becoming Jews was difficult for many to comprehend. Nevertheless, the rapid spread of the news and the Gentiles' reception of the Holy Spirit could not be ignored, leaving believers intrigued and concerned.",
-            "wordCount": 85,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.8154505052488379,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "bht": "The news from Caesarea quickly spread throughout Judea, causing contention among Jewish Christians. They found it difficult to comprehend how Gentiles could be brought into the church without first becoming Jews. However, the apostles and brethren, who possessed Christian hearts, must have rejoiced at the acceptance of the Gospel in other hearts. They understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, just like they had received His grace.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.9442844794231693,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
             "commentatorTierSimilarities": [
-                20.76,
-                45.91,
-                33.33
+                19.37,
+                50.03,
+                30.6
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The news of the extraordinary occurrence in Caesarea swiftly spread throughout Judea, reaching the Jewish Christians in various communities. This surprising event, where Gentiles were included into the church through the descent of the Holy Spirit, resulted in both attention and contention. The fact that actual Romans, with ties to Judaism, received this blessing without first converting to Judaism puzzled many believers. However, the rapid dissemination of the news and the Gentiles' reception of the Holy Spirit could not be overlooked, leaving believers both intrigued and concerned.",
-            "wordCount": 87,
-            "quoteTokenProportion": 36.07,
-            "qualityScore": 1.750058210141984,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "bht": "The news from Caesarea spread quickly throughout Judea, leading to contention among Jewish Christians. They were perplexed by the acceptance of Gentiles into the church without them first becoming Jews. However, the apostles and brethren, with Christian hearts, must have rejoiced in the Gospel finding acceptance in other hearts. They understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, as well as His grace.",
+            "wordCount": 68,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.9331603516506475,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
             "commentatorTierSimilarities": [
-                19.9,
-                46.38,
-                33.72
+                20.49,
+                49.46,
+                30.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The news from Caesarea quickly spread throughout Judea, reaching the Jewish Christians in various communities. This extraordinary occurrence, where Gentiles were included into the church through the descent of the Holy Spirit, caused attention and contention. The fact that real Romans, with Jewish connections, received this blessing without first becoming Jews was difficult for many to understand. Nonetheless, the rapid spread of the news and the Gentiles' reception of the Holy Spirit could not be ignored, leaving believers intrigued and concerned.",
-            "wordCount": 81,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.7910843873324906,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "bht": "The news from Caesarea spread like wildfire among the Jewish Christians in Judea. It led to contention as they struggled to understand how Gentiles could be accepted into the church without first becoming Jews. Yet, the apostles and brethren must have rejoiced, knowing that the Gospel had found acceptance in the hearts of others. They recognized that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they themselves had received His grace.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.949238321015892,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.15,
             "commentatorTierSimilarities": [
-                21.55,
-                45.74,
-                32.72
+                20.82,
+                48.88,
+                30.3
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The news of the extraordinary occurrence in Caesarea swiftly spread throughout Judea, reaching the Jewish Christians in various communities. This surprising event, where Gentiles were included into the church through the descent of the Holy Spirit, caused both attention and contention. The fact that real Romans, with Jewish connections, received this blessing without first converting to Judaism puzzled many believers. Nonetheless, the rapid dissemination of the news and the Gentiles' reception of the Holy Spirit could not be overlooked, leaving believers both intrigued and concerned.",
-            "wordCount": 85,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.7843577295777973,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "bht": "The news of what happened in Caesarea quickly spread throughout Judea. The Jewish Christians reacted with contention, finding it hard to understand how Gentiles could be accepted into the church without first becoming Jews. However, the apostles and brethren must have rejoiced, knowing that the Gospel had found acceptance in the hearts of others. They recognized that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they themselves had received His grace.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8576698276112338,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
             "commentatorTierSimilarities": [
-                20.94,
-                45.26,
-                33.8
+                19.92,
+                48.26,
+                31.82
             ],
             "generationAttempt": 5
         }

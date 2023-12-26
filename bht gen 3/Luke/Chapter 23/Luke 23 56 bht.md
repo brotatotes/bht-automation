@@ -1,20 +1,20 @@
 # Luke 23:56 Commentary Help Text
 
 ## BHT:
-The women who followed Jesus diligently purchased and prepared spices before sunset on the day of His burial, knowing the importance of their careful preparation. The Gospel accounts dedicate a significant portion to the events of this particular day, underscoring its profound significance in the life of Jesus. Their devotion is evident as they adhered to the Sabbath law, resting on that day. After patiently waiting, they were ready to anoint Jesus' body with the spices they had prepared.
+On the day of Jesus' burial, the women bought spices to prepare for His burial, ensuring no detail was left unchecked. The meticulous account of this day demonstrates its significance, with nearly one-sixth of the Gospel narratives dedicated to it. After purchasing the spices, they rested on the Sabbath according to the law, not yet understanding its abolition. Only after the Sabbath, they proceeded to anoint Jesus' body with the prepared spices, demonstrating their adherence to the customs of the time.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1.  56.] They bought their spices&c. in the short time before sunset.
 
 ### Marvin Vincent:
-1. "It is a significant fact that, reckoning the aggregate space occupied by the four Gospels, nearly one-sixth of the whole amount is occupied with the account of the twenty-four hours beginning with the last supper and ending with the burial of Jesus." 
-2. "There is no day in all Bible history narrated with the fulness of that day."
-3. "If we possessed the whole life of Christ, written with the same detail, the record would occupy one hundred and eighty volumes as large as the whole Bible."
+1. "There is no day in all Bible history narrated with the fulness of that day." 
+2. "If we possessed the whole life of Christ, written with the same detail, the record would occupy one hundred and eighty volumes as large as the whole Bible."
+3. "It is a significant fact that, reckoning the aggregate space occupied by the four Gospels, nearly one-sixth of the whole amount is occupied with the account of the twenty-four hours beginning with the last supper and ending with the burial of Jesus."
 
 ### Philip Schaff:
-1. "After they had viewed the grave, they ought (not stated when?) spices, and rested indeed the Sabbath day, according to the law, but when this was over they went with the spices as quickly as possible to the grave."
-2. "The other women, who did not remain at the sepulchre, may have made immediate preparations."
+1. "The last clause of this verse is to be joined with what follows, so that the resting is not said to have taken place after the preparation of spices." 
+2. "After they had viewed the grave, they ought (not stated when?) spices, and rested indeed the Sabbath day, according to the law, but when this was over they went with the spices as quickly as possible to the grave."
 3. "On the relation of their purpose to the embalming by Nicodemus, see on Mark 16:1; John 19:39-40."
 
 ### Archibald T. Robertson:
@@ -22,45 +22,45 @@ The women who followed Jesus diligently purchased and prepared spices before sun
 
 
 ### John Gill:
-1. "Though they had bought and prepared the spices and ointments, they did not carry them to the sepulchre to anoint the body with them, till the sabbath was over." 
-2. "What is that thing that is lawful to be done to a living man, and is forbidden a dead man? It is said, 'This is anointing.'" 
-3. "But how he could be anointed, and washed, without a limb being moved, is not very easy to say."
+1. "Not knowing as yet the abolition of it, with the rest of the ceremonial law."
+2. "They did not carry them to the sepulchre to anoint the body with them, till the sabbath was over; for this was forbidden to be done on a sabbath day."
+3. "What is that thing that is lawful to be done to a living man, and is forbidden a dead man? It is said, 'this is anointing'."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:23:49
+- Timestamp: 12-25-2023 19:29:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 36.84%
-- BHT Quality Score: 1.7475305264488175
+- BHT Word Count: 82
+- BHT Commentary Usage: 35.19%
+- BHT Quality Score: 1.9835416604088498
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'accounts', 'adhered', 'after', 'and', 'anoint', 'as', 'before', 'body', 'burial', 'careful', 'day', 'dedicate', 'devotion', 'diligently', 'events', 'evident', 'followed', 'gospel', 'had', 'his', 'importance', 'in', 'is', 'its', 'jesus', 'knowing', 'law', 'life', 'of', 'on', 'particular', 'patiently', 'portion', 'preparation', 'prepared', 'profound', 'purchased', 'ready', 'resting', 'sabbath', 'significance', 'significant', 'spices', 'sunset', 'that', 'the', 'their', 'they', 'this', 'to', 'underscoring', 'waiting', 'were', 'who', 'with', 'women']
-- ChatGPT injected words (significant words only) (36):
-	['accounts', 'adhered', 'anoint', 'body', 'burial', 'careful', 'day', 'dedicate', 'devotion', 'diligently', 'events', 'evident', 'followed', 'gospel', 'importance', 'jesus', 'knowing', 'law', 'life', 'particular', 'patiently', 'portion', 'preparation', 'prepared', 'profound', 'purchased', 'ready', 'resting', 'sabbath', 'significance', 'significant', 'spices', 'sunset', 'underscoring', 'waiting', 'women']
+- ChatGPT injected words (54):
+	['abolition', 'according', 'account', 'adherence', 'after', 'anoint', 'body', 'bought', 'burial', 'customs', 'day', 'dedicated', 'demonstrates', 'demonstrating', 'detail', 'ensuring', 'for', 'gospel', 'his', 'it', 'its', 'jesus', 'law', 'left', 'meticulous', 'narratives', 'nearly', 'no', 'not', 'of', 'on', 'one', 'only', 'prepare', 'prepared', 'proceeded', 'purchasing', 'rested', 'sabbath', 'significance', 'sixth', 'spices', 'the', 'their', 'they', 'this', 'time', 'to', 'unchecked', 'understanding', 'was', 'with', 'women', 'yet']
+- ChatGPT injected words (significant words only) (35):
+	['abolition', 'according', 'account', 'adherence', 'anoint', 'body', 'bought', 'burial', 'customs', 'day', 'dedicated', 'demonstrates', 'demonstrating', 'detail', 'ensuring', 'gospel', 'jesus', 'law', 'left', 'meticulous', 'narratives', 'nearly', 'prepare', 'prepared', 'proceeded', 'purchasing', 'rested', 'sabbath', 'significance', 'sixth', 'spices', 'time', 'unchecked', 'understanding', 'women']
 
 ### Logs
-- Attempt 1 BHT: On the day of Jesus' burial, the women who followed Him bought and prepared spices before the Sabbath began. The Gospel accounts of this day highlight its significance, with Luke devoting a considerable portion of his narrative to these twenty-four hours. In fact, if we had a comprehensive account of Jesus' life, it would fill an astounding 180 volumes the size of the entire Bible. After resting on the Sabbath, the women went to the grave to anoint Jesus' body, as it was now lawful to do so. The careful preparation of the spices exemplifies their devotion and reverence for Jesus, even in His death.
-- 🔄 Luke 23:56 (attempt 1, 105 words, 43.24% quotes quality score: 1.7307832412648982, V2 normalized quality score: 48.89, commentator tiers 1-3: 36.28%, 33.93%, 29.8%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: On that day, the women who followed Jesus diligently bought and prepared spices before the Sabbath. These twenty-four hours are uniquely significant, taking up almost one-sixth of the Gospel accounts. If we had a detailed record of Jesus' whole life, it would require an astounding 180 volumes the size of the entire Bible. After observing the Sabbath, the women went to the grave, expressing their deep devotion and veneration for Jesus as they sought to anoint His body.
-- 🔄 Luke 23:56 (attempt 2, 79 words, 45.31% quotes quality score: 1.7276156400467428, V2 normalized quality score: 48.79, commentator tiers 1-3: 39.9%, 31.7%, 28.39%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: On the day of Jesus' burial, the women who followed Him bought their spices&c. in the short time before sunset, as the meticulous preparation of the body was of utmost importance. The Gospel accounts reveal the depth and intensity of this day, with nearly one-sixth of the total Gospels dedicated to its narrative. Despite the brevity of the story, the significance is profound, as this day encapsulates the culmination of Jesus' earthly ministry. The women, having prepared the spices, rested on the Sabbath day, adhering to the law, and rested all during the Sabbath.
-- 🔄 Luke 23:56 (attempt 3, 96 words, 31.15% quotes quality score: 1.6704304623464745, V2 normalized quality score: 46.88, commentator tiers 1-3: 38.82%, 35.29%, 25.89%) 
+- Attempt 1 BHT: On the day when Jesus was buried, the women who had followed Him bought spices to prepare for His burial, ensuring no detail was left unchecked in this significant time. Indeed, the Bible rarely recounts a day with such painstaking detail, and it has been said that if the entire life of Christ were recorded in the same way, it would fill almost 180 volumes. The account of this day alone takes up nearly one-sixth of the Gospel narratives. After purchasing the spices, they refrained from any further activity on the Sabbath, resting according to the law. It is important to note that they did not yet understand the abolishment of the ceremonial law, thus they awaited the Sabbath to pass before proceeding to anoint the body with the spices they had prepared.
+- 🔄 Luke 23:56 (attempt 1, 133 words, 45.16% quotes quality score: 1.9168831950058216, V2 normalized quality score: 55.08, commentator tiers 1-3: 32.82%, 39.79%, 27.39%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The women who followed Jesus diligently purchased and prepared spices before sunset on the day of His burial, knowing the importance of their careful preparation. The Gospel accounts dedicate a significant portion to the events of this particular day, underscoring its profound significance in the life of Jesus. Their devotion is evident as they adhered to the Sabbath law, resting on that day. After patiently waiting, they were ready to anoint Jesus' body with the spices they had prepared.
-- 🔄 Luke 23:56 (attempt 4, 79 words, 36.84% quotes quality score: 1.7475305264488175, V2 normalized quality score: 49.45, commentator tiers 1-3: 36.43%, 35.01%, 28.55%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: On the day of Jesus' burial, the women who followed Him promptly procured and arranged spices in preparation. It is noteworthy that a substantial portion of the Gospel accounts is allotted to the detailed narration of the twenty-four hours encompassing the last supper and Jesus' burial. Had the entire life of Christ been documented similarly, it would require approximately 180 volumes, each as large as the Bible. Having procured the spices before the start of the Sabbath, the women then rested on the Sabbath itself, refraining from further actions until the day had passed.
-- 🔄 Luke 23:56 (attempt 5, 94 words, 40.62% quotes quality score: 1.667591717793427, V2 normalized quality score: 46.79, commentator tiers 1-3: 38.83%, 33.63%, 27.54%) 
+- Attempt 2 BHT: On the day of Jesus' burial, the women purchased spices to prepare for His burial. The meticulous attention to detail in this account is unparalleled, with some estimating that if Christ's entire life were chronicled in the same manner, it would fill nearly 180 volumes. Nearly one-sixth of the Gospel narratives are dedicated to the events of this particular day. They observed the Sabbath and refrained from further work, as they were unaware of its abolition. After the Sabbath, they proceeded to anoint Jesus' body with the prepared spices.
+- 🔄 Luke 23:56 (attempt 2, 90 words, 40.62% quotes quality score: 1.797267648431966, V2 normalized quality score: 51.1, commentator tiers 1-3: 33.58%, 37.37%, 29.05%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 23:56 bht prompt v0.8 (79 words, 36.84% quotes)
-- quality score: 1.7475305264488175, V2 normalized quality score: 49.45, commentator tiers 1-3: 36.43%, 35.01%, 28.55%)
+- Attempt 3 BHT: The women who had followed Jesus took the initiative to purchase spices for His burial, ensuring that every detail was attended to on this significant day. The level of detail in the account of this particular day is unparalleled in the Bible, highlighting its importance. They observed the Sabbath, resting in accordance with the law, before proceeding to the tomb to anoint Jesus' body with the spices they had prepared. The careful observance of the Sabbath reflects their reverence and obedience to the customs of the time.
+- 🔄 Luke 23:56 (attempt 3, 87 words, 35.09% quotes quality score: 1.8319314453980482, V2 normalized quality score: 52.25, commentator tiers 1-3: 32.38%, 38.93%, 28.69%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: On the day of Jesus' burial, the women bought spices to prepare for His burial, ensuring no detail was left unchecked. The meticulous account of this day demonstrates its significance, with nearly one-sixth of the Gospel narratives dedicated to it. After purchasing the spices, they rested on the Sabbath according to the law, not yet understanding its abolition. Only after the Sabbath, they proceeded to anoint Jesus' body with the prepared spices, demonstrating their adherence to the customs of the time.
+- 🔄 Luke 23:56 (attempt 4, 82 words, 35.19% quotes quality score: 1.9835416604088498, V2 normalized quality score: 57.29, commentator tiers 1-3: 30.92%, 39.86%, 29.22%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: On the day of Jesus' burial, the women who followed Him bought spices to prepare for His burial, carefully tending to every detail. The significance of this day is evident in the meticulous account provided, with nearly one-sixth of the Gospel narratives dedicated to it. They observed the Sabbath, resting in accordance with the law, before proceeding to anoint Jesus' body with the prepared spices. Their actions demonstrate their adherence to the customs and traditions of the time.
+- 🔄 Luke 23:56 (attempt 5, 79 words, 34.55% quotes quality score: 1.7034956761345283, V2 normalized quality score: 47.98, commentator tiers 1-3: 32.79%, 39.82%, 27.4%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 23:56 bht prompt v0.8 (82 words, 35.19% quotes)
+- quality score: 1.9835416604088498, V2 normalized quality score: 57.29, commentator tiers 1-3: 30.92%, 39.86%, 29.22%)

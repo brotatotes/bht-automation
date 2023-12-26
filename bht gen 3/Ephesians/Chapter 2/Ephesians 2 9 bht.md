@@ -1,7 +1,7 @@
 # Ephesians 2:9 Commentary Help Text
 
 ## BHT:
-Salvation is not obtained through our own works, but solely by God's grace. This emphasizes that the righteousness of man, including all his works, is set aside and that salvation is a gift from God. The purpose of this is to ensure that no one can boast in their own works, but only in the Lord. Works do not play any role in earning salvation, as it is given freely by God. Hence, there is no room for boasting, but rather, all glory goes to God for His grace and salvation.
+Salvation is not achieved through works, but solely through God's grace. The purpose of this grace is to eliminate any opportunity for boasting by humanity. The righteousness derived from works cannot procure salvation. Thus, all praise and credit should be directed towards God alone, as our best works are only possible through His grace and can never merit salvation. Consequently, salvation is not obtained by works but is the result of God's unfathomable mercy.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -22,22 +22,21 @@ lest—rather, as Greek,
 ### John Calvin:
 1. "Hence we see, that the apostle leaves nothing to men in procuring salvation."
 2. "The whole righteousness of man, which consists in works, — nay, the whole man, and everything that he can call his own, is set aside."
-3. "His meaning is, not that faith is the gift of God, but that salvation is given to us by God, or, that we obtain it by the gift of God."
+3. "Paul's doctrine is overthrown, unless the whole praise is rendered to God alone and his mercy."
 
 ### Philip Schaff:
-1. "This resumes the negative side, asserting that salvation does not proceed from works, as a meritorious ground." 
-2. "It is obvious that we cannot supply 'faith' here, and this is a strong argument for the view taken of the latter part of Ephesians 2:8."
-3. "The purpose of this method of grace is that God alone should have the glory, the negative side of which is 'that no man should boast.'"
+1. "Not of works... salvation does not proceed from works." 
+2. "God alone should have the glory, that no man should boast."
+3. "The purpose of this method of grace is that no man should boast."
 
 ### Archibald T. Robertson:
-1. "It is all of God's grace."
-2. "No man should glory."
-3. "Negative final clause."
+1. "That no man should glory." 
+2. "It is all of God's grace."
 
 ### John Gill:
-1. "Not of works,.... Of any kind, moral or ceremonial, before or after conversion, done without faith or in it, nor of these in any sense; works are neither the moving causes, nor the procuring causes, nor the helping causes, nor 'causa sine qua non', or conditions of salvation..."
-2. "...therefore can never merit at his hand: and salvation is put upon such a foot, lest any man should boast; of his works before God, and unto men..."
-3. "...whoever glories, may glory in the Lord."
+1. "Works are neither the moving causes, nor the procuring causes, nor the helping causes, nor 'causa sine qua non', or conditions of salvation."
+2. "The best works that are done by men, are not done of themselves, but by the grace of God, and therefore can never merit at his hand."
+3. "Lest any man should boast; of his works before God, and unto men; wherefore he has denied works any place in justification and salvation, in order to exclude all boasting in man; and has fixed it in a way of grace."
 
 ### John Wesley:
 1. Not by works — Neither this faith nor this salvation is owing to any works you ever did, will, or can do.
@@ -46,36 +45,35 @@ lest—rather, as Greek,
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:28:09
+- Timestamp: 12-25-2023 20:08:45
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 53.45%
-- BHT Quality Score: 1.7572353037665307
+- BHT Word Count: 76
+- BHT Commentary Usage: 50.94%
+- BHT Quality Score: 1.8435461517120046
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'all', 'and', 'any', 'as', 'aside', 'boast', 'boasting', 'but', 'by', 'can', 'do', 'earning', 'emphasizes', 'ensure', 'for', 'freely', 'from', 'gift', 'given', 'glory', 'god', 'goes', 'grace', 'hence', 'his', 'in', 'including', 'is', 'it', 'lord', 'man', 'no', 'not', 'obtained', 'of', 'one', 'only', 'our', 'own', 'play', 'purpose', 'rather', 'righteousness', 'role', 'room', 's', 'salvation', 'set', 'solely', 'that', 'the', 'their', 'there', 'this', 'through', 'to', 'works']
-- ChatGPT injected words (significant words only) (27):
-	['aside', 'boast', 'boasting', 'earning', 'emphasizes', 'ensure', 'freely', 'gift', 'given', 'glory', 'god', 'goes', 'grace', 'including', 'lord', 'man', 'obtained', 'play', 'purpose', 'righteousness', 'role', 'room', 's', 'salvation', 'set', 'solely', 'works']
+- ChatGPT injected words (53):
+	['achieved', 'all', 'alone', 'and', 'any', 'are', 'as', 'be', 'best', 'boasting', 'but', 'by', 'can', 'cannot', 'consequently', 'credit', 'derived', 'directed', 'eliminate', 'for', 'from', 'god', 'grace', 'his', 'humanity', 'is', 'mercy', 'merit', 'never', 'not', 'obtained', 'of', 'only', 'opportunity', 'our', 'possible', 'praise', 'procure', 'purpose', 'result', 'righteousness', 's', 'salvation', 'should', 'solely', 'the', 'this', 'through', 'thus', 'to', 'towards', 'unfathomable', 'works']
+- ChatGPT injected words (significant words only) (26):
+	['achieved', 'best', 'boasting', 'consequently', 'credit', 'derived', 'directed', 'eliminate', 'god', 'grace', 'humanity', 'mercy', 'merit', 'obtained', 'opportunity', 'possible', 'praise', 'procure', 'purpose', 'result', 'righteousness', 's', 'salvation', 'solely', 'unfathomable', 'works']
 
 ### Logs
-- Attempt 1 BHT: Salvation is not obtained through our own works, but solely by God's grace. This emphasizes that the righteousness of man, including all his works, is set aside and that salvation is a gift from God. The purpose of this is to ensure that no one can boast in their own works, but only in the Lord. Works do not play any role in earning salvation, as it is given freely by God. Hence, there is no room for boasting, but rather, all glory goes to God for His grace and salvation.
-- 🔄 Ephesians 2:9 (attempt 1, 92 words, 53.45% quotes quality score: 1.7572353037665307, V2 normalized quality score: 49.77, commentator tiers 1-3: 17.72%, 35.19%, 47.08%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 2 BHT: Salvation is not of our own works but solely by God's grace. This means that no one can boast in their own efforts. The righteousness of man, in all its forms, is set aside when it comes to salvation. Instead, we receive salvation as a gift from God. This ensures that all glory goes to Him and not to ourselves. Works do not play a part in earning salvation; it is purely by the grace of God that we are saved.
-- 🔄 Ephesians 2:9 (attempt 2, 82 words, 54.55% quotes quality score: 1.559178856791196, V2 normalized quality score: 43.19, commentator tiers 1-3: 19.08%, 33.01%, 47.91%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 3 BHT: Salvation is not earned through our works, but purely by God's grace. This contrasts with the notion of boasting in one's own achievements. The righteousness of man, whether displayed through moral or ceremonial acts, is irrelevant in procuring salvation. By emphasizing that salvation is a gift from God, the apostle asserts that our own efforts cannot merit salvation. The purpose of this is to direct all glory towards God, ensuring that no one can boast in their own works.
-- 🔄 Ephesians 2:9 (attempt 3, 81 words, 45.45% quotes quality score: 1.57970779735955, V2 normalized quality score: 43.87, commentator tiers 1-3: 17.87%, 35.54%, 46.6%) 
+- Attempt 1 BHT: Salvation is not obtained through works but is entirely a result of God's grace. The purpose of this method of grace is to ensure that no one can boast about their own achievements. In fact, the whole righteousness of man, including all his works, is insufficient in procuring salvation. Works do not contribute in any way to the causes or conditions of salvation. God alone deserves all the glory, and any attempt to boast or rely on our own efforts is futile. Salvation is not by works, but solely by God's grace.
+- 🔄 Ephesians 2:9 (attempt 1, 94 words, 48.28% quotes quality score: 1.8768590087577723, V2 normalized quality score: 53.75, commentator tiers 1-3: 19.99%, 35.6%, 44.41%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Salvation is not attained through our own works, but solely by the grace of God. This negates any opportunity for boasting and affirms that the righteousness of man is entirely disregarded. The apostle emphasizes that salvation is a divine gift, not earned or obtained through works. By doing so, he ensures that all glory is attributed to God alone. Works hold no significance in earning salvation, as it is purely by God's grace that we are saved.
-- 🔄 Ephesians 2:9 (attempt 4, 78 words, 49.12% quotes quality score: 1.67425937398467, V2 normalized quality score: 47.01, commentator tiers 1-3: 17.94%, 34.32%, 47.74%) 
+- Attempt 2 BHT: Salvation is not accomplished through works; it is solely a product of God's grace. The purpose of this divine method is to prevent boasting by humbling humanity. No human works, regardless of their perceived righteousness, can contribute to salvation. God alone deserves the entirety of the praise. Salvation is not achieved through our own efforts, but solely through the unmerited favor of God.
+- 🔄 Ephesians 2:9 (attempt 2, 64 words, 38.64% quotes quality score: 1.7747416499979711, V2 normalized quality score: 50.35, commentator tiers 1-3: 21.46%, 36.39%, 42.15%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Salvation is not achieved through human effort, but by God's grace alone. This contradicts the idea of boasting based on personal accomplishments. The apostle emphasizes that works, whether moral or ceremonial, hold no significance in obtaining salvation. Instead, salvation is a gift granted by God. This divine plan ensures that all glory is attributed solely to God, eliminating any opportunity for self-glorification through works. It is important to recognize that salvation is not earned, but freely given by God's grace.
-- 🔄 Ephesians 2:9 (attempt 5, 83 words, 35.0% quotes quality score: 1.5841704051368009, V2 normalized quality score: 44.02, commentator tiers 1-3: 18.71%, 35.34%, 45.95%) 
+- Attempt 3 BHT: Salvation is not of works but is entirely a result of God's grace. The purpose of this method of grace is to ensure that no man should boast about his own works before God or unto men. According to the apostle, the whole righteousness of man, which consists in works, is set aside as it cannot merit salvation. In all of this, the doctrine emphasizes that all praise should be given to God alone and his boundless mercy.
+- 🔄 Ephesians 2:9 (attempt 3, 79 words, 49.06% quotes quality score: 1.98482769918545, V2 normalized quality score: 57.34, commentator tiers 1-3: 21.42%, 33.89%, 44.69%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Salvation is not obtained through works, but it is entirely a result of God's grace. The purpose of God's grace is to prevent any individual from boasting about their own accomplishments. The righteousness of man, which is achieved through works, is utterly insufficient and cannot contribute to salvation. It is crucial to attribute all the praise and credit to God alone, as our best works are accomplished by His grace and can never merit salvation. Therefore, salvation is not by works, but solely by God's gracious intervention.
+- 🔄 Ephesians 2:9 (attempt 4, 90 words, 48.21% quotes quality score: 1.91670882349325, V2 normalized quality score: 55.07, commentator tiers 1-3: 20.94%, 33.04%, 46.02%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 2:9 bht prompt v0.8 (92 words, 53.45% quotes)
-- quality score: 1.7572353037665307, V2 normalized quality score: 49.77, commentator tiers 1-3: 17.72%, 35.19%, 47.08%)
+- Attempt 5 BHT: Salvation is not achieved through works, but solely through God's grace. The purpose of this grace is to eliminate any opportunity for boasting by humanity. The righteousness derived from works cannot procure salvation. Thus, all praise and credit should be directed towards God alone, as our best works are only possible through His grace and can never merit salvation. Consequently, salvation is not obtained by works but is the result of God's unfathomable mercy.
+- 🔄 Ephesians 2:9 (attempt 5, 76 words, 50.94% quotes quality score: 1.8435461517120046, V2 normalized quality score: 52.64, commentator tiers 1-3: 21.27%, 33.53%, 45.2%)
+- ✅ Ephesians 2:9 bht prompt v0.8 (76 words, 50.94% quotes)
+- quality score: 1.8435461517120046, V2 normalized quality score: 52.64, commentator tiers 1-3: 21.27%, 33.53%, 45.2%)

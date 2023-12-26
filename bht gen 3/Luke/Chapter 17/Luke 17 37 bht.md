@@ -1,17 +1,16 @@
 # Luke 17:37 Commentary Help Text
 
 ## BHT:
-Wherever there is widespread moral and spiritual corruption, divine judgment is certain to arrive, akin to birds of prey drawn to carrion. This saying was vividly confirmed during the destruction of Jerusalem and has continued to prove true. Ultimately, its most significant manifestation will be on the final day of the world. The image of eagles or vultures flocking to a carcass is used to depict this phenomenon. This prophetic response points to the universality of judgment, echoed in Matthew 24:28.
+Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will be seen alighting like birds of prey scenting out carrion. This terrifying proverb has been verified throughout history, particularly during the destruction of Jerusalem and will be most fully realized on the world's final day. The eagles, or vultures, in this proverb are attracted to the carcass, symbolizing the judgment that comes to places of great wickedness. While some see a reference to the destruction of Jerusalem, the focus here is on the second coming of Christ alone.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "As birds of prey scent out the carrion, so wherever is found a mass of incurable moral and spiritual corruption, there will be seen alighting the ministers of divine judgment."
-2. "a proverbial saying terrifically verified at the destruction of Jerusalem, and many times since"
-3. "its most tremendous illustration will be at the world's final day."
+1. "As birds of prey scent out the carrion, so wherever is found a mass of incurable moral and spiritual corruption, there will be seen alighting the ministers of divine judgment." 
+2. "A proverbial saying terrifically verified at the destruction of Jerusalem, and many times since, though its most tremendous illustration will be at the world's final day."
 
 ### Albert Barnes:
-1. "Where, Lord? - Where, or in what direction, shall these calamities come? The answer implies that it would be where there is the most 'guilt and wickedness.'" 
-2. "Eagles flock where there is prey. So, said he, these armies will flock to the place where there is the most wickedness." 
+1. "Where, or in what direction, shall these calamities come? The answer implies that it would be where there is the most 'guilt and wickedness.'" 
+2. "Eagles flock where there is prey. So, said he, these armies will flock to the place where there is the most wickedness."
 3. "By this their thoughts were directed at once to Jerusalem, the place of eminent wickedness, and the place, therefore, where these calamities might be expected to begin."
 
 ### Marvin Vincent:
@@ -23,16 +22,18 @@ Peculiar to Luke. 1 - 14.
 
 ### Philip Schaff:
 1. "The answer of our Lord: where the body is, etc., proclaims this universality."
-2. "In Matthew 24:28, we find precisely the same thought, 'carcass' being substituted for 'body.'"
+2. "In Matthew 24:28, we find precisely the same thought, ‘carcass’ being substituted for ‘body.’"
 3. "There, however, a reference to the destruction of Jerusalem is probably included; here the second coming of Christ alone is spoken of."
 
 ### Archibald T. Robertson:
 1. "The eagles (ο αετο). Or the vultures attracted by the carcass."
-2. "This proverb is quoted also in Matthew 24:28. See Job 39:27-30; Hebrews 1:8; Hosea 8:1."
+2. "This proverb is quoted also in Matthew 24:28."
 3. "Double compound (επι-συν-) in επι-συν-αχθησοντα completes the picture."
 
 ### John Gill:
-1. "wheresoever the body is; the carcass of the Jewish nation, as at Jerusalem chiefly..."
+1. "Wheresoever the body is; the carcass of the Jewish nation, as at Jerusalem chiefly, and in whatsoever place: thither will the eagles be gathered together." 
+2. "These words can by no means be understood of sinners fleeing to Christ for eternal life and salvation; nor of the gathering of saints to him, at the last day."
+3. "Nor is Christ's coming ever expressed by the gathering of him to his people; but on the other hand, they are always said to be gathered unto him."
 
 ### John Wesley:
 1.  Matthew 24:28.
@@ -41,41 +42,39 @@ Peculiar to Luke. 1 - 14.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:21:18
+- Timestamp: 12-25-2023 19:29:10
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 33.33%
-- BHT Quality Score: 1.5786554982356211
+- BHT Word Count: 96
+- BHT Commentary Usage: 39.13%
+- BHT Quality Score: 1.823498433301935
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'akin', 'and', 'arrive', 'be', 'birds', 'carcass', 'carrion', 'certain', 'confirmed', 'continued', 'corruption', 'day', 'depict', 'destruction', 'divine', 'drawn', 'during', 'eagles', 'echoed', 'final', 'flocking', 'has', 'image', 'in', 'is', 'its', 'jerusalem', 'judgment', 'manifestation', 'matthew', 'moral', 'most', 'of', 'on', 'or', 'phenomenon', 'points', 'prey', 'prophetic', 'prove', 'response', 'saying', 'significant', 'spiritual', 'the', 'there', 'this', 'to', 'true', 'ultimately', 'universality', 'used', 'vividly', 'vultures', 'was', 'wherever', 'widespread', 'will', 'world']
-- ChatGPT injected words (significant words only) (40):
-	['akin', 'arrive', 'birds', 'carcass', 'carrion', 'certain', 'confirmed', 'continued', 'corruption', 'day', 'depict', 'destruction', 'divine', 'drawn', 'eagles', 'echoed', 'final', 'flocking', 'image', 'jerusalem', 'judgment', 'manifestation', 'matthew', 'moral', 'phenomenon', 'points', 'prey', 'prophetic', 'prove', 'response', 'saying', 'significant', 'spiritual', 'true', 'ultimately', 'universality', 'vividly', 'vultures', 'widespread', 'world']
+- ChatGPT injected words (69):
+	['a', 'alighting', 'alone', 'and', 'are', 'attracted', 'be', 'been', 'birds', 'carcass', 'carrion', 'christ', 'comes', 'coming', 'corruption', 'day', 'destruction', 'divine', 'during', 'eagles', 'final', 'focus', 'fully', 'great', 'has', 'here', 'history', 'in', 'incurable', 'is', 'jerusalem', 'judgment', 'like', 'mass', 'ministers', 'moral', 'most', 'of', 'on', 'or', 'out', 'particularly', 'places', 'prey', 'proverb', 'realized', 'reference', 's', 'scenting', 'second', 'see', 'seen', 'some', 'spiritual', 'symbolizing', 'terrifying', 'that', 'the', 'there', 'this', 'throughout', 'to', 'verified', 'vultures', 'wherever', 'while', 'wickedness', 'will', 'world']
+- ChatGPT injected words (significant words only) (42):
+	['alighting', 'attracted', 'birds', 'carcass', 'carrion', 'christ', 'comes', 'coming', 'corruption', 'day', 'destruction', 'divine', 'eagles', 'final', 'focus', 'fully', 'great', 'history', 'incurable', 'jerusalem', 'judgment', 'like', 'mass', 'ministers', 'moral', 'particularly', 'places', 'prey', 'proverb', 'realized', 'reference', 's', 'scenting', 'second', 'seen', 'spiritual', 'symbolizing', 'terrifying', 'verified', 'vultures', 'wickedness', 'world']
 
 ### Logs
-- Attempt 1 BHT: Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will alight like birds of prey scenting out carrion. This saying was truly realized during the destruction of Jerusalem and many times thereafter, and it will reach its most tremendous manifestation on the final day of the world. Eagles, or vultures attracted by the carcass, symbolize this phenomenon. The answer to the question of where these calamities will occur implies that they will be where the most guilt and wickedness reside, and Jerusalem was thought of as such a place. The universal nature of this judgment is highlighted by the statement that wherever the body is, the eagles will gather, mirroring the passage in Matthew 24:28. However, in this verse, the focus may be solely on the second coming of Christ rather than the destruction of Jerusalem.
-- 🔄 Luke 17:37 (attempt 1, 142 words, 36.67% quotes quality score: 1.7484869410313852, V2 normalized quality score: 49.48, commentator tiers 1-3: 25.68%, 43.34%, 30.98%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will alight like birds of prey, fulfilling the proverbial saying that was markedly seen during the destruction of Jerusalem and other times. This will culminate in its most tremendous manifestation on the world's final day. Eagles, or vultures attracted by the carcass, illustrate the phenomenon, emphasizing the presence of wickedness. The question of where these calamities will occur directs thoughts to Jerusalem, the place known for its notable wickedness. The answer reveals the universal nature of this judgment, highlighting that the eagles will gather wherever the body is found, echoing the same idea in Matthew 24:28.
-- 🔄 Luke 17:37 (attempt 2, 112 words, 30.38% quotes quality score: 1.671989138068947, V2 normalized quality score: 46.94, commentator tiers 1-3: 27.58%, 44.05%, 28.36%) 
+- Attempt 1 BHT: Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will be seen alighting like birds of prey scenting out carrion. This terrifying proverb has been verified throughout history, particularly during the destruction of Jerusalem and will be most fully realized on the world's final day. The eagles, or vultures, in this proverb are attracted to the carcass, symbolizing the judgment that comes to places of great wickedness. While some see a reference to the destruction of Jerusalem, the focus here is on the second coming of Christ alone.
+- 🔄 Luke 17:37 (attempt 1, 96 words, 39.13% quotes quality score: 1.823498433301935, V2 normalized quality score: 51.97, commentator tiers 1-3: 35.29%, 40.28%, 24.43%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Wherever there is a mass of incurable moral and spiritual corruption, divine judgment is sure to follow. This was notably witnessed during the destruction of Jerusalem and other instances, emphasizing the proverbial saying's terrible verification. Ultimately, the most formidable demonstration will occur on the world's last day. Eagles, or vultures drawn to the carcass, serve as a vivid illustration. By stating that the eagles will gather wherever the body is found, the answer implies the universal reach of this judgment, a sentiment echoed in Matthew 24:28.
-- 🔄 Luke 17:37 (attempt 3, 87 words, 32.31% quotes quality score: 1.5600461394383263, V2 normalized quality score: 43.21, commentator tiers 1-3: 31.53%, 40.7%, 27.77%) 
+- Attempt 2 BHT: Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will be seen alighting like birds of prey scenting out carrion. This proverb finds its terrifying verification in the destruction of Jerusalem and other calamitous events throughout history. The eagles or vultures, attracted by the carcass, symbolize the gathering of judgment upon places of great wickedness. While some see a reference to the destruction of Jerusalem, the focus here is on the second coming of Christ alone.
+- 🔄 Luke 17:37 (attempt 2, 83 words, 39.68% quotes quality score: 1.7927602332328254, V2 normalized quality score: 50.95, commentator tiers 1-3: 34.87%, 41.72%, 23.41%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Wherever there is widespread moral and spiritual corruption, divine judgment is certain to arrive, akin to birds of prey drawn to carrion. This saying was vividly confirmed during the destruction of Jerusalem and has continued to prove true. Ultimately, its most significant manifestation will be on the final day of the world. The image of eagles or vultures flocking to a carcass is used to depict this phenomenon. This prophetic response points to the universality of judgment, echoed in Matthew 24:28.
-- 🔄 Luke 17:37 (attempt 4, 80 words, 33.33% quotes quality score: 1.5786554982356211, V2 normalized quality score: 43.83, commentator tiers 1-3: 29.81%, 41.02%, 29.17%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Wherever there is a mass of incurable moral and spiritual corruption, divine judgment is sure to follow. Eagles, or vultures attracted by the carcass, illustrate the phenomenon of judgment. The answer to where these calamities will occur implies that they will be where the most guilt and wickedness reside. This saying was vividly verified during the destruction of Jerusalem and will be most pronounced on the world's final day. The universal nature of this judgment is highlighted by the statement that wherever the body is, the eagles will gather, echoing the passage in Matthew 24:28.
-- 🔄 Luke 17:37 (attempt 5, 95 words, 34.92% quotes quality score: 1.7465076888871818, V2 normalized quality score: 49.41, commentator tiers 1-3: 28.61%, 42.69%, 28.7%) 
+- Attempt 3 BHT: Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will be seen alighting like birds of prey scenting out carrion. This proverb finds its terrifying verification in the destruction of Jerusalem and other calamitous events, with the most tremendous illustration reserved for the world's final day. The eagles, or vultures, are attracted to the carcass, symbolizing the gathering of judgment upon places steeped in wickedness. While some see a reference to Jerusalem's destruction, the focus here is solely on the second coming of Christ.
+- 🔄 Luke 17:37 (attempt 3, 93 words, 36.62% quotes quality score: 1.7655223116977976, V2 normalized quality score: 50.05, commentator tiers 1-3: 36.37%, 40.06%, 23.58%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Luke 17:37 bht prompt v0.8 (80 words, 33.33% quotes)
-- quality score: 1.5786554982356211, V2 normalized quality score: 43.83, commentator tiers 1-3: 29.81%, 41.02%, 29.17%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will be seen alighting like birds of prey scenting out carrion. This terrifying proverb, verified at the destruction of Jerusalem and in other instances, speaks to the universality of such calamities. The eagles, or vultures, are drawn to the carcass of wickedness, highlighting the gathering of judgment in these places. While the reference to the destruction of Jerusalem is included, the primary focus is on the second coming of Christ.
+- 🔄 Luke 17:37 (attempt 4, 86 words, 35.0% quotes quality score: 1.7898672165285037, V2 normalized quality score: 50.85, commentator tiers 1-3: 33.29%, 42.97%, 23.75%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Wherever there is a mass of incurable moral and spiritual corruption, divine judgment will come like birds of prey attracted to carrion. This terrifying proverb is verified by historical destructions, notably Jerusalem, and will find its most tremendous illustration on the world's final day. The eagles, or vultures, are drawn to the carcass of wickedness, symbolizing the gathering of judgment in these places. While the destruction of Jerusalem may be implied, the central focus here is solely on the second coming of Christ.
+- 🔄 Luke 17:37 (attempt 5, 84 words, 33.85% quotes quality score: 1.7783994984877614, V2 normalized quality score: 50.47, commentator tiers 1-3: 35.28%, 40.85%, 23.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 17:37 bht prompt v0.8 (96 words, 39.13% quotes)
+- quality score: 1.823498433301935, V2 normalized quality score: 51.97, commentator tiers 1-3: 35.29%, 40.28%, 24.43%)

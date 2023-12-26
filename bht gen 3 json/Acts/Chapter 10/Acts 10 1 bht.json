@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-19-2023 16:29:06",
+    "timestamp": "12-25-2023 20:08:53",
     "verseRef": "Acts 10:1",
     "bestBHT": {
-        "bht": "C\u00e6sarea, a significant town in Palestine, had a mixed population of Gentiles and Jews. Cornelius, a devout centurion from the Italian band stationed there, was known for his sincerity in embracing the worship of the true God while eschewing idols. Despite serving in a corrupt environment as a soldier, Cornelius displayed commendable virtues and treated others with courtesy and upright conduct. The preparation of Peter's work and miracles in Lydda and elsewhere paved the way for the unfolding of this significant event.",
-        "wordCount": 83,
-        "quoteTokenProportion": 27.87,
-        "qualityScore": 1.5902602923955302,
-        "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+        "bht": "In the Roman city of Caesarea, a Gentile centurion named Cornelius lived. He was part of the Italian band, a cohort of Italian soldiers stationed in Caesarea as a possible bodyguard to the Roman procurator. Despite being a soldier, Cornelius displayed rare virtues of devoutness toward God, uprightness, and courtesy toward others. His story in Caesarea foreshadows the association of the apostle Paul with the Roman army and the inclusion of the Gentiles, revealing God's providential plan.",
+        "wordCount": 78,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 2.062720238412789,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.93,
         "commentatorTierSimilarities": [
-            24.97,
-            36.03,
-            39.0
+            30.2,
+            32.83,
+            36.97
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "C\u00c6SAREA is between Joppa and Dora, 68 Roman miles from Jerusalem according to the Jerusalem Itinerary, 75 according to Josephus,\u201436 miles from Ptolemais (a day\u2019s journey, Acts xxi. 8),\u201430 from Joppa;\u2014one of the largest towns in Palestine, with an excellent haven, built by Herod the Great, and called Sebastos (Augustus) in honour of C\u00e6sar.\" ",
-            "It was chiefly inhabited by Gentiles, but there were also many thousand Jewish inhabitants.",
-            "a centurion] The subordinate officer commanding the sixth part of a cohort, or half a maniple. of the band called the Italian band] i.e. of a cohort levied in Italy, not in Syria."
+            "C\u00c6SAREA ( 'of Palestine,' called 'by the sea' [as we say, 'super mare']) is between Joppa and Dora...It was, even before the destruction of Jerusalem, the seat of the Roman Procurators...It was chiefly inhabited by Gentiles, but there were also many thousand Jewish inhabitants.\" ",
+            "It was built by Herod the Great...and in honour of C\u00e6sar Augustus named C\u00e6sarea, more fully C\u00e6sarea Sebast\u00e9.",
+            "A centurion...of the band called the Italian band, i.e. of a cohort levied in Italy, not in Syria."
         ],
         "Jamieson-Fausset-Brown": [
-            "C\u00e6sarea\u2014(See on :-).",
+            "C\u00e6sarea\u2014(See on :-).\" ",
             "the Italian band\u2014a cohort of Italians, as distinguished from native soldiers, quartered at C\u00e6sarea, probably as a bodyguard to the Roman procurator who resided there.",
             "An ancient coin makes express mention of such a cohort in Syria."
         ],
         "Albert Barnes": [
-            "Cornelius - This is a Latin name, and shows that the man was doubtless a Roman.",
-            "It has been supposed by many interpreters that he was 'a proselyte of the gate'; that is, one who had renounced idolatry, and who observed some of the Jewish rites.",
-            "A centurion - One who was the commander of a division in the Roman army, consisting of 100 men."
+            "Cornelius... shows that the man was doubtless a Roman.",
+            "He was a Gentile... one who did not in any sense esteem himself to be a Jew.",
+            "The Italian band - Probably a band or regiment that was composed of soldiers from Italy."
         ],
         "Marvin Vincent": [
             "Centurion. See on Luke 7:2. ",
@@ -41,18 +41,18 @@
             "Seeing that none of these things could hinder Cornelius, but that forsaking his idols he did embrace the true worship of the true God alone, it must needs be that he was endued with rare and singular sincerity."
         ],
         "Philip Schaff": [
-            "The work and miracles of Peter at Lydda and elsewhere were the preparation for what is now about to be recounted.",
-            "There was something providential, if we may say so, in the fact that Jerusalem never became the Roman capital, but always retained its Hebrew character.",
-            "Rather we ought to say that it is a bad thing overruled for good, and made subservient to missionary purposes."
+            "All this sacred history, both in its outward circumstances and in the apostle's personal experience, is arranged on a providential plan.",
+            "C\u00e6sarea is set before us as the scene of the bright beginning of that revelation of the 'mystery of the reception of the Gentiles on equal terms with the Jews, in which St. Paul afterwards so much gloried.",
+            "We have here, in the case of Cornelius, an anticipation of the intimate association of St. Paul with the Roman army. It does not follow from this that war is a good thing. Rather we ought to say that it is a bad thing overruled for good, and made subservient to missionary purposes."
         ],
         "Archibald T. Robertson": [
             "These Roman centurions always appear in a favourable light in the N.T.",
-            "Furneaux notes the contrasts between Joppa, the oldest town in Palestine, and Caesarea, built by Herod.",
-            "The Italian cohorts were sent to any part of the empire as needed."
+            "Once more Luke has been vindicated.",
+            "The soldiers could, of course, be Roman citizens who lived in Caesarea. But the Italian cohorts were sent to any part of the empire as needed."
         ],
         "John Gill": [
-            "This was the Caesarea formerly called Strato's tower, not Caesarea Philippi; for the former, and not the latter, lay near Joppa.",
-            "which was a Roman name, and he himself was a Roman or an Italian.",
+            "There was a certain man in Caesarea... called Cornelius... a centurion of the band called the Italian band.\" ",
+            "This was the Caesarea formerly called Strato's tower, not Caesarea Philippi.",
             "which consisted of soldiers collected out of Italy, from whence the band took its name, in which Cornelius was a centurion, having a hundred men under him, as the name of his office signifies."
         ]
     },
@@ -73,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "C\u00e6sarea, located between Joppa and Dora, was a prominent town in Palestine with both Gentile and Jewish inhabitants. Cornelius, a devout and courteous centurion from the Italian band stationed in C\u00e6sarea, was known for his upright character, despite the corrupt nature of a soldier's life at that time. The virtues of Cornelius were commendable, particularly his sincerity in embracing the true worship of God. His sincere devotion to the true God, forsaking idols, was evident. This account in Acts highlights the providential preparation of Peter's work and miracles in Lydda and elsewhere, as well as the missionary purposes served by the Roman empire's involvement.",
-            "wordCount": 107,
-            "quoteTokenProportion": 27.63,
-            "qualityScore": 1.6980438125007173,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "bht": "In the city of Caesarea, a centurion named Cornelius lived. Caesarea, a Roman city named after Caesar Augustus, was a predominantly Gentile city, although it also had a significant Jewish population. Cornelius was a centurion of the Italian band, a cohort of Italian soldiers stationed in Caesarea, possibly serving as a bodyguard to the Roman procurator. It is worth noting that these Roman centurions often appeared in a favorable light in the New Testament. Despite being a Gentile and a soldier, Cornelius demonstrated remarkable devotion to God, personal integrity, and kindness towards others. His virtues are even more commendable considering the corrupt nature of the soldier's life at that time. Cornelius's story in Caesarea anticipates the later association of the apostle Paul with the Roman army and highlights the providential plan to reveal the mystery of the reception and inclusion of the Gentiles on equal terms with the Jews.",
+            "wordCount": 151,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.956850946708923,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
             "commentatorTierSimilarities": [
-                23.55,
-                35.45,
-                41.0
+                30.7,
+                33.85,
+                35.45
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "C\u00e6sarea, situated between Joppa and Dora, was a sizable town in Palestine with Gentile and Jewish residents. The devout and courteous centurion Cornelius, belonging to the Italian band stationed there, displayed rare and commendable virtues despite the corruption prevalent among soldiers. His sincere and wholehearted embrace of the true worship of God, forsaking idols, was remarkable. This account in Acts highlights the providential preparation of Peter's miraculous work and the missionary purposes served by the involvement of the Roman empire.",
-            "wordCount": 81,
-            "quoteTokenProportion": 21.88,
-            "qualityScore": 1.7098673337753527,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "bht": "In the Roman city of Caesarea, a Gentile centurion named Cornelius lived. He was part of the Italian band, a cohort of Italian soldiers stationed in Caesarea as a possible bodyguard to the Roman procurator. Despite being a soldier, Cornelius displayed rare virtues of devoutness toward God, uprightness, and courtesy toward others. His story in Caesarea foreshadows the association of the apostle Paul with the Roman army and the inclusion of the Gentiles, revealing God's providential plan.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.062720238412789,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.93,
             "commentatorTierSimilarities": [
-                28.18,
-                35.2,
-                36.62
+                30.2,
+                32.83,
+                36.97
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "C\u00e6sarea, a significant town in Palestine, had a mixed population of Gentiles and Jews. Cornelius, a devout centurion from the Italian band stationed there, was known for his sincerity in embracing the worship of the true God while eschewing idols. Despite serving in a corrupt environment as a soldier, Cornelius displayed commendable virtues and treated others with courtesy and upright conduct. The preparation of Peter's work and miracles in Lydda and elsewhere paved the way for the unfolding of this significant event.",
-            "wordCount": 83,
-            "quoteTokenProportion": 27.87,
-            "qualityScore": 1.5902602923955302,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "bht": "In the city of Caesarea, a centurion named Cornelius lived. Caesarea was built by Herod the Great and named in honor of Caesar Augustus. Cornelius was part of the Italian band, a cohort of Italian soldiers stationed in Caesarea, likely serving as a bodyguard to the Roman procurator. Despite being a Gentile and a soldier, Cornelius demonstrated remarkable devotion to God, personal integrity, and kindness towards others. His story serves as an anticipation of the inclusion of Gentiles in the plan of God, and highlights the providential way in which even the Roman army can be used for good purposes.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9667056104475038,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
             "commentatorTierSimilarities": [
-                24.97,
-                36.03,
-                39.0
+                31.05,
+                32.16,
+                36.79
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The town of C\u00e6sarea, situated between Joppa and Dora, was a notable place with both Gentile and Jewish inhabitants. Cornelius, a centurion from the Italian band stationed in C\u00e6sarea, showcased remarkable virtues despite the corruption typically associated with soldiers. His sincere devotion to the true God and abandonment of idols was truly commendable. This account in Acts showcases the providential preparation of Peter's work and miracles, illustrating the missionary purposes that were fulfilled through the involvement of the Roman empire.",
-            "wordCount": 81,
-            "quoteTokenProportion": 25.4,
-            "qualityScore": 1.6692553426907986,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "bht": "In the city of Caesarea, a Gentile centurion named Cornelius lived. He was part of the Italian band, a cohort of Italian soldiers stationed in Caesarea, likely serving as a bodyguard to the Roman procurator. Despite being a soldier, Cornelius displayed rare virtues of devoutness toward God, uprightness, and courtesy toward others. His story in Caesarea foreshadows the association of the apostle Paul with the Roman army and the inclusion of the Gentiles, revealing God's providential plan.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.0090729019041027,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
             "commentatorTierSimilarities": [
-                26.1,
-                36.41,
-                37.49
+                29.16,
+                32.42,
+                38.41
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "C\u00e6sarea, a notable town built by Herod the Great, was located between Joppa and Dora. As the centurion of the Italian band stationed in C\u00e6sarea, Cornelius, despite the corruption often associated with soldiers, displayed remarkable virtues. His sincere devotion to the true God, forsaking idols, was highly commendable. This account in Acts highlights the providential preparation of Peter's work and miracles, showcasing how the involvement of the Roman empire served missionary purposes.",
-            "wordCount": 73,
-            "quoteTokenProportion": 25.0,
-            "qualityScore": 1.6815963363685484,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "bht": "In the city of Caesarea, Cornelius, a centurion from the Italian band, resided. Caesarea, originally named by Herod the Great in honor of Caesar Augustus, was inhabited by both Gentiles and Jews. As a soldier, Cornelius stood out for his devotion to God, integrity, and kindness towards others, despite the corrupt nature of the soldier's life at that time. His story in Caesarea serves as an anticipation of the inclusion of Gentiles and the providential use of the Roman army for missionary purposes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9831936838504096,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
             "commentatorTierSimilarities": [
-                25.38,
-                36.82,
-                37.79
+                29.24,
+                34.17,
+                36.59
             ],
             "generationAttempt": 5
         }

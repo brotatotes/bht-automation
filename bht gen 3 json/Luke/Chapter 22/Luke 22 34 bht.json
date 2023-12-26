@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-25-2023 19:21:22",
+    "timestamp": "12-25-2023 20:08:35",
     "verseRef": "Luke 22:34",
     "bestBHT": {
-        "bht": "This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now rely on common resources and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, signifying steadfastness, contrasts sharply with his conduct. The cock will not crow until Peter has thrice denied knowing Jesus, showing that this denial will happen before the usual time of cock crowing in the morning.",
-        "wordCount": 98,
-        "quoteTokenProportion": 41.18,
-        "qualityScore": 1.7367010891822638,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+        "bht": "This is the only place in the Gospels where Jesus directly addresses Peter by his name, emphasizing the importance of what He is about to say. Jesus is warning the apostles of the dangers they will face, urging them to use common resources and even defend themselves with a sword. All four Gospels relay Jesus' prophetic message to Peter that he will deny knowing Him three times. The significance of Jesus referring to Peter by his steadfast name while foretelling his denial highlights the contrast between his name and his future actions.",
+        "wordCount": 92,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.7815756648173884,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.58,
         "commentatorTierSimilarities": [
-            36.95,
-            28.87,
-            34.17
+            48.66,
+            32.24,
+            19.1
         ],
         "generationAttempt": 1
     },
@@ -18,7 +18,7 @@
         "Henry Alford": [
             "This is the only place in the Gospels where our Lord addresses Peter by the name Peter.",
             "The meaning of our Lord in this much-controverted passage appears to be, to forewarn the Apostles of the outward dangers which will await them henceforward in their mission.",
-            "unlike the time when He sent them forth without earthly appliances, upheld by His special Providence, they must now make use of common resources for sustenance, yea, and even of the sword itself for defence."
+            "They must now make use of common resources for sustenance, yea, and even of the sword itself for defence."
         ],
         "Jamieson-Fausset-Brown": [
             "34. cock . . . crow\u2014\"twice",
@@ -34,17 +34,17 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Thrice\" is in all four Gospels here for they all give this warning to Peter.",
+            "Thrice\" is in all four Gospels here for they all give this warning to Peter. ",
             "Peter will even deny knowing Jesus.",
-            "Peter will even deny knowing Jesus (\u03b5\u03b9\u03b4\u03b5\u03bd\u03b1)."
+            "Peter will thrice deny that he knows Jesus."
         ],
         "John Gill": [
             "I tell thee, Peter, the cock shall not crow this day.",
-            "The cock shall not crow this day before that thou shalt thrice deny that thou knowest me.",
+            "A natural day includes both night and day.",
             "Before that thou shalt thrice deny that thou knowest me."
         ],
         "John Wesley": [
-            "It shall not be the time of cock crowing this day.",
+            "It shall not be the time of cock crowing this day.\" ",
             "The common time of cock crowing (which is usually about three in the morning) probably did not come till after the cock which Peter heard had crowed twice, if not oftener."
         ]
     },
@@ -65,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now rely on common resources and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, signifying steadfastness, contrasts sharply with his conduct. The cock will not crow until Peter has thrice denied knowing Jesus, showing that this denial will happen before the usual time of cock crowing in the morning.",
-            "wordCount": 98,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.7367010891822638,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+            "bht": "This is the only place in the Gospels where Jesus directly addresses Peter by his name, emphasizing the importance of what He is about to say. Jesus is warning the apostles of the dangers they will face, urging them to use common resources and even defend themselves with a sword. All four Gospels relay Jesus' prophetic message to Peter that he will deny knowing Him three times. The significance of Jesus referring to Peter by his steadfast name while foretelling his denial highlights the contrast between his name and his future actions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7815756648173884,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
             "commentatorTierSimilarities": [
-                36.95,
-                28.87,
-                34.17
+                48.66,
+                32.24,
+                19.1
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "This is the only instance where Jesus addresses Peter by name, forewarning the Apostles of the dangers they will encounter in their mission. They must now rely on common resources and even use the sword for defense. The warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, symbolizing steadfastness, contrasts with his conduct. The cock will not crow until Peter denies Jesus three times, occurring before the usual time of cock crowing in the morning.",
-            "wordCount": 83,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.684281689970553,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "bht": "Jesus' direct address to Peter by name in this passage highlights the gravity of his warning. He is forewarning the apostles of the dangers they will face in their mission, prompting them to rely on common resources and even use the sword for defense. His prophecy to Peter, mentioned in all four Gospels, emphasizes that Peter will deny knowing Jesus three times. By using Peter's steadfast name during this prophetic message, Jesus highlights the contrast between Peter's name and his future actions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7403164442492516,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.21,
             "commentatorTierSimilarities": [
-                37.4,
-                26.69,
-                35.91
+                47.79,
+                36.36,
+                15.85
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now make use of common resources for sustenance and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The cock will not crow until Peter denies Jesus three times, occurring before the usual time of cock crowing in the morning.",
-            "wordCount": 85,
-            "quoteTokenProportion": 43.1,
-            "qualityScore": 1.722566562383275,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "bht": "Jesus' direct address to Peter by name emphasizes the significance of his warning. By forewarning the apostles about the dangers they will face in their mission, Jesus prompts them to rely on common resources and defend themselves if necessary. The prophecy specifically to Peter, mentioned in all four Gospels, emphasizes that he will deny knowing Jesus three times. Jesus' use of Peter's steadfast name during this prophetic message highlights the contrast between his name and his future actions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7175774216967183,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.45,
             "commentatorTierSimilarities": [
-                37.83,
-                22.45,
-                39.72
+                48.61,
+                34.71,
+                16.69
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Contrary to previous instances, this is the only time in the Gospels where Jesus addresses Peter by his given name, forewarning the Apostles of the imminent external dangers they will encounter in their mission. They are now required to rely on common resources and even employ the sword for self-defense. This warning of Peter's denial is repeated in all four Gospels, underscoring its significance. The crowing of the cock will not occur until Peter has denied Jesus three times, transpiring prior to the customary daybreak crowing.",
-            "wordCount": 88,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.6625154524532335,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "bht": "This is the only place where Jesus addresses Peter by name, signifying the importance of his warning. Jesus forewarns the apostles about the dangers they will face in their mission, urging them to use common resources and even defend themselves. In all four Gospels, Jesus prophesies that Peter will deny knowing Him three times. The use of Peter's steadfast name in this prophecy underscores the contrast between his name and his future actions.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.7541258609916834,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
             "commentatorTierSimilarities": [
-                38.91,
-                22.31,
-                38.78
+                48.8,
+                34.47,
+                16.72
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this unique passage, Jesus addresses Peter by his given name, Peter, as he warns the Apostles about the forthcoming external dangers they will face during their mission. Unlike before, they will now have to rely on common resources for sustenance and even employ the sword for self-defense. This warning of Peter's denial is found in all four Gospels, emphasizing its significance. The crowing of the cock will not happen before Peter denies Jesus three times, even occurring prior to the usual time of daybreak crowing.",
-            "wordCount": 88,
-            "quoteTokenProportion": 41.79,
-            "qualityScore": 1.718039545808613,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "bht": "Jesus' direct address to Peter by name brings emphasis to the warning He is about to deliver. By forewarning the apostles of the dangers they will face in their mission, Jesus encourages them to rely on common resources and even employ the sword for self-defense. This prophecy to Peter, found in all four Gospels, emphasizes his forthcoming denials of knowing Jesus three times. Jesus' use of Peter's steadfast name within this prophetic statement underscores the contrast between Peter's name and his future actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7074638714423704,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.12,
             "commentatorTierSimilarities": [
-                38.89,
-                24.48,
-                36.63
+                48.95,
+                35.29,
+                15.77
             ],
             "generationAttempt": 5
         }

@@ -1,28 +1,28 @@
 {
-    "timestamp": "12-19-2023 16:23:34",
+    "timestamp": "12-25-2023 19:32:01",
     "verseRef": "Luke 23:26",
     "bestBHT": {
-        "bht": "They compelled a man named Simon of Cyrene to bear His cross, sweet compulsion if it resulted in him or his sons voluntarily taking up their cross! After Jesus was initially unable to proceed due to exhaustion, the burden of the cross was laid on Simon to bear it after Him. The soldiers showed no hesitation in taking hold of anyone to help carry the cross. Simon's involvement was a significant opportunity to participate in the suffering of Christ, even though he likely bore the hinder part of the cross.",
-        "wordCount": 91,
-        "quoteTokenProportion": 38.98,
-        "qualityScore": 1.906048496113573,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+        "bht": "Simon, the father of Alexander and Rufus, was compelled to bear the cross of Jesus after Jesus became too weak to proceed. While Jesus carried one end of the cross, Simon bore the hinder part, providing some relief. This act of bearing the cross after Jesus reflects the call to discipleship, to willingly share in the suffering and sacrifice of Christ. It serves as a reminder that as followers of Jesus, we are called to take up our own crosses and faithfully follow Him.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.9384310026544849,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.79,
         "commentatorTierSimilarities": [
-            31.81,
-            45.34,
-            22.86
+            22.87,
+            44.19,
+            32.95
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "He was 'the father of Alexander and Rufus,' probably better known afterwards than himself, as disciples.\" ",
-            "Him they compel to bear His cross, sweet compulsion, if it issued in him or his sons voluntarily 'taking up their cross!'",
+            "He was 'the father of Alexander and Rufus'\u2014probably better known afterwards than himself, as disciples.\" ",
+            "Him they compel to bear His cross\u2014sweet compulsion, if it issued in him or his sons voluntarily 'taking up their cross!'",
             "It would appear that our Lord had first to bear His own cross, but being from exhaustion unable to proceed, it was laid on another to bear it 'after Him.'"
         ],
         "Albert Barnes": [
-            "After Jesus - Probably to bear one end of the cross.\" ",
-            "Jesus was feeble and unable to bear it alone, and they compelled Simon to help him.\" ",
+            "After Jesus - Probably to bear one end of the cross.",
+            "Jesus was feeble and unable to bear it alone.",
             "They compelled Simon to help him."
         ],
         "Marvin Vincent": [
@@ -30,19 +30,18 @@
             "- 32. Peculiar to Luke. See Introduction, on the gospel of womanhood."
         ],
         "Philip Schaff": [
-            "The relief was comparatively slight; there is no proof that our Lord was sinking under the load.",
-            "He who bears the cross after Jesus, bears the lightest end of it.",
-            "The hinder part alone was laid upon Simon."
+            "To bear it after Jesus. The hinder part alone was laid upon Simon. The relief was comparatively slight; there is no proof that our Lord was sinking under the load.",
+            "He who bears the cross after Jesus, bears the lightest end of it."
         ],
         "Archibald T. Robertson": [
-            "The soldiers had no scruples about taking hold of any one of themselves.",
-            "They laid on him.",
-            "To bear it, to go on bearing."
+            "The soldiers had no scruples about taking hold of any one of themselves.\" ",
+            "Laid on him.\" ",
+            "To bear it."
         ],
         "John Gill": [
-            "After they had finished their sport and pastime with him, and had put on him his own clothes again.",
-            "Perhaps knew nothing of the matter, what had been doing at Jerusalem.",
-            "They put the cross, at least one end of it, upon this man's shoulders."
+            "They laid hold upon one Simon, a Cyrenian; father of Alexander and Rufus.",
+            "On him they laid the cross; that he might bear it after Jesus.",
+            "Jesus going before with the other end on his shoulder; which seems to be the order in which it was carried between them."
         ],
         "John Wesley": [
             "Matthew 27:31; Mark 15:21; John 19:16."
@@ -65,67 +64,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "They compelled a man named Simon of Cyrene to bear His cross, a task that seems to connect with the idea of disciples taking up their cross. Although Jesus initially carried His own cross, He eventually became too exhausted and another was asked to bear it after Him. It is interesting to note that the soldiers who laid hold of Simon had no qualms about taking anyone to help carry the cross. Simon's involvement in this act of bearing the cross was a sweet compulsion - an opportunity to participate in the suffering of Christ. While Simon was likely burdened with the hinder part of the cross, this task served as a significant moment in the journey to the crucifixion.",
-            "wordCount": 120,
-            "quoteTokenProportion": 43.59,
-            "qualityScore": 1.8124452636198898,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "bht": "Alexander and Rufus, the sons of Simon, are mentioned as being the fathers of these two disciples referred to in one of the commentaries. Simon was compelled to bear Jesus' cross, and it seems that Jesus, after initially carrying His own cross, was unable to proceed due to exhaustion, so it was then laid on Simon. The soldiers had no qualms about taking hold of anyone to bear the cross, and Simon was chosen for this task. It is said that he bore the hinder part of the cross, providing some relief to Jesus, who was feeble and unable to bear it alone.",
+            "wordCount": 103,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 2.0341377140178674,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
             "commentatorTierSimilarities": [
-                30.44,
-                46.55,
-                23.01
+                26.7,
+                42.4,
+                30.9
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "They compelled a man named Simon of Cyrene to bear His cross, sweet compulsion if it resulted in him or his sons voluntarily taking up their cross! After Jesus was initially unable to proceed due to exhaustion, the burden of the cross was laid on Simon to bear it after Him. The soldiers showed no hesitation in taking hold of anyone to help carry the cross. Simon's involvement was a significant opportunity to participate in the suffering of Christ, even though he likely bore the hinder part of the cross.",
-            "wordCount": 91,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 1.906048496113573,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "bht": "Simon, the father of Alexander and Rufus, was compelled to bear Jesus' cross after Jesus Himself became too weak to continue. The soldiers laid hold of Simon to help carry the burden. While Jesus carried one end of the cross, Simon bore the hinder part, providing some relief. This act of bearing the cross after Jesus is significant, as it represents the willingness to share in the suffering and sacrifice of Christ. It is a reminder that discipleship involves taking up our own crosses and following Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8579884183787412,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
             "commentatorTierSimilarities": [
-                31.81,
-                45.34,
-                22.86
+                24.16,
+                44.03,
+                31.81
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After Jesus became too exhausted to carry His own cross, a man named Simon of Cyrene was compelled to bear it after Him. This act of burden-sharing allowed Simon and his sons to participate in the discipleship of carrying their own crosses. The soldiers showed no scruples about taking hold of any available person to assist. Simon's involvement provided a poignant reminder that those who bear the cross after Jesus bear the lightest end of it.",
-            "wordCount": 78,
-            "quoteTokenProportion": 39.29,
-            "qualityScore": 1.8462173986915755,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "bht": "Simon, the father of Alexander and Rufus, was compelled to bear the cross of Jesus after Jesus became too weak to proceed. While Jesus carried one end of the cross, Simon bore the hinder part, providing some relief. This act of bearing the cross after Jesus reflects the call to discipleship, to willingly share in the suffering and sacrifice of Christ. It serves as a reminder that as followers of Jesus, we are called to take up our own crosses and faithfully follow Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9384310026544849,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
             "commentatorTierSimilarities": [
-                30.9,
-                46.89,
-                22.2
+                22.87,
+                44.19,
+                32.95
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "They compelled a man named Simon of Cyrene to bear the cross after Jesus became too exhausted to continue. The soldiers had no scruples about taking hold of any one of themselves to help with this task. Simon's involvement in carrying the cross allowed him and his sons to participate in discipleship, taking up their own crosses. This act of burden-sharing was a sweet compulsion, offering an opportunity for others to bear the lightest end of the cross after Jesus.",
-            "wordCount": 82,
-            "quoteTokenProportion": 45.0,
-            "qualityScore": 1.7949611435035213,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "bht": "Simon, identified as the father of Alexander and Rufus, was compelled to bear the cross of Jesus after Jesus Himself could no longer carry it due to exhaustion. The soldiers had no reservations about seizing anyone to assist in carrying the cross. Simon, who bore the hinder part of the cross, provided relief to Jesus. This act of bearing the cross after Jesus represents the discipleship call to share in the suffering and sacrifice of Christ, taking up our own crosses and following Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9370544642052285,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
             "commentatorTierSimilarities": [
-                31.05,
-                44.65,
-                24.31
+                25.42,
+                43.95,
+                30.63
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "They compelled a man named Simon of Cyrene to bear His cross after Jesus became too exhausted to proceed. This act of burden-sharing allowed Simon and his sons to participate in the discipleship of carrying their own crosses. The soldiers had no qualms about taking hold of anyone to help with this task. This sweet compulsion provided an opportunity for others to bear the lightest end of the cross after Jesus.",
-            "wordCount": 72,
-            "quoteTokenProportion": 41.51,
-            "qualityScore": 1.7908606308203838,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "bht": "Simon, the father of Alexander and Rufus, was compelled to bear the cross of Jesus after Jesus Himself could not proceed due to exhaustion. The soldiers had no hesitation in seizing someone to help. Simon, who took up the hinder part of the cross, provided much-needed relief. This act of carrying the cross after Jesus signifies the call to discipleship, to willingly partake in the suffering and sacrifice of Christ. It serves as a reminder that followers of Jesus are to take up their own crosses and faithfully follow Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.7865956319224892,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
             "commentatorTierSimilarities": [
-                30.7,
-                45.57,
-                23.73
+                25.94,
+                42.68,
+                31.39
             ],
             "generationAttempt": 5
         }

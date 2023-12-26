@@ -1,37 +1,34 @@
 {
-    "timestamp": "12-22-2023 23:29:30",
+    "timestamp": "12-25-2023 19:30:16",
     "verseRef": "Mark 15:7",
     "bestBHT": {
-        "bht": "Barabbas, a leader of rioters and murderers, was chosen by the people, signifying their preference for a criminal over Jesus. Holding the distinction of being bound with his accomplices, Barabbas was imprisoned for his involvement in an insurrection against Rome. This particular aspect is unique to Mark's gospel, distinguishing it from Matthew and Luke. The selection of Barabbas exposes the crowd's willingness to align with those who resorted to violence and rebellion against Roman authorities.",
-        "wordCount": 77,
-        "quoteTokenProportion": 37.29,
-        "qualityScore": 1.8084939480613755,
-        "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+        "bht": "Barabbas, the leader of a band of rioters and murderers, was bound with them and presented as an option to the people by Pilate instead of Jesus. The priests and people, in a shocking turn of events, chose a murderer over Jesus. It is significant to note that Barabbas being part of a group of murderers is unique to Mark's account and distinguishes it from the narratives in Matthew and Luke. The term insurrection carries the weight of a crime that Roman governors like Pilate were particularly vigilant in punishing.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9756366695312293,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.03,
         "commentatorTierSimilarities": [
-            36.07,
-            30.23,
-            33.7
+            36.69,
+            27.21,
+            36.1
         ],
-        "generationAttempt": 3
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Barabbas was one of a set of murderers, shewn by the them that had made.\" ",
-            "The plural 'who' is peculiar to our narrative.",
-            "It shews that it is not compiled from Matthew and Luke."
+            "The circumstance that Barabbas was one of a set of murderers...is peculiar to our narrative, and shews that it is not compiled from Matthew and Luke."
         ],
         "Marvin Vincent": [
-            "Them that had made insurrection with him [\u03c3\u03c5\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1\u03c3\u03c4\u03c9\u03bd] . ",
-            "Fellow - rioters.",
-            "Who [\u03bf\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2] . Denoting a class of criminals.",
-            "The insurrection. Note the article: the insurrection for which Barabbas and his fellows had been imprisoned."
+            "Them that had made insurrection with him [\u03c3\u03c5\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1\u03c3\u03c4\u03c9\u03bd] . Fellow - rioters.",
+            "But the better texts read stasiastwn, rioters, omitting the sun with (fellow) : and the Rev. accordingly omits with him.",
+            "Who [\u03bf\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2] . Denoting a class of criminals."
         ],
         "Philip Schaff": [
             "Mark 15:7. With them that had made insurrection, etc. Peculiar to Mark. Barabbas, doubtless the leader, was one of these insurgents and murderers.",
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Bound with them that had made insurrection. A desperate criminal, leader in the insurrection, sedition, or revolution against Rome...",
+            "Bound with them that had made insurrection.",
             "Barabbas was the leader of these rioters and was bound with them.",
             "Murder usually goes with such rioters and the priests and people actually chose a murderer in preference to Jesus."
         ],
@@ -61,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Barabbas, the leader of a group of fellow rioters and murderers, was chosen by the people over Jesus. This choice reveals the prevailing preference for a murderer over the innocent Jesus. Barabbas had been imprisoned for his role in the insurrection against Rome, bound with his fellow criminals. This verse, exclusive to Mark's gospel, highlights the unique nature of his narrative and clarifies that it is not compiled from Matthew and Luke. By selecting a criminal like Barabbas, the people not only rejected Jesus but also showed their willingness to align themselves with those who resorted to violence and rebellion against the Roman authorities.",
-            "wordCount": 105,
-            "quoteTokenProportion": 37.84,
-            "qualityScore": 1.7937938195266572,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.99,
+            "bht": "Barabbas, the leader of a band of rioters and murderers, was bound with them and presented as an option to the people by Pilate instead of Jesus. The priests and people, in a shocking turn of events, chose a murderer over Jesus. It is significant to note that Barabbas being part of a group of murderers is unique to Mark's account and distinguishes it from the narratives in Matthew and Luke. The term insurrection carries the weight of a crime that Roman governors like Pilate were particularly vigilant in punishing.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9756366695312293,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
             "commentatorTierSimilarities": [
-                37.95,
-                29.63,
-                32.42
+                36.69,
+                27.21,
+                36.1
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Barabbas, the leader of fellow rioters, was chosen by the people instead of Jesus. This preference for a murderer over the innocent Christ underscores the depths of their rejection. Barabbas had been imprisoned for his role in an insurrection against Rome, bound with his criminal companions. The selection of Barabbas demonstrates the crowd's readiness to align themselves with violent rebellion against the Roman authorities. This exclusive detail, found only in Mark's gospel, distinguishes it from the accounts of Matthew and Luke.",
-            "wordCount": 83,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 1.6255143181375378,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "bht": "Barabbas, the leader of a band of rioters and murderers, was bound with them and presented as an option to the people. The priests and people chose a murderer in preference to Jesus. This detail, unique to Mark's narrative and not found in Matthew or Luke, highlights the gravity of the situation. Pilate, being concerned with punishing insurrections, offered the crowd a choice between Jesus and Barabbas. The people's decision reveals the lengths to which they went to reject Jesus.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.704085647690313,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
             "commentatorTierSimilarities": [
-                39.67,
-                28.46,
-                31.87
+                40.7,
+                27.2,
+                32.1
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Barabbas, a leader of rioters and murderers, was chosen by the people, signifying their preference for a criminal over Jesus. Holding the distinction of being bound with his accomplices, Barabbas was imprisoned for his involvement in an insurrection against Rome. This particular aspect is unique to Mark's gospel, distinguishing it from Matthew and Luke. The selection of Barabbas exposes the crowd's willingness to align with those who resorted to violence and rebellion against Roman authorities.",
-            "wordCount": 77,
-            "quoteTokenProportion": 37.29,
-            "qualityScore": 1.8084939480613755,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+            "bht": "Barabbas, the leader of a group of rioters and murderers, was bound with them and presented as an alternative to Jesus. The people chose a murderer over Jesus, a shocking decision that underscores their rejection of him. This distinctive detail, found only in Mark's account, sets it apart from Matthew and Luke. The term insurrection carries weight as a crime that Roman governors were particularly concerned with punishing, making Pilate's offering even more significant. The people's choice demonstrates the extent to which they preferred a criminal over Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.752703001038657,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
             "commentatorTierSimilarities": [
-                36.07,
-                30.23,
-                33.7
+                37.64,
+                28.19,
+                34.17
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Barabbas, the leader of rioters bound with accomplices, was chosen by the people as a murderer over Jesus. Mark's exclusive account shows that it is not compiled from Matthew and Luke. This decision reveals the crowd's preference for a criminal, highlighting their alignment with those who engaged in violence and insurrection against Rome. Barabbas, who played a key role in the uprising, was imprisoned along with his fellow conspirators. The people's choice clearly prioritized a murderer over the innocent Jesus.",
-            "wordCount": 83,
-            "quoteTokenProportion": 37.1,
-            "qualityScore": 1.7810664749071852,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+            "bht": "Barabbas, the leader of a group of rioters and murderers, was bound with them and presented as an option instead of Jesus. Surprisingly, the people decided to choose a murderer over Jesus. This unique detail in Mark's narrative highlights the gravity of the situation and distinguishes it from the accounts in Matthew and Luke. The term insurrection underscores the seriousness of the crime that Roman governors, including Pilate, were particularly concerned with punishing. The people's decision reflects their ultimate rejection of Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.7216489757512425,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.59,
             "commentatorTierSimilarities": [
-                38.25,
-                30.14,
-                31.61
+                36.72,
+                28.02,
+                35.26
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Barabbas, the leader of fellow rioters and murderers, was chosen instead of Jesus. This preference for a criminal over the innocent Christ exposes the depth of their rejection. Barabbas, imprisoned for participating in an insurrection against Rome, was bound together with his criminal companions. The choice of Barabbas signifies the crowd's readiness to align with violence and rebellion against Roman authorities. This exclusive detail in Mark's gospel distinguishes it from the accounts of Matthew and Luke.",
-            "wordCount": 78,
-            "quoteTokenProportion": 31.58,
-            "qualityScore": 1.6458131938526281,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "bht": "Barabbas, the leader of a band of rioters and murderers, was bound with them and offered as a choice instead of Jesus. Astonishingly, the people favored a murderer over Jesus. This unique detail in Mark's account distinguishes it from Matthew and Luke and emphasizes the severity of the situation. The term insurrection highlights the crime that Roman governors, such as Pilate, diligently sought to punish. The people's decision reveals the extent of their rejection of Jesus in favor of a criminal.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.7805261479266434,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
             "commentatorTierSimilarities": [
-                39.48,
-                28.18,
-                32.34
+                36.26,
+                28.07,
+                35.67
             ],
             "generationAttempt": 5
         }

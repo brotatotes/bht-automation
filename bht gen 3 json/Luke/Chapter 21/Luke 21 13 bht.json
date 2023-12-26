@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:22:27",
+    "timestamp": "12-25-2023 19:33:28",
     "verseRef": "Luke 21:13",
     "bestBHT": {
-        "bht": "The opposition and persecution faced by the disciples will not be wasted, as it will turn to them for a testimony. This implies that the trials they endure will ultimately work out in their favor, providing them with an opportunity to bear witness to their faithfulness to Christ. Throughout history, the testimonies of the martyrs have shown that this unwavering commitment becomes the seed of the Church, reinforcing and validating the disciples' belief in the Gospel.",
-        "wordCount": 76,
-        "quoteTokenProportion": 43.64,
-        "qualityScore": 1.90301886458344,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+        "bht": "In the midst of persecution, believers have the chance to bear witness to their faithfulness and provide testimony for the Lord. This demonstration of loyalty becomes an opportunity to confirm and strengthen believers in the truths of the Gospel, serving as proof of the certainty of Christ's words. The blood of the martyrs serves as the seed for the growth of the church, and by enduring trials and remaining steadfast, believers leave behind a lasting testimony that holds others accountable.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.94528923156901,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.02,
         "commentatorTierSimilarities": [
-            28.37,
-            30.04,
-            41.59
+            26.37,
+            34.69,
+            38.94
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -30,13 +30,13 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "It shall turn unto you... It will come off, turn out for you.",
-            "For a testimony... To their loyalty to Christ.",
+            "It shall turn unto you. It will come off, turn out for you.",
+            "For a testimony. To their loyalty to Christ.",
             "The blood of the martyrs is the seed of the church."
         ],
         "John Gill": [
-            "They would have an opportunity of leaving their testimony for Christ before kings and rulers.",
-            "What they should meet with from them would be a means of strengthening and confirming them in the truths of the Gospel.",
+            "By this means they would have an opportunity of leaving their testimony for Christ before kings and rulers.",
+            "What they should meet with from them, would be a means of strengthening and confirming them in the truths of the Gospel.",
             "Be a proof and evidence to them of the certainty of the above things Christ had said should be accomplished."
         ],
         "John Wesley": [
@@ -60,67 +60,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 21:13, Jesus assures his disciples that the persecution they will face will turn to [them] for a testimony. This phrase, turn to you, means that it will come off, turn out favorably for them. The persecution they endure will serve as an opportunity for them to bear witness to their faithfulness to Christ, testifying against those who oppose them. The blood of the martyrs, as history shows, becomes the seed of the church, strengthening and confirming the believers in the truths of the Gospel. Through their perseverance, the disciples' testimony will serve as proof and evidence of the certainty of all that Jesus has spoken.",
-            "wordCount": 106,
-            "quoteTokenProportion": 42.19,
-            "qualityScore": 1.860677623018942,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "bht": "In the face of challenges and persecution, believers may find themselves in situations where their faith is put on display. This can be seen as an opportunity to testify to their loyalty to Christ and bear witness to the truth of the Gospel. The blood of the martyrs is often seen as the seed of the church, and by faithfully enduring in the midst of adversity, believers have the chance to leave a lasting testimony for Christ. This testimony serves as a proof and evidence of the certainty of the words of Christ, strengthening and confirming the believers in the truths of the Gospel.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8508331823195636,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
             "commentatorTierSimilarities": [
-                28.23,
-                31.28,
-                40.49
+                26.43,
+                31.41,
+                42.16
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The opposition faced by the disciples will ultimately work out in their favor, turning to them for a testimony. This means that the persecution they endure will result in an opportunity for them to bear witness to their faithfulness to Christ. These trials will stand as evidence of their loyalty and serve to strengthen and confirm their belief in the Gospel. The blood of the martyrs throughout history has shown that such persecution ultimately leads to the growth and establishment of the Church.",
-            "wordCount": 83,
-            "quoteTokenProportion": 38.18,
-            "qualityScore": 1.8193477572732948,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "bht": "Amidst trials and opposition, believers have the opportunity to showcase their faithfulness and testify for the Lord. This testimony serves as proof and evidence of the certainty of Christ's words, while also strengthening and confirming believers in the truths of the Gospel. In the face of adversity, the blood of the martyrs becomes the seed of the church. By enduring hardships and remaining steadfast, believers leave a lasting testimony that bears witness to their commitment to Christ and provides an example for others to follow.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8650894394632964,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.36,
             "commentatorTierSimilarities": [
-                29.98,
-                30.04,
-                39.98
+                26.83,
+                33.85,
+                39.32
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The persecution faced by the disciples will not be in vain, as it will turn to them for a testimony. This means that the trials they endure will ultimately work out in their favor, providing them with an opportunity to bear witness to their faithfulness to Christ. The blood of the martyrs throughout history has shown that this steadfast commitment to their beliefs becomes the seed of the Church, strengthening and confirming the disciples in the truths of the Gospel.",
-            "wordCount": 80,
-            "quoteTokenProportion": 43.64,
-            "qualityScore": 1.896546055582461,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "bht": "In the midst of persecution, believers have the chance to bear witness to their faithfulness and provide testimony for the Lord. This demonstration of loyalty becomes an opportunity to confirm and strengthen believers in the truths of the Gospel, serving as proof of the certainty of Christ's words. The blood of the martyrs serves as the seed for the growth of the church, and by enduring trials and remaining steadfast, believers leave behind a lasting testimony that holds others accountable.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.94528923156901,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
             "commentatorTierSimilarities": [
-                30.08,
-                28.85,
-                41.07
+                26.37,
+                34.69,
+                38.94
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The opposition and persecution faced by the disciples will not be wasted, as it will turn to them for a testimony. This implies that the trials they endure will ultimately work out in their favor, providing them with an opportunity to bear witness to their faithfulness to Christ. Throughout history, the testimonies of the martyrs have shown that this unwavering commitment becomes the seed of the Church, reinforcing and validating the disciples' belief in the Gospel.",
-            "wordCount": 76,
-            "quoteTokenProportion": 43.64,
-            "qualityScore": 1.90301886458344,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "bht": "In the face of trials and opposition, believers can view these challenges as opportunities to testify to their faithfulness and loyalty to Christ. This witness serves as proof and evidence of the certainty of Christ's words, ultimately strengthening and confirming believers in the truths of the Gospel. The blood of the martyrs is often seen as the seed that leads to the growth of the church. By enduring through difficult circumstances, believers leave behind a lasting testimony that holds others accountable and bears witness to their unwavering commitment to Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7951900111729917,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
             "commentatorTierSimilarities": [
-                28.37,
-                30.04,
-                41.59
+                27.02,
+                33.78,
+                39.21
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the face of persecution, the disciples can take solace in the fact that it will turn to them for a testimony. This means that the difficult experiences they encounter will ultimately work in their favor, presenting them with an opportunity to bear witness to their unwavering faith in Christ. As history has shown, the faithful testimonies of the martyrs become the catalyst for the growth and establishment of the Church. These trials serve to strengthen and confirm the disciples in their conviction of the Gospel's truth.",
-            "wordCount": 88,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 1.8922318747698765,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.26,
+            "bht": "In the midst of trials and persecution, believers have the chance to testify to their faithfulness as a testimony for the Lord. This testimony confirms the certainty of Christ's words and strengthens believers in the truth of the Gospel. The blood of the martyrs acts as a seed for the growth of the church. By enduring hardships and remaining steadfast, believers leave a lasting testimony that bears witness to their commitment to Christ and serves as an example for others to follow.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8586999824574393,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
             "commentatorTierSimilarities": [
-                29.79,
-                28.97,
-                41.24
+                28.38,
+                33.3,
+                38.33
             ],
             "generationAttempt": 5
         }

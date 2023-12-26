@@ -1,24 +1,23 @@
 {
-    "timestamp": "12-19-2023 17:49:10",
+    "timestamp": "12-25-2023 20:08:36",
     "verseRef": "Hebrews 10:16",
     "bestBHT": {
-        "bht": "The author of Hebrews brings a slight alteration to the covenant mentioned in Jeremiah, adjusting the wording by changing the sequence of heart and mind while maintaining the essence of the promise. The tweak in phrasing highlights the author's meticulousness in preserving the significance of the covenant without changing its meaning.",
-        "wordCount": 52,
-        "quoteTokenProportion": 28.57,
-        "qualityScore": 1.764367658137003,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+        "bht": "The modified covenant emphasizes the connection between the heart and mind, highlighting the transformative nature of this relationship with God. By deliberately altering the order of heart and mind, the author communicates the profound impact of this covenant. With careful word selection, the lasting significance of this covenant is conveyed, illustrating the profound inner change experienced by believers.",
+        "wordCount": 58,
+        "quoteTokenProportion": 21.62,
+        "qualityScore": 1.4551103486989745,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.73,
         "commentatorTierSimilarities": [
-            72.79,
+            71.82,
             0.0,
-            27.21
+            28.18
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Archibald T. Robertson": [
             "The author changes \u03c4\u03c9 \u03bf\u03b9\u03ba\u03c9 \u0399\u03c3\u03c1\u03b1\u03b5\u03bb (Hebrews 8:10) thus without altering the sense.",
-            "He also changes the order of 'heart' (\u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03c2) and 'mind' (\u03b4\u03b9\u03b1\u03bd\u03bf\u03b9\u03b1\u03bd) from that in Hebrews 8:10.",
-            "The author changes \u03c4\u03c9 \u03bf\u03b9\u03ba\u03c9 \u0399\u03c3\u03c1\u03b1\u03b5\u03bb (Hebrews 8:10) thus without altering the sense."
+            "He also changes the order of 'heart' (\u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03c2) and 'mind' (\u03b4\u03b9\u03b1\u03bd\u03bf\u03b9\u03b1\u03bd) from that in Hebrews 8:10."
         ],
         "John Gill": [
             "This is the covenant that I will make with them,....",
@@ -45,67 +44,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The author of Hebrews tweaks the wording of the covenant promise found in Jeremiah 31:33. Instead of mentioning the house of Israel, the author uses slightly different phrasing while maintaining the same meaning. Additionally, the author changes the order of heart and mind in the verse. These adjustments demonstrate the author's keen attention to detail, ensuring that the essence of the promise remains intact.",
-            "wordCount": 64,
-            "quoteTokenProportion": 20.93,
-            "qualityScore": 1.5040298846239155,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "bht": "This verse in Hebrews, as the commentator notes, is a slight modification of a passage from Jeremiah 31:33. The change in wording emphasizes the connection between the heart and mind in the covenant being made. The author of Hebrews is careful in his selection of words, ensuring that while the order is changed, the true meaning remains intact. Ultimately, this verse highlights the significance of this covenant, indicating a deep transformation that occurs within individuals as they enter into this new relationship with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5236296519235897,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.0,
             "commentatorTierSimilarities": [
-                75.87,
+                70.8,
                 0.0,
-                24.13
+                29.2
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The author of Hebrews brings a slight alteration to the covenant mentioned in Jeremiah, adjusting the wording by changing the sequence of heart and mind while maintaining the essence of the promise. The tweak in phrasing highlights the author's meticulousness in preserving the significance of the covenant without changing its meaning.",
-            "wordCount": 52,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.764367658137003,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "bht": "The connection between the heart and mind is emphasized in this covenant, as highlighted by the modifications made from the original source. The intentional change of the order in which heart and mind are mentioned underscores the transformative nature of this relationship with God. The careful selection of words in Hebrews expresses the profound impact of this covenant, demonstrating the significant inner change that believers experience. This modified verse in Hebrews conveys the enduring significance of this covenant with God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.578847057218216,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.84,
             "commentatorTierSimilarities": [
-                72.79,
+                73.4,
                 0.0,
-                27.21
+                26.6
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The author of Hebrews skillfully modifies the covenant statement from Jeremiah, specifically adjusting the order of heart and mind, while keeping the overall meaning intact. This attention to detail showcases the author's fidelity to the original promise, as they maintain the essence of the covenant without altering its significance.",
-            "wordCount": 50,
-            "quoteTokenProportion": 28.95,
-            "qualityScore": 1.6336849901556265,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.66,
+            "bht": "The emphasis on the heart and mind is evident in this modified covenant, reflecting the transformative nature of the relationship with God. By altering the order of heart and mind, the author underscores the profound impact of this covenant. The intentional choice of words in Hebrews highlights the lasting significance of this covenant, illustrating the profound inward change experienced by believers.",
+            "wordCount": 61,
+            "quoteTokenProportion": 23.68,
+            "qualityScore": 1.601578380401528,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
             "commentatorTierSimilarities": [
-                68.24,
+                73.86,
                 0.0,
-                31.76
+                26.14
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The author of Hebrews carefully rephrases the covenant promise found in Jeremiah, making slight changes to the order of heart and mind, while maintaining the intended meaning. With precision, the author upholds the essence of the covenant.",
-            "wordCount": 37,
-            "quoteTokenProportion": 25.93,
-            "qualityScore": 1.5383181716688246,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "bht": "The modified covenant emphasizes the connection between the heart and mind, highlighting the transformative nature of the relationship with God. The deliberate alteration of the order of heart and mind underscores the profound impact of this covenant. The careful selection of words conveys the lasting significance of this covenant, showcasing the deep inner change experienced by believers.",
+            "wordCount": 57,
+            "quoteTokenProportion": 19.44,
+            "qualityScore": 1.418996053883968,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
             "commentatorTierSimilarities": [
-                68.34,
+                71.95,
                 0.0,
-                31.66
+                28.05
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The author of Hebrews modifies the covenant mentioned in Jeremiah, altering the order of heart and mind without changing the essence of the promise. This attention to detail ensures the fidelity to the original covenant while conveying the same meaning.",
-            "wordCount": 40,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.6457734729612403,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+            "bht": "The modified covenant emphasizes the connection between the heart and mind, highlighting the transformative nature of this relationship with God. By deliberately altering the order of heart and mind, the author communicates the profound impact of this covenant. With careful word selection, the lasting significance of this covenant is conveyed, illustrating the profound inner change experienced by believers.",
+            "wordCount": 58,
+            "quoteTokenProportion": 21.62,
+            "qualityScore": 1.4551103486989745,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.73,
             "commentatorTierSimilarities": [
-                69.28,
+                71.82,
                 0.0,
-                30.72
+                28.18
             ],
             "generationAttempt": 5
         }

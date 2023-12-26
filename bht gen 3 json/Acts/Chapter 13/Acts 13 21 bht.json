@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 16:30:39",
+    "timestamp": "12-25-2023 20:08:49",
     "verseRef": "Acts 13:21",
     "bestBHT": {
-        "bht": "Saul, a man of the tribe of Benjamin, was anointed king at a young age and reigned for forty years. The Old Testament does not specify the length of Saul's reign, but Josephus records it in agreement with Paul's statement. The people of Israel desired a king, tired of a theocracy, and God granted their request by giving them Saul. This desire was seen as wicked and unlawful by some, but God, who knows how to use even evil things well, turned it into a means of safety and stability for His people.",
-        "wordCount": 95,
-        "quoteTokenProportion": 39.13,
-        "qualityScore": 1.935105544006739,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+        "bht": "The speaker's connection to Saul, a man of the tribe of Benjamin, is highlighted in the mention of his name and tribe. Josephus agrees with the attributed length of Saul's reign, spanning forty years. The people's desire for a king, tired of the theocracy, led to Saul being given to them by God. Despite Saul's sinful actions, Paul proudly acknowledges Benjamin as Saul's tribe. While the Old Testament does not specify the length of his reign, both Josephus and the apostle assign forty years to him.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.102833973196215,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.26,
         "commentatorTierSimilarities": [
-            34.61,
-            27.1,
-            38.29
+            37.37,
+            33.45,
+            29.18
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Saul.... a man of the tribe of Benjamin... something characteristic and natural.\" ",
-            "It may be not altogether irrelevant to notice... in this minute specification.\" ",
-            "Saul was a young man when anointed king... his reign cannot have been much short of that period."
+            "It may be not altogether irrelevant to notice that a Saul, a man of the tribe of Benjamin, was speaking; and to trace in this minute specification something characteristic and natural.",
+            "Biscoe has well shewn, that as Saul was a young man when anointed king, and Ishbosheth his youngest son was forty years old at his death, his reign cannot have been much short of that period.",
+            "It is clearly against the construction to suppose Samuel\u2019s time as well as Saul\u2019s included in the forty years, following as they do upon the verb 'gave them.'"
         ],
         "Jamieson-Fausset-Brown": [
-            "God gave . . . them Saul . . . of the tribe of Benjamin\u2014That the speaker was himself of the same name and of the same tribe, has often been noticed as in all likelihood present to the apostle's mind while speaking.",
-            "With this length of Saul's reign (not mentioned in the Old Testament), JOSEPHUS coincides [Antiquities, 6.14.9].",
-            "forty years"
+            "God gave . . . them Saul . . . of the tribe of Benjamin.",
+            "That the speaker was himself of the same name and of the same tribe.",
+            "With this length of Saul's reign, JOSEPHUS coincides."
         ],
         "Albert Barnes": [
             "And afterward they desired a king.\" ",
@@ -33,22 +33,22 @@
         "John Calvin": [
             "But the stability of the election saved them from being punished as such madness did deserve.",
             "The wicked and unlawful desire of the people was to God a new and incredible occasion to erect the kingdom whence Christ should afterward come.",
-            "God, who knoweth how to use evil things well, turned that offense into safety."
+            "God, who knows how to use evil things well, turned that offense into safety."
         ],
         "Philip Schaff": [
             "The Old Testament does not mention the length of Saul\u2019s reign.",
             "The statement here, however, agrees with Josephus, who speaks of Saul reigning eighteen years before Samuel\u2019s death and twenty-two after it.",
-            "By the space of forty years."
+            "The Old Testament does not mention the length of Saul\u2019s reign. The statement here, however, agrees with Josephus."
         ],
         "Archibald T. Robertson": [
-            "They were tired of a theocracy.",
-            "Paul mentions with pride that Benjamin was the tribe of Saul.",
+            "They were tired of a theocracy.\" ",
+            "Paul mentions with pride that Benjamin was the tribe of Saul, but he does not allude to Saul's sin.",
             "Not in the O.T., but in Josephus, Ant. VI. 14, 9."
         ],
         "John Gill": [
-            "God gave unto them Saul; whose name signifies one that is asked; he was the son of Cis; a man of the tribe of Benjamin.",
-            "The Jews are very much divided about the years of Saul's reign.",
-            "But that Saul must reign more years than these, and even as many as the apostle assigns to him, may be concluded, not only from his wars with many nations, and his long persecution of David before observed; but from the number of high priests which were in his time, and who were no less than three."
+            "The Jews are very much divided about the years of Saul's reign, some allow him but two years, and others three.",
+            "Our apostle ascribes forty years to him, which must be understood both of him and Samuel, with which Josephus agrees.",
+            "That Saul must reign more years than these, and even as many as the apostle assigns to him, may be concluded, not only from his wars with many nations, and his long persecution of David, but from the number of high priests which were in his time."
         ],
         "John Wesley": [
             "He gave them Saul forty years \u2014 Including the time wherein Samuel judged Israel."
@@ -71,67 +71,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Saul, a man of the tribe of Benjamin, was anointed king at a young age and reigned for forty years. The mention of Benjamin was a point of pride for Paul, and it is interesting to note that the speaker himself shares the same name and tribe. The Old Testament does not specify the length of Saul's reign, but Josephus records it as being in line with Paul's statement. The people of Israel, tired of a theocracy, desired a king, and God granted their request by giving them Saul. This desire was seen as wicked and unlawful by some, but God, who knows how to use even evil things well, turned it into a means of safety and stability for His people.",
-            "wordCount": 124,
-            "quoteTokenProportion": 40.24,
-            "qualityScore": 1.8939313686344599,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "bht": "In Acts 13:21, the speaker highlights the significance of Saul, a man of the tribe of Benjamin, speaking about the past. Josephus confirms the length of Saul's reign, which aligns with the statement made. It is evident that the people were tired of the theocracy and desired a king, resulting in Saul being given to them by God. While Saul's reign was marked by sin, Paul takes pride in mentioning Benjamin as Saul's tribe. The Old Testament does not mention the length of Saul's reign, but Josephus and the apostle attribute forty years to him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.21083626399221,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.85,
             "commentatorTierSimilarities": [
-                36.64,
-                26.35,
-                37.01
+                38.03,
+                34.53,
+                27.44
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Saul, a man of the tribe of Benjamin, was anointed king at a young age and reigned for forty years. The Old Testament does not specify the length of Saul's reign, but Josephus records it in agreement with Paul's statement. The people of Israel desired a king, tired of a theocracy, and God granted their request by giving them Saul. This desire was seen as wicked and unlawful by some, but God, who knows how to use even evil things well, turned it into a means of safety and stability for His people.",
-            "wordCount": 95,
-            "quoteTokenProportion": 39.13,
-            "qualityScore": 1.935105544006739,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "bht": "The speaker's emphasis on Saul, from the tribe of Benjamin, speaking about the past reflects their natural connection. Josephus confirms the length of Saul's reign mentioned here, aligning with the apostle's statement. The people desired a king, leading God to give them Saul. Although Saul's reign was marred by sin, Paul takes pride in his Benjaminite heritage. The exact duration of Saul's reign is debated, but Josephus and the apostle assign forty years to him, suggesting a lengthy rule.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.044877834514846,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
             "commentatorTierSimilarities": [
-                34.61,
-                27.1,
-                38.29
+                36.49,
+                35.0,
+                28.51
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Saul, a man of the tribe of Benjamin, was anointed king and reigned for forty years. The mention of Benjamin was a point of pride for Paul. The Old Testament does not specify the length of Saul's reign, but Josephus records it in agreement with Paul's statement. The people of Israel desired a king, and God granted their request by giving them Saul. This desire was seen as wicked by some, but God turned it into a means of safety and stability for His people.",
-            "wordCount": 87,
-            "quoteTokenProportion": 36.84,
-            "qualityScore": 1.8946268816960832,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+            "bht": "The speaker's connection to Saul, a man of the tribe of Benjamin, is highlighted in the mention of his name and tribe. Josephus agrees with the attributed length of Saul's reign, spanning forty years. The people's desire for a king, tired of the theocracy, led to Saul being given to them by God. Despite Saul's sinful actions, Paul proudly acknowledges Benjamin as Saul's tribe. While the Old Testament does not specify the length of his reign, both Josephus and the apostle assign forty years to him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.102833973196215,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
             "commentatorTierSimilarities": [
-                35.7,
-                27.55,
-                36.75
+                37.37,
+                33.45,
+                29.18
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Saul, a man of the tribe of Benjamin, was anointed king and reigned for forty years. The mention of Benjamin was a point of pride for Paul. The Old Testament does not specify the length of Saul's reign, but Josephus records it in agreement with Paul's statement. The people of Israel desired a king, tired of a theocracy, and God granted their request by giving them Saul. This desire was seen as wicked and unlawful by some, but God turned it into a means of safety and stability for His people.",
-            "wordCount": 93,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.8884221069394223,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+            "bht": "The speaker's connection to Saul, a Benjaminite, is emphasized, along with Josephus' agreement on the length of his reign. The people's desire for a king resulted in God giving them Saul. Paul acknowledges Benjamin as Saul's tribe while omitting his sins. Although the Old Testament does not mention the length of his reign, the apostle assigns forty years to Saul, which aligns with Josephus' account. Saul's reign was a fulfillment of the people's desire for a new kingdom, ultimately leading to the coming of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.086583808824048,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.72,
             "commentatorTierSimilarities": [
-                36.56,
-                26.86,
-                36.57
+                35.76,
+                34.56,
+                29.68
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Saul, a man of the tribe of Benjamin, was anointed king and reigned for forty years, a period not mentioned in the Old Testament but recorded by Josephus. The people of Israel, weary of a theocracy, desired a king, and God granted their request by giving them Saul. This desire was seen as wicked and unlawful by some, yet God, in His wisdom, transformed it into a means of safety and stability for His people. The mention of Benjamin was a source of pride for Paul, as he shared the same name and tribe.",
-            "wordCount": 94,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.8601409243731497,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "bht": "The speaker's emphasis on Saul being from the tribe of Benjamin reflects something characteristic and natural. Josephus agrees with the mentioned duration of Saul's reign, aligning with the apostle's statement. The people desired a king after being tired of the theocracy, leading God to give them Saul. Despite Saul's sin, Paul takes pride in mentioning Benjamin as Saul's tribe. While the Old Testament does not specify the length of Saul's reign, both Josephus and the apostle assign forty years to him.\n",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0989260340898213,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.13,
             "commentatorTierSimilarities": [
-                36.95,
-                25.11,
-                37.95
+                38.23,
+                34.61,
+                27.16
             ],
             "generationAttempt": 5
         }

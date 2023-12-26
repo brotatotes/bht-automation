@@ -1,45 +1,43 @@
 # Philemon 10 Commentary Help Text
 
 ## BHT:
-In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorable description of him before mentioning the name that had fallen into bad repute. The verse does not sanction slavery but presents principles of love that steadily undermine and overthrow it without upheaving the existing political fabric. Onesimus, a runaway Phrygian slave, committed a crime and sought refuge in Rome. This delicate introduction subtly appeals to prejudices and emotions, underscoring the transformative power of conversion.
+I beseech thee for my son, Onesimus, whom I have begotten in my bonds. Scripture does not begin a political crusade against slavery, but it sets forth principles of love that would eventually undermine and overthrow it without violent upheaval. By appealing to you on behalf of my spiritual child, I hope to show the power of conversion transcending physical circumstances. Just as a slave was considered property under Roman law, this person whom I regard as my own child deserves your recognition.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1.
-"In the Greek, the name 'Onesimus' is skillfully put last, he puts first a favorable description of him before he mentions the name that had fallen into so bad repute with Philemon."
-2.
-"Scripture does not sanction slavery, but at the same time does not begin a political crusade against it."
-3.
-"It sets forth principles of love to our fellow men which were sure (as they have done) in due time to undermine and overthrow it, without violently convulsing the then existing political fabric, by stirring up slaves against their masters."
+1. "I beseech thee for my son, whom I have begotten in my bonds, Onesimus."
+2. "Scripture does not sanction slavery, but at the same time does not begin a political crusade against it."
+3. "It sets forth principles of love to our fellow men which were sure (as they have done) in due time to undermine and overthrow it, without violently convulsing the then existing political fabric, by stirring up slaves against their masters."
 
 ### Albert Barnes:
-1. "Any other mode of bringing the case before the mind of Philemon might have repelled him."
-2. "The delicate address of the apostle in introducing the subject is better seen in the original than in our translation."
+1. "The address and tact of Paul here are worthy of particular observation."
+2. "Who could refuse to such a man as Paul - a laborious servant of Christ - an aged man, exhausted with his many sufferings and toils - and a prisoner - a request which he made for one whom he regarded as his son?"
 3. "Was there ever more delicacy evinced in preparing the way for disarming one of prejudice, and carrying an appeal to his heart?"
 
 ### Marvin Vincent:
-1. "Onesimus was a runaway Phrygian slave, who had committed some crime and therefore had fled from his master and hidden himself in Rome."
-2. "Under Roman law the slave was a chattel. The attitude of the law toward the slave was expressed in the formula servile caput nullum jus habet; the slave has no right. The master's power was unlimited."
-3. "The slave population was enormous. Some proprietors had as many as twenty thousand."
+1. "The name is withheld until Paul has favorably disposed Philemon to his request."
+2. "Under Roman law the slave was a chattel."
+3. "The master's power was unlimited. He might mutilate, torture, or kill the slave at his pleasure."
 
 ### John Calvin:
-1. "Here it is of importance to consider how deep is his condescension, when he gives the name of 'son' to a slave, and a runaway, and a thief."
-2. "To renew a soul of man and form it anew to the image of God — is not a human work, and it is of this spiritual regeneration that he now speaks."
-3. "When he says that he had begotten him in his bonds, this circumstance adds weight to the commendation."
+1. "Paul shows that Onesimus is so closely related to him as to afford a good reason for supplicating in his behalf." 
+2. "To renew a soul of man and form it anew to the image of God — is not a human work, and it is of this spiritual regeneration that he now speaks." 
+3. "Yet, at the same time, we must believe that, while the ministry of a man is efficacious in regenerating the soul, yet, strictly speaking, God himself regenerates by the power of his Spirit."
 
 ### Philip Schaff:
-1. "He puts the tenderest word in the forefront of his petition, and speaks of the fugitive slave as his child, before he mentions him by name." 
-2. "Conversion is so often spoken of in the New Testament as a new birth, that it is not surprising that the apostle employs the figure in speaking of one who had been won to Christ by his ministry." 
-3. "The name is Greek, and signifies ‘profitable.’ The Jews, as may be seen all through the Old Testament, were specially regardful of the meaning of names."
+1. "He puts the tenderest word in the forefront of his petition, and speaks of the fugitive slave as his child, before he mentions him by name." (Philemon 1:10)
+2. "Conversion is so often spoken of in the New Testament as a new birth, that it is not surprising that the apostle employs the figure in speaking of one who had been won to Christ by his ministry." (Philemon 1:10)
+3. "The name is Greek, and signifies ‘profitable.’ The Jews, as may be seen all through the Old Testament, were specially regardful of the meaning of names." (Philemon 1:10)
 
 ### Archibald T. Robertson:
-1. "For my child. Tender and affectionate reference to Onesimus as his spiritual child."
-2. "Whom I have begotten in my bonds. Paul is evidently proud of winning Onesimus to Christ though a prisoner himself."
+1. "For my child (περ του εμου τεκνου). Tender and affectionate reference to Onesimus as his spiritual child."
+2. "Whom I have begotten in my bonds (ον εγεννησα εν τοις δεσμοις). First aorist active indicative of γενναω, to beget."
+3. "Paul is evidently proud of winning Onesimus to Christ though a prisoner himself."
 
 ### John Gill:
-1. "I beseech thee for my son Onesimus, whom I have begotten in my bonds..."
-2. "...the apostle was the efficient cause of it..."
-3. "...the bonds of the apostle were the means of the spread of it..."
+1. "I beseech thee for my son Onesimus... whom I have begotten in my bonds."
+2. "He had been the happy instrument of his conversion, and he was his son according to the common faith."
+3. "The word of God was not bound, but had a free course, and was glorified, and the bonds of the apostle were the means of the spread of it."
 
 ### John Wesley:
 1. Whom I have begotten in my bonds — The son of my age.
@@ -48,44 +46,41 @@ In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorabl
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:12:59
+- Timestamp: 12-25-2023 19:29:22
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 33.87%
-- BHT Quality Score: 1.5858791630586948
+- BHT Word Count: 83
+- BHT Commentary Usage: 43.48%
+- BHT Quality Score: 1.8236082439610524
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (62):
-	['a', 'and', 'appeals', 'bad', 'before', 'but', 'committed', 'conversion', 'crime', 'delicate', 'description', 'does', 'emotions', 'emphasizing', 'existing', 'fabric', 'fallen', 'favorable', 'greek', 'had', 'him', 'in', 'into', 'introduction', 'is', 'it', 'last', 'love', 'mentioning', 'name', 'not', 'of', 'onesimus', 'overthrow', 'phrygian', 'political', 'power', 'prejudices', 'presents', 'principles', 'put', 'refuge', 'repute', 'rome', 'runaway', 'sanction', 'skillfully', 'slave', 'slavery', 'sought', 'steadily', 'subtly', 'that', 'the', 'this', 'to', 'transformative', 'undermine', 'underscoring', 'upheaving', 'verse', 'without']
-- ChatGPT injected words (significant words only) (41):
-	['appeals', 'bad', 'committed', 'conversion', 'crime', 'delicate', 'description', 'emotions', 'emphasizing', 'existing', 'fabric', 'fallen', 'favorable', 'greek', 'introduction', 'love', 'mentioning', 'onesimus', 'overthrow', 'phrygian', 'political', 'power', 'prejudices', 'presents', 'principles', 'refuge', 'repute', 'rome', 'runaway', 'sanction', 'skillfully', 'slave', 'slavery', 'sought', 'steadily', 'subtly', 'transformative', 'undermine', 'underscoring', 'upheaving', 'verse']
+- ChatGPT injected words (69):
+	['a', 'against', 'and', 'appealing', 'as', 'begin', 'begotten', 'behalf', 'beseech', 'bonds', 'but', 'by', 'child', 'circumstances', 'considered', 'conversion', 'crusade', 'deserves', 'does', 'eventually', 'for', 'forth', 'have', 'hope', 'i', 'in', 'it', 'just', 'law', 'love', 'my', 'not', 'of', 'on', 'onesimus', 'overthrow', 'own', 'person', 'physical', 'political', 'power', 'principles', 'property', 'recognition', 'regard', 'roman', 'scripture', 'sets', 'show', 'slave', 'slavery', 'son', 'spiritual', 'that', 'the', 'thee', 'this', 'to', 'transcending', 'under', 'undermine', 'upheaval', 'violent', 'was', 'whom', 'without', 'would', 'you', 'your']
+- ChatGPT injected words (significant words only) (39):
+	['appealing', 'begin', 'begotten', 'behalf', 'beseech', 'bonds', 'child', 'circumstances', 'considered', 'conversion', 'crusade', 'deserves', 'eventually', 'forth', 'hope', 'law', 'love', 'onesimus', 'overthrow', 'person', 'physical', 'political', 'power', 'principles', 'property', 'recognition', 'regard', 'roman', 'scripture', 'sets', 'slave', 'slavery', 'son', 'spiritual', 'thee', 'transcending', 'undermine', 'upheaval', 'violent']
 
 ### Logs
-- Attempt 1 BHT: The name Onesimus cleverly appears last in the Greek version of this verse, emphasizing a favorable description of him before addressing his notoriety with Philemon. The verse acknowledges slavery without promoting it, instead highlighting the power of love and its potential to transform societal structures. Onesimus, a Phrygian slave and runaway who sought refuge in Rome, becomes known as Paul's spiritual child. The delicate introduction of his case shows Paul's masterful approach, appealing both to Philemon's prejudices and his emotions. This mention of spiritual rebirth exemplifies the transformative nature of conversion.
-- 🔄 Philemon 10 (attempt 1, 94 words, 28.99% quotes quality score: 1.6066791593114838, V2 normalized quality score: 44.76, commentator tiers 1-3: 36.83%, 39.85%, 23.33%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorable description before mentioning the name that had fallen into bad repute. The verse does not sanction slavery but sets forth principles of love that would eventually undermine and overthrow it. Onesimus, a runaway slave, becomes known as Paul's spiritual child. The delicate introduction of his case shows Paul's approach in appealing to emotions and confronting prejudices. This highlights the transformative power of conversion.
-- 🔄 Philemon 10 (attempt 2, 78 words, 36.51% quotes quality score: 1.48618051654246, V2 normalized quality score: 40.76, commentator tiers 1-3: 43.66%, 35.95%, 20.39%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: In the Greek, the name 'Onesimus' is skillfully put last, he puts first a favorable description of him before he mentions the name that had fallen into so bad repute with Philemon. Scripture does not sanction slavery, but at the same time does not begin a political crusade against it. It sets forth principles of love that were sure to undermine and overthrow it, without violently convulsing the existing political fabric. Onesimus was a runaway Phrygian slave, who had committed some crime and therefore had fled from his master and hidden himself in Rome.
-- 🔄 Philemon 10 (attempt 3, 94 words, 47.95% quotes quality score: 1.7683675233045775, V2 normalized quality score: 50.14, commentator tiers 1-3: 52.87%, 29.55%, 17.57%) 
+- Attempt 1 BHT: I appeal to you on behalf of my spiritual child, Onesimus, whom I have fathered during my time in chains. Scripture does not condone slavery, but instead offers principles of love and compassion that would ultimately lead to its downfall. By winning Onesimus to Christ while imprisoned, I have shown that the power of conversion transcends physical circumstances. I withhold his name until I have convinced you, Philemon, of my sincere intentions. Just as a slave was considered property under Roman law, I beseech you to recognize the value of this person whom I regard as my own child.
+- 🔄 Philemon 10 (attempt 1, 99 words, 41.1% quotes quality score: 1.7476447523485232, V2 normalized quality score: 49.45, commentator tiers 1-3: 40.06%, 29.22%, 30.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorable description of him before mentioning the name that had fallen into bad repute. The verse does not sanction slavery but presents principles of love that steadily undermine and overthrow it without upheaving the existing political fabric. Onesimus, a runaway Phrygian slave, committed a crime and sought refuge in Rome. This delicate introduction subtly appeals to prejudices and emotions, underscoring the transformative power of conversion.
-- 🔄 Philemon 10 (attempt 4, 77 words, 33.87% quotes quality score: 1.5858791630586948, V2 normalized quality score: 44.07, commentator tiers 1-3: 48.0%, 35.24%, 16.75%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: In the Greek, the name 'Onesimus' cleverly appears last, emphasizing a favorable description of him before addressing his notoriety with Philemon. The verse acknowledges slavery without promoting it. Instead, it highlights principles of love that have the power to transform societal structures. Onesimus, a Phrygian slave and runaway who sought refuge in Rome, becomes known as Paul's spiritual child. The delicate introduction of his case shows Paul's masterful approach, appealing both to Philemon's prejudices and his emotions. This mention of spiritual rebirth exemplifies the transformative nature of conversion.
-- 🔄 Philemon 10 (attempt 5, 91 words, 30.43% quotes quality score: 1.5081769461488612, V2 normalized quality score: 41.49, commentator tiers 1-3: 37.91%, 38.42%, 23.67%) 
+- Attempt 2 BHT: I beseech thee for my son, Onesimus, whom I have begotten in my bonds. Scripture does not begin a political crusade against slavery, but it sets forth principles of love that would eventually undermine and overthrow it without violent upheaval. By appealing to you on behalf of my spiritual child, I hope to show the power of conversion transcending physical circumstances. Just as a slave was considered property under Roman law, this person whom I regard as my own child deserves your recognition.
+- 🔄 Philemon 10 (attempt 2, 83 words, 43.48% quotes quality score: 1.8236082439610524, V2 normalized quality score: 51.98, commentator tiers 1-3: 38.55%, 24.9%, 36.55%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: I appeal to you for my son, Onesimus, whom I have begotten in my bonds. Scripture does not sanction slavery, but instead presents principles of love that would gradually undermine and overthrow it without causing political upheaval. By withholding his name until I have favorably disposed you, Philemon, to my request, I hope to showcase the value and significance of this person whom I consider to be my own child. Recognize the transformation that occurred while I was in chains, and the power of conversion to bring about change.
+- 🔄 Philemon 10 (attempt 3, 89 words, 42.42% quotes quality score: 1.7258690949224964, V2 normalized quality score: 48.73, commentator tiers 1-3: 37.4%, 26.14%, 36.46%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Philemon 10 bht prompt v0.8 (77 words, 33.87% quotes)
-- quality score: 1.5858791630586948, V2 normalized quality score: 44.07, commentator tiers 1-3: 48.0%, 35.24%, 16.75%)
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: I beseech you for my son, whom I have begotten in my bonds. Scripture does not sanction slavery, but it sets forth principles of love that would gradually undermine and overthrow it without violently convulsing the existing political fabric. By withholding the name until you are favorably disposed, I hope to reveal the value of this person whom I regard as my own child. Recognize the transformative power of conversion and the pride I take in winning Onesimus to Christ amidst my own imprisonment.
+- 🔄 Philemon 10 (attempt 4, 84 words, 40.62% quotes quality score: 1.7246487344915136, V2 normalized quality score: 48.69, commentator tiers 1-3: 39.14%, 22.82%, 38.03%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: I appeal to you for my spiritual child, whom I have begotten in my bonds. Scripture does not sanction slavery, but it sets forth principles of love that were sure to undermine it. Recognize the value of this person, whom I regard as my own child, and the transformative power of conversion. By withholding the name until you are favorably disposed, I hope to convince you of my sincere intentions and the significance of this relationship that developed during my time in chains.
+- 🔄 Philemon 10 (attempt 5, 83 words, 43.1% quotes quality score: 1.68338457752292, V2 normalized quality score: 47.31, commentator tiers 1-3: 36.6%, 25.55%, 37.85%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Philemon 10 bht prompt v0.8 (83 words, 43.48% quotes)
+- quality score: 1.8236082439610524, V2 normalized quality score: 51.98, commentator tiers 1-3: 38.55%, 24.9%, 36.55%)

@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-19-2023 16:17:59",
+    "timestamp": "12-25-2023 19:30:43",
     "verseRef": "Luke 10:41",
     "bestBHT": {
-        "bht": "Martha, Martha, Jesus gently reproves her with this repetition, expressing great intimacy and compassion for her anxious and troubled state. She is both inwardly anxious and outwardly agitated, overly concerned with the many things she feels she must prepare for her Lord. Jesus reminds her that only one dish is truly necessary and that her bustling about in the kitchen mirrors her bustling about many things in her religious life. He had already warned against this in the Sermon on the Mount, cautioning against being consumed by worry and distractions.",
-        "wordCount": 90,
-        "quoteTokenProportion": 38.33,
-        "qualityScore": 1.8886822587636862,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+        "bht": "Martha, Martha, the repetition of her name indicates a reproof that is delivered with affection. Jesus points out her inner anxiety and outward bustle, caused by her overly elaborate preparations. In her worry to make everything perfect for the Lord, she misses the opportunity to truly listen to his teachings. Jesus gently reminds her that only one dish is necessary, redirecting her attention from the multitude of tasks to the importance of his presence and teachings.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.9489827873230152,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.14,
         "commentatorTierSimilarities": [
-            29.09,
-            23.68,
-            47.23
+            32.33,
+            25.19,
+            42.48
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The repetition of her name indicates reproof.",
-            "Thou art careful expresses the inner anxiety.",
+            "Thou art careful... expresses the inner anxiety.",
             "Troubled, the outer bustle and confusion."
         ],
         "Jamieson-Fausset-Brown": [
             "Martha, Martha\u2014emphatically redoubling upon the name.\" ",
-            "careful and cumbered\u2014the one word expressing the inward worrying anxiety that her preparations should be worthy of her Lord; the other, the outward bustle of those preparations.\" ",
+            "careful and cumbered\u2014the one word expressing the inward worrying anxiety that her preparations should be worthy of her Lord; the other, the outward bustle of those preparations.",
             "many things\u2014\"much service\" (Luke 10:40); too elaborate preparation, which so engrossed her attention that she missed her Lord's teaching."
         ],
         "Albert Barnes": [
-            "Thou art careful - Thou art anxious.",
-            "Troubled - Disturbed, distracted, very solicitous.",
-            "Many things - The many objects which excite your attention in the family."
+            "Thou art anxious.",
+            "Disturbed, distracted, very solicitous.",
+            "She was improperly anxious about those things."
         ],
         "Marvin Vincent": [
             "Thou art anxious [\u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03b1\u03c2] . See on Matthew 6:25. ",
@@ -39,17 +39,17 @@
         "Philip Schaff": [
             "The repetition indicates reproof, but the tone is still one of affection.",
             "The first word refers more to internal anxiety, the second to the external bustle; both together describe the habit of such a character.",
-            "But this is not the meaning of the passage, which, as the next verse shows, refers to spiritual things. Yet the bustling about the many things in the kitchen was but a sign of the bustling about many things in her religious life."
+            "The bustling about the many things in the kitchen was but a sign of the bustling about many things in her religious life."
         ],
         "Archibald T. Robertson": [
-            "Jesus had warned against this in the Sermon on the Mount.",
+            "An old verb for worry and anxiety from \u03bc\u03b5\u03c1\u03b9\u03b6\u03c9 (\u03bc\u03b5\u03c1\u03b9\u03c2, part) to be divided, distracted.",
             "Martha had both inward anxiety and outward agitation.",
             "Jesus seems to say to Martha that only one dish was really necessary for the meal instead of the 'many' about which she was so anxious."
         ],
         "John Gill": [
-            "Martha, Martha, which expresses great intimacy and friendship, and much earnestness, and, as it were, pitying her present situation and circumstances.",
-            "She was over anxious, and too solicitous, and more thoughtful and careful than she need be.",
-            "Instead of joining with her in her request, he reproves her for her over anxious care and solicitude, to have a nice and plentiful feast."
+            "Calling her by her name, and repeating it, Martha, Martha, which expresses great intimacy and friendship, and much earnestness, and, as it were, pitying her present situation and circumstances.",
+            "thou art careful and troubled about many things; intimating, that she was over anxious, and too solicitous, and more thoughtful and careful than she need be.",
+            "he reproves her for her over anxious care and solicitude, to have a nice and plentiful feast."
         ],
         "John Wesley": [
             "Martha, Martha \u2014 There is a peculiar spirit and tenderness in the repetition of the word: thou art careful, inwardly, and hurried, outwardly."
@@ -72,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Martha, Martha, Jesus gently reproves her with this repetition, expressing great intimacy and compassion for her anxious and troubled state. She is both inwardly anxious and outwardly agitated, overly concerned with the many things she feels she must prepare for her Lord. Jesus reminds her that only one dish is truly necessary and that her bustling about in the kitchen mirrors her bustling about many things in her religious life. He had already warned against this in the Sermon on the Mount, cautioning against being consumed by worry and distractions.",
-            "wordCount": 90,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.8886822587636862,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "bht": "Martha, Martha. The repeated mention of her name expresses a gentle yet firm reproof. Jesus acknowledges her inward anxiety, evident in her careful and cumbered preparations, as well as her outward bustle and confusion. Martha's many anxieties and distractions, both in the kitchen and in her religious life, cause her to miss the teachings of the Lord. Jesus lovingly reminds her that only one dish is truly necessary, redirecting her focus from the elaborate preparations to the true value of his presence and teachings.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.882101269804921,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
             "commentatorTierSimilarities": [
-                29.09,
-                23.68,
-                47.23
+                30.82,
+                24.72,
+                44.45
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Martha, Martha, Jesus gently reproves her with this repetition, expressing great intimacy and compassion for her anxious and troubled state. She is both inwardly anxious and outwardly agitated, overly concerned with the many things she feels she must prepare for her Lord. Jesus reminds her that only one dish is truly necessary and that her bustling about in the kitchen mirrors her bustling about many things in her religious life. He had already warned against this in the Sermon on the Mount, cautioning against being consumed by worry and distractions.",
-            "wordCount": 90,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.8886822587636862,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "bht": "Martha, Martha, the repetition of her name indicates a reproof that is delivered with affection. Jesus points out her inner anxiety and outward bustle, caused by her overly elaborate preparations. In her worry to make everything perfect for the Lord, she misses the opportunity to truly listen to his teachings. Jesus gently reminds her that only one dish is necessary, redirecting her attention from the multitude of tasks to the importance of his presence and teachings.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9489827873230152,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.14,
             "commentatorTierSimilarities": [
-                29.09,
-                23.68,
-                47.23
+                32.33,
+                25.19,
+                42.48
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Martha, Martha, Jesus gently reproves her with this repetition, expressing great intimacy and compassion for her anxious and troubled state. She is both inwardly anxious and outwardly agitated, overly concerned with the many things she feels she must prepare for her Lord. Jesus reminds her that only one dish is truly necessary and that her bustling about in the kitchen mirrors her bustling about many things in her religious life. He had already warned against this in the Sermon on the Mount, cautioning against being consumed by worry and distractions.",
-            "wordCount": 90,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.8886822587636862,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "bht": "Martha, Martha, Jesus calls her by name twice, expressing both intimacy and earnestness, as well as a hint of pity for her present circumstances. He reproves her for being overly anxious and solicitous about many things, including her preparations for an elaborate feast. Her inward worrying and outward agitation reflect a character divided and distracted. Jesus reminds her that only one dish is truly necessary, gently redirecting her from excessive busyness to the value of his presence and teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.912187671039817,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.92,
             "commentatorTierSimilarities": [
-                29.09,
-                23.68,
-                47.23
+                28.09,
+                23.27,
+                48.64
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Martha, Martha, Jesus gently reproves her with this repetition, expressing great intimacy and compassion for her anxious and troubled state. She is both inwardly anxious and outwardly agitated, overly concerned with the many things she feels she must prepare for her Lord. Jesus reminds her that only one dish is truly necessary and that her bustling about in the kitchen mirrors her bustling about many things in her religious life. He had already warned against this in the Sermon on the Mount, cautioning against being consumed by worry and distractions.",
-            "wordCount": 90,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.8886822587636862,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "bht": "Martha, Martha, Jesus repeats her name with an emphatic tone, indicating both familiarity and a reproving nature. He acknowledges Martha's inward anxiety and outward bustle, arising from her excessive concern for elaborate preparations. Her preoccupation with many things, both in the kitchen and in her religious life, causes her to overlook the significance of the Lord's teachings. Jesus lovingly reminds her that only one dish is truly necessary, redirecting her focus from unnecessary busyness to the value of his presence and instruction.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.890264599438202,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
             "commentatorTierSimilarities": [
-                29.09,
-                23.68,
-                47.23
+                29.87,
+                26.11,
+                44.02
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Martha, Martha, Jesus lovingly reproves her, emphasizing her inner anxiety and outer bustle. She is consumed with the elaborate preparations, missing the opportunity to learn from her Lord. Jesus reminds her that excessive worry and distractions were warned against in the Sermon on the Mount. He suggests that only one dish is truly necessary, rather than the multitude Martha is fretting over. Her bustling in the kitchen reflects her busyness in other aspects of her spiritual life.",
-            "wordCount": 77,
-            "quoteTokenProportion": 36.84,
-            "qualityScore": 1.8128056768593286,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "bht": "Martha, Martha, Jesus repeats her name, demonstrating both intimacy and a firm reproof. He acknowledges her inward anxiety and outward bustle caused by her excessive concern for elaborate preparations. Jesus reminds her that being preoccupied with many things, both in the kitchen and in her religious life, causes her to miss the essential teachings. He lovingly guides her to recognize that only one dish is truly necessary, redirecting her focus from excessive busyness to the value of his presence and instruction.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8793261294062673,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
             "commentatorTierSimilarities": [
-                32.21,
-                21.73,
-                46.06
+                29.63,
+                25.35,
+                45.03
             ],
             "generationAttempt": 5
         }

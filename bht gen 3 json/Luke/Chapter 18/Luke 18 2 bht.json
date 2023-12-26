@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:21:15",
+    "timestamp": "12-25-2023 19:30:24",
     "verseRef": "Luke 18:2",
     "bestBHT": {
-        "bht": "In this narrative, we encounter a judge who fearlessly defied God and callously disregarded the opinions and rights of others. This judge's lack of reverence and shame is exemplified in his treatment of a vulnerable widow. Our Lord indirectly guides us to understand the qualities essential for a judge, emphasizing the significance of both fearing God and respecting the rights of individuals. The judge's unprincipled behavior demonstrates the absence of religious and social restraints, rendering him unsuitable for the position of a ruler or magistrate.",
-        "wordCount": 87,
-        "quoteTokenProportion": 30.51,
-        "qualityScore": 1.7566533759856715,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+        "bht": "The judge in this account had no fear of God and paid no attention to the opinions or rights of others. Defying God's vengeance and despising the views of men, this judge displayed a complete disregard for everyone. The judge's character was lacking in reverence and respect, failing to meet the standards of a righteous and fair judge who ought to fear God and regard the rights of others. This judge's behavior showcased a selfish and reckless attitude, devoid of any consideration for the people they were meant to serve.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.9319552126662138,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.58,
         "commentatorTierSimilarities": [
-            16.31,
-            39.58,
-            44.12
+            14.65,
+            37.14,
+            48.21
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -30,15 +30,15 @@
         "Albert Barnes": [
             "He that has no regard for God can be expected to have none for man.",
             "Our Lord has here indirectly taught us what ought to be the character of a judge that he 'should' fear God and regard the rights of man.",
-            "Regarded man - cared not for man. Had no respect for the opinions or the rights of man."
+            "Had no respect for the opinions or the rights of man."
         ],
         "Marvin Vincent": [
             "Regarded [\u03b5\u03bd\u03c4\u03c1\u03b5\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . See on Matthew 21:37."
         ],
         "Philip Schaff": [
-            "Who feared not God, and regarded not man.\" ",
             "The expression is not an uncommon designation of an unprincipled and reckless person.",
-            "Religious motives and even social influences set no check to his selfish recklessness."
+            "Religious motives and even social influences set no check to his selfish recklessness.",
+            "The ordinary municipal judge, appointed in accordance with Deuteronomy 16:18."
         ],
         "Archibald T. Robertson": [
             "This was a 'hard-boiled' judge who knew no one as his superior.",
@@ -46,9 +46,9 @@
             "Regarded not (\u03bc\u03b7 \u03b5\u03bd\u03c4\u03c1\u03b5\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2)."
         ],
         "John Gill": [
-            "There was in a city a judge...which feared not God, neither regarded man.",
-            "The judge in the text...was destitute of the fear of God...and such an one is very unfit to be a judge.",
-            "Civil magistrates, and rulers of every sort, ought to be just, ruling in the fear of God."
+            "Although there is no judicature less than three, it is lawful for one to judge, according to the law, as it is said, Leviticus 19:15 'In righteousness shalt thou judge thy neighbour.'",
+            "But the judge in the text came greatly short of these qualifications: his character follows, which feared not God, neither regarded man.",
+            "Indeed, judges ought not to regard men in judgment; that is, to respect the persons of men, and through affection, or flattery, or bribes, wrest judgment."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, we see a judge who feared not God and neither regarded man, defying God's vengeance and disregarding the opinions of others. The judge's behavior towards a weak and defenseless widow reflects his lack of reverence and shame. Our Lord indirectly teaches us through this judge the character a judge should have - one that fears God and respects the rights of others. This judge, however, had no regard for God or man and his selfish recklessness prevailed, setting no check to his unprincipled behavior. It is clear that a judge who lacks the fear of God is unfit for the role, as civil magistrates and rulers should rule in the fear of God, being just and fair to all.",
-            "wordCount": 123,
-            "quoteTokenProportion": 43.42,
-            "qualityScore": 1.9684297794211085,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "bht": "The judge in this verse exhibited a complete lack of fear for God and disregard for the opinions and rights of others. This judge was unprincipled, selfish, and reckless, paying no attention to the vengeance of God or the opinions of men. He was a hard-hearted judge who knew no one as his superior and possessed no reverence for God or man. This judge's character fell significantly short of what a judge should be - one who fears God and regards the rights of others. Despite the expectation for judges to judge with righteousness and fairness, this judge failed to demonstrate any respect for the people he was meant to serve.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.0320331477552616,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
             "commentatorTierSimilarities": [
-                12.51,
-                40.81,
-                46.68
+                15.13,
+                35.18,
+                49.69
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, we encounter a judge who neither feared God nor regarded man, displaying a complete disregard for divine consequences and opinions of others. The judge's lack of reverence and shame is evident in his treatment of a helpless widow. Our Lord's teachings indirectly highlight the essential qualities of a judge, emphasizing the importance of both fearing God and respecting the rights of others. This unprincipled judge's behavior serves as a stark reminder that rulers, including civil magistrates, should govern justly and with the fear of God.",
-            "wordCount": 91,
-            "quoteTokenProportion": 31.25,
-            "qualityScore": 1.8419047574342848,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "bht": "The judge in this passage showed complete disregard for God and others, defying God's wrath and despising the opinions of men. In his unprincipled and reckless behavior, he demonstrated no fear or reverence for anyone. Yet, a judge should possess qualities of righteousness and fairness, fearing God and respecting the rights of others. Unfortunately, this judge fell far short of these ideals, showing no regard for the people he was meant to serve.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.805703613462732,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
             "commentatorTierSimilarities": [
-                15.02,
-                37.9,
-                47.08
+                13.17,
+                36.89,
+                49.95
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this account, we witness a judge who showed no fear towards God and disregarded the rights and opinions of others. His conduct lacked reverence and shame, as seen in his treatment of a defenseless widow. This serves as a reminder of the qualities a judge ought to possess - a reverence for God and a respect for the rights of others. The judge's reckless behavior reveals his lack of principles and disregard for religious and social influences. Such disregard renders him unfit for his role as a ruler.",
-            "wordCount": 89,
-            "quoteTokenProportion": 31.48,
-            "qualityScore": 1.7058550389257694,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "bht": "The judge described here exhibited a complete lack of fear for God and disregard for the opinions and rights of others. This judge was unprincipled, selfish, and reckless, paying no attention to the vengeance of God or the opinions of men. He was a hard-hearted judge who knew no one as his superior and possessed no reverence for God or man. This judge's character fell significantly short of what a judge should be - one who fears God and regards the rights of others. Despite the expectation for judges to judge with righteousness and fairness, this judge failed to demonstrate any respect for the people he was meant to serve.",
+            "wordCount": 111,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9972043466747618,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
             "commentatorTierSimilarities": [
-                17.68,
-                42.54,
-                39.78
+                14.23,
+                35.71,
+                50.06
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this narrative, we encounter a judge who fearlessly defied God and callously disregarded the opinions and rights of others. This judge's lack of reverence and shame is exemplified in his treatment of a vulnerable widow. Our Lord indirectly guides us to understand the qualities essential for a judge, emphasizing the significance of both fearing God and respecting the rights of individuals. The judge's unprincipled behavior demonstrates the absence of religious and social restraints, rendering him unsuitable for the position of a ruler or magistrate.",
-            "wordCount": 87,
-            "quoteTokenProportion": 30.51,
-            "qualityScore": 1.7566533759856715,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+            "bht": "The judge in this verse showed no fear or regard for God and others, defying God's wrath and disregarding the opinions of men. This judge lacked principle and acted recklessly, with no reverence for anyone. However, a judge should possess righteousness, fairness, and a fear of God while respecting the rights of others. Unfortunately, this judge fell far short of these expectations and showed no regard for those he was meant to serve.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.8819393205616957,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
             "commentatorTierSimilarities": [
-                16.31,
-                39.58,
-                44.12
+                13.62,
+                35.83,
+                50.56
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The judge in this account displayed a complete lack of fear towards God and utter disregard for the rights and opinions of others. His actions highlighted his absence of reverence and shame, particularly in his treatment of a vulnerable widow. Through this story, our Lord indirectly illustrates the qualities that a judge should possess - a genuine fear of God and a respectful regard for the rights of individuals. This judge's reckless behavior exemplifies a disregard for both religious motivations and social influences, underscoring his unsuitability for holding a position of authority.",
-            "wordCount": 92,
-            "quoteTokenProportion": 25.86,
-            "qualityScore": 1.6861819583466429,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "bht": "The judge in this account had no fear of God and paid no attention to the opinions or rights of others. Defying God's vengeance and despising the views of men, this judge displayed a complete disregard for everyone. The judge's character was lacking in reverence and respect, failing to meet the standards of a righteous and fair judge who ought to fear God and regard the rights of others. This judge's behavior showcased a selfish and reckless attitude, devoid of any consideration for the people they were meant to serve.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9319552126662138,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
             "commentatorTierSimilarities": [
-                13.39,
-                45.96,
-                40.65
+                14.65,
+                37.14,
+                48.21
             ],
             "generationAttempt": 5
         }

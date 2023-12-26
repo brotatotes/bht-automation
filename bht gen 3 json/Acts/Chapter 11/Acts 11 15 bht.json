@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:29:37",
+    "timestamp": "12-25-2023 20:08:37",
     "verseRef": "Acts 11:15",
     "bestBHT": {
-        "bht": "Peter defended himself against the accusation of associating with the uncircumcised by emphasizing the divine intervention that occurred while he spoke to Cornelius. Instead of mentioning Cornelius by name, Peter focused on the uncircumcised man to whom he was divinely sent. He pointed out that while he was speaking, the Holy Spirit fell upon the Gentiles just as it did on the Jews during Pentecost. Peter's defense rested not on his words, but on the undeniable actions of God.",
-        "wordCount": 80,
-        "quoteTokenProportion": 42.86,
-        "qualityScore": 1.6459164056802285,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+        "bht": "When Peter began to speak, he referred to the uncircumcised man he had been divinely sent to, without mentioning Cornelius by name or his high position. He did not defend his actions based on his words, but on what God had done. This interruption in Peter's speech revealed that he had more to say, but was prevented from doing so. By using the phrase at the beginning, Peter draws a parallel to the beginning of the new dispensation, just as it was on the day of Pentecost when the Holy Spirit fell on them with visible manifestations and gifts.",
+        "wordCount": 100,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.675928063438993,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.07,
         "commentatorTierSimilarities": [
-            34.14,
-            29.14,
-            36.72
+            32.69,
+            35.17,
+            32.15
         ],
-        "generationAttempt": 4
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -20,7 +20,8 @@
         ],
         "Jamieson-Fausset-Brown": [
             "No mention of Cornelius' name, much less of his high position, as if that affected the question.",
-            "To the charge, 'Thou wentest in to men uncircumcised,' he simply speaks of the uncircumcised 'man' to whom he had been divinely sent."
+            "To the charge, 'Thou wentest in to men uncircumcised,' he simply speaks of the uncircumcised 'man' to whom he had been divinely sent.",
+            "He simply speaks of the uncircumcised 'man' to whom he had been divinely sent."
         ],
         "Albert Barnes": [
             "And as I began to speak - Or, while I was speaking.",
@@ -28,13 +29,12 @@
         ],
         "Philip Schaff": [
             "From this we see that St. Peter was intending to say more than, in consequence of the Divine interruption, he was permitted to say.",
-            "And therefore miraculously, with signs audible or visible or both. This seems a natural and almost inevitable conclusion.",
-            "St. Peter appears to claim Pentecost as the starting-point of a new dispensation. And yet eight or ten years had elapsed since that day."
+            "The phrase \u2018at the beginning\u2019 is worthy of careful remark. It is the same which we find at the opening of St. John\u2019s Gospel and (in the LXX.) at the opening of Genesis.",
+            "St. Peter appears to claim Pentecost as the starting-point of a new dispensation."
         ],
         "Archibald T. Robertson": [
-            "In the beginning to speak\". ",
-            "Even as on us at the beginning\".",
-            "He rests his defence, not on what he said, but on what God did\"."
+            "In the beginning to speak as to me.",
+            "He rests his defence, not on what he said, but on what God did."
         ],
         "John Gill": [
             "The Holy Ghost fell on them, as on us at the beginning.",
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "As Peter defended himself against the charge of associating with the uncircumcised, he emphasized the divine intervention that occurred while he was speaking to Cornelius. Rather than mentioning Cornelius by name, Peter focused on the uncircumcised man to whom he had been divinely sent. He acknowledged that while he was speaking, the Holy Spirit fell upon the Gentiles just as it did on the Jews during the time of Pentecost. Peter's defense rested not on his words, but on the actions of God.",
-            "wordCount": 84,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 1.6330235373004334,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "bht": "When Peter began to speak, he referred to the uncircumcised man he had been divinely sent to, without mentioning Cornelius by name or his high position. He did not defend his actions based on his words, but on what God had done. This interruption in Peter's speech revealed that he had more to say, but was prevented from doing so. By using the phrase at the beginning, Peter draws a parallel to the beginning of the new dispensation, just as it was on the day of Pentecost when the Holy Spirit fell on them with visible manifestations and gifts.",
+            "wordCount": 100,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.675928063438993,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.07,
             "commentatorTierSimilarities": [
-                34.22,
-                28.83,
-                36.95
+                32.69,
+                35.17,
+                32.15
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "As Peter defended himself against the charge of associating with the uncircumcised, he emphasized the divine intervention that occurred while he was speaking to Cornelius. Rather than mentioning Cornelius by name, Peter focused on the uncircumcised man to whom he had been divinely sent. He acknowledged that while he was speaking, the Holy Spirit fell upon the Gentiles just as it did on the Jews during the time of Pentecost. Peter's defense rested not on his words, but on the actions of God.",
-            "wordCount": 84,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 1.6330235373004334,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "bht": "When Peter began to speak, he defended his actions not by his words, but by what God did. He acknowledged the uncircumcised man he was divinely sent to without naming Cornelius or referencing his high position. The interruption in Peter's speech suggests that he had more to say, but was prevented from doing so. By using the phrase at the beginning, Peter draws a parallel to the start of a new dispensation, just as on the day of Pentecost when the Holy Spirit fell on them with visible manifestations and gifts.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.6923701427515874,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.61,
             "commentatorTierSimilarities": [
-                34.22,
-                28.83,
-                36.95
+                32.05,
+                34.79,
+                33.16
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Peter's defense against the charge of associating with the uncircumcised was rooted in the divine intervention that occurred while he spoke to Cornelius. Instead of mentioning Cornelius by name, he referred to the uncircumcised man to whom he was divinely sent. Peter highlighted that while he was speaking, the Holy Spirit fell upon the Gentiles just as it did on the Jews during Pentecost. His defense was not based on his own words but on the undeniable actions of God.",
-            "wordCount": 81,
-            "quoteTokenProportion": 43.64,
-            "qualityScore": 1.5832914608156203,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "bht": "As Peter began to speak, he addressed the accusation by referring to the uncircumcised man he had been divinely sent to, rather than mentioning Cornelius or his high position. He defended himself not through his own words, but by emphasizing what God had done. The interruption in his speech indicates that he had more to say, but was restrained. By using the phrase at the beginning, Peter draws a parallel to the commencement of a new dispensation, similar to the day of Pentecost when the Holy Spirit fell upon them with visible demonstrations and spiritual gifts.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.6598502835315136,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
             "commentatorTierSimilarities": [
-                34.48,
-                29.55,
-                35.97
+                33.44,
+                32.46,
+                34.09
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Peter defended himself against the accusation of associating with the uncircumcised by emphasizing the divine intervention that occurred while he spoke to Cornelius. Instead of mentioning Cornelius by name, Peter focused on the uncircumcised man to whom he was divinely sent. He pointed out that while he was speaking, the Holy Spirit fell upon the Gentiles just as it did on the Jews during Pentecost. Peter's defense rested not on his words, but on the undeniable actions of God.",
-            "wordCount": 80,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.6459164056802285,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "bht": "When Peter began to speak, he didn't mention Cornelius' name or high position, but rather referred to the uncircumcised man he was sent to by God. His defense rested not on his own words, but on the divine intervention. Despite being interrupted, Peter intended to say more, possibly alluding to the beginning of a new dispensation, similar to the day of Pentecost when the Holy Spirit fell upon them with visible manifestations and gifts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.687806754831559,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
             "commentatorTierSimilarities": [
-                34.14,
-                29.14,
-                36.72
+                29.93,
+                32.63,
+                37.44
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In facing the accusation of associating with the uncircumcised, Peter defended himself by highlighting the divine intervention that occurred while he spoke to Cornelius. Instead of mentioning Cornelius by name, he emphasized the uncircumcised man to whom he was divinely sent. He explained how, while in the midst of speaking, the Holy Spirit fell upon the Gentiles, mirroring the events of Pentecost. Peter's defense relied not on his own words, but on the undeniable evidence of God's actions.",
-            "wordCount": 80,
-            "quoteTokenProportion": 35.71,
-            "qualityScore": 1.6156460524321328,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "bht": "As Peter began to speak, he focused on the uncircumcised man he was divinely sent to rather than mention Cornelius' name or status. He defended himself by highlighting God's actions rather than his words. The interruption in his speech indicated there was more he wanted to say, possibly relating to the start of a new dispensation, just like on the day of Pentecost when the Holy Spirit descended with visible manifestations and spiritual gifts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7177894705309962,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.46,
             "commentatorTierSimilarities": [
-                34.75,
-                27.24,
-                38.01
+                32.71,
+                32.47,
+                34.82
             ],
             "generationAttempt": 5
         }

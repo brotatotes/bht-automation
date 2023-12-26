@@ -1,70 +1,73 @@
 # John 1:33 Commentary Help Text
 
 ## BHT:
-The Holy Spirit is the one who baptizes, as revealed by God to John. The distinction is drawn between John baptizing in water and the Messiah baptizing in the Holy Spirit. Knowledge of Jesus and His role is acquired through a personal and deep relationship. The divine sign given to John is not merely for his sake but for the benefit of everyone. When the Spirit descends and remains on Jesus, it serves as confirmation that He is the one who baptizes with the Holy Spirit.
+In this text, the baptism with the Holy Ghost is brought up, which had not been previously mentioned. It highlights the contrast between John's water baptism and the Messiah's baptism with the Holy Spirit, as seen in the other Gospels. The emphasis on the pronoun used indicates that it was God who sent John and revealed this knowledge. The revelation comes from a personal and intimate relationship with God rather than from societal norms. An additional sign is given as confirmation, validating John's divine authorization for his baptism.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The same is he which baptizeth with the Holy Ghost."
+1. "the same is he which baptizeth with the Holy Ghost"
+2. "Here again we seem to have a reference to the cycle of narratives of the three other Gospels"
+3. "our Evangelist has not before mentioned this office of the Messiah"
 
 ### John Calvin:
-1. "No rank or excellence of man ought to prevent us from doing our duty."
-2. "The knowledge here mentioned is that which arises from personal and long acquaintance."
-3. "This sign was added for confirmation, and that it was not so much for the sake of John as for the sake of us all."
+1. "No rank or excellence of man ought to prevent us from doing our duty, and therefore John would have shown disrespect to God and to his baptism if he had spoken in this manner to any other person than the Son of God."
+2. "The knowledge here mentioned is that which arises from personal and long acquaintance...they were not known to each other according to the ordinary custom of men, for the commencement of his knowledge proceeded from God."
+3. "This sign was added for confirmation, and it was not so much for the sake of John as for the sake of us all...this came as an addition to the former revelation which had been given to John."
 
 ### Archibald T. Robertson:
-1. "He said, referring to God as the one who sent John."
-2. "With the Holy Spirit."
-3. "The contrast between John's baptism in water and that of the Messiah in the Holy Spirit."
+1. "He said (εκεινος ειπεν). Explicit and emphatic pronoun as in verse John 1:8, referring to God as the one who sent John (verse John 1:6)."
+2. "With the Holy Spirit (εν πνευματ αγιω). 'In the Holy Spirit.'"
+3. "Here again one needs the background of the Synoptics for the contrast between John's baptism in water (John 1:26) and that of the Messiah in the Holy Spirit (Mark 1:8; Matthew 3:11; Luke 3:16)."
 
 ### John Gill:
-1. "And I knew him not,.... That is, before he came to be baptized by him; when it was secretly suggested to him who he was, and the following signal was given him, to confirm him in it."
-2. "but he that sent me to baptize with water; or 'in water'; that is, God; for John's mission was from God, as in John 1:6, and his baptism from heaven; he had a divine warrant and commission for what he did."
-3. "the same said unto me; either by an articulate voice, or by a divine impulse on his mind, or by the revelation of the Spirit:
-upon whom thou shalt see the Spirit descending and remaining on him,
-the same is he which baptizeth with the Holy Ghost; that is, the Messiah."
+1. "But he that sent me to baptize with water... had a divine warrant and commission for what he did."
+2. "The same said unto me...the Messiah."
+3. "The same is he which baptizeth with the Holy Ghost."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:03:42
+- Timestamp: 12-25-2023 20:08:45
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 46.15%
-- BHT Quality Score: 1.9853152674186785
+- BHT Word Count: 91
+- BHT Commentary Usage: 42.19%
+- BHT Quality Score: 1.7216935681180712
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (52):
-	['a', 'acquired', 'and', 'as', 'baptizes', 'baptizing', 'benefit', 'between', 'but', 'by', 'confirmation', 'deep', 'descends', 'distinction', 'divine', 'drawn', 'everyone', 'for', 'given', 'god', 'he', 'his', 'holy', 'in', 'is', 'it', 'jesus', 'john', 'knowledge', 'merely', 'messiah', 'not', 'of', 'on', 'one', 'personal', 'relationship', 'remains', 'revealed', 'role', 'sake', 'serves', 'sign', 'spirit', 'that', 'the', 'through', 'to', 'water', 'when', 'who', 'with']
-- ChatGPT injected words (significant words only) (28):
-	['acquired', 'baptizes', 'baptizing', 'benefit', 'confirmation', 'deep', 'descends', 'distinction', 'divine', 'drawn', 'given', 'god', 'holy', 'jesus', 'john', 'knowledge', 'merely', 'messiah', 'personal', 'relationship', 'remains', 'revealed', 'role', 'sake', 'serves', 'sign', 'spirit', 'water']
+- ChatGPT injected words (64):
+	['a', 'additional', 'an', 'and', 'as', 'authorization', 'baptism', 'been', 'between', 'brought', 'comes', 'confirmation', 'contrast', 'divine', 'emphasis', 'for', 'from', 'ghost', 'given', 'god', 'gospels', 'had', 'highlights', 'his', 'holy', 'in', 'indicates', 'intimate', 'is', 'it', 'john', 'knowledge', 'mentioned', 'messiah', 'norms', 'not', 'on', 'other', 'personal', 'previously', 'pronoun', 'rather', 'relationship', 'revealed', 'revelation', 's', 'seen', 'sent', 'sign', 'societal', 'spirit', 'text', 'than', 'that', 'the', 'this', 'up', 'used', 'validating', 'was', 'water', 'which', 'who', 'with']
+- ChatGPT injected words (significant words only) (37):
+	['additional', 'authorization', 'baptism', 'brought', 'comes', 'confirmation', 'contrast', 'divine', 'emphasis', 'ghost', 'given', 'god', 'gospels', 'highlights', 'holy', 'indicates', 'intimate', 'john', 'knowledge', 'mentioned', 'messiah', 'norms', 'personal', 'previously', 'pronoun', 'relationship', 'revealed', 'revelation', 's', 'seen', 'sent', 'sign', 'societal', 'spirit', 'text', 'validating', 'water']
 
 ### Logs
-- Attempt 1 BHT: The one who baptizes with the Holy Spirit is none other than God, who sent John to baptize with water. The baptism that John performed in water was a mere contrast to the Messiah's baptism in the Holy Spirit. This knowledge was not gained through any earthly distinction or greatness, but rather through a personal and deep relationship. The divine sign given to John was not just for his benefit, but for the edification of all. When the Spirit descended and remained on Jesus, it confirmed that he is the one who baptizes with the Holy Spirit, the Messiah.
-- 🔄 John 1:33 (attempt 1, 100 words, 49.18% quotes quality score: 1.8840447763830812, V2 normalized quality score: 53.99, commentator tiers 1-3: 59.48%, 0.0%, 40.52%) 
+- Attempt 1 BHT: The verse refers to the one who baptizes with the Holy Ghost, which our Evangelist had not mentioned before. It alludes to the narratives of the three other Gospels and highlights the contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit. The pronoun used emphasizes that God is the one who sent John and brought forth this knowledge. This knowledge comes from personal acquaintance with God, not the ordinary custom of men. This additional sign was given as confirmation, not just for John but for all of us. John had divine warrant and commission for his baptism, as he was sent by the same one who baptized with the Holy Spirit.
+- 🔄 John 1:33 (attempt 1, 118 words, 45.83% quotes quality score: 1.8037429777152665, V2 normalized quality score: 51.32, commentator tiers 1-3: 49.19%, 0.0%, 50.81%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The verse sheds light on the baptism with the Holy Ghost, a previously unmentioned aspect of the Messiah's role mentioned in the other Gospels. The pronoun used emphasizes that God is the one who sent John and brought forth this knowledge. The contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit is evident, showing the divine warrant and commission John had. This knowledge is not based on ordinary custom, but on personal acquaintance with God, confirmed by an additional sign given for all to see.
+- 🔄 John 1:33 (attempt 2, 93 words, 38.1% quotes quality score: 1.7865373309434984, V2 normalized quality score: 50.74, commentator tiers 1-3: 49.52%, 0.0%, 50.48%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 3 BHT: The verse introduces the significance of baptism with the Holy Ghost, highlighting the contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit. This distinction emphasizes that John had divine warrant and commission for his baptism. The pronoun used emphasizes that God is the one who sent John, and this revelation arises from personal acquaintance with God, not from ordinary customs. The inclusion of an additional sign confirms the authenticity of this knowledge.
+- 🔄 John 1:33 (attempt 3, 79 words, 35.29% quotes quality score: 1.4908285572503253, V2 normalized quality score: 40.91, commentator tiers 1-3: 46.45%, 0.0%, 53.55%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: The passage discusses the baptism with the Holy Ghost, which hadn't been previously mentioned by the Evangelist. It draws attention to the contrast between John's water baptism and the Messiah's baptism with the Holy Spirit, as shown in the other Gospels. The pronoun used emphasizes that God sent John and revealed this knowledge. This revelation stems from a personal and deep relationship with God, not ordinary customs. An additional sign is given as confirmation, authenticating John's divine warrant and commission for his baptism.
+- 🔄 John 1:33 (attempt 4, 87 words, 34.92% quotes quality score: 1.7084455195218786, V2 normalized quality score: 48.15, commentator tiers 1-3: 50.01%, 0.0%, 49.99%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 5 BHT: In this text, the baptism with the Holy Ghost is brought up, which had not been previously mentioned. It highlights the contrast between John's water baptism and the Messiah's baptism with the Holy Spirit, as seen in the other Gospels. The emphasis on the pronoun used indicates that it was God who sent John and revealed this knowledge. The revelation comes from a personal and intimate relationship with God rather than from societal norms. An additional sign is given as confirmation, validating John's divine authorization for his baptism.
+- 🔄 John 1:33 (attempt 5, 91 words, 42.19% quotes quality score: 1.7216935681180712, V2 normalized quality score: 48.59, commentator tiers 1-3: 50.6%, 0.0%, 49.4%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The one who baptizes with the Holy Spirit is God Himself, who sent John to baptize with water. The baptism in water performed by John serves as a contrast to the Messiah's baptism in the Holy Spirit. The knowledge about Jesus and His role comes from personal and profound acquaintance. The divine sign given to John was not only for him but for the benefit of all. The Spirit descending and remaining on Jesus confirmed that He is the Messiah who baptizes with the Holy Spirit.
-- 🔄 John 1:33 (attempt 2, 87 words, 48.15% quotes quality score: 1.9590390502207533, V2 normalized quality score: 56.48, commentator tiers 1-3: 60.65%, 0.0%, 39.35%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: The one who baptizes with the Holy Spirit is none other than God, who sent John. The contrast between John's baptism in water and the Messiah's baptism in the Holy Spirit is apparent. The knowledge about Jesus and His role stems from a personal, deep relationship. The divine sign given to John confirms his identity as the baptizer with the Holy Spirit. It is not just for his sake, but for the benefit of all. When the Spirit descended and remained on Jesus, it affirmed His role as the Messiah.
-- 🔄 John 1:33 (attempt 3, 92 words, 46.43% quotes quality score: 1.8661847003088599, V2 normalized quality score: 53.39, commentator tiers 1-3: 63.87%, 0.0%, 36.13%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The one who baptizes with the Holy Spirit is the same God who sent John to baptize with water. This contrast between water baptism and the Messiah's baptism in the Holy Spirit is significant. The knowledge of Jesus and His purpose comes from a personal, intimate relationship. The divine sign given to John serves to confirm his understanding of Jesus as the one who baptizes with the Holy Spirit. This sign is not just for John's sake, but for the benefit of all. It validates Jesus as the promised Messiah.
-- 🔄 John 1:33 (attempt 4, 92 words, 42.31% quotes quality score: 1.7888461817446357, V2 normalized quality score: 50.82, commentator tiers 1-3: 62.05%, 0.0%, 37.95%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: The Holy Spirit is the one who baptizes, as revealed by God to John. The distinction is drawn between John baptizing in water and the Messiah baptizing in the Holy Spirit. Knowledge of Jesus and His role is acquired through a personal and deep relationship. The divine sign given to John is not merely for his sake but for the benefit of everyone. When the Spirit descends and remains on Jesus, it serves as confirmation that He is the one who baptizes with the Holy Spirit.
-- 🔄 John 1:33 (attempt 5, 86 words, 46.15% quotes quality score: 1.9853152674186785, V2 normalized quality score: 57.35, commentator tiers 1-3: 62.37%, 0.0%, 37.63%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ John 1:33 bht prompt v0.8 (86 words, 46.15% quotes)
-- quality score: 1.9853152674186785, V2 normalized quality score: 57.35, commentator tiers 1-3: 62.37%, 0.0%, 37.63%)
+- ✅ John 1:33 bht prompt v0.8 (91 words, 42.19% quotes)
+- quality score: 1.7216935681180712, V2 normalized quality score: 48.59, commentator tiers 1-3: 50.6%, 0.0%, 49.4%)

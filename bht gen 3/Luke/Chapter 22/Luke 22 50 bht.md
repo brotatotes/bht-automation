@@ -1,7 +1,7 @@
 # Luke 22:50 Commentary Help Text
 
 ## BHT:
-In Luke 22:50, one of the disciples takes a sword and cuts off the right ear of the servant. This act is attributed to Peter, who impulsively lunges at the servant with the intention of striking his head, but instead ends up severing his ear. Luke is the only Gospel that specifies it was the right ear, while John adds the names of both Peter and Malchus to the account. It is suggested that Peter targeted this particular servant because of his aggressive demeanor and hostility towards Jesus.
+A certain servant, possibly Peter, acted impulsively and cut off the right ear of the high priest's servant, later identified as Malchus. The mention of the specific ear is particular to Luke and John's accounts, with Luke, being a physician, providing this detail. Despite Luke omitting Peter's name, his quick action demonstrates his readiness to defend Jesus, even though it would lead to trouble for him.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -17,55 +17,53 @@ His right ear. Lit., his ear, the right one. See on Matthew 26:51; and compare M
 
 
 ### Archibald T. Robertson:
-1. "Luke the Physician does [mention 'right']."
-2. "John 18:10 follows Luke in this item and also adds the names of Peter and of Malchus."
-3. "Both [Peter and Malchus] were probably dead by that time and Peter would not be involved in trouble."
+1. "Luke the Physician does." 
+2. "John 18:10 follows Luke in this item."
+3. "Peter would not be involved in trouble."
 
 ### John Gill:
-1. "The person that drew his sword, and performed this daring action, not waiting for an answer from Christ, was Peter." 
-2. "He aimed, no doubt, at his head, but missing his blow, took off his right ear." 
-3. "It is very likely, that this servant was very busy and forward to lay hold on Christ, and showed much virulence, and great malignity; and therefore Peter singled him out, and levelled his blow at him."
+1. "The person that drew his sword, and performed this daring action, not waiting for an answer from Christ, was Peter..." (29 words)
+2. "...the high priest's servant, that he smote, was Malchus..." (14 words)
+3. "...Peter singled him out, and levelled his blow at him." (13 words)
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:23:03
+- Timestamp: 12-25-2023 20:08:28
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 42.11%
-- BHT Quality Score: 1.6107743756340547
+- BHT Word Count: 69
+- BHT Commentary Usage: 35.85%
+- BHT Quality Score: 1.650301977998252
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'account', 'act', 'adds', 'aggressive', 'and', 'at', 'attributed', 'because', 'both', 'but', 'cuts', 'demeanor', 'disciples', 'ear', 'ends', 'gospel', 'head', 'his', 'hostility', 'impulsively', 'in', 'instead', 'intention', 'is', 'it', 'jesus', 'john', 'luke', 'lunges', 'malchus', 'names', 'of', 'off', 'one', 'only', 'particular', 'peter', 'right', 'servant', 'severing', 'specifies', 'striking', 'suggested', 'sword', 'takes', 'targeted', 'that', 'the', 'this', 'to', 'towards', 'up', 'was', 'while', 'who', 'with']
-- ChatGPT injected words (significant words only) (33):
-	['account', 'act', 'adds', 'aggressive', 'attributed', 'cuts', 'demeanor', 'disciples', 'ear', 'ends', 'gospel', 'head', 'hostility', 'impulsively', 'instead', 'intention', 'jesus', 'john', 'luke', 'lunges', 'malchus', 'names', 'particular', 'peter', 'right', 'servant', 'severing', 'specifies', 'striking', 'suggested', 'sword', 'takes', 'targeted']
+- ChatGPT injected words (53):
+	['a', 'accounts', 'acted', 'action', 'and', 'as', 'being', 'certain', 'cut', 'defend', 'demonstrates', 'despite', 'detail', 'ear', 'even', 'for', 'high', 'him', 'his', 'identified', 'impulsively', 'is', 'it', 'jesus', 'john', 'later', 'lead', 'luke', 'malchus', 'mention', 'name', 'of', 'off', 'omitting', 'particular', 'peter', 'physician', 'possibly', 'priest', 'providing', 'quick', 'readiness', 'right', 's', 'servant', 'specific', 'the', 'this', 'though', 'to', 'trouble', 'with', 'would']
+- ChatGPT injected words (significant words only) (34):
+	['accounts', 'acted', 'action', 'certain', 'cut', 'defend', 'demonstrates', 'despite', 'detail', 'ear', 'high', 'identified', 'impulsively', 'jesus', 'john', 'later', 'lead', 'luke', 'malchus', 'mention', 'omitting', 'particular', 'peter', 'physician', 'possibly', 'priest', 'providing', 'quick', 'readiness', 'right', 's', 'servant', 'specific', 'trouble']
 
 ### Logs
-- Attempt 1 BHT: In Luke 22:50, one of the disciples takes a sword and cuts off the right ear of the servant. This act is attributed to Peter, who impulsively lunges at the servant with the intention of striking his head, but instead ends up severing his ear. Luke is the only Gospel that specifies it was the right ear, while John adds the names of both Peter and Malchus to the account. It is suggested that Peter targeted this particular servant because of his aggressive demeanor and hostility towards Jesus.
-- 🔄 Luke 22:50 (attempt 1, 87 words, 42.11% quotes quality score: 1.6107743756340547, V2 normalized quality score: 44.9, commentator tiers 1-3: 35.79%, 27.66%, 36.54%) 
+- Attempt 1 BHT: A certain servant of Jesus, identified as Peter in other accounts, reacted impulsively when the soldiers came to arrest Jesus. He drew his sword and struck the high priest's servant, cutting off his right ear. This detail is specifically mentioned by Luke and John. It is interesting to note that Luke, being a physician, provides this specific detail. However, he does not mention Peter's name in this account. The unidentified servant, later identified as Malchus, was the recipient of Peter's blow. Peter's quick action reflects his readiness to protect Jesus, even though it would ultimately lead to trouble for him.
+- 🔄 Luke 22:50 (attempt 1, 104 words, 38.36% quotes quality score: 1.4038144002384767, V2 normalized quality score: 38.02, commentator tiers 1-3: 35.17%, 24.93%, 39.9%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this account, one of the disciples, Peter, takes action by wielding a sword and cutting off the right ear of a servant. Luke mentions the specific detail of it being the right ear, while John includes the names of both Peter and the servant, Malchus. Peter's impulsive act may have been aimed at the servant's head, but instead, he ends up severing his ear. This may have been due to the servant's aggressive behavior towards Jesus.
-- 🔄 Luke 22:50 (attempt 2, 80 words, 44.44% quotes quality score: 1.4889181149190065, V2 normalized quality score: 40.85, commentator tiers 1-3: 36.63%, 23.65%, 39.71%) 
+- Attempt 2 BHT: A certain servant reacted impulsively and cut off the right ear of the high priest's servant. Luke, a physician, provides specific details about the incident, while also mentioning the omission of Peter's name in this account. The servant's identity is later revealed to be Malchus. It is worth noting Peter's impulsive action, as he was ready to protect Jesus even though it would lead to trouble.
+- 🔄 Luke 22:50 (attempt 2, 70 words, 38.89% quotes quality score: 1.2747745087663378, V2 normalized quality score: 33.73, commentator tiers 1-3: 36.17%, 20.68%, 43.15%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: In this incident, one of the disciples, identified as Peter by other Gospel accounts, takes swift action by using a sword to sever the right ear of a servant who is accompanying the group. Luke provides the specific detail of it being the right ear, while John adds the names of both Peter and the servant, Malchus. It seems that Peter's intention was to strike the servant's head, but instead he mistakenly cuts off his ear. This act may have been provoked by the servant's aggression and hostility towards Jesus.
-- 🔄 Luke 22:50 (attempt 3, 93 words, 44.62% quotes quality score: 1.4579105957184764, V2 normalized quality score: 39.82, commentator tiers 1-3: 36.25%, 25.02%, 38.73%) 
+- Attempt 3 BHT: A servant, identified as Peter in other accounts, reacted impulsively and cut off the right ear of the high priest's servant. The specificity of this detail is provided by Luke, who is known as a physician. Interestingly, Luke does not mention Peter's name in this particular account. The servant who was struck is later identified as Malchus. This incident highlights Peter's eagerness to protect Jesus, even though it would ultimately bring trouble upon him.
+- 🔄 Luke 22:50 (attempt 3, 77 words, 41.07% quotes quality score: 1.4003994022490345, V2 normalized quality score: 37.91, commentator tiers 1-3: 35.25%, 24.81%, 39.94%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: A certain servant, potentially Peter, acted impulsively and severed the right ear of the high priest's servant. The mention of the right ear is distinct to Luke and John's accounts. It is intriguing to note that Luke, being a physician, provides this explicit detail. Despite the omission of Peter's name in Luke's narrative, his impulsive action reflects his willingness to defend Jesus, even at the cost of inviting trouble. The servant who suffered the blow was later identified as Malchus.
+- 🔄 Luke 22:50 (attempt 4, 84 words, 31.03% quotes quality score: 1.4184404251319218, V2 normalized quality score: 38.51, commentator tiers 1-3: 35.88%, 27.81%, 36.31%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: One of the disciples, likely Peter, momentarily loses control and resorts to violence by using a sword to sever the right ear of a servant. Luke emphasizes the specific detail of it being the right ear, while John provides the names of Peter and the servant, Malchus. Although Peter's aim may have been to strike the servant's head, he ends up cutting off his ear instead. This action could have been prompted by the servant's aggressive and malicious behavior towards Jesus.
-- 🔄 Luke 22:50 (attempt 4, 84 words, 39.29% quotes quality score: 1.4907883609847297, V2 normalized quality score: 40.91, commentator tiers 1-3: 36.37%, 23.47%, 40.17%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: A certain servant, possibly Peter, acted impulsively and cut off the right ear of the high priest's servant, later identified as Malchus. The mention of the specific ear is particular to Luke and John's accounts, with Luke, being a physician, providing this detail. Despite Luke omitting Peter's name, his quick action demonstrates his readiness to defend Jesus, even though it would lead to trouble for him.
+- 🔄 Luke 22:50 (attempt 5, 69 words, 35.85% quotes quality score: 1.650301977998252, V2 normalized quality score: 46.21, commentator tiers 1-3: 34.57%, 28.79%, 36.64%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: In this incident, one of the disciples, believed to be Peter, reacts impulsively and attacks a servant with a sword, cutting off the right ear. Luke highlights the specific detail of the right ear, while John adds the names of Peter and the servant, Malchus. It is suggested that Peter's intention was to strike the servant's head but missed, severing his ear instead. This act of aggression may have been provoked by the servant's evident hostility towards Jesus.
-- 🔄 Luke 22:50 (attempt 5, 81 words, 40.35% quotes quality score: 1.4185370390903718, V2 normalized quality score: 38.51, commentator tiers 1-3: 36.29%, 23.32%, 40.39%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Luke 22:50 bht prompt v0.8 (87 words, 42.11% quotes)
-- quality score: 1.6107743756340547, V2 normalized quality score: 44.9, commentator tiers 1-3: 35.79%, 27.66%, 36.54%)
+- ✅ Luke 22:50 bht prompt v0.8 (69 words, 35.85% quotes)
+- quality score: 1.650301977998252, V2 normalized quality score: 46.21, commentator tiers 1-3: 34.57%, 28.79%, 36.64%)

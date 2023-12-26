@@ -1,60 +1,61 @@
 {
-    "timestamp": "12-19-2023 23:42:49",
+    "timestamp": "12-25-2023 19:33:10",
     "verseRef": "Matthew 1:18",
     "bestBHT": {
-        "bht": "Before they came together, during the period of betrothal, Mary was found to be with child, not as a result of their relationship but by the Holy Ghost. The fact that the Evangelist emphasizes the role of the Holy Ghost in the conception highlights the miraculous nature of Jesus' birth. While some may struggle with this miracle, it is important to remember that God, who has all power and knowledge, can perform extraordinary acts beyond our understanding.",
-        "wordCount": 77,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.9296379868234677,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+        "bht": "During the betrothal period, Mary and Joseph had not yet come together, as the betrothed woman remained in her father's house until the bridegroom fetched her. The words of (by) the Holy Ghost emphasize the fact of the matter, attesting to the reality of the Holy Ghost as a conscious and living Person. Betrothal among the Jews was regarded as actual marriage, and unfaithfulness during this time was deemed punishable by death. Accepting the pre-existence and incarnation of Christ helps us comprehend the miraculous birth, requiring faith in God's love and power.",
+        "wordCount": 95,
+        "quoteTokenProportion": 28.79,
+        "qualityScore": 1.99841203694861,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.79,
         "commentatorTierSimilarities": [
-            31.48,
-            27.16,
-            41.36
+            37.71,
+            27.5,
+            34.79
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The interval between betrothal and the consummation of marriage was sometimes considerable, during which the betrothed remained in her father\u2019s house, till the bridegroom came and fetched her.",
-            "See Deut. xx. 7 came together] Here to be understood of living together in one house as man and wife.",
+            "Chrysostom well suggests, that the conception was not allowed to take place before the betrothal, both that the matter might take place more in privacy, and that the Blessed Virgin might escape slanderous suspicion.",
             "The words 'of (by) the Holy Ghost,' are the addition of the Evangelist declaring the matter of fact, and do not belong to the discovery."
         ],
         "Jamieson-Fausset-Brown": [
+            "When as his mother Mary was espoused, rather, 'betrothed.'",
             "It was, of course, the fact only that was discovered; the explanation of the fact here given is the Evangelist's own.",
-            "That the Holy Ghost is a living conscious Person is plainly implied here, and is elsewhere clearly taught.",
-            "On the miraculous conception of our Lord, see on 2 Corinthians 13:14-."
+            "That the Holy Ghost is a living conscious Person is plainly implied here, and is elsewhere clearly taught."
         ],
         "Albert Barnes": [
-            "Now the birth of Jesus Christ - The circumstances attending his birth.",
-            "There was commonly an interval of ten or twevle months, among the Jews, between the contract of marriage and the celebration of the nuptials.",
+            "Now the birth of Jesus Christ - The circumstances attending his birth.\" ",
+            "Was on this wise - In this manner.",
             "With child by the Holy Ghost - See the note at Luke 1:35."
         ],
         "Marvin Vincent": [
-            "The narrative implies a distinction between betrothal and marriage.\" ",
-            "From the moment of her betrothal a woman was treated as if actually married.\" ",
-            "Breach of faithfulness was regarded as adultery, and was punishable with death."
+            "From the moment of her betrothal, a woman was treated as if actually married.\" ",
+            "Breach of faithfulness was regarded as adultery, and was punishable with death.\" ",
+            "The woman's property became virtually that of her betrothed unless he had expressly renounced it."
         ],
         "John Calvin": [
-            "Now the birth of Jesus Christ...the way in which his heavenly generation was made known to Joseph.\" ",
-            "When she was espoused to Joseph, and before they came together...the virgin had not yet been delivered by her parents into the hands of her husband.\" ",
+            "He points out the time: When she was espoused to Joseph, and before they came together.\" ",
+            "So far as respects conjugal fidelity, from the time that a young woman was betrothed to a man, she was regarded by the Jews as his lawful wife.\" ",
             "The meaning will thus be, that the virgin had not yet been delivered by her parents into the hands of her husband, but still remained under their roof."
         ],
         "Philip Schaff": [
-            "The birth of Jesus Christ. Same word as in Matthew 1:1 (\u2018generation\u2019). Here it means \u2018origin.\u2019 The more usual word implies a \u2018begetting\u2019; the choice of this word indicates something peculiar in this birth, as does the form: \u2018Abraham begat Isaac,\u2019 etc., etc.; \u2018the birth of Jesus Christ, however, was in this wise.\u2019",
-            " ",
-            "Before they came together, lived together in one house as man and wife.",
-            "Christ is the sole, the absolute exception to the universal rule of sinfulness; a miracle in history."
+            "The birth of Jesus Christ. Same word as in Matthew 1:1 (\u2018generation\u2019). Here it means \u2018origin.\u2019 The more usual word implies a \u2018begetting\u2019; the choice of this word indicates something peculiar in this birth.\" ",
+            "After betrothal unfaithfulness on the part of the woman was deemed adultery.\" ",
+            "'Conceived by the Holy Ghost, born of the Virgin Mary,' is an article not only in our Apostles\u2019 creed, but in nearly all other creeds of the ancient Church."
         ],
         "Archibald T. Robertson": [
-            "The evangelist is about to describe, not the genesis of the heaven and the earth, but the genesis of Him who made the heaven and the earth, and who will yet make a new heaven and a new earth\" (Morison).",
-            "The problem of the Virgin Birth of Jesus has been a disturbing fact to some through all the ages and is today to those who do not believe in the pre-existence of Christ, the Son of God, before his Incarnation on earth.",
-            "There is no miracle with God who has all power and all knowledge. The laws of nature are simply the expression of God's will, but he has not revealed all his will in the laws that we discover."
+            "The Incarnation of Christ is clearly stated by Paul and John, and if one frankly admits the actual pre-existence of Christ and the real Incarnation, he has taken the longest and most difficult step in the matter of the supernatural Birth of Christ.",
+            "To admit real incarnation and also full human birth, both father and mother, creates a greater difficulty than to admit the Virgin Birth of Jesus begotten by the Holy Spirit.",
+            "One credits these most wonderful of all birth narratives according as he believes in the love and power of Almighty God to do what he wills."
         ],
         "John Gill": [
-            "Christ had no real father as man, Joseph was only, as was supposed, his father; but of the Holy Ghost.",
-            "This was done that the human nature of Christ might be clear of original pollution that so being the immediate produce of the Holy Ghost and without sin.",
-            "Now Mary being gone three months from the time of her espousals to Joseph, and he and she not being yet come together, it was a clear case, that the child she was gone three months with, was none of his."
+            "Christ had no real father as man, Joseph was only, as was supposed, his father; but",
+            "of the Holy Ghost.",
+            "this was done that the human nature of Christ might be clear of original pollution that so being the immediate produce of the Holy Ghost and without sin, it might be fit for union with the Son of God, and for the office of Mediator he had undertook.",
+            "Now Mary's being with child, and its being known, were facts, at the time when she was",
+            "espoused to Joseph, and thereby the outward credit both of Mary and Jesus were secured."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -74,67 +75,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Before Joseph and Mary came together as man and wife, they were in the period of betrothal, where the bride remained in her father's house until the groom came to fetch her. The fact that Mary was found to be with child before they came together indicates that the conception was not a result of their relationship. In fact, the Evangelist clarifies that the conception was by the Holy Ghost, emphasizing the miraculous nature of Jesus' birth. This miraculous conception has been a source of difficulty for those who do not believe in the pre-existence of Christ. However, it is important to remember that there is no miracle too great for God, as He is all powerful and all knowledgeable.",
-            "wordCount": 122,
-            "quoteTokenProportion": 45.57,
-            "qualityScore": 1.894475707848227,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.33,
+            "bht": "The birth of Jesus Christ was a unique and significant event, as it took place during the betrothal period between Joseph and Mary. During this time, the betrothed woman would remain in her father's house until the bridegroom came to fetch her. Chrysostom suggests that the conception was purposely kept private to protect Mary from slanderous suspicion. It is important to note that the words of (by) the Holy Ghost were added by the Evangelist to emphasize the fact of the matter. The Holy Ghost's role in the conception of Jesus highlights the reality of the Holy Ghost as a living and conscious Person. The fact that Mary was betrothed to Joseph means that she was already considered as legally married, and breach of faithfulness during this period was deemed as adultery. The supernatural birth of Jesus, begotten by the Holy Spirit, becomes more understandable when one accepts the reality of Christ's pre-existence and incarnation. Ultimately, believing in the love and power of Almighty God is crucial in accepting the wonderful narratives of Jesus' birth.",
+            "wordCount": 179,
+            "quoteTokenProportion": 26.26,
+            "qualityScore": 2.07801945654867,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.44,
             "commentatorTierSimilarities": [
-                31.32,
-                26.48,
-                42.2
+                35.87,
+                30.28,
+                33.85
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During the period of betrothal, the woman stayed in her father's house until the bridegroom came for her. It is important to note the distinction between betrothal and marriage, as breach of faithfulness during betrothal was seen as adultery. Mary's pregnancy before Joseph and her came together reveals the miraculous nature of Jesus' conception, by the Holy Ghost. This miraculous birth has been challenging for those who deny Christ's pre-existence, but it is essential to recognize that there are no limits to God's power and knowledge.",
-            "wordCount": 91,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.9101507465904821,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "bht": "The birth of Jesus Christ occurred during the betrothal period, with the conception happening after the betrothal to ensure privacy and protect Mary from suspicion. The addition of of (by) the Holy Ghost emphasizes the fact of the matter, highlighting the Holy Ghost's role as a living and conscious Person. Betrothal was treated as actual marriage among the Jews, and unfaithfulness was considered adultery. Accepting the reality of Christ's pre-existence and incarnation helps to understand the supernatural birth of Jesus. Ultimately, belief in God's love and power is necessary to accept these extraordinary birth narratives.",
+            "wordCount": 99,
+            "quoteTokenProportion": 24.62,
+            "qualityScore": 1.9865233568491938,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
             "commentatorTierSimilarities": [
-                33.28,
-                27.11,
-                39.61
+                38.26,
+                31.1,
+                30.64
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Before they came together, during the period of betrothal, Mary was found to be with child, not as a result of their relationship but by the Holy Ghost. The fact that the Evangelist emphasizes the role of the Holy Ghost in the conception highlights the miraculous nature of Jesus' birth. While some may struggle with this miracle, it is important to remember that God, who has all power and knowledge, can perform extraordinary acts beyond our understanding.",
-            "wordCount": 77,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.9296379868234677,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "bht": "The birth of Jesus Christ occurred during the betrothal period, ensuring privacy before the consummation of marriage. The Holy Ghost's involvement in the conception highlights the reality of the Holy Ghost as a living conscious Person. Betrothal among the Jews was treated as actual marriage, with unfaithfulness considered adultery. Accepting the pre-existence and incarnation of Christ aids in understanding the supernatural birth of Jesus. Ultimately, belief in God's love and power is vital in embracing these extraordinary birth narratives.",
+            "wordCount": 82,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.9214323880793673,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
             "commentatorTierSimilarities": [
-                31.48,
-                27.16,
-                41.36
+                37.09,
+                32.52,
+                30.39
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Before Joseph and Mary were officially married, and while Mary was still living in her father's house, it was discovered that she was with child. The fact that she conceived by the Holy Spirit is the remarkable truth that the evangelist wants to convey. This divine conception reveals the power and presence of the Holy Spirit in the birth of Jesus, affirming His status as the Son of God. Although the Virgin Birth has been a topic of debate throughout history, it is a testament to God's ability to transcend the laws of nature and fulfill His will.",
+            "bht": "The birth of Jesus Christ occurred during the betrothal period, when the betrothed remained in her father's house until the bridegroom fetched her. Chrysostom suggests the conception took place after betrothal to ensure privacy and protect Mary's reputation. The Holy Ghost's involvement in the conception is emphasized, affirming the reality of the Holy Ghost as a living and conscious Person. Betrothal was treated as actual marriage among the Jews, with unfaithfulness punishable by death. Accepting the pre-existence and incarnation of Christ aids in understanding the supernatural birth, ultimately requiring belief in God's power and love.",
             "wordCount": 100,
-            "quoteTokenProportion": 39.39,
-            "qualityScore": 1.9637097271594448,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+            "quoteTokenProportion": 24.64,
+            "qualityScore": 1.9307441482548875,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
             "commentatorTierSimilarities": [
-                31.16,
-                25.76,
-                43.08
+                38.42,
+                28.74,
+                32.84
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Before Joseph and Mary were married, Mary lived in her father's house. It was then discovered that she was pregnant, having conceived by the Holy Spirit. The evangelist emphasizes that the Holy Spirit is a living conscious Person, and this miraculous conception points to Jesus' divine nature as the Son of God. While the Virgin Birth has been a topic of controversy, it demonstrates God's power and ability to go beyond natural laws. The birth of Jesus reveals the presence of the Holy Spirit in fulfilling God's plan.",
-            "wordCount": 91,
-            "quoteTokenProportion": 37.1,
-            "qualityScore": 1.9060282661386263,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "bht": "During the betrothal period, Mary and Joseph had not yet come together, as the betrothed woman remained in her father's house until the bridegroom fetched her. The words of (by) the Holy Ghost emphasize the fact of the matter, attesting to the reality of the Holy Ghost as a conscious and living Person. Betrothal among the Jews was regarded as actual marriage, and unfaithfulness during this time was deemed punishable by death. Accepting the pre-existence and incarnation of Christ helps us comprehend the miraculous birth, requiring faith in God's love and power.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.99841203694861,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
             "commentatorTierSimilarities": [
-                30.72,
-                26.79,
-                42.49
+                37.71,
+                27.5,
+                34.79
             ],
             "generationAttempt": 5
         }

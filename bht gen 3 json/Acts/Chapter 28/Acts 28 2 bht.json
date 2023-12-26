@@ -1,57 +1,62 @@
 {
-    "timestamp": "12-19-2023 16:37:38",
+    "timestamp": "12-25-2023 19:32:03",
     "verseRef": "Acts 28:2",
     "bestBHT": {
-        "bht": "The barbarians of Malta, perceived as natives by the Greeks, went above and beyond to show kindness and extend their hospitality to the shipwrecked individuals. Despite the language barrier, they welcomed everyone, providing them with a much-needed fire to warm themselves. The generosity exhibited by these uncultivated inhabitants demonstrates that true compassion and humanity hold more value than the surface-level refinement that comes with education.",
-        "wordCount": 67,
-        "quoteTokenProportion": 38.18,
-        "qualityScore": 1.8588442497540263,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+        "bht": "When Paul and the others were shipwrecked on Malta, they were graciously received by the barbarous people, who demonstrated no common kindness. These Phoenician colonists, though considered foreign and unintelligible by the Greeks and Romans, exhibited extraordinary compassion by welcoming the shipwrecked group and providing them with much-needed hospitality and the warmth of a large fire. The generosity shown by these uncultivated inhabitants of Malta was indeed more valuable than any polished education could offer.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.943287618083105,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.96,
         "commentatorTierSimilarities": [
-            25.53,
-            30.83,
-            43.64
+            23.06,
+            38.51,
+            38.43
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The term [barbarians] implies very much what our word natives does, when speaking of any little-known or new place.\" ",
             "They were not Greek colonists, therefore they were barbarians.\" ",
-            "The cold. This is decisive against the Sirocco, which is a hot and sultry wind, even so late as the month of November, and moreover seldom lasts more than three days."
+            "Received us not to their fire, but to hospitality.",
+            "This is decisive against the Sirocco, which is a hot and sultry wind, even so late as the month of November, and moreover seldom lasts more than three days."
         ],
         "Jamieson-Fausset-Brown": [
+            "The barbarous people\u2014so",
+            "called merely as speaking neither the Greek nor the Latin",
+            "language.\" ",
             "They were originally Phoelignician colonists.",
-            "showed us no little...kindness, for they kindled a fire, and received us every one.",
-            "welcomed us all, drenched and shivering, to these most seasonable marks of friendship."
+            "In this these 'barbarians'",
+            "contrast favorably with many since bearing the Christian name."
         ],
         "Albert Barnes": [
-            "The Greeks regarded all as barbarians who did not speak their language, and applied the name to all other nations but their own.",
-            "The island is supposed to have been populated at first by the Phoecians, afterward by the Phoenicians, and afterward by a colony from Carthage.",
-            "The exposure to the water in getting to the shore, and probably to the coldness of the weather. It was now in the month of October."
+            "The Greeks regarded all as barbarians who did not speak their language... it does not denote... people of savage, uncultivated, and cruel habits, but simply those whose speech was unintelligible.",
+            "The language of the Maltese was that of Africa, and hence it was called by the Greeks the language of 'barbarians.' It was a language which was unintelligible to the Greeks and Latins.",
+            "The rain... The exposure to the water in getting to the shore, and probably to the coldness of the weather. It was now in the month of October."
         ],
         "Marvin Vincent": [
-            "No common kindness."
+            "Barbarous people. From the Roman point of view, regarding all as barbarians who spoke neither Greek nor Latin. Not necessarily uncivilized. It is equivalent to foreigners.",
+            "No little [\u03bf\u03c5 \u03c4\u03c5\u03c7\u03bf\u03c5\u03c3\u03b1\u03bd]. Rev., much better, 'no common kindness.'",
+            "Kindness [\u03c6\u03b9\u03bb\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b9\u03b1\u03bd]. See on the kindred adverb courteously, ch Acts 28:3."
         ],
         "Philip Schaff": [
-            "No common kindness' would be a more correct translation.",
-            "The example of Heathens in such matters has often been a rebuke to Christians.",
+            "The barbarous people showed us no little kindness. \u2018No common kindness\u2019 would be a more correct translation.",
+            "The modern Maltese speak the Arabic, which was introduced at the Mohammedan conquest, with a slight admixture of Italian and English.",
             "The natives of the island welcomed these cold and shipwrecked people to their company and to the warmth of the fire."
         ],
         "Archibald T. Robertson": [
-            "The Greeks called all men 'barbarians' who did not speak Greek.",
-            "They were not 'wreckers' to take advantage of the calamity.",
+            "The Greeks called all men 'barbarians' who did not speak Greek, not 'barbarians' in our sense of rude and uncivilized, but simply 'foreign folk.'\" ",
+            "They were not 'wreckers' to take advantage of the calamity.\" ",
             "They took us all to themselves."
         ],
         "John Gill": [
-            "The inhabitants could not understand their language, they understood their case, and were very civil and humane to them, and showed them extraordinary kindness\" ",
-            "A large fire it must be to be of service to such a number of people, in such a condition as they were\" ",
-            "Nothing was more needful and more agreeable to them than a large fire"
+            "The inhabitants of this island...were very civil and humane to them, and showed them extraordinary kindness.",
+            "A large fire it must be to be of service to such a number of people, in such a condition as they were.",
+            "Nothing was more needful and more agreeable to them than a large fire."
         ],
         "John Wesley": [
-            "And the generosity shown by these uncultivated inhabitants of Malta was far more valuable than all the varnish which the politest education could give.",
-            "Surely the politest education could teach not humanity and compassion.",
-            "The barbarians' generosity was more valuable than the varnish of the politest education."
+            "But surely the generosity shown by these uncultivated inhabitants of Malta, was far more valuable than all the varnish which the politest education could give.",
+            "The politest education could give... and compassion.",
+            "The barbarians \u2013 So the Romans and Greeks termed all nations but their own."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +76,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The residents of the island, considered barbarians by the Greeks because they did not speak Greek, showed an extraordinary level of kindness and hospitality to the shipwrecked and cold travelers. Despite the language barrier, they welcomed everyone and provided a much-needed fire to warm the shivering survivors. This act of compassion from the uncultivated inhabitants of Malta spoke volumes about their character, showing that genuine kindness and humanity can surpass the formalities of education and culture. Truly, their generosity far outweighed anything that the politest education could offer.",
-            "wordCount": 89,
-            "quoteTokenProportion": 31.34,
-            "qualityScore": 1.8205852910866929,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "bht": "When Paul and the others were shipwrecked on Malta, they were welcomed by the barbarous people, who showed them no common kindness. It is important to note that the term barbarians in this context does not refer to rudeness or uncivilized behavior, but simply to those who spoke neither Greek nor Latin. These Phoenician colonists exhibited extraordinary compassion, taking the shipwrecked group to themselves and providing them not only with hospitality but also with the much-needed warmth of a large fire. This generosity, often undervalued in civilized societies, was far more precious than any form of polished education could ever bestow.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.9073191698200074,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
             "commentatorTierSimilarities": [
-                25.85,
-                28.86,
-                45.29
+                27.94,
+                38.65,
+                33.41
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The barbarians of Malta, who were not Greek colonists and hence considered outsiders by the Greeks, demonstrated remarkable kindness and hospitality towards the stranded travelers. Despite the language barrier, they warmly received everyone, providing them with a much-needed fire to combat the cold. This generous act of compassion from the uncultivated inhabitants proved that genuine kindness and humanity are more valuable than formal education. The residents of Malta showed that their generosity surpassed the superficial polish of the most refined education.",
-            "wordCount": 82,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 1.7991029512561754,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "bht": "When Paul and the others were shipwrecked on Malta, they were welcomed by the barbarous people, who showed them no common kindness. These Phoenician colonists took the shipwrecked group to themselves and provided them with much-needed hospitality and warmth. This generosity, often undervalued by civilized societies, was far more precious than any polished education could ever bestow.",
+            "wordCount": 58,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.8332290303720402,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
             "commentatorTierSimilarities": [
-                26.07,
-                27.98,
-                45.95
+                26.36,
+                38.61,
+                35.02
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The barbarians of Malta, perceived as natives by the Greeks, went above and beyond to show kindness and extend their hospitality to the shipwrecked individuals. Despite the language barrier, they welcomed everyone, providing them with a much-needed fire to warm themselves. The generosity exhibited by these uncultivated inhabitants demonstrates that true compassion and humanity hold more value than the surface-level refinement that comes with education.",
-            "wordCount": 67,
-            "quoteTokenProportion": 38.18,
-            "qualityScore": 1.8588442497540263,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "bht": "When Paul and the others were shipwrecked on Malta, they were welcomed by the barbarous people, who showed them no common kindness. These Phoenician colonists took the shipwrecked group to themselves and provided them with much-needed hospitality and warmth. This generosity, often undervalued by civilized societies, was far more precious than any polished education could ever bestow.",
+            "wordCount": 58,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.8332290303720402,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
             "commentatorTierSimilarities": [
-                25.53,
-                30.83,
-                43.64
+                26.36,
+                38.61,
+                35.02
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The barbarians of Malta, who were not Greek colonists, showed remarkable kindness and hospitality towards the stranded travelers, regardless of the language barrier. They warmly received everyone and kindled a fire to provide warmth to the cold and shivering survivors. The uncultivated inhabitants of Malta exemplified true compassion and humanity through their extraordinary acts of kindness, proving that genuine generosity surpasses the varnish of formal education. Their selfless actions served as a rebuke to those who prioritize politeness over empathy.",
-            "wordCount": 80,
-            "quoteTokenProportion": 27.87,
-            "qualityScore": 1.8096730687202687,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "bht": "When Paul and the others were shipwrecked on Malta, they were graciously received by the barbarous people, who demonstrated no common kindness. These Phoenician colonists, though considered foreign and unintelligible by the Greeks and Romans, exhibited extraordinary compassion by welcoming the shipwrecked group and providing them with much-needed hospitality and the warmth of a large fire. The generosity shown by these uncultivated inhabitants of Malta was indeed more valuable than any polished education could offer.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.943287618083105,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
             "commentatorTierSimilarities": [
-                28.59,
-                30.69,
-                40.72
+                23.06,
+                38.51,
+                38.43
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Despite being considered barbarians by the Greeks, the inhabitants of Malta, who were originally Phoenician colonists, displayed exceptional kindness and generosity towards the shipwrecked individuals. Despite the language barrier, they welcomed and received the survivors, offering them warmth by kindling a fire. Their hospitality and compassion were far more valuable than the mere veneer of formal education, showcasing that true acts of humanity surpass cultural and linguistic differences. This example of the island's natives served as a rebuke to Christians, reminding them of the importance of genuine kindness.",
-            "wordCount": 89,
-            "quoteTokenProportion": 26.47,
-            "qualityScore": 1.813067766202801,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "bht": "When Paul and the others found themselves shipwrecked on Malta, the barbarous people, who were not Greek colonists and spoke neither Greek nor Latin, welcomed them with no common kindness. Despite the language barrier and cultural differences, these Phoenician colonists displayed extraordinary compassion by taking the shipwrecked group to themselves and providing them with hospitality. This act of generosity, often undervalued in civilized societies, surpassed the superficiality of education and highlighted the beauty of humanity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8434734599299885,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
             "commentatorTierSimilarities": [
-                26.8,
-                33.28,
-                39.92
+                27.04,
+                41.59,
+                31.37
             ],
             "generationAttempt": 5
         }

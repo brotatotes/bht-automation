@@ -1,17 +1,17 @@
 # Hebrews 9:26 Commentary Help Text
 
 ## BHT:
-The oblation of Himself made by Christ was a once-for-all offering, bringing His blood to the heavenly Holy of Holies. If sacrifices had greater efficacy in their repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice not only atoned for sins, but also abolished sin itself. The one sacrifice of Christ holds absolute and final value, dealing with sin as a principle, while the Levitical sacrifices were for individual transgressions. Through His appearance, He put away sin completely, removing its stain, guilt, and punishment.
+The sacrifice of Christ was an offering made once for all before God, with enduring significance. If it required repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice was meant to be remembered forever, putting away sin and dealing with sin as a principle. The one sacrifice of Christ is of absolute and final value, atoning for all sins committed since the foundation of the world.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "His oblation of Himself before God was once for all (that is, the bringing in of His blood into the heavenly Holy of Holies), and therefore the preliminary suffering was once for all." 
-2. "If there had been greater efficacy in the repetition of the oblation, Christ necessarily would not have been so long promised, but would have been sent immediately after the foundation of the world to suffer, and offer Himself at successive periods." 
-3. "He hath not only atoned for all actual sins, but destroyed sin itself."
+1. "His oblation of Himself before God was once for all, and therefore the preliminary suffering was once for all."
+2. "If there had been greater efficacy in the repetition of the oblation, Christ necessarily would not have been so long promised, but would have been sent immediately after the foundation of the world to suffer, and offer Himself at successive periods."
+3. "The offering of Christ was a thing once done that it might be thought of for ever."
 
 ### Albert Barnes:
 1. "But now once - Once for all; once in the sense that it is not to be repeated again." 
-2. "Hath he appeared - He has been manifested in human form."
+2. "In the end of the world - In the last dispensation or economy; that under which the affairs of the world will be wound up."
 3. "To put away sin - To remove the stain of sin from the soul."
 
 ### Marvin Vincent:
@@ -21,9 +21,9 @@ CHAPTER X
 
 
 ### John Calvin:
-1. "Except then the sacrifice of Christ was efficacious, no one of the fathers would have obtained salvation; for as they were exposed to God’s wrath, a remedy for deliverance would have failed them."
-2. "Here stands a truth declared by the Holy Spirit, that sins are not expiated by a sacrifice except blood be shed."
-3. "He then appeared once for all; for had he done so once or twice, there must have been something defective in the first oblation; but this is inconsistent with fullness."
+1. "For had he done so once or twice, there must have been something defective in the first oblation; but this is inconsistent with fullness."
+2. "As we are reconciled to God in no other way than by the one death of Christ, sin is rightly said to be put away or destroyed by it."
+3. "The truth implied... is, that sins since the beginning of the world have alone have been expiated by the blood of Christ."
 
 ### Archibald T. Robertson:
 1. "Since, if that were true, it would be necessary for him to suffer often."
@@ -31,52 +31,49 @@ CHAPTER X
 3. "The sacrifice of Christ dealt with sin as a principle: the Levitical sacrifices with individual transgressions."
 
 ### John Gill:
-1. "Christ's sufferings were but once, though the virtue of them is always."
-2. "The end of his appearance was, to put away sin; the filth of it, by his blood; the guilt of it, by his atoning sacrifice; and the punishment of it, by his sufferings and death."
-3. "This putting it away is signified by his bearing, carrying, and taking it away; by removing it as far as the east is from the west; by finishing and making an end of it; by crucifying the old man, destroying the body of sin, and by an utter disannulling and abolishing it, as a debt, and as a law."
+1. "Christ's sufferings were but once, though the virtue of them is always, both before and after."
+2. "He hath appeared to put away sin by the sacrifice of himself."
+3. "The end of his appearance was, to put away sin; the filth of it, by his blood; the guilt of it, by his atoning sacrifice; and the punishment of it, by his sufferings and death, the penalty of the law."
 
 ### John Wesley:
 1. "By suffering once he atoned for all the sins which had been committed from the foundation of the world."
 2. "The sacrifice of Christ divides the whole age or duration of the world into two parts, and extends its virtue backward and forward."
-3. "...from this middle point wherein they meet to abolish both the guilt and power of sin."
+3. "In this middle point wherein they meet to abolish both the guilt and power of sin."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:49:15
+- Timestamp: 12-25-2023 19:31:16
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 48.61%
-- BHT Quality Score: 1.9176829392287247
+- BHT Word Count: 72
+- BHT Commentary Usage: 49.02%
+- BHT Quality Score: 1.9433749723964575
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (72):
-	['a', 'abolished', 'absolute', 'after', 'all', 'also', 'and', 'appearance', 'as', 'atoned', 'away', 'been', 'blood', 'bringing', 'but', 'by', 'christ', 'completely', 'dealing', 'efficacy', 'final', 'for', 'foundation', 'greater', 'guilt', 'had', 'have', 'he', 'heavenly', 'himself', 'his', 'holds', 'holies', 'holy', 'if', 'immediately', 'in', 'individual', 'its', 'itself', 'levitical', 'made', 'not', 'oblation', 'of', 'offering', 'once', 'one', 'only', 'principle', 'punishment', 'put', 'removing', 'repetition', 'sacrifice', 'sacrifices', 'sent', 'sin', 'sins', 'stain', 'the', 'their', 'through', 'to', 'transgressions', 'value', 'was', 'were', 'while', 'with', 'world', 'would']
-- ChatGPT injected words (significant words only) (37):
-	['abolished', 'absolute', 'appearance', 'atoned', 'away', 'blood', 'bringing', 'christ', 'completely', 'dealing', 'efficacy', 'final', 'foundation', 'greater', 'guilt', 'heavenly', 'holds', 'holies', 'holy', 'immediately', 'individual', 'levitical', 'oblation', 'offering', 'principle', 'punishment', 'removing', 'repetition', 'sacrifice', 'sacrifices', 'sent', 'sin', 'sins', 'stain', 'transgressions', 'value', 'world']
+- ChatGPT injected words (51):
+	['a', 'absolute', 'after', 'all', 'an', 'and', 'as', 'atoning', 'away', 'be', 'been', 'before', 'christ', 'committed', 'dealing', 'enduring', 'final', 'for', 'forever', 'foundation', 'god', 'have', 'his', 'if', 'immediately', 'is', 'it', 'made', 'meant', 'of', 'offering', 'once', 'one', 'principle', 'putting', 'remembered', 'repetition', 'required', 'sacrifice', 'sent', 'significance', 'sin', 'since', 'sins', 'the', 'to', 'value', 'was', 'with', 'world', 'would']
+- ChatGPT injected words (significant words only) (26):
+	['absolute', 'atoning', 'away', 'christ', 'committed', 'dealing', 'enduring', 'final', 'forever', 'foundation', 'god', 'immediately', 'meant', 'offering', 'principle', 'putting', 'remembered', 'repetition', 'required', 'sacrifice', 'sent', 'significance', 'sin', 'sins', 'value', 'world']
 
 ### Logs
-- Attempt 1 BHT: The blood of Christ was a once-for-all offering, bringing His oblation before God into the heavenly Holy of Holies. The repetition of sacrifices would have negated the need for Christ to be promised and sent at the foundation of the world. His sacrifice not only atoned for sins but destroyed sin itself. If His sacrifice had not been efficacious, the fathers would not have obtained salvation, as sins are not expiated without the shedding of blood. Christ's sufferings were only once, but their virtue continues to last, offering a final and absolute value. His sacrifice dealt with sin as a principle, while the Levitical sacrifices focused on individual transgressions. Through His appearance, He put away the stain, guilt, and punishment of sin, removing it as far as the east is from the west and completely abolishing it.
-
-- 🔄 Hebrews 9:26 (attempt 1, 140 words, 42.22% quotes quality score: 1.8924019935938374, V2 normalized quality score: 54.26, commentator tiers 1-3: 34.54%, 23.44%, 42.03%) 
+- Attempt 1 BHT: The offering of Christ was a once-for-all event, meant to be remembered and celebrated for eternity. If His sacrifice had needed to be repeated, He would have been sent immediately after the foundation of the world. But Christ's sacrifice was of absolute and final value, dealing with sin as a principle rather than individual transgressions. The one sacrifice of Christ has put away sin, removing its stain from our souls. His appearance was for the purpose of putting away sin, cleansing it by His blood and atoning sacrifice. By suffering once, He atoned for all sins committed from the foundation of the world, dividing the whole age into two parts and extending the virtue of His sacrifice backward and forward.
+- 🔄 Hebrews 9:26 (attempt 1, 123 words, 43.59% quotes quality score: 1.8597069587487223, V2 normalized quality score: 53.18, commentator tiers 1-3: 31.69%, 24.58%, 43.74%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The oblation of Himself made by Christ was a once-for-all offering, bringing His blood to the heavenly Holy of Holies. If sacrifices had greater efficacy in their repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice not only atoned for sins, but also abolished sin itself. The one sacrifice of Christ holds absolute and final value, dealing with sin as a principle, while the Levitical sacrifices were for individual transgressions. Through His appearance, He put away sin completely, removing its stain, guilt, and punishment.
-- 🔄 Hebrews 9:26 (attempt 2, 92 words, 48.61% quotes quality score: 1.9176829392287247, V2 normalized quality score: 55.1, commentator tiers 1-3: 35.02%, 24.74%, 40.24%) 
+- Attempt 2 BHT: The offering of Christ was a once-for-all event, necessary for the eternity of remembrance and celebration. If His sacrifice required repetition, He would have been sent immediately after the foundation of the world; however, His sacrifice holds absolute and final value, dealing with sin as a principle and not individual transgressions. By suffering once, He atoned for all sins from the foundation of the world, dividing time into two parts and extending the virtue of His sacrifice backward and forward.
+- 🔄 Hebrews 9:26 (attempt 2, 82 words, 41.07% quotes quality score: 1.846742664879479, V2 normalized quality score: 52.75, commentator tiers 1-3: 34.04%, 21.71%, 44.25%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The oblation of Himself made by Christ was a once-for-all offering, bringing His blood into the heavenly Holy of Holies. Christ's sacrifice atones for all sins and destroys sin itself. The repetition of sacrifices would negate the need for Christ to be promised and sent after the foundation of the world. His suffering was only once, but its virtue lasts, offering a final and absolute value. His sacrifice deals with sin as a principle, while the Levitical sacrifices focus on individual transgressions. Through His appearance, He puts away sin completely, removing its stain, guilt, and punishment.
-- 🔄 Hebrews 9:26 (attempt 3, 99 words, 39.13% quotes quality score: 1.848747257636934, V2 normalized quality score: 52.81, commentator tiers 1-3: 34.84%, 24.06%, 41.09%) 
+- Attempt 3 BHT: The sacrifice of Christ was an offering made once for all before God, with enduring significance. If it required repetition, Christ would have been sent immediately after the foundation of the world. His sacrifice was meant to be remembered forever, putting away sin and dealing with sin as a principle. The one sacrifice of Christ is of absolute and final value, atoning for all sins committed since the foundation of the world.
+- 🔄 Hebrews 9:26 (attempt 3, 72 words, 49.02% quotes quality score: 1.9433749723964575, V2 normalized quality score: 55.96, commentator tiers 1-3: 36.69%, 22.38%, 40.92%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The offering of Christ was a once-for-all event that had eternal significance, as it dealt with sin as a principle rather than individual transgressions. His sacrifice put away sin, removing its stain from our souls. By suffering once, Christ atoned for all sins committed from the foundation of the world. His sacrifice divided time into two parts, extending its virtue backward and forward. Through His sacrifice, the guilt, power, and punishment of sin were abolished, reconciling us to God.
+- 🔄 Hebrews 9:26 (attempt 4, 81 words, 44.26% quotes quality score: 1.8512010079144434, V2 normalized quality score: 52.89, commentator tiers 1-3: 28.98%, 24.94%, 46.08%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The oblation of Himself made by Christ was a once-for-all offering, bringing His blood into the heavenly Holy of Holies. His sacrifice atoned for all sins and destroyed sin itself. Christ's appearance put away sin completely, removing its stain, guilt, and punishment. The repetition of sacrifices would have negated the need for His promised coming. His suffering was only once, but its virtue endures, offering a final and absolute value. His sacrifice dealt with sin as a principle, while the Levitical sacrifices focused on individual transgressions.
-- 🔄 Hebrews 9:26 (attempt 4, 89 words, 38.1% quotes quality score: 1.845678978131752, V2 normalized quality score: 52.71, commentator tiers 1-3: 34.81%, 25.22%, 39.98%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: The offering of Christ was a once-for-all event with eternal significance, dealing with sin as a principle and putting it away. His sacrifice atoned for all sins from the foundation of the world, dividing time into two parts. By His one sacrifice, the guilt, power, and punishment of sin were abolished, reconciling us to God. With the fullness and absolute value of His sacrifice, Christ appeared to put away sin forever, cleansing our souls and offering us redemption.
+- 🔄 Hebrews 9:26 (attempt 5, 80 words, 40.74% quotes quality score: 1.8904403425444762, V2 normalized quality score: 54.2, commentator tiers 1-3: 31.09%, 22.06%, 46.85%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Christ's oblation of Himself was a once-for-all offering, bringing His blood into the heavenly Holy of Holies. His sacrifice not only atoned for sins but destroyed sin itself. If sacrifices held greater efficacy in repetition, Christ would not have been promised and sent after the foundation of the world. His suffering was once, yet its virtue remains, representing a final and absolute value. His sacrifice addressed sin as a principle, while the Levitical sacrifices addressed individual transgressions. Through His appearance, He completely put away sin, removing its stain, guilt, and punishment.
-- 🔄 Hebrews 9:26 (attempt 5, 94 words, 40.0% quotes quality score: 1.8551640280531387, V2 normalized quality score: 53.03, commentator tiers 1-3: 34.64%, 25.31%, 40.04%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Hebrews 9:26 bht prompt v0.8 (92 words, 48.61% quotes)
-- quality score: 1.9176829392287247, V2 normalized quality score: 55.1, commentator tiers 1-3: 35.02%, 24.74%, 40.24%)
+- ✅ Hebrews 9:26 bht prompt v0.8 (72 words, 49.02% quotes)
+- quality score: 1.9433749723964575, V2 normalized quality score: 55.96, commentator tiers 1-3: 36.69%, 22.38%, 40.92%)

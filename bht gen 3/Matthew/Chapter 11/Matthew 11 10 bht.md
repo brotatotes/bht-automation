@@ -1,28 +1,28 @@
 # Matthew 11:10 Commentary Help Text
 
 ## BHT:
-Our Lord's change in person from the original prophecy is a clear indication of His eternal and co-equal Godhead. The great honor bestowed upon John the Baptist as the forerunner of Christ makes him greater than all the other prophets. John's purpose was to prepare the people for the Messiah, fulfilling the prophecy in Isaiah 40:3. The mention of Malachi 3:1 further amplifies the significance of John's ministry. This affirms the immense greatness and importance of Jesus as the Messiah.
+The prophecy is changed to be addressed to Jesus Himself, indicating His eternal and co-equal Godhead. John the Baptist, as the forerunner of Christ, prepares the people for the Messiah, fulfilling the words of the prophets. John is more than just a prophet because he was a messenger sent by God to preach repentance, administer baptism, and lead people to believe in Jesus. This fulfillment of the prophecy confirms John's significant role in preparing the way for the coming of the Messiah.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Our Lord here changes the person of the original prophecy...no mean indication of His own eternal and co-equal God-head."
-2. "The high dignity and honor, which our Lord here predicates of the Baptist, has a further reference: He was thus great above all others because he was the forerunner of Christ."
+1. "Our Lord here changes the person of the original prophecy, which is my." 
+2. "And that He does so, making that which is said by Jehovah of Himself, to be addressed to the Messiah, is, if such were needed, no mean indication of His own eternal and co-equal God-head." 
 3. "How great then above all others and him, must HE be."
 
 ### Albert Barnes:
 1. "Prepare thy way - That is, to prepare 'the people;' to make them ready, by proper instructions, to receive the Messiah."
-2. "The substance of it is contained also in Isaiah 40:3."
-3. "For this is he... "
+2. "The passage of Scripture here quoted is found in Malachi 3:1. The substance of it is contained also in Isaiah 40:3."
+3. "For this is he..."
 
 ### Philip Schaff:
 1. "The last of the prophets had foretold of John. His office as forerunner of Christ made him greater than them all."
-2. "The original prophecy is: ‘Behold I send my messenger before my face,’ etc. (The latter part of the verse contains a direct reference to the Messiah.)"
-3. "Here, and in Mark 1:2, Luke 7:27, it is changed into a promise of God to Christ Our Lord on His own authority."
+2. "Here, and in Mark 1:2, Luke 7:27, it is changed into a promise of God to Christ Our Lord on His own authority."
+3. "Comp. His discourse on a previous occasion (John 5:17-47), in which He refers to His relation to the Father, to John, and to the Old Testament prophets."
 
 ### John Gill:
-1. "nor should it be once called in question, when our Lord himself has applied it to John the Baptist"
-2. "He was an 'angel', not by nature, but by office"
-3. "such a space of time he entered on his public ministry before him; and 'prepared' his 'way before' him"
+1. "He was an 'angel', not by nature, but by office; a 'messenger' sent by God, 'before the face' of the Messiah."
+2. "He... 'prepared' his 'way before' him, by preaching the doctrine of repentance, administering the ordinance of baptism, pointing at the Messiah, and exhorting persons to believe on him."
+3. "All which proves him to be, what Christ says he was, 'more than a prophet'."
 
 ### John Wesley:
 1.  Malachi 3:1.
@@ -31,39 +31,39 @@ Our Lord's change in person from the original prophecy is a clear indication of 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:46:21
+- Timestamp: 12-25-2023 19:29:14
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 34.48%
-- BHT Quality Score: 1.683603644184246
+- BHT Word Count: 84
+- BHT Commentary Usage: 35.09%
+- BHT Quality Score: 1.7797969955857158
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'affirms', 'all', 'amplifies', 'and', 'as', 'baptist', 'bestowed', 'change', 'christ', 'clear', 'co', 'equal', 'eternal', 'for', 'forerunner', 'from', 'fulfilling', 'further', 'godhead', 'great', 'greater', 'greatness', 'him', 'his', 'honor', 'immense', 'importance', 'in', 'indication', 'is', 'isaiah', 'jesus', 'john', 'lord', 'makes', 'malachi', 'mention', 'messiah', 'ministry', 'of', 'original', 'other', 'our', 'people', 'person', 'prepare', 'prophecy', 'prophets', 'purpose', 's', 'significance', 'than', 'the', 'this', 'to', 'upon', 'was']
-- ChatGPT injected words (significant words only) (38):
-	['affirms', 'amplifies', 'baptist', 'bestowed', 'change', 'christ', 'clear', 'co', 'equal', 'eternal', 'forerunner', 'fulfilling', 'godhead', 'great', 'greater', 'greatness', 'honor', 'immense', 'importance', 'indication', 'isaiah', 'jesus', 'john', 'lord', 'makes', 'malachi', 'mention', 'messiah', 'ministry', 'original', 'people', 'person', 'prepare', 'prophecy', 'prophets', 'purpose', 's', 'significance']
+- ChatGPT injected words (57):
+	['a', 'addressed', 'administer', 'and', 'as', 'baptism', 'baptist', 'be', 'because', 'believe', 'by', 'changed', 'christ', 'co', 'coming', 'confirms', 'equal', 'eternal', 'for', 'forerunner', 'fulfilling', 'fulfillment', 'god', 'godhead', 'he', 'himself', 'his', 'in', 'indicating', 'is', 'jesus', 'john', 'just', 'lead', 'messenger', 'messiah', 'more', 'of', 'people', 'preach', 'prepares', 'preparing', 'prophecy', 'prophet', 'prophets', 'repentance', 'role', 's', 'sent', 'significant', 'than', 'the', 'this', 'to', 'was', 'way', 'words']
+- ChatGPT injected words (significant words only) (37):
+	['addressed', 'administer', 'baptism', 'baptist', 'believe', 'changed', 'christ', 'co', 'coming', 'confirms', 'equal', 'eternal', 'forerunner', 'fulfilling', 'fulfillment', 'god', 'godhead', 'indicating', 'jesus', 'john', 'lead', 'messenger', 'messiah', 'people', 'preach', 'prepares', 'preparing', 'prophecy', 'prophet', 'prophets', 'repentance', 'role', 's', 'sent', 'significant', 'way', 'words']
 
 ### Logs
-- Attempt 1 BHT: The verse highlights the great honor and dignity bestowed upon John the Baptist as the forerunner of Christ. Our Lord's change in person from the original prophecy denotes His divine nature. John's role was to prepare the people for the coming of the Messiah, as foretold by the prophets. The mention of Malachi 3:1 further emphasizes the significance of John's ministry. This verse is a testament to Christ's greatness, as His precursor held such a high position of honor and importance.
-- 🔄 Matthew 11:10 (attempt 1, 84 words, 32.14% quotes quality score: 1.5714517317120547, V2 normalized quality score: 43.59, commentator tiers 1-3: 36.74%, 34.04%, 29.23%) 
+- Attempt 1 BHT: The verse speaks of the preparation for the coming of the Messiah, as the prophecy is changed to be addressed to Jesus Himself, indicating His eternal and co-equal Godhead. The passage from Malachi 3:1 is quoted, and John the Baptist is identified as the one who prepares the people for the Messiah. His role as the forerunner of Christ makes him greater than all the prophets. John, as a messenger sent by God, prepared the way for Jesus through preaching repentance, administering baptism, and pointing people to believe in Him. This fulfillment of the prophecy reveals John to be more than just a prophet.
+- 🔄 Matthew 11:10 (attempt 1, 104 words, 35.38% quotes quality score: 1.8589802700286149, V2 normalized quality score: 53.15, commentator tiers 1-3: 29.48%, 34.71%, 35.82%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Our Lord's change in person from the original prophecy affirms His eternal and co-equal Godhead. This highlights the great honor bestowed upon John the Baptist as the forerunner of Christ, making him greater than all the other prophets. John's role was to prepare the people for the Messiah, as foretold in Isaiah 40:3. The mention of Malachi 3:1 further emphasizes the significance of John's ministry. This passage demonstrates the immense greatness and importance of Jesus as the Messiah.
-- 🔄 Matthew 11:10 (attempt 2, 80 words, 31.58% quotes quality score: 1.6472254028046176, V2 normalized quality score: 46.11, commentator tiers 1-3: 37.52%, 34.91%, 27.57%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Our Lord's change in person from the original prophecy is a clear indication of His eternal and co-equal Godhead. The great honor bestowed upon John the Baptist as the forerunner of Christ makes him greater than all the other prophets. John's purpose was to prepare the people for the Messiah, fulfilling the prophecy in Isaiah 40:3. The mention of Malachi 3:1 further amplifies the significance of John's ministry. This affirms the immense greatness and importance of Jesus as the Messiah.
-- 🔄 Matthew 11:10 (attempt 3, 82 words, 34.48% quotes quality score: 1.683603644184246, V2 normalized quality score: 47.32, commentator tiers 1-3: 38.47%, 34.45%, 27.08%) 
+- Attempt 2 BHT: The prophecy is changed to be addressed to Jesus Himself, indicating His eternal and co-equal Godhead. John the Baptist, as the forerunner of Christ, prepares the people for the Messiah. His role as a messenger sent by God involves preaching repentance, administering baptism, and pointing people to believe in Jesus. This fulfillment reveals John to be more than just a prophet.
+- 🔄 Matthew 11:10 (attempt 2, 62 words, 36.17% quotes quality score: 1.7473451480051667, V2 normalized quality score: 49.44, commentator tiers 1-3: 30.24%, 33.92%, 35.84%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The prophecy is changed to be addressed to Jesus Himself, indicating His eternal and co-equal Godhead. John the Baptist, as the forerunner of Christ prepares the people for the Messiah, fulfilling the words of the prophets. John's role as a messenger sent by God is to preach repentance, administer baptism, and point people to believe in Jesus. This fulfillment reveals John to be more than just a prophet.
+- 🔄 Matthew 11:10 (attempt 3, 70 words, 34.0% quotes quality score: 1.7619056044788224, V2 normalized quality score: 49.93, commentator tiers 1-3: 29.66%, 35.19%, 35.15%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The prophecy is changed to be addressed to Jesus Himself, indicating His eternal and co-equal Godhead. John the Baptist, as the forerunner of Christ, prepares the people for the Messiah, fulfilling the words of the prophets. John is more than just a prophet because he was a messenger sent by God to preach repentance, administer baptism, and lead people to believe in Jesus. This fulfillment of the prophecy confirms John's significant role in preparing the way for the coming of the Messiah.
+- 🔄 Matthew 11:10 (attempt 4, 84 words, 35.09% quotes quality score: 1.7797969955857158, V2 normalized quality score: 50.52, commentator tiers 1-3: 30.19%, 35.25%, 34.57%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The honor and dignity bestowed upon John the Baptist as the forerunner of Christ signifies his greatness above all. Our Lord's change in person from the original prophecy reveals His eternal and co-equal Godhead. John's role was to prepare the people for the Messiah, fulfilling the prophecy in Isaiah 40:3. The mention of Malachi 3:1 further highlights the significance of John's ministry. This verse underscores the immense greatness and importance of Jesus as the Messiah.
-- 🔄 Matthew 11:10 (attempt 4, 77 words, 30.77% quotes quality score: 1.6508645426271686, V2 normalized quality score: 46.23, commentator tiers 1-3: 38.34%, 34.17%, 27.49%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The honor and dignity bestowed upon John the Baptist as the forerunner of Christ signifies his greatness above all. Our Lord's change in person from the original prophecy reveals His eternal and co-equal Godhead. John's role was to prepare the people for the coming of the Messiah, as foretold by the prophets. The mention of Malachi 3:1 further emphasizes the significance of John's ministry. This highlights the immense greatness and importance of Jesus as the Messiah.
-- 🔄 Matthew 11:10 (attempt 5, 79 words, 32.08% quotes quality score: 1.6143581298655492, V2 normalized quality score: 45.02, commentator tiers 1-3: 39.76%, 33.4%, 26.85%) 
+- Attempt 5 BHT: The prophecy is changed to be addressed to Jesus, affirming His eternal and co-equal Godhead. John the Baptist serves as the forerunner of Christ, preparing the people for the coming of the Messiah. He surpasses the other prophets in significance because he is a messenger sent by God to preach repentance, administer baptism, and guide people to believe in Jesus. This fulfillment of the prophecy confirms John's pivotal role in paving the way for the arrival of the Messiah.
+- 🔄 Matthew 11:10 (attempt 5, 81 words, 29.63% quotes quality score: 1.7153815083426822, V2 normalized quality score: 48.38, commentator tiers 1-3: 30.85%, 34.82%, 34.33%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 11:10 bht prompt v0.8 (82 words, 34.48% quotes)
-- quality score: 1.683603644184246, V2 normalized quality score: 47.32, commentator tiers 1-3: 38.47%, 34.45%, 27.08%)
+- ✅ Matthew 11:10 bht prompt v0.8 (84 words, 35.09% quotes)
+- quality score: 1.7797969955857158, V2 normalized quality score: 50.52, commentator tiers 1-3: 30.19%, 35.25%, 34.57%)

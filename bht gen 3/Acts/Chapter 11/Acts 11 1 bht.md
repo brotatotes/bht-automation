@@ -1,13 +1,12 @@
 # Acts 11:1 Commentary Help Text
 
 ## BHT:
-The news of the extraordinary occurrence at Caesarea quickly spread throughout Judea, reaching the Jewish Christians in all communities. This unexpected event, where Gentiles were included into the church through the descent of the Holy Spirit, caused both attention and contention. The fact that real Romans, with Jewish connections, received this blessing without becoming Jews was difficult for many to comprehend. Nevertheless, the rapid spread of the news and the Gentiles' reception of the Holy Spirit could not be ignored, leaving believers intrigued and concerned.
+The news from Caesarea spread quickly throughout Judea, but many Jewish Christians were incredulous about the acceptance of Gentiles into the church. They argued fiercely to bring the Gentiles under Jewish customs and traditions, for the manner in which the Gentiles were called seemed contrary to reason. The apostles and brethren, however, must have rejoiced in the thought that the Gospel had found acceptance in other hearts. Despite their initial confusion, they understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they had received His grace.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "They seem to have heard the fact, without any circumstantial detail."
-2. "From some reporter who gave the objectionable part of it, as is not uncommon in such cases."
-3. "All prominence."
+2. "From some reporter who gave the objectionable part of it, as is not uncommon in such cases, all prominence."
 
 ### Jamieson-Fausset-Brown:
 1. 1-11. the apostles and brethren . .
@@ -15,70 +14,65 @@ The news of the extraordinary occurrence at Caesarea quickly spread throughout J
 
 
 ### Albert Barnes:
-1. "So extraordinary an occurrence as that at Caesarea...would excite attention." 
-2. "...the descent of the Holy Spirit on the Gentiles, and their reception into the church." 
-3. "It was so contrary to all the ideas of the Jews, that it is not to be wondered at that it led to contention."
+1. "So extraordinary an occurrence as that at Caesarea, the descent of the Holy Spirit on the Gentiles, and their reception into the church." 
+2. "It was so contrary to all the ideas of the Jews, that it is not to be wondered at that it led to contention."
 
 ### Marvin Vincent:
 1. In Judaea [κατα την ιουδαιαν] . More correctly, "throughout Judaea."
 
 
 ### John Calvin:
-1. "We see that through this ambition and pride the Church was troubled; because the equality which did diminish their dignity was not tolerable." 
-2. "But forasmuch as it was foretold by so many prophecies of the prophets, that the Church should be gathered of all people after the coming of the Messiah, and forasmuch as Christ had given commandment to his apostles touching the preaching of the gospel throughout the whole world, how can it be that the conversion of a few men should move some, as some strange thing, and should terrify other some, as if it were some monster?" 
+1. "For which cause they did contend stoutly to bring the necks of the Gentiles under the yoke."
+2. "But the manner of the calling, the beginning whereof they saw then, was not only unknown, but it seemed to be quite contrary to reason."
 3. "Finally, they do not straightway comprehend the mystery, which, as Paul teacheth, was unknown to the angels from the creation of the world."
 
 ### Philip Schaff:
-1. "It is observable that the 'elders' or presbyters, who are first mentioned in the last verse of this chapter, do not yet appear. Compare Acts 15:2."
-2. "The news must have rapidly spread through all the Christian communities of the land."
+1. "The news must have rapidly spread through all the Christian communities of the land."
+2. "These ‘apostles and brethren’ had Christian hearts, and they must have rejoiced in the thought that the Gospel had found acceptance in other hearts."
 3. "That which they could not understand was that these Gentiles should have been reached by this blessing without first becoming Jews."
 
 ### Archibald T. Robertson:
-1. "The news from Casearea spread like wildfire among the Jewish Christians."
+1. "The news from Caesarea spread like wildfire among the Jewish Christians."
 2. "The case of the Samaritans was different, for they were half Jews, though disliked."
 3. "But here were real Romans even if with Jewish affinities."
 
 ### John Gill:
-1. "There were in it now more churches than that at Jerusalem."
-2. "The news by some means or other were quickly brought to them."
-3. "No doubt but they also heard that they had received the Holy Ghost, his extraordinary gifts, as well as his special grace, though no mention is made of them."
+1. "The rest of the twelve apostles, and the private members of the churches that were in Judea"
+2. "the news by some means or other were quickly brought to them"
+3. "no doubt but they also heard that they had received the Holy Ghost, his extraordinary gifts, as well as his special grace"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:29:35
+- Timestamp: 12-25-2023 19:31:51
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 39.68%
-- BHT Quality Score: 1.8154505052488379
+- BHT Word Count: 92
+- BHT Commentary Usage: 42.19%
+- BHT Quality Score: 1.966565442473652
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['all', 'and', 'at', 'attention', 'be', 'becoming', 'believers', 'blessing', 'both', 'caesarea', 'caused', 'christians', 'church', 'communities', 'comprehend', 'concerned', 'connections', 'contention', 'could', 'descent', 'difficult', 'event', 'extraordinary', 'fact', 'for', 'gentiles', 'holy', 'ignored', 'in', 'included', 'into', 'intrigued', 'jewish', 'jews', 'judea', 'leaving', 'many', 'nevertheless', 'news', 'not', 'occurrence', 'of', 'quickly', 'rapid', 'reaching', 'real', 'received', 'reception', 'romans', 'spirit', 'spread', 'that', 'the', 'this', 'through', 'throughout', 'to', 'unexpected', 'was', 'were', 'where', 'with', 'without']
-- ChatGPT injected words (significant words only) (38):
-	['attention', 'believers', 'blessing', 'caesarea', 'caused', 'christians', 'church', 'communities', 'comprehend', 'concerned', 'connections', 'contention', 'descent', 'difficult', 'event', 'extraordinary', 'fact', 'gentiles', 'holy', 'ignored', 'included', 'intrigued', 'jewish', 'jews', 'judea', 'leaving', 'news', 'occurrence', 'quickly', 'rapid', 'reaching', 'real', 'received', 'reception', 'romans', 'spirit', 'spread', 'unexpected']
+- ChatGPT injected words (64):
+	['about', 'acceptance', 'and', 'apostles', 'argued', 'as', 'brethren', 'bring', 'but', 'caesarea', 'called', 'christians', 'church', 'confusion', 'contrary', 'customs', 'despite', 'extraordinary', 'fiercely', 'for', 'found', 'from', 'gentiles', 'gifts', 'gospel', 'grace', 'had', 'have', 'hearts', 'his', 'holy', 'however', 'in', 'incredulous', 'initial', 'into', 'jewish', 'judea', 'just', 'manner', 'many', 'must', 'news', 'of', 'other', 'quickly', 'reason', 'received', 'rejoiced', 'seemed', 'spirit', 'spread', 'that', 'the', 'their', 'they', 'thought', 'throughout', 'to', 'traditions', 'under', 'understood', 'were', 'which']
+- ChatGPT injected words (significant words only) (37):
+	['acceptance', 'apostles', 'argued', 'brethren', 'bring', 'caesarea', 'called', 'christians', 'church', 'confusion', 'contrary', 'customs', 'despite', 'extraordinary', 'fiercely', 'found', 'gentiles', 'gifts', 'gospel', 'grace', 'hearts', 'holy', 'incredulous', 'initial', 'jewish', 'judea', 'manner', 'news', 'quickly', 'reason', 'received', 'rejoiced', 'spirit', 'spread', 'thought', 'traditions', 'understood']
 
 ### Logs
-- Attempt 1 BHT: The news from Caesarea had quickly spread throughout Judea, reaching the Jewish Christians in all the communities. This extraordinary occurrence, the descent of the Holy Spirit on the Gentiles and their inclusion into the church, was met with both attention and contention. While the case of the Samaritans was different due to their Jewish affinities, the fact that real Romans, with Jewish connections, had received this blessing without first becoming Jews was something that many struggled to understand. Nonetheless, the rapid spread of the news and the apparent reception of the Holy Spirit by the Gentiles could not be ignored, causing both intrigue and concern among the believers.
-- 🔄 Acts 11:1 (attempt 1, 108 words, 40.85% quotes quality score: 1.8503876677249516, V2 normalized quality score: 52.87, commentator tiers 1-3: 23.17%, 43.55%, 33.27%) 
+- Attempt 1 BHT: The news from Caesarea spread quickly throughout Judea, but many Jewish Christians were incredulous about the acceptance of Gentiles into the church. They argued fiercely to bring the Gentiles under Jewish customs and traditions, for the manner in which the Gentiles were called seemed contrary to reason. The apostles and brethren, however, must have rejoiced in the thought that the Gospel had found acceptance in other hearts. Despite their initial confusion, they understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they had received His grace.
+- 🔄 Acts 11:1 (attempt 1, 92 words, 42.19% quotes quality score: 1.966565442473652, V2 normalized quality score: 56.73, commentator tiers 1-3: 19.96%, 46.72%, 33.32%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The news of the extraordinary occurrence at Caesarea quickly spread throughout Judea, reaching the Jewish Christians in all communities. This unexpected event, where Gentiles were included into the church through the descent of the Holy Spirit, caused both attention and contention. The fact that real Romans, with Jewish connections, received this blessing without becoming Jews was difficult for many to comprehend. Nevertheless, the rapid spread of the news and the Gentiles' reception of the Holy Spirit could not be ignored, leaving believers intrigued and concerned.
-- 🔄 Acts 11:1 (attempt 2, 85 words, 39.68% quotes quality score: 1.8154505052488379, V2 normalized quality score: 51.71, commentator tiers 1-3: 20.76%, 45.91%, 33.33%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: The news from Caesarea quickly spread throughout Judea, causing contention among Jewish Christians. They found it difficult to comprehend how Gentiles could be brought into the church without first becoming Jews. However, the apostles and brethren, who possessed Christian hearts, must have rejoiced at the acceptance of the Gospel in other hearts. They understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, just like they had received His grace.
+- 🔄 Acts 11:1 (attempt 2, 73 words, 45.76% quotes quality score: 1.9442844794231693, V2 normalized quality score: 55.99, commentator tiers 1-3: 19.37%, 50.03%, 30.6%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The news of the extraordinary occurrence in Caesarea swiftly spread throughout Judea, reaching the Jewish Christians in various communities. This surprising event, where Gentiles were included into the church through the descent of the Holy Spirit, resulted in both attention and contention. The fact that actual Romans, with ties to Judaism, received this blessing without first converting to Judaism puzzled many believers. However, the rapid dissemination of the news and the Gentiles' reception of the Holy Spirit could not be overlooked, leaving believers both intrigued and concerned.
-- 🔄 Acts 11:1 (attempt 3, 87 words, 36.07% quotes quality score: 1.750058210141984, V2 normalized quality score: 49.53, commentator tiers 1-3: 19.9%, 46.38%, 33.72%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 3 BHT: The news from Caesarea spread quickly throughout Judea, leading to contention among Jewish Christians. They were perplexed by the acceptance of Gentiles into the church without them first becoming Jews. However, the apostles and brethren, with Christian hearts, must have rejoiced in the Gospel finding acceptance in other hearts. They understood that the Gentiles had received the Holy Spirit and His extraordinary gifts, as well as His grace.
+- 🔄 Acts 11:1 (attempt 3, 68 words, 48.15% quotes quality score: 1.9331603516506475, V2 normalized quality score: 55.62, commentator tiers 1-3: 20.49%, 49.46%, 30.05%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The news from Caesarea quickly spread throughout Judea, reaching the Jewish Christians in various communities. This extraordinary occurrence, where Gentiles were included into the church through the descent of the Holy Spirit, caused attention and contention. The fact that real Romans, with Jewish connections, received this blessing without first becoming Jews was difficult for many to understand. Nonetheless, the rapid spread of the news and the Gentiles' reception of the Holy Spirit could not be ignored, leaving believers intrigued and concerned.
-- 🔄 Acts 11:1 (attempt 4, 81 words, 39.34% quotes quality score: 1.7910843873324906, V2 normalized quality score: 50.9, commentator tiers 1-3: 21.55%, 45.74%, 32.72%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: The news from Caesarea spread like wildfire among the Jewish Christians in Judea. It led to contention as they struggled to understand how Gentiles could be accepted into the church without first becoming Jews. Yet, the apostles and brethren must have rejoiced, knowing that the Gospel had found acceptance in the hearts of others. They recognized that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they themselves had received His grace.
+- 🔄 Acts 11:1 (attempt 4, 76 words, 45.61% quotes quality score: 1.949238321015892, V2 normalized quality score: 56.15, commentator tiers 1-3: 20.82%, 48.88%, 30.3%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The news of the extraordinary occurrence in Caesarea swiftly spread throughout Judea, reaching the Jewish Christians in various communities. This surprising event, where Gentiles were included into the church through the descent of the Holy Spirit, caused both attention and contention. The fact that real Romans, with Jewish connections, received this blessing without first converting to Judaism puzzled many believers. Nonetheless, the rapid dissemination of the news and the Gentiles' reception of the Holy Spirit could not be overlooked, leaving believers both intrigued and concerned.
-- 🔄 Acts 11:1 (attempt 5, 85 words, 34.43% quotes quality score: 1.7843577295777973, V2 normalized quality score: 50.67, commentator tiers 1-3: 20.94%, 45.26%, 33.8%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: The news of what happened in Caesarea quickly spread throughout Judea. The Jewish Christians reacted with contention, finding it hard to understand how Gentiles could be accepted into the church without first becoming Jews. However, the apostles and brethren must have rejoiced, knowing that the Gospel had found acceptance in the hearts of others. They recognized that the Gentiles had received the Holy Spirit and His extraordinary gifts, just as they themselves had received His grace.
+- 🔄 Acts 11:1 (attempt 5, 76 words, 45.76% quotes quality score: 1.8576698276112338, V2 normalized quality score: 53.11, commentator tiers 1-3: 19.92%, 48.26%, 31.82%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 11:1 bht prompt v0.8 (85 words, 39.68% quotes)
-- quality score: 1.8154505052488379, V2 normalized quality score: 51.71, commentator tiers 1-3: 20.76%, 45.91%, 33.33%)
+- ✅ Acts 11:1 bht prompt v0.8 (92 words, 42.19% quotes)
+- quality score: 1.966565442473652, V2 normalized quality score: 56.73, commentator tiers 1-3: 19.96%, 46.72%, 33.32%)

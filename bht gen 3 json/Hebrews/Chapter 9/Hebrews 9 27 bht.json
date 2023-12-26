@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 17:49:22",
+    "timestamp": "12-25-2023 19:29:23",
     "verseRef": "Hebrews 9:27",
     "bestBHT": {
-        "bht": "Just as it is appointed for all men to die once and then face judgment, Christ's second coming without sin will bring salvation. This emphasizes the correlation between humanity's experiences and Christ as the representative man, connecting Christ's first coming to die for us with His second coming for our complete salvation. After death, there is expectant waiting for judgment, leading to joy or woe. The divine appointment of death for men is certain, and judgment follows, both individually and universally. The judgment is a righteous act of God, determining each person's final destiny.",
-        "wordCount": 98,
-        "quoteTokenProportion": 40.91,
-        "qualityScore": 1.9454215114765399,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+        "bht": "Death is an unavoidable fate for all humanity, appointed to occur once. Jesus, the representative man, has similarly been offered once to bear the sins of many. The parallelism between human history and the Son of man highlights the connection between death and Christ's first coming to die for our sins, as well as His second coming to bring salvation. After death, there comes a time of expectant joy or fear before the final judgment. This divine appointment of death precedes the ultimate state of joy or woe.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.974854901260465,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.01,
         "commentatorTierSimilarities": [
-            34.9,
-            29.36,
-            35.74
+            32.26,
+            34.41,
+            33.33
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "And inasmuch as (seeing that Christ is not only a fit object of comparison with man, but is man) it is appointed to men (all men) once (and no more) to die, and after that, judgment...",
-            "so also the Christ (not Christ, without the article, but the Christ, that man who was God\u2019s Christ\u2014the Christ, it being plain and palpable to all that the Christ belongs to the category, men...",
-            "shall appear (the usual verb of the appearances of Christ after his resurrection) a second time without (separate from) sin...for the purpose of salvation"
+            "It is appointed to men once (and no more) to die, and after that, judgment.",
+            "So also the Christ, once (for all) having been offered, to bear the sins of many.",
+            "He shall appear a second time without sin, to them that wait for Him, unto salvation."
         ],
         "Jamieson-Fausset-Brown": [
             "He is the representative man; and there is a strict correspondence between the history of man and that of the Son of man.",
@@ -26,28 +26,28 @@
             "The intermediate state is a state of joyous, or else agonizing and fearful, expectation of 'judgment'; after the judgment comes the full and final state of joy, or else woe."
         ],
         "Albert Barnes": [
-            "That which is to occur but once in an eternity of existence acquires, from that very fact, if there were no other circumstances, an immense importance.",
-            "A man who dies, dies but once. He cannot come back again to make preparation if he has neglected it; to repair the evils which he has caused by a wicked life; or to implore pardon for sins for which he had failed to ask forgiveness.",
-            "The more public and formal act of judgment, when the whole world will be assembled at the bar of Christ; Matthew 25:0. The decision of that day will not change or reverse the former; but the trial will be of such a nature as to bring out all the deeds done on earth, and the sentence which will be pronounced will be in view of the universe, and will fix the everlasting doom."
+            "Death occurs but 'once' in this world. It cannot be repeated if we should desire to have it repeated. Whatever truths or facts then pertain to death; whatever lessons it is calculated to convey, pertain to it as an event which is not to occur again.",
+            "Death occurs to all. 'It is appointed unto men' - to the race. It is not an appointment for one, but for all. No one is appointed by name to die; and not an individual is designated as one who shall escape.",
+            "As death is to occur to us but once, there is a cheering interest in the reflection that when it is passed it is passed 'forever.' The dying pang, the chill, the cold sweat, are not to be repeated. Death is not to approach us often - he is to be allowed to come to us but once."
         ],
         "John Calvin": [
-            "Why should there be less patience in waiting for the second coming of Christ?",
-            "If a long interval of time does not diminish the hope of a happy resurrection, how unreasonable would it be to render less honor to Christ?",
-            "He includes none but those who wait for a long time in the dust for the redemption of their bodies."
+            "Since we patiently wait after death for the day of judgment, it being the common lot of nature which it is not right to struggle against; why should there be less patience in waiting for the second coming of Christ?",
+            "For if a long interval of time does not diminish, as to men, the hope of a happy resurrection, how unreasonable would it be to render less honor to Christ?",
+            "Were any one to object and say, that some had died twice, such as Lazarus, and not once; the answer would be this, \u2014 that the Apostle speaks here of the ordinary lot of men."
         ],
         "Archibald T. Robertson": [
-            "It is appointed (\u03b1\u03c0\u03bf\u03ba\u03b5\u03b9\u03c4\u03b1). Present middle (or passive) of \u03b1\u03c0\u03bf\u03ba\u03b5\u03b9\u03bc\u03b1, 'is laid away' for men.",
-            "Once to die (\u03b1\u03c0\u03b1\u03be \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03b5\u03b9\u03bd). Once for all to die, as once for all to live here. No reincarnation here.",
-            "After this cometh judgement (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf \u03ba\u03c1\u03b9\u03c3\u03b9\u03c2). Death is not all. Man has to meet Christ as Judge as Jesus himself graphically pictures (Matthew 25:31-46; John 5:25-29)."
+            "It is appointed (\u03b1\u03c0\u03bf\u03ba\u03b5\u03b9\u03c4\u03b1). Present middle (or passive) of \u03b1\u03c0\u03bf\u03ba\u03b5\u03b9\u03bc\u03b1, 'is laid away' for men.\" ",
+            "Once to die (\u03b1\u03c0\u03b1\u03be \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03b5\u03b9\u03bd). Once for all to die, as once for all to live here. No reincarnation here.\" ",
+            "After this cometh judgement (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf \u03ba\u03c1\u03b9\u03c3\u03b9\u03c2). Death is not all. Man has to meet Christ as Judge as Jesus himself graphically pictures."
         ],
         "John Gill": [
-            "Not a moral, or what is commonly called a spiritual death, nor an eternal one, but a corporeal one; which does not arise from the constitution of nature, but from the sin of man, and God's decree on account of it.",
-            "Men's days can neither be lengthened nor shortened, either by Christ himself, or others: and this statute and appointment of God concerns men, not angels, and reaches to all men, wicked and righteous.",
+            "All things antecedent to death, which lead on to it, and issue in it, are appointed by God, and so is death itself, with all its circumstances.",
+            "[Death] is the statute law of heaven in common for men to die and that but once.",
             "There is a particular judgment which is immediately after death; by virtue of which, the souls of men are condemned to their proper state of happiness or woe; and there is an universal judgment, which will be after the resurrection of the dead, and is called eternal judgment, and to come; this is appointed by God, though the time when is unknown to men; yet nothing is more certain, and it will be a righteous one."
         ],
         "John Wesley": [
-            "At the moment of death, every man's final state is determined.",
-            "There is not a word in scripture of a particular judgment immediately after death.",
+            "At the moment of death every man's final state is determined.",
+            "But there is not a word in scripture of a particular judgment immediately after death.",
             "After this, the judgment \u2014 Of the great day."
         ]
     },
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Hebrews 9:27, it is emphasized that just as it is appointed for all men to die once and then face judgment, so too will Christ appear a second time without sin to bring salvation. This verse highlights the correlation between the experiences of humanity and the role of Christ as the representative man. It signifies the parallel between Christ's first coming to die for us and His second coming to fulfill our salvation. The immediate state after death is depicted as a time of expectant waiting for judgment, leading to either joy or woe. This appointment of death for men is a definitive occurrence, with no concept of reincarnation. Beyond death, there is the certainty of judgment, both individually and universally, with the final destiny of each person being determined at that moment. The judgment is a righteous act of God, a solemn event that will occur in the future, known as the eternal judgment. Ultimately, this verse emphasizes the significance of Christ's second coming and the need to patiently await His return, giving Him the honor He deserves.",
-            "wordCount": 181,
-            "quoteTokenProportion": 35.85,
-            "qualityScore": 1.9058020328120202,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "bht": "It is the fate of all mankind to experience death once and then face judgment. In a parallelism between the history of humans and the Son of man, Christ came to bear the sins of many and will appear a second time without sin to bring salvation to those who wait for Him. The intermediate state after death is a time of joyful or fearful expectation of judgment, which will be followed by either ultimate joy or woe. Death is a divine appointment for all, and there is no reincarnation. Just as death is not the end, there will also be a final judgment where Christ will be the Judge, depicted in vivid imagery by Jesus Himself.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.201161412678385,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.53,
             "commentatorTierSimilarities": [
-                36.39,
-                30.06,
-                33.55
+                32.78,
+                32.98,
+                34.24
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Just as it is appointed for all men to die once and then face judgment, Christ's second coming without sin will bring salvation. This emphasizes the correlation between humanity's experiences and Christ as the representative man, connecting Christ's first coming to die for us with His second coming for our complete salvation. After death, there is expectant waiting for judgment, leading to joy or woe. The divine appointment of death for men is certain, and judgment follows, both individually and universally. The judgment is a righteous act of God, determining each person's final destiny.",
-            "wordCount": 98,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.9454215114765399,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "bht": "It is the solemn and inevitable destiny of humanity to face death once and subsequently undergo judgment. The Son of man, as the representative figure, aligns with the parallel trajectory of human existence. The gracious truths of our dispensation find their correspondence in the death and second coming of Christ, which offer salvation. Between death and judgment lies an intermediate state with awaiting joy or fear. Death occurs only once and is followed by the certainty of judgment, where Christ assumes the role of Judge.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.883454187246874,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
             "commentatorTierSimilarities": [
-                34.9,
-                29.36,
-                35.74
+                33.97,
+                32.16,
+                33.87
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Just as it is appointed for men to die once and then face judgment, Christ's second coming without sin brings salvation. This parallels the history of man with the Son of man. After death, there is an expectant and solemn state of anticipation before judgment, followed by joy or woe. Death is a definitive occurrence, and judgment is a righteous act of God. Each person's final state is determined in the moment of death and will be revealed in the universal and eternal judgment to come.",
-            "wordCount": 88,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.885311628681968,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "bht": "Both death and judgment are inescapable realities for humanity. Just as it is appointed to men once to die, Christ also offered Himself once for all to bear the sins of many. The history of mankind aligns with the life of the Son of man. After death, there exists an intermediate state of joyful or agonizing expectation of judgment, with the prospect of ultimate joy or woe. Death is a divine appointment, and there is no reincarnation. The second coming of Christ, as Judge, will bring salvation to those who wait for Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9365168459428848,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
             "commentatorTierSimilarities": [
-                34.69,
-                29.53,
-                35.78
+                35.06,
+                31.89,
+                33.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "As it is appointed for all men to die once and face judgment, Christ will appear a second time without sin for salvation. This reveals the parallel between the experiences of man and the representative man, Christ. After death, there is an intense anticipation of judgment, leading either to joy or woe. Death is a fixed decree for humans, affecting all, while judgment has both an immediate and universal aspect. The final state of each person is determined in the moment of death, but the eternal judgment is yet to come.",
-            "wordCount": 91,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.9042489280389554,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "bht": "Death is an unavoidable fate for all humanity, appointed to occur once. Jesus, the representative man, has similarly been offered once to bear the sins of many. The parallelism between human history and the Son of man highlights the connection between death and Christ's first coming to die for our sins, as well as His second coming to bring salvation. After death, there comes a time of expectant joy or fear before the final judgment. This divine appointment of death precedes the ultimate state of joy or woe.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.974854901260465,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
             "commentatorTierSimilarities": [
-                34.68,
-                30.38,
-                34.94
+                32.26,
+                34.41,
+                33.33
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Appointed for all men to die once, and then face judgment, Christ's second coming without sin offers salvation. This draws a parallel between humanity's destiny and the role of Christ as the representative man. After death, anticipation of judgment arises, leading to joy or woe. Death is a decisive event applicable to all, while judgment comprises both immediate and universal aspects. The ultimate fate of every individual is determined at the moment of death, foreshadowing the coming eternal judgment.",
-            "wordCount": 81,
-            "quoteTokenProportion": 33.9,
-            "qualityScore": 1.8103682788442748,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "bht": "Death is an inescapable reality that awaits all of humanity, appointed to occur only once. Similarly, Jesus, as the representative man, offered Himself once for all to bear the sins of many. This parallel between the history of mankind and the Son of man highlights the profound connection between Christ's sacrificial death and His second coming to bring salvation. After death, there is an intermediate state of either joyful anticipation or fearful expectation of judgment, which will ultimately determine the eternal state of joy or woe.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9468355072355799,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.07,
             "commentatorTierSimilarities": [
-                34.25,
-                30.74,
-                35.01
+                34.36,
+                33.18,
+                32.46
             ],
             "generationAttempt": 5
         }

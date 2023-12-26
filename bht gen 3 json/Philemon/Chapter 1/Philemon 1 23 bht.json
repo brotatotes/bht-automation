@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 17:12:55",
+    "timestamp": "12-25-2023 20:08:52",
     "verseRef": "Philemon 23",
     "bestBHT": {
-        "bht": "Epaphras, referred to as a fellow prisoner, could be interpreted as a metaphorical or literal term. Some suggest that he was a faithful companion to Paul in his imprisonment, voluntarily putting himself in the position of a prisoner. Others argue that Epaphras may have been actually imprisoned together with Paul. Epaphras had a significant role in the establishment of the Colossian church and the spread of the Gospel in Colossae, Hierapolis, and Laodicea. The reason for him being called a fellow prisoner remains uncertain, but it implies shared suffering or perhaps actual imprisonment due to his dedication to the cause of Christ.",
-        "wordCount": 102,
-        "quoteTokenProportion": 42.86,
-        "qualityScore": 1.7910729024046383,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+        "bht": "Epaphras, my fellow prisoner and faithful companion, is mentioned here. While the exact circumstances of their imprisonment are uncertain, it is more likely that their captivity was in a spiritual sense, bound by their devotion to Christ. Epaphras, the Colossian preacher who began the work in different cities, including Colossae, came to Rome to join Paul in the fight against the emerging influence of Gnosticism. This mention of Epaphras reminds us of the challenges early Christians faced for their faith.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.7279339284000366,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.8,
         "commentatorTierSimilarities": [
-            39.4,
-            24.46,
-            36.15
+            34.44,
+            30.05,
+            35.52
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Epaphras, my fellow prisoner \u2014 He had been sent by the Colossian Church to inquire after, and minister to, Paul, and possibly was cast into prison by the Roman authorities on suspicion.",
-            "However, he is not mentioned as a prisoner in :-, so that 'fellow prisoner' here may mean merely one who was a faithful companion to Paul in his imprisonment, and by his society put himself in the position of a prisoner.",
-            "So also 'Aristarchus, my fellow prisoner,' :-, may mean. Benson conjectures the meaning to be that on some former occasion these two were Paul's 'fellow prisoners,' not at the time."
+            "Epaphras, my fellow prisoner...was a faithful companion to Paul in his imprisonment, and by his society put himself in the position of a prisoner.",
+            "On some former occasion these two were Paul's 'fellow prisoners,' not at the time.",
+            "Benson conjectures the meaning to be that on some former occasion these two were Paul\u2019s 'fellow prisoners,' not at the time."
         ],
         "Albert Barnes": [
             "The same persons who are here mentioned as greeting Philemon, are mentioned in the close of the Epistle to the Colossians - furnishing a high degree of evidence that Philemon resided at Colosse.",
@@ -26,24 +26,24 @@
             "My fellow-prisoner in Christ Jesus - In the cause of Christ."
         ],
         "Marvin Vincent": [
+            "Epaphras is mentioned Colossians 1:7; Colossians 4:12. Some identify him with Epaphroditus, but without sufficient reason.",
             "It is disputed whether fellow - prisoner is to be taken in a literal or in a spiritual sense.",
-            "In Romans 16:7, the word used here is applied to Andronicus and Junia.",
             "The probabilities seem to favor the spiritual sense."
         ],
         "Philip Schaff": [
             "Epaphras, my fellow-prisoner in Christ Jesus, saluteth thee.",
-            "Why the apostle calls him \u2018fellow-prisoner\u2019 is not clear... Therefore it seems probable that the word is used of these friends because they voluntarily shared the imprisonment of the apostle, and so in fact were captives as much as he.",
-            "Or it may even be that, for zeal in his cause, they had been subjected to some sort of restraint."
+            "But the term is different from that employed when he calk himself a prisoner. It does not necessarily imply \u2018bound\u2019 as St. Paul was.",
+            "Therefore it seems probable that the word is used of these friends because they voluntarily shared the imprisonment of the apostle, and so in fact were captives as much as he."
         ],
         "Archibald T. Robertson": [
-            "Epaphras. The Colossian preacher who apparently started the work in Colossae, Hierapolis, and Laodicea.\" ",
-            "My fellow-prisoner. Used metaphorically like the verb \u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c4\u03b9\u03b6\u03c9 in 2 Corinthians 10:5.",
-            "Some hold that Epaphras became a prisoner with Paul in Rome."
+            "Epaphras. The Colossian preacher who apparently started the work in Colossae, Hierapolis, and Laodicea, and who had come to Rome to enlist Paul's help in the fight against incipient Gnosticism in the Lycus Valley.",
+            "My fellow-prisoner. See on Romans 16:7 for this word, also in Colossians 4:10. Used metaphorically like the verb \u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c4\u03b9\u03b6\u03c9 in 2 Corinthians 10:5.",
+            "Though some hold that Epaphras became a prisoner with Paul in Rome."
         ],
         "John Gill": [
-            "There salute thee Epaphras.... my fellow prisoner in Christ Jesus.\" ",
-            "this good man, and minister of Christ, might have been sent by the Colossians, as Epaphroditus was by the Philippians, to the apostle at Rome, to pay him a visit, and comfort and assist him under his afflictions.",
-            "Epaphras being at Rome, when this persecution broke out, was taken up and put in prison, as were also Aristarchus and Timothy."
+            "my fellow prisoner in Christ Jesus; this good man, and minister of Christ, might have been sent by the Colossians, as Epaphroditus was by the Philippians, to the apostle at Rome, to pay him a visit, and comfort and assist him under his afflictions",
+            "and staying and preaching the Gospel there, was committed to prison, or was laid in bonds, as the apostle was, and upon the same account; namely, for the sake of Christ, and his Gospel.",
+            "the Christians were punished, a sort of men of a new and bad religion"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Epaphras, my fellow prisoner, is mentioned in this verse. Some commentators believe that fellow prisoner is used metaphorically, indicating that Epaphras was a faithful companion to Paul in his imprisonment and willingly put himself in the position of a prisoner. Others argue that it could be taken in a literal sense, suggesting that Epaphras was actually imprisoned with Paul. Epaphras was a prominent figure in the Colossian church and likely played a significant role in establishing the work in Colossae, Hierapolis, and Laodicea. Though the exact reason for Epaphras being referred to as a fellow prisoner is unclear, it is possible that he willingly suffered for the cause of Christ or may have been imprisoned for his zeal in spreading the Gospel.",
-            "wordCount": 122,
-            "quoteTokenProportion": 39.47,
-            "qualityScore": 2.0082872113781147,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "bht": "Epaphras, Paul's faithful companion and fellow prisoner, was acknowledged in this verse. While some argue that they were actual prisoners together, it seems more likely that they were both captives in a spiritual sense, united by their devotion to Christ. Epaphras, known for his work in starting the churches in Colossae, Hierapolis, and Laodicea, joined Paul in Rome to combat the emerging threat of Gnosticism. This verse serves as a reminder of both Epaphras' commitment to the Gospel and the persecution that the early Christians faced for their faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.9864074573521546,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
             "commentatorTierSimilarities": [
-                36.83,
-                26.9,
-                36.27
+                33.42,
+                28.97,
+                37.61
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Epaphras is described as a fellow prisoner in this passage. While some believe this refers to a metaphorical sense of being a faithful companion to Paul in his imprisonment, others argue for a literal interpretation. Regardless, Epaphras was a significant figure in the Colossian church and likely played a role in establishing the work in Colossae, Hierapolis, and Laodicea. The exact reason for Epaphras being called a fellow prisoner is unclear, but it suggests a shared suffering or possibly imprisonment for his zealous dedication to spreading the Gospel.",
-            "wordCount": 88,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.8364831159888446,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "bht": "Epaphras, my fellow prisoner and faithful companion, is mentioned in this passage. While there is debate about the literal or spiritual nature of their imprisonment together, it is clear that they shared a deep bond in their dedication to Christ. Epaphras, the Colossian preacher who initiated the work in numerous cities, including Colossae, came to Rome to join Paul in the fight against burgeoning Gnosticism. The mention of Epaphras reminds us of the challenges early Christians faced for their faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7532806696416197,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
             "commentatorTierSimilarities": [
-                38.92,
-                26.67,
-                34.41
+                35.1,
+                29.87,
+                35.03
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Epaphras, referred to as a fellow prisoner, could be interpreted as a metaphorical or literal term. Some suggest that he was a faithful companion to Paul in his imprisonment, voluntarily putting himself in the position of a prisoner. Others argue that Epaphras may have been actually imprisoned together with Paul. Epaphras had a significant role in the establishment of the Colossian church and the spread of the Gospel in Colossae, Hierapolis, and Laodicea. The reason for him being called a fellow prisoner remains uncertain, but it implies shared suffering or perhaps actual imprisonment due to his dedication to the cause of Christ.",
-            "wordCount": 102,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.7910729024046383,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "bht": "Epaphras, my faithful companion and fellow prisoner, is mentioned in this verse. While it is disputed whether they were literal prisoners together, it is more likely that their captivity was in a spiritual sense, bound by their shared devotion to Christ. Epaphras, the Colossian preacher responsible for spreading the Gospel in various cities, came to Rome to aid Paul in combating the rise of Gnosticism. This reference to Epaphras serves as a reminder of the persecution early Christians endured for their beliefs.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.847087383827256,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
             "commentatorTierSimilarities": [
-                39.4,
-                24.46,
-                36.15
+                33.35,
+                30.34,
+                36.31
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Epaphras, known as a fellow prisoner, is mentioned in this verse. The term fellow prisoner is debated, with some suggesting it has a metaphorical meaning, referring to Epaphras' faithful companionship with Paul during his imprisonment. Others argue for a literal interpretation, proposing that Epaphras may have been imprisoned together with Paul. Notably, Epaphras played a crucial role in establishing the church in Colossae, Hierapolis, and Laodicea. The reason for his designation as a fellow prisoner remains uncertain, but it implies shared suffering or potentially actual imprisonment due to his fervent dedication to spreading the Gospel.",
-            "wordCount": 95,
-            "quoteTokenProportion": 35.82,
-            "qualityScore": 1.779832971855802,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "bht": "Epaphras, my fellow prisoner, is mentioned in this passage. The nature of their imprisonment together is debated, with some suggesting a literal presence but others leaning toward a spiritual bond. Epaphras, the Colossian preacher instrumental in establishing churches, came to Rome to join Paul in countering the emerging threat of Gnosticism. This reference highlights Epaphras' dedication to the Gospel and the persecution faced by early Christians due to their faith.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7211503061849776,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.57,
             "commentatorTierSimilarities": [
-                39.53,
-                24.99,
-                35.49
+                35.02,
+                29.69,
+                35.29
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Epaphras, referred to as a fellow prisoner, is mentioned in this passage. The term fellow prisoner can be understood in a metaphorical or literal sense. Some believe it signifies Epaphras' faithful companionship to Paul during his imprisonment. Others argue that he may have been actually imprisoned alongside Paul. Having played a significant role in establishing the church in Colossae, Hierapolis, and Laodicea, Epaphras' designation as a fellow prisoner suggests a shared suffering or even literal imprisonment due to his unwavering dedication to spreading the Gospel.",
-            "wordCount": 85,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.8119048078983373,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "bht": "Epaphras, my fellow prisoner and faithful companion, is mentioned here. While the exact circumstances of their imprisonment are uncertain, it is more likely that their captivity was in a spiritual sense, bound by their devotion to Christ. Epaphras, the Colossian preacher who began the work in different cities, including Colossae, came to Rome to join Paul in the fight against the emerging influence of Gnosticism. This mention of Epaphras reminds us of the challenges early Christians faced for their faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7279339284000366,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
             "commentatorTierSimilarities": [
-                40.15,
-                24.09,
-                35.76
+                34.44,
+                30.05,
+                35.52
             ],
             "generationAttempt": 5
         }

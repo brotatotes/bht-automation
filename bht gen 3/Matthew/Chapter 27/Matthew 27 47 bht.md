@@ -1,68 +1,68 @@
 # Matthew 27:47 Commentary Help Text
 
 ## BHT:
-In an act of mockery, the crowd responded to Jesus' plea for help with the disdainful declaration, This one among the three must be calling for Elijah. This sarcastic retort sought to reject Jesus as the Messiah, undermining his authority and deriding his power. By referencing the prophecy that Elijah would precede the Messiah, their mockery intentionally denied Jesus' true identity. The close resemblance between Eli and Elijah served to intensify the sting of their sarcastic denial, revealing the lengths to which skeptics distort and twist the truth.
+They mocked Him, saying, This man calls for Elijah! This taunt was intended to deride Jesus' claim to be the Messiah, as it was widely believed that Elias would come before the Messiah. It was a mockery of his plea to God for help, insinuating that if God would not help Him, then calling upon Elijah would be in vain. This sarcastic denial of His Messiahship highlighted the misunderstanding of His words, while also revealing the fear that Elijah might actually come. However, despite their attempts to ridicule Him, God would ultimately vindicate His glory and answer His plea.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "This was not said by the Roman soldiers, who could know nothing of Elias; nor was it a misunderstanding of the Jewish spectators, who must have well understood the import of Eli, nor again was it said in any apprehension, from the supernatural darkness, that Elias might really come." 
-2. "But it was replied in intended mockery, as the contemptuous This man,— 'this one among the three,'—clearly indicates." 
-3. "This is one of the cases where those who advocate an original Hebrew Gospel of Matthew are obliged to suppose that the Greek translator has retained the original words, in order to make the reason of the reply clear."
+1. "This was not said by the Roman soldiers, who could know nothing of Elias... but it was replied in intended mockery..." 
+2. "This is one of the cases where those who advocate an original Hebrew Gospel of Matthew are obliged to suppose that the Greek translator has retained the original words..."
+3. "This man,— ‘this one among the three,’—clearly indicates."
 
 ### Albert Barnes:
 1. "The taunt would be more cutting, because it was the universal belief of the Jews, as well as the doctrine of Christ, that 'Elias' would come before the Messiah."
-2. "They derided him now, as calling upon 'Elias' when God would not help him."
-3. "Or it is possible that this might have been said by some bystanders who did not understand the language in which he spoke, or who might not have been near enough to hear him distinctly."
+2. "They derided him now, as calling upon 'Elias' when God would not help him; still keeping up the pretensions to being the Messiah, and invoking 'Elijah' to come from the dead to aid him."
+3. "This man calleth for Elias - This was done purposely to deride him and his pretensions to be the Messiah."
 
 ### John Calvin:
-1. "But if the hired brawlers of Antichrist, as well as wicked men existing in the Church, are now found to pervert basely by their calumnies what has been properly said by us, let us not wonder that the same thing should happen to our Head."
-2. "This ironical language, therefore — or rather this barking of dogs — amounts to saying that Christ has no access to God if, by imploring Elijah, he seeks relief in another quarter."
-3. "Thus we see that he was tortured on every hand, in order that, overwhelmed with despair, he might abstain from calling on God, which was, to abandon salvation."
+1. "Satan has no method more effectual for ruining the salvation of the godly, than by dissuading them from calling on God."
+2. "This ironical language, therefore — or rather this barking of dogs — amounts to saying that Christ has no access to God, because, by imploring Elijah, he seeks relief in another quarter."
+3. "Yet though they may change God into Elijah, when they have ridiculed us to their heart’s content, God will at length listen to our groanings, and will show that he vindicates his glory, and punishes base falsehood."
 
 ### Philip Schaff:
-1. "There is here an allusion to the belief that Elijah would come before the Messiah, and hence a sarcastic denial of His Messiahship."
-2. "A real misapprehension of His language, and a fear that Elijah might come, seem improbable."
-3. "The resemblance between the word ‘Eli’ and the name Elijah is very close in the original."
+1. "The resemblance between the word ‘Eli’ and the name Elijah is very close in the original."
+2. "There is here an allusion to the belief that Elijah would come before the Messiah, and hence a sarcastic denial of His Messiahship."
+3. "A real misapprehension of His language, and a fear that Elijah might come, seem improbable."
 
 ### John Gill:
-1. "These could not be the Roman soldiers that said so, who had no notion of Elias."
-2. "It seems most likely to be the Jews... wilfully mistook him, with an intent to banter and ridicule him."
-3. "They... fancied he was calling for [Elias]."
+1. "These could not be the Roman soldiers that said so, who had no notion of Elias"
+2. "Fancied he was calling for him; though it seems most likely to be the Jews"
+3. "Wilfully mistook him, with an intent to banter and ridicule him."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:54:35
+- Timestamp: 12-25-2023 20:08:46
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 35.48%
-- BHT Quality Score: 1.7490042363569538
+- BHT Word Count: 99
+- BHT Commentary Usage: 41.54%
+- BHT Quality Score: 1.7714510146000284
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (62):
-	['act', 'among', 'an', 'and', 'as', 'authority', 'be', 'between', 'by', 'calling', 'close', 'crowd', 'declaration', 'denial', 'denied', 'deriding', 'disdainful', 'distort', 'eli', 'elijah', 'for', 'help', 'his', 'identity', 'in', 'intensify', 'intentionally', 'jesus', 'lengths', 'messiah', 'mockery', 'must', 'of', 'one', 'plea', 'power', 'precede', 'prophecy', 'referencing', 'reject', 'resemblance', 'responded', 'retort', 'revealing', 'sarcastic', 'served', 'skeptics', 'sought', 'sting', 'that', 'the', 'their', 'this', 'three', 'to', 'true', 'truth', 'twist', 'undermining', 'which', 'with', 'would']
-- ChatGPT injected words (significant words only) (40):
-	['act', 'authority', 'calling', 'close', 'crowd', 'declaration', 'denial', 'denied', 'deriding', 'disdainful', 'distort', 'eli', 'elijah', 'help', 'identity', 'intensify', 'intentionally', 'jesus', 'lengths', 'messiah', 'mockery', 'plea', 'power', 'precede', 'prophecy', 'referencing', 'reject', 'resemblance', 'responded', 'retort', 'revealing', 'sarcastic', 'served', 'skeptics', 'sought', 'sting', 'true', 'truth', 'twist', 'undermining']
+- ChatGPT injected words (65):
+	['a', 'actually', 'also', 'and', 'answer', 'as', 'attempts', 'be', 'before', 'believed', 'calling', 'calls', 'claim', 'come', 'denial', 'deride', 'despite', 'elias', 'elijah', 'fear', 'for', 'glory', 'god', 'help', 'highlighted', 'him', 'his', 'however', 'if', 'in', 'insinuating', 'intended', 'it', 'jesus', 'man', 'messiah', 'messiahship', 'might', 'misunderstanding', 'mocked', 'mockery', 'not', 'of', 'plea', 'revealing', 'ridicule', 'sarcastic', 'saying', 'taunt', 'that', 'the', 'their', 'then', 'they', 'this', 'to', 'ultimately', 'upon', 'vain', 'vindicate', 'was', 'while', 'widely', 'words', 'would']
+- ChatGPT injected words (significant words only) (38):
+	['actually', 'answer', 'attempts', 'believed', 'calling', 'calls', 'claim', 'come', 'denial', 'deride', 'despite', 'elias', 'elijah', 'fear', 'glory', 'god', 'help', 'highlighted', 'insinuating', 'intended', 'jesus', 'man', 'messiah', 'messiahship', 'misunderstanding', 'mocked', 'mockery', 'plea', 'revealing', 'ridicule', 'sarcastic', 'saying', 'taunt', 'ultimately', 'vain', 'vindicate', 'widely', 'words']
 
 ### Logs
-- Attempt 1 BHT: In the midst of the crucifixion, the mocking crowd jeered at Jesus, sarcastically replying to his plea for help by saying, This one among the three must be calling for Elijah. The significance of their response lies in the deep-rooted belief that Elijah, as prophesied, would come before the Messiah. Their mockery served to deny Jesus' true identity as the Messiah, deliberately taunting him and deriding his power. This taunt was not a misunderstanding or fear of Elijah's actual arrival, but a deliberate act to belittle Jesus and undermine his authority. The close resemblance between Eli and Elijah in the original Hebrew heightened the sting of their sarcastic denial. It is in moments like these that we can see how those who oppose the truth will twist and distort it, a pattern that echoes throughout history.
-- 🔄 Matthew 27:47 (attempt 1, 138 words, 38.78% quotes quality score: 1.681233279159415, V2 normalized quality score: 47.24, commentator tiers 1-3: 33.24%, 37.35%, 29.41%) 
+- Attempt 1 BHT: They mocked Him, saying, This man calls for Elijah! This taunt was intended to deride Jesus' claim to be the Messiah, as it was widely believed that Elias would come before the Messiah. It was a mockery of his plea to God for help, insinuating that if God would not help Him, then calling upon Elijah would be in vain. This sarcastic denial of His Messiahship highlighted the misunderstanding of His words, while also revealing the fear that Elijah might actually come. However, despite their attempts to ridicule Him, God would ultimately vindicate His glory and answer His plea.
+- 🔄 Matthew 27:47 (attempt 1, 99 words, 41.54% quotes quality score: 1.7714510146000284, V2 normalized quality score: 50.24, commentator tiers 1-3: 25.96%, 43.33%, 30.71%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Amidst the crucifixion, Jesus' plea for help was met with mocking sarcasm, as the crowd taunted, This one among the three must be calling for Elijah. This response was intended to deny Jesus' identity as the Messiah, belittling him and undermining his authority. The resemblance between Eli and Elijah in the original Hebrew made their sarcastic denial even more cutting. Such instances reveal how oppositions to the truth manipulate and distort it, a pattern seen throughout history.
-- 🔄 Matthew 27:47 (attempt 2, 77 words, 41.94% quotes quality score: 1.5733618994485283, V2 normalized quality score: 43.66, commentator tiers 1-3: 34.53%, 36.35%, 29.12%) 
+- Attempt 2 BHT: They jeered, This man calls for Elijah! in a mocking attempt to undermine Jesus' claim as the Messiah. By invoking the name of Elijah, they ridiculed his plea to God for help. This taunt highlighted their misconception of his words, suggesting that if God had not responded, calling upon Elijah would be futile. Nevertheless, God would ultimately prove His glory and punish their deceitful mockery, demonstrating that He hears the cries of His faithful.
+- 🔄 Matthew 27:47 (attempt 2, 74 words, 41.07% quotes quality score: 1.6231822509270608, V2 normalized quality score: 45.31, commentator tiers 1-3: 26.61%, 40.99%, 32.4%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As Jesus hung on the cross, the crowd mocked him by stating, This one among the three must be calling for Elijah. The mockery was aimed at denying Jesus' divinity and authority as the Messiah. The sarcastic reply exhibited the belief held by both the Jews and Jesus himself that Elijah would come before the Messiah. This intentional insult not only ridiculed Jesus, but also highlighted the deep-seated skepticism towards his true identity. The resemblance between Eli and Elijah in the original language intensified the cutting impact of their sarcastic denial.
-- 🔄 Matthew 27:47 (attempt 3, 92 words, 44.12% quotes quality score: 1.7273588463265912, V2 normalized quality score: 48.78, commentator tiers 1-3: 32.27%, 38.81%, 28.92%) 
+- Attempt 3 BHT: They derided him by saying, This man calleth for Elias, in order to mock his claim of being the Messiah. This sarcastic denial aimed to belittle his plea for help from God, insinuating that if God would not aid him, then summoning Elias would be in vain. Their misunderstanding of his words also revealed a fear that Elijah might actually come. However, despite their attempts to ridicule him, God would eventually hear his cries and vindicate his glory, exposing their base falsehood.
+- 🔄 Matthew 27:47 (attempt 3, 82 words, 38.71% quotes quality score: 1.7175147685695904, V2 normalized quality score: 48.45, commentator tiers 1-3: 23.78%, 43.45%, 32.77%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Amidst the crucifixion, Jesus' plea for help was met with mocking sarcasm, as the crowd taunted, This one among the three must be calling for Elijah. The response aimed at denying Jesus' identity as the Messiah, belittling him and undermining his authority. The resemblance between Eli and Elijah in the original Hebrew made their denial even more cutting. This highlights the skeptics' deliberate attempt to ridicule and distort the truth, a pattern seen throughout history.
-- 🔄 Matthew 27:47 (attempt 4, 75 words, 40.0% quotes quality score: 1.5568427420085067, V2 normalized quality score: 43.11, commentator tiers 1-3: 34.0%, 36.48%, 29.53%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In an act of mockery, the crowd responded to Jesus' plea for help with the disdainful declaration, This one among the three must be calling for Elijah. This sarcastic retort sought to reject Jesus as the Messiah, undermining his authority and deriding his power. By referencing the prophecy that Elijah would precede the Messiah, their mockery intentionally denied Jesus' true identity. The close resemblance between Eli and Elijah served to intensify the sting of their sarcastic denial, revealing the lengths to which skeptics distort and twist the truth.
-- 🔄 Matthew 27:47 (attempt 5, 88 words, 35.48% quotes quality score: 1.7490042363569538, V2 normalized quality score: 49.5, commentator tiers 1-3: 34.98%, 37.15%, 27.86%) 
+- Attempt 4 BHT: In a mocking tone, they scoffed, This man calls for Elijah! This was intended to deride Jesus' claim as the Messiah, ridiculing his plea to God for help. By insinuating that if God wouldn't assist him, calling on Elijah would be in vain, they showed a misunderstanding of his words and a fear that Elijah might actually come. However, their attempts to ridicule him would be in vain, as God would eventually answer his plea and expose their deceitful mockery.
+- 🔄 Matthew 27:47 (attempt 4, 81 words, 39.29% quotes quality score: 1.6908836879841074, V2 normalized quality score: 47.56, commentator tiers 1-3: 24.72%, 42.59%, 32.69%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 27:47 bht prompt v0.8 (88 words, 35.48% quotes)
-- quality score: 1.7490042363569538, V2 normalized quality score: 49.5, commentator tiers 1-3: 34.98%, 37.15%, 27.86%)
+- Attempt 5 BHT: In mockery, they taunted, This man calleth for Elias! The intent was to belittle Jesus' claim as the Messiah, as it was commonly believed that Elijah would come before the Messiah. Their misunderstanding of his words and fear that Elijah might actually come were evident in their sarcastic denial of his Messiahship. However, despite their attempts to ridicule him, God would ultimately vindicate His glory and answer Jesus' plea, disproving their baseless falsehood.
+- 🔄 Matthew 27:47 (attempt 5, 73 words, 37.04% quotes quality score: 1.7110156340126979, V2 normalized quality score: 48.23, commentator tiers 1-3: 25.3%, 44.53%, 30.17%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 27:47 bht prompt v0.8 (99 words, 41.54% quotes)
+- quality score: 1.7714510146000284, V2 normalized quality score: 50.24, commentator tiers 1-3: 25.96%, 43.33%, 30.71%)

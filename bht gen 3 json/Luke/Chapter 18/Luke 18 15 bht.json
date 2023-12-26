@@ -1,41 +1,41 @@
 {
-    "timestamp": "12-19-2023 16:21:21",
+    "timestamp": "12-25-2023 19:29:22",
     "verseRef": "Luke 18:15",
     "bestBHT": {
-        "bht": "The disciples tried to prevent the people from bringing their infants and young children to Jesus, but He rebuked them. Jesus wanted to bless the little ones and even laid His hands on them and prayed for them. This act followed the venerable custom of invoking a blessing upon children. The disciples' interference was against the mind of Christ, as He desired to show His love and welcome to people of all ages, including the vulnerable and innocent infants.",
-        "wordCount": 79,
-        "quoteTokenProportion": 38.89,
-        "qualityScore": 1.6717588168427997,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+        "bht": "The parents and people brought their young children and infants to Jesus, wanting Him to touch them. Although the disciples rebuked them, thinking it was unnecessary, Jesus responded that the children should be allowed to come to Him. While the accounts in Matthew and Mark refer to the children simply as little or young children, Luke's use of the word infants emphasizes the tender age of these children. Jesus' desire to bless and pray for the infants shows His love and care even for the youngest among us.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.8192319911120132,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.83,
         "commentatorTierSimilarities": [
-            55.23,
+            58.43,
             0.0,
-            44.77
+            41.57
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The word used by St. Luke points out more distinctly the tender age of the children than that in Matthew and Mark.",
             "Not the people came only, but also brought their children.",
-            "The article may be merely generic, as in A.V."
+            "Or, the article may be merely generic, as in A.V."
         ],
         "Jamieson-Fausset-Brown": [
-            "infants\u2014showing that some, at least, of those called in Matthew and Mark simply 'little' or 'young children,' were literally 'babes.'",
-            "put His hands on them and pray,\" or invoke a 'blessing' on them (Matthew 19:13- :), according to venerable custom (Genesis 48:14; Genesis 48:15).",
-            "Repeatedly the disciples thus interposed to save annoyance and interruption to their Master; but, as the result showed, always against the mind of Christ."
+            "infants\u2014showing that some, at least, of those called in Matthew and Mark simply 'little' or 'young children,' were literally \"babes.\"",
+            "touch them\u2014or, as more fully in Matthew, 'put His hands on them and pray,' or invoke a 'blessing' on them.",
+            "Here, it is plain from our Lord's reply, that they thought the intrusion a useless one, as infants were not capable of receiving anything from Him. His ministrations were for grown people."
         ],
         "Marvin Vincent": [
             "Infants [\u03c4\u03b1 \u03b2\u03c1\u03b5\u03c6\u03b7] . See on 1 Peter 2:2. ",
             "Touch. So Mark. Matthew has lay his hands on them and pray."
         ],
         "Archibald T. Robertson": [
-            "They were bringing their babes, their infants.",
-            "Here Mark and Matthew have 'little children' instead of 'babes.'",
-            "Either began to rebuke, or continued, kept on rebuking."
+            "They brought their babes, their infants, that he should touch them.",
+            "Note 'also' in Luke, not in Mark and Matthew.",
+            "Either inchoative began to rebuke, or continued, kept on rebuking."
         ],
         "John Gill": [
-            "As well as grown persons, that were sick, to be healed by him.",
+            "As well as grown persons, that were sick, to be healed by him.\" ",
             "One of the ways by which Christ healed persons, was by touching them.",
             "But when [his] disciples saw [it], they rebuked them."
         ],
@@ -60,67 +60,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The word used by Luke in this verse emphasizes the tender age of the children, indicating that they were literal infants. The people not only came themselves but also brought their young children. The disciples, however, tried to keep the children away from Jesus, perhaps thinking they would be an annoyance. Yet, Jesus rebuked his disciples and made it clear that he welcomed the children. He lovingly touched them and prayed for them, following the custom of invoking a blessing on them. The disciples' interference was always against Jesus' desires, as he desired to extend his blessings to all, including the little ones.",
-            "wordCount": 103,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.7113391780873983,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "bht": "The parents and people brought their young children and infants to Jesus, wanting Him to touch them. Although the disciples rebuked them, thinking it was unnecessary, Jesus responded that the children should be allowed to come to Him. While the accounts in Matthew and Mark refer to the children simply as little or young children, Luke's use of the word infants emphasizes the tender age of these children. Jesus' desire to bless and pray for the infants shows His love and care even for the youngest among us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8192319911120132,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
             "commentatorTierSimilarities": [
-                55.67,
+                58.43,
                 0.0,
-                44.33
+                41.57
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The word used by Luke emphasizes the tender age of the children, showing that some were literal infants. The people brought their young children and infants to Jesus, seeking his blessings upon them. The disciples, however, tried to rebuke those who brought their children, in an attempt to shield Jesus from annoyance. But Jesus, in his loving and inclusive nature, rebuked his disciples and welcomed the children with open arms, touching them and praying for them.",
-            "wordCount": 76,
-            "quoteTokenProportion": 42.31,
-            "qualityScore": 1.8077771678597263,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "bht": "The people brought their young children and infants, hoping Jesus would touch them. Although the disciples did not see the significance in this, Jesus responded by expressing that the children should indeed be allowed to come to Him. Luke emphasizes the tender age of the children, using the term infants. Despite the disciples thinking it was unnecessary, Jesus saw value in blessing and praying for these little ones, revealing His love and care for even the youngest among us.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.715677222631463,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
             "commentatorTierSimilarities": [
-                57.64,
+                58.42,
                 0.0,
-                42.36
+                41.58
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The word used by St. Luke points out the tender age of the children, indicating that they were literal babes. The disciples interposed to save annoyance and interruption to their Master but always against the mind of Christ. However, Jesus rebuked his disciples and made it clear that he welcomed the children. He lovingly touched them and prayed for them, following the custom of invoking a blessing on them. The disciples' interference was against Jesus' desires, as he desired to extend his blessings to all, including the little ones.",
-            "wordCount": 89,
-            "quoteTokenProportion": 41.27,
-            "qualityScore": 1.70808902368652,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.14,
+            "bht": "The people brought their children, including infants, to Jesus, desiring Him to touch them. The disciples initially rebuked the parents, considering it unnecessary. However, Jesus countered, affirming that the children should be allowed to approach Him. Luke's mention of infants emphasizes the age of these children, while Jesus' response reveals His willingness to bless and pray for them. Despite their young age, Jesus acknowledged the significance of these little ones, showcasing His love and care for even the smallest members of society.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.6405112381556965,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
             "commentatorTierSimilarities": [
-                51.75,
+                56.02,
                 0.0,
-                48.25
+                43.98
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The word used by St. Luke specifies the tender age of the children, indicating they were literal babes. Jesus' disciples interposed to spare annoyance and interruption to their Master, contrary to His intentions. Yet Jesus rebuked his disciples and made it clear that He welcomed the children. He lovingly touched them and prayed for them, according to the tradition of invoking a blessing upon them. The disciples' interference went against Jesus' desires, for He desired to extend His blessings to all, even the little ones.",
-            "wordCount": 85,
-            "quoteTokenProportion": 37.29,
-            "qualityScore": 1.6710901635258995,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "bht": "The people brought their children, even infants, to Jesus with the hope that He would touch them. At first, the disciples rebuked the parents, seeing it as unnecessary. However, Jesus insisted that the children should be allowed to come to Him. Luke's use of the term infants emphasizes their young age. Despite the disciples' disbelief, Jesus recognized the value and significance of these little ones, demonstrating His love and care for even the smallest among them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6486287488926672,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
             "commentatorTierSimilarities": [
-                50.52,
+                55.08,
                 0.0,
-                49.48
+                44.92
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples tried to prevent the people from bringing their infants and young children to Jesus, but He rebuked them. Jesus wanted to bless the little ones and even laid His hands on them and prayed for them. This act followed the venerable custom of invoking a blessing upon children. The disciples' interference was against the mind of Christ, as He desired to show His love and welcome to people of all ages, including the vulnerable and innocent infants.",
-            "wordCount": 79,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.6717588168427997,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+            "bht": "The people brought their children, even infants, to Jesus, hoping that He would touch them. Though the disciples initially thought it was unnecessary, Jesus insisted that the children be allowed to come to Him. Luke specifically refers to them as infants, underscoring their tender age. Despite the doubts of the disciples, Jesus recognized the value in blessing and praying for these little ones, demonstrating His love and care for the youngest members of society.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.7761618909038686,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.4,
             "commentatorTierSimilarities": [
-                55.23,
+                56.03,
                 0.0,
-                44.77
+                43.97
             ],
             "generationAttempt": 5
         }

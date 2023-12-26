@@ -1,28 +1,27 @@
 {
-    "timestamp": "12-19-2023 16:18:54",
+    "timestamp": "12-25-2023 19:32:42",
     "verseRef": "Luke 12:16",
     "bestBHT": {
-        "bht": "In this parable, Jesus portrays a man who attained great worldly prosperity through God's blessing. However, his downfall was not due to any dishonesty but his ignorance of how to use his wealth wisely. He regarded a life of secure and abundant earthly enjoyment as the epitome of human happiness and assumed he would continue to revel in it. Little did he know that life is fleeting and riches cannot prolong it. This parable admonishes us to seek our daily sustenance from the Lord and rely on His providence, irrespective of our material wealth.",
-        "wordCount": 95,
-        "quoteTokenProportion": 40.28,
-        "qualityScore": 1.84477392758953,
-        "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+        "bht": "This parable recounts the story of a man who reached the pinnacle of worldly prosperity, believing that a life of abundant earthly enjoyment was the ultimate happiness. Yet, his covetousness and lack of wisdom in spiritual matters led to his downfall. Despite his wealth, his possessions proved fleeting, demonstrating the ephemeral nature of material abundance. The parable serves as a cautionary tale against greed and materialism, encouraging believers to rely on God's providence and seek wisdom beyond earthly possessions.",
+        "wordCount": 80,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.9299332517770722,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.51,
         "commentatorTierSimilarities": [
-            28.74,
-            30.41,
-            40.85
+            32.14,
+            33.09,
+            34.77
         ],
         "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Our Lord in this parable sets before us one arrived at the very height of worldly prosperity, and that by no unfair means.",
-            "It was by God\u2019s blessing that he became thus rich, which might have been a real blessing, if he had known how to use it.",
-            "...if he had known how to use it."
+            "Our Lord in this parable sets before us one arrived at the very height of worldly prosperity.\" ",
+            "It was by God's blessing that he became rich, which might have been a real blessing, if he had known how to use it."
         ],
         "Jamieson-Fausset-Brown": [
-            "He deemed a life of secure and abundant earthly enjoyment the summit of human felicity.",
-            "Possessing the means of this, through prosperity in his calling, he flattered himself that he had a long lease of such enjoyment.",
+            "Because he deemed a life of secure and abundant earthly enjoyment the summit of human felicity.",
+            "Because, possessing the means of this, through prosperity in his calling, he flattered himself that he had a long lease of such enjoyment, and nothing to do but give himself up to it.",
             "Nothing else is laid to his charge."
         ],
         "Albert Barnes": [
@@ -30,9 +29,9 @@
             "Plentifully - His land was fertile, and produced even beyond his expectations, and beyond what he had provided for."
         ],
         "John Calvin": [
-            "Men do not live by their abundance... Since the life even of the richest men is taken away in a moment, what avails it that they have accumulated great wealth?",
-            "It is therefore necessary that all should immediately arouse themselves, lest, by imagining their happiness to consist in riches, they entangle themselves in the snares of covetousness.",
-            "This parable shows us, first, that the present life is short and transitory. Secondly, it points out to us, that riches are of no avail for prolonging life. We must add a third... to ask from the Lord their daily bread, and to rely on his providence alone, whether they are rich or poor."
+            "Men do not live by their abundance.",
+            "The life even of the richest men is taken away in a moment, what avails it that they have accumulated great wealth?",
+            "It is a most excellent remedy for believers, to ask from the Lord their daily bread, and to rely on his providence alone, whether they are rich or poor."
         ],
         "Philip Schaff": [
             "A parable. Yet a true history constantly repeated.",
@@ -40,13 +39,12 @@
             "The seeming innocence of the process is its danger; there is nothing to awaken qualms of conscience as his possessions increase."
         ],
         "Archibald T. Robertson": [
-            "A short and pungent parable suggested by the covetousness of the man.",
-            "Brought forth plentifully.",
-            "Late word... here only in the N.T."
+            "A short and pungent parable suggested by the covetousness of the man.\" ",
+            "Brought forth plentifully, from the late word \u03b5\u03c5\u03c6\u03bf\u03c1\u03b7\u03c3\u03b5\u03bd, meaning 'bearing well'."
         ],
         "John Gill": [
-            "Rich men are not always wise in things natural and civil; and very few of them are spiritually wise.\" ",
-            "However, this man was very prosperous in his worldly affairs, as a man of a small share of common sense may be, and wicked men often are.\" ",
+            "Rich men are not always wise in things natural and civil; and very few of them are spiritually wise, or wise in spiritual things.\" ",
+            "However, this man was very prosperous in his worldly affairs, as a man of a small share of common sense may be, and wicked men often are.",
             "The word translated 'ground', signifies a 'region', or 'country', which expresses the more, the riches of this man, that he had not a common and ordinary farm, but a whole country as it were; at least a very large part of one, and all this fruitful."
         ]
     },
@@ -67,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this parable, Jesus presents a man who achieved great worldly success, attributing it to the blessing of God. However, the man's downfall was not due to any wrongdoing, but rather his ignorance in understanding how to use his wealth wisely. He believed that a life of secure and abundant earthly enjoyment was the pinnacle of happiness and assumed he would continue to enjoy it. The man's only fault lay in his covetousness. The parable serves as a warning about the transient nature of life and the futility of relying on wealth for lasting happiness. It emphasizes the need for reliance on God's providence, whether one is rich or poor.",
-            "wordCount": 113,
-            "quoteTokenProportion": 39.47,
-            "qualityScore": 1.70633361186842,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "bht": "Our Lord tells a parable about a man who had reached the peak of worldly success. He had become rich by God's blessing, but instead of using his wealth wisely, he believed that a life of abundant earthly enjoyment was the ultimate happiness. He thought he had a long lease on this lavish lifestyle and had nothing else to worry about. However, his fault was solely in his covetousness, as nothing else is laid to his charge. The parable serves as a cautionary tale against the dangers of greed and materialism, highlighting the fleeting nature of worldly possessions. The man's abundance ultimately proved futile because life can be taken away in a moment. It reminds believers to rely on the Lord's providence and seek their daily bread from Him alone. Wealth does not equate to wisdom, neither in worldly nor spiritual matters. The man had accumulated great wealth, even possessing a whole country's worth of land, but lacked the true wisdom that comes from following God's ways.",
+            "wordCount": 172,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7809950406427708,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
             "commentatorTierSimilarities": [
-                28.49,
-                30.56,
-                40.96
+                33.09,
+                28.13,
+                38.77
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this parable, Jesus illustrates the story of a man who achieved remarkable wealth by the blessing of God. However, the man's downfall was not caused by any wrongdoing, but rather his lack of wisdom in managing his abundance. He mistakenly believed that a life of secure and abundant earthly enjoyment was the highest form of happiness, oblivious to the transient nature of life. His covetousness became his undoing. This parable reminds us that true happiness cannot be found in worldly possessions, but in relying on God's providence, regardless of wealth or poverty.",
-            "wordCount": 95,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.6997458680018005,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+            "bht": "Our Lord presents a parable about a man who had achieved great worldly prosperity through God's blessing, but failed to utilize his wealth wisely. He deemed a life of abundant earthly enjoyment as the pinnacle of happiness and assumed he had a long lease on such indulgence. However, his covetousness was his downfall, as nothing else is laid to his charge. This cautionary tale warns against the dangers of greed and materialism, emphasizing the fleeting nature of worldly possessions. It reminds believers to rely on the Lord's providence and seek wisdom beyond earthly wealth.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.860048875754325,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
             "commentatorTierSimilarities": [
-                28.81,
-                31.76,
-                39.44
+                36.19,
+                29.52,
+                34.29
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this parable, Jesus presents a man who became incredibly wealthy through God's blessing, yet lacked the wisdom to use his riches wisely. He believed that a life of abundant earthly enjoyment was the ultimate happiness, assuming his wealth would guarantee this indefinitely. However, his downfall was his covetousness. The parable serves as a poignant reminder that the present life is short-lived and that accumulating wealth does not guarantee a meaningful existence. True contentment comes from relying on God's providence, regardless of one's financial status.",
-            "wordCount": 89,
-            "quoteTokenProportion": 35.29,
-            "qualityScore": 1.6732266457228568,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "bht": "In this parable, our Lord presents a cautionary tale of a man who achieved immense worldly success due to God's blessing. He believed that a life filled with secure and abundant earthly enjoyment was the height of human happiness. However, his fatal flaw was his covetousness. The parable serves as a reminder of the transient nature of wealth and the need for believers to rely solely on God's providence for their daily bread. It also highlights the lack of true wisdom in those who prioritize material possessions over spiritual matters.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.729230631971273,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.84,
             "commentatorTierSimilarities": [
-                27.27,
-                31.48,
-                41.25
+                34.39,
+                30.42,
+                35.19
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this parable, Jesus portrays a man who attained great worldly prosperity through God's blessing. However, his downfall was not due to any dishonesty but his ignorance of how to use his wealth wisely. He regarded a life of secure and abundant earthly enjoyment as the epitome of human happiness and assumed he would continue to revel in it. Little did he know that life is fleeting and riches cannot prolong it. This parable admonishes us to seek our daily sustenance from the Lord and rely on His providence, irrespective of our material wealth.",
-            "wordCount": 95,
-            "quoteTokenProportion": 40.28,
-            "qualityScore": 1.84477392758953,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+            "bht": "This parable recounts the story of a man who reached the pinnacle of worldly prosperity, believing that a life of abundant earthly enjoyment was the ultimate happiness. Yet, his covetousness and lack of wisdom in spiritual matters led to his downfall. Despite his wealth, his possessions proved fleeting, demonstrating the ephemeral nature of material abundance. The parable serves as a cautionary tale against greed and materialism, encouraging believers to rely on God's providence and seek wisdom beyond earthly possessions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.9299332517770722,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.51,
             "commentatorTierSimilarities": [
-                28.74,
-                30.41,
-                40.85
+                32.14,
+                33.09,
+                34.77
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this parable, Jesus presents a man who, through God's blessing, achieved significant worldly prosperity. However, his lack of wisdom in using his wealth wisely proved to be his downfall. He wrongly believed that a life of secure and abundant earthly enjoyment was the ultimate fulfillment. Sadly, he was unaware of the transient nature of life and the insignificance of riches in prolonging one's existence. This parable serves as a reminder that true contentment lies in relying on God's providence, regardless of our material wealth or social status.",
-            "wordCount": 91,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.8084240546216548,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+            "bht": "Our Lord tells a cautionary parable about a man who became rich by God's blessing but failed to use his wealth wisely. He believed that a life of abundant earthly enjoyment was the height of happiness and thought he had a long lease on such indulgence. However, his covetousness proved to be his downfall. The parable serves as a reminder of the transient nature of worldly possessions and the need for believers to rely on God's providence for their daily bread, regardless of their wealth or status.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8269441421798729,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
             "commentatorTierSimilarities": [
-                28.18,
-                30.55,
-                41.27
+                34.73,
+                29.88,
+                35.39
             ],
             "generationAttempt": 5
         }

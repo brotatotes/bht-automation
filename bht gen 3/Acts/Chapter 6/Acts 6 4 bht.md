@@ -1,12 +1,12 @@
 # Acts 6:4 Commentary Help Text
 
 ## BHT:
-The apostles recognized that their most important task was to dedicate themselves entirely to prayer and the ministry of the word. They understood that no one else could fulfill this responsibility on their behalf, and they viewed it as the noblest aspect of their work. They were fully committed to public prayer and preaching, never allowing themselves to be distracted by worldly concerns or the immediate needs of the church. Prayer and preaching were their primary focus, as they steadfastly continued in these endeavors, recognizing their significant role in their ministry.
+The apostles recognized the ministry of the word as their noblest portion, their primary occupation. They gave themselves continually to prayer and steadfastly persisted in their mission, understanding the need to separate from worldly concerns and attend to the spiritual needs of the world. By devoting themselves wholly to prayer and preaching, they demonstrated their commitment to this vital work, seeking the Lord's blessing for fruitful labor. Their undivided attention to the gospel and the message of eternal life showcased their complete dedication to this sacred calling.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "This is the noblest portion of the work." 
-2. "No bishop can delegate to another."
+1. "This is the noblest portion of the work."
+2. "No bishop can delegate [the ministry of the word] to another."
 3. "Being himself occupied in more important matters."
 
 ### Jamieson-Fausset-Brown:
@@ -15,8 +15,8 @@ The apostles recognized that their most important task was to dedicate themselve
 
 
 ### Albert Barnes:
-1. "But we will give ourselves continually... undistracted by the cares of life, and even by attention to the temporal needs of the church." 
-2. "The apostles felt the need of secret prayer, and practiced it, as preparatory to their public preaching."
+1. "The apostles designed to make this their constant and main object, undistracted by the cares of life, and even by attention to the temporal needs of the church."
+2. "To preaching the gospel, or communicating the message of eternal life to the world."
 3. "They were set apart to this work. It was their main, their only employment. To this their lives were to be devoted."
 
 ### Marvin Vincent:
@@ -26,58 +26,58 @@ The apostles recognized that their most important task was to dedicate themselve
 ### John Calvin:
 1. "Pastors must not think that they have so done their duty that they need to do no more when they have daily spent some time in teaching."
 2. "There is another manner of study, another manner of zeal, another manner of continuance required, that they may indeed boast that they are wholly given to that thing."
-3. "It shall not suffice to take great pains in teaching, unless we require the blessing at the hands of the Lord, that our labor may not be in vain and unfruitful."
+3. "It shall not suffice to take great pains in teaching unless we require the blessing at the hands of the Lord, that our labor may not be in vain and unfruitful."
 
 ### Archibald T. Robertson:
-1. "But we. In contrast to the work given the seven."
-2. "The ministry of the word. The same word employed in verse Acts 6:1, but here about preaching as the special ministry with which the apostles were concerned."
-3. "For 'continue steadfastly' (προσκαρτερησομεν) see on Acts 2:42."
+1. "The ministry of the word (τη διακονια του λογου). The same word διακονια employed in verse Acts 6:1, but here about preaching as the special ministry with which the apostles were concerned."
+2. "For 'continue steadfastly' (προσκαρτερησομεν) see on Acts 2:42."
+3. "In contrast to the work given the seven."
 
 ### John Gill:
-1. "But we will give ourselves continually to prayer...and to the ministry of the word." 
-2. "These two, prayer and preaching, are the principal employment of a Gospel minister, and are what he ought to be concerned in, not only now and then, but what he should give himself up unto wholly."
-3. "It therefore seems necessary that those who are called to labour in the word and doctrine, if possible, should be exempt from all worldly business and employment; that of the ministry being sufficient to engross all a man's time and thoughts."
+1. "These two, prayer and preaching, are the principal employment of a Gospel minister." 
+2. "They should give themselves up wholly to prayer and preaching, that their profiting might appear."
+3. "Those who are called to labour in the word and doctrine, if possible, should be exempt from all worldly business and employment."
 
 ### John Wesley:
 1. "We will constantly attend to prayer, and to the ministry of the word." 
-2. "This is doubtless the proper business of a Christian bishop: to speak to God in prayer; to men in preaching his word."
-3. "...as an ambassador for Christ."
+2. "This is doubtless the proper business of a Christian bishop: to speak to God in prayer; to men in preaching his word, as an ambassador for Christ."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:27:00
+- Timestamp: 12-25-2023 19:32:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 40.98%
-- BHT Quality Score: 1.8168367358009019
+- BHT Word Count: 88
+- BHT Commentary Usage: 21.67%
+- BHT Quality Score: 1.8651010242883213
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['allowing', 'and', 'apostles', 'as', 'aspect', 'be', 'behalf', 'by', 'church', 'committed', 'concerns', 'continued', 'could', 'dedicate', 'distracted', 'else', 'endeavors', 'entirely', 'focus', 'fulfill', 'fully', 'immediate', 'important', 'in', 'it', 'ministry', 'most', 'needs', 'never', 'no', 'noblest', 'of', 'on', 'one', 'or', 'prayer', 'preaching', 'primary', 'public', 'recognized', 'recognizing', 'responsibility', 'role', 'significant', 'steadfastly', 'task', 'that', 'the', 'their', 'themselves', 'these', 'they', 'this', 'to', 'understood', 'viewed', 'was', 'were', 'word', 'work', 'worldly']
-- ChatGPT injected words (significant words only) (36):
-	['allowing', 'apostles', 'aspect', 'behalf', 'church', 'committed', 'concerns', 'continued', 'dedicate', 'distracted', 'endeavors', 'entirely', 'focus', 'fulfill', 'fully', 'immediate', 'important', 'ministry', 'needs', 'noblest', 'prayer', 'preaching', 'primary', 'public', 'recognized', 'recognizing', 'responsibility', 'role', 'significant', 'steadfastly', 'task', 'understood', 'viewed', 'word', 'work', 'worldly']
+- ChatGPT injected words (60):
+	['and', 'apostles', 'as', 'attend', 'attention', 'blessing', 'by', 'calling', 'commitment', 'complete', 'concerns', 'continually', 'dedication', 'demonstrated', 'devoting', 'eternal', 'for', 'from', 'fruitful', 'gave', 'gospel', 'in', 'labor', 'life', 'lord', 'message', 'ministry', 'mission', 'need', 'needs', 'noblest', 'occupation', 'of', 'persisted', 'portion', 'prayer', 'preaching', 'primary', 'recognized', 's', 'sacred', 'seeking', 'separate', 'showcased', 'spiritual', 'steadfastly', 'the', 'their', 'themselves', 'they', 'this', 'to', 'understanding', 'undivided', 'vital', 'wholly', 'word', 'work', 'world', 'worldly']
+- ChatGPT injected words (significant words only) (47):
+	['apostles', 'attend', 'attention', 'blessing', 'calling', 'commitment', 'complete', 'concerns', 'continually', 'dedication', 'demonstrated', 'devoting', 'eternal', 'fruitful', 'gave', 'gospel', 'labor', 'life', 'lord', 'message', 'ministry', 'mission', 'need', 'needs', 'noblest', 'occupation', 'persisted', 'portion', 'prayer', 'preaching', 'primary', 'recognized', 's', 'sacred', 'seeking', 'separate', 'showcased', 'spiritual', 'steadfastly', 'understanding', 'undivided', 'vital', 'wholly', 'word', 'work', 'world', 'worldly']
 
 ### Logs
-- Attempt 1 BHT: The apostles acknowledged that their primary duty was not to delegate their responsibilities, but rather to give themselves wholeheartedly to prayer and the ministry of the word. They understood that this was the noblest portion of their work, and that no other task could take precedence. They were devoted to public prayer, as well as preaching, as they recognized the importance of seeking God's blessing and guidance in their ministry. Their commitment to prayer and preaching was unwavering, as they steadfastly continued in this work, undistracted by the temporal needs of the church or the cares of life. They were set apart for this purpose, with their lives wholly devoted to prayer and the proclamation of God's word. To them, prayer and preaching were not occasional or secondary, but their main and only employment.
-- 🔄 Acts 6:4 (attempt 1, 136 words, 37.84% quotes quality score: 1.8511351972904304, V2 normalized quality score: 52.89, commentator tiers 1-3: 14.49%, 51.25%, 34.26%) 
+- Attempt 1 BHT: The apostles devoted themselves to the ministry of the word, considering it their most important task. They recognized that the preaching of the gospel and the communication of the message of eternal life to the world required their undivided attention. By giving themselves continually to prayer and steadfastly persisting in their mission, they demonstrated their commitment to this work. They understood that their lives were to be wholly given to this calling, separate from the cares of life and the temporal needs of the church. This devotion to prayer and preaching was the primary occupation of a Gospel minister, a duty that went beyond merely teaching and studying, but also sought the blessing and fruitfulness that only the Lord could provide.
+- 🔄 Acts 6:4 (attempt 1, 121 words, 31.08% quotes quality score: 1.881501341767187, V2 normalized quality score: 53.9, commentator tiers 1-3: 15.56%, 49.07%, 35.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The apostles recognized that their most important task was to dedicate themselves entirely to prayer and the ministry of the word. They understood that no one else could fulfill this responsibility on their behalf, and they viewed it as the noblest aspect of their work. They were fully committed to public prayer and preaching, never allowing themselves to be distracted by worldly concerns or the immediate needs of the church. Prayer and preaching were their primary focus, as they steadfastly continued in these endeavors, recognizing their significant role in their ministry.
-- 🔄 Acts 6:4 (attempt 2, 91 words, 40.98% quotes quality score: 1.8168367358009019, V2 normalized quality score: 51.75, commentator tiers 1-3: 14.69%, 49.72%, 35.59%) 
+- Attempt 2 BHT: The apostles' noblest duty was the ministry of the word, devoting themselves to prayer and steadfastly persisting in their mission. They recognized its paramount importance and considered it their primary occupation, separate from worldly cares and the church's temporal needs. Their constant and undistracted focus on preaching the gospel and communicating the message of eternal life demonstrated their complete dedication to this task. This work required not only teaching and studying, but also seeking the Lord's blessing for fruitful labor.
+- 🔄 Acts 6:4 (attempt 2, 82 words, 29.69% quotes quality score: 1.8176960894323915, V2 normalized quality score: 51.78, commentator tiers 1-3: 14.9%, 48.76%, 36.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The apostles recognized that the noblest portion of their work was to dedicate themselves completely to prayer and the ministry of the word. They understood that no other task could take precedence over this sacred duty. They committed themselves steadfastly to public prayer and preaching, undistracted by worldly cares or the temporal needs of the church. Prayer and preaching were their main employment, and they were wholly devoted to these essential aspects of their ministry.
-- 🔄 Acts 6:4 (attempt 3, 75 words, 38.0% quotes quality score: 1.8151452112253375, V2 normalized quality score: 51.7, commentator tiers 1-3: 14.89%, 50.28%, 34.83%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The apostles esteemed prayer and the ministry of the word as the noblest portion of their work. They were fully aware that no one else could fulfill this duty on their behalf and believed that no other task could supersede it. Their commitment to public prayer and preaching was unwavering, as they gave themselves continually to these essential aspects of their ministry. They understood the significance of seeking God's blessing and guidance through prayer and recognized that preaching was the special ministry entrusted to them. Their lives were wholly devoted to prayer and the proclamation of God's word, their primary and all-encompassing employment.
-- 🔄 Acts 6:4 (attempt 4, 106 words, 35.94% quotes quality score: 1.7850495826512076, V2 normalized quality score: 50.69, commentator tiers 1-3: 14.08%, 48.64%, 37.28%) 
+- Attempt 3 BHT: Committing themselves to the ministry of the word, the apostles recognized its significance and considered it their noblest task. Their unwavering dedication involved continually giving themselves to prayer and steadfastly persisting in their mission. This primary occupation required them to separate from worldly concerns and the temporal needs of the church. Emphasizing the preaching of the gospel and communicating the message of eternal life, they fully devoted their lives to this sacred calling, seeking the Lord's blessing for fruitful labor.
+- 🔄 Acts 6:4 (attempt 3, 81 words, 23.73% quotes quality score: 1.8005865601462991, V2 normalized quality score: 51.21, commentator tiers 1-3: 15.66%, 48.59%, 35.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The apostles acknowledged that their primary duty was not to delegate their responsibilities, but rather to give themselves wholeheartedly to prayer and the ministry of the word. They understood that this was the noblest portion of their work and that no other task could take precedence. They were devoted to public prayer, as well as preaching, recognizing the importance of seeking God's blessing and guidance in their ministry. Their commitment to prayer and preaching was unwavering, devoting their lives wholly to these essential aspects of their calling.
-- 🔄 Acts 6:4 (attempt 5, 88 words, 40.35% quotes quality score: 1.7810555926718528, V2 normalized quality score: 50.56, commentator tiers 1-3: 14.13%, 50.25%, 35.62%) 
+- Attempt 4 BHT: The apostles acknowledged the ministry of the word as their noblest portion and committed themselves wholeheartedly to it. They understood that their primary focus should be on prayer and preaching, considering them their main and only employment. This dedication meant separating from worldly cares and attending to the eternal needs of the world. By giving themselves continually to prayer and steadfastly persisting in their mission, they demonstrated their unwavering commitment to this vital work, seeking the Lord's blessing for fruitful labor.
+- 🔄 Acts 6:4 (attempt 4, 82 words, 32.79% quotes quality score: 1.7629074603300587, V2 normalized quality score: 49.96, commentator tiers 1-3: 15.73%, 46.08%, 38.18%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 6:4 bht prompt v0.8 (91 words, 40.98% quotes)
-- quality score: 1.8168367358009019, V2 normalized quality score: 51.75, commentator tiers 1-3: 14.69%, 49.72%, 35.59%)
+- Attempt 5 BHT: The apostles recognized the ministry of the word as their noblest portion, their primary occupation. They gave themselves continually to prayer and steadfastly persisted in their mission, understanding the need to separate from worldly concerns and attend to the spiritual needs of the world. By devoting themselves wholly to prayer and preaching, they demonstrated their commitment to this vital work, seeking the Lord's blessing for fruitful labor. Their undivided attention to the gospel and the message of eternal life showcased their complete dedication to this sacred calling.
+- 🔄 Acts 6:4 (attempt 5, 88 words, 21.67% quotes quality score: 1.8651010242883213, V2 normalized quality score: 53.36, commentator tiers 1-3: 16.89%, 47.16%, 35.94%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 6:4 bht prompt v0.8 (88 words, 21.67% quotes)
+- quality score: 1.8651010242883213, V2 normalized quality score: 53.36, commentator tiers 1-3: 16.89%, 47.16%, 35.94%)

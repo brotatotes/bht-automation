@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 21:50:57",
+    "timestamp": "12-25-2023 19:31:51",
     "verseRef": "Revelation 22:9",
     "bestBHT": {
-        "bht": "The angel's strong and urgent prohibition against worship echoes the importance of dedicating worship solely to God. Unlike the fallen angel's temptation of Jesus, the angel emphasizes the need to worship God alone. By recognizing John's spiritual brotherhood with the prophets, the angel underscores their collective duty in revealing significant insights about the future. This shared service encourages all believers to offer worship to God exclusively, acknowledging His absolute sovereignty.",
-        "wordCount": 73,
-        "quoteTokenProportion": 26.92,
-        "qualityScore": 1.8959534013193253,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+        "bht": "The angel's abruptness in prohibiting worship reflects his aversion, contrasting with the fallen angel's temptation of Jesus. The angel's interposition emphasizes worshipping God alone, not angels. Furthermore, thy brethren the prophets highlights John's spiritual brotherhood with the prophets, demonstrating the unity of believers. All creatures, including angels, are fellow servants before God, and it is their duty to encourage and support one another in their shared service.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.9161776300918945,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.05,
         "commentatorTierSimilarities": [
-            37.89,
-            36.21,
-            25.9
+            44.29,
+            30.22,
+            25.49
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "See not; the abruptness of the phrase marking the angel's abhorrence of the thought of his being worshipped however indirectly.",
             "Contrast the fallen angel's temptation to Jesus, 'Fall down and worship me' (Matthew 4:9).",
-            "Which accords with the abrupt earnestness of the angel's prohibition of an act derogatory to God."
+            "Accords with the abrupt earnestness of the angel's prohibition of an act derogatory to God."
         ],
         "Albert Barnes": [
-            "For I am thy fellow-servant... Like them, he had merely been employed to disclose important truths in regard to the future; but as the prophets, even the most eminent of them, were not regarded as entitled to worship on account of the communications which they had made, no more was he.",
-            "And of them which keep the sayings of this book... The 'sayings of this book' which he says he kept, must be understood to mean those great principles of religion which it enjoined, and which are of equal obligation on human beings and angels.",
-            "Worship God - Worship God only."
+            "For I am thy fellow-servant - notes on Revelation 19:10.",
+            "And of thy brethren the prophets - In Revelation 19:10, it is 'of thy brethren that have the testimony of Jesus.'",
+            "And of them which keep the sayings of this book - 'I am a mere creature of God.'"
         ],
         "Marvin Vincent": [
             "See thou do it not [\u03bf\u03c1\u03b1 \u03bc\u03b7] . Lit., see not. ",
@@ -36,13 +36,13 @@
         ],
         "Archibald T. Robertson": [
             "See thou do it not (H\u03bf\u03c1\u03b1 \u03bc\u03b7). The angel promptly interposes (\u03bb\u03b5\u03b3\u03b5, dramatic present).\" ",
-            "Here we have added to the words in Revelation 19:10 'the prophets (\u03c4\u03c9\u03bd \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03c9\u03bd) and also 'them which keep the words of this book' (\u03c4\u03c9\u03bd \u03c4\u03b7\u03c1\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd \u03c4\u03bf\u03c5\u03c2 \u03bb\u03bf\u03b3\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5), the last a repetition from Revelation 22:7.",
-            "In both places we have 'Worship God' (\u03c4\u03c9 \u03b8\u03b5\u03c9 \u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b7\u03c3\u03bf\u03bd). And not an angel."
+            "In both places we have 'Worship God' (\u03c4\u03c9 \u03b8\u03b5\u03c9 \u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b7\u03c3\u03bf\u03bd). And not an angel.\" ",
+            "Here we have added to the words in Revelation 19:10 'the prophets (\u03c4\u03c9\u03bd \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03c9\u03bd) and also 'them which keep the words of this book' (\u03c4\u03c9\u03bd \u03c4\u03b7\u03c1\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd \u03c4\u03bf\u03c5\u03c2 \u03bb\u03bf\u03b3\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5), the last a repetition from Revelation 22:7."
         ],
         "John Gill": [
-            "For I am thy fellow servant: of God, and of Christ, and am no more the object of worship than thyself; and both of us are, and ought to be, the worshippers of God, whose servants we are.",
-            "and of them which keep the sayings of this book;...and shows the great condescension of the angel to put himself, not only upon a level with John, and the ministers of the word, but with common believers.",
-            "Worship God; and him only, and that in a spiritual manner, with reverence and godly fear, in faith, and according to his revealed will."
+            "for I am thy fellow servant: of God, and of Christ, and am no more the object of worship than thyself; and both of us are, and ought to be, the worshippers of God, whose servants we are",
+            "and of thy brethren the prophets; the apostles and ministers of the word; for prophesying and preaching are the same thing",
+            "and of them which keep the sayings of this book;... and shows the great condescension of the angel to put himself, not only upon a level with John, and the ministers of the word, but with common believers"
         ],
         "John Wesley": [
             "See thou do it not|-The expression in the original is short and elliptical, as is usual in showing vehement aversion."
@@ -65,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The angel in Revelation 22:9 urges against worship, emphasizing the importance of directing worship solely to God. The abruptness of the phrase signifies the angel's strong disapproval of any act that detracts from God's glory. In contrast to the fallen angel's temptation to Jesus, the angel's response highlights the need to worship God alone. Furthermore, the angel includes John as a spiritual brother with the prophets, emphasizing their shared role in revealing important truths about the future. By expressing their mutual service and encouraging one another, all believers are called to worship God, recognizing His supreme authority.",
-            "wordCount": 100,
-            "quoteTokenProportion": 31.34,
-            "qualityScore": 1.9294868056058796,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "bht": "The angel's abruptness in prohibiting worship reflects his strong aversion to even indirect worship, contrasting with the fallen angel's earlier temptation of Jesus to worship him. The angel's prompt interposition emphasizes the importance of worshipping God alone, not angels. Furthermore, the inclusion of thy brethren the prophets highlights John's spiritual brotherhood with the prophets, demonstrating the unity of believers in their mutual service to God. Christians are reminded that all creatures, including angels, are fellow servants before God, and it is their duty to encourage and support one another in their shared service.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8985444519629393,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
             "commentatorTierSimilarities": [
-                38.36,
-                34.11,
-                27.54
+                42.49,
+                30.57,
+                26.94
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The angel in this passage urges against worship, emphasizing the importance of directing worship solely to God. The abruptness of the angel's phrase signifies their strong disapproval of any act that detracts from God's glory. In contrast to the fallen angel's temptation to Jesus, the angel's response highlights the need to worship God alone. By expressing their mutual service and encouraging one another, all believers are called to worship God, recognizing His supreme authority.",
-            "wordCount": 78,
-            "quoteTokenProportion": 34.62,
-            "qualityScore": 1.9644257264100062,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "bht": "The angel's abruptness in prohibiting worship reflects his aversion, contrasting with the fallen angel's temptation of Jesus. The angel's interposition emphasizes worshipping God alone, not angels. Furthermore, thy brethren the prophets highlights John's spiritual brotherhood with the prophets, demonstrating the unity of believers. All creatures, including angels, are fellow servants before God, and it is their duty to encourage and support one another in their shared service.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.9161776300918945,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
             "commentatorTierSimilarities": [
-                36.49,
-                34.93,
-                28.58
+                44.29,
+                30.22,
+                25.49
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The angel forcefully warns against worship, emphasizing the exclusive devotion that is due to God. The abruptness of the angel's words underlines their strong rejection of any act that might diminish the glory of God. In contrast to the fallen angel's temptation to Jesus, the angel's response emphasizes the necessity of worshiping God alone. By acknowledging the fellowship between John and the prophets, the angel highlights the shared role they have in revealing important truths about the future. This mutual service calls all believers to bow in worship before God and His supreme sovereignty.",
-            "wordCount": 97,
-            "quoteTokenProportion": 33.85,
-            "qualityScore": 1.8708729511834767,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "bht": "The angel's abrupt prohibition of worship reveals his abhorrence of being worshipped, even in an indirect manner, contrasting with the fallen angel's temptation of Jesus. The angel's interposition underscores the importance of worshipping God alone, not angels. Additionally, the inclusion of thy brethren the prophets emphasizes John's spiritual connection with the prophets, highlighting the unity of believers. It reminds Christians that all creatures, including angels, are fellow servants before God, and it is their responsibility to support and encourage one another as they serve God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8902510290918206,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
             "commentatorTierSimilarities": [
-                37.01,
-                34.31,
-                28.67
+                43.38,
+                29.79,
+                26.82
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The angel's urgent warning against worship underscores the exclusive reverence due to God. The angel's strong rejection of any act detracting from God's glory contrasts with the temptation Jesus faced. By acknowledging John's fellowship with the prophets, the angel highlights their shared responsibility in disclosing future truths. This mutual service compels believers to worship God alone, recognizing His supreme authority.",
-            "wordCount": 64,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.8200701781291104,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "bht": "The angel's abrupt prohibition indicates his abhorrence of being worshipped, contrasting with the fallen angel's temptation of Jesus. It emphasizes the importance of worshipping God alone, not angels. The mention of thy brethren the prophets illustrates John's spiritual connection with the prophets, highlighting the unity of believers. All creatures, including angels, are fellow servants before God, and it is their duty to support and encourage one another as they serve God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.9043100274337021,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
             "commentatorTierSimilarities": [
-                38.48,
-                34.55,
-                26.97
+                43.12,
+                30.97,
+                25.91
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The angel's strong and urgent prohibition against worship echoes the importance of dedicating worship solely to God. Unlike the fallen angel's temptation of Jesus, the angel emphasizes the need to worship God alone. By recognizing John's spiritual brotherhood with the prophets, the angel underscores their collective duty in revealing significant insights about the future. This shared service encourages all believers to offer worship to God exclusively, acknowledging His absolute sovereignty.",
+            "bht": "The angel quickly intervenes, vehemently rejecting any form of worship, contrasting with the temptations faced by Jesus. This underscores the imperative to worship God alone, not angels. Thy brethren the prophets highlights John's spiritual bond with the prophets, reflecting the unity of believers. All creatures, including angels, serve God, belonging to the same fellowship of service. Thus, their responsibility is to uplift and support one another in their mutual devotion to God.",
             "wordCount": 73,
-            "quoteTokenProportion": 26.92,
-            "qualityScore": 1.8959534013193253,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7147140023048106,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
             "commentatorTierSimilarities": [
-                37.89,
-                36.21,
-                25.9
+                41.14,
+                33.43,
+                25.43
             ],
             "generationAttempt": 5
         }

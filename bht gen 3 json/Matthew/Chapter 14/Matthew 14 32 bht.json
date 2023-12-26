@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:48:13",
+    "timestamp": "12-25-2023 19:30:00",
     "verseRef": "Matthew 14:32",
     "bestBHT": {
-        "bht": "The disciples, in awe of their Master's power, immediately found themselves at their intended destination. The wind, recognizing the presence of its Creator, grew weary and exhausted itself, bringing about a calm. In worshipping Him, the disciples acknowledged His divinity, while the wind's stillness further displayed His power. Both winds and sea proved themselves obedient to their Lord, establishing His dominion over them.",
-        "wordCount": 65,
-        "quoteTokenProportion": 38.78,
-        "qualityScore": 1.7646618547381119,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+        "bht": "When they had come into the boat, the wind grew weary and ceased, as if exhausted in the presence of its Master. This was another proof that the Son of God was with them. They worshipped him, acknowledging his divine power. The boat being immediately at the land where they were going could be attributed to either the wind driving them there or another miracle. The wind and sea obeyed Jesus, who is Lord of both.",
+        "wordCount": 76,
+        "quoteTokenProportion": 55.17,
+        "qualityScore": 1.9065801535543803,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.74,
         "commentatorTierSimilarities": [
-            27.82,
-            26.78,
-            45.39
+            24.72,
+            33.63,
+            41.65
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -24,26 +24,25 @@
         ],
         "Albert Barnes": [
             "He that has power over winds and waves has all power.",
-            "The ship was immediately at the land whither they went; another proof, amid this collection of wonders, that the Son of God was with them.",
+            "Another proof, amid this collection of wonders, that the Son of God was with them.",
             "They came, therefore, and worshipped him, acknowledging him to be the Son of God."
         ],
         "Marvin Vincent": [
             "Ceased [\u03b5\u03ba\u03bf\u03c0\u03b1\u03c3\u03b5\u03bd] . A beautiful word. Lit., grew weary; sank away like one who is weary."
         ],
         "Philip Schaff": [
-            "John (John 6:21) speaks of the boat being immediately \u2018at the land whither they went\u2019",
-            "This was on the western side of the lake",
-            "We may either suppose that the wind during the night had driven them near that shore, or accept another miracle"
+            "John (John 6:21) speaks of the boat being immediately 'at the land whither they went.'",
+            "This was on the western side of the lake, and we may either suppose that the wind during the night had driven them near that shore.",
+            "Or accept another miracle."
         ],
         "Archibald T. Robertson": [
             "The wind grew weary or tired, exhausted itself in the presence of its Master.",
             "Not a mere coincidence that the wind ceased now.",
-            "The wind ceased in the presence of its Master."
+            "The wind ceased now."
         ],
         "John Gill": [
-            "The wind ceased: from blowing with that fury and violence it did before, and there was a perfect calm.",
-            "Which gave equal proof of the divine power of Christ, as his walking upon the sea.",
-            "Both winds and sea obey him, who is Lord of both."
+            "The wind ceased: from blowing with that fury and violence it did before, and there was a perfect calm; which gave equal proof of the divine power of Christ, as his walking upon the sea.\" ",
+            "He walked upon the sea whilst the wind was blowing hard, and the waves were tumultuous; he comes into the ship, and all is calm; both winds and sea obey him, who is Lord of both."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples, in awe of their Master's power, boarded the boat and immediately found themselves at their intended destination. The wind, recognizing the presence of its Creator, grew weary and exhausted itself, bringing about a calm. This was not a mere coincidence, but rather a testament to the authority that Jesus held over all creation. In worshipping Him, the disciples acknowledged Him as the Son of God. The wind's cessation was another sign of His divinity, just as significant as His ability to walk on water. In that moment, both the winds and the sea proved themselves to be obedient to their Lord.",
-            "wordCount": 105,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.719604485817043,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "bht": "When they had come into the boat, the wind grew weary and ceased, as if exhausted in the presence of its Master. This was not a mere coincidence, but another proof that the Son of God was with them. They came and worshipped him, acknowledging his divine power. John also speaks of the boat being immediately at the land where they were going, which could be attributed to either the wind driving them there or accepting another miracle. It is truly remarkable how the wind and sea obeyed Jesus, who is Lord over both.",
+            "wordCount": 94,
+            "quoteTokenProportion": 54.05,
+            "qualityScore": 1.9062190387287674,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
             "commentatorTierSimilarities": [
-                25.43,
-                32.39,
-                42.18
+                24.23,
+                33.29,
+                42.48
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples, in awe of their Master's power, immediately found themselves at their intended destination as the wind grew weary in the presence of its Creator. This cessation was not a mere coincidence, but a testament to Jesus' authority over all creation. In worshipping Him, the disciples acknowledged His divinity, while the wind's stillness further displayed His power. Both winds and sea proved themselves obedient to their Lord, establishing His dominion over them.",
-            "wordCount": 75,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.7161841798858677,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "bht": "When they had come into the boat, the wind grew weary and ceased, as if exhausted in the presence of its Master. This was not a coincidence, but another proof that the Son of God was with them. They worshipped him, acknowledging his divine power. John also speaks of the boat being immediately at the land where they were going, which could be attributed to either the wind driving them there or accepting another miracle. The wind and sea obeyed Jesus, who is Lord over both.",
+            "wordCount": 86,
+            "quoteTokenProportion": 55.88,
+            "qualityScore": 1.9054980518535336,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
             "commentatorTierSimilarities": [
-                25.08,
-                30.6,
-                44.32
+                24.86,
+                33.59,
+                41.54
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples, in awe of their Master's power, boarded the boat and immediately found themselves at their intended destination. The wind, recognizing the presence of its Creator, grew weary and exhausted itself, bringing about a calm. This was not a mere coincidence, but rather a testament to the authority that Jesus held over all creation. In worshiping Him, the disciples acknowledged Him as the Son of God. The wind's cessation was another sign of His divinity, just as significant as His ability to walk on water. In that moment, both the winds and the sea proved themselves obedient to their Lord.",
-            "wordCount": 103,
-            "quoteTokenProportion": 38.03,
-            "qualityScore": 1.708809606944414,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.16,
+            "bht": "When they had come into the boat, the wind grew weary and ceased, as if exhausted in the presence of its Master. This was another proof that the Son of God was with them. They worshipped him, acknowledging his divine power. John also speaks of the boat being immediately at the land where they were going, which could be attributed to either the wind driving them there or another miracle. The wind and sea obeyed Jesus, who is Lord of both.",
+            "wordCount": 81,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.9062498903646734,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
             "commentatorTierSimilarities": [
-                25.14,
-                32.54,
-                42.32
+                23.92,
+                34.74,
+                41.34
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples, in awe of their Master's power, found themselves at their destination as the wind grew weary in the presence of its Creator. This cessation was not a mere coincidence, but a testament to Jesus' authority over creation. In worshiping Him, the disciples acknowledged His divinity. The wind's stillness displayed His power. Both the winds and the sea proved obedient to their Lord, demonstrating His dominion over them.",
-            "wordCount": 71,
-            "quoteTokenProportion": 39.22,
-            "qualityScore": 1.6638628640879651,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "bht": "When they had come into the boat, the wind grew weary and ceased, as if exhausted in the presence of its Master. This was another proof that the Son of God was with them. They worshipped him, acknowledging his divine power. The boat being immediately at the land where they were going could be attributed to either the wind driving them there or another miracle. The wind and sea obeyed Jesus, who is Lord of both.",
+            "wordCount": 76,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 1.9065801535543803,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
             "commentatorTierSimilarities": [
-                25.19,
-                29.58,
-                45.23
+                24.72,
+                33.63,
+                41.65
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples, in awe of their Master's power, immediately found themselves at their intended destination. The wind, recognizing the presence of its Creator, grew weary and exhausted itself, bringing about a calm. In worshipping Him, the disciples acknowledged His divinity, while the wind's stillness further displayed His power. Both winds and sea proved themselves obedient to their Lord, establishing His dominion over them.",
-            "wordCount": 65,
-            "quoteTokenProportion": 38.78,
-            "qualityScore": 1.7646618547381119,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "bht": "When the disciples finally made it back to the boat, the wind suddenly ceased, as if exhausted in the presence of its Master. It was not a mere coincidence that the wind ceased now; it was another proof that the Son of God was with them. In awe and reverence, they worshipped Him, acknowledging His divine power. John even adds that as soon as they entered the boat, they were immediately at the land they were headed to. This was either due to the wind driving them near that shore or another miracle of Christ. It is clear that the wind and the sea both obey Him, for He is the Lord of both.",
+            "wordCount": 114,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.9343315712232125,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
             "commentatorTierSimilarities": [
-                27.82,
-                26.78,
-                45.39
+                25.27,
+                30.26,
+                44.47
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:07:24",
+    "timestamp": "12-25-2023 19:29:57",
     "verseRef": "John 6:61",
     "bestBHT": {
-        "bht": "Jesus, knowing their thoughts, asked, If you stumble at what I have said, how will you bear what I now say? He understood that the mention of His ascension, after their reaction to His death, would only add to their confusion. Their minds were not prepared to grasp the truth. Jesus was aware of their murmuring and the offense it caused, for He had supernatural insight into their thoughts. This doctrine did not just wound them; it exposed the deep-seated issues in their hearts.",
-        "wordCount": 85,
-        "quoteTokenProportion": 51.56,
-        "qualityScore": 1.6983898903144738,
-        "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+        "bht": "When Jesus knew in himself that his disciples were stumbling over his words, he sought to help them understand. He revealed that if they were struggling with what he had said thus far, they would find it even more difficult to comprehend what he was about to say. He acknowledged that his teachings might expose the hidden doubts and unbelief that they harbored in their hearts. Jesus desired to address their concerns and reassure them. Just as Jesus knew their thoughts, he knows our hearts and invites us to come to him for understanding when we find his teachings challenging or perplexing.",
+        "wordCount": 102,
+        "quoteTokenProportion": 50.72,
+        "qualityScore": 1.8107739524225224,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.55,
         "commentatorTierSimilarities": [
-            29.13,
-            43.26,
-            27.61
+            24.01,
+            49.55,
+            26.44
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -20,30 +20,31 @@
         ],
         "Jamieson-Fausset-Brown": [
             "If ye are stumbled at what I have said, how will ye bear what I now say?",
-            "Not that His ascension itself would stumble them more than His death.",
-            "After recoiling from the mention of the one, they would not be in a state of mind to take in the other."
+            "Not that His ascension itself would stumble them more than His death, but that after recoiling from the mention of the one, they would not be in a state of mind to take in the other.",
+            "they would not be in a state of mind to take in the other."
         ],
         "Marvin Vincent": [
             "Offend [\u03bf\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03b6\u03b5\u03b9] . Rev., cause to stumble. See on Matthew 5:29. Wyc., slandereth you."
         ],
         "John Calvin": [
-            "The doctrine does not so much wound them as it exposes the putrid ulcer which they inwardly nourished in their hearts.\" ",
-            "Thus we ought to repress the wickedness of those who, urged on by nothing but the rage of mastiff dogs, slander the word of God.",
-            "When we do not immediately perceive the Lord\u2019s meaning, there is nothing better than to go straight to him, that he may solve all our difficulties."
+            "the doctrine does not so much wound them as it exposes the putrid ulcer which they inwardly nourished in their hearts.",
+            "thus we ought to repress the wickedness of those who, urged on by nothing but the rage of mastiff dogs, slander the word of God",
+            "when we do not immediately perceive the Lord\u2019s meaning, there is nothing better than to go straight to him, that he may solve all our difficulties"
         ],
         "Philip Schaff": [
-            "He knew their thoughts, and because they are disciples, not Jews bent on opposing Him, He seeks to help them.",
-            ""
+            "Doth this make you to stumble?\" - Jesus, knowing in himself that his disciples murmured concerning this, said unto them, Doth this make you to stumble?",
+            "He knew their thoughts.\" - He knew their thoughts, and because they are disciples, not Jews bent on opposing Him.",
+            "He seeks to help them.\" - He seeks to help them."
         ],
         "Archibald T. Robertson": [
-            "Knowing in himself (\u03b5\u03b9\u03b4\u03c9\u03c2 \u03b5\u03bd \u03b5\u03b1\u03c5\u03c4\u03c9). Second perfect active participle of \u03bf\u03b9\u03b4\u03b1. See John 2:25 for this supernatural insight into men's minds.",
-            "Murmured (\u03b3\u03bf\u03b3\u03b3\u03c5\u03b6\u03bf\u03c5\u03c3\u03b9\u03bd). Present active indicative retained in indirect discourse. See John 6:41 for \u03b3\u03bf\u03b3\u03b3\u03c5\u03b6\u03c9.",
-            "Cause to stumble (\u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03b6\u03b5). Common Synoptic verb from \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03bf\u03bd for which see Matthew 5:29. In John again only in John 16:1."
+            "Knowing in himself...for this supernatural insight into men's minds.\" ",
+            "Murmured...see John 6:41 for \u03b3\u03bf\u03b3\u03b3\u03c5\u03b6\u03c9.\" ",
+            "Cause to stumble...for which see Matthew 5:29."
         ],
         "John Gill": [
-            "When Jesus knew in himself... being the omniscient God.\" ",
-            "Does this offend you? or trouble you? cannot you get over this?\" ",
-            "If not, how will you be able to digest some other things, or reconcile them to your minds, which are less known, and more unexpected, and will appear at first sight more surprising?"
+            "When Jesus knew in himself... being the omniscient God...\" (Quote 1)",
+            "Does this offend you? or trouble you? cannot you get over this? cannot you understand it?\" (Quote 2)",
+            "If not, how will you be able to digest some other things, or reconcile them to your minds, which are less known, and more unexpected, and will appear at first sight more surprising?\" (Quote 3)"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +64,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus, fully aware of their thoughts, said to them, If you are stumbled by what I have said, how will you bear what I now say? He knew that mentioning His ascension would further trouble them, as they were still grappling with the idea of His death. Their hearts were not in a state to comprehend such profound truths. Jesus understood their murmuring and the offense it caused, for He possessed supernatural insight into their minds. This doctrine did not merely wound them; it exposed the festering ulcers in their hearts. Those who slandered the word of God through their rage and malice were to be silenced. When we struggle to understand the Lord's teachings, it is best to approach Him directly, seeking His guidance to resolve our doubts. Jesus questioned whether their offense at this truth would hinder their ability to accept even more incomprehensible and surprising truths.",
-            "wordCount": 150,
-            "quoteTokenProportion": 45.79,
-            "qualityScore": 1.581178450539206,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "bht": "When Jesus knew in himself that his disciples were stumbling over his words, he sought to help them understand. He revealed that if they were struggling with what he had said thus far, they would find it even more difficult to comprehend what he was about to say. He acknowledged that his teachings might expose the hidden doubts and unbelief that they harbored in their hearts. Jesus desired to address their concerns and reassure them. Just as Jesus knew their thoughts, he knows our hearts and invites us to come to him for understanding when we find his teachings challenging or perplexing.",
+            "wordCount": 102,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.8107739524225224,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.55,
             "commentatorTierSimilarities": [
-                25.31,
-                42.1,
-                32.58
+                24.01,
+                49.55,
+                26.44
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus, knowing their thoughts, asked, If you stumble at what I have said, how will you bear what I now say? He understood that the mention of His ascension, after their reaction to His death, would only add to their confusion. Their minds were not prepared to grasp the truth. Jesus was aware of their murmuring and the offense it caused, for He had supernatural insight into their thoughts. This doctrine did not just wound them; it exposed the deep-seated issues in their hearts.",
+            "bht": "Jesus, being the omniscient God, knew in himself that his disciples were stumbling over his words. He asked them if his teachings were causing them offense, recognizing that if they were troubled by what he had said so far, they would struggle even more with what was to come. Jesus understood that his words had the power to expose the doubts and skepticism hidden within their hearts. He wanted to help them grasp his teachings and urged them to seek him for clarity and understanding.",
             "wordCount": 85,
-            "quoteTokenProportion": 51.56,
-            "qualityScore": 1.6983898903144738,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.8393752203251745,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
             "commentatorTierSimilarities": [
-                29.13,
-                43.26,
-                27.61
+                22.75,
+                51.44,
+                25.81
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus, fully aware of their thoughts, questioned them, saying, If you are stumbled by what I have said, how will you bear what I now say? He understood that the mention of His ascension would further trouble them, as they struggled to comprehend even His death. Their hearts were not in a state to accept these profound truths. Jesus knew their murmuring and the offense it caused, for His divine knowledge went beyond what human minds could fathom.",
-            "wordCount": 78,
-            "quoteTokenProportion": 52.31,
-            "qualityScore": 1.655284740771512,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "bht": "Jesus, being the omniscient God, knew in himself that his disciples were stumbling over his words. He asked them if his teachings were causing them offense, recognizing that if they were troubled by what he had said so far, they would struggle even more with what was to come. Jesus understood that his words had the power to expose the doubts hidden within their hearts. He wanted to help them understand and encouraged them to seek him for clarity and understanding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8209004743076047,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
             "commentatorTierSimilarities": [
-                31.11,
-                37.73,
-                31.17
+                21.97,
+                52.08,
+                25.95
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus, knowing their thoughts, addresses His disciples and asks them, If you are stumbled at what I have said, how will you bear what I now say? After recoiling from the mention of the one, they would not be in a state of mind to take in the other. He seeks to help them understand, as they are His disciples. The doctrine does not wound them, but rather exposes the putrid ulcers they nourish in their hearts. Jesus wants to repress the wickedness of those who slander the word of God out of rage. When we do not perceive the Lord's meaning, it is best to go to Him directly for clarification. Jesus, being the omniscient God, asks, Does this offend you? Cannot you get over this? If not, how will you be able to digest other things, which will appear more surprising?",
-            "wordCount": 144,
-            "quoteTokenProportion": 54.17,
-            "qualityScore": 1.5692953162259826,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "bht": "Jesus, knowing in himself that his disciples were stumbling over his words, questioned if his teachings were causing them offense, understanding that if they were troubled by what he had said thus far, they would struggle even more with what was to come. He recognized that his words had the ability to expose the doubts hidden within their hearts. Seeking to assist them, he encouraged them to turn to him for guidance and clarity in comprehending his teachings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.7856121420598043,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
             "commentatorTierSimilarities": [
-                25.34,
-                37.58,
-                37.08
+                22.45,
+                52.28,
+                25.28
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus, knowing their thoughts, asks His disciples, If you are stumbled at what I have said, how will you bear what I now say? He wants to help them understand, as they are His disciples. The doctrine does not wound them, but rather exposes the ulcers in their hearts. Jesus seeks to repress the wickedness of those who slander God's word. When we do not perceive the Lord's meaning, it is best to go to Him for clarification. Jesus, being the omniscient God, asks, Does this offend you? Cannot you get over this? If not, how will you be able to digest other surprising things?",
-            "wordCount": 107,
-            "quoteTokenProportion": 55.26,
-            "qualityScore": 1.5773572092584498,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "bht": "Knowing in himself that his disciples were stumbling over his words, Jesus questioned if his teachings were causing them offense, as he understood that if they were troubled by what he had said thus far, they would struggle even more with what was to come. Jesus acknowledged that his words had the power to expose the doubts hidden within their hearts. Seeking to help them, he encouraged them to seek him for guidance and clarity in understanding his teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.8636509666909273,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
             "commentatorTierSimilarities": [
-                24.73,
-                37.81,
-                37.46
+                23.42,
+                50.69,
+                25.9
             ],
             "generationAttempt": 5
         }

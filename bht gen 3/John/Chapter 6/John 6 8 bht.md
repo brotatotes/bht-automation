@@ -1,13 +1,13 @@
 # John 6:8 Commentary Help Text
 
 ## BHT:
-One of His disciples, Andrew, the brother of Simon Peter, contributes significantly to the narrative. Andrew's noteworthy role includes bringing Simon to Christ and frequently being mentioned alongside Philip. It is interesting to observe the discrepancies in the portrayal of the disciples' ownership of the loaves and fishes in different Gospel accounts. Additionally, Andrew's involvement is highlighted by his reception of the revelation regarding the writing of the Fourth Gospel. Though his faith may have been similar to Philip's, Andrew's part in the unfolding of Jesus' ministry is crucial.
+One of His disciples, Andrew, is mentioned in this narrative, even though Philip is also a disciple. This slight variation in detail showcases the ways in which differences arise within the Gospels. Andrew's significance lies in his role of introducing Simon Peter to Christ. Notably, Philip and Andrew are mentioned together in another instance, underscoring their connection.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Meyer remarks, that the words one of His disciples may seem strange, seeing that Philip also was this: but that it has its value in the narrative."
-2. "In the three other Gospels, the loaves and fishes appear as the disciples’ own;—and we have thus a very simple but very instructive instance of the way in which differences in detail arose."
-3. "They were their own,—but not till they had bought them."
+1. "The words one of His disciples may seem strange, seeing that Philip also was this: but that it has its value in the narrative." 
+2. "In the three other Gospels, the loaves and fishes appear as the disciples’ own."
+3. "We have thus a very simple but very instructive instance of the way in which differences in detail arose."
 
 ### Philip Schaff:
 1. "On the appellation here given to Andrew see on chap. John 1:40."
@@ -15,55 +15,49 @@ One of His disciples, Andrew, the brother of Simon Peter, contributes significan
 
 ### Archibald T. Robertson:
 1. "The great distinction of Andrew was precisely this that he brought Simon to Christ."
-2. "Philip and Andrew appear together again in John 12:20-22, but in the Synoptics he is distinguished only in Mark 13:3."
+2. "Philip and Andrew appear together again in John 12:20-22."
 3. "In the Muratorian Fragment Andrew received the revelation for John to write the Fourth Gospel."
 
 ### John Gill:
-1. "One of his disciples, Andrew, Simon Peter's brother.... Who also, and his brother Peter, were of Bethsaida, as well as Philip, and was a disciple of Christ's."
-2. "hearing what Christ said to Philip, and what answer he returned,"
+1. "One of his disciples, Andrew, Simon Peter's brother.... Who also, and his brother Peter, were of Bethsaida, as well as Philip." 
+2. "hearing what Christ said to Philip, and what answer he returned"
 3. "saith unto him; to Christ, with but little more faith than Philip, if any."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-25-2023 19:23:23
+- Timestamp: 12-25-2023 19:28:56
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 29.31%
-- BHT Quality Score: 1.6492900250852944
+- BHT Word Count: 58
+- BHT Commentary Usage: 42.22%
+- BHT Quality Score: 1.9219198387121554
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['accounts', 'additionally', 'alongside', 'and', 'andrew', 'been', 'being', 'bringing', 'brother', 'by', 'christ', 'contributes', 'crucial', 'different', 'disciples', 'discrepancies', 'faith', 'fishes', 'fourth', 'frequently', 'gospel', 'have', 'highlighted', 'his', 'in', 'includes', 'interesting', 'involvement', 'is', 'it', 'jesus', 'loaves', 'may', 'mentioned', 'ministry', 'narrative', 'noteworthy', 'observe', 'of', 'one', 'ownership', 'part', 'peter', 'philip', 'portrayal', 'reception', 'regarding', 'revelation', 'role', 's', 'significantly', 'similar', 'simon', 'the', 'though', 'to', 'unfolding', 'writing']
-- ChatGPT injected words (significant words only) (41):
-	['accounts', 'additionally', 'alongside', 'andrew', 'bringing', 'brother', 'christ', 'contributes', 'crucial', 'different', 'disciples', 'discrepancies', 'faith', 'fishes', 'fourth', 'frequently', 'gospel', 'highlighted', 'includes', 'interesting', 'involvement', 'jesus', 'loaves', 'mentioned', 'ministry', 'narrative', 'noteworthy', 'observe', 'ownership', 'peter', 'philip', 'portrayal', 'reception', 'revelation', 'role', 's', 'significantly', 'similar', 'simon', 'unfolding', 'writing']
+- ChatGPT injected words (45):
+	['a', 'also', 'and', 'andrew', 'another', 'are', 'arise', 'christ', 'connection', 'detail', 'differences', 'disciple', 'disciples', 'even', 'gospels', 'his', 'in', 'instance', 'introducing', 'is', 'lies', 'mentioned', 'narrative', 'notably', 'of', 'one', 'peter', 'philip', 'role', 's', 'showcases', 'significance', 'simon', 'slight', 'the', 'their', 'this', 'though', 'to', 'together', 'underscoring', 'variation', 'ways', 'which', 'within']
+- ChatGPT injected words (significant words only) (26):
+	['andrew', 'arise', 'christ', 'connection', 'detail', 'differences', 'disciple', 'disciples', 'gospels', 'instance', 'introducing', 'lies', 'mentioned', 'narrative', 'notably', 'peter', 'philip', 'role', 's', 'showcases', 'significance', 'simon', 'slight', 'underscoring', 'variation', 'ways']
 
 ### Logs
-- Attempt 1 BHT: One of the disciples mentioned in this verse is Andrew, the brother of Simon Peter. Andrew is known for bringing Simon to Christ, and he and Philip are often mentioned together in the Gospels. Interestingly, while the other Gospels portray the loaves and fishes as the disciples' own, John's account highlights the differences in detail that arose from the disciples' perspective. Andrew's significance is further emphasized by his role in receiving the revelation for John to write the Fourth Gospel. Ultimately, Andrew's faith may have been similar to Philip's, but he played a crucial part in the unfolding narrative of Jesus' ministry.
-- 🔄 John 6:8 (attempt 1, 106 words, 40.58% quotes quality score: 1.9608895164525615, V2 normalized quality score: 56.54, commentator tiers 1-3: 32.95%, 32.32%, 34.73%) 
+- Attempt 1 BHT: One of His disciples, Andrew, who is often associated with Philip, is mentioned in this verse. It may seem strange that Andrew is referred to as one of His disciples when Philip is also one of His disciples, but this distinction serves a purpose within the narrative. In the other Gospels, the disciples are portrayed as the ones who bring the loaves and fishes, so this difference in detail is an instructive reminder of how variations can arise. Andrew's significant role is highlighted in this verse, as he is known for introducing Simon Peter to Christ. Interestingly, Philip and Andrew are mentioned together again in another passage, further emphasizing their connection.
+- 🔄 John 6:8 (attempt 1, 112 words, 48.61% quotes quality score: 2.084069723810229, V2 normalized quality score: 60.64, commentator tiers 1-3: 33.35%, 34.46%, 32.18%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: One of His disciples, Andrew, Simon Peter's brother, played a significant role in the narrative. Andrew brought Simon to Christ and is often mentioned alongside Philip. While the loaves and fishes are portrayed as the disciples' own in other Gospels, John's account highlights the differences that arose from their perspectives. Notably, Andrew received the revelation for John to write the Fourth Gospel, further underscoring his importance in the unfolding of Jesus' ministry. His contribution, though perhaps with little more faith than Philip, was integral to the story.
-- 🔄 John 6:8 (attempt 2, 89 words, 38.81% quotes quality score: 1.8934699610836376, V2 normalized quality score: 54.3, commentator tiers 1-3: 31.65%, 32.54%, 35.82%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: In this narrative, one of His disciples, Andrew, the brother of Simon Peter, plays a significant role. Andrew's distinction lies in bringing Simon to Christ, and he often appears alongside Philip. It is worth noting that while other Gospels mention the loaves and fishes as the disciples' possessions, John's account highlights the differences that arose in the details. Furthermore, it is significant that Andrew received the revelation necessitating John to write the Fourth Gospel. Despite having similar faith to Philip, Andrew's involvement is crucial to the unfolding of Jesus' ministry.
-- 🔄 John 6:8 (attempt 3, 93 words, 26.98% quotes quality score: 1.9223558147646638, V2 normalized quality score: 55.26, commentator tiers 1-3: 32.64%, 32.86%, 34.5%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: One of His disciples, Andrew, the brother of Simon Peter, contributes significantly to the narrative. Andrew's noteworthy role includes bringing Simon to Christ and frequently being mentioned alongside Philip. It is interesting to observe the discrepancies in the portrayal of the disciples' ownership of the loaves and fishes in different Gospel accounts. Additionally, Andrew's involvement is highlighted by his reception of the revelation regarding the writing of the Fourth Gospel. Though his faith may have been similar to Philip's, Andrew's part in the unfolding of Jesus' ministry is crucial.
-- 🔄 John 6:8 (attempt 4, 93 words, 29.31% quotes quality score: 1.6492900250852944, V2 normalized quality score: 46.18, commentator tiers 1-3: 33.05%, 30.68%, 36.28%) 
+- Attempt 2 BHT: One of His disciples, Andrew, is mentioned in this narrative, even though Philip is also a disciple. This seeming discrepancy serves to emphasize Andrew's role within the story. In the other Gospels, it is the disciples who provide the loaves and fishes, so this slight variation in detail is an instructive reminder of how differences can arise. Andrew's significance lies in his role of bringing Simon Peter to Christ. Interestingly, Philip and Andrew are mentioned together elsewhere, further highlighting their connection.
+- 🔄 John 6:8 (attempt 2, 83 words, 45.76% quotes quality score: 1.806209836874368, V2 normalized quality score: 51.4, commentator tiers 1-3: 34.17%, 34.03%, 31.8%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: One of His disciples, Andrew, the brother of Simon Peter, is mentioned in this narrative. Andrew's significance lies in bringing Simon to Christ and his association with Philip. The accounts of the disciples' ownership of the loaves and fishes differ between the Gospels, highlighting the variations in detail. Notably, Andrew received the revelation for John to write the Fourth Gospel, underscoring his important role. Although his faith may have been similar to Philip's, Andrew played a crucial part in the development of Jesus' ministry.
-- 🔄 John 6:8 (attempt 5, 86 words, 31.03% quotes quality score: 1.9025930193530616, V2 normalized quality score: 54.6, commentator tiers 1-3: 30.97%, 33.78%, 35.24%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ John 6:8 bht prompt v0.8 (93 words, 29.31% quotes)
-- quality score: 1.6492900250852944, V2 normalized quality score: 46.18, commentator tiers 1-3: 33.05%, 30.68%, 36.28%)
+- Attempt 3 BHT: One of His disciples, Andrew, is mentioned in this narrative, even though Philip is also a disciple. This slight variation in detail showcases the ways in which differences arise within the Gospels. Andrew's significance lies in his role of introducing Simon Peter to Christ. Notably, Philip and Andrew are mentioned together in another instance, underscoring their connection.
+- 🔄 John 6:8 (attempt 3, 58 words, 42.22% quotes quality score: 1.9219198387121554, V2 normalized quality score: 55.25, commentator tiers 1-3: 32.74%, 34.76%, 32.5%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: One of His disciples, Andrew, plays an important role in this account, although Philip is also a disciple. This minor difference in detail serves to demonstrate how variations can arise within the Gospel narratives. Andrew's significance lies in his role as the one who brings Simon Peter to Christ. Interestingly, Philip and Andrew are mentioned together again in another context, further highlighting their connection.
+- 🔄 John 6:8 (attempt 4, 65 words, 45.28% quotes quality score: 1.7816732887835087, V2 normalized quality score: 50.58, commentator tiers 1-3: 33.09%, 33.71%, 33.2%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Andrew, one of His disciples, is mentioned in this account, alongside Philip, another disciple. Although this may seem peculiar, it serves a purpose within the narrative and highlights differences in detail that can emerge. Andrew's significance lies in his role of introducing Simon Peter to Christ, a distinction for which he is remembered. The connection between Philip and Andrew is further emphasized in another context, demonstrating their partnership in discipleship.
+- 🔄 John 6:8 (attempt 5, 71 words, 43.64% quotes quality score: 1.7983844552995696, V2 normalized quality score: 51.14, commentator tiers 1-3: 32.23%, 34.71%, 33.05%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 6:8 bht prompt v0.8 (58 words, 42.22% quotes)
+- quality score: 1.9219198387121554, V2 normalized quality score: 55.25, commentator tiers 1-3: 32.74%, 34.76%, 32.5%)

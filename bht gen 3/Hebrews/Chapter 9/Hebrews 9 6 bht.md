@@ -1,18 +1,18 @@
 # Hebrews 9:6 Commentary Help Text
 
 ## BHT:
-The priests went always into the first tabernacle, performing the acts of worship which God had appointed. The ancient system with its two-part division, one of which was inaccessible, served as a reminder of its inferiority. Yet, the high priest, on that one day, would enter the Holy of Holies with the blood to cleanse the people from their sins. Through the fall of this old system, a more familiar access to God has been obtained, prompting us to move beyond the shadows of the Law.
+The high priest regularly entered the sanctuary, accomplishing the required worship and offering. The ancient system's inferiority was shown by the division of the tabernacle. The priests would enter the holy place daily, performing acts of worship and service to God. Only the high priest, on a specific day, could enter the second part of the tabernacle to make atonement for sin. The removal of the old tabernacle opened a way for believers to access the kingdom of God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "twice at the least every day, for the morning and evening care of the lamps, and offering of incense"
-2. "went—Greek, 'enter': present tense"
-
+1. "The use made of the sanctuary so furnished by the high priest on the anniversary of atonement."
+2. "Always—twice at the least every day, for the morning and evening care of the lamps, and offering of incense."
+3. "Went—Greek, 'enter': present tense."
 
 ### Albert Barnes:
 1. "The priests went always into the first tabernacle."
-2. "They were not permitted to enter the Holy of Holies, that being entered only once in a year by the High Priest."
-3. "Performing the acts of worship which God had appointed."
+2. "The holy place was entered every day to make the morning and evening oblation."
+3. "Accomplishing the service of God - Performing the acts of worship which God had appointed."
 
 ### Marvin Vincent:
 1. "The inferiority of the ancient system was proved by the old tabernacle itself: by its division into two parts, both of which were inaccessible to the people."
@@ -20,14 +20,14 @@ The priests went always into the first tabernacle, performing the acts of worshi
 3. "Accomplishing [επιτελουντες]. See on ch. Hebrews 8:5, and Galatians 3:3. The verb is used of performing religious services by Herodotus."
 
 ### John Calvin:
-1. "The very form of the ancient tabernacle reminded the Jews that they were to look for something else."
-2. "Then foolishly did they act who, by retaining the shadows of the Law, willfully obstructed their own way."
+1. "He hence concludes, that while the tabernacle under the Law was standing, the sanctuary was closed up, and that only through that being removed could the way be open for us to the kingdom of God."
+2. "We see that the very form of the ancient tabernacle reminded the Jews that they were to look for something else."
 3. "He contends that this had fallen for our great benefit, for through its fall a more familiar access to God has been obtained for us."
 
 ### Philip Schaff:
-1. "He notes the weakness of the old covenant and its fitness for this world only."
-2. "The high priest had to carry with him [the blood] within the veil, and there offer it by sprinkling it on and before the mercy-seat."
-3. "This offering of the blood is said to have cleansed the people once a year from all their sins."
+1. "The ordinary priests are entering continually, i.e without limits prescribed by law, twice at least every day (Exodus 30:7), to do the appointed service, sprinkling the blood of the sin-offering before the veil, dressing the lamps, burning incense on the golden altar, and once a-week changing the shewbread."
+2. "Into this second part none of the priests were allowed to enter or even to look; but the high priest alone, and he only on one day the tenth day of the seventh month (Leviticus 16:29)."
+3. "It was his business to make atonement for sin, and this could not be done without blood. Nor was it enough that the blood should be shed at the door of the tabernacle; the high priest had to carry with him a portion of it within the veil, and there offer it by sprinkling it on and before the mercy-seat."
 
 ### Archibald T. Robertson:
 1. "A mere summary has been made of the furniture."
@@ -35,9 +35,9 @@ The priests went always into the first tabernacle, performing the acts of worshi
 3. "Accomplishing."
 
 ### John Gill:
-1. "the priests went always into the first tabernacle; the first part of the tabernacle, which was called the holy place." 
-2. "the priests entered into the holy place every day for service; but they might not go in at any other time but the time of service."
-3. "it becomes such who are employed in sacred service; both to be constant in it, and to do it fully and completely."
+1. "The priests went always into the first tabernacle; the first part of the tabernacle, which was called the holy place." 
+2. "The phrase, 'of God', is not in the text, but is a supplement."
+3. "It becomes such who are employed in sacred service; both to be constant in it, and to do it fully and completely."
 
 ### John Wesley:
 1. Always — Every day.
@@ -47,37 +47,40 @@ Accomplishing their services — Lighting the lamps, changing the shewbread, bur
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:48:48
+- Timestamp: 12-25-2023 19:29:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 47.62%
-- BHT Quality Score: 1.6817236795759447
+- BHT Word Count: 80
+- BHT Commentary Usage: 27.45%
+- BHT Quality Score: 1.8742748345195215
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'access', 'acts', 'always', 'ancient', 'appointed', 'as', 'been', 'beyond', 'blood', 'cleanse', 'day', 'division', 'enter', 'fall', 'familiar', 'first', 'from', 'god', 'had', 'has', 'high', 'holies', 'holy', 'inaccessible', 'inferiority', 'into', 'its', 'law', 'more', 'move', 'obtained', 'of', 'old', 'on', 'one', 'part', 'people', 'performing', 'priest', 'priests', 'prompting', 'reminder', 'served', 'shadows', 'sins', 'system', 'tabernacle', 'that', 'the', 'their', 'this', 'through', 'to', 'two', 'us', 'was', 'went', 'which', 'with', 'worship', 'would', 'yet']
-- ChatGPT injected words (significant words only) (33):
-	['access', 'acts', 'ancient', 'appointed', 'blood', 'cleanse', 'day', 'division', 'enter', 'fall', 'familiar', 'god', 'high', 'holies', 'holy', 'inaccessible', 'inferiority', 'law', 'obtained', 'old', 'people', 'performing', 'priest', 'priests', 'prompting', 'reminder', 'served', 'shadows', 'sins', 'system', 'tabernacle', 'went', 'worship']
+- ChatGPT injected words (51):
+	['a', 'access', 'accomplishing', 'acts', 'ancient', 'and', 'atonement', 'believers', 'by', 'could', 'daily', 'day', 'division', 'enter', 'entered', 'for', 'god', 'high', 'holy', 'inferiority', 'kingdom', 'make', 'of', 'offering', 'old', 'on', 'only', 'opened', 'part', 'performing', 'place', 'priest', 'priests', 'regularly', 'removal', 'required', 's', 'sanctuary', 'second', 'service', 'shown', 'sin', 'specific', 'system', 'tabernacle', 'the', 'to', 'was', 'way', 'worship', 'would']
+- ChatGPT injected words (significant words only) (37):
+	['access', 'accomplishing', 'acts', 'ancient', 'atonement', 'believers', 'daily', 'day', 'division', 'enter', 'entered', 'god', 'high', 'holy', 'inferiority', 'kingdom', 'offering', 'old', 'opened', 'performing', 'place', 'priest', 'priests', 'regularly', 'removal', 'required', 's', 'sanctuary', 'second', 'service', 'shown', 'sin', 'specific', 'system', 'tabernacle', 'way', 'worship']
 
 ### Logs
-- Attempt 1 BHT: In Hebrews 9:6, it is mentioned that the priests went into the first tabernacle twice a day, continually accomplishing their services. This ancient system, with its division into two parts and limited access, emphasized its inferiority. It is clear that the old covenant was designed for this world only and its weakness is highlighted. The high priest, on the one day he entered the Holy of Holies, had to bring the blood and offer it before the mercy-seat for the cleansing of the people's sins. Through the fall of this old system, a more familiar access to God has been obtained, emphasizing the need to move beyond the shadows of the Law.
-- 🔄 Hebrews 9:6 (attempt 1, 113 words, 38.96% quotes quality score: 1.5955334528629126, V2 normalized quality score: 44.39, commentator tiers 1-3: 20.19%, 47.18%, 32.63%) 
+- Attempt 1 BHT: The first-tier commentary explains that the high priest would enter the sanctuary daily, performing the required worship and offering of sacrifices. The ancient system, as indicated by the division of the tabernacle into two inaccessible parts, highlighted its inferiority. The phrase always is often used in relation to matters involving worship and sacrifice. The second-tier commentary expands on the regular duties of the priests, who would enter the holy place each day to perform acts of worship and service to God. However, access to the second part of the tabernacle was limited to the high priest alone on a specific day. This high priest had the crucial task of making atonement for sin, requiring him to carry blood within the veil and sprinkle it on the mercy seat. Through the removal of the old tabernacle, a way was opened for believers to access the kingdom of God.
+- 🔄 Hebrews 9:6 (attempt 1, 149 words, 34.78% quotes quality score: 1.7989475994714184, V2 normalized quality score: 51.16, commentator tiers 1-3: 24.05%, 46.0%, 29.95%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The priests went into the first tabernacle twice a day, continually accomplishing their services. This ancient system, with its division into two parts, emphasized its inferiority. The old covenant, in its weakness, was fit only for this world. The high priest entered the Holy of Holies, bringing the blood for the cleansing of sins. Through the fall of this system, a more familiar access to God has been obtained, urging us to move beyond the shadows of the Law.
-- 🔄 Hebrews 9:6 (attempt 2, 79 words, 37.93% quotes quality score: 1.588686383339656, V2 normalized quality score: 44.17, commentator tiers 1-3: 17.16%, 49.98%, 32.86%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The priests went always into the first tabernacle, performing the acts of worship which God had appointed. The ancient system with its two-part division, one of which was inaccessible, served as a reminder of its inferiority. Yet, the high priest, on that one day, would enter the Holy of Holies with the blood to cleanse the people from their sins. Through the fall of this old system, a more familiar access to God has been obtained, prompting us to move beyond the shadows of the Law.
-- 🔄 Hebrews 9:6 (attempt 3, 87 words, 47.62% quotes quality score: 1.6817236795759447, V2 normalized quality score: 47.26, commentator tiers 1-3: 18.04%, 49.78%, 32.17%) 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
+- Attempt 2 BHT: The high priest would regularly enter the sanctuary, accomplishing the required worship and offering of sacrifices. The division of the tabernacle into inaccessible parts emphasized the inferiority of the ancient system. The phrase always is typically used in relation to matters of worship and sacrifice. The priests would enter the holy place daily to perform acts of worship and service to God, while the high priest alone would enter the second part of the tabernacle on a specific day to make atonement for sin. Through the removal of the old tabernacle, believers gained access to the kingdom of God.
+- 🔄 Hebrews 9:6 (attempt 2, 99 words, 30.0% quotes quality score: 1.8150863097262362, V2 normalized quality score: 51.69, commentator tiers 1-3: 25.21%, 44.42%, 30.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The priests went always into the first tabernacle, performing the acts of worship which God had appointed. The ancient system with its division into two parts emphasized its inferiority. The high priest would enter the Holy of Holies with the blood to cleanse the people's sins. Through the fall of this old system, a more familiar access to God has been obtained, urging us to move beyond the shadows of the Law.
-- 🔄 Hebrews 9:6 (attempt 4, 73 words, 39.62% quotes quality score: 1.638979144306377, V2 normalized quality score: 45.84, commentator tiers 1-3: 17.48%, 51.37%, 31.15%) 
+- Attempt 3 BHT: The high priest regularly entered the sanctuary, accomplishing the required worship and offering. The ancient system's inferiority was shown by the division of the tabernacle. The priests would enter the holy place daily, performing acts of worship and service to God. Only the high priest, on a specific day, could enter the second part of the tabernacle to make atonement for sin. The removal of the old tabernacle opened a way for believers to access the kingdom of God.
+- 🔄 Hebrews 9:6 (attempt 3, 80 words, 27.45% quotes quality score: 1.8742748345195215, V2 normalized quality score: 53.66, commentator tiers 1-3: 22.61%, 48.35%, 29.04%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The priests constantly entered the first tabernacle, faithfully carrying out the prescribed acts of worship. This system's division into two parts highlighted its flawed nature. On the designated day, the high priest would enter the Holy of Holies, bringing the blood to cleanse the people's sins. The downfall of this outdated system has brought about a more direct access to God, motivating us to transcend the mere shadows and symbols of the Law.
-- 🔄 Hebrews 9:6 (attempt 5, 75 words, 29.82% quotes quality score: 1.5760454529991446, V2 normalized quality score: 43.75, commentator tiers 1-3: 20.03%, 47.39%, 32.58%) 
+- Attempt 4 BHT: The first-tier commentary reveals that the high priest would enter the sanctuary daily, fulfilling the required worship and sacrifices. It emphasizes the division and inaccessibility of the ancient tabernacle, highlighting its inferiority. The priests would enter the holy place each day to perform acts of worship and service to God. Only the high priest, on a specific day, could enter the second part of the tabernacle to make atonement for sin. The removal of the old tabernacle allowed believers a way to access the kingdom of God.
+- 🔄 Hebrews 9:6 (attempt 4, 88 words, 30.91% quotes quality score: 1.8937981527535475, V2 normalized quality score: 54.31, commentator tiers 1-3: 22.3%, 48.07%, 29.63%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
+- Attempt 5 BHT: The high priest would regularly enter the sanctuary, accomplishing the required worship and offering of sacrifices. The division of the tabernacle into inaccessible parts emphasized the inferiority of the ancient system. The priests would enter the holy place daily to perform acts of worship and service to God, while the high priest alone would enter the second part of the tabernacle on a specific day to make atonement for sin. Through the removal of the old tabernacle, believers gained access to the kingdom of God.
+- 🔄 Hebrews 9:6 (attempt 5, 85 words, 27.45% quotes quality score: 1.8633559767136518, V2 normalized quality score: 53.3, commentator tiers 1-3: 24.37%, 46.05%, 29.58%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Hebrews 9:6 bht prompt v0.8 (87 words, 47.62% quotes)
-- quality score: 1.6817236795759447, V2 normalized quality score: 47.26, commentator tiers 1-3: 18.04%, 49.78%, 32.17%)
+- ✅ Hebrews 9:6 bht prompt v0.8 (80 words, 27.45% quotes)
+- quality score: 1.8742748345195215, V2 normalized quality score: 53.66, commentator tiers 1-3: 22.61%, 48.35%, 29.04%)

@@ -1,23 +1,23 @@
 # Titus 2:3 Commentary Help Text
 
 ## BHT:
-Aged women should exemplify sacred decorum, influencing younger women by their conduct. Their demeanor should be befitting of their sacred service, and they should not engage in slander. These women are called to be teachers of what is good, an important mission. They should embody the requirements of the gospel, avoiding false accusations and instead instructing younger women in good things. Their clothing, speech, and conduct should reflect their holy character, and they should teach only what is honorable and pure.
+Women consecrated to God should exhibit behavior fitting for sacred service. This includes being observant of sacred decorum and refraining from addiction to wine, as it is a form of slavery. The term becometh implies a deportment or demeanor that is appropriate for the sacred circumstances, like that of people engaged in sacred duties. These women should not engage in slander, but rather be teachers of that which is good, conveying important messages. Their conduct should exemplify holiness and their speech should be honorable, avoiding false accusations and focusing on instructing the younger generation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Observant of sacred decorum."
-2. "Addiction to wine is slavery."
-3. "Influencing for good the younger women by precept and example."
+1. "As becometh women consecrated to God."
+2. "Observant of sacred decorum."
+3. "Addiction to wine is slavery."
 
 ### Albert Barnes:
-1. "Their conduct should be such as the gospel requires."
-2. "Not false accusers... as the accuser."
-3. "Teachers of good things... to give instruction to younger females."
+1. "That they be in behaviour as becometh holiness - Their conduct should be such as the gospel requires."
+2. "Not false accusers - the word commonly applied to the devil - 'as the accuser.'"
+3. "Teachers of good things - That is instructing the younger - whether their own children, or whether they sustain the office of deaconness..."
 
 ### Marvin Vincent:
-1. "It means, primarily, condition or state. Once in LXX, 3 Macc 5 45, katasthma maniwdev the maddened state into which the war - elephants were excited. Hence the state in which one habitually bears himself - his deportment or demeanor."
-2. "It means beseeming a sacred place, person, or matter. Thus Athenaeus, seven, of one who had given a sacred banquet, says that the table was ornamented iJeroprepestata in a manner most appropriate to the sacred circumstances. The meaning here is becoming those who are engaged in sacred service."
-3. "Better, slanderers. See on Matthew 4:1, and 1 Timothy 3:6, 1 Timothy 3:11."
+1. "Once in LXX, 3 Macc 5 45, katasthma maniwdev the maddened state into which the war - elephants were excited. Hence the state in which one habitually bears himself - his deportment or demeanor."
+2. "It means beseeming a sacred place, person, or matter. Thus Athenaeus, seven, of one who had given a sacred banquet, says that the table was ornamented iJeroprepestata in a manner most appropriate to the sacred circumstances."
+3. "The meaning here is becoming those who are engaged in sacred service. This is the more striking if, as there is reason to believe, the presbutidev represented a quasi - official position in the church."
 
 ### John Calvin:
 1. "Paul wished to guard against both extremes, by enjoining them to follow a course that is agreeable both to outward propriety and to religion; or, if you choose to express it in simpler language, to give evidence, by their very dress, that they are holy and godly women."
@@ -25,61 +25,57 @@ Aged women should exemplify sacred decorum, influencing younger women by their c
 3. "Many are also given to drinking, so that, forgetting modesty and gravity, they indulge in an unbecoming wantonness."
 
 ### Philip Schaff:
-1. "Likewise, for the same moral propriety applies here, modified only by sex."
-2. "Becometh holiness, befitting the solemnity of a consecrated person. Women too are spiritual priests in Christ."
-3. "False accusers; frequent failing of this class; the word is literally 'devils.' It is the diabolic characteristic to slander the good."
+1. "Behaviour, or deportment, a wide term, covering ‘walk, gesture, countenance, speech, silence’ (Jerome)."
+2. "Becometh holiness (cf. 1 Timothy 2:10; Ephesians 5:3), befitting the solemnity of a consecrated person. Women too are spiritual priests in Christ."
+3. "False accusers; frequent failing of this class; the word is literally ‘devils.’ It is the diabolic characteristic to slander the good."
 
 ### Archibald T. Robertson:
-1. "Reverent (ιεροπρεπεις). Old word. Only here in N.T. Like people engaged in sacred duties."
+1. "Reverent (ιεροπρεπεις). Old word... Like people engaged in sacred duties."
 2. "Not slanderers (μη διαβολους)."
-3. "Teachers of that which is good (καλοδιδασκαλους). Compound word. A sorely needed mission."
+3. "Teachers of that which is good (καλοδιδασκαλους). A sorely needed mission."
 
 ### John Gill:
-1. "These aged women design not persons in office, who were ancient widows, and had some care of the poor; or presbyteresses, as some call them, the wives of presbyters or elders, as being distinct from deaconesses; but godly women in years, who are to be instructed and exhorted." 
-2. "Such [holy women] ought to be in their clothing, and in their speech, and in the whole of their conduct and conversation, as become the character which they bear, and the profession they make."
-3. "They [aged women] should be teachers, not of old wives' fables, of superstitious customs, rites, and ceremonies, of the intrigues of love, and of things filthy and obscene, which are too often handed down to posterity by such persons; but of things that are solid and substantial, useful and improving, honest and honourable, chaste and pure."
+1. "Speak also to them the things which become their profession, and what is right for them to be, and do...be in behaviour as becometh holiness." 
+2. "Not false accusers...not raising false reports of, bringing false charges against members of churches, and so making differences and divisions among them."
+3. "Teachers of good things; both by example and by instruction...of things that are solid and substantial, useful and improving, honest and honourable, chaste and pure."
 
 ### John Wesley:
-1. "In behaviour — The particulars whereof follow."
-2. "Not given to much wine — If they use a little for their often infirmities."
-3. "Let them teach good only."
+1. "Not given to much wine — If they use a little for their often infirmities."
+2. "Teachers — Age and experience call them so to be. Let them teach good only."
+3. "In behaviour — The particulars whereof follow. As becometh holiness — Literally, observing a holy decorum. Not slanderers - Or evil-speakers."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:09:02
+- Timestamp: 12-25-2023 19:30:47
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 32.69%
-- BHT Quality Score: 1.7229982121254848
+- BHT Word Count: 94
+- BHT Commentary Usage: 34.29%
+- BHT Quality Score: 1.8049422905145538
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (52):
-	['accusations', 'aged', 'an', 'and', 'are', 'avoiding', 'be', 'befitting', 'by', 'called', 'character', 'clothing', 'conduct', 'decorum', 'demeanor', 'embody', 'engage', 'exemplify', 'false', 'good', 'gospel', 'holy', 'honorable', 'important', 'in', 'influencing', 'instead', 'instructing', 'is', 'mission', 'not', 'of', 'only', 'pure', 'reflect', 'requirements', 'sacred', 'service', 'should', 'slander', 'speech', 'teach', 'teachers', 'the', 'their', 'these', 'they', 'things', 'to', 'what', 'women', 'younger']
-- ChatGPT injected words (significant words only) (35):
-	['accusations', 'aged', 'avoiding', 'befitting', 'called', 'character', 'clothing', 'conduct', 'decorum', 'demeanor', 'embody', 'engage', 'exemplify', 'false', 'good', 'gospel', 'holy', 'honorable', 'important', 'influencing', 'instead', 'instructing', 'mission', 'pure', 'reflect', 'requirements', 'sacred', 'service', 'slander', 'speech', 'teach', 'teachers', 'things', 'women', 'younger']
+- ChatGPT injected words (70):
+	['a', 'accusations', 'addiction', 'and', 'appropriate', 'as', 'avoiding', 'be', 'becometh', 'behavior', 'being', 'but', 'circumstances', 'conduct', 'consecrated', 'conveying', 'decorum', 'demeanor', 'deportment', 'duties', 'engage', 'engaged', 'exemplify', 'exhibit', 'false', 'fitting', 'focusing', 'for', 'form', 'from', 'generation', 'god', 'good', 'holiness', 'honorable', 'implies', 'important', 'in', 'includes', 'instructing', 'is', 'it', 'like', 'messages', 'not', 'observant', 'of', 'on', 'or', 'people', 'rather', 'refraining', 'sacred', 'service', 'should', 'slander', 'slavery', 'speech', 'teachers', 'term', 'that', 'the', 'their', 'these', 'this', 'to', 'which', 'wine', 'women', 'younger']
+- ChatGPT injected words (significant words only) (46):
+	['accusations', 'addiction', 'appropriate', 'avoiding', 'becometh', 'behavior', 'circumstances', 'conduct', 'consecrated', 'conveying', 'decorum', 'demeanor', 'deportment', 'duties', 'engage', 'engaged', 'exemplify', 'exhibit', 'false', 'fitting', 'focusing', 'form', 'generation', 'god', 'good', 'holiness', 'honorable', 'implies', 'important', 'includes', 'instructing', 'like', 'messages', 'observant', 'people', 'refraining', 'sacred', 'service', 'slander', 'slavery', 'speech', 'teachers', 'term', 'wine', 'women', 'younger']
 
 ### Logs
-- Attempt 1 BHT: Aged women must conduct themselves with sacred decorum, influencing younger women by their example. They should bear themselves in a manner befitting their sacred service. They must not be slanderers, but reverent like those engaged in sacred duties. These women are to be teachers of what is good, a sorely needed mission. Their conduct should reflect the requirements of the gospel, not engaging in false accusations, but teaching good things to younger females. Their clothing, speech, and conduct should be as befits their holy character and profession. They should teach only what is solid, substantial, and honorable, abstaining from old wives' fables and obscene things. They must not be given to much wine, but rather teach what is good.
-- 🔄 Titus 2:3 (attempt 1, 119 words, 35.14% quotes quality score: 1.6779872215493272, V2 normalized quality score: 47.14, commentator tiers 1-3: 28.67%, 33.61%, 37.72%) 
+- Attempt 1 BHT: Women consecrated to God should exhibit behavior fitting for sacred service. This includes being observant of sacred decorum and refraining from addiction to wine, as it is a form of slavery. The term becometh implies a deportment or demeanor that is appropriate for the sacred circumstances, like that of people engaged in sacred duties. These women should not engage in slander, but rather be teachers of that which is good, conveying important messages. Their conduct should exemplify holiness and their speech should be honorable, avoiding false accusations and focusing on instructing the younger generation.
+- 🔄 Titus 2:3 (attempt 1, 94 words, 34.29% quotes quality score: 1.8049422905145538, V2 normalized quality score: 51.36, commentator tiers 1-3: 32.32%, 34.84%, 32.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Aged women should exemplify sacred decorum, influencing younger women by their conduct. Their demeanor should be befitting of their sacred service, and they should not engage in slander. These women are called to be teachers of what is good, an important mission. They should embody the requirements of the gospel, avoiding false accusations and instead instructing younger women in good things. Their clothing, speech, and conduct should reflect their holy character, and they should teach only what is honorable and pure.
-- 🔄 Titus 2:3 (attempt 2, 81 words, 32.69% quotes quality score: 1.7229982121254848, V2 normalized quality score: 48.63, commentator tiers 1-3: 26.39%, 36.16%, 37.45%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: Women consecrated to God should exhibit behavior appropriate for sacred service, observing sacred decorum and refraining from addiction to wine. Their deportment should be in line with the solemnity of their role, like those engaged in sacred duties. They should not engage in slander, but instead be teachers of good, conveying important messages. Their conduct should exemplify holiness, avoiding false accusations and focusing on instructing the younger generation.
+- 🔄 Titus 2:3 (attempt 2, 68 words, 29.63% quotes quality score: 1.777949022921066, V2 normalized quality score: 50.46, commentator tiers 1-3: 27.71%, 35.97%, 36.32%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Aged women are meant to embody sacred decorum, influencing the younger generation through their actions and words. Their conduct should reflect their engagement in sacred service, and they should refrain from engaging in slander. These women are called to be teachers of what is good, serving an essential purpose. They should exemplify the requirements of the gospel by avoiding false accusations and instead imparting wisdom and guidance to younger women. Their outward demeanor, speech, and actions should be in line with their holy character and profession.
-- 🔄 Titus 2:3 (attempt 3, 86 words, 30.51% quotes quality score: 1.6198386027909666, V2 normalized quality score: 45.2, commentator tiers 1-3: 26.39%, 35.0%, 38.61%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 3 BHT: Women consecrated to God should exhibit behavior befitting their sacred service, showing reverence and decorum. They should not be addicted to wine, as it is a form of slavery that hinders their ability to fulfill their role. Their demeanor and conduct should reflect their sacred calling, as they engage in their quasi-official position within the church. It is important for them to avoid slander and instead serve as teachers of good things, providing much-needed guidance and instruction.
+- 🔄 Titus 2:3 (attempt 3, 79 words, 32.2% quotes quality score: 1.6851257817294596, V2 normalized quality score: 47.37, commentator tiers 1-3: 28.4%, 32.65%, 38.96%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Aged women should bear themselves in a manner befitting sacred service, influencing younger women through their conduct. They are to abstain from slander and instead teach what is good, serving as much-needed instructors. These women are called to embody the requirements of the gospel, refraining from false accusations and providing instruction on honorable and pure matters. Their clothing, speech, and behavior should reflect their holy character and profession while avoiding excessive wine consumption. Their role is to teach only what is good and beneficial.
-- 🔄 Titus 2:3 (attempt 4, 85 words, 32.81% quotes quality score: 1.6278473574208059, V2 normalized quality score: 45.47, commentator tiers 1-3: 25.23%, 34.65%, 40.12%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: Women consecrated to God should exhibit behavior that reflects their sacred calling, observing sacred decorum and refraining from addiction to wine. Their demeanor should resemble that of people engaged in sacred duties, exemplifying reverence and honor. It is crucial for them to avoid slander and instead focus on being teachers of good, imparting valuable knowledge and wisdom. Their conduct should be in line with holiness, avoiding false accusations and prioritizing the instruction of the younger generation.
+- 🔄 Titus 2:3 (attempt 4, 76 words, 28.81% quotes quality score: 1.7844692109565434, V2 normalized quality score: 50.68, commentator tiers 1-3: 27.54%, 33.79%, 38.67%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Aged women, engaged in sacred service, must bear themselves with sacred decorum and influence younger women through their example. They should refrain from slander and instead teach what is good, fulfilling a crucial mission. Their conduct should be in line with the requirements of the gospel, avoiding false accusations and imparting wisdom to younger women. Their appearance, speech, and behavior should reflect their holy character and profession while they abstain from excessive wine consumption. They are to be instructors of what is honorable and pure.
-- 🔄 Titus 2:3 (attempt 5, 85 words, 31.67% quotes quality score: 1.6579541667488473, V2 normalized quality score: 46.47, commentator tiers 1-3: 26.8%, 33.43%, 39.78%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Women consecrated to God should exhibit behavior fitting for sacred service, observing sacred decorum and refraining from addiction to wine. Their deportment should be in line with the solemnity of their role, like those engaged in sacred duties. They should not engage in slander, but instead be teachers of good, conveying important messages. Their conduct should exemplify holiness, avoiding false accusations and focusing on instructing the younger generation.
+- 🔄 Titus 2:3 (attempt 5, 68 words, 29.63% quotes quality score: 1.771754420172639, V2 normalized quality score: 50.25, commentator tiers 1-3: 27.7%, 36.21%, 36.09%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Titus 2:3 bht prompt v0.8 (81 words, 32.69% quotes)
-- quality score: 1.7229982121254848, V2 normalized quality score: 48.63, commentator tiers 1-3: 26.39%, 36.16%, 37.45%)
+- ✅ Titus 2:3 bht prompt v0.8 (94 words, 34.29% quotes)
+- quality score: 1.8049422905145538, V2 normalized quality score: 51.36, commentator tiers 1-3: 32.32%, 34.84%, 32.84%)

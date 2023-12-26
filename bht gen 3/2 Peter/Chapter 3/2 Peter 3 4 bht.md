@@ -1,84 +1,88 @@
 # 2 Peter 3:4 Commentary Help Text
 
 ## BHT:
-Presumptuous skepticism and lawless lust set nature and its so-called laws above the God of revelation. The scoffers argue from the continuity of nature's phenomena, claiming that there can be no future interruption. They mockingly question the promise of Christ's coming, doubting its fulfillment despite the preaching of Peter, Jesus, and Paul. However, they fail to understand the hope of resurrection, which views death as a literal sleep followed by awakening. Jesus' parables urge readiness for His coming while cautioning against setting specific dates.
+The scoffers exhibit presumptuous skepticism, placing the continuity of nature's phenomena above the promise of Christ's coming. They argue that since things have continued unchanged since the beginning of creation, there will be no fulfillment of the promise. However, this skepticism disregards the Christian hope of the resurrection and fails to acknowledge the preaching of Jesus and the apostles regarding the second coming. These scoffers mock the believers' trust in the promise, lacking any signs of an interruption in the old order.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Presumptuous skepticism and lawless lust, setting nature and its so-called laws above the God of nature and revelation"
-2. "Arguing from the past continuity of nature's phenomena that there can be no future interruption to them"
-3. "The 'scoffers' here are not necessarily atheists, nor do they maintain that the world existed from eternity. They are willing to recognize a God, but not the God of revelation."
+1. "(Compare Psalms 10:11; Psalms 73:11.) Presumptuous skepticism and lawless lust, setting nature and its so-called laws above the God of nature and revelation, and arguing from the past continuity of nature's phenomena that there can be no future interruption to them, was the sin of the antediluvians, and shall be that of the scoffers in the last days."
+2. "Where—implying that it ought to have taken place before this if ever it was to take place, but that it never will."
+3. "the promise—which you, believers, are so continually looking for the fulfillment of (Psalms 73:11). What becomes of the promise which you talk so much of?"
 
 ### Albert Barnes:
-1. "Where is the promise of his coming? They evidently meant to imply that the promise had utterly failed; that there was not the slightest evidence that it would be accomplished; that they who had believed this were entirely deluded."
+1. "They evidently meant to imply that the promise had utterly failed; that there was not the slightest evidence that it would be accomplished; that they who had believed this were entirely deluded."
 2. "Those old men, said the seeing objector, have died like others; and, notwithstanding their confident predictions, things now move on as they did from the beginning."
-3. "The specious and plausible objection arising from this source, the apostle proposes to meet in the following verses."
+3. "Meantime, the expectations of those who have believed that the world was coming to an end have been disappointed; the time set for this by many interpreters of Scripture has passed by; men have looked out in vain for the coming of the Saviour, and sublunary affairs move on as they always have done."
 
 ### Marvin Vincent:
 1. "From the beginning of the creation. Not a common phrase."
-2. "Fell asleep. A literal and correct translation of the word, which occurs frequently in the New Testament."
-3. "The difference between the pagan and the Christian usage lies in the fact that, in the latter, it was defined by the hope of the resurrection, and therefore was used literally of a sleep, which, though long, was to have an awakening."
+2. "Fell asleep. A literal and correct translation of the word."
+3. "The difference between the pagan and the Christian usage lies in the fact that, in the latter, it was defined by the hope of the resurrection."
 
 ### John Calvin:
 1. "It was a dangerous scoff when they insinuated a doubt as to the last resurrection; for when that is taken away, there is no gospel any longer, the power of Christ is brought to nothing, the whole of religion is gone."
-2. "All religion is wholly subverted, except faith in the resurrection remains firm and immovable."
+2. "All religion is wholly subverted, except faith in the resurrection remains firm and immovable. Hence, on this point Satan assails us most fiercely."
 3. "They set the regular course of nature, such as it seems to have been from the beginning, in opposition to the promise of God, as though these things were contrary, or did not harmonize together."
 
 ### Philip Schaff:
-1. "The question, put with triumphant scorn by these mockers, repeats the cherished terms used by believers... the very form (‘His Coming,’ not ‘Christ’s Coming,’ or the ‘Lord’s Coming’) in which they were accustomed to refer to Him who was so much the one object of their thoughts as to need no identification by name among them."
-2. "Their argument will be taken from the delay in the fulfilment of ‘that blessed hope’ (Titus 2:13) of the Christian brotherhood, and from the unbroken uniformity of things. The idea seems to be that, taking it for granted that some great disturbance in the system of the world will be necessarily involved in such an event as the Advent of Christ, and failing to see any signs of an interruption in the old order, they will deride the event itself."
-3. "The meaning is the same as if the sentence had taken this more regular form: ‘In spite of this promise, your fathers to whom it was given have passed away, and all things still continue the same since then, as indeed they have continued from their first creation.’"
+1. "The 'coming' is again expressed here by the word parousia, 'presence;' as to which see on chap. 2 Peter 1:16. The question, put with triumphant scorn by these mockers, repeats the cherished terms used by believers the 'promise 'in which they trusted, the 'coming' which they looked for with vivid expectancy."
+2. "The idea seems to be that, taking it for granted that some great disturbance in the system of the world will be necessarily involved in such an event as the Advent of Christ, and failing to see any signs of an interruption in the old order, they will deride the event itself."
+3. "Greater vivacity is added to the assertion of unbroken uniformity by the use of the present tense 'continue' (the verb itself also is a compound form expressing continuance persisting through an indefinite length of time), and by the simple 'thus' by which the idea of 'as they are,' or 'as we see them,' is conveyed."
 
 ### Archibald T. Robertson:
-1. "Peter, like Paul (1 Thessalonians 5:1; 2 Thessalonians 2:1), preached about the second coming (2 Peter 1:16; Acts 3:20), as Jesus himself did repeatedly (Matthew 24:34) and as the angels promised at the Ascension (Acts 1:11)."
-2. "Both Jesus and Paul (2 Thessalonians 2:1) were misunderstood on the subject of the time and the parables of Jesus urged readiness and forbade setting dates for his coming."
-3. "Fell asleep (εκοιμηθησαν). First aorist passive indicative of κοιμαω, old verb, to put sleep, classic euphemism for death (John 11:11) like our cemetery (sleeping-place)."
+1. "Peter, like Paul, preached about the second coming, as Jesus himself did repeatedly, and as the angels promised at the Ascension."
+2. "The parables of Jesus urged readiness and forbade setting dates for his coming, though his language in Matthew 24:34 probably led some to believe that he would certainly come while they were alive."
+3. "Continue. In statu quo. 'As they were.' From the beginning of creation."
 
 ### John Gill:
-1. "What is become of the promise of his coming? Where the accomplishment of it?"
-2. "But where is the fulfilment of all this? He is not come, nor is there any sign or likelihood of it."
-3. "Reasoning from the settled order of things...to the future continuance of things, without any alteration; and consequently, that Christ would not come..."
+1. "what is become of the promise of his coming? where the accomplishment of it?"
+2. "but where is the fulfillment of all this? he is not come, nor is there any sign or likelihood of it"
+3. "reasoning from the settled order of things... to the future continuance of things, without any alteration; and consequently, that Christ would not come"
 
 ### John Wesley:
-1. "Saying, Where is the promise of his coming... We see no sign of any such thing." 
-2. "For ever since the fathers... Continue as they were from the beginning of the creation."
+1. "Saying, Where is the promise of his coming... We see no sign of any such thing."
+2. "For ever since the fathers fell asleep, all things continue as they were from the beginning of the creation."
+3. "Without any such material change as might make us believe they will ever end."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:41:01
+- Timestamp: 12-25-2023 19:31:11
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 32.86%
-- BHT Quality Score: 1.8368896535518626
+- BHT Word Count: 84
+- BHT Commentary Usage: 35.09%
+- BHT Quality Score: 1.9630153096669418
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (70):
-	['a', 'above', 'against', 'and', 'argue', 'as', 'awakening', 'be', 'by', 'called', 'can', 'cautioning', 'christ', 'claiming', 'coming', 'continuity', 'dates', 'death', 'despite', 'doubting', 'fail', 'followed', 'for', 'from', 'fulfillment', 'future', 'god', 'his', 'hope', 'however', 'interruption', 'its', 'jesus', 'lawless', 'laws', 'literal', 'lust', 'mockingly', 'nature', 'no', 'of', 'parables', 'paul', 'peter', 'phenomena', 'preaching', 'presumptuous', 'promise', 'question', 'readiness', 'resurrection', 'revelation', 's', 'scoffers', 'set', 'setting', 'skepticism', 'sleep', 'so', 'specific', 'that', 'the', 'there', 'they', 'to', 'understand', 'urge', 'views', 'which', 'while']
-- ChatGPT injected words (significant words only) (47):
-	['argue', 'awakening', 'called', 'cautioning', 'christ', 'claiming', 'coming', 'continuity', 'dates', 'death', 'despite', 'doubting', 'fail', 'followed', 'fulfillment', 'future', 'god', 'hope', 'interruption', 'jesus', 'lawless', 'laws', 'literal', 'lust', 'mockingly', 'nature', 'parables', 'paul', 'peter', 'phenomena', 'preaching', 'presumptuous', 'promise', 'question', 'readiness', 'resurrection', 'revelation', 's', 'scoffers', 'set', 'setting', 'skepticism', 'sleep', 'specific', 'understand', 'urge', 'views']
+- ChatGPT injected words (57):
+	['above', 'acknowledge', 'an', 'and', 'any', 'apostles', 'argue', 'be', 'beginning', 'believers', 'christ', 'christian', 'coming', 'continued', 'continuity', 'creation', 'disregards', 'exhibit', 'fails', 'fulfillment', 'have', 'hope', 'however', 'in', 'interruption', 'jesus', 'lacking', 'mock', 'nature', 'no', 'of', 'old', 'order', 'phenomena', 'placing', 'preaching', 'presumptuous', 'promise', 'regarding', 'resurrection', 's', 'scoffers', 'second', 'signs', 'since', 'skepticism', 'that', 'the', 'there', 'these', 'they', 'things', 'this', 'to', 'trust', 'unchanged', 'will']
+- ChatGPT injected words (significant words only) (37):
+	['acknowledge', 'apostles', 'argue', 'beginning', 'believers', 'christ', 'christian', 'coming', 'continued', 'continuity', 'creation', 'disregards', 'exhibit', 'fails', 'fulfillment', 'hope', 'interruption', 'jesus', 'lacking', 'mock', 'nature', 'old', 'order', 'phenomena', 'placing', 'preaching', 'presumptuous', 'promise', 'resurrection', 's', 'scoffers', 'second', 'signs', 'skepticism', 'things', 'trust', 'unchanged']
 
 ### Logs
-- Attempt 1 BHT: Presumptuous skepticism and lawless lust, setting nature and its so-called laws above the God of nature and revelation, lead the scoffers to argue that there can be no interruption to the past continuity of nature's phenomena. Although they are willing to recognize a God, they refuse to accept the God of revelation. The scoffers mockingly question the promise of His coming, using the familiar terms believers commonly refer to Him. Their argument stems from the delay in the fulfillment of the Christian brotherhood's blessed hope and the unbroken uniformity of things. They deride the event of His advent, believing that if it were to occur, it would interrupt the old order of things. However, this objection fails to acknowledge the hope of the resurrection, which affirms a literal sleep followed by awakening. Despite the mockers' doubts, Peter, like Jesus and Paul, preached about the second coming and urged readiness without attempting to set dates.
-- 🔄 2 Peter 3:4 (attempt 1, 157 words, 30.48% quotes quality score: 1.8868908846048218, V2 normalized quality score: 54.08, commentator tiers 1-3: 33.3%, 38.61%, 28.09%) 
+- Attempt 1 BHT: The scoffers in 2 Peter 3:4 were guilty of presumptuous skepticism and lawless lust, dismissing the promise of Christ's coming and setting the continuity of nature's phenomena above the God of nature and revelation. They argued that since things have continued as they were from the beginning of creation, there would be no interruption or fulfillment of the promise. However, their skepticism fails to account for the Christian hope of the resurrection and the preaching of Jesus and the apostles regarding the second coming. They deride the event itself, failing to see any signs of an interruption in the old order and mocking the believers' trust in the promise.
+- 🔄 2 Peter 3:4 (attempt 1, 109 words, 37.68% quotes quality score: 2.061941310896529, V2 normalized quality score: 59.9, commentator tiers 1-3: 30.82%, 39.06%, 30.12%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The scoffers in this passage exhibit presumptuous skepticism, placing the continuity of nature's phenomena above the promise of Christ's coming. They argue that since things have continued unchanged since the beginning of creation, there will be no fulfillment of the promise. However, this skepticism disregards the Christian hope of the resurrection and fails to acknowledge the preaching of Jesus and the apostles regarding the second coming. These scoffers mock the believers' trust in the promise, lacking any signs of an interruption in the old order.
+- 🔄 2 Peter 3:4 (attempt 2, 87 words, 34.48% quotes quality score: 1.9868105267320664, V2 normalized quality score: 57.4, commentator tiers 1-3: 29.97%, 39.16%, 30.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: The scoffers exhibit presumptuous skepticism, placing the continuity of nature's phenomena above the promise of Christ's coming. They argue that since things have continued unchanged since the beginning of creation, there will be no fulfillment of the promise. However, this skepticism disregards the Christian hope of the resurrection and fails to acknowledge the preaching of Jesus and the apostles regarding the second coming. These scoffers mock the believers' trust in the promise, lacking any signs of an interruption in the old order.
+- 🔄 2 Peter 3:4 (attempt 3, 84 words, 35.09% quotes quality score: 1.9630153096669418, V2 normalized quality score: 56.61, commentator tiers 1-3: 29.81%, 38.84%, 31.35%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Presumptuous scoffers question the promise of Christ's coming, doubting its fulfillment. They argue that past continuity in nature proves there will be no interruption in the future. These skeptics recognize a god, but not the God of revelation. Despite their doubts, Peter, like Jesus and Paul, preached about the second coming. They misunderstand the timing of this event, but Jesus' parables stress the importance of readiness and caution against setting dates. The objection of the scoffers fails to consider the hope of resurrection, which views death as a literal sleep with an awakening.
-- 🔄 2 Peter 3:4 (attempt 2, 94 words, 33.33% quotes quality score: 1.771637650851141, V2 normalized quality score: 50.25, commentator tiers 1-3: 35.3%, 36.41%, 28.29%) 
+- Attempt 4 BHT: The scoffers in this verse dismiss the promise of Christ's coming with presumptuous skepticism, arguing that the continuity of nature proves there will be no fulfillment. However, their skepticism fails to consider the Christian hope of the resurrection and the preaching of Jesus and the apostles who spoke about the second coming. These scoffers mock the believers' trust in the promise, unable to discern any signs of interruption in the established order.
+- 🔄 2 Peter 3:4 (attempt 4, 73 words, 35.29% quotes quality score: 1.9995381412026394, V2 normalized quality score: 57.83, commentator tiers 1-3: 29.52%, 41.04%, 29.44%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: The scoffers in this passage exhibit presumptuous skepticism, setting nature and its supposed laws above the God of nature and revelation, and arguing that the continuity of nature's phenomena negates the fulfillment of the promise. However, their skepticism disregards the Christian hope of the resurrection and fails to acknowledge the preaching of Jesus and the apostles regarding the second coming. These scoffers mock the believers' trust in the promise, unable to perceive any signs of an interruption in the old order.
+- 🔄 2 Peter 3:4 (attempt 5, 82 words, 28.3% quotes quality score: 1.9391255847484825, V2 normalized quality score: 55.82, commentator tiers 1-3: 31.09%, 40.42%, 28.49%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Presumptuous skepticism and lawless lust set nature and its so-called laws above the God of revelation. The scoffers argue from the continuity of nature's phenomena, claiming that there can be no future interruption. They mockingly question the promise of Christ's coming, doubting its fulfillment despite the preaching of Peter, Jesus, and Paul. However, they fail to understand the hope of resurrection, which views death as a literal sleep followed by awakening. Jesus' parables urge readiness for His coming while cautioning against setting specific dates.
-- 🔄 2 Peter 3:4 (attempt 3, 87 words, 32.86% quotes quality score: 1.8368896535518626, V2 normalized quality score: 52.42, commentator tiers 1-3: 37.76%, 33.97%, 28.27%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Presumptuous skeptics prioritize the laws of nature over the God of revelation, arguing that past continuity proves there will be no disruption in the future. They mockingly question the promise of Christ's coming, doubting its fulfillment. However, they fail to grasp the hope of resurrection, which views death as a literal sleep followed by awakening. Peter, Jesus, and Paul all preached about the second coming, emphasizing the need for readiness and warning against setting specific dates. Despite the scoffers' doubts, the promise remains steadfast.
-- 🔄 2 Peter 3:4 (attempt 4, 85 words, 31.43% quotes quality score: 1.7522586632239308, V2 normalized quality score: 49.6, commentator tiers 1-3: 32.62%, 35.53%, 31.85%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Presumptuous skeptics, driven by skepticism and desire, prioritize nature and its so-called laws over the God of revelation. They argue that past continuity in nature implies no future interruption. Mocking the promise of Christ's coming, they doubt its fulfillment. However, they fail to understand the hope of resurrection, which compares death to a literal sleep with an awakening. Peter, like Jesus and Paul, preached about the second coming while discouraging setting specific dates. The objection of the scoffers overlooks the assurance of the promised future.
-- 🔄 2 Peter 3:4 (attempt 5, 87 words, 28.36% quotes quality score: 1.7228452046058629, V2 normalized quality score: 48.63, commentator tiers 1-3: 34.02%, 36.95%, 29.03%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 2 Peter 3:4 bht prompt v0.8 (87 words, 32.86% quotes)
-- quality score: 1.8368896535518626, V2 normalized quality score: 52.42, commentator tiers 1-3: 37.76%, 33.97%, 28.27%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- ✅ 2 Peter 3:4 bht prompt v0.8 (84 words, 35.09% quotes)
+- quality score: 1.9630153096669418, V2 normalized quality score: 56.61, commentator tiers 1-3: 29.81%, 38.84%, 31.35%)

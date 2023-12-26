@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:18:47",
+    "timestamp": "12-25-2023 19:29:05",
     "verseRef": "Luke 12:10",
     "bestBHT": {
-        "bht": "The sin in question pertains to blasphemy against the Holy Ghost, rejecting and resisting the power of the Spirit of Pentecost, as the Pharisees did by attributing Jesus' miracles to the devil. This sin is unpardonable, with no place for repentance. However, speaking against the Son of Man may be forgiven. It is crucial to recognize the distinction between these two sins, as forgiveness is offered for one but not the other.",
-        "wordCount": 72,
-        "quoteTokenProportion": 46.3,
-        "qualityScore": 1.739885115482048,
-        "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+        "bht": "Speaking against the Son of Man may be forgiven, but the sin of blaspheming against the Holy Ghost will not be pardoned. This sin involves rejecting and resisting the power of the Spirit of Pentecost. It is crucial to note that this unpardonable sin is separate from the charge made in Judea and is given immediately after the accusation that Jesus was in league with Beelzebub. The use of the word against in this context is significant, emphasizing the opposition to the Holy Ghost.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.8246865133012296,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.01,
         "commentatorTierSimilarities": [
-            24.07,
-            19.91,
-            56.02
+            26.23,
+            22.34,
+            51.44
         ],
         "generationAttempt": 2
     },
@@ -29,9 +29,9 @@
             "See the notes at Matthew 12:32."
         ],
         "Marvin Vincent": [
-            "A word against the poor and humble Son of Man might...have proceeded from a sincerely pious Jew, under the influence of his early education...\" (31 words)",
-            "The sin of the Jews was in rejecting and resisting the power of the Spirit of Pentecost.\" (16 words)",
-            "Pardon was offered them there for the sin of crucifying the Lord.\" (12 words)"
+            "A word against the poor and humble Son of Man might... have proceeded from a sincerely pious Jew, under the influence of his early education, which taught him to regard Jesus as an enthusiast or even as an impostor.",
+            "The sin of the Jews was in rejecting and resisting the power of the Spirit of Pentecost.",
+            "Pardon was offered them there for the sin of crucifying the Lord."
         ],
         "Philip Schaff": [
             "Luke 12:10. See on Matthew 12:31, in regard to the sin against the Holy Spirit.",
@@ -43,14 +43,14 @@
             "Note the use of \u03b5\u03b9\u03c2 here in the sense of 'against'."
         ],
         "John Gill": [
-            "And whosoever shall speak a word against the son of man, it shall be forgiven him.\" ",
-            "But unto him that blasphemeth against the Holy Ghost; as the Pharisees did, by charging the miracles of Christ with being done by the help of the devil, when they were wrought by the finger of the Spirit: it shall not be forgiven.\" ",
+            "And whosoever shall speak a word against the son of man, it shall be forgiven him...",
+            "...but unto him that blasphemeth against the Holy Ghost... it shall not be forgiven.",
             "The Ethiopic version adds at the close of this verse, as in Matthew, 'neither in this world, nor in that which is to come'."
         ],
         "John Wesley": [
-            "Yet the denying me in some degree, may, upon true repentance, be forgiven.",
-            "But if it rise so high as that of the blasphemy against the Holy Ghost, it shall never be forgiven, neither is there place for repentance.",
-            "Matthew 12:31; Mark 3:28."
+            "Yet the denying me in some degree, may, upon true repentance, be forgiven",
+            "If it rise so high as that of the blasphemy against the Holy Ghost, it shall never be forgiven",
+            "Neither is there place for repentance"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -70,67 +70,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The sin mentioned in this verse, which is also written about in Matthew 12:31 and Mark 3:28, is the blasphemy against the Holy Ghost. It is the sin of attributing the miracles of Jesus to the power of the devil, rather than acknowledging the work of the Holy Spirit. This sin is considered unpardonable, as it rejects and resists the power of the Spirit. However, judgment is given differently for those who speak a word against the Son of Man, as forgiveness is offered for that sin. It is important to note that even though some sins may be forgiven upon true repentance, this particular sin against the Holy Ghost is one that shall never be forgiven.",
-            "wordCount": 115,
-            "quoteTokenProportion": 43.28,
-            "qualityScore": 1.8628640943363801,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "bht": "It is said that speaking against the Son of Man may be forgiven, but blaspheming against the Holy Ghost will not be forgiven. The unpardonable sin consists of rejecting and resisting the power of the Spirit of Pentecost. This sin is separate from the charge made in Judea, and is given immediately after the accusation that Jesus was in league with Beelzebub. It is important to note the use of against in this context.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.7170329815011818,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
             "commentatorTierSimilarities": [
-                22.99,
-                22.88,
-                54.13
+                26.03,
+                22.27,
+                51.7
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The sin in question pertains to blasphemy against the Holy Ghost, rejecting and resisting the power of the Spirit of Pentecost, as the Pharisees did by attributing Jesus' miracles to the devil. This sin is unpardonable, with no place for repentance. However, speaking against the Son of Man may be forgiven. It is crucial to recognize the distinction between these two sins, as forgiveness is offered for one but not the other.",
-            "wordCount": 72,
-            "quoteTokenProportion": 46.3,
-            "qualityScore": 1.739885115482048,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "bht": "Speaking against the Son of Man may be forgiven, but the sin of blaspheming against the Holy Ghost will not be pardoned. This sin involves rejecting and resisting the power of the Spirit of Pentecost. It is crucial to note that this unpardonable sin is separate from the charge made in Judea and is given immediately after the accusation that Jesus was in league with Beelzebub. The use of the word against in this context is significant, emphasizing the opposition to the Holy Ghost.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8246865133012296,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.01,
             "commentatorTierSimilarities": [
-                24.07,
-                19.91,
-                56.02
+                26.23,
+                22.34,
+                51.44
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The sin discussed here is the blasphemy against the Holy Ghost, which involves attributing Jesus' miracles to the devil, thus resisting the power of the Spirit. This sin is considered unpardonable, with no place for repentance. However, speaking against the Son of Man may be forgiven. It is crucial to acknowledge the difference between these sins, as forgiveness is available for one but not the other.",
-            "wordCount": 66,
-            "quoteTokenProportion": 46.0,
-            "qualityScore": 1.7110445984965421,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "bht": "Speaking against the Son of Man may be forgiven, but blaspheming against the Holy Ghost will not be forgiven. This sin involves rejecting and resisting the power of the Spirit of Pentecost. The unpardonable sin is separate from the charge made in Judea and is given immediately after the accusation that Jesus was in league with Beelzebub. The use of against in this context is significant, emphasizing the opposition to the Holy Ghost.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.7908712861917337,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
             "commentatorTierSimilarities": [
-                23.68,
-                19.08,
-                57.24
+                25.39,
+                20.69,
+                53.92
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The sin referred to in this passage is the blasphemy against the Holy Ghost, which involves rejecting and resisting the power of the Spirit of Pentecost. This sin is considered unpardonable, as it attributes the miracles of Christ to the devil. Speaking against the Son of Man is a sin that may be forgiven, but the blasphemy against the Holy Ghost will never be forgiven. It is important to distinguish between these sins and understand the consequences associated with each.",
-            "wordCount": 80,
-            "quoteTokenProportion": 44.0,
-            "qualityScore": 1.7096346039645207,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "bht": "Speaking against the Son of Man may be forgiven, but blaspheming against the Holy Ghost will not be pardoned. This sin involves rejecting and resisting the power of the Spirit of Pentecost. It is important to note the use of against in this context, emphasizing the opposition to the Holy Ghost. The unpardonable sin is separate from the charge made in Judea and is given immediately after the accusation that Jesus was in league with Beelzebub.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.8114065862210458,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
             "commentatorTierSimilarities": [
-                24.45,
-                21.46,
-                54.09
+                25.56,
+                22.66,
+                51.78
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The sin addressed here is the blasphemy against the Holy Ghost, which involves rejecting the power of the Spirit and attributing Jesus' miracles to the devil. This sin is deemed unpardonable, with no possibility of repentance. On the other hand, speaking against the Son of Man may be forgiven. It is essential to discern the distinction between these sins, as forgiveness is offered for one but not for the other.",
-            "wordCount": 70,
-            "quoteTokenProportion": 45.1,
-            "qualityScore": 1.6920326701362964,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "bht": "Speaking against the Son of Man may be forgiven, but blaspheming against the Holy Ghost will not be forgiven. This sin involves rejecting and resisting the power of the Spirit of Pentecost. The unpardonable sin is distinct from the charge made in Judea and is given immediately after the accusation that Jesus was in league with Beelzebub. It is worth noting the use of against in this context, highlighting the opposition to the Holy Ghost.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.800268999399108,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
             "commentatorTierSimilarities": [
-                23.87,
-                19.27,
-                56.86
+                25.47,
+                21.2,
+                53.33
             ],
             "generationAttempt": 5
         }
