@@ -1,17 +1,17 @@
 # Luke 14:20 Commentary Help Text
 
 ## BHT:
-The excuses given reflect the influence of worldliness in deterring people from accepting God's invitation. One individual bluntly replies, I cannot (i.e. I will not) come. Another cites his recent marriage as a reason to prioritize his marital responsibilities. Nonetheless, the excuses presented may not genuinely represent the underlying motives. This discrepancy between appearance and reality signifies a stark contrast. Ultimately, these individuals opt for worldly relationships and indulgence in earthly pleasures, forsaking the offered blessings and salvation.
+The three excuses provided illustrate the power of worldly attachments in inhibiting one's commitment to God. Whether entangled in the responsibilities of marriage or consumed by personal pleasures, these excuses prioritize worldly gratification over spiritual connection. Even the seemingly justifiable excuse of a recently married man fails to excuse the absence of social courtesy. These differences between the excuses offered and the real motives behind them reveal the unfortunate truth that many willingly disqualify themselves from experiencing God's kingdom for trivial reasons.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "the third not so much as either of these, but rudely asserts 'I cannot (i. e. I will not) come.'"
-2. "Also the excuses themselves are threefold."
+1. "The third not so much as either of these, but rudely asserts 'I cannot (i.e. I will not) come.'" 
+2. "Also the excuses themselves are threefold." 
 3. "All are detained by worldliness, in however varied forms."
 
 ### Albert Barnes:
-1. "The love of earthly relatives and friends often takes off the affections from God, and prevents our accepting the blessings which he would bestow on us."
-2. "We cannot but be amazed that 'such' excuses are suffered to interfere with our salvation."
+1. "Our Saviour here doubtless intends to teach us that the love of earthly relatives and friends often takes off the affections from God." 
+2. "This was the most trifling excuse of all; and we cannot but be amazed that 'such' excuses are suffered to interfere with our salvation."
 3. "People can be satisfied for 'such' reasons to exclude themselves from the kingdom of God."
 
 ### Marvin Vincent:
@@ -20,59 +20,56 @@ The excuses given reflect the influence of worldliness in deterring people from 
 3. "He is but just joined in wedlock, and is busy enough with that."
 
 ### Philip Schaff:
-1. "Home engagements are often the most pressing, as they are also when sanctified the most pious." 
-2. "The invitation had been accepted before, the wife should have been induced to go with him, etc."
-3. "Worldly gratification hindered this one."
+1. "Home engagements are often the most pressing, as they are also when sanctified the most pious."
+2. "The invitation had been accepted before, the wife should have been induced to go with him."
+3. "Back of all this lies the thought, that worldly gratification hindered this one."
 
 ### Archibald T. Robertson:
-1. "I cannot come. Less polite than the others but a more plausible pretence if he wanted to make it so."
-2. "The law excused a newly married man from war, but not from social courtesy."
+1. "The law excused a newly married man from war, 'but not from social courtesy.'" 
+2. "The new wife would probably have been glad to go with him to the feast if asked." 
 3. "There is here as often a sharp difference between the excuses offered and the reasons behind them."
 
 ### John Gill:
-1. "And another said, I have married a wife.... I cannot come."
-2. "therefore I will not go": this man is more rustic and rude than the former.
-3. Represents such who are fond of their sensual lusts and pleasures, and are resolved to indulge them, and will not be taken off from them by any means whatever.
+1. "And his pretence might be, that he had his own marriage feast, and friends to attend, nor could he leave his wife directly; but his circumstances were such as made an invitation to a feast the more agreeable, and he might have brought his wife and friends along with him, who would have been as welcome as himself."
+2. "Therefore I cannot come." 
+3. "This man is more rustic and rude than the former; he does not so much as desire to be excused; and represents such who are fond of their sensual lusts and pleasures, and are resolved to indulge them, and will not be taken off from them by any means whatever."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:19:53
+- Timestamp: 12-25-2023 20:33:33
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 29.85%
-- BHT Quality Score: 1.3396844198142697
+- BHT Word Count: 84
+- BHT Commentary Usage: 33.85%
+- BHT Quality Score: 1.6426579460041812
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (67):
-	['a', 'accepting', 'and', 'another', 'appearance', 'as', 'between', 'blessings', 'bluntly', 'cannot', 'cites', 'come', 'contrast', 'deterring', 'discrepancy', 'e', 'earthly', 'excuses', 'for', 'forsaking', 'from', 'genuinely', 'given', 'god', 'his', 'i', 'in', 'individual', 'individuals', 'indulgence', 'influence', 'invitation', 'marital', 'marriage', 'may', 'motives', 'nonetheless', 'not', 'of', 'offered', 'one', 'opt', 'people', 'pleasures', 'presented', 'prioritize', 'reality', 'reason', 'recent', 'reflect', 'relationships', 'replies', 'represent', 'responsibilities', 's', 'salvation', 'signifies', 'stark', 'the', 'these', 'this', 'to', 'ultimately', 'underlying', 'will', 'worldliness', 'worldly']
-- ChatGPT injected words (significant words only) (47):
-	['accepting', 'appearance', 'blessings', 'bluntly', 'cites', 'come', 'contrast', 'deterring', 'discrepancy', 'e', 'earthly', 'excuses', 'forsaking', 'genuinely', 'given', 'god', 'individual', 'individuals', 'indulgence', 'influence', 'invitation', 'marital', 'marriage', 'motives', 'nonetheless', 'offered', 'opt', 'people', 'pleasures', 'presented', 'prioritize', 'reality', 'reason', 'recent', 'reflect', 'relationships', 'replies', 'represent', 'responsibilities', 's', 'salvation', 'signifies', 'stark', 'ultimately', 'underlying', 'worldliness', 'worldly']
+- ChatGPT injected words (65):
+	['a', 'absence', 'and', 'attachments', 'behind', 'between', 'by', 'commitment', 'connection', 'consumed', 'courtesy', 'differences', 'disqualify', 'entangled', 'even', 'excuse', 'excuses', 'experiencing', 'fails', 'for', 'from', 'god', 'gratification', 'illustrate', 'in', 'inhibiting', 'justifiable', 'kingdom', 'man', 'many', 'marriage', 'married', 'motives', 'of', 'offered', 'one', 'or', 'over', 'personal', 'pleasures', 'power', 'prioritize', 'provided', 'real', 'reasons', 'recently', 'responsibilities', 'reveal', 's', 'seemingly', 'social', 'spiritual', 'that', 'the', 'them', 'themselves', 'these', 'three', 'to', 'trivial', 'truth', 'unfortunate', 'whether', 'willingly', 'worldly']
+- ChatGPT injected words (significant words only) (43):
+	['absence', 'attachments', 'commitment', 'connection', 'consumed', 'courtesy', 'differences', 'disqualify', 'entangled', 'excuse', 'excuses', 'experiencing', 'fails', 'god', 'gratification', 'illustrate', 'inhibiting', 'justifiable', 'kingdom', 'man', 'marriage', 'married', 'motives', 'offered', 'personal', 'pleasures', 'power', 'prioritize', 'provided', 'real', 'reasons', 'recently', 'responsibilities', 'reveal', 's', 'seemingly', 'social', 'spiritual', 'trivial', 'truth', 'unfortunate', 'willingly', 'worldly']
 
 ### Logs
-- Attempt 1 BHT: The verse reveals three different excuses given by individuals who decline an invitation. One individual outright refuses to come, asserting I cannot (i.e. I will not) come. The excuses given by these individuals represent a variety of forms of worldliness, with one newly married man claiming that he is too busy with his marital responsibilities. Although the law excuses a newly married man from war, it does not exempt him from social courtesy. These excuses offered may differ from the true reasons behind them, highlighting the sharp contrast between the appearances and realities of these individuals' motives. Ultimately, these excuses reflect a prioritization of earthly relationships and indulgence in worldly pleasures over accepting the blessings and salvation offered by God.
-- 🔄 Luke 14:20 (attempt 1, 121 words, 38.1% quotes quality score: 1.5891165113227217, V2 normalized quality score: 44.18, commentator tiers 1-3: 37.72%, 35.73%, 26.55%) 
+- Attempt 1 BHT: The three excuses presented in this verse reveal a common theme of worldly attachments. Whether it be the obligations of marriage, the distractions of home life, or the allure of personal pleasure, these excuses prioritize worldly gratification over spiritual communion. Even the most plausible excuse of a newly married man neglects the fact that social courtesy should supersede personal indulgence. Ultimately, the difference between the excuses offered and the true reasons behind them underscores the unfortunate reality that many are content to exclude themselves from the kingdom of God for trivial matters.
+- 🔄 Luke 14:20 (attempt 1, 92 words, 36.62% quotes quality score: 1.6066273252378442, V2 normalized quality score: 44.76, commentator tiers 1-3: 31.32%, 41.38%, 27.29%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The threefold excuses in this passage exemplify the ways in which worldliness can hinder individuals from accepting God's invitation. One man outright refuses, rudely asserting, I cannot (i.e. I will not) come. Another excuses himself due to his recent marriage, prioritizing his marital responsibilities over the invitation. These excuses, though offered, do not necessarily reflect the true reasons behind them, exposing the contrast between appearances and realities. Ultimately, they demonstrate a preference for earthly relationships and indulgence in worldly pleasures, rejecting the blessings and salvation offered by God.
-- 🔄 Luke 14:20 (attempt 2, 90 words, 38.89% quotes quality score: 1.5250714108999637, V2 normalized quality score: 42.05, commentator tiers 1-3: 31.31%, 40.18%, 28.52%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: The excuses in this passage highlight the influence of worldly attachments on one's commitment to God. Some are detained by the responsibilities of marriage, while others prioritize the distractions of home life. The most plausible excuse emphasizes personal pleasure over social courtesy. These excuses reveal a sharp contrast between what is offered and the real motives behind them. Unfortunately, many are satisfied with trivial reasons to exclude themselves from the kingdom of God.
+- 🔄 Luke 14:20 (attempt 2, 74 words, 42.62% quotes quality score: 1.5398847150710373, V2 normalized quality score: 42.54, commentator tiers 1-3: 32.24%, 45.5%, 22.25%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The excuses given in the verse showcase the ways in which worldliness can prevent people from accepting God's invitation. One individual rudely asserts I cannot (i.e. I will not) come. Another offers the excuse of being newly married, prioritizing his marital responsibilities over attending the event. These excuses may not reflect the true reasons behind them, highlighting the discrepancy between appearances and realities. Ultimately, these individuals prioritize earthly relationships and indulgence in worldly pleasures over accepting the blessings and salvation offered by God.
-- 🔄 Luke 14:20 (attempt 3, 85 words, 33.33% quotes quality score: 1.468005755518334, V2 normalized quality score: 40.15, commentator tiers 1-3: 31.75%, 41.75%, 26.5%) 
+- Attempt 3 BHT: The three excuses presented in this paragraph highlight the impact of worldly attachments on one's dedication to God. From the obligations of marriage to the distractions of home life, these excuses prioritize worldly gratification over spiritual communion. Even the most plausible excuse, citing marriage as a hindrance, neglects the importance of social courtesy. The differences between the excuses offered and the actual motives behind them underscore the unfortunate reality that many are content to exclude themselves from God's kingdom for trivial reasons.
+- 🔄 Luke 14:20 (attempt 3, 84 words, 38.1% quotes quality score: 1.5573629012442542, V2 normalized quality score: 43.12, commentator tiers 1-3: 31.43%, 44.24%, 24.33%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The excuses given reflect the influence of worldliness in deterring people from accepting God's invitation. One individual bluntly replies, I cannot (i.e. I will not) come. Another cites his recent marriage as a reason to prioritize his marital responsibilities. Nonetheless, the excuses presented may not genuinely represent the underlying motives. This discrepancy between appearance and reality signifies a stark contrast. Ultimately, these individuals opt for worldly relationships and indulgence in earthly pleasures, forsaking the offered blessings and salvation.
-- 🔄 Luke 14:20 (attempt 4, 80 words, 29.85% quotes quality score: 1.3396844198142697, V2 normalized quality score: 35.89, commentator tiers 1-3: 32.55%, 37.9%, 29.55%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The excuses offered in the verse illustrate the ways in which worldliness can hinder individuals from accepting God's invitation. One person rudely asserts, I cannot (i.e. I will not) come, while another individual prioritizes his recent marriage over attending the event. These excuses, however, may not truly reflect their underlying motivations. This discrepancy between the offered excuses and the hidden reasons behind them highlights a sharp contrast. Ultimately, these individuals choose to prioritize earthly relationships and indulge in worldly pleasures, rejecting the blessings and salvation extended by God.
-- 🔄 Luke 14:20 (attempt 5, 90 words, 36.62% quotes quality score: 1.4442936960983883, V2 normalized quality score: 39.37, commentator tiers 1-3: 32.81%, 40.6%, 26.59%) 
+- Attempt 4 BHT: The excuses in this paragraph reveal how worldliness can hinder one's devotion to God. Whether it's the obligations of marriage or the allure of personal pleasures, these excuses prioritize worldly gratification over spiritual communion. Even the most plausible excuse, regarding newly married responsibilities, fails to consider the importance of social courtesy. The discrepancy between the excuses offered and the underlying reasons highlights how many are willing to exclude themselves from God's kingdom for superficial matters.
+- 🔄 Luke 14:20 (attempt 4, 78 words, 37.7% quotes quality score: 1.599995014947467, V2 normalized quality score: 44.54, commentator tiers 1-3: 31.81%, 43.44%, 24.76%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The three excuses provided illustrate the power of worldly attachments in inhibiting one's commitment to God. Whether entangled in the responsibilities of marriage or consumed by personal pleasures, these excuses prioritize worldly gratification over spiritual connection. Even the seemingly justifiable excuse of a recently married man fails to excuse the absence of social courtesy. These differences between the excuses offered and the real motives behind them reveal the unfortunate truth that many willingly disqualify themselves from experiencing God's kingdom for trivial reasons.
+- 🔄 Luke 14:20 (attempt 5, 84 words, 33.85% quotes quality score: 1.6426579460041812, V2 normalized quality score: 45.96, commentator tiers 1-3: 31.33%, 40.65%, 28.02%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Luke 14:20 bht prompt v0.8 (80 words, 29.85% quotes)
-- quality score: 1.3396844198142697, V2 normalized quality score: 35.89, commentator tiers 1-3: 32.55%, 37.9%, 29.55%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 14:20 bht prompt v0.8 (84 words, 33.85% quotes)
+- quality score: 1.6426579460041812, V2 normalized quality score: 45.96, commentator tiers 1-3: 31.33%, 40.65%, 28.02%)

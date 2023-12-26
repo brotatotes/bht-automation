@@ -1,67 +1,71 @@
 # Mark 3:22 Commentary Help Text
 
 ## BHT:
-The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These learned and cunning men, seeking to oppose Him, made their way to Galilee to observe and find fault. Unfortunately, their influence led even the common people to doubt His works. It is concerning how easily a person of knowledge can dismiss clear evidence of God's work, explaining it away without acknowledging His involvement.
+They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation aimed to entrap and oppose Him, claiming He exercised Satanic power. The charge implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The scribes which came down from Jerusalem..." 
-2. "He hath Beelzebub... If He was possessed by Beelzebub, the prince of mons, He would thus have authority over the inferior evil spirits."
+1. "He hath Beelzebub. This addition is most important."
+2. "If He was possessed by Beelzebub, the prince of mons, He would thus have authority over the inferior evil spirits."
+3. "He would thus have authority over the inferior evil spirits."
 
 ### Marvin Vincent:
-1. "Beelzebub. See on Matthew 10:25." 
+1. "Beelzebub. See on Matthew 10:25."
 2. "And. Not connecting two parts of one accusation, but two accusations, as is evident from the two otiv, which are equivalent to quotation marks."
 
 ### Philip Schaff:
-1. "Mark thus defines the parties, while Matthew (Matthew 12:23) states the occasion of the accusation."
-2. "The purpose of their coming was doubtless to entrap and oppose Him."
-3. "Mark...states with greatest definiteness that they charged Him, not only with exercising Satanic power, but with being Himself possessed by an evil spirit."
+1. "The purpose of their coming was doubtless to entrap and oppose Him." 
+2. "They charged Him, not only with exercising Satanic power, but with being Himself possessed by an evil spirit."
+3. "Mark, however, both here and in Mark 3:20, states with greatest definiteness that they charged Him."
 
 ### John Gill:
-1. "These were they, who having heard much of the doctrine and miracles of Christ, came down from Jerusalem, which lay in the upper, and higher part of the land of Israel, into Galilee, a low country, to make their observations upon him and take every advantage they could against him, being men, in their way, letter learned, and artful, and cunning."
-2. "Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them."
-3. "For so they reckoned Beelzebub to be."
+1. "He hath Beelzebub: or, as the Syriac and Persic versions render it, 'Beelzebub is in him'." 
+2. "Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them." 
+3. "And by the prince of devils casteth he out devils; for so they reckoned Beelzebub to be."
 
 ### John Wesley:
-1. "The common people now began to drink in the poison, from these learned, good, honourable men!"
+1. "He hath Beelzebub - at command, is in league with him: And by the prince of the devils casteth he out devils." 
 2. "How easily may a man of learning elude the strongest proof of a work of God!"
 3. "How readily can he account for every incident without ever taking God into the question."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:21:25
+- Timestamp: 12-25-2023 20:32:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 41.1%
-- BHT Quality Score: 1.436936199338577
+- BHT Word Count: 72
+- BHT Commentary Usage: 38.6%
+- BHT Quality Score: 1.7256014917943339
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (73):
-	['a', 'accused', 'acknowledging', 'and', 'authority', 'away', 'be', 'because', 'beelzebub', 'being', 'by', 'came', 'can', 'clear', 'common', 'concerning', 'cunning', 'demons', 'dismiss', 'doubt', 'easily', 'even', 'evidence', 'evil', 'explaining', 'fault', 'find', 'from', 'galilee', 'god', 'had', 'he', 'him', 'himself', 'his', 'how', 'if', 'influence', 'involvement', 'is', 'it', 'jerusalem', 'knowledge', 'learned', 'led', 'made', 'men', 'must', 'observe', 'of', 'oppose', 'over', 'people', 'person', 'possessed', 'prince', 's', 'scribes', 'seeking', 'spirits', 'suggesting', 'that', 'the', 'their', 'these', 'to', 'unfortunately', 'was', 'way', 'who', 'without', 'work', 'works']
-- ChatGPT injected words (significant words only) (43):
-	['accused', 'acknowledging', 'authority', 'away', 'beelzebub', 'came', 'clear', 'common', 'concerning', 'cunning', 'demons', 'dismiss', 'doubt', 'easily', 'evidence', 'evil', 'explaining', 'fault', 'find', 'galilee', 'god', 'influence', 'involvement', 'jerusalem', 'knowledge', 'learned', 'led', 'men', 'observe', 'oppose', 'people', 'person', 'possessed', 'prince', 's', 'scribes', 'seeking', 'spirits', 'suggesting', 'unfortunately', 'way', 'work', 'works']
+- ChatGPT injected words (57):
+	['a', 'ability', 'accusation', 'accused', 'acknowledging', 'aimed', 'and', 'attributing', 'authority', 'away', 'beelzebub', 'being', 'between', 'by', 'can', 'cast', 'charge', 'claiming', 'confederacy', 'demons', 'demonstrates', 'easily', 'entrap', 'evil', 'exercised', 'explain', 'god', 'had', 'he', 'him', 'his', 'how', 'implied', 'involvement', 'jesus', 'knowledge', 'of', 'oppose', 'other', 'out', 'over', 'person', 'possessed', 'power', 'prince', 'response', 'satanic', 'spirits', 'such', 'suggesting', 'that', 'the', 'they', 'this', 'to', 'without', 'work']
+- ChatGPT injected words (significant words only) (35):
+	['ability', 'accusation', 'accused', 'acknowledging', 'aimed', 'attributing', 'authority', 'away', 'beelzebub', 'cast', 'charge', 'claiming', 'confederacy', 'demons', 'demonstrates', 'easily', 'entrap', 'evil', 'exercised', 'explain', 'god', 'implied', 'involvement', 'jesus', 'knowledge', 'oppose', 'person', 'possessed', 'power', 'prince', 'response', 'satanic', 'spirits', 'suggesting', 'work']
 
 ### Logs
-- Attempt 1 BHT: The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. This accusation was made in an attempt to oppose and entrap Him. The scribes, being learned and cunning, came to Galilee specifically to observe and find fault with Him. Sadly, their influence and reputation caused even the common people to doubt and question the works and teachings of Jesus. It is astounding to see how easily a person of learning can dismiss the undeniable evidence of God's work and explain it away without acknowledging His involvement. The power of knowledge and influence can be a dangerous force, leading people away from acknowledging the true work of God.
-- 🔄 Mark 3:22 (attempt 1, 133 words, 38.64% quotes quality score: 1.4083895074313735, V2 normalized quality score: 38.17, commentator tiers 1-3: 28.18%, 38.31%, 33.51%) 
+- Attempt 1 BHT: They accused Him of being possessed by Beelzebub, the prince of demons, suggesting that He had authority over other evil spirits. This accusation was meant to entrap and oppose Him. They not only claimed that He exercised Satanic power but also that He Himself was possessed by an evil spirit. The charge was definite, as Mark emphasized in both this passage and a previous one. The accusation implied a confederacy and familiarity between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.
+- 🔄 Mark 3:22 (attempt 1, 109 words, 44.0% quotes quality score: 1.6435997193154739, V2 normalized quality score: 45.99, commentator tiers 1-3: 32.61%, 34.99%, 32.4%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The scribes from Jerusalem accused Him of being possessed by Beelzebub, implying that His authority over evil spirits was due to his own possession. These cunning and learned men came to Galilee with the purpose of finding fault and opposing Him. Unfortunately, their influence caused even the common people to doubt His works. It is alarming to witness how easily someone with knowledge can dismiss the evidence of God's work, explaining it away without acknowledging His involvement. The power of influence can veer people away from recognizing the true work of God.
-- 🔄 Mark 3:22 (attempt 2, 93 words, 35.82% quotes quality score: 1.3248176117674288, V2 normalized quality score: 35.39, commentator tiers 1-3: 27.33%, 35.6%, 37.06%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 2 BHT: They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation was meant to entrap and oppose Him. They not only claimed that He exercised Satanic power but also that He Himself was possessed by an evil spirit. The charge was definite, as Mark emphasized that they charged Him. The accusation implied a confederacy and familiarity between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.
+- 🔄 Mark 3:22 (attempt 2, 101 words, 42.25% quotes quality score: 1.6645076420022829, V2 normalized quality score: 46.69, commentator tiers 1-3: 31.59%, 37.77%, 30.64%) 
 	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: They accused Him of being possessed by Beelzebub, suggesting authority over evil spirits. This charge aimed to entrap and oppose Him, claiming He exercised Satanic power. The accusation was definite, as Mark emphasized that they charged Him. It implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. This highlights how easily a person of knowledge can explain away God's work, failing to acknowledge His involvement.
+- 🔄 Mark 3:22 (attempt 3, 76 words, 34.43% quotes quality score: 1.6880177741386997, V2 normalized quality score: 47.47, commentator tiers 1-3: 31.49%, 35.91%, 32.6%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation was meant to entrap and oppose Him. The charge was definite, as Mark emphasized that they charged Him. The accusation implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. This highlights how easily a person of knowledge can explain away God's work, failing to acknowledge His involvement.
+- 🔄 Mark 3:22 (attempt 4, 77 words, 37.93% quotes quality score: 1.625322441379093, V2 normalized quality score: 45.38, commentator tiers 1-3: 32.55%, 36.55%, 30.9%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation aimed to entrap and oppose Him, claiming He exercised Satanic power. The charge implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.
+- 🔄 Mark 3:22 (attempt 5, 72 words, 38.6% quotes quality score: 1.7256014917943339, V2 normalized quality score: 48.72, commentator tiers 1-3: 32.05%, 31.78%, 36.16%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These learned and cunning men, seeking to oppose Him, made their way to Galilee to observe and find fault. Unfortunately, their influence led even the common people to doubt His works. It is concerning how easily a person of knowledge can dismiss clear evidence of God's work, explaining it away without acknowledging His involvement.
-- 🔄 Mark 3:22 (attempt 3, 90 words, 41.1% quotes quality score: 1.436936199338577, V2 normalized quality score: 39.12, commentator tiers 1-3: 28.13%, 37.0%, 34.87%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The scribes from Jerusalem accused Him of being possessed by Beelzebub, implying that His authority over evil spirits was due to his own possession. These cunning and learned men sought to find fault with Him, even causing doubt among the common people. It is alarming how easily someone with knowledge can dismiss God's work, explaining it away without acknowledging His involvement. The power of influence can divert people from recognizing the true work of God.
-- 🔄 Mark 3:22 (attempt 4, 76 words, 40.0% quotes quality score: 1.3392052337083142, V2 normalized quality score: 35.87, commentator tiers 1-3: 28.65%, 32.87%, 38.47%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These cunning and learned men came to Galilee specifically to observe and find fault with Him. Sadly, their influence and reputation caused even the common people to doubt and question the works and teachings of Jesus. It is astounding to see how easily a person of learning can dismiss the undeniable evidence of God's work and explain it away without acknowledging His involvement. The power of knowledge and influence can be a dangerous force, leading people away from acknowledging the true work of God.
-- 🔄 Mark 3:22 (attempt 5, 120 words, 37.8% quotes quality score: 1.3640464380065338, V2 normalized quality score: 36.7, commentator tiers 1-3: 27.42%, 34.13%, 38.45%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 3:22 bht prompt v0.8 (90 words, 41.1% quotes)
-- quality score: 1.436936199338577, V2 normalized quality score: 39.12, commentator tiers 1-3: 28.13%, 37.0%, 34.87%)
+- ✅ Mark 3:22 bht prompt v0.8 (72 words, 38.6% quotes)
+- quality score: 1.7256014917943339, V2 normalized quality score: 48.72, commentator tiers 1-3: 32.05%, 31.78%, 36.16%)

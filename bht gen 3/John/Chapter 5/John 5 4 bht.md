@@ -1,42 +1,38 @@
 # John 5:4 Commentary Help Text
 
 ## BHT:
-The controversial nature of this disputed passage is evident, with significant manuscript evidence supporting its exclusion. The miraculous claims of instantaneous healing by water at a specific time and for the first person to enter seem highly improbable. The belief in the healing ministry of angels by the Jews is worth noting, though it is critical to recognize God's sovereign use of elements. Ultimately, this passage serves to emphasize the incomparable power and abundance of healing through faith in Christ.
+The authenticity of this disputed text should not be questioned, as it is omitted in the oldest and most reliable manuscripts. According to Jewish tradition, the intermittent spring's healing properties were ascribed to angelic intervention. Just as humans receive blessings through others, it is not unfathomable for angels to minister to the poor and afflicted. The stirring of the water signified God's power to employ natural elements for His purposes. Through the proclamation of the Gospel, souls are healed from all their ailments and saved eternally.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The spuriousness of this controverted passage can hardly be questioned." 
+1. "The spuriousness of this controverted passage can hardly be questioned."
 2. "The Vatican, Paris, Cambridge, and Sinaitic MSS. omit it."
-3. "The Alexandrine MS. contains it, but with the important variation of 'an angel washed in' instead of 'went down into.'"
+3. "The Alexandrine MS. contains it, but with the important variation of 'an angel washed in' instead of 'went down into'."
 
 ### Jamieson-Fausset-Brown:
-1. "We have heard of many waters having a medicinal virtue but
-   what water was ever known to cure instantaneously a single
-   disease?"
-2. "Above all, who ever heard of such a thing being done 'only at a
-   certain season,' and most singularly of all, doing it only to
-   the first person who stepped in after the moving of the waters?"
+1. "We have heard of many waters having a medicinal virtue but what water was ever known to cure instantaneously a single disease?"
+2. "And who ever heard of any water curing all, even the most diverse diseases—'blind, halt, withered'—alike?"
 3. "Any of these peculiarities—much more all taken together—must have proclaimed the supernatural character of the cures wrought."
 
 ### Albert Barnes:
-1. "The Jews were in the habit of attributing all favors to the ministry of the angels of God..."
-2. "Nor can it be shown to be absurd or improbable that such blessings should be imparted to man by the ministry of an angel."
-3. "And yet how lamentable is it that such places - watering places - should be mere places of gaiety and thoughtlessness, of balls, and gambling, and dissipation!"
+1. "All that is special about them in the record is that this was produced by the ministry of an angel. This was in accordance with the common sentiment of the Jews, the common doctrine of the Bible, and the belief of the sacred writers."
+2. "What man can prove that all his temporal blessings do not come to him through the medium of others - of parents, of teachers, of friends, of 'angels?' And who can prove that it is unworthy the benevolence of angels to minister to the wants of the poor, the needy, and the afflicted, when 'man' does it, and Jesus Christ did it, and God himself does it daily?"
+3. "When this fountain was discovered, or how long its healing properties continued to be known, it is impossible now to ascertain. All that we know of it is what is mentioned here, and conjecture would be useless."
 
 ### John Calvin:
-1. "We ought to guard against the foolish speculations of Plato, for the distance between us and God is too great to allow us to go to the angels."
-2. "The Lord accustoms us to the obedience of faith... Then only do we show our submissive obedience when we shut our eyes and follow the plain word."
-3. "The troubling of the water was a manifest proof that God freely uses the elements according to his own pleasure, and that He claims for himself the result of the work."
+1. "We ought to guard against the foolish speculations of Plato, for the distance between us and God is too great to allow us to go to the angels, that they may obtain favor for us; but, on the contrary, we ought to come direct to Christ, that, by his guidance, protection, and command, we may have the angels as assistants and ministers of our salvation."
+2. "But the manner of curing, which is here described, shows plainly enough that nothing is more unreasonable than that men should subject the works of God to their own judgment; for pray, what assistance or relief could be expected from troubled water?"
+3. "Yet the troubling of the water was a manifest proof that God freely uses the elements according to his own pleasure, and that He claims for himself the result of the work."
 
 ### Archibald T. Robertson:
-1. "All of this verse is wanting in the oldest and best manuscripts... It is undoubtedly added... to make clearer the statement..."
+1. "All of this verse is wanting in the oldest and best manuscripts... It is undoubtedly added... to make clearer the statement."
 2. "The Jews explained the healing virtues of the intermittent spring by the ministry of angels."
 3. "It is a relief to many to know that the verse is spurious."
 
 ### John Gill:
-1. "Whosoever then first after the troubling of the waters stepped in was made whole of whatsoever disease he had."
-2. "Now this angel may represent a minister of the Gospel, for such are called angels, Revelation 1:20; being called of God, and sent by him, with messages of grace to the sons of men."
-3. "And whoever now, upon the preaching of the Gospel, are enabled to step forth and come to Christ, and believe in him, are cured of all their soul maladies and diseases, be they what they will."
+1. "Now this angel may represent a minister of the Gospel, for such are called angels, Revelation 1:20; being called of God, and sent by him, with messages of grace to the sons of men."
+2. "The preaching of the Gospel by such, may be aptly signified by the troubling of the waters, as it is by the shaking of heaven, earth, and sea."
+3. "Whoever now, upon the preaching of the Gospel, are enabled to step forth and come to Christ, and believe in him, are cured of all their soul maladies and diseases, be they what they will; all their inquiries are pardoned, their persons justified, and they are saved in Christ, with an everlasting salvation."
 
 ### John Wesley:
 1. "An angel — Yet many undoubtedly thought the whole thing to be purely natural."
@@ -46,48 +42,42 @@ The controversial nature of this disputed passage is evident, with significant m
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:06:03
+- Timestamp: 12-25-2023 20:34:07
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 30.0%
-- BHT Quality Score: 1.3941072969914738
+- BHT Word Count: 88
+- BHT Commentary Usage: 34.85%
+- BHT Quality Score: 1.4898404054847365
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'abundance', 'and', 'angels', 'at', 'belief', 'by', 'christ', 'claims', 'controversial', 'critical', 'disputed', 'elements', 'emphasize', 'enter', 'evidence', 'evident', 'exclusion', 'faith', 'first', 'for', 'god', 'healing', 'highly', 'improbable', 'in', 'incomparable', 'instantaneous', 'is', 'it', 'its', 'jews', 'manuscript', 'ministry', 'miraculous', 'nature', 'noting', 'of', 'passage', 'person', 'power', 'recognize', 's', 'seem', 'serves', 'significant', 'sovereign', 'specific', 'supporting', 'the', 'this', 'though', 'through', 'time', 'to', 'ultimately', 'use', 'water', 'with', 'worth']
-- ChatGPT injected words (significant words only) (42):
-	['abundance', 'angels', 'belief', 'christ', 'claims', 'controversial', 'critical', 'disputed', 'elements', 'emphasize', 'enter', 'evidence', 'evident', 'exclusion', 'faith', 'god', 'healing', 'highly', 'improbable', 'incomparable', 'instantaneous', 'jews', 'manuscript', 'ministry', 'miraculous', 'nature', 'noting', 'passage', 'person', 'power', 'recognize', 's', 'serves', 'significant', 'sovereign', 'specific', 'supporting', 'time', 'ultimately', 'use', 'water', 'worth']
+- ChatGPT injected words (66):
+	['according', 'afflicted', 'ailments', 'all', 'and', 'angelic', 'angels', 'are', 'as', 'ascribed', 'authenticity', 'be', 'blessings', 'disputed', 'elements', 'employ', 'eternally', 'for', 'from', 'god', 'gospel', 'healed', 'healing', 'his', 'humans', 'in', 'intermittent', 'intervention', 'is', 'it', 'jewish', 'just', 'manuscripts', 'minister', 'most', 'natural', 'not', 'of', 'oldest', 'omitted', 'others', 'poor', 'power', 'proclamation', 'properties', 'purposes', 'questioned', 'receive', 'reliable', 's', 'saved', 'should', 'signified', 'souls', 'spring', 'stirring', 'text', 'the', 'their', 'this', 'through', 'to', 'tradition', 'unfathomable', 'water', 'were']
+- ChatGPT injected words (significant words only) (43):
+	['according', 'afflicted', 'ailments', 'angelic', 'angels', 'ascribed', 'authenticity', 'blessings', 'disputed', 'elements', 'employ', 'eternally', 'god', 'gospel', 'healed', 'healing', 'humans', 'intermittent', 'intervention', 'jewish', 'manuscripts', 'minister', 'natural', 'oldest', 'omitted', 'poor', 'power', 'proclamation', 'properties', 'purposes', 'questioned', 'receive', 'reliable', 's', 'saved', 'signified', 'souls', 'spring', 'stirring', 'text', 'tradition', 'unfathomable', 'water']
 
 ### Logs
-- Attempt 1 BHT: The disputed verse in John 5:4, which describes the troubling of the waters and the healing that followed, is considered by many to be spurious due to its absence in the oldest and best manuscripts. The notion that a particular water source had the power to cure diseases instantaneously at a certain season only for the first person to enter after the waters were stirred seemed highly improbable and lacking supernatural credibility. The Jews attributed such healing powers to the ministry of angels, but it is important to note that God can freely use elements according to His will. Some commentaries suggest that the troubling of the water may symbolize the preaching of the Gospel, with the angel representing a minister of God's grace. Through faith in Christ, believers are cured of their spiritual ailments. This verse serves to emphasize the power and efficacy of Jesus' miracles, contrasting the limited healing offered by the water with the abundant healing provided by the Son of God to multitudes of people.
-- 🔄 John 5:4 (attempt 1, 169 words, 32.41% quotes quality score: 1.4627668634614757, V2 normalized quality score: 39.98, commentator tiers 1-3: 26.68%, 30.58%, 42.74%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The authenticity of the disputed passage is widely questioned, as it is absent in the oldest and best manuscripts. The idea of water having instantaneous curative properties at a specific time for the first person to enter after the waters were stirred lacks credibility. The Jews believed in the healing ministry of angels, while God can employ elements according to His will. This verse highlights the contrast between limited water healing and the abundant miraculous healing performed by Jesus. Through faith in Christ, believers are spiritually cured of their ailments.
-- 🔄 John 5:4 (attempt 2, 90 words, 34.29% quotes quality score: 1.358661941373057, V2 normalized quality score: 36.52, commentator tiers 1-3: 29.59%, 29.38%, 41.02%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The controversial nature of this disputed passage is evident, with significant manuscript evidence supporting its exclusion. The miraculous claims of instantaneous healing by water at a specific time and for the first person to enter seem highly improbable. The belief in the healing ministry of angels by the Jews is worth noting, though it is critical to recognize God's sovereign use of elements. Ultimately, this passage serves to emphasize the incomparable power and abundance of healing through faith in Christ.
-- 🔄 John 5:4 (attempt 3, 81 words, 30.0% quotes quality score: 1.3941072969914738, V2 normalized quality score: 37.7, commentator tiers 1-3: 30.91%, 31.39%, 37.7%) 
+- Attempt 1 BHT: The spuriousness of this controverted passage can hardly be questioned, as the oldest and best manuscripts omit it. The Jews explained the healing virtues of the intermittent spring by the ministry of angels. What man can prove that all his blessings do not come through the medium of others - of parents, of teachers, of 'angels'? And who can prove it is unworthy of angels to minister to the poor, needy, and afflicted when man and Jesus Christ does it? Yet the troubling of the water was a manifest proof that God freely uses the elements according to his own pleasure. When the preaching of the Gospel enables people to step forth and come to Christ, they are cured of all their soul maladies and diseases, and saved with an everlasting salvation.
+- 🔄 John 5:4 (attempt 1, 131 words, 36.47% quotes quality score: 1.7315266466366903, V2 normalized quality score: 48.92, commentator tiers 1-3: 25.22%, 39.62%, 35.16%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: The authenticity of this debated verse is highly questionable, supported by the absence of it in the best manuscripts. The notion of instantaneous healing by water at a specific time and only for the first individual to enter after the waters were stirred appears unrealistic. The Jews attributed the healing to angelic intervention; however, it is important to acknowledge God's sovereignty in using elements according to His will. This passage underscores the power and abundance of healing found through faith in Christ, contrasting it with the limitations of water healing.
-- 🔄 John 5:4 (attempt 4, 91 words, 34.92% quotes quality score: 1.3157525562735801, V2 normalized quality score: 35.09, commentator tiers 1-3: 31.56%, 24.76%, 43.68%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The disputed nature of this controverted verse cannot be ignored, and its absence in the oldest and best manuscripts raises doubts regarding its authenticity. The idea of instantaneous healing through water at a specific time, solely for the first person to enter, seems implausible. Nonetheless, the Jews associated the intermittent spring's healing properties with angels. It is important to recognize God's sovereignty in using elements according to His will. Ultimately, this text highlights the remarkable power of healing through faith in Christ, surpassing any limitations of water healing.
-- 🔄 John 5:4 (attempt 5, 90 words, 33.82% quotes quality score: 1.28113370123585, V2 normalized quality score: 33.94, commentator tiers 1-3: 31.98%, 26.39%, 41.64%) 
+- Attempt 2 BHT: The spuriousness of this controversial verse cannot be questioned, as the oldest and best manuscripts omit it. The Jews attributed the healing of the intermittent spring to the ministry of angels. Just as humans receive blessings through others, it is not unworthy for angels to minister to the needs of the poor and afflicted. The troubling of the water demonstrates God's sovereignty in using the elements according to His pleasure. Through the preaching of the Gospel, souls are cured of all maladies and saved with everlasting salvation.
+- 🔄 John 5:4 (attempt 2, 88 words, 34.43% quotes quality score: 1.5947756867968739, V2 normalized quality score: 44.37, commentator tiers 1-3: 28.95%, 34.65%, 36.41%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- ✅ John 5:4 bht prompt v0.8 (81 words, 30.0% quotes)
-- quality score: 1.3941072969914738, V2 normalized quality score: 37.7, commentator tiers 1-3: 30.91%, 31.39%, 37.7%)
+- Attempt 3 BHT: The authenticity of this disputed text should not be questioned, as it is omitted in the oldest and most reliable manuscripts. According to Jewish tradition, the intermittent spring's healing properties were ascribed to angelic intervention. Just as humans receive blessings through others, it is not unfathomable for angels to minister to the poor and afflicted. The stirring of the water signified God's power to employ natural elements for His purposes. Through the proclamation of the Gospel, souls are healed from all their ailments and saved eternally.
+- 🔄 John 5:4 (attempt 3, 88 words, 34.85% quotes quality score: 1.4898404054847365, V2 normalized quality score: 40.88, commentator tiers 1-3: 25.84%, 36.44%, 37.73%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The spuriousness of this controverted passage is hard to question, as the oldest and best manuscripts exclude it. The Jews attributed the healing of the intermittent spring to angelic ministry. Just as humans receive blessings through others, it is not unreasonable to think that angels may minister to the needy. The troubling of the water shows that God uses natural elements according to His will. Through the preaching of the Gospel, souls are cured of all afflictions and enjoy everlasting salvation.
+- 🔄 John 5:4 (attempt 4, 81 words, 31.03% quotes quality score: 1.5781414755007204, V2 normalized quality score: 43.82, commentator tiers 1-3: 27.64%, 34.12%, 38.24%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 5 BHT: The authenticity of this debated verse is evident as the earliest manuscripts omit it. The Jews believed that angels played a role in the healing power of the intermittent spring. Just as humans receive blessings through others, it is not unreasonable to consider angels ministering to the poor and afflicted. The disturbance of the water demonstrates God's ability to use natural elements for His purposes. Through the proclamation of the Gospel, individuals receive complete healing and eternal salvation.
+- 🔄 John 5:4 (attempt 5, 79 words, 29.82% quotes quality score: 1.5445823416940472, V2 normalized quality score: 42.7, commentator tiers 1-3: 27.16%, 35.81%, 37.04%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ John 5:4 bht prompt v0.8 (88 words, 34.85% quotes)
+- quality score: 1.4898404054847365, V2 normalized quality score: 40.88, commentator tiers 1-3: 25.84%, 36.44%, 37.73%)

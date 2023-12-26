@@ -1,44 +1,42 @@
 {
-    "timestamp": "12-19-2023 16:26:09",
+    "timestamp": "12-25-2023 20:34:06",
     "verseRef": "Acts 4:20",
     "bestBHT": {
-        "bht": "The response of Peter and John is a testament to their unwavering faith and courage in the face of opposition. They calmly and respectfully appeal to the better reason of their judges, fully aware of the consequences that may follow. Their defiance of civil and ecclesiastical authorities is justified, as they prioritize their duty to speak about what they have witnessed and heard. This commitment to the truth is rooted in a higher power resting upon them, and it reflects the courage of martyrs throughout history who have stood up for their beliefs, ready to face any consequence.",
-        "wordCount": 98,
-        "quoteTokenProportion": 36.36,
-        "qualityScore": 1.4282610860477096,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.83,
+        "bht": "For we cannot but speak the things which we have seen and heard. This defiance of civil and ecclesiastical authorities showcases the courage of martyrs throughout history. Peter and John's willingness to pay the price for their defiance reflects the fidelity, integrity, and inviolable attachment to Christ that characterized their actions. They believed in the direct accountability to God for their religious beliefs, and their fearlessness of men's displeasure and wrath demonstrated their unwavering commitment. Their boldness in preaching the gospel was driven by a moral duty they felt could not be ignored.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.88,
+        "qualityScore": 1.5669325393427833,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.44,
         "commentatorTierSimilarities": [
-            45.35,
-            31.45,
-            23.2
+            45.48,
+            23.46,
+            31.06
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "There is here a wonderful union of sober, respectful appeal to the better reason of their judges...",
-            "Calm, deep determination to abide the consequences of a constrained testimony...",
-            "It betokens a power above their own resting upon them, according to promise."
+            "For we cannot but speak the things which we have seen and heard."
         ],
         "Albert Barnes": [
             "The responsibility of men for their religious opinions is direct to God, and that other men have no power of control.",
-            "No one ever defended liberty more firmly than the early martyrs; and each one that died, died in defense of a principle which is now the acknowledged right of all people.",
-            "The best way to promote universal liberty is to spread the Bible to the ends of the earth. There is not a precept in it that is not favorable to freedom."
+            "No one ever defended liberty more firmly than the early martyrs.",
+            "The best way to promote universal liberty is to spread the Bible to the ends of the earth."
         ],
         "John Calvin": [
-            "For this is a point of discourtesy and of wicked stubbornness to move and raise a tumult about unnecessary matters.",
-            "For God commandeth that his gospel be preached, especially since they did know that they were chosen to be witnesses and preachers of Christ.",
-            "Woe be unto me, saith Paul, if I preach not the gospel, because the function is committed unto me."
+            "For we cannot but speak.\" ",
+            "God commandeth that his gospel be preached.\" ",
+            "Woe be unto me, saith Paul, if I preach not the gospel."
         ],
         "Archibald T. Robertson": [
-            "For we (note emphatic \u03b7\u03bc\u03b5\u03b9\u03c2) are not able not to speak\" (what we saw and heard). ",
+            "For we (note emphatic \u03b7\u03bc\u03b5\u03b9\u03c2) are not able not to speak\" (what we saw and heard).",
             "This is defiance of the civil and ecclesiastical authorities that was justified, for the temple authorities stepped in between the conscience and God.",
             "Peter and John were willing to pay the price of this defiance with their lives. This is the courage of martyrs through all the ages."
         ],
         "John Gill": [
-            "For we cannot but speak...the things which we have seen and heard.\" ",
             "It was not physically, but morally impossible.",
-            "This shows their great fidelity and integrity, their inviolable attachment to Christ, and their fearlessness of the displeasure and wrath of men."
+            "This shows their great fidelity and integrity, their inviolable attachment to Christ.",
+            "their fearlessness of the displeasure and wrath of men."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The response of Peter and John in this verse is remarkable, as it demonstrates a combination of respectful appeal, unwavering determination, and the fulfillment of the promise of a higher power. Their defiance, justified by the interference of the temple authorities between conscience and God, shows a courage that resonates with martyrs throughout history. The early martyrs defended the principle that individuals have a direct responsibility to God for their religious opinions, free from the control of others. The spread of the Bible, with its precepts favorable to freedom, is seen as the best way to promote universal liberty. The disciples' insistence on speaking about what they have seen and heard is not only an act of fidelity and integrity, but also a recognition of the divine command to preach the gospel. Their unwavering commitment stems from a moral impossibility to remain silent, regardless of the potential consequences.",
-            "wordCount": 148,
-            "quoteTokenProportion": 30.3,
-            "qualityScore": 1.4758732442361109,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "bht": "Peter and John, in Acts 4:20, boldly proclaimed, For we cannot but speak the things which we have seen and heard, defying both civil and religious authorities. Their unwavering devotion to sharing their experiences reflected the courage of martyrs throughout history. The early martyrs understood that individuals answer directly to God for their religious beliefs, and they defended liberty with fervor. By spreading the Bible, they aimed to promote universal freedom. These disciples felt a deep moral obligation to preach the gospel, viewing it as a command from God. Their fidelity, integrity, and fearlessness demonstrated their commitment to Christ, even in the face of potential harm or retribution.",
+            "wordCount": 107,
+            "quoteTokenProportion": 30.86,
+            "qualityScore": 1.3526936069108886,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.32,
             "commentatorTierSimilarities": [
-                28.63,
-                46.64,
-                24.73
+                28.06,
+                42.46,
+                29.48
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Peter and John's response in Acts 4:20 embodies a remarkable blend of respectful appeal, resolute determination, and the fulfillment of a higher power's promise. Their defiance, justified by the interference of temple authorities between conscience and God, displays the courage shared by martyrs throughout history. The early martyrs defended the principle that individuals have a direct responsibility to God for their religious opinions, free from the control of others. The spread of the Bible, with its precepts advocating for freedom, contributes to the promotion of universal liberty. The disciples' unwavering commitment to speak about what they witnessed and heard is rooted in their fidelity, integrity, and their moral impossibility to remain silent.",
-            "wordCount": 113,
-            "quoteTokenProportion": 25.93,
-            "qualityScore": 1.4478358032487268,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.48,
+            "bht": "In the face of opposition, Peter and John defiantly proclaimed, For we cannot but speak the things which we have seen and heard. This unwavering determination displayed the courage of martyrs throughout history. The early martyrs emphasized the responsibility individuals have to God for their religious beliefs, defending liberty with conviction. By spreading the Bible, they aimed to promote universal freedom, recognizing the imperative nature of preaching the gospel. Their fidelity, integrity, and fearlessness reflected their unwavering commitment to Christ, despite potential consequences.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.3819569957292983,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.29,
             "commentatorTierSimilarities": [
-                29.93,
-                47.37,
-                22.71
+                33.36,
+                36.42,
+                30.21
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The response of Peter and John is a testament to their unwavering faith and courage in the face of opposition. They calmly and respectfully appeal to the better reason of their judges, fully aware of the consequences that may follow. Their defiance of civil and ecclesiastical authorities is justified, as they prioritize their duty to speak about what they have witnessed and heard. This commitment to the truth is rooted in a higher power resting upon them, and it reflects the courage of martyrs throughout history who have stood up for their beliefs, ready to face any consequence.",
-            "wordCount": 98,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.4282610860477096,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.83,
+            "bht": "In Acts 4:20, Peter and John defiantly declared, For we cannot but speak the things which we have seen and heard. Their courageous stance against civil and religious authorities epitomized the unwavering commitment of martyrs throughout history. They recognized the direct accountability to God for one's religious beliefs and passionately defended liberty. Spreading the Bible became their mission to promote universal freedom. Their fidelity, integrity, and fearlessness showcased their steadfast devotion to Christ, even in the face of potential persecution.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.3961727165728255,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.77,
             "commentatorTierSimilarities": [
-                45.35,
-                31.45,
-                23.2
+                29.92,
+                42.44,
+                27.63
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In Acts 4:20, Peter and John exhibit a remarkable blend of respectful appeal, unwavering determination, and a divine power at work within them. Their defiance is justified, as the temple authorities hindered their connection with God. This act of courage aligns with the martyrs of the past and their defense of individual responsibility in religious beliefs. The spread of the Bible promotes universal liberty, as its precepts advocate for freedom. Peter and John's fidelity, integrity, and fearlessness display their unyielding commitment to speak about what they have seen and heard.",
-            "wordCount": 90,
-            "quoteTokenProportion": 29.41,
-            "qualityScore": 1.3912953799299124,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.6,
+            "bht": "For we cannot but speak the things which we have seen and heard. This defiance of civil and ecclesiastical authorities showcases the courage of martyrs throughout history. Peter and John's willingness to pay the price for their defiance reflects the fidelity, integrity, and inviolable attachment to Christ that characterized their actions. They believed in the direct accountability to God for their religious beliefs, and their fearlessness of men's displeasure and wrath demonstrated their unwavering commitment. Their boldness in preaching the gospel was driven by a moral duty they felt could not be ignored.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.5669325393427833,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
             "commentatorTierSimilarities": [
-                35.5,
-                39.34,
-                25.16
+                45.48,
+                23.46,
+                31.06
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The response of Peter and John in Acts 4:20 displays a powerful union of respectful appeal and unwavering determination. Their defiance of civil and ecclesiastical authorities is justified, as they prioritize their duty to speak about what they have witnessed and heard. This commitment reflects the courage of martyrs throughout history, who have fearlessly stood up for their beliefs. The spread of the Bible promotes universal liberty, as its precepts support freedom. Peter and John's fidelity, integrity, and fearlessness reveal their unyielding commitment to their message.",
-            "wordCount": 86,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 1.3469303673223512,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.13,
+            "bht": "In Acts 4:20, Peter and John's resolute declaration, For we cannot but speak the things which we have seen and heard, defied both civil and religious authorities. This courageous stance exemplified the unwavering dedication of martyrs throughout generations. They acknowledged their direct accountability to God for their beliefs and fearlessly defended liberty, spreading the Bible to promote universal freedom. Their unwavering fidelity, integrity, and inviolable attachment to Christ showcased their commitment, unfazed by potential repercussions. Preaching the gospel became their moral imperative that they could not ignore.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3479027616948795,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.16,
             "commentatorTierSimilarities": [
-                37.09,
-                36.96,
-                25.95
+                28.77,
+                38.18,
+                33.05
             ],
             "generationAttempt": 5
         }

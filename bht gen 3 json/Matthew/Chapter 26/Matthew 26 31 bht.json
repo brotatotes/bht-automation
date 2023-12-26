@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-19-2023 23:53:27",
+    "timestamp": "12-25-2023 20:32:18",
     "verseRef": "Matthew 26:31",
     "bestBHT": {
-        "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.",
-        "wordCount": 74,
-        "quoteTokenProportion": 54.72,
-        "qualityScore": 1.2647259132709219,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.4,
+        "bht": "Jesus' statement about all being offended at him is meant to distinguish the present disciples from Judas and refers to the rejection and piercing of the Shepherd, identifying Jesus as the Messiah. This prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While these words were addressed to all, they likely carried particular significance for Peter, who needed extraordinary consolation after his denial of Christ. Their faith would have failed without Jesus' prayer, and the sufferings of Christ were part of God's plan executed with justice.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.3848321907072831,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.39,
         "commentatorTierSimilarities": [
-            24.28,
-            37.9,
-            37.82
+            22.99,
+            38.11,
+            38.91
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "All (emphatic) ye seems to be used as distinguishing those present from the one, who had me out.\" ",
-            "But, on the contrary, if we examine Zech. xi. xii. xiii, we must I think come to the conclusion that the shepherd spoken of xi. 7\u201314, who is rejected and sold, who is said to have been pierced (xii. 10), is also spoken of in ch. xiii. 7.",
-            "Stier has gone at length into the meaning of the whole prophecy, and especially that of the word \u2018my fellow,\u2019 and shewn that the reference can be to no other than the Messiah."
+            "The shepherd spoken of xi. 7\u201314, who is rejected and sold, who is said to have been pierced (xii. 10), is also spoken of in ch. xiii. 7.",
+            "The reference can be to no other than the Messiah."
         ],
         "John Calvin": [
             "What Matthew and Mark extend to all the disciples alike is related by Luke as having been spoken to Peter only.",
-            "But though the statement was equally addressed to all, yet it is probable that Christ spoke to them in the person of one man.",
-            "He [Peter] needed extraordinary consolation, that, after having denied Christ, he might not be altogether overwhelmed with despair."
+            "But though the statement was equally addressed to all, yet it is probable that Christ spoke to them in the person of one man, who was to be admonished more than all the rest.",
+            "He needed extraordinary consolation, that, after having denied Christ, he might not be altogether overwhelmed with despair."
         ],
         "Philip Schaff": [
-            "Shall be offended; 'made to stumble,' 'fall away.'",
-            "In me, i.e., His betrayal and sufferings, this night, would be made by them an occasion of stumbling, a snare; they would forsake and deny Him.",
-            "And the sheep of the flock; the Apostles, but with a wider reference also to the Jewish people."
+            "All ye. Not without a contrast to Judas who had gone.",
+            "Shall be offended; \u2018made to stumble,\u2019 \u2018fall away.\u2019",
+            "This occurred both in the case of the disciples, and of the Jews, after they had rejected the smitten Shepherd."
         ],
         "John Gill": [
             "They would be so shocked with this sad disappointment, and so offended, or stumble, as to be ready to fall from him.",
-            "Because of his low estate, his being seized and bound, and led away by his enemies.",
-            "The sufferings of Christ, which are meant by the smiting him, were according, not only to the determinate counsel and foreknowledge of God, the will of his good pleasure, but according to his will of command."
+            "Their faith in him must have failed, had he not prayed for them, as he did for Peter.",
+            "The sufferings of Christ, which are meant by the smiting him, were according, not only to the determinate counsel and foreknowledge of God, the will of his good pleasure, but according to his will of command; which justice executed, and Christ was obedient to, and in which Jehovah had a very great hand himself."
         ],
         "John Wesley": [
             "All ye will be offended at me \u2014 Something will happen to me, which will occasion your falling into sin by forsaking me. Zechariah 13:7."
@@ -56,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. While the statement was addressed to all the disciples, it is likely that Christ spoke to them through the person of Peter, who would need extraordinary consolation after denying Christ to avoid despair. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.",
-            "wordCount": 107,
-            "quoteTokenProportion": 48.61,
-            "qualityScore": 1.2827706699964572,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.0,
+            "bht": "When Jesus said, All ye will be offended at me, he was speaking not just to the disciples present, but to distinguish them from Judas who had already betrayed him. This statement also alludes to the rejection and piercing of the Shepherd mentioned in other Scriptures, making it clear that Jesus is referring to himself as the Messiah. This prediction of the disciples' stumbling and falling away echoes the faith failure that would occur both among them and the Jews after rejecting the smitten Shepherd. While the statement was addressed to all, it is likely that Jesus directed it to Peter in particular, who needed extraordinary consolation to avoid being overwhelmed with despair after denying Christ. Without Jesus' prayer for them, their faith would have failed. Thus, the sufferings of Christ, symbolized by his smiting, were part of God's plan and executed with justice, and it is within that context that the disciples would falter and stumble.",
+            "wordCount": 158,
+            "quoteTokenProportion": 44.76,
+            "qualityScore": 1.3314238854663172,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.61,
             "commentatorTierSimilarities": [
-                25.39,
-                34.77,
-                39.84
+                23.69,
+                36.22,
+                40.09
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. While the statement was addressed to all the disciples, it is likely that Christ spoke to them through the person of Peter, who would need extraordinary consolation after denying Christ to avoid despair. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him.",
-            "wordCount": 94,
-            "quoteTokenProportion": 48.44,
-            "qualityScore": 1.404773513821719,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "bht": "Jesus foretold that All ye will be offended at me, specifically distinguishing the disciples present from Judas. This refers to the rejection and piercing of the Shepherd, identifying Jesus as the Messiah. The prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While the statement was spoken to all, it likely carried special significance for Peter, who needed extraordinary consolation after denying Christ. Without Jesus' prayer, their faith would have failed. The sufferings of Christ were part of God's plan and executed with justice.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.3353780987379031,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.74,
             "commentatorTierSimilarities": [
-                27.17,
-                34.7,
-                38.13
+                26.25,
+                37.78,
+                35.97
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.",
-            "wordCount": 74,
-            "quoteTokenProportion": 54.72,
-            "qualityScore": 1.2647259132709219,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.4,
+            "bht": "Jesus' declaration that All ye will be offended at me distinguishes the present disciples from Judas. This relates to the rejection and piercing of the Shepherd, referring to Jesus as the Messiah. The prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While Jesus addressed all, it likely had special significance for Peter, who needed extraordinary consolation after denying Christ. Their faith would have failed without Jesus' prayer. The sufferings of Christ were part of God's plan and executed with justice.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.301410490874733,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.62,
             "commentatorTierSimilarities": [
-                24.28,
-                37.9,
-                37.82
+                24.49,
+                38.06,
+                37.45
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "All the disciples, rebuked by Jesus, who spoke as one of them, would be offended and stumble upon witnessing His betrayal and sufferings. They would be so shocked by the sad disappointment and their Shepherd being rejected and sold that they would be ready to fall away from Him. Yet, Peter especially needed extraordinary consolation, as he would deny Christ, to prevent despair from overwhelming him. These sufferings were not by chance, but according to the determinate counsel and foreknowledge of God, fulfilling the prophecies in Zechariah 11, 12, and 13.",
-            "wordCount": 88,
-            "quoteTokenProportion": 43.08,
-            "qualityScore": 1.227534472902629,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "bht": "Jesus' statement that All ye will be offended at me distinguishes the present disciples from Judas and alludes to the piercing and rejection of the Shepherd, identifying Jesus as the Messiah. The prediction of stumbling and falling away applies to the disciples and the Jews after rejecting the smitten Shepherd. Though addressed to all, the words likely offered extra consolation to Peter, who had denied Christ. Without Jesus' prayer, their faith would have failed. The sufferings of Christ were part of God's plan, executed with justice.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.3325658648105185,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.65,
             "commentatorTierSimilarities": [
-                20.07,
-                37.51,
-                42.43
+                23.61,
+                39.19,
+                37.19
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "All the disciples, rebuked by Jesus, who spoke as one of them, would be offended and stumble upon witnessing His betrayal and sufferings. They would be so shocked by the sad disappointment and their Shepherd being rejected and sold that they would be ready to fall away from Him. Yet, Peter especially needed extraordinary consolation, as he would deny Christ, to prevent despair from overwhelming him. These sufferings were not by chance, but according to the determinate counsel and foreknowledge of God, fulfilling the prophecies in Zechariah 11, 12, and 13.",
-            "wordCount": 88,
-            "quoteTokenProportion": 43.08,
-            "qualityScore": 1.227534472902629,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "bht": "Jesus' statement about all being offended at him is meant to distinguish the present disciples from Judas and refers to the rejection and piercing of the Shepherd, identifying Jesus as the Messiah. This prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While these words were addressed to all, they likely carried particular significance for Peter, who needed extraordinary consolation after his denial of Christ. Their faith would have failed without Jesus' prayer, and the sufferings of Christ were part of God's plan executed with justice.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.3848321907072831,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.39,
             "commentatorTierSimilarities": [
-                20.07,
-                37.51,
-                42.43
+                22.99,
+                38.11,
+                38.91
             ],
             "generationAttempt": 5
         }

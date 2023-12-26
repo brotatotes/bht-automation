@@ -1,36 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:20:30",
+    "timestamp": "12-25-2023 20:32:15",
     "verseRef": "Mark 2:5",
     "bestBHT": {
-        "bht": "The man's faith, proclaimed by Jesus in forgiving his sins, demonstrated a faith victorious over all difficulties. Jesus acknowledged this faith and used it as the foundation for His argument, proving His authority to dispense forgiveness. Others also had confidence in Jesus' power and willingness to heal this desperate case. Both the paralytic and his friends were astonished that Jesus forgave his sins instead of healing him, suggesting that the sins likely caused the paralysis.",
-        "wordCount": 76,
-        "quoteTokenProportion": 40.0,
-        "qualityScore": 1.492703770169274,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+        "bht": "In this account, Jesus recognized the unwavering faith of the paralyzed man and his friends, revealing it to be an indomitable faith that triumphs over all obstacles. The forgiveness of sins that Jesus bestowed upon the man served as a royal proclamation from the one who had the authority to dispense it. This act of forgiveness surprised both the man and his friends, as it took precedence over physical healing and showcased the paramount importance of forgiveness in the covenant of grace.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.6726278757191007,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.96,
         "commentatorTierSimilarities": [
-            48.19,
-            13.74,
-            38.07
+            46.46,
+            13.66,
+            39.88
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "That the patient himself had faith, we",
-            "know from the proclamation of his forgiveness, which Jesus made",
-            "before all...",
-            "...but that Jesus",
-            "marked it as a faith which was not to be defeated\u2014a faith",
-            "victorious over all difficulties. This was the faith for which He was",
-            "ever on the watch, and which He never saw without marking, and, in",
-            "those who needed anything from Him, richly rewarding.",
-            "And yet, as",
-            "the Pharisees understood our Lord to be dispensing pardon by",
-            "this saying, and Jesus not only acknowledges that they were right,",
-            "but founds His whole argument upon the correctness of it, we must",
-            "regard the saying as a royal proclamation of the man's forgiveness by",
-            "Him to whom it belonged to dispense it; nor could such a style of",
-            "address be justified on any lower supposition."
+            "But here we learn, not only that his bearers had the same faith with himself, but that Jesus marked it as a faith which was not to be defeated\u2014a faith victorious over all difficulties.",
+            "This was the faith for which He was ever on the watch, and which He never saw without marking, and, in those who needed anything from Him, richly rewarding.",
+            "And yet, as the Pharisees understood our Lord to be dispensing pardon by this saying, and Jesus not only acknowledges that they were right, but founds His whole argument upon the correctness of it, we must regard the saying as a royal proclamation of the man's forgiveness by Him to whom it belonged to dispense it."
         ],
         "Philip Schaff": [
             "Mark 2:5. See on Matthew 9:2. \u2018Be of good cheer,\u2019 is omitted here, and in Luke\u2019s account, the latter has \u2018Man\u2019 instead of \u2018Son.\u2019",
@@ -38,13 +26,12 @@
         ],
         "Archibald T. Robertson": [
             "There is no reason for excluding his faith. They all had confidence in the power and willingness of Jesus to heal this desperate case.",
-            "The astonishing thing both to the paralytic and to the four friends is that Jesus forgave his sins instead of healing him.",
-            "The sins had probably caused the paralysis."
+            "The astonishing thing both to the paralytic and to the four friends is that Jesus forgave his sins instead of healing him. The sins had probably caused the paralysis."
         ],
         "John Gill": [
-            "Christ calls him son, though, in this afflicted condition a person may be a child of God, and yet greatly afflicted by him; afflictions are not arguments against, but rather for sonship.",
-            "He was a son of God by divine predestination, being predestinated to the adoption of children: he was a son by virtue of the covenant of grace.",
-            "The blessing Christ conferred on this poor man is of the greatest consequence and importance, forgiveness of sin: it is what springs from the grace and mercy of God; it is provided in a promise in the covenant of grace."
+            "Christ calls him son, though, in this afflicted condition a person may be a child of God, and yet greatly afflicted by him; afflictions are not arguments against, but rather for sonship...",
+            "...he was a son of God by divine predestination, being predestinated to the adoption of children: he was a son by virtue of the covenant of grace...",
+            "...the blessing Christ conferred on this poor man is of the greatest consequence and importance, forgiveness of sin: it is what springs from the grace and mercy of God; it is provided in a promise in the covenant of grace..."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -64,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The man's faith, proclaimed by Jesus in forgiving his sins, demonstrated a faith that could not be defeated, one that was victorious over all difficulties. Jesus recognized and rewarded this unwavering faith, using it as the basis for His argument to the Pharisees. The forgiveness pronounced by Jesus was a royal proclamation of this man's forgiveness by Him, proving His authority to dispense it. Others present also had confidence in Jesus' power and willingness to heal this desperate case. The astonishing thing to both the paralytic and his friends was that Jesus forgave his sins instead of healing him, suggesting that the sins had likely caused the paralysis.",
-            "wordCount": 110,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.495079050191767,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.05,
+            "bht": "Jesus, recognizing the unwavering faith of the paralytic and his friends, proclaimed the man's forgiveness as a demonstration of the victorious faith that overcomes all obstacles. Although the Pharisees misunderstood the nature of Jesus' forgiveness, He affirmed their understanding and emphasized the authority with which He dispensed pardon. The forgiveness of sins took precedence over physical healing, surprising both the paralytic and his companions. This act of forgiveness highlighted the immense significance of being called a son of God, demonstrating that afflictions are not contradictory to one's status as a child of God. Furthermore, the forgiveness bestowed upon this man underscored the pivotal importance of forgiveness of sins in the divine covenant of grace.",
+            "wordCount": 116,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.6586958215647494,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
             "commentatorTierSimilarities": [
-                45.23,
-                15.9,
-                38.87
+                44.04,
+                11.07,
+                44.9
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The man's faith, proclaimed by Jesus in forgiving his sins, demonstrated a faith victorious over all difficulties. Jesus acknowledged this faith and used it as the foundation for His argument, proving His authority to dispense forgiveness. Others also had confidence in Jesus' power and willingness to heal this desperate case. Both the paralytic and his friends were astonished that Jesus forgave his sins instead of healing him, suggesting that the sins likely caused the paralysis.",
-            "wordCount": 76,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.492703770169274,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "bht": "In Mark 2:5, Jesus acknowledged the unwavering and victorious faith of the paralytic and his friends. He rewarded their faith by pronouncing the man's forgiveness, highlighting the authority with which He dispensed pardon. Although the Pharisees misunderstood Jesus' forgiveness, He confirmed their understanding and emphasized the significance of being called a son of God. This act of forgiveness showcased the importance of forgiveness of sins in the divine covenant of grace, springing from God's grace and mercy.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6038281634949803,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
             "commentatorTierSimilarities": [
-                48.19,
-                13.74,
-                38.07
+                41.1,
+                14.83,
+                44.07
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The patient's faith, recognized by Jesus in forgiving his sins, revealed a faith that could not be defeated, victorious over all difficulties. Jesus rewarded this unwavering faith, emphasizing its importance and using it to assert His authority to dispense forgiveness. Others also had confidence in Jesus' power and willingness to heal this desperate case. The astonishing act of forgiving rather than healing indicated that the sins may have been the cause of the paralysis, unveiling the significance of the blessings Christ bestowed upon him \u2013 the forgiveness of sin through God's grace and mercy.",
-            "wordCount": 95,
-            "quoteTokenProportion": 42.03,
-            "qualityScore": 1.4403853330036045,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "bht": "Jesus acknowledged the unwavering and victorious faith of the paralytic and his friends, rewarding their confidence in His power and willingness to heal. He proclaimed the man's forgiveness, demonstrating the significance of being called a son of God and affirming the correctness of the Pharisees' understanding. This act of forgiveness was a testament to the grace and mercy of God, fulfilling the promise of the covenant of grace and highlighting the central importance of forgiveness of sins.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5969933669871592,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
             "commentatorTierSimilarities": [
-                43.88,
-                10.1,
-                46.03
+                44.12,
+                11.75,
+                44.13
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The patient's faith was evident in Jesus proclaiming his forgiveness, an act that showcased a faith victorious over difficulties. Jesus rewarded this unwavering faith, using it to establish His authority to dispense forgiveness. Others present also had confidence in Jesus' power and willingness to heal this desperate case. The surprising aspect for the paralytic and his friends was that Jesus forgave his sins instead of healing him, suggesting a possible connection between the sins and the paralysis. This highlighted the significant blessing of forgiveness, a promise in the covenant of grace.",
-            "wordCount": 92,
-            "quoteTokenProportion": 32.79,
-            "qualityScore": 1.4149822786298965,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.39,
+            "bht": "In this account, Jesus recognized the unwavering faith of the paralyzed man and his friends, revealing it to be an indomitable faith that triumphs over all obstacles. The forgiveness of sins that Jesus bestowed upon the man served as a royal proclamation from the one who had the authority to dispense it. This act of forgiveness surprised both the man and his friends, as it took precedence over physical healing and showcased the paramount importance of forgiveness in the covenant of grace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.6726278757191007,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
             "commentatorTierSimilarities": [
-                43.53,
-                10.9,
-                45.57
+                46.46,
+                13.66,
+                39.88
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The patient's faith, evident in Jesus proclaiming his forgiveness, revealed a faith victorious over difficulties. Jesus acknowledged and rewarded this unwavering faith, using it to establish His authority to dispense forgiveness. Others present also had confidence in Jesus' power to heal this desperate case. The surprising aspect for the paralytic and his friends was Jesus forgiving his sins instead of healing him, suggesting a possible connection between the sins and the paralysis. This highlighted the significant blessing of forgiveness, provided in the promise of the covenant of grace.",
-            "wordCount": 89,
-            "quoteTokenProportion": 30.51,
-            "qualityScore": 1.3766069253695778,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.12,
+            "bht": "Jesus acknowledged the unwavering and victorious faith of the paralytic and his friends, rewarding their confidence in His power and willingness to heal. He proclaimed the man's forgiveness, demonstrating the significance of being called a son of God and affirming the correctness of the Pharisees' understanding. This act of forgiveness showcased the importance of forgiveness of sins in the divine covenant of grace, springing from God's grace and mercy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.5928140135289626,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
             "commentatorTierSimilarities": [
-                44.32,
-                9.8,
-                45.88
+                42.93,
+                11.72,
+                45.35
             ],
             "generationAttempt": 5
         }

@@ -1,27 +1,27 @@
 {
-    "timestamp": "12-19-2023 16:38:21",
+    "timestamp": "12-25-2023 20:34:32",
     "verseRef": "2 Thessalonians 3:8",
     "bestBHT": {
-        "bht": "Paul and his companions in this text diligently labored to obtain sustenance, refusing to depend on others for their livelihood. The phrase to eat bread is a Hebraistic expression meaning to get sustenance or to receive as a gift. They made it clear that they would work hard with their hands, not relying on the generosity of others. This commitment to financial independence and self-sufficiency was crucial for Paul to counter false accusations and demonstrate their dedication to hard work.",
-        "wordCount": 81,
-        "quoteTokenProportion": 40.68,
-        "qualityScore": 1.433155983993278,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.0,
+        "bht": "To live at anyone's expense, or eat bread from any man, was seen as a privilege by many Thessalonians who would have gladly contributed. However, Paul chose not to rely on them for financial support, even though he had the right to do so. He worked hard to support himself and avoid false charges, setting an example for others. By demonstrating his financial independence, he ensured that the spread of the Gospel was not hindered. Thus, by not eating bread from any man, Paul emphasized the importance of self-sufficiency and diligence.",
+        "wordCount": 93,
+        "quoteTokenProportion": 48.57,
+        "qualityScore": 1.6615465051152651,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.59,
         "commentatorTierSimilarities": [
-            38.42,
-            17.4,
-            44.18
+            36.01,
+            20.57,
+            43.42
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "8.] to eat bread is a Hebraistic expression for \u2018to get sustenance:\u2019 from any man, \u2018at any one\u2019s expense,\u2019 from any one as a gift."
         ],
         "Jamieson-Fausset-Brown": [
-            "eat THEIR OWN bread.",
-            "labour and travail",
-            "He waived his right."
+            "eat bread from any man,\" that is, live at anyone's expense. Contrast 2 Thessalonians 3:12, \"eat THEIR OWN bread.",
+            "They preached gratuitously though they might have claimed maintenance from their converts.",
+            "Many Thessalonians, doubtless, would have felt it a privilege to contribute, but as he saw some idlers among them who would have made a pretext of his example to justify themselves, he waived his right."
         ],
         "Albert Barnes": [
             "We were not supported in idleness at the expense of others.",
@@ -29,9 +29,9 @@
             "In fact, labored for our own support."
         ],
         "Marvin Vincent": [
-            "Any man's bread...lit. bread from any one, or at any man's hand.",
-            "For nought...as a gift, gratis.",
-            "Be chargeable...burden...depending upon them for pecuniary support."
+            "Any man's bread.",
+            "The accusative often adverbially as here; as a gift, gratis.",
+            "By depending upon them for pecuniary support."
         ],
         "Archibald T. Robertson": [
             "He lodged with Jason, but did not receive his meals gratis, for he paid for them.",
@@ -39,9 +39,9 @@
             "To eat bread is merely a Hebraism for eat."
         ],
         "John Gill": [
-            "He signifies, that what they ate, they bought with their own money, and lived on no man, without giving him a valuable consideration for what they had.",
-            "They working very hard and incessantly with their hands...nor was this inconsistent with his learning and liberal education.",
-            "It is better to strip the skins of beasts that have been torn, than to say to the people, I am a considerable wise (or learned) man, I am a priest, take care of me, and maintain me."
+            "he signifies, that what they ate, they bought with their own money, and lived on no man, without giving him a valuable consideration for what they had\" ",
+            "not only laboriously preaching the Gospel to them, as often as they could have opportunity, but working very hard and incessantly with their hands, at the occupations and trades they had been brought up to",
+            "the apostles being able partly by their own hand labour, and partly by what they received from Philippi, to support themselves, chose to that they might not lie heavy upon them, and any ways hinder the spread of the Gospel among them"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In 2 Thessalonians 3:8, the phrase to eat bread is a Hebraistic expression meaning to obtain sustenance, and in this context, it emphasizes that Paul and his companions did not rely on others for their livelihood. They labored diligently, refusing to be a burden on anyone else, and were even willing to pay for their own meals. Despite his education and learning, Paul made it clear that he would work hard with his hands to support himself, rather than depend on the generosity of others. It was important for Paul to establish his financial independence to counter false accusations and to demonstrate his commitment to self-sufficiency.",
-            "wordCount": 105,
-            "quoteTokenProportion": 42.67,
-            "qualityScore": 1.4754345027634086,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+            "bht": "The verse is talking about not relying on others for sustenance and instead working to provide for oneself. The phrase eat bread from any man means to live at someone else's expense. Though Paul, as an apostle, could have claimed maintenance from his converts, he chose to preach gratis and work hard to support himself. He did this to set an example and avoid false charges. By depending on others for financial support, he would have hindered the spread of the Gospel. So, Paul made it clear that he would rather work with his own hands and not eat bread from any man.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.6321934675000738,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
             "commentatorTierSimilarities": [
-                33.74,
-                21.45,
-                44.81
+                39.7,
+                19.11,
+                41.19
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Hebraistic expression to eat bread in this verse signifies obtaining sustenance from any man, at any one's expense, or as a gift. Paul and his companions, however, worked diligently and refused to be a burden on others for their pecuniary support. They were even willing to pay for their own meals, emphasizing their commitment to financial independence and debunking false accusations. This demonstration of self-sufficiency was a testament to their dedication to labor and to avoid relying on the generosity of others.",
-            "wordCount": 85,
-            "quoteTokenProportion": 39.06,
-            "qualityScore": 1.457914554480772,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "bht": "To live at anyone's expense, or eat bread from any man, was seen as a privilege by many Thessalonians who would have gladly contributed. However, Paul chose not to rely on them for financial support, even though he had the right to do so. He worked hard to support himself and avoid false charges, setting an example for others. By demonstrating his financial independence, he ensured that the spread of the Gospel was not hindered. Thus, by not eating bread from any man, Paul emphasized the importance of self-sufficiency and diligence.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.6615465051152651,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.59,
             "commentatorTierSimilarities": [
-                39.39,
-                18.11,
-                42.51
+                36.01,
+                20.57,
+                43.42
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The expression to eat bread in this Hebraistic context signifies obtaining sustenance, either at someone's expense or as a gift. Paul and his companions were diligent in their labor, refusing to be a burden on others and even paying for their own meals. This emphasized their commitment to financial independence and dispelled false accusations. Their emphasis on self-sufficiency demonstrated their dedication to hard work and their avoidance of dependence on the generosity of others.",
-            "wordCount": 76,
-            "quoteTokenProportion": 36.84,
-            "qualityScore": 1.3708488662114586,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.92,
+            "bht": "Choosing not to eat bread from any man, Paul worked diligently to support himself and avoided false charges. This exemplified his financial independence and prevented hindrances to the spread of the Gospel. Though as an apostle, he could have claimed maintenance from his converts, he preached gratuitously and made it clear that he would not rely on others for sustenance. Paul's decision to provide for himself through labor showcased the importance of self-sufficiency and served as an example to others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5727880302726729,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
             "commentatorTierSimilarities": [
-                42.0,
-                15.41,
-                42.59
+                33.64,
+                15.45,
+                50.91
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul and his companions in this text diligently labored to obtain sustenance, refusing to depend on others for their livelihood. The phrase to eat bread is a Hebraistic expression meaning to get sustenance or to receive as a gift. They made it clear that they would work hard with their hands, not relying on the generosity of others. This commitment to financial independence and self-sufficiency was crucial for Paul to counter false accusations and demonstrate their dedication to hard work.",
-            "wordCount": 81,
-            "quoteTokenProportion": 40.68,
-            "qualityScore": 1.433155983993278,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.0,
+            "bht": "Paul, as an apostle, chose not to eat bread from any man and supported himself through his own labor. This decision was made to set an example and avoid false charges. While he had the right to claim maintenance from his converts, he waived this right in order to not hinder the spread of the Gospel. By working hard and being financially independent, Paul emphasized the importance of self-sufficiency and demonstrated his commitment to the cause.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.4265586166500246,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.78,
             "commentatorTierSimilarities": [
-                38.42,
-                17.4,
-                44.18
+                31.34,
+                22.71,
+                45.95
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul and his companions in this passage were diligent in their labor, refusing to depend on others for sustenance. The phrase to eat bread is a Hebraistic expression, meaning to receive sustenance or as a gift. They were committed to financial independence and worked hard with their hands, rather than relying on the generosity of others. This commitment was important to counter false accusations and demonstrate their dedication to hard work and self-sufficiency.",
-            "wordCount": 74,
-            "quoteTokenProportion": 38.18,
-            "qualityScore": 1.380705942345939,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.25,
+            "bht": "Paul, as an apostle, intentionally did not eat bread from any man but worked diligently to support himself. He chose to preach gratis and waived his right to claim maintenance from his converts, setting an example of financial independence. By not depending on others for sustenance, he aimed to avoid false charges and ensure the unhindered spread of the Gospel. Paul's emphasis on self-sufficiency through labor underscored his dedication to the cause and served as a model for others.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.520481151789727,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.9,
             "commentatorTierSimilarities": [
-                38.67,
-                18.1,
-                43.23
+                34.03,
+                20.2,
+                45.77
             ],
             "generationAttempt": 5
         }

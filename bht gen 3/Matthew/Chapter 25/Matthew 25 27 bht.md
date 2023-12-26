@@ -1,13 +1,13 @@
 # Matthew 25:27 Commentary Help Text
 
 ## BHT:
-The parable reminds us to be wise stewards of our resources, actively using them for God's purposes. It emphasizes the responsibility of investing our time, talents, and treasures, just as the exchangers traded with money. We should not be idle, but grow and multiply what has been entrusted to us. By diligently managing our gifts, we can make a significant impact and bring glory to God. Let us not fear or make excuses, but faithfully invest in the Kingdom.
+This servant's negligence is evident as he did not make any effort to increase his master's wealth. He had the opportunity to invest with the exchangers but chose to bury the money instead. We must be cautious not to make excuses for our own inaction, as the servant's excuse was insufficient to justify his lack of effort. Let us learn from his mistake and be diligent in our service to God, avoiding laziness and indifference.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Be ye worthy exchangers."
-2. "If thou hadst really been afraid... thou mightest at least, without trouble to thyself, have provided that I should have not been defrauded of the interest of my money."
-3. "The machinery of religious and charitable societies in our day is very much in the place of the exchangers."
+1. "If thou hadst really been afraid, &c., slothful as thou art, thou mightest at least, without trouble to thyself, have provided that I should have not been defrauded of the interest of my money—but now thou art both slothful and wicked, in having done me this injustice."
+2. "Observe there would have been no praise due to the servant—but 'that which is mine' would not have lost its increase."
+3. "The machinery of religious and charitable societies in our day is very much in the place of the exchangers. Let the subscribers to them take heed that they be not in the degraded case of this servant, even if his excuse had been genuine."
 
 ### Jamieson-Fausset-Brown:
 1. 27. thou oughtest therefore to have
@@ -18,29 +18,29 @@ and then at my coming I
 
 
 ### Albert Barnes:
-1. "The 'exchangers' were persons who were in the habit of borrowing money, or receiving it on deposit at a low rate of interest, to be loaned to others at higher interest."
-2. "This money was left with the servant, not to exchange, nor to increase it by any such idle means, but by honest industry and merchandise."
-3. "The word 'usury,' in our language, has a bad signification, meaning unlawful or exorbitant interest. This was contrary to the law."
+1. "The exchangers were persons who were in the habit of borrowing money...to be loaned to others at a higher interest." 
+2. "This money was left with the servant...but since he was too indolent for that, he ought at least to have loaned it to the exchangers, that his master might have received some benefit from it." 
+3. "The word 'usury,' in our language, has a bad signification...This was contrary to the law."
 
 ### Marvin Vincent:
 1. "Put [βαλειν] . Lit., throw or fling down, as one would throw a bag of coin upon the exchanger's table."
-2. "The Jewish bankers bore precisely the same name."
-3. "The Jewish law distinguished between interest and increase."
+2. "Exchangers [τραπεζιταις] . Taking their name from the table or counter at which they sat [τραπεζα] . The Jewish bankers bore precisely the same name."
+3. "Usury [τοκω] . A very graphic word, meaning first childbirth, and then offspring. Hence of interest, which is the product or offspring of capital."
 
 ### Philip Schaff:
-1. "Thou oughtest therefore to have put." 
-2. "My money. The trust demanded this." 
-3. "The theory of Christianity is, that laboring for Christ is not a matter of bargain, but of loving, interested service."
+1. "My money. The trust demanded this."
+2. "To the bankers; the Greek word has the same etymology as the English one. These probably represent stronger spiritual characters who would have quickened his spirituality."
+3. "The theory of Christianity is, that laboring for Christ is not a matter of bargain, but of loving, interested service. When the servant came with a false plea of returning to the master what was justly his, he was condemned on his own showing."
 
 ### Archibald T. Robertson:
-1. "His very words of excuse convict him."
-2. "Compound interest at six per cent doubles the principal every twenty years. It is amazing how rapidly that piles up if one carries it on for centuries and millenniums."
-3. "The Mosaic law did not allow interest in dealings between Hebrews, but only with strangers."
+1. "His very words of excuse convict him. It was a necessity that he did not see."
+2. "The bankers, money-changers, brokers, who exchanged money for a fee and who paid interest on money."
+3. "Compound interest at six per cent doubles the principal every twenty years. It is amazing how rapidly that piles up if one carries it on for centuries and millenniums."
 
 ### John Gill:
-1. "Thou oughtest therefore to have put my money to the exchangers... put it into the hand of these bankers, where it would have been not only safe, as in the earth, where it was hid, but also would have made some increase." 
-2. "and then at my coming I should have received my own with usury." 
-3. "but to reprove the sloth and inactivity of this servant, upon his own reasonings, and the character he had given of his master."
+1. "Thou oughtest therefore to have put my money to the exchangers... who were so called from the table that stood before them, on which they told, and paid their money, and the exchange and use." 
+2. "Hence all the Oriental versions here read, 'thou shouldest have put my money to, or on the table'; put it into the hand of these bankers, where it would have been not only safe, as in the earth, where it was hid, but also would have made some increase, and would have been returned with profit."
+3. "This is said not so much to encourage usury, though it may be lawful; and it seems to have been a practice in those times to put money out to use upon a reasonable interest; but to reprove the sloth and inactivity of this servant, upon his own reasonings, and the character he had given of his master."
 
 ### John Wesley:
 1. Thou oughtest therefore — On that very account, on thy own supposition, to have improved my talent, as far as was possible.
@@ -49,39 +49,40 @@ and then at my coming I
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:53:07
+- Timestamp: 12-25-2023 20:32:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 43.55%
-- BHT Quality Score: 1.3817619314301735
+- BHT Word Count: 78
+- BHT Commentary Usage: 45.61%
+- BHT Quality Score: 1.554076855572613
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (62):
-	['a', 'actively', 'and', 'as', 'be', 'been', 'bring', 'but', 'by', 'can', 'diligently', 'emphasizes', 'entrusted', 'exchangers', 'excuses', 'faithfully', 'fear', 'for', 'gifts', 'glory', 'god', 'grow', 'has', 'idle', 'impact', 'in', 'invest', 'investing', 'it', 'just', 'kingdom', 'let', 'make', 'managing', 'money', 'multiply', 'not', 'of', 'or', 'our', 'parable', 'purposes', 'reminds', 'resources', 'responsibility', 's', 'should', 'significant', 'stewards', 'talents', 'the', 'them', 'time', 'to', 'traded', 'treasures', 'us', 'using', 'we', 'what', 'wise', 'with']
-- ChatGPT injected words (significant words only) (35):
-	['actively', 'bring', 'diligently', 'emphasizes', 'entrusted', 'exchangers', 'excuses', 'faithfully', 'fear', 'gifts', 'glory', 'god', 'grow', 'idle', 'impact', 'invest', 'investing', 'kingdom', 'let', 'managing', 'money', 'multiply', 'parable', 'purposes', 'reminds', 'resources', 'responsibility', 's', 'significant', 'stewards', 'talents', 'time', 'traded', 'treasures', 'wise']
+- ChatGPT injected words (57):
+	['and', 'any', 'as', 'avoiding', 'be', 'bury', 'but', 'cautious', 'chose', 'did', 'diligent', 'effort', 'evident', 'exchangers', 'excuse', 'excuses', 'for', 'from', 'god', 'had', 'he', 'his', 'in', 'inaction', 'increase', 'indifference', 'instead', 'insufficient', 'invest', 'is', 'justify', 'lack', 'laziness', 'learn', 'let', 'make', 'master', 'mistake', 'money', 'must', 'negligence', 'not', 'of', 'opportunity', 'our', 'own', 's', 'servant', 'service', 'the', 'this', 'to', 'us', 'was', 'we', 'wealth', 'with']
+- ChatGPT injected words (significant words only) (31):
+	['avoiding', 'bury', 'cautious', 'chose', 'diligent', 'effort', 'evident', 'exchangers', 'excuse', 'excuses', 'god', 'inaction', 'increase', 'indifference', 'instead', 'insufficient', 'invest', 'justify', 'lack', 'laziness', 'learn', 'let', 'master', 'mistake', 'money', 'negligence', 'opportunity', 's', 'servant', 'service', 'wealth']
 
 ### Logs
-- Attempt 1 BHT: The parable in Matthew 25:27 teaches us the importance of stewarding our resources well. Just as the exchangers in those times were responsible for borrowing money at a low interest rate and lending it out for higher interest, we too are called to be wise stewards. We should not be idle or afraid, but instead diligently use the resources given to us for the glory of God. Jesus desires that we invest our talents, time, and treasures in a way that yields a fruitful return. May we actively engage in using our gifts and resources to further the Kingdom of God.
-- 🔄 Matthew 25:27 (attempt 1, 100 words, 41.43% quotes quality score: 1.3935645459033423, V2 normalized quality score: 37.68, commentator tiers 1-3: 24.65%, 42.25%, 33.1%) 
+- Attempt 1 BHT: The verse highlights the negligence of a servant who failed to make any effort to increase his master's money. Despite having the opportunity to invest it with the exchangers, who were similar to bankers, the servant chose to bury it instead. By doing so, he not only displayed laziness but also deprived his master of any potential gain. This incident serves as a cautionary tale, reminding us not to be like the unfaithful servant. Just as this servant's excuse was insufficient to justify his inaction, we too must be cautious not to make excuses for our own laziness or indifference when it comes to serving God and others.
+- 🔄 Matthew 25:27 (attempt 1, 110 words, 45.45% quotes quality score: 1.550726441155721, V2 normalized quality score: 42.9, commentator tiers 1-3: 24.47%, 40.34%, 35.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The parable urges us to be diligent and responsible in managing the resources entrusted to us. Just as the exchangers were expected to handle money wisely, we too should use our talents and possessions for investment and growth. Like compound interest, these resources can multiply over time, having a significant impact. In being faithful stewards, we are called to seize opportunities and not let fear hinder us. Let us embrace our role as exchangers and wisely invest what God has given us.
-- 🔄 Matthew 25:27 (attempt 2, 82 words, 37.7% quotes quality score: 1.3650935600361893, V2 normalized quality score: 36.73, commentator tiers 1-3: 25.42%, 35.36%, 39.21%) 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: This passage highlights the negligence of a servant who failed to increase his master's money. Instead of investing with the exchangers, he buried it. This incident serves as a cautionary tale, reminding us not to be like the unfaithful servant. Just as his excuse couldn't justify his inaction, we must be cautious not to make excuses for our own laziness when it comes to serving God and others.
+- 🔄 Matthew 25:27 (attempt 2, 70 words, 43.64% quotes quality score: 1.5172718371837486, V2 normalized quality score: 41.79, commentator tiers 1-3: 24.71%, 42.66%, 32.64%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: This servant's negligence is evident as he did not make any effort to increase his master's wealth. He had the opportunity to invest with the exchangers but chose to bury the money instead. This account serves as a warning against laziness and indifference in serving God and others. We must be cautious not to make excuses for our own inaction, as the servant's excuse was insufficient to justify his lack of effort. Let us learn from his mistake and be diligent in our service to God.
+- 🔄 Matthew 25:27 (attempt 3, 89 words, 46.03% quotes quality score: 1.5159707454656184, V2 normalized quality score: 41.75, commentator tiers 1-3: 24.4%, 41.57%, 34.03%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The parable reminds us to be wise stewards of our resources, actively using them for God's purposes. It emphasizes the responsibility of investing our time, talents, and treasures, just as the exchangers traded with money. We should not be idle, but grow and multiply what has been entrusted to us. By diligently managing our gifts, we can make a significant impact and bring glory to God. Let us not fear or make excuses, but faithfully invest in the Kingdom.
-- 🔄 Matthew 25:27 (attempt 3, 80 words, 43.55% quotes quality score: 1.3817619314301735, V2 normalized quality score: 37.29, commentator tiers 1-3: 24.57%, 37.59%, 37.84%) 
+- Attempt 4 BHT: This servant's negligence is evident as he did not make any effort to increase his master's wealth. He had the opportunity to invest with the exchangers but chose to bury the money instead. We must be cautious not to make excuses for our own inaction, as the servant's excuse was insufficient to justify his lack of effort. Let us learn from his mistake and be diligent in our service to God, avoiding laziness and indifference.
+- 🔄 Matthew 25:27 (attempt 4, 78 words, 45.61% quotes quality score: 1.554076855572613, V2 normalized quality score: 43.02, commentator tiers 1-3: 25.31%, 41.9%, 32.78%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As followers of Christ, we are called to be worthy exchangers, faithfully using our resources for His glory. The parable warns against being idle with what we have been entrusted. Just as the exchangers were responsible for borrowing and lending, we too should actively invest our time, talents, and treasures. The parable challenges us not to be afraid but to diligently multiply what we have been given. Let us be wise stewards, seizing opportunities and using our resources to advance God's Kingdom.
-- 🔄 Matthew 25:27 (attempt 4, 83 words, 42.37% quotes quality score: 1.368328071099158, V2 normalized quality score: 36.84, commentator tiers 1-3: 28.64%, 39.57%, 31.78%) 
+- Attempt 5 BHT: If we find ourselves neglecting opportunities to serve and make a difference, we must take heed of the cautionary tale of the unfaithful servant in this passage. Instead of wisely investing his master's money with the exchangers, he chose to bury it out of laziness. His feeble excuse couldn't justify his inaction. This account reminds us not to make excuses for our own apathy or indifference in serving God and others. Let us be diligent and proactive, using our talents and resources for the glory of God.
+- 🔄 Matthew 25:27 (attempt 5, 89 words, 40.3% quotes quality score: 1.4099102045359606, V2 normalized quality score: 38.22, commentator tiers 1-3: 28.65%, 35.84%, 35.51%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The parable teaches us the value of being diligent stewards of our resources, using them wisely for God's purposes. Like the exchangers in their time, we should actively invest our talents, time, and treasures for growth. It reminds us not to be idle or fearful, but to multiply what has been entrusted to us. By being faithful in managing what God has given us, we can make a significant impact and bring glory to His name. Let us be worthy exchangers, constantly seeking ways to invest and grow for His kingdom.
-- 🔄 Matthew 25:27 (attempt 5, 92 words, 43.08% quotes quality score: 1.3801718819713191, V2 normalized quality score: 37.23, commentator tiers 1-3: 24.41%, 33.21%, 42.37%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 25:27 bht prompt v0.8 (80 words, 43.55% quotes)
-- quality score: 1.3817619314301735, V2 normalized quality score: 37.29, commentator tiers 1-3: 24.57%, 37.59%, 37.84%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- ✅ Matthew 25:27 bht prompt v0.8 (78 words, 45.61% quotes)
+- quality score: 1.554076855572613, V2 normalized quality score: 43.02, commentator tiers 1-3: 25.31%, 41.9%, 32.78%)

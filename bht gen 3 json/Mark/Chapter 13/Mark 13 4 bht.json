@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:27:59",
+    "timestamp": "12-25-2023 20:32:54",
     "verseRef": "Mark 13:4",
     "bestBHT": {
-        "bht": "The disciples posed questions to Jesus regarding the timing and signs of the temple's destruction, perceiving it as part of a chain of events. Their understanding of these events was convoluted, blurring the distinctions between different prophetic occurrences. Jesus, in His response, chose his own unique approach to addressing their inquiries. Referred to as The Little Apocalypse, this segment in Mark is believed to take inspiration from Jewish apocalyptic literature adapted by Mark and attributed to Jesus. Additionally, Matthew and Luke's accounts align with the general theme found in Mark 13.",
-        "wordCount": 92,
-        "quoteTokenProportion": 32.84,
-        "qualityScore": 1.499002459456509,
-        "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+        "bht": "The disciples were familiar with Jesus speaking about the future events, particularly the destruction of the temple in Jerusalem, but their understanding of these events was confused. They believed that the destruction of the temple, Jesus' return, and the end of the world were all part of one series of events, viewing them as simultaneously occurring. Jesus responds by providing prophecies about the imminent destruction of Jerusalem, which Mark emphasizes as a warning and preparation for the impending catastrophe. It is important not to attribute errors to Jesus or the Gospels in their portrayal of these events.",
+        "wordCount": 97,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.7614128926183632,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.91,
         "commentatorTierSimilarities": [
-            37.83,
-            24.75,
-            37.42
+            37.37,
+            22.16,
+            40.47
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "These things implies that they viewed the destruction of the temple as part of a great series of events.\" (13 words)",
-            "Which had now by frequent prophecy become familiar to them.\" (10 words)",
-            "'These things about which thon so often speakest.'\" (8 words)"
+            "'These things about which thon so often speakest.'",
+            "'they viewed the destruction of the temple as part of a great series of events'",
+            "'had now by frequent prophecy become familiar to them'"
         ],
         "Jamieson-Fausset-Brown": [
             "They no doubt looked upon the date of all these things as one and the same, and their notions of the things themselves were as confused as of the times of them.",
@@ -27,18 +27,18 @@
         ],
         "Philip Schaff": [
             "In all three accounts \u2018the sign\u2019 is asked for.",
-            "They classed together the destruction of Jerusalem, the return of our Lord and the end of the world, as one great series of events.",
+            "The full form of the question here given (especially the position of 'all') shows that they classed together the destruction of Jerusalem, the return of our Lord and the end of the world, as one great series of events.",
             "Hence both are spoken of in the answer, though not joined in time."
         ],
         "Archibald T. Robertson": [
-            "They asked about the when and the what sign.",
             "This chapter in Mark is often called 'The Little Apocalypse' with the notion that a Jewish apocalypse has been here adapted by Mark and attributed to Jesus.",
-            "Both Matthew and Luke follow the general line of Mark 13 though Matthew 24:43-25 presents new material (parables)."
+            "Many of the theories attribute grave error to Jesus or to the Gospels on this subject.",
+            "Mark may have given it in order 'to forewarn and forearm' the readers against the coming catastrophe of the destruction of Jerusalem."
         ],
         "John Gill": [
             "When the temple will be destroyed, and these fine buildings shall be demolished, and not one of these large stones shall be left upon another.",
-            "And what shall be the sign when all these things [shall be] fulfilled?",
-            "And what is the sign of his coming, and of the end of the world, as Matthew relates."
+            "What is the sign of his coming, and of the end of the world, as Matthew relates.",
+            "And what shall be the sign when all these things [shall be] fulfilled?"
         ],
         "John Wesley": [
             "Two questions are here asked; the one concerning the destruction of Jerusalem: the other concerning the end of the world."
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples asked Jesus about the timing and signs of the temple's destruction, which they saw as part of a series of events. However, their understanding of these events was confused and they regarded them as interconnected. Jesus, in His response, chooses to address both their questions about the destruction of Jerusalem and the end of the world. This chapter in Mark, often referred to as The Little Apocalypse, draws upon Jewish apocalyptic themes. Matthew and Luke also include similar accounts, with Matthew introducing new material through parables. Ultimately, the disciples sought clarification on when the temple would be destroyed and what sign would indicate the fulfillment of all these prophetic events.",
-            "wordCount": 113,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.6502272749987454,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "bht": "The disciples had become accustomed to hearing Jesus speak about the future events, including the destruction of the temple in Jerusalem, which they believed to be interconnected with other significant occurrences. Their understanding of these events, however, was confused and lacked clarity. Jesus, in His own unique manner, responds to their questions by providing prophecies about the destruction of Jerusalem. Mark's inclusion of these prophecies is thought to be a means of warning and preparing the readers for the impending catastrophe. It is important to distinguish and not attribute errors to Jesus or the Gospels in their portrayal of these events, as some theories tend to do. In asking for the sign, the disciples perceived the destruction of the temple, the return of Jesus, and the end of the world as parts of the same overarching series of events. Jesus addresses both topics in His response, although they may not occur simultaneously.",
+            "wordCount": 153,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5865517371157698,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
             "commentatorTierSimilarities": [
-                35.18,
-                26.1,
-                38.71
+                36.53,
+                25.39,
+                38.08
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples were curious about the timing and signs of the destruction of the temple, which they perceived as part of a larger series of events. Their understanding of these events was muddled, treating them as interconnected. When the disciples asked Jesus about these things, He responded in His own unique manner. This passage in Mark is often referred to as The Little Apocalypse, suggesting that it adapts a Jewish apocalypse and attributes it to Jesus. Matthew and Luke have similar narratives, with Matthew even introducing new material through parables. Ultimately, the disciples sought insight into the timing of the temple's destruction and the sign of its fulfillment.",
-            "wordCount": 109,
-            "quoteTokenProportion": 41.89,
-            "qualityScore": 1.5239302268265043,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "bht": "The disciples were familiar with Jesus frequently speaking about the future events they believed were interconnected, such as the destruction of the temple in Jerusalem. However, their understanding of these events was muddled and confused. Jesus, in response, provides prophecies about the impending destruction of Jerusalem. This inclusion by Mark serves as a warning and preparation for the readers. It is crucial not to attribute errors to Jesus or the Gospels in their portrayal of these events. The disciples' question for the sign conveys their belief that the destruction of the temple, Jesus' return, and the end of the world were part of one series, to which Jesus addresses both topics in His response.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.5683523082749877,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.49,
             "commentatorTierSimilarities": [
-                39.28,
-                26.97,
-                33.74
+                37.54,
+                24.26,
+                38.19
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples posed questions to Jesus regarding the timing and signs of the temple's destruction, perceiving it as part of a chain of events. Their understanding of these events was convoluted, blurring the distinctions between different prophetic occurrences. Jesus, in His response, chose his own unique approach to addressing their inquiries. Referred to as The Little Apocalypse, this segment in Mark is believed to take inspiration from Jewish apocalyptic literature adapted by Mark and attributed to Jesus. Additionally, Matthew and Luke's accounts align with the general theme found in Mark 13.",
-            "wordCount": 92,
-            "quoteTokenProportion": 32.84,
-            "qualityScore": 1.499002459456509,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+            "bht": "The disciples had grown accustomed to Jesus speaking about future events, including the destruction of the temple in Jerusalem. Their understanding of these events was confused, and they believed that the destruction of the temple, Jesus' return, and the end of the world were all interconnected. Jesus responds by providing prophecies about the impending destruction of Jerusalem, which Mark includes in order to warn and prepare the readers for the coming catastrophe. It is important not to attribute any errors to Jesus or the Gospels in their portrayal of these events.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7103054042284453,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.21,
             "commentatorTierSimilarities": [
-                37.83,
-                24.75,
-                37.42
+                38.86,
+                20.36,
+                40.78
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples were curious about the signs and timing of the temple's destruction, which they viewed as part of a greater sequence of events. However, their understanding was confused and they associated these prophecies, with varying degrees of accuracy, as one and the same. Jesus, in response, took a unique approach to address their questions. This section in Mark, commonly referred to as The Little Apocalypse, is believed to have drawn upon Jewish apocalyptic literature, adapted by Mark and attributed to Jesus. Matthew and Luke follow a similar narrative, with Matthew introducing additional material.",
-            "wordCount": 95,
-            "quoteTokenProportion": 34.29,
-            "qualityScore": 1.4941267742087971,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
+            "bht": "The disciples were familiar with Jesus speaking about the future events, particularly the destruction of the temple in Jerusalem, but their understanding of these events was confused. They believed that the destruction of the temple, Jesus' return, and the end of the world were all part of one series of events, viewing them as simultaneously occurring. Jesus responds by providing prophecies about the imminent destruction of Jerusalem, which Mark emphasizes as a warning and preparation for the impending catastrophe. It is important not to attribute errors to Jesus or the Gospels in their portrayal of these events.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.7614128926183632,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.91,
             "commentatorTierSimilarities": [
-                41.35,
-                25.32,
-                33.33
+                37.37,
+                22.16,
+                40.47
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples were curious about when and what signs would accompany the destruction of the temple, as they considered it as part of a series of interconnected events. Their understanding was unclear and they sought clarification from Jesus. This particular chapter in Mark, known as The Little Apocalypse, is thought to borrow from Jewish apocalyptic literature, adapted by Mark and attributed to Jesus. Both Matthew and Luke also follow a similar storyline, with Matthew incorporating additional parables. Ultimately, the disciples had questions about the timing of the temple's destruction and the sign indicating that all these prophetic events would come to pass.",
-            "wordCount": 103,
-            "quoteTokenProportion": 38.36,
-            "qualityScore": 1.5931485185390581,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "bht": "The disciples were accustomed to Jesus frequently speaking about the future events, particularly the impending destruction of the temple in Jerusalem. However, their understanding of these events was muddled and unclear. Jesus responds to their questions by providing prophecies about the destruction of Jerusalem, which Mark includes to warn and prepare the readers for the coming catastrophe. It is crucial not to ascribe errors to Jesus or the Gospels regarding these topics. The disciples believed that the destruction of the temple, Jesus' return, and the end of the world were interconnected, and although Jesus addresses both topics, they may not occur simultaneously.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5915370147886323,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
             "commentatorTierSimilarities": [
-                37.85,
-                26.09,
-                36.06
+                38.75,
+                20.81,
+                40.44
             ],
             "generationAttempt": 5
         }

@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-22-2023 23:30:09",
+    "timestamp": "12-25-2023 20:32:57",
     "verseRef": "Mark 16:6",
     "bestBHT": {
-        "bht": "The precise account in Mark suggests the angel accompanied the women into the tomb, using a stronger word to address their fear. Jesus, referred to as the Nazarene, the Crucified, is proclaimed risen, emphasizing his permanent state. This transformation from shame to glory is a remarkable aspect of the Gospel narrative.",
-        "wordCount": 51,
-        "quoteTokenProportion": 31.71,
-        "qualityScore": 1.4110730599817003,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+        "bht": "When the women arrived at the tomb, an angel accompanied them, signaling the completeness of his appearance. The angel's message, similar to Matthew's account, invoked a stronger word than Fear not to ease their fears. Emphasizing that Jesus, the Nazarene, the Crucified, had risen and was no longer in the tomb, the angel urged them not to be amazed. This proclamation of the resurrection resonated the transformation of Jesus' shame into his glorious crown, assuring everyone of his permanent state of being risen.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.4825061732694007,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.64,
         "commentatorTierSimilarities": [
-            61.1,
-            27.4,
-            11.5
+            52.95,
+            35.63,
+            11.42
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "From the come of St. Matthew, I should be inclined to think that his is the strictly accurate account.",
-            "This word implies that the angel accompanied the women into the tomb.",
-            "An imperfect narrative like that in the text might easily describe his whole appearance as taking place within."
+            "This word implies that the angel accompanied the women into the tomb...",
+            "...an imperfect narrative like that in the text might easily describe his whole appearance as taking place within.",
+            "From the come of St. Matthew, I should be inclined to think that his is the strictly accurate account."
         ],
         "Jamieson-Fausset-Brown": [
             "Be not affrighted\u2014a stronger word than 'Fear not' in Matthew (Matthew 28:5).",
             "Ye seek Jesus of Nazareth, which was crucified!\u2014'the Nazarene, the Crucified.'",
-            "He is risen; he is not here."
+            "he is risen; he is not here\u2014(See on Matthew 28:5- :)."
         ],
         "Philip Schaff": [
             "Be not amazed.",
-            "This is probably not identical with the message in Matthew 28:5-7.",
+            "This is probably not identical with the message in Matthew 28:5-7, given outside the tomb.",
             "A second one (reported by Luke also), which is, however, substantially a repetition of the previous one."
         ],
         "Archibald T. Robertson": [
-            "Be not amazed... and urges the cessation of it using this very word.\" ",
-            "This description of his shame has become his crown of glory.\" ",
-            "He is risen... to emphasize the permanent state that Jesus remains risen."
+            "Be not amazed... and urges the cessation of it using this very word.\"  ",
+            "The crucified one... his shame has become his crown of glory.\"  ",
+            "He is risen... the permanent state that Jesus remains risen."
         ],
         "John Gill": [
             "And he saith unto them, be not affrighted,....",
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The account in Mark 16:6 gives a more accurate description of the angel's appearance, suggesting that the angel accompanied the women into the tomb. The angel addresses the women's fear with a stronger word than Fear not, emphasizing Jesus as the Nazarene, the Crucified. The angel's message of Jesus's resurrection is meant to alleviate their amazement and emphasize the permanent state of Jesus being risen. This resurrection, a transformation from shame to glory, is a significant aspect of the Gospel narrative.",
-            "wordCount": 84,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.3695469838567655,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.88,
+            "bht": "When the women arrived at the tomb, an angel accompanied them and reassured them not to be afraid. The angel wanted them to know that Jesus of Nazareth, the Crucified, had risen and was no longer in the tomb. The angel emphasized that there was no need for amazement or fear, as Jesus had triumphed over death. This message of the resurrection was a powerful proclamation, transforming Jesus' shame into his crown of glory. The angel's words conveyed the permanent state of Jesus being risen, bringing hope and joy to all. This account in Mark complements the narrative in Matthew, providing additional details and perspectives.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.404862781891027,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
             "commentatorTierSimilarities": [
-                59.17,
-                27.29,
-                13.55
+                53.43,
+                35.77,
+                10.8
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The accurate account in Mark reveals that the angel accompanied the women into the tomb. Using a stronger word than Fear not, the angel addresses their fear and points to Jesus as the Nazarene, the Crucified. The message of Jesus's resurrection intends to alleviate their amazement and emphasizes the permanence of his risen state. This transformation from shame to glory highlights the significance of the Gospel narrative.",
-            "wordCount": 68,
-            "quoteTokenProportion": 32.65,
-            "qualityScore": 1.3246081975434034,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
+            "bht": "When the women arrived at the tomb, an angel accompanied them, signaling the completeness of his appearance. The angel's message, similar to Matthew's account, invoked a stronger word than Fear not to ease their fears. Emphasizing that Jesus, the Nazarene, the Crucified, had risen and was no longer in the tomb, the angel urged them not to be amazed. This proclamation of the resurrection resonated the transformation of Jesus' shame into his glorious crown, assuring everyone of his permanent state of being risen.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4825061732694007,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.64,
             "commentatorTierSimilarities": [
-                59.13,
-                28.46,
-                12.42
+                52.95,
+                35.63,
+                11.42
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The precise account in Mark suggests the angel accompanied the women into the tomb, using a stronger word to address their fear. Jesus, referred to as the Nazarene, the Crucified, is proclaimed risen, emphasizing his permanent state. This transformation from shame to glory is a remarkable aspect of the Gospel narrative.",
-            "wordCount": 51,
-            "quoteTokenProportion": 31.71,
-            "qualityScore": 1.4110730599817003,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+            "bht": "When the women entered the tomb, they were accompanied by an angel, whose appearance was described imperfectly by the narrative. This account aligns closely with Matthew's, suggesting its accuracy. The angel assured the women not to be frightened, using a stronger word than simply saying Fear not. He reminded them of Jesus of Nazareth, the Crucified, who was now risen and no longer in the tomb. This message urged the women to let go of their amazement and embrace the reality of Jesus' permanent state of resurrection, turning his shame into a glorious crown.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.3889920046754842,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.53,
             "commentatorTierSimilarities": [
-                61.1,
-                27.4,
-                11.5
+                53.56,
+                30.82,
+                15.62
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The accurate account in Mark depicts the angel entering the tomb with the women. The angel's use of a stronger word than Fear not addresses their fear, emphasizing Jesus as the Nazarene, the Crucified. The angel's message of Jesus's resurrection aims to alleviate their amazement and underscore the enduring nature of Jesus's risen state. This transformation from shame to glory serves as a central theme within the Gospel narrative.",
-            "wordCount": 73,
-            "quoteTokenProportion": 28.0,
-            "qualityScore": 1.2938690513309496,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.36,
+            "bht": "As the women approached the tomb, an angel accompanied them, suggesting his presence inside the tomb as well. His words, stronger than a mere Fear not, reassured them in the face of their fear. The angel reminded them that they were seeking Jesus of Nazareth, the Crucified, who had risen from the dead and was no longer in the tomb. He encouraged them not to be amazed, indicating an end to their astonishment. Jesus' resurrection signified the transformation of his shame into a glorious crown, affirming his eternal state of being risen.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.4021110010887141,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.96,
             "commentatorTierSimilarities": [
-                62.14,
-                26.41,
-                11.44
+                50.03,
+                34.16,
+                15.81
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The precise account in Mark indicates the angel accompanying the women into the tomb, using a stronger word than Fear not. The angel directs their attention to Jesus as the Nazarene, the Crucified, emphasizing his resurrection and the permanent state of being risen. This transformation from shame to glory is a fundamental theme in the Gospel narrative, illustrating the profound significance of Jesus's triumph over death.",
-            "wordCount": 67,
-            "quoteTokenProportion": 34.62,
-            "qualityScore": 1.3679288101175808,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.83,
+            "bht": "When the women entered the tomb, the angel accompanied them, implying his presence throughout. His message, using a stronger word than Fear not, assured them that Jesus of Nazareth, the Crucified, had risen and was not in the tomb anymore. The angel urged them not to be amazed, signifying the end of their astonishment. Jesus' resurrection transformed his shame into a crown of glory, showcasing his permanent state of being risen. This account in Mark complements Matthew's narrative, providing additional details without contradiction.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5213739865862987,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
             "commentatorTierSimilarities": [
-                60.18,
-                27.68,
-                12.14
+                50.06,
+                36.9,
+                13.04
             ],
             "generationAttempt": 5
         }

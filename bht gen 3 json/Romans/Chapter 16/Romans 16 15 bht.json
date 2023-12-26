@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:10:31",
+    "timestamp": "12-25-2023 20:34:22",
     "verseRef": "Romans 16:15",
     "bestBHT": {
-        "bht": "One notable mention in this section is Philologus, a common slave name. Philologus and Julia were possibly married, and all the saints that are with them could indicate the presence of another church in their home, suggesting a larger community of believers. The absence of any mention of Peter raises intriguing questions about his whereabouts in Rome at that time and challenges the traditional understanding of the succession of Roman bishops.",
-        "wordCount": 71,
-        "quoteTokenProportion": 40.74,
-        "qualityScore": 1.155262009745284,
-        "qualityScoreNormalizedComparedToV2BHTs": 29.76,
+        "bht": "Among the congregation, the name Philologus suggests the presence of slaves, and Julia, likely the wife of Philologus, stands out as a common female name. These unnamed individuals, along with others, make up the majority of the believers. The absence of Peter's name prompts questions about the legitimacy of the Roman bishop succession. If Peter had been in Rome, Paul would have greeted him specifically, but since he is not mentioned, it challenges the foundational aspect of the Roman tradition.",
+        "wordCount": 81,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.2374027099750164,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.49,
         "commentatorTierSimilarities": [
-            41.49,
-            18.85,
-            39.66
+            39.87,
+            16.79,
+            43.35
         ],
         "generationAttempt": 5
     },
@@ -25,17 +25,17 @@
         ],
         "Archibald T. Robertson": [
             "Philologus. Another common slave name.",
-            "Possibly these two were husband and wife.",
-            "All the saints that are with them. Possibly another church in the house."
+            "The commonest name for female slaves in the imperial household because of Julius Caesar.",
+            "Possibly another church in the house. These unnamed, the 'and others,' constitute the great majority in all our churches."
         ],
         "John Gill": [
             "The first of these is a Greek name, and the name of a man, and signifies a lover of learning.",
-            "Reckoned among the seventy disciples, and is said to be bishop of Sinope.",
-            "Deserves some notice, that among all the persons here mentioned by name, known by the apostle to be at Rome, that he takes no notice of Peter."
+            "Julia is a woman's name, and Roman, probably the wife of the former.",
+            "It deserves some notice, that among all the persons here mentioned by name, known by the apostle to be at Rome, that he takes no notice of Peter."
         ],
         "John Wesley": [
             "Salute all the saints \u2014 Had St. Peter been then at Rome, St. Paul would doubtless have saluted him by name.",
-            "No one in this numerous catalogue was of an eminence comparable to his.",
+            "since no one in this numerous catalogue was of an eminence comparable to his.",
             "But if he was not then at Rome, the whole Roman tradition, with regard to the succession of their bishops, fails in the most fundamental article."
         ]
     },
@@ -56,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Among the mentions in this verse, one of them is Philologus, a common name for a slave, and it is possible that he and Julia, also mentioned, were husband and wife. The phrase all the saints that are with them could be referring to another church in their house, indicating a large group of Christians. In particular, the name Olympas is that of a man, and the mention of all the saints suggests a numerous body of believers. Interestingly, it is worth noting that Peter is not mentioned here, perhaps indicating that he was not present in Rome at that time, which could have implications for the tradition of the Roman bishops' succession.",
-            "wordCount": 113,
-            "quoteTokenProportion": 45.07,
-            "qualityScore": 1.3250723509760614,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.4,
+            "bht": "Among the names mentioned in this verse, Philologus stands out as a common slave name, likely belonging to a male. Julia, on the other hand, is a female name of Roman origin, possibly the wife of Philologus. These unnamed individuals, along with others, comprise the majority of the church. It is interesting to note that although Peter is not mentioned by Paul, had he been in Rome, Paul would have surely greeted him by name. This absence of Peter in the list raises questions about the Roman tradition regarding the succession of their bishops.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.383421328932519,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
             "commentatorTierSimilarities": [
-                37.94,
-                21.11,
-                40.95
+                41.92,
+                15.67,
+                42.41
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Among the mentions in this passage, one is Philologus, a common slave name, and it is possible that he and Julia were husband and wife. All the saints that are with them possibly refers to another church in their house, pointing to a numerous body of Christians. Interestingly, Peter is not acknowledged, which may suggest his absence in Rome at that time and have significant implications for the tradition of the Roman bishops' succession.",
-            "wordCount": 74,
-            "quoteTokenProportion": 47.46,
-            "qualityScore": 1.3767006916589501,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.12,
+            "bht": "In this passage, a common slave name, Philologus, suggests the presence of slaves in the church, while Julia likely refers to the wife of Philologus. Along with other unnamed individuals, they make up the majority of the church. Interestingly, the absence of Peter's name raises questions regarding the Roman tradition of bishops. If Peter had been in Rome, Paul would have greeted him, but since he is not mentioned among the saints, it challenges the legitimacy of the Roman bishop succession.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.3676249053439629,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.82,
             "commentatorTierSimilarities": [
-                42.06,
-                19.1,
-                38.84
+                42.3,
+                15.65,
+                42.05
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Among the mentions in this brief section, Philologus and Julia could have been a married couple, and Philologus is noted as a common slave name. The phrase all the saints that are with them points to the possibility of another church in their home, highlighting a large community of Christians. Notably, Peter is not mentioned, which may suggest that he was not present in Rome at this time, calling into question the traditional view of Roman bishops' succession.",
-            "wordCount": 78,
-            "quoteTokenProportion": 45.16,
-            "qualityScore": 1.1454973778851831,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.43,
+            "bht": "Among the mentioned names, Philologus may indicate the presence of slaves in the church, while Julia could be the wife of Philologus. These unnamed individuals, along with others, make up the majority of the congregation. Remarkably, the absence of Peter's name raises questions about the validity of the Roman bishop succession. Had Peter been in Rome, Paul would have greeted him by name. This absence challenges the foundational aspect of the Roman tradition.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.2134924900130861,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.69,
             "commentatorTierSimilarities": [
-                39.26,
-                17.69,
-                43.04
+                40.58,
+                17.57,
+                41.86
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "One notable mention in this passage is Philologus, which is a common slave name, and it is possible that Philologus and Julia were a married couple. It is also worth noting that the phrase all the saints that are with them suggests the existence of another church within their home, indicating a considerable community of believers. The absence of any mention of Peter is intriguing, as it raises questions about his presence in Rome at that time and challenges the traditional understanding of the succession of Roman bishops.",
-            "wordCount": 88,
-            "quoteTokenProportion": 41.94,
-            "qualityScore": 1.1275691620155792,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.84,
+            "bht": "In this congregation, Philologus stands out as a common slave name, indicating the possible presence of slaves within the church, while Julia is likely the wife of Philologus. These unnamed individuals, along with others, constitute the majority of the believers. Notably, the absence of Peter's name in the greetings raises doubts about the authenticity of the Roman bishop succession. If Peter had been in Rome, Paul would have surely mentioned him. This omission challenges the foundational aspect of the Roman tradition.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.206789278858724,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.47,
             "commentatorTierSimilarities": [
-                38.29,
-                17.89,
-                43.82
+                40.48,
+                16.61,
+                42.91
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "One notable mention in this section is Philologus, a common slave name. Philologus and Julia were possibly married, and all the saints that are with them could indicate the presence of another church in their home, suggesting a larger community of believers. The absence of any mention of Peter raises intriguing questions about his whereabouts in Rome at that time and challenges the traditional understanding of the succession of Roman bishops.",
-            "wordCount": 71,
-            "quoteTokenProportion": 40.74,
-            "qualityScore": 1.155262009745284,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.76,
+            "bht": "Among the congregation, the name Philologus suggests the presence of slaves, and Julia, likely the wife of Philologus, stands out as a common female name. These unnamed individuals, along with others, make up the majority of the believers. The absence of Peter's name prompts questions about the legitimacy of the Roman bishop succession. If Peter had been in Rome, Paul would have greeted him specifically, but since he is not mentioned, it challenges the foundational aspect of the Roman tradition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.2374027099750164,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.49,
             "commentatorTierSimilarities": [
-                41.49,
-                18.85,
-                39.66
+                39.87,
+                16.79,
+                43.35
             ],
             "generationAttempt": 5
         }

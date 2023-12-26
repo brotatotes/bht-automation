@@ -1,77 +1,74 @@
 # Luke 7:46 Commentary Help Text
 
 ## BHT:
-The evidence of deep feelings arising from forgiveness becomes apparent in this context. Our Lord expresses hurt at Simon's inattentions and emphasizes that only one of the debtors was truly forgiven, despite the assumption of forgiveness for both in the parable. The woman's act of anointing Jesus' feet with costly ointment highlights her devotion and stands in stark contrast to Simon's neglect of anointing His head with ordinary oil. The remarkable contrast between their actions showcases the woman's extraordinary display of love and gratitude.
+Our Lord reacts with polite disappointment to the host's lack of attention and forgiveness. He highlights the contrast between the woman's extravagant act of love and the host's neglect, emphasizing the evidence of forgiveness shown by the woman through anointing His feet with costly ointment. While the host fails to anoint Jesus' head with ordinary oil, the woman goes above and beyond, anointing His feet with precious ointment and expressing her deep gratitude in this remarkable way.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "What evidence was thus afforded of any feeling which forgiveness prompts?"
+1. "What evidence was thus afforded of any feeling which forgiveness prompts?" 
 2. "Our Lord speaks this with delicate politeness, as if hurt at these inattentions of His host."
-3. "The inference is plain—only one of the debtors was really forgiven, though in the first instance, to give room for the play of withheld feelings, the forgiveness of both is supposed in the parable."
+3. "The inference is plain—only one of the debtors was really forgiven."
 
 ### Albert Barnes:
-1. "Her conduct, compared with that of Simon, was therefore more striking."
-2. "He did not give even the common oil for his head used on such occasions."
-3. "She had applied to his feet a far more precious and valuable unguent."
+1. "The custom of pouring oil upon the head was universal among the Jews."
+2. "She had applied to his feet a far more precious and valuable unguent. He therefore, showed comparatively little love. She showed much."
 
 ### Marvin Vincent:
-1. "She hath anointed my feet with costly ointment."
-2. "Thou didst not anoint my head, the nobler part, with ordinary oil."
-3. "Christ means to say to Simon, 'thou didst not anoint my head, the nobler part, with ordinary oil.'"
+1. "Thou didst not anoint my head, the nobler part, with ordinary oil."
+2. "She hath anointed my feet with costly ointment."
+3. "She hath anointed my feet with costly ointment."
 
 ### Philip Schaff:
 1. "The host failed to supply oil for the head."
 2. "The woman not only gave the more precious ointment."
-3. "But herself applied it to His feet."
+3. "The woman... herself applied it to His feet."
 
 ### Archibald T. Robertson:
 1.  With ointment (μυρω). Instrumental case. She used the costly ointment even for the feet of Jesus. 
 
 
 ### John Gill:
-1. "Mine head with oil thou didst not anoint,.... No not with common oil, so usually done at feasts." 
-2. "There is, throughout the whole account, an opposition between the conduct of Simon, and this woman."
-3. "He did not so much as anoint his head with common oil, when she anointed his feet with costly ointment brought in an alabaster box."
+1. "Mine head with oil thou didst not anoint,.... No not with common oil, so usually done at feasts" (Luke 7:46). 
+2. "There is, throughout the whole account, an opposition between the conduct of Simon, and this woman" (Luke 7:46). 
+3. "He did not so much as anoint his head with common oil when she anointed his feet with costly ointment brought in an alabaster box" (Luke 7:46).
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:29
+- Timestamp: 12-25-2023 20:33:10
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 32.81%
-- BHT Quality Score: 1.4859181606484566
+- BHT Word Count: 80
+- BHT Commentary Usage: 32.08%
+- BHT Quality Score: 1.8225071749786061
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['act', 'actions', 'and', 'anointing', 'apparent', 'arising', 'assumption', 'at', 'becomes', 'between', 'both', 'context', 'contrast', 'costly', 'debtors', 'deep', 'despite', 'devotion', 'display', 'emphasizes', 'evidence', 'expresses', 'extraordinary', 'feelings', 'feet', 'for', 'forgiven', 'forgiveness', 'from', 'gratitude', 'head', 'her', 'highlights', 'his', 'hurt', 'in', 'inattentions', 'jesus', 'lord', 'love', 'neglect', 'of', 'oil', 'ointment', 'one', 'only', 'ordinary', 'our', 'parable', 'remarkable', 's', 'showcases', 'simon', 'stands', 'stark', 'that', 'the', 'their', 'this', 'to', 'truly', 'was', 'with', 'woman']
-- ChatGPT injected words (significant words only) (43):
-	['act', 'actions', 'anointing', 'apparent', 'arising', 'assumption', 'context', 'contrast', 'costly', 'debtors', 'deep', 'despite', 'devotion', 'display', 'emphasizes', 'evidence', 'expresses', 'extraordinary', 'feelings', 'feet', 'forgiven', 'forgiveness', 'gratitude', 'head', 'highlights', 'hurt', 'inattentions', 'jesus', 'lord', 'love', 'neglect', 'oil', 'ointment', 'ordinary', 'parable', 'remarkable', 's', 'showcases', 'simon', 'stands', 'stark', 'truly', 'woman']
+- ChatGPT injected words (53):
+	['above', 'act', 'and', 'anoint', 'anointing', 'attention', 'between', 'beyond', 'by', 'contrast', 'costly', 'deep', 'disappointment', 'emphasizing', 'evidence', 'expressing', 'extravagant', 'fails', 'feet', 'forgiveness', 'goes', 'gratitude', 'he', 'head', 'her', 'highlights', 'his', 'host', 'in', 'jesus', 'lack', 'lord', 'love', 'neglect', 'of', 'oil', 'ointment', 'ordinary', 'our', 'polite', 'precious', 'reacts', 'remarkable', 's', 'shown', 'the', 'this', 'through', 'to', 'way', 'while', 'with', 'woman']
+- ChatGPT injected words (significant words only) (36):
+	['act', 'anoint', 'anointing', 'attention', 'contrast', 'costly', 'deep', 'disappointment', 'emphasizing', 'evidence', 'expressing', 'extravagant', 'fails', 'feet', 'forgiveness', 'goes', 'gratitude', 'head', 'highlights', 'host', 'jesus', 'lack', 'lord', 'love', 'neglect', 'oil', 'ointment', 'ordinary', 'polite', 'precious', 'reacts', 'remarkable', 's', 'shown', 'way', 'woman']
 
 ### Logs
-- Attempt 1 BHT: In Luke 7:46, one can see the evidence of the deep feelings brought about by forgiveness. Our Lord speaks with a delicate politeness, expressing his hurt at the inattentions of his host, Simon. The inference is clear - only one of the debtors was truly forgiven, though the forgiveness of both is assumed in the parable. The woman's act of anointing Jesus' feet with costly ointment is emphasized, as Simon failed to even anoint His head with ordinary oil, instead of using the more precious unguent for such an occasion. The contrast between Simon's conduct and that of the woman is striking, as she not only offered the more valuable ointment but also applied it to His feet herself.
-- 🔄 Luke 7:46 (attempt 1, 119 words, 43.21% quotes quality score: 1.7252986240095398, V2 normalized quality score: 48.71, commentator tiers 1-3: 43.05%, 28.87%, 28.08%) 
+- Attempt 1 BHT: In Luke 7:46, our Lord speaks with delicate politeness, as if hurt by the inattentions of His host. He highlights the evidence of forgiveness that the woman has shown through anointing His feet with costly ointment, contrasting it with Simon's failure to even anoint His head with common oil. The host's lack of hospitality is contrasted with the woman's extravagant act of love, revealing her great depth of feeling and gratitude. The woman goes above and beyond, not only giving the more precious ointment but also applying it with her own hands to Jesus' feet.
+- 🔄 Luke 7:46 (attempt 1, 97 words, 39.13% quotes quality score: 1.904068639581879, V2 normalized quality score: 54.65, commentator tiers 1-3: 36.06%, 31.02%, 32.92%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In examining this passage, it becomes evident that the act of forgiveness evokes strong emotions. Our Lord's gentle reproach reveals his disappointment at Simon's lack of hospitality. The parable suggests that only one of the debtors was genuinely forgiven, though both were assumed to be. The woman's act of anointing Jesus' feet with expensive ointment stands out, in stark contrast to Simon's failure to even anoint His head with ordinary oil. The disparity between their actions highlights the woman's remarkable display of devotion.
-- 🔄 Luke 7:46 (attempt 2, 88 words, 34.85% quotes quality score: 1.4542677214904258, V2 normalized quality score: 39.7, commentator tiers 1-3: 44.9%, 24.81%, 30.29%) 
+- Attempt 2 BHT: In this passage, there is a clear contrast between the host's indifference and the woman's extravagant act of love. Our Lord expresses disappointment at the host's lack of forgiveness and hospitality, highlighting the evidence of forgiveness the woman exhibits through anointing His feet with costly ointment. While the host fails to even anoint Jesus' head with common oil, the woman goes above and beyond, demonstrating her deep gratitude by anointing His feet with precious ointment that she applies with her own hands.
+- 🔄 Luke 7:46 (attempt 2, 85 words, 40.0% quotes quality score: 1.8703359272219333, V2 normalized quality score: 53.53, commentator tiers 1-3: 38.76%, 29.18%, 32.07%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: One can observe the profound impact of forgiveness in Luke 7:46. Our Lord delicately addresses Simon's lack of attention, hinting at the distinction in forgiven debt. The woman's act of anointing Jesus' feet with costly ointment emphasizes her devotion. This stands in contrast to Simon's failure to anoint His head even with ordinary oil. The significant contrast between their actions vividly highlights the woman's extraordinary display of love and gratitude.
-- 🔄 Luke 7:46 (attempt 3, 73 words, 28.57% quotes quality score: 1.5157045673483234, V2 normalized quality score: 41.74, commentator tiers 1-3: 41.09%, 26.88%, 32.03%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The evidence of deep feelings arising from forgiveness becomes apparent in this context. Our Lord expresses hurt at Simon's inattentions and emphasizes that only one of the debtors was truly forgiven, despite the assumption of forgiveness for both in the parable. The woman's act of anointing Jesus' feet with costly ointment highlights her devotion and stands in stark contrast to Simon's neglect of anointing His head with ordinary oil. The remarkable contrast between their actions showcases the woman's extraordinary display of love and gratitude.
-- 🔄 Luke 7:46 (attempt 4, 88 words, 32.81% quotes quality score: 1.4859181606484566, V2 normalized quality score: 40.75, commentator tiers 1-3: 50.0%, 24.23%, 25.77%) 
+- Attempt 3 BHT: Our Lord reacts with polite disappointment to the host's lack of attention and forgiveness. He highlights the contrast between the woman's extravagant act of love and the host's neglect, emphasizing the evidence of forgiveness shown by the woman through anointing His feet with costly ointment. While the host fails to anoint Jesus' head with ordinary oil, the woman goes above and beyond, anointing His feet with precious ointment and expressing her deep gratitude in this remarkable way.
+- 🔄 Luke 7:46 (attempt 3, 80 words, 32.08% quotes quality score: 1.8225071749786061, V2 normalized quality score: 51.94, commentator tiers 1-3: 40.36%, 29.07%, 30.57%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Our Lord expresses disappointment at the host's inattentions, emphasizing the evidence of forgiveness shown by the woman through anointing His feet with costly ointment. He points out the contrast, stating that the host failed to anoint His head with ordinary oil. In contrast, the woman goes beyond ordinary measures and anoints His feet with precious ointment. This act of love and gratitude reveals the magnitude of her forgiveness. The host's lack of hospitality is starkly contrasted with the woman's extravagant gesture.
+- 🔄 Luke 7:46 (attempt 4, 84 words, 32.14% quotes quality score: 1.7721394319437134, V2 normalized quality score: 50.27, commentator tiers 1-3: 36.77%, 34.9%, 28.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The evidence of deep feelings prompted by forgiveness is apparent in this passage. Our Lord's polite rebuke suggests his disappointment at Simon's lack of attention. It is clear that only one of the debtors was truly forgiven in the parable. The woman's act of anointing Jesus' feet with costly ointment highlights her remarkable devotion. In contrast, Simon failed to anoint His head with ordinary oil. The significant contrast between their actions underscores the woman's extraordinary display of love and gratitude.
-- 🔄 Luke 7:46 (attempt 5, 84 words, 31.25% quotes quality score: 1.5454500045934674, V2 normalized quality score: 42.73, commentator tiers 1-3: 41.83%, 29.21%, 28.96%) 
+- Attempt 5 BHT: Our Lord expresses disappointment at the host's inattentions, emphasizing the evidence of forgiveness shown by the woman through anointing His feet with costly ointment. He highlights the contrast, stating that the host failed to anoint His head with ordinary oil. In contrast, the woman goes beyond ordinary measures and anoints His feet with precious ointment. This act of love and gratitude reveals the magnitude of her forgiveness. The host's lack of hospitality is starkly contrasted with the woman's extravagant gesture.
+- 🔄 Luke 7:46 (attempt 5, 83 words, 30.91% quotes quality score: 1.760465313603175, V2 normalized quality score: 49.88, commentator tiers 1-3: 36.93%, 34.85%, 28.22%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Luke 7:46 bht prompt v0.8 (88 words, 32.81% quotes)
-- quality score: 1.4859181606484566, V2 normalized quality score: 40.75, commentator tiers 1-3: 50.0%, 24.23%, 25.77%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 7:46 bht prompt v0.8 (80 words, 32.08% quotes)
+- quality score: 1.8225071749786061, V2 normalized quality score: 51.94, commentator tiers 1-3: 40.36%, 29.07%, 30.57%)

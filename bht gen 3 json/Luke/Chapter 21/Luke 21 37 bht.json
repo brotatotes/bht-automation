@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:22:38",
+    "timestamp": "12-25-2023 20:33:40",
     "verseRef": "Luke 21:37",
     "bestBHT": {
-        "bht": "During the days of His last week, Jesus resided at the mount in Bethany. Daily, He would preach in the temple, openly sharing the Gospel with the people. By night, He would lodge at the Mount of Olives, likely spending time in prayer for Himself and His disciples. This routine reflected His limited time remaining with His followers. Notably, this does not suggest any future visits to the temple.",
-        "wordCount": 69,
-        "quoteTokenProportion": 38.78,
-        "qualityScore": 1.4462092072429789,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+        "bht": "During the last week of His life, Jesus spent His days teaching in the temple, openly preaching the Gospel to the people. At night, He would retreat to the Mount of Olives, likely to pray for Himself and His disciples, as His time with them was growing short. This pattern of teaching in the temple during the day and lodging on the Mount of Olives at night was His constant method each day of that fateful week. While Matthew and Mark mention Bethany as His place of lodging, Luke includes the Mount of Olives as part of this abode.",
+        "wordCount": 99,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.732310712849959,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.94,
         "commentatorTierSimilarities": [
-            19.72,
-            27.0,
-            53.28
+            16.76,
+            37.33,
+            45.91
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -26,8 +26,8 @@
             "Abode [\u03b7\u03c5\u03bb\u03b9\u03b6\u03b5\u03c4\u03bf] . Only here and Matthew 21:17."
         ],
         "Philip Schaff": [
-            "Every day. Lit., \u2018the days,\u2019 definite days of that week of His passion.",
-            "As the nights here referred to were those connected with public teaching, it does not meet the difficulty, to say that Luke is telling us where our Lord spent Tuesday and Wednesday nights, of which we have no definite record.",
+            "Luke 21:37. Every day. Lit., \u2018the days,\u2019 definite days of that week of His passion.",
+            "Luke makes no mention of Bethany, where, according to Matthew and Mark, our Lord spent the nights of Sunday and Monday.",
             "Bethany was probably the place, and Olivet is here mentioned as including it."
         ],
         "Archibald T. Robertson": [
@@ -36,13 +36,14 @@
             "Lodged (\u03b7\u03c5\u03bb\u03b9\u03b6\u03b5\u03c4\u03bf). Imperfect middle, was lodging, \u03b1\u03c5\u03bb\u03b9\u03b6\u03bf\u03bc\u03b1 from \u03b1\u03c5\u03bb\u03b7 (court). "
         ],
         "John Gill": [
-            "His constant method every day...was to go up to the temple, and there openly and freely preach the Gospel to the people.\" ",
-            "At night he went out...and abode in the mount that is called the Mount of Olives.",
+            "His constant method every day... was to go up to the temple, and there openly and freely preach the Gospel to the people.\" ",
+            "At night he went out... and abode in the mount that is called the Mount of Olives.\" ",
             "Very likely to pray, both for himself and for his disciples, his time with them being short."
         ],
         "John Wesley": [
-            "In the day time, he was teaching in the temple - This shows how our Lord employed his time after coming to Jerusalem.\" ",
-            "It does not therefore by any means imply, that he came any more after this into the temple."
+            "In the day time, he was teaching in the temple.",
+            "It does not therefore by any means imply, that he came any more after this into the temple.",
+            "But it is not said, he was this day in the temple, and next morning the people came."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -62,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "During the days of His last week, Jesus stayed in the mount, specifically at Bethany. Every day, He went up to the temple to teach the people, while at night He went out and lodged in the mount, known as the Mount of Olives. This was likely a time of prayer for Jesus and His disciples, as His time with them was running short. It is important to note that this verse does not imply that Jesus came into the temple again after this.",
-            "wordCount": 84,
-            "quoteTokenProportion": 51.79,
-            "qualityScore": 1.5315359209382355,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.27,
+            "bht": "During the last week of His life, Jesus spent His days teaching in the temple, openly preaching the Gospel to the people. At night, He would retreat to the Mount of Olives, likely to pray for Himself and His disciples, as His time with them was growing short. This pattern of teaching in the temple during the day and lodging on the Mount of Olives at night was His constant method each day of that fateful week. While Matthew and Mark mention Bethany as His place of lodging, Luke includes the Mount of Olives as part of this abode.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.732310712849959,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
             "commentatorTierSimilarities": [
-                16.46,
-                28.71,
-                54.83
+                16.76,
+                37.33,
+                45.91
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During the days of His last week, Jesus stayed in the mount, particularly at Bethany (Matthew 21:17). He would go up to the temple every day to teach the people, and at night He would retreat to the Mount of Olives to lodge, possibly for prayer. This pattern of teaching at the temple during the day and lodging at the Mount of Olives at night was His constant method. This verse does not indicate that He visited the temple again after this.",
-            "wordCount": 81,
-            "quoteTokenProportion": 45.83,
-            "qualityScore": 1.6297098824696303,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "bht": "During the days of His last week, Jesus would teach openly in the temple, proclaiming the Gospel to the people. At night, He would retreat to the Mount of Olives, most likely to pray for Himself and His disciples. This was His regular routine, with each day filled with teaching in the temple and lodging on the Mount of Olives. While Matthew and Mark mention Bethany as His lodging place, Luke includes the Mount of Olives in this account.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6906282331923772,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.56,
             "commentatorTierSimilarities": [
-                18.31,
-                29.59,
-                52.11
+                16.63,
+                36.93,
+                46.44
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "During the days of His last week, Jesus resided at the mount, specifically at Bethany, and would go up to the temple daily to teach. Afterward, He would lodge at the Mount of Olives at night, perhaps for prayer. This consistent pattern demonstrated His method of preaching during the day and finding solace in the mount at night. It's worth noting that this verse does not imply any further visits to the temple after this time.",
-            "wordCount": 77,
-            "quoteTokenProportion": 43.4,
-            "qualityScore": 1.504591539919496,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "bht": "During His last week, Jesus would spend His days teaching in the temple, openly preaching the Gospel to the people. He would then go to the Mount of Olives to lodge at night, most likely to pray for Himself and His disciples. This routine continued throughout the week, with each day dedicated to teaching in the temple and finding refuge on the Mount of Olives. While some accounts mention Bethany as His lodging place, Luke includes the Mount of Olives in this description.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.601065598843291,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.58,
             "commentatorTierSimilarities": [
-                16.49,
-                29.92,
-                53.59
+                15.55,
+                37.94,
+                46.51
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "During the days of His last week, Jesus stayed in the mount at Bethany. Every day, He would go up to the temple to openly teach the Gospel to the people. At night, He would retreat to the Mount of Olives for lodging, likely engaging in prayer. This consistent routine reflected His limited time with His disciples and His dedication to sharing His message with the masses. It is important to note that this passage does not indicate any future visits to the temple.",
-            "wordCount": 84,
-            "quoteTokenProportion": 39.66,
-            "qualityScore": 1.4577153748519063,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "bht": "During His final days, Jesus would spend His time teaching in the temple, openly proclaiming the Gospel to the people. At night, He would retreat to the Mount of Olives, likely for prayer and reflection. This was His regular routine throughout the week, with each day dedicated to teaching in the temple and finding solace on the Mount of Olives. Though other accounts mention Bethany as His place of lodging, Luke includes the Mount of Olives in this depiction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.615562897850607,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
             "commentatorTierSimilarities": [
-                18.03,
-                28.41,
-                53.56
+                15.87,
+                37.95,
+                46.18
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "During the days of His last week, Jesus resided at the mount in Bethany. Daily, He would preach in the temple, openly sharing the Gospel with the people. By night, He would lodge at the Mount of Olives, likely spending time in prayer for Himself and His disciples. This routine reflected His limited time remaining with His followers. Notably, this does not suggest any future visits to the temple.",
-            "wordCount": 69,
-            "quoteTokenProportion": 38.78,
-            "qualityScore": 1.4462092072429789,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+            "bht": "During the days of His last week, Jesus would teach openly in the temple, preaching the Gospel to the people. At night, He would retreat to the Mount of Olives, most likely to pray for Himself and His disciples. This was His constant method every day, with each day filled with teaching in the temple and lodging on the Mount of Olives. While some accounts mention Bethany as His place of lodging, Luke includes the Mount of Olives in this description, suggesting that it encompassed Bethany as well.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.634126487616721,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
             "commentatorTierSimilarities": [
-                19.72,
-                27.0,
-                53.28
+                15.26,
+                37.74,
+                46.99
             ],
             "generationAttempt": 5
         }

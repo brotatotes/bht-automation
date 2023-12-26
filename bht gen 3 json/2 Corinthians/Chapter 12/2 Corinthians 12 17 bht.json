@@ -1,38 +1,38 @@
 {
-    "timestamp": "12-19-2023 15:18:36",
+    "timestamp": "12-25-2023 20:34:27",
     "verseRef": "2 Corinthians 12:17",
     "bestBHT": {
-        "bht": "I did not take advantage of anyone, nor did my associates. It is important for those who seek to influence others for good to adhere to this rule. I go straight to the point without any hesitation. If you wonder whether I have ever defrauded you through anyone I have sent to you, I appeal to the facts and to what you know. Name a single person who has received money from you on my behalf, or any reason to believe that I have used them for such purposes. If you can't provide an example, then this accusation should be seen as slander and calumny. I emphatically deny that I have deceived you in any way.",
-        "wordCount": 117,
-        "quoteTokenProportion": 55.56,
-        "qualityScore": 1.1450694237565138,
-        "qualityScoreNormalizedComparedToV2BHTs": 29.42,
+        "bht": "Paul emphatically denies the accusation that he took advantage of the Corinthians for personal gain, assuring them that neither he nor his associates had any ulterior motives. He appeals to the Corinthians, urging them to consider the evidence and the trustworthiness of his character. By asking if he had ever acted fraudulently towards them, Paul challenges his opponents to provide specific instances, knowing that they won't be able to because the charges against him are baseless. It is crucial to note that Paul categorically denies any use of deceit, firmly refuting the accusations made against him.",
+        "wordCount": 97,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.3254301524128311,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.41,
         "commentatorTierSimilarities": [
-            29.12,
-            40.12,
-            30.76
+            22.74,
+            36.48,
+            40.79
         ],
         "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "You know well I did not.",
+            "Paul's reply: You know well I did not.",
             "My associates were as disinterested as myself.",
             "An important rule to all who would influence others for good."
         ],
         "Albert Barnes": [
             "Did I make a gain ... - In refuting this slander, Paul appeals boldly to the facts, and to what they knew.",
-            "The phrase 'make a gain' (from \u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03ba\u03c4\u03b5\u0301\u03c9 pleonekteo\u0304), means properly to have an advantage; then to take advantage, to seek unlawful gain.",
-            "Here Paul asks whether he had defrauded them by means of anyone whom he had sent to them."
+            "Same the man,\u201d says he, \u201cwho has thus defrauded you under my instructions.",
+            "If the charge is well-founded, let him be specified, and let the mode in which it was done be distinctly stated."
         ],
         "Archibald T. Robertson": [
-            "Did I take advantage...Paul goes right to the point without hedging.\" ",
-            "An anacoluthon for \u03c4\u03b9\u03bd\u03b1 is left in the accusative without a verb and \u03b4\u03b9' \u03b1\u03c5\u03c4\u03bf\u03c5 takes up the idea, 'as to any one by him.'",
-            "The genitive relative is attracted from the accusative \u03bf\u03c5\u03c2 into the case of the unexpressed antecedent \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd)."
+            "Did I take advantage. Paul goes right to the point without hedging.",
+            "Whom (\u03c9\u03bd). The genitive relative is attracted from the accusative \u03bf\u03c5\u03c2 into the case of the unexpressed antecedent \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd).",
+            "\u039c\u03b7 expects the negative answer as does \u03bc\u03b7\u03c4 in 2 Corinthians 12:18."
         ],
         "John Gill": [
-            "He appeals to the Corinthians against such calumnies and false insinuations, whether ever he had circumvented them in such a manner, or had ever used such artful methods to pillage them.",
-            "He desires them to name one single person of the many who came to them from him, that had received any money from them for him; or that they had any reason to believe he had employed for such purposes.",
+            "He appeals to the Corinthians against such calumnies and false insinuations, whether ever he had circumvented them in such a manner.\" ",
+            "He asks if he had dealt fraudulently with them, by any of them whom, says he, I have sent to you.\" ",
             "If they could not pitch on a single instance, they ought therefore to look upon this as a downright slander and calumny."
         ],
         "John Wesley": [
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "I did not take advantage of anyone, nor did my associates. It is important for those who seek to influence others for good to adhere to this rule. I go straight to the point without any hesitation. If you wonder whether I have ever defrauded you through anyone I have sent to you, I appeal to the facts and to what you know. Name a single person who has received money from you on my behalf, or any reason to believe that I have used them for such purposes. If you can't provide an example, then this accusation should be seen as slander and calumny. I emphatically deny that I have deceived you in any way.",
-            "wordCount": 117,
-            "quoteTokenProportion": 55.56,
-            "qualityScore": 1.1450694237565138,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.42,
+            "bht": "Paul emphatically denies the accusation that he took advantage of the Corinthians for personal gain, assuring them that neither he nor his associates had any ulterior motives. He appeals to the Corinthians, urging them to consider the evidence and the trustworthiness of his character. By asking if he had ever acted fraudulently towards them, Paul challenges his opponents to provide specific instances, knowing that they won't be able to because the charges against him are baseless. It is crucial to note that Paul categorically denies any use of deceit, firmly refuting the accusations made against him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.3254301524128311,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.41,
             "commentatorTierSimilarities": [
-                29.12,
-                40.12,
-                30.76
+                22.74,
+                36.48,
+                40.79
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "I and my associates have not taken advantage of anyone. It is crucial for those who seek to influence others for good to follow this principle. Without hesitation, I address the issue directly, denying any fraudulent actions. If you question whether I have profited from sending individuals to you, I challenge you to provide a single instance of receiving money on my behalf. If you cannot, then this accusation is nothing more than false slander. I firmly refute any allegations of deceit.",
-            "wordCount": 82,
-            "quoteTokenProportion": 46.03,
-            "qualityScore": 1.1124802890749361,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.33,
+            "bht": "Paul firmly denies the accusation that he took advantage of the Corinthians and refutes claims of fraudulence. He implores them to examine the facts and consider the trustworthy nature of his character and actions. By challenging his opponents to provide specific instances of wrongdoing, Paul exposes the baseless nature of the allegations. It is important to understand that Paul unequivocally denies any involvement in deceit, firmly rejecting the charges brought against him.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.2473638949382306,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.82,
             "commentatorTierSimilarities": [
-                26.88,
-                40.98,
-                32.14
+                22.41,
+                36.33,
+                41.26
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "I did not take advantage of anyone, nor did my associates. It is important for those who seek to influence others for good to adhere to this rule. I go straight to the point without any hesitation. If you wonder whether I have ever defrauded you through anyone I have sent to you, I appeal to the facts and to what you know. Name a single person who has received money from you on my behalf, or any reason to believe that I have used them for such purposes. If you can't provide an example, then this accusation should be seen as slander and calumny. I emphatically deny that I have deceived you in any way.",
-            "wordCount": 117,
-            "quoteTokenProportion": 55.56,
-            "qualityScore": 1.1450694237565138,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.42,
+            "bht": "Paul strongly denies the accusation of taking advantage of the Corinthians and appeals to their knowledge of his integrity and the disinterestedness of his associates. He emphasizes the importance of being upright and transparent in influencing others for good, without resorting to deception. Paul challenges his opponents to provide specific instances of any fraudulent behavior, confident that they will be unable to substantiate their claims. It is crucial to note that Paul categorically denies using guile, firmly rejecting the false insinuations made against him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.2289053453499166,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.2,
             "commentatorTierSimilarities": [
-                29.12,
-                40.12,
-                30.76
+                25.6,
+                31.75,
+                42.65
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "I and my associates have not taken advantage of anyone. It is crucial for those who seek to influence others for good to follow this principle. Without hesitation, I address the issue directly, denying any fraudulent actions. If you question whether I have profited from sending individuals to you, I challenge you to provide a single instance of receiving money on my behalf. If you cannot, then this accusation is nothing more than false slander. I firmly refute any allegations of deceit.",
-            "wordCount": 82,
-            "quoteTokenProportion": 46.03,
-            "qualityScore": 1.1124802890749361,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.33,
+            "bht": "Paul refutes the accusation of taking advantage of the Corinthians, assuring them of his integrity and the upright conduct of his associates. He emphasizes the importance of honesty when influencing others for good. By challenging his opponents to provide specific instances, Paul exposes the falsehood of the charges against him. It is important to note that he firmly denies any involvement in deceit, standing firmly against the slander and calumny directed towards him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.1465261273036478,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.47,
             "commentatorTierSimilarities": [
-                26.88,
-                40.98,
-                32.14
+                22.66,
+                36.36,
+                40.98
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "I want you to know that I did not take advantage of anyone, and nor did my associates. It is of utmost importance for anyone who desires to influence others for good to remember this essential rule. I am forthright in my response, not beating around the bush. If you have any doubts about whether I have ever defrauded you by using someone I sent to you, I urge you to consider the facts and what you already know. Can you name even one person who received money from you on my behalf? If you cannot, then this accusation is simply slander and completely baseless. Let me state clearly that I vehemently deny using any deceptive methods.",
-            "wordCount": 117,
-            "quoteTokenProportion": 52.5,
-            "qualityScore": 1.0900717178700279,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.59,
+            "bht": "Paul vehemently denies the allegation of taking advantage of the Corinthians, highlighting the disinterestedness of himself and his associates. He emphasizes the significance of maintaining integrity in influencing others for good, without resorting to deceit. By promptly addressing the point without reservation, Paul appeals to the Corinthians' knowledge of his character. He challenges them to provide concrete evidence if they claim otherwise, knowing that there is no basis for the allegations against him. It is essential to note that Paul unequivocally denies engaging in any fraudulent behavior, countering the false insinuations made against him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.2231567168052597,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.01,
             "commentatorTierSimilarities": [
-                29.78,
-                38.65,
-                31.57
+                26.21,
+                33.3,
+                40.49
             ],
             "generationAttempt": 5
         }

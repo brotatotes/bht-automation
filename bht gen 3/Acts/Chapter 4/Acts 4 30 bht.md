@@ -1,7 +1,7 @@
 # Acts 4:30 Commentary Help Text
 
 ## BHT:
-Having been released, the apostles return to their fellow believers, symbolizing the impending clash of opposing interests. They pray for courage, asking for visible signs and proof that God has heard their plea for the strength to remain steadfast. They prioritize the preaching of God's word and seek His glory above all else. By requesting healing and signs and wonders in Jesus' name, they hope to preach with renewed readiness, enthusiasm, and unwavering conviction. They rely on God's power, recognizing His help in advancing their mission.
+The apostles pray for courage and visible signs, seeking proof that God has heard their prayer. They prioritize promoting the truth and God's glory, valuing preaching above all else. Their request reflects their trust in God's power and their commitment to their mission, showing their readiness to preach the gospel despite opposition. Desiring firmness of mind, they ask for signs that will confirm their message and contradict the schemes of those who forbid them to preach in Jesus' name.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -13,23 +13,23 @@ Having been released, the apostles return to their fellow believers, symbolizing
 
 ### Albert Barnes:
 1. "The apostles not only desired boldness to speak, but they asked that God would continue to work miracles, and thus furnish to them, and to the people, evidence of the truth of what they delivered."
-2. "They were intent on their work, and they confidently committed their way to God, making it their great object to promote the knowledge of the truth, and seeking that God would glorify himself by establishing his kingdom among people."
-3. "Signs and wonders - Miracles."
+2. "They did not even ask that he would preserve their lives, or keep them from danger. They were intent on their work, and they confidently committed their way to God."
+3. "Making it their great object to promote the knowledge of the truth, and seeking that God would glorify himself by establishing his kingdom among people."
 
 ### John Calvin:
 1. "They make so great account of the glory of God, that in comparison of this, they set light by all other things."
-2. "They do undoubtedly prefer the preaching thereof before all other things, because it is acceptable to God."
+2. "They do undoubtedly prefer the preaching [of the gospel] before all other things, because it is acceptable to God."
 3. "The more we perceive ourselves to be holpen by the Lord, let us learn to crave at the hands of God that we may go forward hereafter."
 
 ### Archibald T. Robertson:
-1. "In the stretching out the hand as to thee..."
-2. "For healing."
+1. "In the stretching out the hand as to thee."
+2. "They ask for a visible sign or proof that God has heard this prayer for courage to be faithful even unto death."
 3. "They ask for a visible sign or proof that God has heard this prayer for courage to be faithful even unto death."
 
 ### John Gill:
 1. "By stretching forth thine hand to heal... it would animate the preachers of the word to preach it with more readiness, cheerfulness, and firmness of mind."
-2. "...that signs and wonders may be done by the name of thy holy child Jesus."
-3. "...by whose name particularly the lame man at the temple had received a cure, and in whose name the sanhedrim had forbid the apostles to preach, or to make use of it, in doing any other miracle."
+2. "That signs and wonders may be done by the name of thy holy child Jesus... in whose name the sanhedrim had forbid the apostles to preach, or to make use of it, in doing any other miracle."
+3. "By exerting his power in healing sicknesses, diseases, and lameness... it would be contrary to the schemes of the Jewish sanhedrim, and would confirm the doctrines of the Gospel."
 
 ### John Wesley:
 1. Thou stretchest forth thy hand — Exertest thy power.
@@ -38,38 +38,40 @@ Having been released, the apostles return to their fellow believers, symbolizing
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:26:17
+- Timestamp: 12-25-2023 20:34:03
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 29.23%
-- BHT Quality Score: 1.350364104557157
+- BHT Word Count: 81
+- BHT Commentary Usage: 31.58%
+- BHT Quality Score: 1.6290985167343615
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['above', 'advancing', 'all', 'and', 'apostles', 'asking', 'been', 'believers', 'by', 'clash', 'conviction', 'courage', 'else', 'enthusiasm', 'fellow', 'for', 'glory', 'god', 'has', 'having', 'healing', 'heard', 'help', 'his', 'hope', 'impending', 'in', 'interests', 'jesus', 'mission', 'name', 'of', 'on', 'opposing', 'plea', 'power', 'pray', 'preach', 'preaching', 'prioritize', 'proof', 'readiness', 'recognizing', 'released', 'rely', 'remain', 'renewed', 'requesting', 'return', 's', 'seek', 'signs', 'steadfast', 'strength', 'symbolizing', 'that', 'the', 'their', 'they', 'to', 'unwavering', 'visible', 'with', 'wonders', 'word']
-- ChatGPT injected words (significant words only) (46):
-	['advancing', 'apostles', 'asking', 'believers', 'clash', 'conviction', 'courage', 'enthusiasm', 'fellow', 'glory', 'god', 'having', 'healing', 'heard', 'help', 'hope', 'impending', 'interests', 'jesus', 'mission', 'opposing', 'plea', 'power', 'pray', 'preach', 'preaching', 'prioritize', 'proof', 'readiness', 'recognizing', 'released', 'rely', 'remain', 'renewed', 'requesting', 'return', 's', 'seek', 'signs', 'steadfast', 'strength', 'symbolizing', 'unwavering', 'visible', 'wonders', 'word']
+- ChatGPT injected words (57):
+	['above', 'all', 'and', 'apostles', 'ask', 'commitment', 'confirm', 'contradict', 'courage', 'desiring', 'despite', 'else', 'firmness', 'for', 'forbid', 'glory', 'god', 'gospel', 'has', 'heard', 'in', 'jesus', 'message', 'mind', 'mission', 'name', 'of', 'opposition', 'power', 'pray', 'prayer', 'preach', 'preaching', 'prioritize', 'promoting', 'proof', 'readiness', 'reflects', 'request', 's', 'schemes', 'seeking', 'showing', 'signs', 'that', 'the', 'their', 'them', 'they', 'those', 'to', 'trust', 'truth', 'valuing', 'visible', 'who', 'will']
+- ChatGPT injected words (significant words only) (39):
+	['apostles', 'ask', 'commitment', 'confirm', 'contradict', 'courage', 'desiring', 'despite', 'firmness', 'forbid', 'glory', 'god', 'gospel', 'heard', 'jesus', 'message', 'mind', 'mission', 'opposition', 'power', 'pray', 'prayer', 'preach', 'preaching', 'prioritize', 'promoting', 'proof', 'readiness', 'reflects', 'request', 's', 'schemes', 'seeking', 'showing', 'signs', 'trust', 'truth', 'valuing', 'visible']
 
 ### Logs
-- Attempt 1 BHT: The apostles, having been released, returned to their fellow believers, representing the two conflicting interests that would soon clash. They prayed, asking God not only for courage but also for visible signs and miracles to prove the truth of their message. Their focus was on promoting the knowledge of the truth and glorifying God's kingdom. They esteemed the glory of God above all else and were willing to put the preaching of His word before everything. By asking for God's hand to heal and for signs and wonders to be done in Jesus' name, the apostles sought to boldly proclaim the message with confidence and firmness. They relied on God's power and desired His help to continue their work.
-- 🔄 Acts 4:30 (attempt 1, 122 words, 39.74% quotes quality score: 1.409263286428105, V2 normalized quality score: 38.2, commentator tiers 1-3: 11.76%, 57.11%, 31.13%) 
+- Attempt 1 BHT: In Acts 4:30, the apostles pray for courage and signs to prove that God has heard their prayer. They are focused on promoting the knowledge of the truth and seek God's glory above all else. They desire to further their mission and are not concerned with their own safety or preservation. By asking for visible signs and miracles, they are confident that God will strengthen them to preach the word with readiness and firmness of mind, despite the opposition they face. They emphasize the importance of the glory of God and prefer the preaching of the gospel above all other things.
+- 🔄 Acts 4:30 (attempt 1, 101 words, 37.5% quotes quality score: 1.4876065569332404, V2 normalized quality score: 40.81, commentator tiers 1-3: 17.92%, 52.41%, 29.67%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The apostles in this passage ask for courage and visible signs as proof that God has heard their prayer. They prioritize promoting the truth and seeking God's glory over everything else. Their focus is on preaching the gospel with readiness and firmness, even in the face of opposition. They emphasize the importance of God's glory and place preaching above all else. In their request, they demonstrate their trust in God's power and desire to further their mission.
+- 🔄 Acts 4:30 (attempt 2, 80 words, 40.74% quotes quality score: 1.5223655434576226, V2 normalized quality score: 41.96, commentator tiers 1-3: 19.13%, 49.99%, 30.88%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: The apostles pray for courage and visible signs, seeking proof that God has heard their prayer. They prioritize promoting the truth and God's glory, valuing preaching above all else. Their request reflects their trust in God's power and their commitment to their mission, showing their readiness to preach the gospel despite opposition. Desiring firmness of mind, they ask for signs that will confirm their message and contradict the schemes of those who forbid them to preach in Jesus' name.
+- 🔄 Acts 4:30 (attempt 3, 81 words, 31.58% quotes quality score: 1.6290985167343615, V2 normalized quality score: 45.51, commentator tiers 1-3: 21.32%, 50.08%, 28.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The apostles, released from imprisonment, reunite with their fellow believers, representing opposing interests on the brink of conflict. They pray for courage and visible signs as proof of God's presence. They are committed to promoting the truth and glorifying God's kingdom. They prioritize the preaching of His word above everything else. Seeking healing and signs and wonders in Jesus' name, they boldly proclaim the message, relying on God's power and seeking His assistance to continue their mission.
-- 🔄 Acts 4:30 (attempt 2, 80 words, 31.58% quotes quality score: 1.269573212552166, V2 normalized quality score: 33.56, commentator tiers 1-3: 16.02%, 52.47%, 31.51%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Having been released, the apostles return to their fellow believers, symbolizing the impending clash of opposing interests. They pray for courage, asking for visible signs and proof that God has heard their plea for the strength to remain steadfast. They prioritize the preaching of God's word and seek His glory above all else. By requesting healing and signs and wonders in Jesus' name, they hope to preach with renewed readiness, enthusiasm, and unwavering conviction. They rely on God's power, recognizing His help in advancing their mission.
-- 🔄 Acts 4:30 (attempt 3, 88 words, 29.23% quotes quality score: 1.350364104557157, V2 normalized quality score: 36.24, commentator tiers 1-3: 16.89%, 50.5%, 32.61%) 
+- Attempt 4 BHT: The apostles pray for courage and signs to prove that God has heard their prayer. They prioritize promoting the truth and God's glory, valuing preaching above all else. Their request reflects their trust in God's power and their commitment to their mission, showing their readiness to preach the gospel despite opposition. They ask for visible signs and miracles to confirm their message, contradicting those who forbid them to preach in Jesus' name. By seeking God's help, they seek to go forward and preach with greater readiness and firmness.
+- 🔄 Acts 4:30 (attempt 4, 91 words, 31.67% quotes quality score: 1.599747885659448, V2 normalized quality score: 44.53, commentator tiers 1-3: 19.89%, 50.73%, 29.38%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The apostles, upon their release, join their fellow believers, signifying the imminent confrontation of opposing forces. They pray for courage, desiring visible signs and evidence of God's acknowledgement of their plea for unwavering faith. Their primary focus is to proclaim the truth and magnify God's kingdom. The apostles value the glory of God above all else, prioritizing the preaching of His word. By seeking healing and signs in Jesus' name, they are emboldened to deliver their message with steadfastness and resolve, relying on God's power and guidance.
-- 🔄 Acts 4:30 (attempt 4, 90 words, 30.16% quotes quality score: 1.3178798788431254, V2 normalized quality score: 35.16, commentator tiers 1-3: 14.06%, 52.4%, 33.54%) 
+- Attempt 5 BHT: The apostles pray for courage and signs to prove that God has heard their prayer. They value promoting the truth and God's glory above all else, prioritizing preaching in their mission. By asking for visible signs and miracles, they seek to confirm their message and contradict those who forbid them from preaching. Their request reflects their trust in God's power and readiness to preach with greater determination. They desire to go forward and face opposition with firmness of mind, seeking God's help for their mission.
+- 🔄 Acts 4:30 (attempt 5, 88 words, 33.33% quotes quality score: 1.592019070712604, V2 normalized quality score: 44.28, commentator tiers 1-3: 20.2%, 51.97%, 27.83%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Upon their release, the apostles reunite with their fellow believers, representing conflicting interests. They pray for the courage to remain faithful even unto death and request visible signs to validate their message. The apostles prioritize the preaching of God's word, esteeming His glory above all else. They seek healing and signs in Jesus' name to empower them in boldly proclaiming the truth. With unwavering conviction and relying on God's power, they continue their mission, seeking His assistance to advance further.
-- 🔄 Acts 4:30 (attempt 5, 82 words, 31.15% quotes quality score: 1.310181826956771, V2 normalized quality score: 34.91, commentator tiers 1-3: 17.38%, 51.12%, 31.51%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 4:30 bht prompt v0.8 (88 words, 29.23% quotes)
-- quality score: 1.350364104557157, V2 normalized quality score: 36.24, commentator tiers 1-3: 16.89%, 50.5%, 32.61%)
+- ✅ Acts 4:30 bht prompt v0.8 (81 words, 31.58% quotes)
+- quality score: 1.6290985167343615, V2 normalized quality score: 45.51, commentator tiers 1-3: 21.32%, 50.08%, 28.61%)

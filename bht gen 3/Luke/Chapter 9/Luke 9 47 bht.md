@@ -1,23 +1,23 @@
 # Luke 9:47 Commentary Help Text
 
 ## BHT:
-Jesus took hold of a little child and set them by his side, offering the disciples a lesson in humility. By embracing childlike innocence and humility, one can enter God's kingdom. Although Jesus didn't hear the disciples' words, as the omniscient God, he was privy to their ambition, vanity, and reasoning. This incident serves as a reminder to approach the kingdom of God with a humble and teachable spirit.
+Jesus, having laid hold of a little child, took him to himself and set him by his side. The child, slipped down by the side of Jesus, served as an object lesson for the disciples in humility, which they sorely needed. In this act of taking the child to himself and placing him in their midst, Jesus demonstrated his omniscience and discernment of their ambitions and vanity. This emphasized the significance of embracing humility and fostering a childlike faith in the disciples' journey of following him.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "He took a little child [επιλαβομενος παιδιου] . Strictly, having laid hold of."
-2. "By him [παρ εαυτω] . Lit., by himself."
+1. "He took a little child, strictly, having laid hold of."
+2. "By him, lit., by himself."
 3. "Mark alone records the taking him in his arms."
 
 ### Archibald T. Robertson:
-1. "Took a little child to himself (indirect middle)."
-2. "Set him by his side."
+1. "Took a little child...Taking a little child to himself (indirect middle)." 
+2. "Set him by his side." 
 3. "Now the little child was slipped down by the side of Jesus as he gave the disciples an object lesson in humility which they sorely needed."
 
 ### John Gill:
-1. "Not by any words he had heard; for the dispute was on the road, as they came along behind him; but as the omniscient God, who is the discerner of the thoughts and intents of the heart, he was privy to all their ambition, and the vanity of their minds, and to all their reasonings and debates."
-2. "Though he was before them, and out of the reach of hearing of them."
-3. "Jesus sitting in the midst of them; so, that the child he set by him, was in the middle of them and before them."
+1. "As the omniscient God, who is the discerner of the thoughts and intents of the heart, he was privy to all their ambition, and the vanity of their minds." 
+2. "Jesus sitting in the midst of them; so, that the child he set by him, was in the middle of them and before them."
+3. "He took a child and set him by him."
 
 ### John Wesley:
 1.  Matthew 18:2; Mark 9:37.
@@ -26,35 +26,35 @@ Jesus took hold of a little child and set them by his side, offering the discipl
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:17:15
+- Timestamp: 12-25-2023 20:33:10
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 71
+- BHT Word Count: 86
 - BHT Commentary Usage: 36.54%
-- BHT Quality Score: 1.1106512580098917
+- BHT Quality Score: 1.5455126175558083
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (52):
-	['a', 'although', 'ambition', 'and', 'approach', 'as', 'by', 'can', 'child', 'childlike', 'didn', 'disciples', 'embracing', 'enter', 'god', 'he', 'hear', 'his', 'hold', 'humble', 'humility', 'in', 'incident', 'innocence', 'jesus', 'kingdom', 'lesson', 'little', 'of', 'offering', 'omniscient', 'one', 'privy', 'reasoning', 'reminder', 's', 'serves', 'set', 'side', 'spirit', 't', 'teachable', 'the', 'their', 'them', 'this', 'to', 'took', 'vanity', 'was', 'with', 'words']
+	['a', 'act', 'ambitions', 'an', 'and', 'as', 'by', 'child', 'childlike', 'demonstrated', 'discernment', 'disciples', 'down', 'embracing', 'emphasized', 'faith', 'following', 'for', 'fostering', 'having', 'him', 'himself', 'his', 'hold', 'humility', 'in', 'jesus', 'journey', 'laid', 'lesson', 'little', 'midst', 'needed', 'object', 'of', 'omniscience', 'placing', 'served', 'set', 'side', 'significance', 'slipped', 'sorely', 'taking', 'the', 'their', 'they', 'this', 'to', 'took', 'vanity', 'which']
 - ChatGPT injected words (significant words only) (33):
-	['ambition', 'approach', 'child', 'childlike', 'didn', 'disciples', 'embracing', 'enter', 'god', 'hear', 'hold', 'humble', 'humility', 'incident', 'innocence', 'jesus', 'kingdom', 'lesson', 'little', 'offering', 'omniscient', 'privy', 'reasoning', 'reminder', 's', 'serves', 'set', 'spirit', 't', 'teachable', 'took', 'vanity', 'words']
+	['act', 'ambitions', 'child', 'childlike', 'demonstrated', 'discernment', 'disciples', 'embracing', 'emphasized', 'faith', 'following', 'fostering', 'having', 'hold', 'humility', 'jesus', 'journey', 'laid', 'lesson', 'little', 'midst', 'needed', 'object', 'omniscience', 'placing', 'served', 'set', 'significance', 'slipped', 'sorely', 'taking', 'took', 'vanity']
 
 ### Logs
-- Attempt 1 BHT: As Jesus and his disciples were walking along, he took hold of a little child and set the child by his side, while the child slipped down by the side of Jesus. In this moment, Jesus offered the disciples an important lesson in humility. His actions symbolized the need to embrace childlike humility and innocence in order to enter the kingdom of God. Jesus, being omniscient, was aware of the ambition and vanity that plagued their hearts, even without hearing their words. This incident emphasizes the importance of approaching God's kingdom with a humble and teachable spirit.
-- 🔄 Luke 9:47 (attempt 1, 98 words, 37.5% quotes quality score: 1.0630142540437117, V2 normalized quality score: 26.69, commentator tiers 1-3: 45.05%, 0.0%, 54.95%) 
+- Attempt 1 BHT: Jesus, aware of the disciples' ambition and vanity, took hold of a little child and set him by his side. This act of taking the child to himself and setting him in the midst of the disciples was a powerful object lesson in humility. The child symbolized the humble nature that Jesus desired his disciples to embrace. By placing the child in their midst, Jesus highlighted the importance of humility and childlike faith in their journey of following him.
+- 🔄 Luke 9:47 (attempt 1, 79 words, 33.33% quotes quality score: 1.4941836949839677, V2 normalized quality score: 41.02, commentator tiers 1-3: 50.63%, 0.0%, 49.37%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Jesus, by himself and strictly, took a little child and set him by his side. The child, slipped down by the side of Jesus, served as an object lesson in humility for the disciples, who were in need of humbling themselves. Jesus' action revealed his omniscience and discernment of their hearts, while also emphasizing the significance of embracing humility and childlike faith. Placing the child in their midst, Jesus highlighted the necessity of humility in their journey of following him.
+- 🔄 Luke 9:47 (attempt 2, 80 words, 40.0% quotes quality score: 1.4940376149726808, V2 normalized quality score: 41.02, commentator tiers 1-3: 50.65%, 0.0%, 49.35%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Jesus, taking a little child to himself and setting him by his side, provided the disciples with a powerful lesson in humility. Being aware of their ambition and vanity, Jesus used the child as a symbol of humility, displaying his discernment of their thoughts and intentions. By placing the child in their midst, Jesus emphasized the importance of embracing humility and having a childlike faith in their relationship with him.
+- 🔄 Luke 9:47 (attempt 3, 70 words, 37.21% quotes quality score: 1.4834047741873555, V2 normalized quality score: 40.67, commentator tiers 1-3: 50.96%, 0.0%, 49.04%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Jesus, having laid hold of a little child, took him to himself and set him by his side. The child, slipped down by the side of Jesus, served as an object lesson for the disciples in humility, which they sorely needed. In this act of taking the child to himself and placing him in their midst, Jesus demonstrated his omniscience and discernment of their ambitions and vanity. This emphasized the significance of embracing humility and fostering a childlike faith in the disciples' journey of following him.
+- 🔄 Luke 9:47 (attempt 4, 86 words, 36.54% quotes quality score: 1.5455126175558083, V2 normalized quality score: 42.73, commentator tiers 1-3: 52.83%, 0.0%, 47.17%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Jesus took hold of a little child and set them by his side, offering the disciples a lesson in humility. By embracing childlike innocence and humility, one can enter God's kingdom. Although Jesus didn't hear the disciples' words, as the omniscient God, he was privy to their ambition, vanity, and reasoning. This incident serves as a reminder to approach the kingdom of God with a humble and teachable spirit.
-- 🔄 Luke 9:47 (attempt 2, 71 words, 36.54% quotes quality score: 1.1106512580098917, V2 normalized quality score: 28.27, commentator tiers 1-3: 45.15%, 0.0%, 54.85%) 
+- Attempt 5 BHT: Jesus, by himself, took a little child and set him by his side—slipping him down by the side as an object lesson in humility. Aware of their ambitions and vanity, Jesus displayed his discernment of their thoughts and intentions. Putting the child in their midst, he emphasized the importance of embracing humility and having a childlike faith. This act highlighted Jesus' omniscience and the necessity of humility in following him, as shown in Matthew 18:2 and Mark 9:37.
+- 🔄 Luke 9:47 (attempt 5, 77 words, 33.33% quotes quality score: 1.3527956919724877, V2 normalized quality score: 36.32, commentator tiers 1-3: 42.65%, 0.0%, 57.35%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus, in an act of teaching, took hold of a little child and placed them beside himself. This served as a demonstration of humility, reminding the disciples of the importance of embracing childlike innocence. While Jesus may not have heard their words, as the omniscient God, he was aware of their ambition, vanity, reasoning, and debates. This incident emphasizes the need to approach God's kingdom with a teachable and humble spirit.
-- 🔄 Luke 9:47 (attempt 3, 72 words, 36.36% quotes quality score: 1.0061769737720472, V2 normalized quality score: 24.8, commentator tiers 1-3: 45.48%, 0.0%, 54.52%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus took a little child and set them by his side, teaching the disciples about humility. As the omniscient God, Jesus discerned their ambition, vanity, reasoning, and debates, even without hearing their words. This incident highlights the importance of approaching God's kingdom with a humble and teachable spirit. Embracing childlike innocence and humility is key to entering the kingdom of God.
-- 🔄 Luke 9:47 (attempt 4, 62 words, 35.42% quotes quality score: 1.0137020969451584, V2 normalized quality score: 25.05, commentator tiers 1-3: 42.52%, 0.0%, 57.48%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus took hold of a little child and set them by his side, presenting the disciples with a meaningful lesson in humility. By embracing childlike innocence and humility, one can enter the kingdom of God. Although Jesus did not hear the disciples' words, as the omniscient God, he knew their ambition, vanity, reasoning, and debates. This incident reminds us to approach God's kingdom with a humble and teachable spirit, acknowledging the importance of embracing the qualities of a child.
-- 🔄 Luke 9:47 (attempt 5, 80 words, 37.5% quotes quality score: 1.0800060270193066, V2 normalized quality score: 27.25, commentator tiers 1-3: 46.71%, 0.0%, 53.29%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 9:47 bht prompt v0.8 (71 words, 36.54% quotes)
-- quality score: 1.1106512580098917, V2 normalized quality score: 28.27, commentator tiers 1-3: 45.15%, 0.0%, 54.85%)
+- ✅ Luke 9:47 bht prompt v0.8 (86 words, 36.54% quotes)
+- quality score: 1.5455126175558083, V2 normalized quality score: 42.73, commentator tiers 1-3: 52.83%, 0.0%, 47.17%)

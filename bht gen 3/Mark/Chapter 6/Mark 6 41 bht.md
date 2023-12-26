@@ -1,72 +1,73 @@
 # Mark 6:41 Commentary Help Text
 
 ## BHT:
-In this account, Jesus performed a miraculous act of feeding a large crowd with only a few loaves and fishes. Every individual, including those at a distance, could clearly see what He was doing. The moment of thanksgiving and blessing was a significant turning point in the miracle, signifying the food's ability to sustain thousands and foreshadowing the disciples' future ministry. The continuous act of breaking and distributing showcased the abundance of the miracle. Indeed, there were more fishes than there were baskets filled with bread. This miracle carried both physical sustenance and profound symbolism.
+Witnessing Jesus' miracle of multiplying the loaves and fish, the disciples could distinctly see what He was doing. In this moment, Jesus gave thanks for the meal, signifying the climax of the miracle. By performing this act, He was also preparing the disciples for their future ministries. The abundance of fish exceeded the baskets filled with leftover bread. Mark's Gospel meticulously describes these details, showcasing his characteristic attention to accuracy.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "Thus would the most distant of them see distinctly what He was doing."
 2. "This thanksgiving for the meal, and benediction of it as the food of thousands, was the crisis of the miracle."
-3. "thus virtually holding forth these men as His future ministers."
+3. "Thus virtually holding forth these men as His future ministers."
 
 ### Marvin Vincent:
-1. "The aorist implies the instantaneous, the imperfect the continuous act."
-2. "He brake, and kept giving out."
-3. "The multiplication evidently took place in Christ's hands, between the acts of breaking and distributing."
+1. "The multiplication evidently took place in Christ's hands, between the acts of breaking and distributing."
+2. "All. Peculiar to Mark."
+3. "Were filled."
 
 ### Philip Schaff:
-1. "The greater detail in regard to the bread was probably due to its higher symbolical meaning."
-2. "Moreover all did not partake of the fishes; comp. John 6:11."
+1. "The emendations correspond with those in Matthew 14:19."
+2. "The greater detail in regard to the bread was probably due to its higher symbolical meaning."
 3. "Mark’s mention of the division of the fishes is another evidence of the exactness so characteristic of this Gospel."
 
 ### Archibald T. Robertson:
-1. "Apparently the fishes were in excess of the twelve baskets full of broken pieces of bread."
+1. "Apparently the fishes were in excess of the twelve baskets full of broken pieces of bread." 
 2. "See on Matthew 14:20 for discussion of κοφινος and σφυρις, the two kinds of baskets."
 
 ### John Gill:
-1. "He looked up to heaven, and blessed, and brake the loaves." 
-2. "And gave them to his disciples to set before them; the multitude, in order to eat of them."
-3. "And the two fishes divided he among them all; that every one might have a part."
+1. "he looked up to heaven, and blessed" 
+2. "brake the loaves"
+3. "The two fishes divided he among them all"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:23:53
+- Timestamp: 12-25-2023 20:32:31
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 36.23%
-- BHT Quality Score: 1.3701878503182148
+- BHT Word Count: 71
+- BHT Commentary Usage: 35.19%
+- BHT Quality Score: 1.3908961792006902
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (69):
-	['a', 'ability', 'abundance', 'account', 'act', 'and', 'at', 'baskets', 'blessing', 'both', 'bread', 'breaking', 'carried', 'clearly', 'continuous', 'could', 'crowd', 'disciples', 'distance', 'distributing', 'doing', 'every', 'feeding', 'few', 'filled', 'fishes', 'food', 'foreshadowing', 'future', 'he', 'in', 'including', 'indeed', 'individual', 'jesus', 'large', 'loaves', 'ministry', 'miracle', 'miraculous', 'moment', 'more', 'of', 'only', 'performed', 'physical', 'point', 'profound', 's', 'see', 'showcased', 'significant', 'signifying', 'sustain', 'sustenance', 'symbolism', 'than', 'thanksgiving', 'the', 'there', 'this', 'those', 'thousands', 'to', 'turning', 'was', 'were', 'what', 'with']
-- ChatGPT injected words (significant words only) (44):
-	['ability', 'abundance', 'account', 'act', 'baskets', 'blessing', 'bread', 'breaking', 'carried', 'clearly', 'continuous', 'crowd', 'disciples', 'distance', 'distributing', 'feeding', 'filled', 'fishes', 'food', 'foreshadowing', 'future', 'including', 'individual', 'jesus', 'large', 'loaves', 'ministry', 'miracle', 'miraculous', 'moment', 'performed', 'physical', 'point', 'profound', 's', 'showcased', 'significant', 'signifying', 'sustain', 'sustenance', 'symbolism', 'thanksgiving', 'thousands', 'turning']
+- ChatGPT injected words (54):
+	['abundance', 'accuracy', 'act', 'also', 'and', 'attention', 'baskets', 'bread', 'by', 'characteristic', 'climax', 'could', 'describes', 'details', 'disciples', 'distinctly', 'doing', 'exceeded', 'filled', 'fish', 'for', 'future', 'gave', 'gospel', 'he', 'his', 'in', 'jesus', 'leftover', 'loaves', 'mark', 'meal', 'meticulously', 'ministries', 'miracle', 'moment', 'multiplying', 'of', 'performing', 'preparing', 's', 'see', 'showcasing', 'signifying', 'thanks', 'the', 'their', 'these', 'this', 'to', 'was', 'what', 'with', 'witnessing']
+- ChatGPT injected words (significant words only) (35):
+	['abundance', 'accuracy', 'act', 'attention', 'baskets', 'bread', 'characteristic', 'climax', 'describes', 'details', 'disciples', 'distinctly', 'exceeded', 'filled', 'fish', 'future', 'gave', 'gospel', 'jesus', 'leftover', 'loaves', 'mark', 'meal', 'meticulously', 'ministries', 'miracle', 'moment', 'multiplying', 'performing', 'preparing', 's', 'showcasing', 'signifying', 'thanks', 'witnessing']
 
 ### Logs
-- Attempt 1 BHT: In this verse from Mark 6, Jesus performs the miracle of multiplying the loaves and fishes to feed the multitude. The commentators note that Jesus wanted everyone, even those far away, to see what He was doing. This act of thanksgiving and blessing marked a significant moment in the miracle, as it symbolized the food becoming sustenance for thousands and pointed to the future ministry of the disciples. The continuous act of breaking and distributing the food emphasized the abundance of the miracle. The mention of the two different kinds of baskets in Matthew 14 suggests that there were probably more fish than the twelve baskets filled with bread. This miracle not only satisfied the physical hunger of the crowd, but it also held deep symbolic meaning.
-- 🔄 Mark 6:41 (attempt 1, 125 words, 38.1% quotes quality score: 1.4004863419937645, V2 normalized quality score: 37.91, commentator tiers 1-3: 28.45%, 33.46%, 38.09%) 
+- Attempt 1 BHT: In this verse, Jesus performs a miracle by multiplying the loaves of bread and fish to feed thousands of people. The disciples were able to witness the miracle and see distinctly what Jesus was doing. By giving thanks and blessing the food, Jesus was demonstrating his power and authority as the provider for all. This miracle also served to prepare the disciples for their future ministries. It is worth noting that the fishes were so abundant that they exceeded the twelve baskets filled with leftover bread. This precise account by Mark highlights the attention to detail found in his Gospel.
+- 🔄 Mark 6:41 (attempt 1, 100 words, 37.68% quotes quality score: 1.3892358470865378, V2 normalized quality score: 37.54, commentator tiers 1-3: 30.4%, 40.98%, 28.62%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this account, Jesus performed a miraculous act of feeding a large crowd with only a few loaves and fishes. He wanted even those far away to witness it. This moment of thanksgiving and blessing marked the climax of the miracle and signified the sustenance the food provided for thousands, foreshadowing the role of His disciples as ministers. The continuous act of breaking and distributing highlighted the abundance of the miracle, which included not only bread but also an abundance of fish. This miraculous event held both physical and symbolic significance.
-- 🔄 Mark 6:41 (attempt 2, 91 words, 35.38% quotes quality score: 1.2543720369920188, V2 normalized quality score: 33.05, commentator tiers 1-3: 28.61%, 29.34%, 42.05%) 
+- Attempt 2 BHT: Witnessing Jesus' miracle of multiplying the loaves and fish, the disciples could distinctly see what He was doing. In this moment, Jesus gave thanks for the meal, signifying the climax of the miracle. By performing this act, He was also preparing the disciples for their future ministries. The abundance of fish exceeded the baskets filled with leftover bread. Mark's Gospel meticulously describes these details, showcasing his characteristic attention to accuracy.
+- 🔄 Mark 6:41 (attempt 2, 71 words, 35.19% quotes quality score: 1.3908961792006902, V2 normalized quality score: 37.59, commentator tiers 1-3: 29.38%, 42.87%, 27.74%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Through the miracle of multiplying the bread and fish, Jesus displayed His power as the provider for all, making sure that even those at a distance could witness the miracle clearly. By offering thanks and blessing the food, Jesus showcased His authority and marked this meal as a crucial turning point. Additionally, this miracle served as preparation for the disciples' future roles as ministers. The abundance of fish exceeded the twelve baskets of leftover bread, emphasizing the magnitude of the provision. Mark's account pays attention to intricate details, reflecting his commitment to accuracy.
+- 🔄 Mark 6:41 (attempt 3, 94 words, 27.27% quotes quality score: 1.2304811123334047, V2 normalized quality score: 32.26, commentator tiers 1-3: 30.51%, 44.15%, 25.34%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus performed a remarkable miracle by multiplying a small amount of loaves and fishes to feed a large crowd. He intentionally ensured that everyone, even those at a distance, could witness this extraordinary act. The moment of thanksgiving and blessing marked a significant turning point in the miracle, symbolizing the food becoming sustenance for thousands and indicating the future ministry of the disciples. The continuous act of breaking and distributing emphasized the abundant provision of the miracle, which even included an excess of fish. This miracle carried profound physical and symbolic meaning.
-- 🔄 Mark 6:41 (attempt 3, 92 words, 30.3% quotes quality score: 1.2330080845474811, V2 normalized quality score: 32.34, commentator tiers 1-3: 30.35%, 32.41%, 37.24%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: As Jesus multiplied the bread and fish, His power and provision were evident to all, even those at a distance. By giving thanks and blessing the food, He marked this meal as a significant moment in the miracle. This act served to prepare His disciples for their future ministries. The abundance of fish surpassed the baskets filled with leftover bread, demonstrating the magnitude of His provision. Mark's detailed account captures the precision of the event, showcasing his commitment to accuracy.
+- 🔄 Mark 6:41 (attempt 4, 81 words, 32.2% quotes quality score: 1.2946448447356103, V2 normalized quality score: 34.39, commentator tiers 1-3: 30.51%, 41.12%, 28.37%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this account, Jesus performed a miraculous act of feeding a large crowd with only a few loaves and fishes. Every individual, including those at a distance, could clearly see what He was doing. The moment of thanksgiving and blessing was a significant turning point in the miracle, signifying the food's ability to sustain thousands and foreshadowing the disciples' future ministry. The continuous act of breaking and distributing showcased the abundance of the miracle. Indeed, there were more fishes than there were baskets filled with bread. This miracle carried both physical sustenance and profound symbolism.
-- 🔄 Mark 6:41 (attempt 4, 96 words, 36.23% quotes quality score: 1.3701878503182148, V2 normalized quality score: 36.9, commentator tiers 1-3: 30.64%, 32.17%, 37.19%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus performed a remarkable miracle, multiplying a small amount of bread and fish to feed a large crowd. He made sure that everyone, even those far away, could witness His actions clearly. This moment of thanksgiving and blessing was a crucial point in the miracle, signifying the food as sustenance for thousands and anticipating the future ministry of the disciples. The continuous act of breaking and distributing highlighted the abundant provision of the miracle. In fact, there were more fishes than the twelve baskets filled with broken pieces of bread. This miraculous event held both physical and symbolic significance.
-- 🔄 Mark 6:41 (attempt 5, 99 words, 34.67% quotes quality score: 1.3011599343804865, V2 normalized quality score: 34.61, commentator tiers 1-3: 32.58%, 30.88%, 36.54%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 6:41 bht prompt v0.8 (96 words, 36.23% quotes)
-- quality score: 1.3701878503182148, V2 normalized quality score: 36.9, commentator tiers 1-3: 30.64%, 32.17%, 37.19%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: In this remarkable incident, Jesus multiplied the loaves and fish to feed a vast multitude. The disciples witnessed this miracle clearly, observing Jesus's every step. Giving thanks and blessing the food marked the pinnacle of the miracle. Moreover, this extraordinary act served to prepare the disciples for their future ministries. The abundance of fish surpassed the leftover bread that filled twelve baskets. Mark's meticulous account highlights the attention to detail that characterizes his Gospel.
+- 🔄 Mark 6:41 (attempt 5, 76 words, 25.0% quotes quality score: 1.3528489760663467, V2 normalized quality score: 36.33, commentator tiers 1-3: 29.76%, 41.57%, 28.67%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Mark 6:41 bht prompt v0.8 (71 words, 35.19% quotes)
+- quality score: 1.3908961792006902, V2 normalized quality score: 37.59, commentator tiers 1-3: 29.38%, 42.87%, 27.74%)

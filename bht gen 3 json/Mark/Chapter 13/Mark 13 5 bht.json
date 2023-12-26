@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:27:27",
+    "timestamp": "12-25-2023 20:32:42",
     "verseRef": "Mark 13:5",
     "bestBHT": {
-        "bht": "Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as pertinent today as they were centuries ago. It serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets, like the claim of a prominent English psychologist who asserts frequent trips to Mars and communication with its alleged inhabitants.",
-        "wordCount": 74,
-        "quoteTokenProportion": 37.7,
-        "qualityScore": 1.4353932148489814,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.07,
+        "bht": "Take heed lest any man deceive you. This warning runs through the whole discussion, highlighting the success that charlatans have had in winning over the easily influenced with their senseless beliefs. Despite the clear words of Jesus, people have persistently sought to interpret this portrayal of calamities to fit their own circumstances in various time periods. Jesus, in response to his disciples, began a thorough explanation that likely surpassed their initial expectations.",
+        "wordCount": 72,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.6733877785709135,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.98,
         "commentatorTierSimilarities": [
-            33.13,
-            30.58,
-            36.29
+            30.13,
+            21.15,
+            48.72
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -28,13 +28,12 @@
             "Mark repeats this word several times (Mark 13:9; Mark 13:23; Mark 13:33)."
         ],
         "Archibald T. Robertson": [
-            "Take heed that no man lead you astray.\" ",
-            "It is pertinent today after so many centuries.\" ",
-            "Only this morning as I am writing a prominent English psychologist has challenged the world to a radio communication with Mars asserting that he has made frequent trips to Mars and communicated with its alleged inhabitants."
+            "Take heed that no man lead you astray... This warning runs through the whole discussion.\" ",
+            "It is amazing the success that these charlatans have through the ages in winning the empty-pated to their hare-brained views.\" ",
+            "All through the ages in spite of the words of Jesus men have sought to apply the picture here drawn to the particular calamity in their time."
         ],
         "John Gill": [
-            "And Jesus answering them... began to say.\" ",
-            "Take heed lest any man deceive you."
+            "And Jesus answering them... began to say... take heed lest any man deceive you."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -54,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as relevant today as they were centuries ago. In fact, it was just this morning that I came across a news article about a prominent English psychologist claiming to have communicated with the inhabitants of Mars. This serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets.",
-            "wordCount": 82,
-            "quoteTokenProportion": 42.42,
-            "qualityScore": 1.2682114076431574,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.51,
+            "bht": "Beware of falling victim to the cunning of deceivers, for throughout history false prophets have been successful in swaying the gullible with their foolish ideas. It is worth noting that individuals often attempt to apply the apocalyptic imagery in this passage to specific events in their own time, despite Jesus' general warning about deception. Jesus responded to his disciples' curiosity by providing a comprehensive explanation that likely exceeded their expectations.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5212001344115906,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.92,
             "commentatorTierSimilarities": [
-                34.99,
-                28.83,
-                36.17
+                30.33,
+                24.86,
+                44.81
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as pertinent today as they were centuries ago. It serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets, like the claim of a prominent English psychologist who asserts frequent trips to Mars and communication with its alleged inhabitants.",
-            "wordCount": 74,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.4353932148489814,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.07,
+            "bht": "Beware of falling victim to the cunning of deceivers, for throughout history false prophets have been successful in swaying the gullible with their foolish ideas. It is worth noting that individuals often attempt to apply the apocalyptic imagery here to specific events in their own time, despite Jesus' general warning about deception. Jesus responded to his disciples' curiosity by providing a comprehensive explanation that likely exceeded their expectations.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.499568913589723,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
             "commentatorTierSimilarities": [
-                33.13,
-                30.58,
-                36.29
+                31.04,
+                23.24,
+                45.72
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as pertinent today as they were centuries ago. It serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets, like the claim of a prominent English psychologist who asserts frequent trips to Mars and communication with its alleged inhabitants.",
-            "wordCount": 74,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.4353932148489814,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.07,
+            "bht": "Take heed lest any man deceive you. This warning runs through the whole discussion, highlighting the success that charlatans have had in winning over the easily influenced with their senseless beliefs. Despite the clear words of Jesus, people have persistently sought to interpret this portrayal of calamities to fit their own circumstances in various time periods. Jesus, in response to his disciples, began a thorough explanation that likely surpassed their initial expectations.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6733877785709135,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
             "commentatorTierSimilarities": [
-                33.13,
-                30.58,
-                36.29
+                30.13,
+                21.15,
+                48.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Take heed that no man lead you astray, Jesus cautioned his disciples as he commenced his explanation of the signs of the end times. This admonition remains relevant today, serving as a timely reminder to be vigilant and discerning in a world rife with misleading teachings and false prophets. A recent example highlights this necessity, with a notable English psychologist confidently proclaiming his ability to communicate with the purported inhabitants of Mars. The need to guard against deception and remain rooted in truth persists, making Jesus' words a timeless guide for believers.",
-            "wordCount": 92,
-            "quoteTokenProportion": 25.35,
-            "qualityScore": 1.269281543692329,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.55,
+            "bht": "Take heed that no man lead you astray. This warning runs through the whole discussion, emphasizing the success that these charlatans have had throughout history in convincing the naive to adopt their foolish viewpoints. It is astounding how individuals, in spite of the words of Jesus, have sought to apply the imagery presented here to the specific calamities of their own time. Jesus, answering them, began to provide a comprehensive explanation that likely exceeded their expectations.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.600394308297455,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
             "commentatorTierSimilarities": [
-                35.38,
-                30.38,
-                34.24
+                31.74,
+                19.93,
+                48.33
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Take heed that no man lead you astray, Jesus warned his disciples as he began to explain the signs of the end times. This cautionary message holds true today, as it did centuries ago. It reminds us to be wary and discerning in a world where false teachings and deceptive figures abound. For instance, a prominent English psychologist recently made extravagant claims about communicating with the inhabitants of Mars, highlighting the importance of staying grounded in truth amidst unscrupulous influences.",
-            "wordCount": 80,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.1791132250936678,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.55,
+            "bht": "Beware of falling victim to the cunning and deception of others, as warned by Jesus himself. Throughout history, these charlatans have achieved remarkable success in swaying ignorant individuals with their nonsensical beliefs. It is astonishing how, disregarding the words of Jesus, people persistently attempt to interpret the depicted scenario to fit the calamities of their own era. Jesus responded to his disciples' inquiry by initiating a detailed explanation that surpassed their initial expectations.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5097081447132776,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.54,
             "commentatorTierSimilarities": [
-                36.81,
-                24.64,
-                38.54
+                31.21,
+                24.53,
+                44.26
             ],
             "generationAttempt": 5
         }

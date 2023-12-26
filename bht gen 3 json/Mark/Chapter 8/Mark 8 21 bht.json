@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-22-2023 23:24:51",
+    "timestamp": "12-25-2023 20:32:43",
     "verseRef": "Mark 8:21",
     "bestBHT": {
-        "bht": "How is it that you, my disciples, do not understand? I have performed countless miracles and yet you still fail to grasp their significance. Even the different types of baskets used in the two miraculous feedings were intended to be noticed and understood. These details were meant to be observed by those who witnessed the miracles and by all who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension, but it seems that understanding requires patience and faith.",
-        "wordCount": 85,
-        "quoteTokenProportion": 53.12,
-        "qualityScore": 1.2755283482824233,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.75,
+        "bht": "Do ye not yet understand? Jesus asks his disciples, disappointed by their lack of comprehension. He carefully noted the smallest details of his miracles, such as the different kinds of baskets used in the feedings. Jesus rebuked them, reminding them of their previous claim of understanding his parables. The greatest of all teachers must have patience if his pupils are to grasp the lessons being taught. Learning takes time, and Jesus shows his willingness to patiently guide his disciples.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.4647734622654565,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.05,
         "commentatorTierSimilarities": [
-            36.23,
-            27.49,
-            36.28
+            45.9,
+            30.12,
+            23.98
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "How is it that ye do not understand?... Profuse as were our Lord's miracles, we see from this that they were not wrought at random, but that He carefully noted their minutest details.\" ",
-            "Even the different kind of baskets used at the two miraculous feedings, so carefully noted in the two narratives, are here also referred to.",
-            "He desired that this [noting of details] should be done by those who witnessed, as doubtless by all who read the record of them."
+            "How is it that ye do not understand?... the warning I gave you could not have been prompted by any such petty consideration as the want of loaves in your scrip.\" ",
+            "Profuse as were our Lord's miracles, we see from this that they were not wrought at random, but that He carefully noted their minutest details.\" ",
+            "Even the different kind of baskets used at the two miraculous feedings, so carefully noted in the two narratives, are here also referred to; the one smaller, of which there were twelve, the other much larger, of which there were seven."
         ],
         "Philip Schaff": [
             "Do ye not yet understand, i.e., after these miracles.",
             "Mark stops with this brief question, because in writing for Gentile readers his main design was to show the condition of the Twelve.",
-            "Rather than to warn against Jewish notions."
+            "Mark's intention was not to warn against Jewish notions."
         ],
         "Archibald T. Robertson": [
-            "The greatest of all teachers had the greatest of all classes.",
-            "But that was a long time ago.",
+            "Do ye not yet understand? After all this rebuke and explanation. The greatest of all teachers had the greatest of all classes, but he struck a snag here.",
+            "They had once said that they understood the parables of Jesus. But that was a long time ago. The teacher must have patience if his pupils are to understand.",
             "The teacher must have patience if his pupils are to understand."
         ],
         "John Gill": [
-            "How is it that ye do not understand?... it argues great want both of understanding and faith, and shows great stupidity, ignorance, and unbelief, to give such a sense of my words.\" ",
-            "As to imagine I spoke of bread, taken in a literal sense; or that I concerned myself about the scantiness of your provisions, when you might have learnt from my late miracles, how able I am to support you.\" ",
-            "Wherefore it argues... to be anxiously concerned on the score of your provisions."
+            "How is it that ye do not understand?",
+            "It argues great want both of understanding and faith",
+            "To be anxiously concerned on the score of your provisions"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "How is it that you, my disciples, do not understand? I have performed countless miracles and yet you still fail to grasp their significance. Even the different types of baskets used in the two miraculous feedings were intended to be noticed and understood. These details were meant to be observed by those who witnessed the miracles and by all who read about them. As the greatest teacher, I expected that my disciples would have a deeper comprehension. But it seems that understanding requires patience from the teacher and faith from the learners.",
-            "wordCount": 92,
-            "quoteTokenProportion": 53.73,
-            "qualityScore": 1.2514180853680725,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.95,
+            "bht": "Do ye not yet understand? Jesus asks his disciples with disappointment. He had performed miracles, carefully noting even the smallest details. The different kind of baskets used in the two feedings, the smaller ones numbered twelve and the larger ones numbered seven. Jesus rebuked them for their lack of comprehension, reminding them of their previous boast that they understood his parables. But learning takes time, and Jesus as the greatest teacher must have patience, especially with his most important class.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3275852318172159,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
             "commentatorTierSimilarities": [
-                37.76,
-                27.79,
-                34.45
+                45.87,
+                31.21,
+                22.92
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "How is it that you, my disciples, do not understand? I have performed countless miracles and yet you still fail to grasp their significance. Even the different types of baskets used in the two miraculous feedings were intended to be noticed and understood. These details were meant to be observed by those who witnessed the miracles and by all who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension, but it seems that understanding requires patience and faith.",
-            "wordCount": 85,
-            "quoteTokenProportion": 53.12,
-            "qualityScore": 1.2755283482824233,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.75,
+            "bht": "Do ye not yet understand? Jesus asks his disciples with disappointment. He had performed miracles, carefully noting even the smallest details. The different kind of baskets used in the two feedings, the smaller ones numbered twelve and the larger ones numbered seven. Jesus rebuked them for their lack of comprehension, reminding them of their previous boast that they understood his parables. But learning takes time, and the teacher must have patience if his pupils are to truly grasp the lessons being taught.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.325010683805388,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.4,
             "commentatorTierSimilarities": [
-                36.23,
-                27.49,
-                36.28
+                45.68,
+                30.48,
+                23.84
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "How is it that you do not understand? My miracles were not random, but carefully detailed, meant to be observed and comprehended. Even the different types of baskets used in the miraculous feedings were purposely noted. As the greatest teacher, I expected my disciples to have a deeper comprehension. Yet, it appears that understanding requires both patience from the teacher and faith from the learners.",
-            "wordCount": 65,
-            "quoteTokenProportion": 48.08,
-            "qualityScore": 1.1887044827684872,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.87,
+            "bht": "Do ye not yet understand? Jesus asks his disciples with disappointment. He carefully noted the details of his miracles, including the different kinds of baskets used in the two feedings. Jesus rebuked them for their lack of comprehension, reminding them of their previous boast of understanding his parables. Even the greatest teacher must have patience if his pupils are to truly grasp the lessons being taught. Learning takes time, and Jesus shows his willingness to teach and guide his disciples patiently.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4364460734593083,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
             "commentatorTierSimilarities": [
-                39.49,
-                25.67,
-                34.84
+                45.25,
+                28.87,
+                25.88
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "How is it that you, my disciples, do not understand? Even with the profuse miracles I have performed, it seems you still fail to grasp their significance. Every detail, down to the different kind of baskets used in the two miraculous feedings, was intentionally noted. These details were not only meant to be observed by eyewitnesses, but also to be understood by all who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension. Patience is essential if I am to help you understand.",
-            "wordCount": 90,
-            "quoteTokenProportion": 56.52,
-            "qualityScore": 1.209751982636633,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.57,
+            "bht": "Do ye not yet understand? Jesus asks his disciples, disappointed by their lack of comprehension. He carefully noted the smallest details of his miracles, such as the different kinds of baskets used in the feedings. Jesus rebuked them, reminding them of their previous claim of understanding his parables. The greatest of all teachers must have patience if his pupils are to grasp the lessons being taught. Learning takes time, and Jesus shows his willingness to patiently guide his disciples.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4647734622654565,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.05,
             "commentatorTierSimilarities": [
-                35.92,
-                31.89,
-                32.19
+                45.9,
+                30.12,
+                23.98
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "How is it that you, my disciples, do not understand? Even with the profuse miracles I have performed, it seems you still fail to grasp their significance. Every detail, down to the different kind of baskets used in the two miraculous feedings, was intentionally noted. These details were meant to be observed and understood by both eyewitnesses and those who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension. Patience is essential if I am to help you understand.",
-            "wordCount": 86,
-            "quoteTokenProportion": 55.88,
-            "qualityScore": 1.193034763687484,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.01,
+            "bht": "Do ye not yet understand? Jesus questioned his disciples, surprised by their failure to comprehend. He meticulously observed the intricacies of his miracles, including the type of baskets used in the different incidents. Jesus reprimanded them, reminding them of their earlier assertion that they comprehended his parables. The teacher must possess patience to enable his students' understanding. Even though the disciples once claimed understanding, they needed ongoing guidance. Jesus demonstrated his willingness to patiently shepherd his followers, encouraging their growth and understanding.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3724257545326377,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.98,
             "commentatorTierSimilarities": [
-                36.77,
-                29.6,
-                33.63
+                42.2,
+                30.95,
+                26.85
             ],
             "generationAttempt": 5
         }

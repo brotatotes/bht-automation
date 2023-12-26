@@ -1,60 +1,63 @@
 # Mark 8:21 Commentary Help Text
 
 ## BHT:
-How is it that you, my disciples, do not understand? I have performed countless miracles and yet you still fail to grasp their significance. Even the different types of baskets used in the two miraculous feedings were intended to be noticed and understood. These details were meant to be observed by those who witnessed the miracles and by all who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension, but it seems that understanding requires patience and faith.
+Do ye not yet understand? Jesus asks his disciples, disappointed by their lack of comprehension. He carefully noted the smallest details of his miracles, such as the different kinds of baskets used in the feedings. Jesus rebuked them, reminding them of their previous claim of understanding his parables. The greatest of all teachers must have patience if his pupils are to grasp the lessons being taught. Learning takes time, and Jesus shows his willingness to patiently guide his disciples.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "How is it that ye do not understand?... Profuse as were our Lord's miracles, we see from this that they were not wrought at random, but that He carefully noted their minutest details." 
-2. "Even the different kind of baskets used at the two miraculous feedings, so carefully noted in the two narratives, are here also referred to."
-3. "He desired that this [noting of details] should be done by those who witnessed, as doubtless by all who read the record of them."
+1. "How is it that ye do not understand?... the warning I gave you could not have been prompted by any such petty consideration as the want of loaves in your scrip." 
+2. "Profuse as were our Lord's miracles, we see from this that they were not wrought at random, but that He carefully noted their minutest details." 
+3. "Even the different kind of baskets used at the two miraculous feedings, so carefully noted in the two narratives, are here also referred to; the one smaller, of which there were twelve, the other much larger, of which there were seven."
 
 ### Philip Schaff:
 1. "Do ye not yet understand, i.e., after these miracles."
 2. "Mark stops with this brief question, because in writing for Gentile readers his main design was to show the condition of the Twelve."
-3. "Rather than to warn against Jewish notions."
+3. "Mark's intention was not to warn against Jewish notions."
 
 ### Archibald T. Robertson:
-1. "The greatest of all teachers had the greatest of all classes."
-2. "But that was a long time ago."
+1. "Do ye not yet understand? After all this rebuke and explanation. The greatest of all teachers had the greatest of all classes, but he struck a snag here."
+2. "They had once said that they understood the parables of Jesus. But that was a long time ago. The teacher must have patience if his pupils are to understand."
 3. "The teacher must have patience if his pupils are to understand."
 
 ### John Gill:
-1. "How is it that ye do not understand?... it argues great want both of understanding and faith, and shows great stupidity, ignorance, and unbelief, to give such a sense of my words." 
-2. "As to imagine I spoke of bread, taken in a literal sense; or that I concerned myself about the scantiness of your provisions, when you might have learnt from my late miracles, how able I am to support you." 
-3. "Wherefore it argues... to be anxiously concerned on the score of your provisions."
+1. "How is it that ye do not understand?"
+2. "It argues great want both of understanding and faith"
+3. "To be anxiously concerned on the score of your provisions"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:24:51
+- Timestamp: 12-25-2023 20:32:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 53.12%
-- BHT Quality Score: 1.2755283482824233
+- BHT Word Count: 79
+- BHT Commentary Usage: 37.29%
+- BHT Quality Score: 1.4647734622654565
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'about', 'all', 'and', 'as', 'baskets', 'be', 'but', 'by', 'comprehension', 'countless', 'deeper', 'details', 'different', 'disciples', 'do', 'even', 'expected', 'fail', 'faith', 'feedings', 'grasp', 'greatest', 'have', 'how', 'i', 'in', 'intended', 'is', 'it', 'meant', 'miracles', 'miraculous', 'my', 'not', 'noticed', 'observed', 'of', 'patience', 'performed', 'read', 'requires', 'seems', 'significance', 'still', 'teacher', 'that', 'the', 'their', 'them', 'these', 'those', 'to', 'two', 'types', 'understand', 'understanding', 'understood', 'used', 'were', 'who', 'witnessed', 'yet', 'you']
-- ChatGPT injected words (significant words only) (30):
-	['baskets', 'comprehension', 'countless', 'deeper', 'details', 'different', 'disciples', 'expected', 'fail', 'faith', 'feedings', 'grasp', 'greatest', 'intended', 'meant', 'miracles', 'miraculous', 'noticed', 'observed', 'patience', 'performed', 'read', 'requires', 'significance', 'teacher', 'types', 'understand', 'understanding', 'understood', 'witnessed']
+- ChatGPT injected words (59):
+	['all', 'and', 'are', 'as', 'asks', 'baskets', 'being', 'by', 'carefully', 'claim', 'comprehension', 'details', 'different', 'disappointed', 'disciples', 'do', 'feedings', 'grasp', 'greatest', 'guide', 'have', 'he', 'his', 'if', 'in', 'jesus', 'kinds', 'lack', 'learning', 'lessons', 'miracles', 'must', 'not', 'noted', 'of', 'parables', 'patience', 'patiently', 'previous', 'pupils', 'rebuked', 'reminding', 'shows', 'smallest', 'such', 'takes', 'taught', 'teachers', 'the', 'their', 'them', 'time', 'to', 'understand', 'understanding', 'used', 'willingness', 'ye', 'yet']
+- ChatGPT injected words (significant words only) (37):
+	['asks', 'baskets', 'carefully', 'claim', 'comprehension', 'details', 'different', 'disappointed', 'disciples', 'feedings', 'grasp', 'greatest', 'guide', 'jesus', 'kinds', 'lack', 'learning', 'lessons', 'miracles', 'noted', 'parables', 'patience', 'patiently', 'previous', 'pupils', 'rebuked', 'reminding', 'shows', 'smallest', 'takes', 'taught', 'teachers', 'time', 'understand', 'understanding', 'willingness', 'ye']
 
 ### Logs
-- Attempt 1 BHT: How is it that you, my disciples, do not understand? I have performed countless miracles and yet you still fail to grasp their significance. Even the different types of baskets used in the two miraculous feedings were intended to be noticed and understood. These details were meant to be observed by those who witnessed the miracles and by all who read about them. As the greatest teacher, I expected that my disciples would have a deeper comprehension. But it seems that understanding requires patience from the teacher and faith from the learners.
-- 🔄 Mark 8:21 (attempt 1, 92 words, 53.73% quotes quality score: 1.2514180853680725, V2 normalized quality score: 32.95, commentator tiers 1-3: 37.76%, 27.79%, 34.45%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 2 BHT: How is it that you, my disciples, do not understand? I have performed countless miracles and yet you still fail to grasp their significance. Even the different types of baskets used in the two miraculous feedings were intended to be noticed and understood. These details were meant to be observed by those who witnessed the miracles and by all who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension, but it seems that understanding requires patience and faith.
-- 🔄 Mark 8:21 (attempt 2, 85 words, 53.12% quotes quality score: 1.2755283482824233, V2 normalized quality score: 33.75, commentator tiers 1-3: 36.23%, 27.49%, 36.28%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 3 BHT: How is it that you do not understand? My miracles were not random, but carefully detailed, meant to be observed and comprehended. Even the different types of baskets used in the miraculous feedings were purposely noted. As the greatest teacher, I expected my disciples to have a deeper comprehension. Yet, it appears that understanding requires both patience from the teacher and faith from the learners.
-- 🔄 Mark 8:21 (attempt 3, 65 words, 48.08% quotes quality score: 1.1887044827684872, V2 normalized quality score: 30.87, commentator tiers 1-3: 39.49%, 25.67%, 34.84%) 
+- Attempt 1 BHT: Do ye not yet understand? Jesus asks his disciples with disappointment. He had performed miracles, carefully noting even the smallest details. The different kind of baskets used in the two feedings, the smaller ones numbered twelve and the larger ones numbered seven. Jesus rebuked them for their lack of comprehension, reminding them of their previous boast that they understood his parables. But learning takes time, and Jesus as the greatest teacher must have patience, especially with his most important class.
+- 🔄 Mark 8:21 (attempt 1, 80 words, 39.68% quotes quality score: 1.3275852318172159, V2 normalized quality score: 35.49, commentator tiers 1-3: 45.87%, 31.21%, 22.92%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: How is it that you, my disciples, do not understand? Even with the profuse miracles I have performed, it seems you still fail to grasp their significance. Every detail, down to the different kind of baskets used in the two miraculous feedings, was intentionally noted. These details were not only meant to be observed by eyewitnesses, but also to be understood by all who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension. Patience is essential if I am to help you understand.
-- 🔄 Mark 8:21 (attempt 4, 90 words, 56.52% quotes quality score: 1.209751982636633, V2 normalized quality score: 31.57, commentator tiers 1-3: 35.92%, 31.89%, 32.19%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 5 BHT: How is it that you, my disciples, do not understand? Even with the profuse miracles I have performed, it seems you still fail to grasp their significance. Every detail, down to the different kind of baskets used in the two miraculous feedings, was intentionally noted. These details were meant to be observed and understood by both eyewitnesses and those who read about them. As the greatest teacher, I expected my disciples to have a deeper comprehension. Patience is essential if I am to help you understand.
-- 🔄 Mark 8:21 (attempt 5, 86 words, 55.88% quotes quality score: 1.193034763687484, V2 normalized quality score: 31.01, commentator tiers 1-3: 36.77%, 29.6%, 33.63%) 
-	- BHT WAS OVER 80 WORDS!
-- ✅ Mark 8:21 bht prompt v0.8 (85 words, 53.12% quotes)
-- quality score: 1.2755283482824233, V2 normalized quality score: 33.75, commentator tiers 1-3: 36.23%, 27.49%, 36.28%)
+- Attempt 2 BHT: Do ye not yet understand? Jesus asks his disciples with disappointment. He had performed miracles, carefully noting even the smallest details. The different kind of baskets used in the two feedings, the smaller ones numbered twelve and the larger ones numbered seven. Jesus rebuked them for their lack of comprehension, reminding them of their previous boast that they understood his parables. But learning takes time, and the teacher must have patience if his pupils are to truly grasp the lessons being taught.
+- 🔄 Mark 8:21 (attempt 2, 82 words, 40.91% quotes quality score: 1.325010683805388, V2 normalized quality score: 35.4, commentator tiers 1-3: 45.68%, 30.48%, 23.84%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Do ye not yet understand? Jesus asks his disciples with disappointment. He carefully noted the details of his miracles, including the different kinds of baskets used in the two feedings. Jesus rebuked them for their lack of comprehension, reminding them of their previous boast of understanding his parables. Even the greatest teacher must have patience if his pupils are to truly grasp the lessons being taught. Learning takes time, and Jesus shows his willingness to teach and guide his disciples patiently.
+- 🔄 Mark 8:21 (attempt 3, 81 words, 36.07% quotes quality score: 1.4364460734593083, V2 normalized quality score: 39.1, commentator tiers 1-3: 45.25%, 28.87%, 25.88%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Do ye not yet understand? Jesus asks his disciples, disappointed by their lack of comprehension. He carefully noted the smallest details of his miracles, such as the different kinds of baskets used in the feedings. Jesus rebuked them, reminding them of their previous claim of understanding his parables. The greatest of all teachers must have patience if his pupils are to grasp the lessons being taught. Learning takes time, and Jesus shows his willingness to patiently guide his disciples.
+- 🔄 Mark 8:21 (attempt 4, 79 words, 37.29% quotes quality score: 1.4647734622654565, V2 normalized quality score: 40.05, commentator tiers 1-3: 45.9%, 30.12%, 23.98%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Do ye not yet understand? Jesus questioned his disciples, surprised by their failure to comprehend. He meticulously observed the intricacies of his miracles, including the type of baskets used in the different incidents. Jesus reprimanded them, reminding them of their earlier assertion that they comprehended his parables. The teacher must possess patience to enable his students' understanding. Even though the disciples once claimed understanding, they needed ongoing guidance. Jesus demonstrated his willingness to patiently shepherd his followers, encouraging their growth and understanding.
+- 🔄 Mark 8:21 (attempt 5, 82 words, 33.33% quotes quality score: 1.3724257545326377, V2 normalized quality score: 36.98, commentator tiers 1-3: 42.2%, 30.95%, 26.85%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 8:21 bht prompt v0.8 (79 words, 37.29% quotes)
+- quality score: 1.4647734622654565, V2 normalized quality score: 40.05, commentator tiers 1-3: 45.9%, 30.12%, 23.98%)

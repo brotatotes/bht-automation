@@ -1,7 +1,7 @@
 # Luke 24:42 Commentary Help Text
 
 ## BHT:
-After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence, being given a piece of broiled fish, which was common fare for them as fishermen. While some manuscripts omit the words and of an honeycomb, they provide further details about the meal. This inclusion or omission does not affect the significance of the meal in which Jesus demonstrated his physical resurrection.
+After Jesus appeared to the disciples, he asked for something to eat to prove his real corporeal form. He was given a piece of broiled fish, a common and frugal fare in ancient times. Interestingly, some manuscripts omit the mention of honeycomb, but it is believed that the omission was not an interpolation. The inclusion of broiled fish and the possible addition of honeycomb serve to emphasize that Jesus' post-resurrection body was physical and he could partake in ordinary human activities like eating.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -22,49 +22,51 @@ Of an honey - comb. The best texts omit.
 ### Philip Schaff:
 1. "These words are omitted in many ancient authorities, and rejected by some modern editors."
 2. "We prefer to retain them, since there are a number of reasons to account for their being left out."
-3. "There are more reasons to account for their being put in by the copyists."
+3. "...more to account for their being put in by the copyists."
 
 ### Archibald T. Robertson:
-1. "Οπτος is a verbal from οπταω, to cook, to roast, to broil. Common word, but only here in the N.T." 
-2. "The best old documents omit 'and a honeycomb' (κα απο μελισσιου κηριου)."
+1. "A piece of broiled fish (ιχθυος οπτου μερος)... The best old documents omit 'and a honeycomb' (κα απο μελισσιου κηριου)."
 
 ### John Gill:
-1. "And they gave him a piece of a broiled fish... which was left by them at supper, of which they had been eating; for being fishermen, most of them, this was agreeable food to them."
-2. "And of an honeycomb; not to eat with the fish, but after it."
+1. "And they gave him a piece of a broiled fish... which was left by them at supper." 
+2. "Being fishermen, most of them, this was agreeable food to them." 
+3. "And of an honeycomb... not to eat with the fish, but after it."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:24:11
+- Timestamp: 12-25-2023 20:33:40
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 69
-- BHT Commentary Usage: 46.3%
-- BHT Quality Score: 1.4032084005334466
+- BHT Word Count: 84
+- BHT Commentary Usage: 32.79%
+- BHT Quality Score: 1.4348934163984488
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'about', 'affect', 'after', 'an', 'and', 'appeared', 'as', 'ate', 'being', 'broiled', 'common', 'corporeal', 'demonstrated', 'details', 'disciples', 'does', 'fare', 'fish', 'fishermen', 'for', 'further', 'given', 'his', 'honeycomb', 'in', 'inclusion', 'jesus', 'manuscripts', 'meal', 'not', 'of', 'omission', 'omit', 'or', 'physical', 'piece', 'presence', 'prove', 'provide', 'real', 'resurrection', 'significance', 'some', 'the', 'them', 'they', 'this', 'to', 'was', 'which', 'while', 'with', 'words']
-- ChatGPT injected words (significant words only) (29):
-	['affect', 'appeared', 'ate', 'broiled', 'common', 'corporeal', 'demonstrated', 'details', 'disciples', 'fare', 'fish', 'fishermen', 'given', 'honeycomb', 'inclusion', 'jesus', 'manuscripts', 'meal', 'omission', 'omit', 'physical', 'piece', 'presence', 'prove', 'provide', 'real', 'resurrection', 'significance', 'words']
+- ChatGPT injected words (61):
+	['a', 'activities', 'addition', 'after', 'an', 'ancient', 'and', 'appeared', 'asked', 'believed', 'body', 'broiled', 'but', 'common', 'corporeal', 'could', 'disciples', 'eat', 'eating', 'emphasize', 'fare', 'fish', 'for', 'form', 'frugal', 'given', 'he', 'his', 'honeycomb', 'human', 'in', 'inclusion', 'interestingly', 'interpolation', 'is', 'it', 'jesus', 'like', 'manuscripts', 'mention', 'not', 'of', 'omission', 'omit', 'ordinary', 'partake', 'physical', 'piece', 'possible', 'post', 'prove', 'real', 'resurrection', 'serve', 'some', 'something', 'that', 'the', 'times', 'to', 'was']
+- ChatGPT injected words (significant words only) (41):
+	['activities', 'addition', 'ancient', 'appeared', 'asked', 'believed', 'body', 'broiled', 'common', 'corporeal', 'disciples', 'eat', 'eating', 'emphasize', 'fare', 'fish', 'form', 'frugal', 'given', 'honeycomb', 'human', 'inclusion', 'interestingly', 'interpolation', 'jesus', 'like', 'manuscripts', 'mention', 'omission', 'omit', 'ordinary', 'partake', 'physical', 'piece', 'possible', 'post', 'prove', 'real', 'resurrection', 'serve', 'times']
 
 ### Logs
-- Attempt 1 BHT: After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. In this encounter, he was given a piece of broiled fish, a common and frugal fare, which was particularly appealing to the disciples who were fishermen. Although the words and of an honeycomb are omitted in the best manuscripts, they provide further details about the meal. The honeycomb was not meant to be eaten with the fish, but rather was served after it. Some argue for their inclusion based on various reasons, while others believe they were inserted by copyists. Ultimately, the presence or absence of these words does not change the significance of the meal in which Jesus demonstrated his physical resurrection.
-- 🔄 Luke 24:42 (attempt 1, 121 words, 46.34% quotes quality score: 1.395327815929722, V2 normalized quality score: 37.74, commentator tiers 1-3: 18.83%, 22.77%, 58.4%) 
+- Attempt 1 BHT: After Jesus appeared to the disciples, he asked for something to eat to prove his real corporeal form. He was given a piece of broiled fish, a common and frugal fare in ancient times. Interestingly, some manuscripts omit the mention of honeycomb, but it is believed that the omission was not an interpolation. The inclusion of broiled fish and the possible addition of honeycomb serve to emphasize that Jesus' post-resurrection body was physical and he could partake in ordinary human activities like eating.
+- 🔄 Luke 24:42 (attempt 1, 84 words, 32.79% quotes quality score: 1.4348934163984488, V2 normalized quality score: 39.05, commentator tiers 1-3: 32.54%, 12.59%, 54.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence, being given a piece of broiled fish, which was common fare for them as fishermen. While some manuscripts omit the words and of an honeycomb, they provide further details about the meal. This inclusion or omission does not affect the significance of the meal in which Jesus demonstrated his physical resurrection.
-- 🔄 Luke 24:42 (attempt 2, 69 words, 46.3% quotes quality score: 1.4032084005334466, V2 normalized quality score: 38.0, commentator tiers 1-3: 21.47%, 19.21%, 59.33%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. Being given a piece of broiled fish, which was common fare for them as fishermen, further emphasized this point. The significance of the words and of an honeycomb may be debated due to their omission in some manuscripts, but they provide additional details about the meal. Ultimately, whether included or not, the meal showcased Jesus' physical resurrection.
-- 🔄 Luke 24:42 (attempt 3, 75 words, 47.54% quotes quality score: 1.3952971345690015, V2 normalized quality score: 37.74, commentator tiers 1-3: 20.66%, 20.08%, 59.26%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. Being given a piece of broiled fish, which was common fare for them as fishermen, further emphasized this point. The words and of an honeycomb may be debated due to their omission in some manuscripts, but they provide additional details about the meal. Whether included or not, the meal showcased Jesus' physical resurrection and served as a powerful confirmation of his true bodily form.
-- 🔄 Luke 24:42 (attempt 4, 82 words, 44.62% quotes quality score: 1.3898773793441483, V2 normalized quality score: 37.56, commentator tiers 1-3: 20.95%, 20.33%, 58.72%) 
+- Attempt 2 BHT: After appearing to the disciples, Jesus requested something to eat as proof of his corporeal existence. He was given a piece of broiled fish, a common fare in ancient times. Although some manuscripts omit the mention of honeycomb, it is believed that this exclusion was not an interpolation. The inclusion of the broiled fish and possible addition of honeycomb served to highlight the physical nature of Jesus' post-resurrection body and his ability to engage in ordinary human activities, such as eating.
+- 🔄 Luke 24:42 (attempt 2, 82 words, 35.0% quotes quality score: 1.3979305999470308, V2 normalized quality score: 37.82, commentator tiers 1-3: 29.4%, 12.82%, 57.78%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. Given a piece of broiled fish, which was common fare for fishermen, highlighted this reality. The inclusion or exclusion of and of an honeycomb may spark debate, but it adds details to the meal. In the end, whether present or not, the meal unequivocally demonstrated Jesus' physical resurrection, confirming his genuine bodily form.
-- 🔄 Luke 24:42 (attempt 5, 71 words, 37.5% quotes quality score: 1.205570134641967, V2 normalized quality score: 31.43, commentator tiers 1-3: 19.95%, 12.62%, 67.43%) 
+- Attempt 3 BHT: After appearing to the disciples, Jesus asked for food to prove his corporeal form, and he was given broiled fish. Though some manuscripts omit the mention of honeycomb, it is believed that this exclusion was not an interpolation. The inclusion of the broiled fish emphasizes that Jesus' post-resurrection body was physical and capable of performing ordinary human actions like eating. Eating the broiled fish served as a tangible demonstration of Jesus' resurrection and his continued presence with his disciples.
+- 🔄 Luke 24:42 (attempt 3, 80 words, 35.71% quotes quality score: 1.3178796793473682, V2 normalized quality score: 35.16, commentator tiers 1-3: 29.35%, 6.75%, 63.9%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 24:42 bht prompt v0.8 (69 words, 46.3% quotes)
-- quality score: 1.4032084005334466, V2 normalized quality score: 38.0, commentator tiers 1-3: 21.47%, 19.21%, 59.33%)
+- Attempt 4 BHT: After Jesus appeared to the disciples, he asked for food as evidence of his real corporeal form. A piece of broiled fish was given to him, reflecting the common frugal fare of that time. Although some manuscripts omit the reference to honeycomb, it is unlikely that this was an interpolation. The inclusion of the broiled fish highlights the physicality of Jesus' post-resurrection body and his ability to engage in ordinary human activities. This act of eating demonstrates Jesus' tangible presence and his fulfillment of the Messianic prophecies.
+- 🔄 Luke 24:42 (attempt 4, 88 words, 31.75% quotes quality score: 1.2734218728130973, V2 normalized quality score: 33.68, commentator tiers 1-3: 33.53%, 8.53%, 57.93%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: After Jesus appeared to the disciples, he requested food as proof of his real corporeal form. They offered him a piece of broiled fish, a common frugal fare in ancient times. Though some manuscripts omit the mention of honeycomb, it is unlikely that this was an interpolation. The inclusion of the broiled fish underscores the physicality of Jesus' post-resurrection body, showcasing his ability to engage in ordinary human activities. This act of eating validates his resurrection and establishes his continued presence with the disciples.
+- 🔄 Luke 24:42 (attempt 5, 85 words, 33.33% quotes quality score: 1.3170777025948115, V2 normalized quality score: 35.14, commentator tiers 1-3: 29.58%, 16.12%, 54.31%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 24:42 bht prompt v0.8 (84 words, 32.79% quotes)
+- quality score: 1.4348934163984488, V2 normalized quality score: 39.05, commentator tiers 1-3: 32.54%, 12.59%, 54.86%)

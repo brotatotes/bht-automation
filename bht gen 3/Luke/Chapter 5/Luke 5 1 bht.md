@@ -1,23 +1,23 @@
 # Luke 5:1 Commentary Help Text
 
 ## BHT:
-The crowds pressed hard against Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.
+The enthusiastic crowds eager to see and hear Jesus vividly depicted at the lake of Gennesaret. Luke's accurate and classical style is seen in his use of the term lake instead of sea, distinguishing his account. This secluded location became the backdrop for Jesus' early miracles and the selection of his disciples. The fishermen, who had toiled all night in vain, recognized the divine intervention when they caught a multitude of fish. The growing influence of Jesus is evident in the pressing crowds who eagerly sought him out.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
-1. "The common people heard him gladly." 
-2. "Its soil is so fruitful that all sorts of trees can grow upon it, and the inhabitants accordingly plant all sorts of trees there."
+1. "There were times in the life of our Saviour when thousands were anxious to hear him, and when many, as we have no reason to doubt, became his true followers."
+2. "Gennesaret was the more ancient name of the lake, taken from a small territory or plain of that name on its western borders."
 3. "Here he performed some of his first and most amazing miracles; here he selected his disciples; and here, on the shores of this little and retired lake, among people of poverty and inured to the privations of fishermen, he laid the foundation of a religion which is yet to spread through all the world."
 
 ### Marvin Vincent:
 1. "Pressed [επικεισθαι] . Lit., were laid upon."
-2. "He stood [αυτος ην εστως] . The pronoun distinguishes him from the crowd which pressed upon him : he on his part stood. Render the participle and finite verb as Rev., was standing."
-3. "Lake [λιμνην] . An illustration of the more classical style of Luke as compared with Matthew and Mark. They and John also use qalassa, sea."
+2. "He stood [αυτος ην εστως] . The pronoun distinguishes him from the crowd which pressed upon him: he on his part stood. Render the participle and finite verb as Rev., was standing."
+3. "Lake [λιμνην] . An illustration of the more classical style of Luke as compared with Matthew and Mark."
 
 ### John Calvin:
-1. "It was no unusual thing, indeed, that fishers cast their nets, on many occasions, with little advantage: and that all their fruitless toil was afterwards recompensed by one successful throw. But it was proved to be a miracle by this circumstance..."
-2. "Peter and his companions, therefore, readily conclude that a take, so far beyond the ordinary quantity, was not accidental, but was bestowed on them by a divine interposition."
-3. "Luke says, that Christ entered into a ship which belonged to Peter, and withdrew to a moderate distance from the land, that he might more conveniently address from it the multitudes, who flocked from various places to hear him; and that, after discharging the office of teaching, he exhibited a proof of his divine power by a miracle."
+1. "It was no unusual thing, indeed, that fishers cast their nets, on many occasions, with little advantage: and that all their fruitless toil was afterwards recompensed by one successful throw."
+2. "But it was proved to be a miracle by this circumstance, that they had taken nothing during the whole night, and that suddenly a great multitude of fishes was collected into their nets, sufficient to fill the ships."
+3. "Peter and his companions, therefore, readily conclude that a take, so far beyond the ordinary quantity, was not accidental, but was bestowed on them by a divine interposition."
 
 ### Philip Schaff:
 1. Luke 5:1. The multitude. His influence was already great.
@@ -26,14 +26,14 @@ The crowds pressed hard against Jesus, laying upon him as he stood amidst their 
 
 
 ### Archibald T. Robertson:
-1. "επικεισθα is an old one and means to λιε υπον, rest upon as of a stone on the tomb (John 11:38) or of fish on the burning coals (John 21:9). So it is used of a tempest (Acts 27:20) and of the urgent demands for Christ's crucifixion (Luke 23:23). Here it vividly pictures the eager crowds around Jesus." 
-2. "Εν τω επικεισθα is a favourite idiom with Luke as we have already seen, εν with the articular infinitive in the locative case." 
-3. "But that is no longer necessary, for the accusative as the case of extension is the oldest of the cases and in later Greek regains many of the earlier uses of the other cases employed for more precise distinctions. See the same idiom in verse Luke 5:2. We need not here stress the notion of extension."
+1. "Pressed upon him (επικεισθα)... vividly pictures the eager crowds around Jesus." 
+2. "Luke in this paragraph... does not follow the chronology of Mark as he usually does." 
+3. "With characteristic accuracy Luke never calls it a sea, while the others never call it a lake."
 
 ### John Gill:
-1. "Great crowds of people attended on him, and they followed him wherever he went; and so large were their numbers, and so very eager were they to see him, and hear him, that they were even troublesome to him, and bore hard upon him..." (76 words)
-2. "The scriptures of the Old Testament explained, and the doctrines of the Gospel preached; and which were preached by him, as never were before or since, and in such a manner as were not by the Scribes and Pharisees..." (47 words)
-3. "And indeed, it was a place chosen by Christ, and honoured, and made famous by him, by his preaching at it, his miracles upon it, and showing himself there after his resurrection." (32 words)
+1. "And so large were their numbers, and so very eager were they to see him, and hear him, that they were even troublesome to him, and bore hard upon him, and were ready to press him down." 
+2. "The matter and manner of his ministry drew a vast concourse of people after him."
+3. "And indeed, it was a place chosen by Christ, and honoured, and made famous by him."
 
 ### John Wesley:
 1.  Matthew 4:18; Mark 1:16.
@@ -42,38 +42,47 @@ The crowds pressed hard against Jesus, laying upon him as he stood amidst their 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:15:18
+- Timestamp: 12-25-2023 20:33:06
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 37.74%
-- BHT Quality Score: 1.3365822632284796
+- BHT Word Count: 89
+- BHT Commentary Usage: 31.25%
+- BHT Quality Score: 1.6309800584863976
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['a', 'address', 'against', 'amidst', 'amount', 'and', 'as', 'away', 'bearing', 'boat', 'by', 'catching', 'crowds', 'demonstrated', 'divine', 'eagerness', 'entered', 'fervor', 'fish', 'from', 'hard', 'he', 'hear', 'him', 'his', 'in', 'jesus', 'lake', 'land', 'large', 'laying', 'miraculously', 'moving', 'multitude', 'numerous', 'of', 'on', 'people', 'peter', 'power', 'pressed', 's', 'see', 'stood', 'taught', 'the', 'their', 'them', 'to', 'troublesome', 'upon', 'urgency', 'were']
-- ChatGPT injected words (significant words only) (33):
-	['address', 'amidst', 'away', 'bearing', 'boat', 'catching', 'crowds', 'demonstrated', 'divine', 'eagerness', 'entered', 'fervor', 'fish', 'hard', 'hear', 'jesus', 'lake', 'land', 'large', 'laying', 'miraculously', 'moving', 'multitude', 'numerous', 'people', 'peter', 'power', 'pressed', 's', 'stood', 'taught', 'troublesome', 'urgency']
+- ChatGPT injected words (64):
+	['a', 'account', 'accurate', 'all', 'and', 'at', 'backdrop', 'became', 'caught', 'classical', 'crowds', 'depicted', 'disciples', 'distinguishing', 'divine', 'eager', 'eagerly', 'early', 'enthusiastic', 'evident', 'fish', 'fishermen', 'for', 'gennesaret', 'growing', 'had', 'hear', 'him', 'his', 'in', 'influence', 'instead', 'intervention', 'is', 'jesus', 'lake', 'location', 'luke', 'miracles', 'multitude', 'night', 'of', 'out', 'pressing', 'recognized', 's', 'sea', 'secluded', 'see', 'seen', 'selection', 'sought', 'style', 'term', 'the', 'they', 'this', 'to', 'toiled', 'use', 'vain', 'vividly', 'when', 'who']
+- ChatGPT injected words (significant words only) (44):
+	['account', 'accurate', 'backdrop', 'caught', 'classical', 'crowds', 'depicted', 'disciples', 'distinguishing', 'divine', 'eager', 'eagerly', 'early', 'enthusiastic', 'evident', 'fish', 'fishermen', 'gennesaret', 'growing', 'hear', 'influence', 'instead', 'intervention', 'jesus', 'lake', 'location', 'luke', 'miracles', 'multitude', 'night', 'pressing', 'recognized', 's', 'sea', 'secluded', 'seen', 'selection', 'sought', 'style', 'term', 'toiled', 'use', 'vain', 'vividly']
 
 ### Logs
-- Attempt 1 BHT: The crowds were pressing so hard against Jesus that they were practically laying on him, but he stood there amidst the chaos. The lake, or rather the Sea of Galilee, was a favorite idiom of Luke's, as it showed his more classical style compared to Matthew and Mark. The eager crowds vividly illustrated the meaning of pressing upon Jesus, with the word used here often implying urgency. Jesus entered Peter's boat on the lake and moved away from the land so that he could address the multitude. He taught them and then demonstrated his divine power through a miraculous catch of fish. The people were so numerous and eager to see and hear Jesus that they became troublesome and bore hard upon him.
-- 🔄 Luke 5:1 (attempt 1, 125 words, 40.96% quotes quality score: 1.5103454714065543, V2 normalized quality score: 41.56, commentator tiers 1-3: 29.36%, 30.6%, 40.05%) 
+- Attempt 1 BHT: The scene is set by describing the pressing crowds around Jesus, who stood apart from them. The location, referred to as the lake of Gennesaret, is an illustration of Luke's accurate and classical style. Luke deviates from the chronological order in Mark's account and specifically refers to the body of water as a lake, while the other Gospel writers call it a sea. This small and secluded lake became the backdrop for some of Jesus' earliest miracles and the calling of his disciples, laying the foundation for a religion that would spread throughout the world. The multitude around Jesus was growing, and the fishermen, who had toiled all night in vain, recognized that the large catch of fish was not a coincidence but a divine intervention. The enthusiasm of the crowd was so overwhelming that they pressed upon Jesus, eager to see and hear him.
+- 🔄 Luke 5:1 (attempt 1, 147 words, 37.11% quotes quality score: 1.7115494475199058, V2 normalized quality score: 48.25, commentator tiers 1-3: 36.95%, 33.47%, 29.58%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The crowds pressed hard against Jesus, laying upon him as he stood. Luke's use of the word lake is a more classical style than the term sea used by the other Gospel writers. The crowds around Jesus vividly illustrated their eagerness and urgency. Jesus entered Peter's boat on the lake and moved away from the land to address the multitude. He taught them and then demonstrated his divine power through a miraculous catch of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.
-- 🔄 Luke 5:1 (attempt 2, 95 words, 39.13% quotes quality score: 1.4137257608595564, V2 normalized quality score: 38.35, commentator tiers 1-3: 29.35%, 31.75%, 38.9%) 
+- Attempt 2 BHT: The pressing crowds gathered around Jesus at the lake of Gennesaret, as vividly described in the commentary. Luke's use of the term lake instead of sea is intentional, distinguishing his style from the other Gospel writers. This secluded setting became the stage for Jesus' early miracles and the calling of his disciples. The fishermen, who had toiled all night without success, recognized the divine intervention when they caught a multitude of fish. The enthusiastic crowd, eager to see and hear Jesus, pressed upon him, demonstrating the growing influence of his ministry.
+- 🔄 Luke 5:1 (attempt 2, 92 words, 35.21% quotes quality score: 1.6353016268511822, V2 normalized quality score: 45.72, commentator tiers 1-3: 36.94%, 32.87%, 30.19%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The enthusiastic crowds eager to see and hear Jesus vividly depicted at the lake of Gennesaret. Luke's accurate and classical style is seen in his use of the term lake instead of sea, distinguishing his account. This secluded location became the backdrop for Jesus' early miracles and the selection of his disciples. The fishermen, who had toiled all night in vain, recognized the divine intervention when they caught a multitude of fish. The growing influence of Jesus is evident in the pressing crowds who eagerly sought him out.
+- 🔄 Luke 5:1 (attempt 3, 89 words, 31.25% quotes quality score: 1.6309800584863976, V2 normalized quality score: 45.57, commentator tiers 1-3: 36.07%, 33.52%, 30.41%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: The crowds pressed hard against Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.
-- 🔄 Luke 5:1 (attempt 3, 68 words, 37.74% quotes quality score: 1.3365822632284796, V2 normalized quality score: 35.78, commentator tiers 1-3: 22.39%, 33.61%, 44.0%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The crowds pressed upon Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.
-- 🔄 Luke 5:1 (attempt 4, 67 words, 36.54% quotes quality score: 1.3315642329603428, V2 normalized quality score: 35.62, commentator tiers 1-3: 22.39%, 33.77%, 43.84%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The crowds pressed upon Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.
-- 🔄 Luke 5:1 (attempt 5, 67 words, 36.54% quotes quality score: 1.3315642329603428, V2 normalized quality score: 35.62, commentator tiers 1-3: 22.39%, 33.77%, 43.84%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 5:1 bht prompt v0.8 (68 words, 37.74% quotes)
-- quality score: 1.3365822632284796, V2 normalized quality score: 35.78, commentator tiers 1-3: 22.39%, 33.61%, 44.0%)
+- Attempt 4 BHT: The pressing crowds found at the lake of Gennesaret illustrate the eagerness of the people to see and hear Jesus, as described in the commentary. Luke's attention to detail is seen in his use of the term lake, distinguishing his account from the others. This secluded location served as the backdrop for Jesus' early miracles and the selection of his disciples. The fishermen, who had toiled all night in vain, recognized the divine intervention when they miraculously caught a multitude of fish. The growing influence of Jesus is evident in the enthusiastic crowds who eagerly sought him out.
+- 🔄 Luke 5:1 (attempt 4, 99 words, 32.35% quotes quality score: 1.583201100359487, V2 normalized quality score: 43.98, commentator tiers 1-3: 35.33%, 34.04%, 30.63%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The bustling crowds gathered around Jesus at the lake of Gennesaret, vividly described in the commentary, reflect their eagerness to be in his presence. Luke's choice of the term lake instead of sea reveals his precision and unique style. This secluded location served as the backdrop for Jesus' early miracles and the calling of his disciples. The fishermen, who had toiled fruitlessly all night, recognized the divine intervention when they experienced an abundant catch of fish. The ardent followers pressed upon Jesus, showcasing the expanding impact of his ministry.
+- 🔄 Luke 5:1 (attempt 5, 90 words, 29.41% quotes quality score: 1.5850011356153995, V2 normalized quality score: 44.04, commentator tiers 1-3: 36.5%, 32.98%, 30.52%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 5:1 bht prompt v0.8 (89 words, 31.25% quotes)
+- quality score: 1.6309800584863976, V2 normalized quality score: 45.57, commentator tiers 1-3: 36.07%, 33.52%, 30.41%)

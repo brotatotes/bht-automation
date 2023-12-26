@@ -1,7 +1,7 @@
 # Mark 13:20 Commentary Help Text
 
 ## BHT:
-The distinctive style of St. Mark imparts a solemn tone to the words of our Lord. These idiomatic expressions enhance the significance of His message. The shortening mentioned signifies a merciful intervention in order to prevent the utter destruction of the nation. It is an act of divine sovereignty, aiming to preserve a remnant of the elect. Till the fulness of the Gentiles be come in does not imply the universal conversion of the world, but rather speaks of the Gentiles' allotted time in the Church. This foreshadows the future liberation of Jerusalem from Gentile domination.
+God's merciful shortening of the days prevented the nation from perishing entirely, allowing for a remnant to be saved. Jerusalem's liberation from Gentile oppression signifies a time to come. It is important to note that this shortening does not refer to the global conversion to Christ, but rather the completion of the Gentile's place in the Church. God's selection of a remnant for salvation demonstrates His sovereign choice, not based on human merit, but His divine purpose.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -12,7 +12,7 @@ The distinctive style of St. Mark imparts a solemn tone to the words of our Lord
 ### Jamieson-Fausset-Brown:
 1. "But for this merciful 'shortening,' brought about by a remarkable concurrence of causes, the whole nation would have perished, in which there yet remained a remnant to be afterwards gathered out."
 2. "A time is coming when Jerusalem shall cease to be 'trodden down of the Gentiles'; which it was then by pagan, and since and till now is by Mohammedan unbelievers."
-3. "'Till the fulness of the Gentiles be come in'—or, in our Lord's phraseology, 'till the times of the Gentiles be fulfilled'—does not mean 'till the general conversion of the world to Christ,' but 'till the Gentiles have had their full time of that place in the Church which the Jews had before them.'"
+3. "'Till the fulness of the Gentiles be come in' does not mean 'till the general conversion of the world to Christ,' but 'till the Gentiles have had their full time of that place in the Church which the Jews had before them.'"
 
 ### Marvin Vincent:
 1. Shortened. See on Matthew 24:22.
@@ -23,59 +23,52 @@ The distinctive style of St. Mark imparts a solemn tone to the words of our Lord
 
 
 ### John Gill:
-1. "And except that the Lord had shortened those days,.... Had determined that those days of affliction should be but few, and not last long; that the siege should not be longer continued, and the devastations within and without be prolonged."
-2. "no flesh should be saved; there would not have been a Jew left; that nation and race of men must have been utterly destroyed from off the face of the earth."
-3. "but for elect's sake, whom he hath chosen; in Christ, unto eternal salvation; who were either then upon the spot, called or uncalled, or that were to spring from in succeeding times."
+1. "Except that the Lord had shortened those days, no flesh should be saved." 
+2. "He hath shortened the days; he hath determined they shall be but few, that a remnant might be saved, and among them his elect." 
+3. "Though the people in general have been given up to blindness and unbelief, yet they are preserved as a distinct people in the world."
 
 ### John Wesley:
-1. "The elect — The Christians: whom he hath chosen - That is, hath taken out of, or separated from, the world."
-2. "He hath shortened — That is, will surely shorten."
+1. "The elect — The Christians: whom he hath chosen - That is, hath taken out of, or separated from, the world" 
+2. "through sanctification of the Spirit and belief of the truth."
+3. "He hath shortened — That is, will surely shorten."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:28:02
+- Timestamp: 12-25-2023 20:32:49
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 26.87%
-- BHT Quality Score: 1.4258653565661916
+- BHT Word Count: 81
+- BHT Commentary Usage: 32.14%
+- BHT Quality Score: 1.6698269125658352
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (67):
-	['a', 'act', 'aiming', 'allotted', 'an', 'be', 'but', 'church', 'come', 'conversion', 'destruction', 'distinctive', 'divine', 'does', 'domination', 'elect', 'enhance', 'expressions', 'foreshadows', 'from', 'fulness', 'future', 'gentile', 'gentiles', 'his', 'idiomatic', 'imparts', 'imply', 'in', 'intervention', 'is', 'it', 'jerusalem', 'liberation', 'lord', 'mark', 'mentioned', 'merciful', 'message', 'nation', 'not', 'of', 'order', 'our', 'preserve', 'prevent', 'rather', 'remnant', 'shortening', 'significance', 'signifies', 'solemn', 'sovereignty', 'speaks', 'st', 'style', 'the', 'these', 'this', 'till', 'time', 'to', 'tone', 'universal', 'utter', 'words', 'world']
-- ChatGPT injected words (significant words only) (49):
-	['act', 'aiming', 'allotted', 'church', 'come', 'conversion', 'destruction', 'distinctive', 'divine', 'domination', 'elect', 'enhance', 'expressions', 'foreshadows', 'fulness', 'future', 'gentile', 'gentiles', 'idiomatic', 'imparts', 'imply', 'intervention', 'jerusalem', 'liberation', 'lord', 'mark', 'mentioned', 'merciful', 'message', 'nation', 'order', 'preserve', 'prevent', 'remnant', 'shortening', 'significance', 'signifies', 'solemn', 'sovereignty', 'speaks', 'st', 'style', 'till', 'time', 'tone', 'universal', 'utter', 'words', 'world']
+- ChatGPT injected words (56):
+	['a', 'allowing', 'based', 'be', 'but', 'choice', 'christ', 'church', 'come', 'completion', 'conversion', 'days', 'demonstrates', 'divine', 'does', 'entirely', 'for', 'from', 'gentile', 'global', 'god', 'his', 'human', 'important', 'in', 'is', 'it', 'jerusalem', 'liberation', 'merciful', 'merit', 'nation', 'not', 'note', 'of', 'on', 'oppression', 'perishing', 'place', 'prevented', 'purpose', 'rather', 'refer', 'remnant', 's', 'salvation', 'saved', 'selection', 'shortening', 'signifies', 'sovereign', 'that', 'the', 'this', 'time', 'to']
+- ChatGPT injected words (significant words only) (38):
+	['allowing', 'based', 'choice', 'christ', 'church', 'come', 'completion', 'conversion', 'days', 'demonstrates', 'divine', 'entirely', 'gentile', 'global', 'god', 'human', 'important', 'jerusalem', 'liberation', 'merciful', 'merit', 'nation', 'note', 'oppression', 'perishing', 'place', 'prevented', 'purpose', 'refer', 'remnant', 's', 'salvation', 'saved', 'selection', 'shortening', 'signifies', 'sovereign', 'time']
 
 ### Logs
-- Attempt 1 BHT: In Mark 13:20, the peculiarities of St. Mark's style add greater solemnity to our Lord's discourse. The Lord's words here, and usually in St. Mark, are idiomatic. The merciful shortening mentioned is a result of a remarkable concurrence of causes, without which the whole nation of Jerusalem would have perished. This shortening of the days is for the sake of the elect, whom God has chosen for eternal salvation. The phrase till the fulness of the Gentiles be come in does not refer to the general conversion of the world, but rather to the Gentiles having their full time in the Church. This verse also points to a future time when Jerusalem will no longer be trodden down by the Gentiles.
-- 🔄 Mark 13:20 (attempt 1, 123 words, 40.51% quotes quality score: 1.7327080285980223, V2 normalized quality score: 48.95, commentator tiers 1-3: 53.4%, 0.0%, 46.6%) 
+- Attempt 1 BHT: The verse speaks of the merciful shortening of the days, without which the whole nation would have perished. It refers to a time when Jerusalem will no longer be under Gentile oppression, and indicates that this shortening does not mean the general conversion of the world, but rather the fulfillment of the Gentiles' role in the Church. This sovereign choice of God is seen in his selection of a remnant to be saved. This selection is not based on the peoples' own merits, but on God's sovereign purpose.
+- 🔄 Mark 13:20 (attempt 1, 89 words, 44.26% quotes quality score: 1.7111907284657524, V2 normalized quality score: 48.24, commentator tiers 1-3: 50.86%, 0.0%, 49.14%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The style of St. Mark adds solemnity to our Lord's discourse. The merciful shortening is a result of a concurrence of causes, without which the nation of Jerusalem would have perished. This shortening is for the sake of the elect, whom God has chosen. The phrase till the fulness of the Gentiles be come in does not refer to the general conversion of the world, but to the Gentiles having their full time in the Church. This verse also points to a future time when Jerusalem will no longer be trodden down by the Gentiles.
-- 🔄 Mark 13:20 (attempt 2, 96 words, 42.19% quotes quality score: 1.7423302539395342, V2 normalized quality score: 49.27, commentator tiers 1-3: 51.68%, 0.0%, 48.32%) 
+- Attempt 2 BHT: The shortening of the days was a merciful act to prevent the nation from perishing completely. Its purpose was to bring about a time when Jerusalem would no longer be oppressed by Gentiles. This shortening does not imply the general conversion of the world, but instead signifies the completion of the Gentiles' role in the Church. God's sovereign choice is evident in his selection of a remnant to be saved, highlighting his divine purpose and not the people's own merits.
+- 🔄 Mark 13:20 (attempt 2, 82 words, 37.93% quotes quality score: 1.6612352492823452, V2 normalized quality score: 46.58, commentator tiers 1-3: 51.0%, 0.0%, 49.0%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: In this passage, the unique style of St. Mark adds a greater sense of solemnity to our Lord's discourse. The Lord's words are idiomatic, emphasizing the importance and impact of what is being said. The shortening mentioned here is a merciful act brought about by a remarkable confluence of circumstances. This shortened timeframe prevents the complete destruction of the nation and enables the survival of a remnant. Furthermore, it signifies a future time when Jerusalem will no longer be oppressed by the Gentiles.
-- 🔄 Mark 13:20 (attempt 3, 85 words, 31.75% quotes quality score: 1.4860751519590787, V2 normalized quality score: 40.75, commentator tiers 1-3: 55.0%, 0.0%, 45.0%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The shortening of the days was a merciful act intended to prevent the nation from perishing completely. This act resulted in a time when Jerusalem would no longer be oppressed by Gentiles, both pagans and Mohammedan unbelievers. It is important to note that the shortening does not refer to the general conversion of the world, but rather the completion of the Gentiles' role in the Church. God's sovereign choice is evident in his selection of a remnant to be saved, highlighting his divine purpose and not the people's own merits.
+- 🔄 Mark 13:20 (attempt 3, 92 words, 37.5% quotes quality score: 1.6534443642131507, V2 normalized quality score: 46.32, commentator tiers 1-3: 50.48%, 0.0%, 49.52%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: The unique style employed by St. Mark in this passage lends a certain solemnity to our Lord's discourse. His use of idioms adds depth and significance to the words spoken. The term shortening refers to the merciful reduction of the appointed days, an act necessary for the preservation of the nation and the salvation of the elect. The phrase till the fulness of the Gentiles be come in does not indicate the general conversion of the world, but rather denotes the allotted time for the Gentiles' place in the Church. After this, Jerusalem will no longer be subservient to the Gentiles.
-- 🔄 Mark 13:20 (attempt 4, 102 words, 28.99% quotes quality score: 1.540075329655421, V2 normalized quality score: 42.55, commentator tiers 1-3: 54.06%, 0.0%, 45.94%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The shortening of the days was a merciful act by God, preventing the complete destruction of the nation. This act led to a time when Jerusalem would no longer be under Gentile oppression, by both pagans and Mohammedan unbelievers. It is crucial to understand that this shortening does not signify the general conversion of the world, but rather the completion of the Gentiles' role in the Church. God's sovereign choice is revealed through His selection of a remnant to be saved, demonstrating His divine purpose above human merit.
+- 🔄 Mark 13:20 (attempt 4, 89 words, 38.46% quotes quality score: 1.6132383811268007, V2 normalized quality score: 44.98, commentator tiers 1-3: 50.24%, 0.0%, 49.76%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: The distinctive style of St. Mark imparts a solemn tone to the words of our Lord. These idiomatic expressions enhance the significance of His message. The shortening mentioned signifies a merciful intervention in order to prevent the utter destruction of the nation. It is an act of divine sovereignty, aiming to preserve a remnant of the elect. Till the fulness of the Gentiles be come in does not imply the universal conversion of the world, but rather speaks of the Gentiles' allotted time in the Church. This foreshadows the future liberation of Jerusalem from Gentile domination.
-- 🔄 Mark 13:20 (attempt 5, 96 words, 26.87% quotes quality score: 1.4258653565661916, V2 normalized quality score: 38.75, commentator tiers 1-3: 57.24%, 0.0%, 42.76%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: God's merciful shortening of the days prevented the nation from perishing entirely, allowing for a remnant to be saved. Jerusalem's liberation from Gentile oppression signifies a time to come. It is important to note that this shortening does not refer to the global conversion to Christ, but rather the completion of the Gentile's place in the Church. God's selection of a remnant for salvation demonstrates His sovereign choice, not based on human merit, but His divine purpose.
+- 🔄 Mark 13:20 (attempt 5, 81 words, 32.14% quotes quality score: 1.6698269125658352, V2 normalized quality score: 46.86, commentator tiers 1-3: 51.8%, 0.0%, 48.2%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 13:20 bht prompt v0.8 (96 words, 26.87% quotes)
-- quality score: 1.4258653565661916, V2 normalized quality score: 38.75, commentator tiers 1-3: 57.24%, 0.0%, 42.76%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 13:20 bht prompt v0.8 (81 words, 32.14% quotes)
+- quality score: 1.6698269125658352, V2 normalized quality score: 46.86, commentator tiers 1-3: 51.8%, 0.0%, 48.2%)

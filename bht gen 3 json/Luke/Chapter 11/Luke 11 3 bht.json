@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:17:46",
+    "timestamp": "12-25-2023 20:33:15",
     "verseRef": "Luke 11:3",
     "bestBHT": {
-        "bht": "Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The precise meaning of the phrase daily bread has been the subject of scholarly debate, but the rendering of daily has prevailed in the Western Church and captures the intention of the original words. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.",
-        "wordCount": 87,
-        "quoteTokenProportion": 33.93,
-        "qualityScore": 1.4396216945007623,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.21,
+        "bht": "Give us day by day our daily bread. This prayer is an extension of the petition in Matthew for this day's supply, to every successive day's necessities. The rendering of daily as every day captures the original meaning and is faithful to the Syriac version. While the exact interpretation of daily is uncertain, it likely refers to each following day or the day then breaking. This prayer teaches us to rely on God for our daily sustenance and to seek His provision without anxiety.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.5024376292237656,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.3,
         "commentatorTierSimilarities": [
-            35.6,
-            25.76,
-            38.64
+            33.11,
+            25.06,
+            41.83
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -21,9 +21,9 @@
             "probably this prayer was never used in the Christian assemblies but in its present form, as we find it in Matthew, while in Luke it has been allowed to stand as originally uttered."
         ],
         "Marvin Vincent": [
-            "The familiar rendering, daily, which has prevailed uninterruptedly in the Western Church from the beginning, is a fairly adequate representation of the original.\" ",
-            "It would be profitless to the English reader to go into the discussion. A scholar is quoted as saying that the term is 'the rack of theologians and grammarians.'",
-            "If the prayer were said in the evening, no doubt it would mean the following day; but supposing it to be used before dawn, it would designate the day then breaking\" (the coming day)."
+            "The familiar rendering, daily, which has prevailed uninterruptedly in the Western Church from the beginning, is a fairly adequate representation of the original.",
+            "No doubt it would mean the following day; but supposing it to be used before dawn, it would designate the day then breaking\" (the coming day).",
+            "If the command not to be anxious is tantamount to a prohibition against prayer for the object about which we are forbidden to be anxious, then not only must we not pray for tomorrow's food, but we must not pray for food at all."
         ],
         "Philip Schaff": [
             "Luke 11:3. This verse may be thus more exactly translated: \u2018our sufficient (or needful) bread give us for the day.\u2019",
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The precise meaning of the phrase daily bread has been the subject of scholarly debate, but the rendering of daily has prevailed in the Western Church and captures the intention of the original words. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.",
-            "wordCount": 87,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.4396216945007623,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.21,
+            "bht": "Give us day by day our daily bread. This prayer is an extension of the petition in Matthew, asking for daily provision of our necessary bread. While the exact meaning of daily is open to interpretation, it is generally understood to refer to each successive day's necessities. It is believed that this prayer was originally uttered by Jesus in this form, and although it may not have been commonly used in Christian assemblies, the familiar rendering of daily has prevailed in the Western Church. Some suggest that it signifies the following day or the day then breaking. It is important to note that the command to not be anxious is not a prohibition against praying for our needs but rather a reminder to trust in God's provision.",
+            "wordCount": 129,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.3965147383383711,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
             "commentatorTierSimilarities": [
-                35.6,
-                25.76,
-                38.64
+                38.41,
+                24.54,
+                37.05
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The rendering of daily captures the intention of the original words and has prevailed in the Western Church. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.",
-            "wordCount": 71,
-            "quoteTokenProportion": 35.42,
-            "qualityScore": 1.3733703175728127,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.01,
+            "bht": "Give us day by day our daily bread. This prayer is an extension of the petition in Matthew, asking for daily provision of our necessary bread. The familiar rendering of daily has prevailed in the Western Church, representing the original meaning fairly well. While the exact meaning of daily is open to interpretation, it likely refers to each successive day's necessities. This prayer serves as a reminder to trust in God's provision and not be anxious about our needs.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.4055476954108799,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.08,
             "commentatorTierSimilarities": [
-                37.6,
-                24.68,
-                37.73
+                37.15,
+                25.03,
+                37.82
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The familiar rendering of daily has prevailed in the Western Church and fairly represents the original intent. Whether recited in the morning or evening, this prayer seeks provision for the day at hand or the coming day.",
-            "wordCount": 66,
-            "quoteTokenProportion": 32.61,
-            "qualityScore": 1.3486373937112464,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.19,
+            "bht": "Give us day by day our daily bread. This prayer is an extension of the petition in Matthew for this day's supply, to every successive day's necessities. The familiar rendering of daily has prevailed in the Western Church, as it is a fairly adequate representation of the original. While the exact meaning of daily is open to interpretation, it likely refers to each following day or the day then breaking. This prayer reminds us to trust in God's provision and not be anxious about our needs.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.4537000737585024,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.68,
             "commentatorTierSimilarities": [
-                37.89,
-                23.24,
-                38.87
+                38.94,
+                23.55,
+                37.51
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The rendering of daily has prevailed in the Western Church and captures the intention of the original words. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.",
-            "wordCount": 71,
-            "quoteTokenProportion": 35.42,
-            "qualityScore": 1.3854945332135613,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.41,
+            "bht": "Give us day by day our daily bread. This prayer is an extension of the petition in Matthew for this day's supply, to every successive day's necessities. The rendering of daily as every day captures the original meaning and is faithful to the Syriac version. While the exact interpretation of daily is uncertain, it likely refers to each following day or the day then breaking. This prayer teaches us to rely on God for our daily sustenance and to seek His provision without anxiety.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5024376292237656,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.3,
             "commentatorTierSimilarities": [
-                37.35,
-                24.64,
-                38.01
+                33.11,
+                25.06,
+                41.83
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The familiar rendering, daily, which has prevailed in the Western Church, is a fairly adequate representation of the original. Whether this prayer is said in the morning or evening, it acknowledges our dependence on God for provisions in the present or the coming day.",
-            "wordCount": 73,
-            "quoteTokenProportion": 35.29,
-            "qualityScore": 1.3928010335052134,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+            "bht": "Give us day by day our daily bread. This extension of the petition in Matthew for this day's supply entails asking for provision of our necessary bread for each successive day's necessities. The rendering of daily as every day accurately captures the original meaning, faithful to the Syriac version. While there is ambiguity surrounding the exact interpretation of daily, it likely denotes the day following or the day then breaking. This prayer encourages us to cultivate trust in God's provision and combat anxiety over our needs.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4227577960648943,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.65,
             "commentatorTierSimilarities": [
-                38.94,
-                23.72,
-                37.34
+                32.05,
+                26.73,
+                41.22
             ],
             "generationAttempt": 5
         }

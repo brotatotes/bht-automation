@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:29:15",
+    "timestamp": "12-25-2023 20:34:05",
     "verseRef": "Acts 10:21",
     "bestBHT": {
-        "bht": "He who is being sought after, I am. This statement was made without any prior communication regarding the men or their errand. The sudden encounter between Peter and the strangers, and their immediate recognition of him, points to a supernatural connection. Although Peter was yet to learn the details of their purpose, his swift response exemplifies his trust in the prompting of the Spirit. This event serves as a reminder for us to abandon self-assurance and conform our minds to the authority and standards of God.",
-        "wordCount": 87,
-        "quoteTokenProportion": 46.15,
-        "qualityScore": 1.1906967937709294,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.93,
+        "bht": "Peter, without any prior communication, seems to have instinctively known that he was the one whom the strangers were seeking. His sudden appearance and direct address must have startled them, causing them to realize that Peter had received some supernatural communication. However, he was still ignorant of the specifics of their errand and would have to learn them through normal means. This is a powerful reminder that we should not judge what God calls pure to be common. True wisdom lies in submitting to the authority of God, regardless of our own understanding or opinions.",
+        "wordCount": 95,
+        "quoteTokenProportion": 49.32,
+        "qualityScore": 1.375664744414247,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.08,
         "commentatorTierSimilarities": [
-            29.33,
-            38.78,
-            31.89
+            20.53,
+            45.68,
+            33.79
         ],
-        "generationAttempt": 3
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -21,22 +21,22 @@
             "\tregarding the men or their errand."
         ],
         "John Calvin": [
-            "Abandoning all vain confidence, and correcting our stubbornness, the authority of God doth so pull us unto it, and doth so possess our minds.",
-            "We count nothing right but that which it prescribeth.",
-            "That which God calleth pure, judge not thou to be common."
+            "That which God calleth pure, judge not thou to be common.",
+            "This is to be wise indeed, when as abandoning all vain confidence, and correcting our stubbornness, the authority of God doth so pull us unto it.",
+            "We count nothing right but that which it [the authority of God] prescribeth."
         ],
         "Philip Schaff": [
             "This coming down the outside stair, and suddenly standing face to face with the strangers, with whom he was presently to make such intimate acquaintance, is one of the most vivid passages of the narrative.",
-            "They saw in a moment the man whom they were seeking: they perceived that some supernatural communication had been made to him; and renewed strength must have been given instantaneously to their conviction that they were engaged in no common transaction.",
+            "They must have been much startled by this sudden address. They saw in a moment the man whom they were seeking: they perceived that some supernatural communication had been made to him; and renewed strength must have been given instantaneously to their conviction that they were engaged in no common transaction.",
             "He was entirely ignorant as yet of the details of their errand: and these he was to learn, not supernaturally, but by the usual methods of information."
         ],
         "Archibald T. Robertson": [
             "Cause (\u03b1\u03b9\u03c4\u03b9\u03b1). Or reason. Common in this sense. See on Matthew 19:3. "
         ],
         "John Gill": [
-            "Behold, I am he whom ye seek; without being called by any of the family he came down, and without being informed in that way who the men were inquiring for; it being suggested to him by the Spirit of God, he declared himself to be the person they were seeking after.\" ",
-            "What is the cause wherefore ye are come? for that was not intimated to him by the Spirit; it was only told him there were three men seeking him, and he was bid to go with them, without any scruple or hesitation; but what they came for, or he was to go with them about, was not suggested.",
-            "Without being called by any of the family he came down, and without being informed in that way who the men were inquiring for."
+            "The following clause, which were sent unto him from Cornelius, is not in Beza's most ancient copy, nor in the Alexandrian copy, nor in the Vulgate Latin, Syriac, Arabic, and Ethiopic versions.",
+            "Without being called by any of the family he came down, and without being informed in that way who the men were inquiring for; it being suggested to him by the Spirit of God, he declared himself to be the person they were seeking after.",
+            "What is the cause wherefore ye are come? for that was not intimated to him by the Spirit; it was only told him there were three men seeking him, and he was bid to go with them, without any scruple or hesitation; but what they came for, or he was to go with them about, was not suggested."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -56,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "He who is being sought after, I am. This statement was made by Peter without any prior knowledge of the men or their purpose. The sudden encounter between Peter and the strangers, along with their immediate recognition of him, indicated to them that some supernatural communication had taken place. The details of their errand were not revealed to Peter at that moment, as he was yet to learn them through conventional means. Through this event, God's authority compels us to abandon our self-assurance and conform our minds to His will. We must recognize and adhere to His pure standards, not judging what He deems as common. Peter's obedience in immediately responding to the strangers' request, despite the lack of information, demonstrates his trust in the prompting of the Spirit.",
-            "wordCount": 132,
-            "quoteTokenProportion": 44.09,
-            "qualityScore": 1.2705472141101177,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.59,
+            "bht": "Peter, without any prior communication, seems to have instinctively known that he was the one whom the strangers were seeking. His sudden appearance and direct address must have startled them, causing them to realize that Peter had received some supernatural communication. However, he was still ignorant of the specifics of their errand and would have to learn them through normal means. This is a powerful reminder that we should not judge what God calls pure to be common. True wisdom lies in submitting to the authority of God, regardless of our own understanding or opinions.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.32,
+            "qualityScore": 1.375664744414247,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.08,
             "commentatorTierSimilarities": [
-                26.78,
-                40.83,
-                32.39
+                20.53,
+                45.68,
+                33.79
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "He who is being sought after, I am. This statement was made without prior knowledge of the men or their purpose. The sudden encounter and immediate recognition suggest a supernatural communication. The details of their errand were not revealed at that moment; Peter would learn them through conventional means. God's authority compels us to abandon self-assurance and conform our minds to His will. We must recognize and adhere to His standards, not judging what He deems as common. Peter's obedience demonstrates trust in the Spirit's prompting.",
-            "wordCount": 90,
-            "quoteTokenProportion": 45.33,
-            "qualityScore": 1.10779416849349,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.18,
+            "bht": "Without any communication, Peter instinctively knew that he was the one the strangers were looking for. Startled, the strangers realized that Peter had received a supernatural message. Although unaware of the details of their request, Peter would have to learn through ordinary means. This reminds us not to deem common what God declares pure. True wisdom lies in submitting to God's authority, forsaking our own confidence and following what He prescribes.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.2487976652502366,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.87,
             "commentatorTierSimilarities": [
-                30.17,
-                35.16,
-                34.67
+                25.82,
+                38.54,
+                35.64
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "He who is being sought after, I am. This statement was made without any prior communication regarding the men or their errand. The sudden encounter between Peter and the strangers, and their immediate recognition of him, points to a supernatural connection. Although Peter was yet to learn the details of their purpose, his swift response exemplifies his trust in the prompting of the Spirit. This event serves as a reminder for us to abandon self-assurance and conform our minds to the authority and standards of God.",
-            "wordCount": 87,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.1906967937709294,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.93,
+            "bht": "Without any communication, Peter instinctively knew that he was the one the strangers were looking for. Startled, the strangers realized that Peter had received a supernatural message. Although unaware of the details of their request, Peter would have to learn through ordinary means. This reminds us not to deem common what God declares pure. True wisdom lies in submitting to God's authority, forsaking our own confidence, and following what He prescribes.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.2487976652502366,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.87,
             "commentatorTierSimilarities": [
-                29.33,
-                38.78,
-                31.89
+                25.82,
+                38.54,
+                35.64
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "He who is being sought after, I am. This statement was made without any prior communication regarding the men or their errand. The sudden encounter between Peter and the strangers, and their immediate recognition of him, points to a supernatural connection. Although Peter was yet to learn the details of their purpose, his swift response exemplifies his trust in the prompting of the Spirit. This event serves as a reminder for us to abandon self-assurance and conform our minds to the authority and standards of God.",
-            "wordCount": 87,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.1906967937709294,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.93,
+            "bht": "Without any prior communication, Peter immediately understood that he was the one whom the strangers were seeking. This sudden address startled them and confirmed that Peter had received a supernatural message. Although he was still unaware of the specifics of their request, Peter would have to learn through ordinary means. This serves as a powerful reminder not to judge as common what God has declared pure. True wisdom lies in submitting to God's authority and following His prescriptions, relinquishing our own confidence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.295845293188279,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.43,
             "commentatorTierSimilarities": [
-                29.33,
-                38.78,
-                31.89
+                22.7,
+                43.01,
+                34.29
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Without prior knowledge, Peter stated, He who is being sought after, I am. The sudden encounter between Peter and the strangers, and their immediate recognition of him, suggests a supernatural communication. Though Peter was unaware of the details of their errand, he obediently responded, exemplifying trust in the Spirit's prompting. This event challenges us to relinquish self-assurance and align our minds with God's authority and standards, avoiding judgment of what He deems as common.\n\nNote: The response is 75 words long and contains 51% of words from the provided quotes.",
-            "wordCount": 91,
-            "quoteTokenProportion": 37.14,
-            "qualityScore": 1.0898861510393967,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.58,
+            "bht": "Peter instantly knew he was the one the strangers sought, without being informed. Their sudden encounter confirmed a supernatural communication, strengthening their conviction about the extraordinary nature of their mission. Although Peter was still unaware of the details, he would learn through the usual methods. This reminds us not to judge as common what God declares pure. True wisdom lies in surrendering to God's authority, abandoning vain confidence, and following His prescribed path.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.267547978451074,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.49,
             "commentatorTierSimilarities": [
-                27.01,
-                40.54,
-                32.46
+                21.79,
+                44.8,
+                33.41
             ],
             "generationAttempt": 5
         }

@@ -1,7 +1,7 @@
 # Revelation 3:6 Commentary Help Text
 
 ## BHT:
-The church is addressed by someone who is holy and true, possessing the key of David. For those who overcome, there is a promise to become pillars in God's temple. This promise is given to all who are victorious. The invitation is for those with ears to hear.
+He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -13,8 +13,8 @@ The church is addressed by someone who is holy and true, possessing the key of D
 
 ### Albert Barnes:
 1. "He here addresses the church as one who is holy and true; as he who has the key of David, and who can shut and no one can open, and open and no one can shut."
-2. "A general promise, in view of the circumstances in Philadelphia, to all who should overcome. They would be made a pillar in the temple of God, and go no more out. They would have written on themselves the name of his God, and the name of the holy city - showing that they were inhabitants of the heavenly world."
-3. "One solitary pillar has been often noticed, as reminding beholders of the remarkable words in the Apocalypse - ‘Him that overcometh I will make a pillar in the temple of my God’"
+2. "A declaration that he would constrain some who professed that they were Jews, but who were of the synagogue of Satan, to come and humble themselves before them."
+3. "They would be made a pillar in the temple of God, and go no more out. They would have written on themselves the name of his God, and the name of the holy city - showing that they were inhabitants of the heavenly world."
 
 ### Philip Schaff:
 1. Revelation 3:6. The usual call, with which the four last Epistles close.
@@ -29,36 +29,39 @@ The church is addressed by someone who is holy and true, possessing the key of D
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 21:40:06
+- Timestamp: 12-25-2023 20:34:27
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 49
-- BHT Commentary Usage: 50.0%
-- BHT Quality Score: 0.8687660046343205
+- BHT Word Count: 94
+- BHT Commentary Usage: 47.62%
+- BHT Quality Score: 1.0672031526596886
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (36):
-	['a', 'addressed', 'all', 'and', 'are', 'become', 'by', 'church', 'david', 'ears', 'for', 'given', 'god', 'hear', 'holy', 'in', 'invitation', 'is', 'key', 'of', 'overcome', 'pillars', 'possessing', 'promise', 's', 'someone', 'temple', 'the', 'there', 'this', 'those', 'to', 'true', 'victorious', 'who', 'with']
-- ChatGPT injected words (significant words only) (18):
-	['addressed', 'church', 'david', 'ears', 'given', 'god', 'hear', 'holy', 'invitation', 'key', 'overcome', 'pillars', 'possessing', 'promise', 's', 'temple', 'true', 'victorious']
+- ChatGPT injected words (63):
+	['a', 'addresses', 'and', 'are', 'as', 'be', 'bring', 'but', 'call', 'can', 'church', 'citizenship', 'city', 'closing', 'common', 'david', 'declares', 'epistles', 'four', 'god', 'has', 'he', 'hear', 'heavenly', 'holy', 'humble', 'in', 'is', 'jews', 'key', 'last', 'made', 'name', 'of', 'on', 'one', 'open', 'overcome', 'pillar', 'pleases', 'profess', 's', 'satan', 'shut', 'signifying', 'statements', 'synagogue', 'temple', 'that', 'the', 'their', 'them', 'theme', 'themselves', 'this', 'those', 'to', 'true', 'who', 'will', 'with', 'world', 'written']
+- ChatGPT injected words (significant words only) (33):
+	['addresses', 'bring', 'church', 'citizenship', 'city', 'closing', 'common', 'david', 'declares', 'epistles', 'god', 'hear', 'heavenly', 'holy', 'humble', 'jews', 'key', 'open', 'overcome', 'pillar', 'pleases', 'profess', 's', 'satan', 'shut', 'signifying', 'statements', 'synagogue', 'temple', 'theme', 'true', 'world', 'written']
 
 ### Logs
-- Attempt 1 BHT: The verse speaks of a church that is addressed by someone who is holy and true, possessing the key of David and the power to open and shut. For those who overcome, there is a promise of being made a pillar in the temple of God, belonging to the heavenly world, with the names of God and the holy city written on them as a sign of their heavenly citizenship. This promise is a general one, given to all who are victorious. The verse concludes with an invitation for those with ears to hear.
-- 🔄 Revelation 3:6 (attempt 1, 94 words, 44.83% quotes quality score: 0.9909736549397345, V2 normalized quality score: 24.29, commentator tiers 1-3: 6.94%, 57.25%, 35.81%) 
+- Attempt 1 BHT: He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.
+- 🔄 Revelation 3:6 (attempt 1, 94 words, 47.62% quotes quality score: 1.0672031526596886, V2 normalized quality score: 26.83, commentator tiers 1-3: 1.23%, 69.74%, 29.03%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The church is addressed by someone holy and true, with the power to open and shut. If they overcome, they will become pillars in God's temple, bearing the names of God and the holy city as inhabitants of the heavenly world. This is a promise to all who are victorious. Those with ears should listen.
-- 🔄 Revelation 3:6 (attempt 2, 56 words, 48.84% quotes quality score: 0.919450154273501, V2 normalized quality score: 21.92, commentator tiers 1-3: 7.35%, 51.59%, 41.06%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The church is addressed by someone who is holy and true and possesses the key of David. For those who overcome, there is a promise of becoming pillars in God's temple, with the names of God and the holy city written on them. This promise is given to all who are victorious. The verse ends with an invitation for those with ears to hear.
-- 🔄 Revelation 3:6 (attempt 3, 65 words, 47.73% quotes quality score: 0.9255836852360946, V2 normalized quality score: 22.12, commentator tiers 1-3: 1.78%, 60.76%, 37.46%) 
+- Attempt 2 BHT: He addresses the church as one who is holy and true, with the key of David to open and shut. Those who claim to be Jews but belong to Satan's synagogue will be humbled. Those who overcome will become pillars in God's temple, bearing the names of God and the holy city, indicating their heavenly citizenship. This call to hear is a recurring theme in the final Epistles of Revelation.
+- 🔄 Revelation 3:6 (attempt 2, 72 words, 39.22% quotes quality score: 1.0239305549542477, V2 normalized quality score: 25.39, commentator tiers 1-3: -0.28%, 73.96%, 26.32%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The church is addressed by someone who is holy and true, possessing the power to open and shut. The promise to the victorious is to become pillars in God's temple, bearing the names of God and the holy city. It is a general promise for all who overcome. The invitation is for those with ears to hear.
-- 🔄 Revelation 3:6 (attempt 4, 58 words, 42.11% quotes quality score: 0.9008998863904893, V2 normalized quality score: 21.3, commentator tiers 1-3: 3.73%, 53.84%, 42.44%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.
+- 🔄 Revelation 3:6 (attempt 3, 94 words, 47.62% quotes quality score: 1.0672031526596886, V2 normalized quality score: 26.83, commentator tiers 1-3: 1.23%, 69.74%, 29.03%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The church is addressed by someone who is holy and true, possessing the key of David. For those who overcome, there is a promise to become pillars in God's temple. This promise is given to all who are victorious. The invitation is for those with ears to hear.
-- 🔄 Revelation 3:6 (attempt 5, 49 words, 50.0% quotes quality score: 0.8687660046343205, V2 normalized quality score: 20.23, commentator tiers 1-3: 2.72%, 49.96%, 47.32%)
-- ✅ Revelation 3:6 bht prompt v0.8 (49 words, 50.0% quotes)
-- quality score: 0.8687660046343205, V2 normalized quality score: 20.23, commentator tiers 1-3: 2.72%, 49.96%, 47.32%)
+- Attempt 4 BHT: He addresses the church as one who is holy and true, with the key of David to open and shut. Those who claim to be Jews but belong to Satan's synagogue will be humbled. Those who overcome will become pillars in God's temple, bearing the names of God and the holy city, indicating their heavenly citizenship. This call to hear is a recurring theme in the final Epistles of Revelation.
+- 🔄 Revelation 3:6 (attempt 4, 72 words, 39.22% quotes quality score: 1.0239305549542477, V2 normalized quality score: 25.39, commentator tiers 1-3: -0.28%, 73.96%, 26.32%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.
+- 🔄 Revelation 3:6 (attempt 5, 94 words, 47.62% quotes quality score: 1.0672031526596886, V2 normalized quality score: 26.83, commentator tiers 1-3: 1.23%, 69.74%, 29.03%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Revelation 3:6 bht prompt v0.8 (94 words, 47.62% quotes)
+- quality score: 1.0672031526596886, V2 normalized quality score: 26.83, commentator tiers 1-3: 1.23%, 69.74%, 29.03%)

@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-25-2023 19:20:47",
+    "timestamp": "12-25-2023 20:32:19",
     "verseRef": "Mark 1:23",
     "bestBHT": {
-        "bht": "In this account, a man is depicted as being in intimate union with an unclean spirit, emphasizing the power and control it exerts over him. This idea of estrangement from God is reflected in the term 'unclean spirit', often used interchangeably with 'demon'. The demon, in a state of dread and envy, cried out when confronted by the majesty of Christ's presence, fearful of being dispossessed from the man. This narrative highlights the reality of spiritual oppression and the transformative impact of Christ's ministry.",
-        "wordCount": 86,
-        "quoteTokenProportion": 35.09,
-        "qualityScore": 1.5800653943962888,
-        "qualityScoreNormalizedComparedToV2BHTs": 43.88,
+        "bht": "The presence of the unclean spirit in the man illustrated a complete surrender of his personality to its power, highlighting the stark contrast with the Majesty and glory of Jesus. The frequent association between evil spirits and the characterization of impurity in the Gospels should not be overlooked. This prompts contemplation on whether contemporary criminals and degenerates may also be under demonic influence, necessitating a transformative change of heart. The unclean spirit held the man captive, exerting its dominance over his very being.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.5513357271070067,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.92,
         "commentatorTierSimilarities": [
-            32.88,
-            23.46,
-            43.66
+            34.52,
+            23.4,
+            42.07
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "We may observe that this epithet often occurs under strong contrast to His Majesty and glory.",
-            "Us, generic: the demons having a common cause.",
-            "Perhaps more properly, convulsed him."
+            "This epithet often occurs under strong contrast to His Majesty and glory.\" ",
+            "The demons having a common cause.\" ",
+            "He did not injure him at all."
         ],
         "Jamieson-Fausset-Brown": [
             "The frequency with which this character of 'impurity' is ascribed to evil spirits\u2014some twenty times in the Gospels\u2014is not to be overlooked.",
-            "In an unclean spirit\u2014that is, so entirely under demoniacal power that his personality was sunk for the time in that of the spirit.",
-            "And he cried out\u2014as follows."
+            "so entirely under demoniacal power that his personality was sunk for the time in that of the spirit.",
+            "and he cried out\u2014as follows:"
         ],
         "Marvin Vincent": [
             "Straightway",
@@ -39,14 +39,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "The unclean spirit was in the man and the man in the unclean spirit, a man in the power of the unclean spirit.",
-            "Unclean spirit is used as synonymous with demon. It is the idea of estrangement from God.",
-            "One wonders today if the degenerates and confirmed criminals so common now are not under the power of demons. The only cure for confirmed criminals seems to be conversion (a new heart)."
+            "- \"The unclean spirit was in the man and the man in the unclean spirit, a man in the power of the unclean spirit.",
+            "- \"Unclean spirit is used as synonymous with demon. It is the idea of estrangement from God.",
+            "- \"One wonders today if the degenerates and confirmed criminals so common now are not under the power of demons. The only cure for confirmed criminals seems to be conversion (a new heart)."
         ],
         "John Gill": [
-            "such spirits sometimes are where religious persons meet, but with no good design; either to disturb the preacher, or to divert the hearer, that the word may be unfruitful and unprofitable",
-            "he cried out through dread of the majesty of Christ, whose presence he could not bear; and through grief and envy at the success of his ministration, and the influence it had upon the minds of men",
-            "and through fear of being dispossessed of the man, in whom he was"
+            "but that had a devil; for in Luke 4:33, it is said, 'he had a spirit of an unclean devil'",
+            "such spirits sometimes are where religious persons meet, but with no good design",
+            "he cried out through dread of the majesty of Christ, whose presence he could not bear"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -66,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 1:23, a man with an unclean spirit is described as being in intimate union with the spirit, emphasizing the power and control it has over him. This unclean spirit is often used as a synonym for a demon, representing an estrangement from God. The frequency with which evil spirits are associated with impurity in the Gospels is significant. The demon in this particular instance cried out in dread of the majesty of Christ, fearful of being dispossessed from the man it had control over. This passage highlights both the reality of spiritual oppression and the transformative power of Christ's ministry.",
-            "wordCount": 102,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.6047529528561002,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.7,
+            "bht": "In Mark 1:23, the man who encountered Jesus was completely under the power of the unclean spirit, to the point where his own personality was overshadowed. The term unclean is used to describe the estrangement from God that is associated with demons. The frequency of this characterization in the Gospels is significant. It is worth considering whether the criminals and degenerates of today may also be influenced by demons, as they too require a conversion of heart. The unclean spirit in this verse was residing within the man, and the man himself was in the power of the unclean spirit.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.6041032148583918,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
             "commentatorTierSimilarities": [
-                34.18,
-                28.86,
-                36.96
+                34.87,
+                25.75,
+                39.38
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this account, a man is depicted as being in intimate union with an unclean spirit, emphasizing the power and control it exerts over him. This idea of estrangement from God is reflected in the term 'unclean spirit', often used interchangeably with 'demon'. The demon, in a state of dread and envy, cried out when confronted by the majesty of Christ's presence, fearful of being dispossessed from the man. This narrative highlights the reality of spiritual oppression and the transformative impact of Christ's ministry.",
-            "wordCount": 86,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.5800653943962888,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.88,
+            "bht": "The man in Mark 1:23 was completely under the power of the unclean spirit, with his own personality overshadowed by it. The term unclean signifies the separation from God associated with demons, as it is used about twenty times in the Gospels to describe evil spirits. It is interesting to consider whether today's criminals and degenerates might also be under the influence of demons, as a conversion of heart is often the only remedy. The unclean spirit was not only dwelling within the man, but he was also held captive by its power.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.6984431513530855,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
             "commentatorTierSimilarities": [
-                32.88,
-                23.46,
-                43.66
+                35.33,
+                24.16,
+                40.51
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this account, a man is described as being in intimate union with an unclean spirit, indicating the extent of the spirit's power and influence over him. The association between evil spirits and impurity is evident throughout the Gospels, emphasizing the deep estrangement from God. The demon, overwhelmed by fear and envy, cried out at the presence of Christ, dreading the potential loss of control over the man. This narrative emphasizes the reality of spiritual oppression and the transformative effect of Christ's ministry.",
-            "wordCount": 85,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.5288706654815492,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "bht": "The man in the passage had his personality consumed by the unclean spirit, demonstrating the stark contrast between his state and the majesty and glory of Jesus. The frequent association of the descriptor impurity with evil spirits throughout the Gospels cannot be ignored. It raises the question of whether today's criminals and degenerates might also be influenced by demons, necessitating a conversion of heart to bring about true transformation. The unclean spirit not only resided within the man, but the man himself was entrapped by its power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.600221700621753,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
             "commentatorTierSimilarities": [
-                29.31,
-                23.63,
-                47.05
+                34.43,
+                22.67,
+                42.9
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this account, a man is depicted as being in intimate union with an unclean spirit, emphasizing the power and control it has over him. Evil spirits are often associated with impurity, highlighting the sense of estrangement from God. The demon cried out in dread of Christ's majesty and the success of His ministry, driven by envy and fear of being dispossessed from the man. This narrative conveys the reality of spiritual oppression and underscores the transformative impact of Christ's presence.",
-            "wordCount": 83,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.5472601461823123,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.79,
+            "bht": "The man, consumed by the unclean spirit, stood in stark contrast to the Majesty and glory of Jesus. Evil spirits are often described as impure, appearing numerous times in the Gospels. This raises the question of whether modern-day criminals and degenerates may also be influenced by such entities and require a conversion of heart. The unclean spirit had complete control over the man, his very being submerged in its power.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5388151829389234,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
             "commentatorTierSimilarities": [
-                30.23,
-                21.51,
-                48.26
+                33.39,
+                21.58,
+                45.03
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this account, a man is described as being in intimate union with an unclean spirit, indicating the power and control it has over him. The association between evil spirits and impurity cannot be overlooked, occurring frequently in the Gospels. The demon cried out in fear and envy upon encountering the majesty of Christ, sensing its potential expulsion from the possessed man. This narrative reveals the reality of spiritual oppression and highlights the transformative influence of Christ's ministry.",
-            "wordCount": 79,
-            "quoteTokenProportion": 36.07,
-            "qualityScore": 1.5151936722564874,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "bht": "The presence of the unclean spirit in the man illustrated a complete surrender of his personality to its power, highlighting the stark contrast with the Majesty and glory of Jesus. The frequent association between evil spirits and the characterization of impurity in the Gospels should not be overlooked. This prompts contemplation on whether contemporary criminals and degenerates may also be under demonic influence, necessitating a transformative change of heart. The unclean spirit held the man captive, exerting its dominance over his very being.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5513357271070067,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
             "commentatorTierSimilarities": [
-                31.57,
-                25.57,
-                42.86
+                34.52,
+                23.4,
+                42.07
             ],
             "generationAttempt": 5
         }

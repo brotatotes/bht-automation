@@ -1,33 +1,33 @@
 # Hebrews 11:36 Commentary Help Text
 
 ## BHT:
-In this description of others who faced trials and testing, it is mentioned that they endured cruel mockings, scourgings, bonds, and imprisonment. These experiences were not merely physical, but also served as a test of their character and endurance. Their ability to patiently endure and remain steadfast in the face of adversity showcased their unwavering commitment to their beliefs.
+These believers endured trials and testing, facing imprisonment and enduring cruel mockings and scourgings. Their faith was put to the test, and yet they persevered with great patience. The unique term mockings is used to describe the hardships they faced, while scourgings refers to the physical punishments they endured. Despite these trials, they remained committed to their faith, displaying a steadfastness that serves as an example for future believers.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "others—of a different class of confessors for the truth" 
-2. "trial—testing their faith." 
-3. "imprisonment—as Hanani (2 Chronicles 16:10), imprisoned by Asa. Micaiah, the son of Imlah, by Ahab (1 Kings 22:26; 1 Kings 22:27)."
+1. "others—of a different class of confessors for the truth"
+2. "trial—testing their faith"
+3. "imprisonment—as Hanani, imprisoned by Asa. Micaiah, the son of Imlah, by Ahab"
 
 ### Albert Barnes:
-1. "And others had trial of cruel mockings - Referring to the scorn and derision which the ancient victims of persecution experienced."
-2. "And scourging - Whipping. This was a common mode of punishment, and was usually inflicted before a martyr was put to death."
+1. "And others had trial of cruel mockings." 
+2. "And scourging - Whipping."
 3. "And imprisonment."
 
 ### Philip Schaff:
-1. "Others had trial (experience) of cruel mockings and scourgings."
+1. "Others had trial (experience) of cruel mockings and scourgings." 
 2. "Yea, moreover (a harder thing, because of the continuance and depressing influence of it), of bends of imprisonment."
 3. "Perhaps with reference to Jonathan, or to Hanani, Micaiah, and especially to Jeremiah."
 
 ### Archibald T. Robertson:
-1. "εμπαιγμων κα μαστιγων. Εμπαιγμος is from εμπαιζω (Matthew 20:19), late word, in LXX, here alone in N.T." 
-2. "Μαστιγων (μαστιξ, a whip, a scourge) is old and common enough (Acts 22:24)."
-3. "εμπαιγμων κα μαστιγων"
+1. "Of mockings and scourgings." 
+2. "Εμπαιγμος is from εμπαιζω (Matthew 20:19), late word, in LXX, here alone in N.T."
+3. "Μαστιγων (μαστιξ, a whip, a scourge) is old and common enough (Acts 22:24)."
 
 ### John Gill:
-1. "And others had trial of cruel mockings..." (Hebrews 11:36) 
-2. "yea, moreover of bonds and imprisonment..." (Hebrews 11:36)
-3. "Now of these things they had trial, or experience; their graces were tried by them, and they patiently endured them."
+1. "And others had trial of cruel mockings."
+2. "Now of these things they had trial, or experience; their graces were tried by them, and they patiently endured them."
+3. "Their graces were tried by them, and they patiently endured them."
 
 ### John Wesley:
 1. And others — The apostle seems here to pass on to recent examples.
@@ -36,38 +36,36 @@ In this description of others who faced trials and testing, it is mentioned that
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:50:23
+- Timestamp: 12-25-2023 20:34:29
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 59
-- BHT Commentary Usage: 40.82%
-- BHT Quality Score: 1.011993130217631
+- BHT Word Count: 69
+- BHT Commentary Usage: 36.73%
+- BHT Quality Score: 1.159821575980379
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (49):
-	['a', 'ability', 'adversity', 'also', 'and', 'as', 'beliefs', 'bonds', 'but', 'character', 'commitment', 'cruel', 'description', 'endurance', 'endure', 'endured', 'experiences', 'face', 'faced', 'imprisonment', 'in', 'is', 'it', 'mentioned', 'merely', 'mockings', 'not', 'of', 'others', 'patiently', 'physical', 'remain', 'scourgings', 'served', 'showcased', 'steadfast', 'test', 'testing', 'that', 'the', 'their', 'these', 'they', 'this', 'to', 'trials', 'unwavering', 'were', 'who']
-- ChatGPT injected words (significant words only) (29):
-	['ability', 'adversity', 'beliefs', 'bonds', 'character', 'commitment', 'cruel', 'description', 'endurance', 'endure', 'endured', 'experiences', 'face', 'faced', 'imprisonment', 'mentioned', 'merely', 'mockings', 'patiently', 'physical', 'remain', 'scourgings', 'served', 'showcased', 'steadfast', 'test', 'testing', 'trials', 'unwavering']
+	['a', 'an', 'and', 'as', 'believers', 'committed', 'cruel', 'describe', 'despite', 'displaying', 'endured', 'enduring', 'example', 'faced', 'facing', 'faith', 'for', 'future', 'great', 'hardships', 'imprisonment', 'is', 'mockings', 'patience', 'persevered', 'physical', 'punishments', 'put', 'refers', 'remained', 'scourgings', 'serves', 'steadfastness', 'term', 'test', 'testing', 'that', 'the', 'their', 'these', 'they', 'to', 'trials', 'unique', 'used', 'was', 'while', 'with', 'yet']
+- ChatGPT injected words (significant words only) (31):
+	['believers', 'committed', 'cruel', 'describe', 'despite', 'displaying', 'endured', 'enduring', 'example', 'faced', 'facing', 'faith', 'future', 'great', 'hardships', 'imprisonment', 'mockings', 'patience', 'persevered', 'physical', 'punishments', 'refers', 'remained', 'scourgings', 'serves', 'steadfastness', 'term', 'test', 'testing', 'trials', 'unique']
 
 ### Logs
-- Attempt 1 BHT: In Hebrews 11:36, the verse speaks about a different class of confessors for the truth who experienced trials testing their faith, including cruel mockings and scourgings, as well as bonds and imprisonment. These trials were not only physical but also a testing of their character and endurance. The mention of these experiences highlights their perseverance and commitment to their beliefs, as they patiently endured and remained steadfast in the face of adversity.
-- 🔄 Hebrews 11:36 (attempt 1, 71 words, 37.25% quotes quality score: 1.1100244109223216, V2 normalized quality score: 28.25, commentator tiers 1-3: 13.73%, 38.46%, 47.81%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this passage, it is mentioned that there were others who endured trials and testing of their faith, which included cruel mockings, scourgings, bonds, and imprisonment. These experiences were not only physical in nature but also served to test their character and endurance. These individuals demonstrated great perseverance and commitment to their beliefs as they patiently endured and remained steadfast in the face of adversity.
-- 🔄 Hebrews 11:36 (attempt 2, 65 words, 42.31% quotes quality score: 1.0560003492910537, V2 normalized quality score: 26.46, commentator tiers 1-3: 7.42%, 44.88%, 47.69%) 
+- Attempt 1 BHT: These believers endured trials and testing for the truth. They faced imprisonment like Hanani and Micaiah, and were subjected to mocking and scourgings, experiences that tested their faith. The term mockings is a unique word found only in this passage, while scourgings is a common term for whipping. These trials challenged their faith, but these believers patiently endured, demonstrating their steadfastness and commitment to the truth. They followed in the footsteps of those who had come before them, enduring for the sake of their faith.
+- 🔄 Hebrews 11:36 (attempt 1, 85 words, 39.29% quotes quality score: 1.154469322687222, V2 normalized quality score: 29.73, commentator tiers 1-3: 26.05%, 23.83%, 50.12%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: In this description of others who faced trials and testing, it is mentioned that they endured cruel mockings, scourgings, bonds, and imprisonment. These experiences were not merely physical, but also served as a test of their character and endurance. Their ability to patiently endure and remain steadfast in the face of adversity showcased their unwavering commitment to their beliefs.
-- 🔄 Hebrews 11:36 (attempt 3, 59 words, 40.82% quotes quality score: 1.011993130217631, V2 normalized quality score: 24.99, commentator tiers 1-3: 4.98%, 51.17%, 43.85%) 
+- Attempt 2 BHT: These believers endured trials and testing, facing imprisonment and enduring cruel mockings and scourgings. Their faith was put to the test, and yet they persevered with great patience. The unique term mockings is used to describe the hardships they faced, while scourgings refers to the physical punishments they endured. Despite these trials, they remained committed to their faith, displaying a steadfastness that serves as an example for future believers.
+- 🔄 Hebrews 11:36 (attempt 2, 69 words, 36.73% quotes quality score: 1.159821575980379, V2 normalized quality score: 29.91, commentator tiers 1-3: 19.85%, 30.41%, 49.74%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In Hebrews, there were others who endured trials testing their faith, including cruel mockings and scourgings, bonds, and imprisonment. These experiences served as both physical and character tests, revealing their endurance and unwavering commitment to their beliefs. Through patiently enduring these adversities, they exemplified their steadfastness and dedication in the face of challenges.
-- 🔄 Hebrews 11:36 (attempt 4, 53 words, 34.09% quotes quality score: 1.086868713712918, V2 normalized quality score: 27.48, commentator tiers 1-3: 8.21%, 43.44%, 48.35%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: In this context, there were individuals who faced trials that tested their faith, enduring cruel mockings, scourgings, bonds, and imprisonment. These experiences served as both physical and character trials, revealing their endurance and unwavering commitment to their beliefs. Through their patient endurance, they demonstrated steadfastness and dedication in the midst of challenges.
-- 🔄 Hebrews 11:36 (attempt 5, 52 words, 37.21% quotes quality score: 1.0064629432241432, V2 normalized quality score: 24.81, commentator tiers 1-3: 4.06%, 50.26%, 45.68%) 
+- Attempt 3 BHT: These believers encountered various trials and testing, including imprisonment and enduring both cruel mockings and scourgings. The unique term mockings, along with the common term scourgings, highlights the challenges they faced for their faith. Yet, they displayed great patience and perseverance, enduring these hardships with steadfastness. These examples serve to inspire and encourage others to remain committed to their faith in the face of adversity.
+- 🔄 Hebrews 11:36 (attempt 3, 65 words, 32.61% quotes quality score: 1.109017151647147, V2 normalized quality score: 28.22, commentator tiers 1-3: 19.75%, 31.86%, 48.39%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Hebrews 11:36 bht prompt v0.8 (59 words, 40.82% quotes)
-- quality score: 1.011993130217631, V2 normalized quality score: 24.99, commentator tiers 1-3: 4.98%, 51.17%, 43.85%)
+- Attempt 4 BHT: These believers faced trials of imprisonment, cruel mockings, and scourgings. Their faith was tested, but they patiently endured these challenges. The term mockings is a unique word used to describe the hardships they experienced, while scourgings refers to the physical punishment they endured. Through their endurance, they demonstrated their unwavering commitment to the truth. Their examples serve as a reminder for us to remain steadfast in our faith, even in the face of trials and tribulations.
+- 🔄 Hebrews 11:36 (attempt 4, 76 words, 37.74% quotes quality score: 1.124297815598839, V2 normalized quality score: 28.73, commentator tiers 1-3: 18.79%, 29.43%, 51.78%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: These believers endured trials and testing, facing imprisonment, cruel mockings, and scourgings. Their faith was put to the test, yet they patiently endured these challenges. The term mockings is a unique word used to describe the hardships they faced, while scourgings refers to the physical punishments they endured. Through their steadfastness, they serve as an example for future believers, demonstrating the importance of remaining committed to their faith, even in the midst of suffering.
+- 🔄 Hebrews 11:36 (attempt 5, 74 words, 38.46% quotes quality score: 1.1552582805698581, V2 normalized quality score: 29.76, commentator tiers 1-3: 17.3%, 29.42%, 53.28%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Hebrews 11:36 bht prompt v0.8 (69 words, 36.73% quotes)
+- quality score: 1.159821575980379, V2 normalized quality score: 29.91, commentator tiers 1-3: 19.85%, 30.41%, 49.74%)

@@ -1,7 +1,7 @@
 # Mark 10:2 Commentary Help Text
 
 ## BHT:
-The Pharisees, once again, approached Jesus in Galilee, not with good intentions, but to test and tempt him. Their motives were evil, for they sought to expose any inconsistency in Jesus' teachings. Perhaps they hoped that Jesus would be stricter than what Moses taught, or maybe they wanted to see if he would differ from Herod's law on divorce. Nonetheless, their purpose was not to seek instruction but to ensnare him. This dangerous topic of divorce, which was also discussed in Matthew's account, had the potential to disturb the territory of Herod, the husband of Herodias.
+The Pharisees, with their evil motives, came to Jesus not to be instructed but to ensnare him. Their purpose was to tempt him by engaging in a discussion about divorce, possibly in order to accuse him or to see if he would be stricter than Moses had taught. They were well aware that Jesus had already spoken on this subject in Galilee. However, Jesus responded firmly and unwaveringly to their attempts to entangle him and expose him as an inconsistent preacher.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -14,14 +14,14 @@ The Pharisees, once again, approached Jesus in Galilee, not with good intentions
 
 
 ### Archibald T. Robertson:
-1. "As soon as Jesus appears in Galilee the Pharisees attack him again."
-2. "The word means either [tempting or testing], but their motive was evil."
-3. "They may have some such hopes about Jesus, or their purpose may have been to see if Jesus will be stricter than Moses taught."
+1. "The word means either (see on Matthew 4:1), but their motive was evil."
+2. "They may have some such hopes about Jesus, or their purpose may have been to see if Jesus will be stricter than Moses taught."
+3. "They knew that he had already spoken in Galilee on the subject (Matthew 5:31)."
 
 ### John Gill:
-1. "not to be instructed by him, but to ensnare him"
-2. "tempting him; trying to entangle him"
-3. "expose him as an inconsistent preacher"
+1. "Pharisees came unto him... not to be instructed by him, but to ensnare him."
+2. "A divorce might be lawfully made for a cause, or reason, namely, adultery, but not for any, or every cause."
+3. "Trying to entangle him by opposing the authority of Moses, should he deny the lawfulness of divorces, or by objecting his former doctrine... and so expose him as an inconsistent preacher."
 
 ### John Wesley:
 1.  Matthew 5:31; Matthew 19:7; Luke 16:18.
@@ -30,38 +30,35 @@ The Pharisees, once again, approached Jesus in Galilee, not with good intentions
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:25:38
+- Timestamp: 12-25-2023 20:32:37
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 45.21%
-- BHT Quality Score: 1.4241556084426055
+- BHT Word Count: 81
+- BHT Commentary Usage: 50.82%
+- BHT Quality Score: 1.5243588224369402
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (73):
-	['account', 'again', 'also', 'and', 'any', 'approached', 'be', 'but', 'dangerous', 'differ', 'discussed', 'disturb', 'divorce', 'ensnare', 'evil', 'expose', 'for', 'from', 'galilee', 'good', 'had', 'he', 'herod', 'herodias', 'him', 'hoped', 'husband', 'if', 'in', 'inconsistency', 'instruction', 'intentions', 'jesus', 'law', 'matthew', 'maybe', 'moses', 'motives', 'nonetheless', 'not', 'of', 'on', 'once', 'or', 'perhaps', 'pharisees', 'potential', 'purpose', 's', 'see', 'seek', 'sought', 'stricter', 'taught', 'teachings', 'tempt', 'territory', 'test', 'than', 'that', 'the', 'their', 'they', 'this', 'to', 'topic', 'wanted', 'was', 'were', 'what', 'which', 'with', 'would']
-- ChatGPT injected words (significant words only) (40):
-	['account', 'approached', 'dangerous', 'differ', 'discussed', 'disturb', 'divorce', 'ensnare', 'evil', 'expose', 'galilee', 'good', 'herod', 'herodias', 'hoped', 'husband', 'inconsistency', 'instruction', 'intentions', 'jesus', 'law', 'matthew', 'maybe', 'moses', 'motives', 'nonetheless', 'pharisees', 'potential', 'purpose', 's', 'seek', 'sought', 'stricter', 'taught', 'teachings', 'tempt', 'territory', 'test', 'topic', 'wanted']
+- ChatGPT injected words (61):
+	['a', 'about', 'accuse', 'already', 'an', 'and', 'as', 'attempts', 'aware', 'be', 'but', 'by', 'came', 'discussion', 'divorce', 'engaging', 'ensnare', 'entangle', 'evil', 'expose', 'firmly', 'galilee', 'had', 'he', 'him', 'however', 'if', 'in', 'inconsistent', 'instructed', 'jesus', 'moses', 'motives', 'not', 'on', 'or', 'order', 'pharisees', 'possibly', 'preacher', 'purpose', 'responded', 'see', 'spoken', 'stricter', 'subject', 'taught', 'tempt', 'than', 'that', 'the', 'their', 'they', 'this', 'to', 'unwaveringly', 'was', 'well', 'were', 'with', 'would']
+- ChatGPT injected words (significant words only) (30):
+	['accuse', 'attempts', 'aware', 'came', 'discussion', 'divorce', 'engaging', 'ensnare', 'entangle', 'evil', 'expose', 'firmly', 'galilee', 'inconsistent', 'instructed', 'jesus', 'moses', 'motives', 'order', 'pharisees', 'possibly', 'preacher', 'purpose', 'responded', 'spoken', 'stricter', 'subject', 'taught', 'tempt', 'unwaveringly']
 
 ### Logs
-- Attempt 1 BHT: The Pharisees, once again, approached Jesus in Galilee, not with good intentions, but to test and tempt him. Their motives were evil, for they sought to expose any inconsistency in Jesus' teachings. Perhaps they hoped that Jesus would be stricter than what Moses taught, or maybe they wanted to see if he would differ from Herod's law on divorce. Nonetheless, their purpose was not to seek instruction but to ensnare him. This dangerous topic of divorce, which was also discussed in Matthew's account, had the potential to disturb the territory of Herod, the husband of Herodias.
-- 🔄 Mark 10:2 (attempt 1, 98 words, 45.21% quotes quality score: 1.4241556084426055, V2 normalized quality score: 38.7, commentator tiers 1-3: 43.55%, 24.79%, 31.66%) 
+- Attempt 1 BHT: The Pharisees came to Jesus not to be instructed, but to ensnare him. They sought to tempt him by discussing the topic of divorce, a dangerous subject in the territory of Herod, the husband of Herodias. Perhaps they had hopes of finding a way to accuse Jesus or to see if he would be stricter than Moses had taught. They were aware that Jesus had already spoken on this subject before in Galilee. It is clear that their motive was evil, as they sought to entangle him and expose him as an inconsistent preacher. However, they were met with a firm and unwavering response from Jesus.
+- 🔄 Mark 10:2 (attempt 1, 106 words, 48.61% quotes quality score: 1.3707802986964368, V2 normalized quality score: 36.92, commentator tiers 1-3: 42.86%, 21.45%, 35.68%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The Pharisees, once again, approached Jesus, not with good intentions, but to test and tempt him. Their motives were evil, for they sought to expose any inconsistency in Jesus' teachings. Perhaps they hoped that Jesus would be stricter than what Moses taught, or maybe they wanted to see if he would differ from Herod's law on divorce. Nonetheless, their purpose was not to seek instruction but to ensnare him. This dangerous topic had the potential to disturb the territory of Herod, the husband of Herodias.
-- 🔄 Mark 10:2 (attempt 2, 86 words, 46.27% quotes quality score: 1.3610588090629343, V2 normalized quality score: 36.6, commentator tiers 1-3: 43.11%, 24.44%, 32.45%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: The Pharisees came to Jesus not to be instructed, but to ensnare him. They sought to tempt him by discussing divorce, perhaps hoping to accuse him or to see if he would be stricter than Moses had taught. Aware that Jesus had already spoken on this subject in Galilee, they tried to entangle him and expose him as an inconsistent preacher. However, Jesus responded firmly and unwaveringly to their evil motives.
+- 🔄 Mark 10:2 (attempt 2, 71 words, 48.15% quotes quality score: 1.4658861627308912, V2 normalized quality score: 40.08, commentator tiers 1-3: 42.15%, 17.42%, 40.43%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The Pharisees, in their continuous attempts to challenge Jesus, approached him with malicious intentions. Their purpose was not to seek guidance or instruction but to test and ensnare him. They wanted to prove him inconsistent or stricter than Moses taught on the topic of divorce. This dangerous subject could potentially disturb the territory of Herod, husband of Herodias. Mark's account omits the specific phrase for every cause, but the overall discussion revolves around the contentious issue of divorce.
-- 🔄 Mark 10:2 (attempt 3, 79 words, 32.26% quotes quality score: 1.1670622950095955, V2 normalized quality score: 30.15, commentator tiers 1-3: 31.05%, 37.14%, 31.81%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The Pharisees, in their persistent efforts, came to Jesus once again with deceitful intentions. Their aim was to test and trap him, seeking to exploit any inconsistency in his teachings. Their motives were not to seek instruction but to entangle him. The contentious topic of divorce was at the forefront of their minds, perhaps hoping to challenge Jesus' stance against Moses' teachings. This could potentially have consequences in the territory of Herod, who was married to Herodias.
-- 🔄 Mark 10:2 (attempt 4, 77 words, 41.07% quotes quality score: 1.2406416812821406, V2 normalized quality score: 32.59, commentator tiers 1-3: 42.75%, 22.9%, 34.35%) 
+- Attempt 3 BHT: The Pharisees, with their evil motives, came to Jesus not to be instructed but to ensnare him. Their purpose was to tempt him by engaging in a discussion about divorce, possibly in order to accuse him or to see if he would be stricter than Moses had taught. They were well aware that Jesus had already spoken on this subject in Galilee. However, Jesus responded firmly and unwaveringly to their attempts to entangle him and expose him as an inconsistent preacher.
+- 🔄 Mark 10:2 (attempt 3, 81 words, 50.82% quotes quality score: 1.5243588224369402, V2 normalized quality score: 42.03, commentator tiers 1-3: 42.56%, 18.34%, 39.1%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 4 BHT: The Pharisees came to Jesus with evil motives, seeking to ensnare him by discussing divorce. They may have wanted to accuse him or test if he would be stricter than Moses taught. Aware of his previous teachings on this subject, they hoped to expose him as an inconsistent preacher. However, Jesus responded firmly to their attempts, not allowing himself to be trapped by their devious intentions.
+- 🔄 Mark 10:2 (attempt 4, 66 words, 44.44% quotes quality score: 1.359839190718111, V2 normalized quality score: 36.56, commentator tiers 1-3: 41.98%, 18.22%, 39.8%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Pharisees, in their continuous attempts to challenge Jesus, approached him with malicious intentions. Their purpose was not to seek guidance or instruction but to test and ensnare him. They wanted to prove him inconsistent or stricter than Moses taught on the topic of divorce. This dangerous subject could potentially disturb the territory of Herod, husband of Herodias. Mark's account omits the specific phrase for every cause, but the overall discussion revolves around the contentious issue of divorce.
-- 🔄 Mark 10:2 (attempt 5, 79 words, 32.26% quotes quality score: 1.1670622950095955, V2 normalized quality score: 30.15, commentator tiers 1-3: 31.05%, 37.14%, 31.81%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 10:2 bht prompt v0.8 (98 words, 45.21% quotes)
-- quality score: 1.4241556084426055, V2 normalized quality score: 38.7, commentator tiers 1-3: 43.55%, 24.79%, 31.66%)
+- Attempt 5 BHT: The Pharisees came to Jesus with evil motives, seeking to ensnare him by discussing divorce. They may have wanted to accuse him or test if he would be stricter than Moses taught. Aware of his previous teachings on this subject, they aimed to expose him as an inconsistent preacher. However, Jesus responded firmly, not allowing himself to be trapped by their devious intentions.
+- 🔄 Mark 10:2 (attempt 5, 63 words, 45.28% quotes quality score: 1.3847727612384266, V2 normalized quality score: 37.39, commentator tiers 1-3: 41.66%, 18.44%, 39.9%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 10:2 bht prompt v0.8 (81 words, 50.82% quotes)
+- quality score: 1.5243588224369402, V2 normalized quality score: 42.03, commentator tiers 1-3: 42.56%, 18.34%, 39.1%)

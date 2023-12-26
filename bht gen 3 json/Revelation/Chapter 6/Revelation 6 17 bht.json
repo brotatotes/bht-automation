@@ -1,44 +1,38 @@
 {
-    "timestamp": "12-19-2023 21:43:46",
+    "timestamp": "12-25-2023 20:34:36",
     "verseRef": "Revelation 6:17",
     "bestBHT": {
-        "bht": "After exhausting all His ordinary judgments, the Lord's great day of judgment arrives. The tribes of the earth tremble at the signs of His imminent approach. Yet, before inflicting His blow, the elect must be gathered out. This is the great day that has come, as the mistaken cry of men in terror is a response to the bursting portents. The only answer to this cry is to keep awake and pray for strength to stand before the Son of Man. Who shall be able to endure guilt, shame, fear, and despair in the face of such a day?",
-        "wordCount": 100,
-        "quoteTokenProportion": 37.31,
-        "qualityScore": 1.33455997635048,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.72,
+        "bht": "After the Lord has exhausted all His judgments, the great day of the Lord comes when all ordinary judgments shall have been exhausted by the Lord. Before inflicting His blow, the elect must be gathered, the day, the great (day), has come, and no one can stand against the wrath of God and the Lamb. This cry of terror is answered by the command to keep awake and pray, seeking strength to stand before the Son of Man. The great day of His wrath answers the cry of the martyrs.",
+        "wordCount": 90,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 1.6774095588998672,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.12,
         "commentatorTierSimilarities": [
-            44.36,
+            44.18,
             0.0,
-            55.64
+            55.82
         ],
         "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "After",
-            "\tthe Lord has exhausted all His ordinary judgments, the sword, famine,",
-            "\tpestilence, and wild beasts, and still sinners are impenitent, the",
-            "\tgreat day of the Lord itself' shall come.\" ",
-            "The sixth seal brings us to the verge of the Lord's coming. The ungodly 'tribes",
-            "\tof the earth' tremble at the signs of His immediate approach.",
-            "But before He actually inflicts the blow in person, 'the elect'",
-            "\tmust be 'gathered 'out'."
+            "After the Lord has exhausted all His ordinary judgments, the great day of the Lord itself shall come.\" ",
+            "The sixth seal brings us to the verge of the Lord's coming.",
+            "But before He actually inflicts the blow in person, 'the elect' must be 'gathered' out."
         ],
         "Marvin Vincent": [
-            "The great day [\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7]. Lit., the day, the great (day).\" ",
+            "The great day [\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7]. Lit., the day, the great (day).",
             "Is come [\u03b7\u03bb\u03b8\u03b5\u03bd]. Lit., came.",
             "Shall be able to stand [\u03b4\u03c5\u03bd\u03b1\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b1\u03b8\u03b7\u03bd\u03b1\u03b9]. Rev., rightly, is able."
         ],
         "Archibald T. Robertson": [
             "Their\" (\u03b1\u03c5\u03c4\u03c9\u03bd) means the wrath of God and of the Lamb put here on an equality as in Revelation 1:17; Revelation 22:3; Revelation 22:13; 1 Thessalonians 3:11; 2 Thessalonians 2:16.",
-            "This language about the great day having come 'is the mistaken cry of men in terror caused by the portents which are bursting upon them.'",
-            "The only possible answer to that cry is the command of Jesus in Luke 21:36: 'Keep awake on every occasion, praying that ye may get strength to stand (\u03c3\u03c4\u03b1\u03b8\u03b7\u03bd\u03b1, the very form) before the Son of Man.'"
+            "Beckwith holds that this language about the great day having come \"is the mistaken cry of men in terror caused by the portents which are bursting upon them.",
+            "Swete observes that the only possible answer to that cry is the command of Jesus in Luke 21:36: \"Keep awake on every occasion, praying that ye may get strength to stand (\u03c3\u03c4\u03b1\u03b8\u03b7\u03bd\u03b1, the very form) before the Son of Man."
         ],
         "John Gill": [
-            "The great day of his wrath is come... in answer to the cry of the martyrs.\" ",
-            "Against the Heathen gods and Heathen persecutors.",
-            "Who shall be able to stand... expresses guilt, shame, fear, and despair."
+            "For the great day of his wrath is come... against the Heathen gods and Heathen persecutors, in answer to the cry of the martyrs",
+            "And who shall be able to stand? against either of them, or in their presence... expresses guilt, shame, fear, and despair."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After exhausting all His ordinary judgments of sword, famine, pestilence, and wild beasts to no avail, the Lord's great day of judgment itself finally arrives. The tribes of the earth tremble at the signs of His imminent coming, yet before He personally inflicts His blow, the elect must be gathered out. This is truly the day, the great day, that has now come. The cry of the sinners in terror is mistaken, for their only hope is to keep awake and pray to gain the strength to stand before the Son of Man. This cry is in response to the terrifying signs bursting upon them, and the only possible answer is to heed Jesus' command to be vigilant and prayerful. Ultimately, this day of wrath is a response to the cry of the martyrs and signifies the judgment against the ungodly and persecutors. The question then arises, who shall be able to stand in the face of such guilt, shame, fear, and despair?",
-            "wordCount": 164,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.396993386023896,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.79,
+            "bht": "After the Lord has exhausted all His ordinary judgments, the great day of the Lord itself shall come, bringing us to the verge of His coming. But before He inflicts the blow in person, the elect must be gathered out. The great day, the day, the great day, has come, and no one shall be able to stand against the wrath of God and of the Lamb. This cry of men in terror is met with the command to keep awake and pray, seeking strength to stand before the Son of Man. The great day of His wrath has come to answer the cry of the martyrs, and the question of who shall be able to stand expresses guilt, shame, fear, and despair.",
+            "wordCount": 123,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6573048484783128,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
             "commentatorTierSimilarities": [
-                42.05,
+                43.19,
                 0.0,
-                57.95
+                56.81
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After exhausting His ordinary judgments, the day of the Lord's great judgment arrives, causing the tribes of the earth to tremble. However, before He intervenes personally, the elect must be gathered out. This is the proclaimed day, the day that has come upon sinners in terror. Their mistaken cry is met with the command to stay awake and pray for strength to stand before the Son of Man. This day of wrath answers the plea of the martyrs and signifies judgment against the ungodly. Who then can endure guilt, shame, fear, and despair?",
-            "wordCount": 94,
-            "quoteTokenProportion": 36.76,
-            "qualityScore": 1.3209499304664867,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.26,
+            "bht": "After the Lord has exhausted all His judgments, the great day of the Lord shall come, bringing us to the verge of His coming. But before He inflicts the blow, the elect must be gathered out. The great day, the day, the great day, has come, and no one shall be able to stand against the wrath of God and of the Lamb. This cry of terror is met with the command to keep awake and pray, seeking strength to stand before the Son of Man. The great day of His wrath has come to answer the cry of the martyrs.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.6590233688473064,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
             "commentatorTierSimilarities": [
-                37.26,
+                47.02,
                 0.0,
-                62.74
+                52.98
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After exhausting all His ordinary judgments, the Lord's great day of judgment arrives. The tribes of the earth tremble as signs of His imminent approach appear. Yet, before personally inflicting His blow, the elect must be gathered out. This is the great day that has now come, as the cry of sinners in terror is a mistaken response to the unfolding signs. The only answer to this cry is to stay awake and pray for strength to stand before the Son of Man, as guilt, shame, fear, and despair are inescapable.",
-            "wordCount": 92,
-            "quoteTokenProportion": 35.94,
-            "qualityScore": 1.3295781555174058,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.55,
+            "bht": "After the Lord has exhausted His judgments, the great day of the Lord shall come. Before He inflicts the blow, the elect must be gathered out. The great day, the day, the great day, has come, and no one shall be able to stand against the wrath of God and of the Lamb. This cry of terror is met with the command to keep awake and pray, seeking strength to stand before the Son of Man. The great day of His wrath has come to answer the cry of the martyrs.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.6382119015519527,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
             "commentatorTierSimilarities": [
-                47.93,
+                47.95,
                 0.0,
-                52.07
+                52.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "After exhausting all His ordinary judgments, the Lord's great day of judgment arrives. The tribes of the earth tremble at the impending signs of His approach. Before personally inflicting His blow, the elect must be gathered out. This is the great day that has now come, and the mistaken cry of sinners in terror is met with the command to stay awake and pray for strength to stand before the Son of Man. In the face of such guilt, shame, fear, and despair, who shall be able to endure?",
-            "wordCount": 90,
-            "quoteTokenProportion": 34.38,
-            "qualityScore": 1.288761690235227,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.19,
+            "bht": "When all of the Lord's ordinary judgments have been exhausted, the great day of the Lord itself shall come, bringing us to the brink of His coming. However, before the blow is delivered in person, the elect must be gathered out. The great day, the day, the great day, has come, and no one shall be able to stand against the wrath of God and of the Lamb. In response to the cry of men in terror, the command is given to keep awake and pray, seeking strength to stand before the Son of Man. The great day of His wrath has arrived, answering the plea of the martyrs.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.616747495372473,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
             "commentatorTierSimilarities": [
-                41.67,
+                48.56,
                 0.0,
-                58.33
+                51.44
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "After exhausting all His ordinary judgments, the Lord's great day of judgment arrives. The tribes of the earth tremble at the signs of His imminent approach. Yet, before inflicting His blow, the elect must be gathered out. This is the great day that has come, as the mistaken cry of men in terror is a response to the bursting portents. The only answer to this cry is to keep awake and pray for strength to stand before the Son of Man. Who shall be able to endure guilt, shame, fear, and despair in the face of such a day?",
-            "wordCount": 100,
-            "quoteTokenProportion": 37.31,
-            "qualityScore": 1.33455997635048,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.72,
+            "bht": "After the Lord has exhausted all His judgments, the great day of the Lord comes when all ordinary judgments shall have been exhausted by the Lord. Before inflicting His blow, the elect must be gathered, the day, the great (day), has come, and no one can stand against the wrath of God and the Lamb. This cry of terror is answered by the command to keep awake and pray, seeking strength to stand before the Son of Man. The great day of His wrath answers the cry of the martyrs.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.6774095588998672,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
             "commentatorTierSimilarities": [
-                44.36,
+                44.18,
                 0.0,
-                55.64
+                55.82
             ],
             "generationAttempt": 5
         }

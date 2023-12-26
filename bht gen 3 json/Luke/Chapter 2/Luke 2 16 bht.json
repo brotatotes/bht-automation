@@ -1,57 +1,48 @@
 {
-    "timestamp": "12-19-2023 16:14:01",
+    "timestamp": "12-25-2023 20:32:58",
     "verseRef": "Luke 2:16",
     "bestBHT": {
-        "bht": "With haste, the shepherds found Mary and Joseph, led by the Spirit through the obscurity of the night to the exact place. There, they discovered the babe lying in a manger. The shepherds' faith rose above the humble circumstances, fixing their eyes steadfastly on God's glory and the faithful testimony from heaven. If we too focus our minds on the certainty and importance of this testimony, our faith will be a firm support against all obstacles, protecting us from temptations and offenses.",
-        "wordCount": 83,
-        "quoteTokenProportion": 39.68,
-        "qualityScore": 1.1087385687280373,
-        "qualityScoreNormalizedComparedToV2BHTs": 28.21,
+        "bht": "Mysteriously guided by the Spirit through the obscurity of the night, the shepherds hastened with simultaneous action, searching for the babe in the manger. Their faith easily rose above the humble circumstances of Christ's birth, supported by the certain and faithful testimony from heaven. With quick dispatch, they found Mary and Joseph as directed by the angel, in the city of Bethlehem, where the babe lay in a manger.",
+        "wordCount": 70,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.4151459638865163,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.4,
         "commentatorTierSimilarities": [
-            17.92,
-            21.54,
-            60.54
+            23.16,
+            28.21,
+            48.63
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "with haste\u2014Compare Luke 1:39;",
-            "\tMatthew 28:8 (\"did run\");",
-            "\tJohn 4:28 (\"left her",
-            "\twater-pot,\" as they do their flocks, in a transport).",
-            "\t",
-            "found Mary,",
-            "\t&amp;c.\u2014'mysteriously guided by the Spirit to the right place",
-            "\tthrough the obscurity of the night' [OLSHAUSEN].",
-            "\t",
-            "a manger\u2014'the",
-            "\tmanger,' as before."
+            "Mysteriously guided by the Spirit to the right place through the obscurity of the night.",
+            "With haste.",
+            "The manger."
         ],
         "Marvin Vincent": [
-            "Mary and Joseph and the babe. Each has the article, pointing to the several parties already referred to.",
             "Ana indicates the discovery of the facts in succession.",
-            "Found. Only here and Acts 21:4."
+            "Mary and Joseph and the babe. Each has the article, pointing to the several parties already referred to."
         ],
         "John Calvin": [
             "The glory of God was so fully before their eyes, and reverence for his Word was so deeply impressed upon their minds, that the elevation of their faith easily rose above all that appeared mean or despicable in Christ.",
-            "And the only reason why our faith is either retarded or driven from the proper course, by some very trifling obstacles, is, that we do not look steadfastly enough on God, and are easily 'tossed to and fro.'",
-            "If this one thought were entirely to occupy our minds, that we have a certain and faithful testimony from heaven, it would be a sufficiently strong and firm support against every kind of temptations, and will sufficiently protect us against every little offense that might have been taken."
+            "And the only reason why our faith is either retarded or driven from the proper course, by some very trifling obstacles, is, that we do not look steadfastly enough on God.",
+            "If this one thought were entirely to occupy our minds, that we have a certain and faithful testimony from heaven, it would be a sufficiently strong and firm support against every kind of temptations."
         ],
         "Philip Schaff": [
             "Found, suggesting previous search.",
-            "Her name naturally comes first, as the mother, but especially in view of the peculiar nature of her motherhood.",
+            "Mary and Joseph Her name naturally comes first, as the mother, but especially in view of the peculiar nature of her motherhood.",
             "In the manger: the one they had sought as the sign."
         ],
         "Archibald T. Robertson": [
-            "With haste (\u03c3\u03c0\u03b5\u03c5\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). Aorist active participle of simultaneous action.",
-            "Found (\u03b1\u03bd\u03b5\u03c5\u03c1\u03b1\u03bd). Second aorist active indicative of a common Greek verb \u03b1\u03bd\u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03c9, but only in Luke in the N.T.\" ",
-            "The compound \u03b1\u03bd\u03b1 suggests a search before finding."
+            "With haste.\" (quote 1)",
+            "Aorist active participle of simultaneous action.\" (quote 2)",
+            "The compound \u03b1\u03bd\u03b1 suggests a search before finding.\" (quote 3)"
         ],
         "John Gill": [
             "The wonderfulness of the vision, the importance of the thing related, the eagerness of their spirits to see the thing that was told them, put them on making quick dispatch, and hastening to the city with all speed.",
-            "\u2026and found Mary and Joseph; as they had been directed by the angel, in the city of Bethlehem, in an inn there, and in a stable in the inn.",
-            "\u2026and the babe lying in a manger: where Mary had put it as soon as born, and had wrapped it in swaddling clothes; because there was no room in the inn, and as the angel had told them they should find it."
+            "And found Mary and Joseph; as they had been directed by the angel, in the city of Bethlehem, in an inn there, and in a stable in the inn.",
+            "And the babe lying in a manger: where Mary had put it as soon as born, and had wrapped it in swaddling clothes; because there was no room in the inn, and as the angel had told them they should find it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "With such urgency, the shepherds left their flocks, running swiftly as Anna did, until they found Mary, guided mysteriously by the Spirit to the right place through the obscurity of the night. In that place, they saw the fulfillment of the sign they had sought - the babe lying in a manger. With reverence for God's glory, their faith soared above the apparent meanness and despicability of the scene before them. If only we would fix our gaze firmly on the faithful testimony from heaven, our faith would be an unwavering support against any obstacle or offense. For like the shepherds, we too can be driven by the grandeur and significance of the truth, making quick dispatch to find and behold the Savior.",
-            "wordCount": 123,
-            "quoteTokenProportion": 39.33,
-            "qualityScore": 1.1627843738630532,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.01,
+            "bht": "Mysteriously guided by the Spirit through the obscurity of the night, the shepherds hastened with simultaneous action, searching for the babe in the manger. Their faith, elevated by the glory of God and reverence for His Word, easily rose above the humble circumstances of Christ's birth. Their unwavering focus on the certain and faithful testimony from heaven supported them against all temptations. With wonderful anticipation and quick dispatch, they found Mary and Joseph, as directed by the angel, in the city of Bethlehem, where the babe lay in a manger.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.3149943533870085,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.07,
             "commentatorTierSimilarities": [
-                11.32,
-                28.72,
-                59.96
+                21.12,
+                24.41,
+                54.47
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "With haste, the shepherds found Mary and Joseph, directed by the angel to the city of Bethlehem, where they discovered the babe lying in a manger. The wonderfulness of the vision and the importance of the thing related compelled them to make quick dispatch, their spirits eager to see what had been foretold. Their faith rose above the humble circumstances, for the glory of God and reverence for His Word were fully before their eyes. If we, too, steadfastly fix our gaze on the faithful testimony from heaven, our faith will be a firm support against all temptations.",
-            "wordCount": 98,
-            "quoteTokenProportion": 42.67,
-            "qualityScore": 1.1010916739480388,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.96,
+            "bht": "Mysteriously guided by the Spirit through the obscurity of the night, the shepherds hastened with simultaneous action, searching for the babe in the manger. Their faith easily rose above the humble circumstances of Christ's birth, supported by the certain and faithful testimony from heaven. With quick dispatch, they found Mary and Joseph as directed by the angel, in the city of Bethlehem, where the babe lay in a manger.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.4151459638865163,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.4,
             "commentatorTierSimilarities": [
-                12.18,
-                14.54,
-                73.28
+                23.16,
+                28.21,
+                48.63
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "With haste, the shepherds, like Anna and the women at the empty tomb, found Mary and Joseph, mysteriously guided by the Spirit to the right place amidst the obscurity of the night. In that place, they discovered the babe lying in a manger, just as they had sought, each party contributing to the unfolding of the events. Their faith rose above the lowly scene before them, fully embracing the glory of God and the steadfast testimony from heaven. May we too fix our gaze on God and be driven by the grandeur of truth as we eagerly seek and behold the Savior.",
-            "wordCount": 102,
-            "quoteTokenProportion": 36.99,
-            "qualityScore": 1.1069383319938344,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.15,
+            "bht": "Mysteriously guided by the Spirit, the shepherds hastened to the manger with simultaneous action, searching for the babe. Their faith rose above the humble circumstances, supported by the testimony from heaven. With quick dispatch, they found Mary and Joseph as directed, in the city of Bethlehem, where the babe lay in a manger.",
+            "wordCount": 53,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 1.401819504556365,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.95,
             "commentatorTierSimilarities": [
-                16.12,
-                21.33,
-                62.56
+                25.2,
+                31.64,
+                43.17
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "With haste, the shepherds found Mary and Joseph, led by the Spirit through the obscurity of the night to the exact place. There, they discovered the babe lying in a manger. The shepherds' faith rose above the humble circumstances, fixing their eyes steadfastly on God's glory and the faithful testimony from heaven. If we too focus our minds on the certainty and importance of this testimony, our faith will be a firm support against all obstacles, protecting us from temptations and offenses.",
-            "wordCount": 83,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.1087385687280373,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.21,
+            "bht": "Mysteriously guided by the Spirit through the obscurity of the night, the shepherds hastened with simultaneous action, searching for the babe in the manger. Their faith, elevated by the glory of God and reverence for His Word, easily rose above the circumstances. Their unwavering focus on the certain and faithful testimony from heaven supported them against temptations. With quick dispatch, they found Mary and Joseph, as directed, in Bethlehem, where the babe lay in a manger.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.3310479563694746,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.6,
             "commentatorTierSimilarities": [
-                17.92,
-                21.54,
-                60.54
+                22.18,
+                27.14,
+                50.68
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "With haste, the shepherds found Mary and Joseph, directed by the angel to the city of Bethlehem, where they discovered the babe lying in a manger. The shepherds' faith was elevated above the ordinary as they beheld the glory of God and the fulfillment of the faithful testimony from heaven. Our own faith can be steadfast and unwavering if we fix our gaze upon God, allowing His Word to guide us and protect us from distractions and temptations.",
-            "wordCount": 78,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.0769032057871906,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.15,
+            "bht": "Mysteriously guided by the Spirit, the shepherds hastened with haste, searching for the babe in the manger. Their faith easily rose above the circumstances, supported by the glory of God and the certainty of the heavenly testimony. With quick dispatch, they found Mary, Joseph, and the babe, exactly as they had been directed, in the city of Bethlehem.",
+            "wordCount": 58,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 1.388459937663428,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
             "commentatorTierSimilarities": [
-                13.85,
-                12.94,
-                73.21
+                24.29,
+                27.41,
+                48.3
             ],
             "generationAttempt": 5
         }

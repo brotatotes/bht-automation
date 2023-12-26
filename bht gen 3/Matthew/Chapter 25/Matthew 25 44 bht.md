@@ -1,7 +1,7 @@
 # Matthew 25:44 Commentary Help Text
 
 ## BHT:
-The self-righteous plea of ignorance is exposed as those who fail to see Christ in the needy will find their excuses worthless on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished for their disregard. Christ warns that those despised by society are esteemed by Him as much as His own. These nominal Christians profess Christ as Lord, yet their neglect of the needy reveals their true heart.
+The self-righteous plea of ignorance is a deceitful fancy that many entertain, thinking they would do good to Christ had they seen Him. However, they fail to recognize Him in the person of His followers and thus continue to despise the poor. Their vain excuses will be of no use on the day of retribution, as they will realize, too late, that those they now despise are esteemed by Christ. These nominal Christians make a profession of Christ but have never truly seen Him in such circumstances.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,7 +10,7 @@ The self-righteous plea of ignorance is exposed as those who fail to see Christ 
 ### John Calvin:
 1. "The same kind of striking delineation which Christ had formerly employed is now repeated, in order to inform the reprobate, that their vain excuses, by which they now deceive themselves, will be of no avail to them at the last day."
 2. "For whence comes the great cruelty of their pride towards the poor, but because they think that they will not be punished for despising them?"
-3. "To destroy this self-complacency, our Lord gives them warning, that they will one day feel—but when it will be too late—what they do not now deign to consider, that those who are now so greatly despised are not less esteemed by Christ than his own members."
+3. "[...] they will one day feel—but when it will be too late—what they do not now deign to consider, that those who are now so greatly despised are not less esteemed by Christ than his own members."
 
 ### Philip Schaff:
 1. "A self-righteous plea of ignorance, implying that they would have done such good works, had they seen Him."
@@ -29,40 +29,38 @@ The self-righteous plea of ignorance is exposed as those who fail to see Christ 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:53:03
+- Timestamp: 12-25-2023 20:32:07
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 46.55%
-- BHT Quality Score: 1.0998557913538187
+- BHT Word Count: 88
+- BHT Commentary Usage: 52.31%
+- BHT Quality Score: 1.238020865773887
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['are', 'as', 'be', 'belief', 'by', 'christ', 'christians', 'day', 'despised', 'disregard', 'esteemed', 'excuses', 'exposed', 'fail', 'find', 'for', 'from', 'heart', 'him', 'his', 'ignorance', 'in', 'is', 'lord', 'much', 'needy', 'neglect', 'nominal', 'not', 'of', 'on', 'own', 'plea', 'poor', 'pride', 'profess', 'punished', 'retribution', 'reveals', 'righteous', 'see', 'self', 'society', 'stems', 'that', 'the', 'their', 'these', 'they', 'those', 'to', 'towards', 'true', 'warns', 'who', 'will', 'worthless', 'yet']
+- ChatGPT injected words (65):
+	['a', 'and', 'are', 'as', 'be', 'but', 'by', 'christ', 'christians', 'circumstances', 'continue', 'day', 'deceitful', 'despise', 'do', 'entertain', 'esteemed', 'excuses', 'fail', 'fancy', 'followers', 'good', 'had', 'have', 'him', 'his', 'however', 'ignorance', 'in', 'is', 'late', 'make', 'many', 'never', 'no', 'nominal', 'now', 'of', 'on', 'person', 'plea', 'poor', 'profession', 'realize', 'recognize', 'retribution', 'righteous', 'seen', 'self', 'such', 'that', 'the', 'their', 'these', 'they', 'thinking', 'those', 'thus', 'to', 'too', 'truly', 'use', 'vain', 'will', 'would']
 - ChatGPT injected words (significant words only) (31):
-	['belief', 'christ', 'christians', 'day', 'despised', 'disregard', 'esteemed', 'excuses', 'exposed', 'fail', 'find', 'heart', 'ignorance', 'lord', 'needy', 'neglect', 'nominal', 'plea', 'poor', 'pride', 'profess', 'punished', 'retribution', 'reveals', 'righteous', 'self', 'society', 'stems', 'true', 'warns', 'worthless']
+	['christ', 'christians', 'circumstances', 'continue', 'day', 'deceitful', 'despise', 'entertain', 'esteemed', 'excuses', 'fail', 'fancy', 'followers', 'good', 'ignorance', 'late', 'nominal', 'person', 'plea', 'poor', 'profession', 'realize', 'recognize', 'retribution', 'righteous', 'seen', 'self', 'thinking', 'truly', 'use', 'vain']
 
 ### Logs
-- Attempt 1 BHT: The passage highlights the self-righteous plea of ignorance from those who fail to recognize Christ in the needy. It warns that their deceitful fancy will be of no avail on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished. Christ warns them that those despised by society are esteemed by Him as much as his own people. These individuals are nominal Christians who profess Christ as Lord but fail to actively demonstrate love and care for those in need. Their attempt to justify themselves will persist even on the day of judgment.
-- 🔄 Matthew 25:44 (attempt 1, 103 words, 44.29% quotes quality score: 1.1374238076162388, V2 normalized quality score: 29.16, commentator tiers 1-3: 3.75%, 52.47%, 43.78%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: The verse exposes the self-righteous plea of ignorance by those who fail to recognize Christ in the needy. Their deceitful fancy will be futile on the day of retribution when their cruelty towards the poor will be confronted. These nominal Christians claim to know and see Christ yet ignore their responsibility to provide for Him. They will attempt to justify themselves even on the day of judgment, but their neglect of the needy reveals their true heart.
-- 🔄 Matthew 25:44 (attempt 2, 78 words, 41.82% quotes quality score: 1.1776436478764283, V2 normalized quality score: 30.5, commentator tiers 1-3: 2.38%, 53.24%, 44.39%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The self-righteous plea of ignorance is exposed as those who fail to see Christ in the needy will find their excuses worthless on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished for their disregard. Christ warns that those despised by society are esteemed by Him as much as His own. These nominal Christians profess Christ as Lord, yet their neglect of the needy reveals their true heart.
-- 🔄 Matthew 25:44 (attempt 3, 79 words, 46.55% quotes quality score: 1.0998557913538187, V2 normalized quality score: 27.91, commentator tiers 1-3: 0.54%, 50.72%, 48.74%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The verse sheds light on the self-righteous plea of ignorance by those who fail to recognize Christ in the needy. Their deceitful fancy will be of no avail on the day of retribution. Their cruelty towards the poor stems from the belief that they will not be punished. They claim to know and see Christ but neglect to provide for Him. These nominal Christians will attempt to justify themselves even on the day of judgment, but their neglect of the needy reveals their true heart.
-- 🔄 Matthew 25:44 (attempt 4, 86 words, 43.1% quotes quality score: 1.1574731740427353, V2 normalized quality score: 29.83, commentator tiers 1-3: 3.23%, 53.79%, 42.97%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The self-righteous plea of ignorance is exposed as those who fail to see Christ in the needy will find their excuses worthless on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished. Christ warns that those despised are esteemed by Him as much as His own. These nominal Christians profess Christ as Lord yet neglect the needy, revealing their true heart. They will attempt to justify themselves on judgment day, but their neglect speaks volumes.
-- 🔄 Matthew 25:44 (attempt 5, 86 words, 45.16% quotes quality score: 1.0941861491422777, V2 normalized quality score: 27.73, commentator tiers 1-3: -0.31%, 52.08%, 48.22%) 
+- Attempt 1 BHT: The deceitful fancy of those who fail to see Christ in the person of His followers continues until the day of retribution. Their self-righteous plea of ignorance will be of no avail, for their vain excuses will not save them. The great cruelty of their pride towards the poor stems from their belief that they will not be punished for despising them. But they will one day feel, too late, the worth and importance of those they now despise, as Christ holds them in the same esteem as His own members. These nominal Christians have made a profession of Christ but have failed to truly see Him. Their attempt to justify themselves will persist, but the day of reckoning approaches.
+- 🔄 Matthew 25:44 (attempt 1, 121 words, 44.16% quotes quality score: 1.0980018809650973, V2 normalized quality score: 27.85, commentator tiers 1-3: -1.56%, 53.64%, 47.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 25:44 bht prompt v0.8 (79 words, 46.55% quotes)
-- quality score: 1.0998557913538187, V2 normalized quality score: 27.91, commentator tiers 1-3: 0.54%, 50.72%, 48.74%)
+- Attempt 2 BHT: The self-righteous plea of ignorance is a deceitful fancy that many entertain, thinking they would do good to Christ had they seen Him. However, they fail to recognize Him in the person of His followers and thus continue to despise the poor. Their vain excuses will be of no use on the day of retribution, as they will realize, too late, that those they now despise are esteemed by Christ. These nominal Christians make a profession of Christ but have never truly seen Him in such circumstances.
+- 🔄 Matthew 25:44 (attempt 2, 88 words, 52.31% quotes quality score: 1.238020865773887, V2 normalized quality score: 32.51, commentator tiers 1-3: 0.29%, 54.49%, 45.22%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 3 BHT: The deceitful fancy of those who fail to see Christ in His followers continues until the day of retribution. Their self-righteous plea of ignorance will be of no avail, for their vain excuses will not save them. The great cruelty of their pride towards the poor stems from their belief that they will not be punished for despising them. They are nominal Christians, who make a profession of Christ without truly seeing Him. But the day will come when their attempts to justify themselves will hold no power.
+- 🔄 Matthew 25:44 (attempt 3, 89 words, 45.16% quotes quality score: 1.1157811532672044, V2 normalized quality score: 28.44, commentator tiers 1-3: -1.48%, 54.45%, 47.02%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The deceitful fancy of those who fail to see Christ in His followers persists until the day of retribution. Their self-righteous plea of ignorance will be worthless, as their vain excuses hold no meaning. Their prideful cruelty towards the poor stems from their belief that they will not be held accountable for despising them. These nominal Christians make a profession of Christ, yet they do not truly see Him. However, their attempts to justify themselves will be rendered futile on the approaching day of reckoning.
+- 🔄 Matthew 25:44 (attempt 4, 86 words, 46.15% quotes quality score: 1.133711686063454, V2 normalized quality score: 29.04, commentator tiers 1-3: 2.29%, 53.09%, 44.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The deceitful fancy of those who fail to see Christ in His followers continues until the day of retribution. Their self-righteous plea of ignorance will be of no avail; their vain excuses hold no power. Their prideful cruelty towards the poor comes from their belief they won't be punished for despising them. These nominal Christians profess Christ, but don't truly see Him. Yet, their attempts to justify themselves persist. However, the day is approaching when their pleas will hold no weight.
+- 🔄 Matthew 25:44 (attempt 5, 84 words, 41.27% quotes quality score: 1.0183530160725707, V2 normalized quality score: 25.2, commentator tiers 1-3: -0.84%, 53.95%, 46.89%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 25:44 bht prompt v0.8 (88 words, 52.31% quotes)
+- quality score: 1.238020865773887, V2 normalized quality score: 32.51, commentator tiers 1-3: 0.29%, 54.49%, 45.22%)

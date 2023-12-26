@@ -1,14 +1,14 @@
 # Mark 11:19 Commentary Help Text
 
 ## BHT:
-Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place not only on the evening of the temple purification, but also on other evenings. The use of the word whenever makes it clear that this was a regular occurrence. It is worth noting that all the specific details of this account are found only in the book of Mark. In this particular instance, Jesus left the city at evening and most likely went to Bethany, where he had stayed the previous night with Lazarus, Martha, and Mary.
+Whenever evening came, our Lord would go out of the city to Bethany, where he had lodged the night before. This pattern of leaving the city in the evening is unique to Mark's gospel. The use of the imperfect tense indicates a repeated action, suggesting that Jesus would go out of the city whenever evening came. This practice likely had the same motivations as mentioned before, and it seems that Jesus took his disciples with him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1.  19.] See note on Matthew, ver. 17. On the Monday and Tuesday evenings, our Lord appears to have gone to Bethany.
 
 ### Marvin Vincent:
-1. "Whenever evening came on; not on the evening of the purging of the temple merely, but each day at evening." 
+1. "When evening was come [οταν] . Lit., whenever evening came on; not on the evening of the purging of the temple merely, but each day at evening."
 2. "All the details are peculiar to Mark."
 3. "Compare Matthew 21:20-22."
 
@@ -18,56 +18,52 @@ Whenever evening came, our Lord would often leave the city and go to Bethany. Th
 
 
 ### Archibald T. Robertson:
-1. "Literally, whenever evening came on or more exactly whenever it became late." 
-2. "The use of αν makes the clause more indefinite and general." 
-3. "The imperfect tense... suggests 'whenever' as the meaning here."
+1. "The use of αν makes the clause more indefinite and general, as here, unless it renders it more definite, a curious result, but true." 
+2. "The imperfect tense he (or they) would go (εξεπορευετο, εξεπορευοντο) out of the city suggests 'whenever' as the meaning here."
+3. "The use of οταν (οτε αν) with the aorist indicative is like οπου αν with the imperfect indicative (εισεπορευετο) and οσο αν with the aorist indicative (ηψαντο) in Mark 6:56."
 
 ### John Gill:
-1. "And when evening was come, he went out of the city." 
-2. "Probably he went to Bethany, where he had lodged the last night, with Lazarus, Martha, and Mary."
-3. "Christ took his disciples with him, as is evident from the following verse."
+1. "He went out of the city...for the same reasons." 
+2. "Probably he went to Bethany, where he had lodged the last night." 
+3. "Christ took his disciples with him."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:26:57
+- Timestamp: 12-25-2023 20:32:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 44.12%
-- BHT Quality Score: 1.4751593326369148
+- BHT Word Count: 77
+- BHT Commentary Usage: 48.08%
+- BHT Quality Score: 1.5576145619937234
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'account', 'all', 'also', 'and', 'are', 'at', 'bethany', 'book', 'but', 'came', 'city', 'clear', 'details', 'evening', 'evenings', 'found', 'go', 'had', 'he', 'in', 'instance', 'is', 'it', 'jesus', 'lazarus', 'leave', 'left', 'likely', 'lord', 'makes', 'mark', 'martha', 'mary', 'most', 'night', 'not', 'noting', 'occurrence', 'of', 'often', 'on', 'only', 'other', 'our', 'particular', 'place', 'practice', 'previous', 'purification', 'regular', 'specific', 'stayed', 'temple', 'that', 'the', 'this', 'to', 'took', 'use', 'was', 'went', 'whenever', 'where', 'with', 'word', 'worth', 'would']
-- ChatGPT injected words (significant words only) (38):
-	['account', 'bethany', 'book', 'came', 'city', 'clear', 'details', 'evening', 'evenings', 'found', 'instance', 'jesus', 'lazarus', 'leave', 'left', 'likely', 'lord', 'makes', 'mark', 'martha', 'mary', 'night', 'noting', 'occurrence', 'particular', 'place', 'practice', 'previous', 'purification', 'regular', 'specific', 'stayed', 'temple', 'took', 'use', 'went', 'word', 'worth']
+- ChatGPT injected words (52):
+	['a', 'action', 'and', 'as', 'before', 'bethany', 'came', 'city', 'disciples', 'evening', 'go', 'gospel', 'had', 'he', 'him', 'his', 'imperfect', 'in', 'indicates', 'is', 'it', 'jesus', 'leaving', 'likely', 'lodged', 'lord', 'mark', 'mentioned', 'motivations', 'night', 'of', 'our', 'out', 'pattern', 'practice', 'repeated', 's', 'same', 'seems', 'suggesting', 'tense', 'that', 'the', 'this', 'to', 'took', 'unique', 'use', 'whenever', 'where', 'with', 'would']
+- ChatGPT injected words (significant words only) (27):
+	['action', 'bethany', 'came', 'city', 'disciples', 'evening', 'gospel', 'imperfect', 'indicates', 'jesus', 'leaving', 'likely', 'lodged', 'lord', 'mark', 'mentioned', 'motivations', 'night', 'pattern', 'practice', 'repeated', 's', 'suggesting', 'tense', 'took', 'unique', 'use']
 
 ### Logs
-- Attempt 1 BHT: Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place not only on the evening of the temple purification, but also on other evenings. The use of the word whenever makes it clear that this was a regular occurrence. It is worth noting that all the specific details of this account are found only in the book of Mark. In this particular instance, Jesus left the city at evening and most likely went to Bethany, where he had stayed the previous night with Lazarus, Martha, and Mary. His disciples accompanied him on this occasion as well.
-- 🔄 Mark 11:19 (attempt 1, 104 words, 45.33% quotes quality score: 1.4243295449422266, V2 normalized quality score: 38.7, commentator tiers 1-3: 29.31%, 26.53%, 44.16%) 
+- Attempt 1 BHT: Whenever evening came, our Lord would go out of the city, likely to Bethany where he had lodged the night before. This pattern of leaving the city in the evening is peculiar to Mark's gospel. It is important to note that this action of Jesus is connected to the events in the temple described earlier. Furthermore, the use of the imperfect tense indicates a repeated action, suggesting that Jesus would engage in this practice whenever the evening came.
+- 🔄 Mark 11:19 (attempt 1, 79 words, 36.0% quotes quality score: 1.5109818835033901, V2 normalized quality score: 41.58, commentator tiers 1-3: 36.97%, 37.33%, 25.7%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Whenever evening came, our Lord would go out of the city, likely to Bethany where he had lodged the night before. This pattern of leaving the city in the evening is peculiar to Mark's gospel. The use of the imperfect tense indicates a repeated action, suggesting that Jesus would go out of the city whenever evening came. This is connected to the events in the temple, as mentioned in the previous note.
+- 🔄 Mark 11:19 (attempt 2, 73 words, 39.13% quotes quality score: 1.5131390608038484, V2 normalized quality score: 41.65, commentator tiers 1-3: 36.87%, 38.36%, 24.77%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Whenever evening came, our Lord would go out of the city, likely to Bethany where he had lodged the night before. This pattern of leaving the city in the evening is connected to the events in the temple. The details of Jesus leaving the city are unique to Mark's gospel. The use of the imperfect tense indicates a repeated action, emphasizing that Jesus would go out of the city whenever evening came. This practice may have been motivated by the same reasons as mentioned before, and it appears that Jesus took his disciples with him.
+- 🔄 Mark 11:19 (attempt 3, 96 words, 46.77% quotes quality score: 1.4983922061613573, V2 normalized quality score: 41.16, commentator tiers 1-3: 34.67%, 34.36%, 30.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place not only on the evening of the temple purification, but also on other evenings. The use of the word whenever makes it clear that this was a regular occurrence. It is worth noting that all the specific details of this account are found only in the book of Mark. In this particular instance, Jesus left the city at evening and most likely went to Bethany, where he had stayed the previous night with Lazarus, Martha, and Mary.
-- 🔄 Mark 11:19 (attempt 2, 95 words, 44.12% quotes quality score: 1.4751593326369148, V2 normalized quality score: 40.39, commentator tiers 1-3: 30.32%, 29.84%, 39.84%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: Whenever evening came, our Lord would go out of the city to Bethany, where he had lodged the night before. This pattern of leaving the city in the evening is unique to Mark's gospel. The use of the imperfect tense indicates a repeated action, suggesting that Jesus would go out of the city whenever evening came. This practice likely had the same motivations as mentioned before, and it seems that Jesus took his disciples with him.
+- 🔄 Mark 11:19 (attempt 4, 77 words, 48.08% quotes quality score: 1.5576145619937234, V2 normalized quality score: 43.13, commentator tiers 1-3: 34.31%, 34.24%, 31.46%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Whenever evening came, our Lord would often leave and go to Bethany, where he had stayed the previous night. This was a regular occurrence, not limited to just the evening of the temple purification. The use of the word whenever emphasizes the frequency of this practice. It is worth noting that the specific details mentioned in this account are unique to the book of Mark. In this instance, Jesus went out of the city at evening, most likely to Bethany, accompanied by his disciples.
-- 🔄 Mark 11:19 (attempt 3, 84 words, 44.26% quotes quality score: 1.4262867170121547, V2 normalized quality score: 38.77, commentator tiers 1-3: 29.9%, 32.36%, 37.74%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Whenever evening came, our Lord would go out of the city, likely to Bethany where he had lodged the night before. This pattern, described in Mark's gospel, emphasized the repeated action of Jesus leaving the city in the evening. The reasons behind this practice can likely be linked to the events that took place in the temple. It is noteworthy that Jesus would take his disciples with him, further highlighting the significance of these evening departures.
+- 🔄 Mark 11:19 (attempt 5, 77 words, 46.43% quotes quality score: 1.4768072201380216, V2 normalized quality score: 40.45, commentator tiers 1-3: 31.02%, 35.99%, 32.99%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: Whenever evening came, our Lord would often leave the city and go to Bethany. This practice occurred not just on the evening of the temple cleansing, but regularly. The word whenever emphasizes the frequency of these departures. The specific details of this account are only found in the book of Mark. On this particular evening, Jesus most likely went to Bethany, where he had stayed the night before with Lazarus, Martha, and Mary. His disciples joined him on this occasion as well.
-- 🔄 Mark 11:19 (attempt 4, 82 words, 45.9% quotes quality score: 1.38885750749896, V2 normalized quality score: 37.52, commentator tiers 1-3: 30.18%, 25.12%, 44.7%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place regularly, not just on the evening of the temple cleanse. The word whenever highlights the frequency of these departures. It is worth noting that the specific details mentioned in this account are unique to the book of Mark. On this particular evening, Jesus most likely went to Bethany, where he had stayed with Lazarus, Martha, and Mary the previous night. His disciples accompanied him on this occasion as well.
-- 🔄 Mark 11:19 (attempt 5, 87 words, 42.42% quotes quality score: 1.3827871418837314, V2 normalized quality score: 37.32, commentator tiers 1-3: 30.04%, 26.07%, 43.89%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 11:19 bht prompt v0.8 (95 words, 44.12% quotes)
-- quality score: 1.4751593326369148, V2 normalized quality score: 40.39, commentator tiers 1-3: 30.32%, 29.84%, 39.84%)
+- ✅ Mark 11:19 bht prompt v0.8 (77 words, 48.08% quotes)
+- quality score: 1.5576145619937234, V2 normalized quality score: 43.13, commentator tiers 1-3: 34.31%, 34.24%, 31.46%)

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:16:48",
+    "timestamp": "12-25-2023 20:33:08",
     "verseRef": "Luke 8:50",
     "bestBHT": {
-        "bht": "Fear not, for although it may seem impossible, do not be discouraged or lose hope. Have faith in me, and I will bring healing and restoration to your situation. Trust that I am able to work miracles and bring life where there seems to be death. Have confidence, like Jairus, and believe that through your faith, your circumstances will be completely transformed, and you will experience wholeness and strength once again.",
-        "wordCount": 71,
+        "bht": "Do not be dismayed or despair, for the promise assures that she shall be made whole. The father must have had great faith, especially after witnessing the previous miracle. Although he had already taken measures to protect his daughter, he must believe in Jesus' ability to bring her back to life and have faith that she will be restored to perfect health and strength again.",
+        "wordCount": 65,
         "quoteTokenProportion": 50.0,
-        "qualityScore": 0.9180022295222497,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.87,
+        "qualityScore": 1.2883769106396288,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.18,
         "commentatorTierSimilarities": [
-            6.01,
-            23.45,
-            70.53
+            20.39,
+            32.59,
+            47.02
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -49,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Fear not, for although it may seem impossible, do not be discouraged or lose hope. Have faith in me, and I will bring healing and restoration to your situation. Trust that I am able to work miracles and bring life where there seems to be death. Have confidence, like Jairus, and believe that through your faith, your circumstances will be completely transformed, and you will experience wholeness and strength once again.",
-            "wordCount": 71,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 0.9180022295222497,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.87,
+            "bht": "Do not be dismayed or despair, for the promise in Luke 8:50 assures that she shall be made whole. The father must have had great faith to ask for such a miracle, especially after witnessing the previous miracle. Although he had already taken measures to protect his daughter by stopping the crowd outside, he must face another challenge within. However, he must believe in Jesus' ability to bring her back to life and have faith that she will be restored to perfect health and strength again.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.2575203743140004,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.16,
             "commentatorTierSimilarities": [
-                6.01,
-                23.45,
-                70.53
+                21.2,
+                36.85,
+                41.95
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The promise that she shall be made whole is unique to this verse in Luke. This promise requires great faith from Jairus, as mentioned in Mark 5:36, but seeing the miracle that had just happened surely increased his confidence. Although Jairus had already stopped the crowd and was in the house, encountering another obstacle within the house singled out those who could enter the chamber of death. In the face of fear and despair, the message is to not be dismayed and to exercise faith in Jesus, believing that he is able to raise her from the dead. Through this faith, she will not only be restored to life but also to perfect health and strength.",
-            "wordCount": 115,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 1.4011931732350218,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "bht": "Do not be dismayed or despair, for the promise assures that she shall be made whole. The father must have had great faith, especially after witnessing the previous miracle. Although he had already taken measures to protect his daughter, he must believe in Jesus' ability to bring her back to life and have faith that she will be restored to perfect health and strength again.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2883769106396288,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.18,
             "commentatorTierSimilarities": [
-                21.84,
-                37.97,
-                40.2
+                20.39,
+                32.59,
+                47.02
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The promise that she shall be made whole is unique to this passage. This promise requires great faith, as mentioned, but seeing the miracle increases confidence. Although he had already stopped the crowd and was in the house, encountering another obstacle within the house singled out those who could enter the chamber. In the face of despair, the message is to exercise faith in Jesus, believing he is able to raise her from the dead. Through this faith, she will be restored to life and perfect health.",
-            "wordCount": 87,
-            "quoteTokenProportion": 46.77,
-            "qualityScore": 1.3635021839437398,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "bht": "Fear not, do not be dismayed or despair, for believe in me and she shall be made whole. This promise requires great faith, but the recent miracle surely bolstered Jairus' confidence. Even though Jairus had already stopped the crowd and entered the house, he encountered another obstacle inside. Nevertheless, let not this message discourage you, but instead exercise faith in my power to raise her from the dead and she will be restored to life, fully healed and strong once again.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.249196457446786,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.88,
             "commentatorTierSimilarities": [
-                23.26,
-                34.99,
-                41.75
+                17.13,
+                31.82,
+                51.06
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The promise of being made whole is unique to this verse, requiring great faith. Encountering an obstacle within the house singles out those who can enter the chamber. In the face of despair, the message is to exercise faith in Jesus, believing he is able to raise her. Through this faith, she will be restored to life and perfect health.",
-            "wordCount": 60,
-            "quoteTokenProportion": 47.83,
-            "qualityScore": 1.217992794449105,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.84,
+            "bht": "Fear not, for believe in me and she shall be made whole. This promise requires faith, but the recent miracle surely bolstered Jairus' confidence. Even though Jairus had already entered the house, he encountered another obstacle inside. Nevertheless, exercise faith in my power to raise her from the dead and she will be restored to life, fully healed and strong once again.",
+            "wordCount": 62,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2427086904208242,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.66,
             "commentatorTierSimilarities": [
-                21.84,
-                32.28,
-                45.88
+                21.28,
+                31.23,
+                47.49
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This promise, peculiar to this verse, necessitates great faith. Facing an obstacle within the house, only those who can enter the chamber are singled out. In times of despair, the message is to exercise faith in Jesus, believing in his ability to raise her. Through this faith, she will experience restoration, not only in life but also in perfect health.",
-            "wordCount": 60,
-            "quoteTokenProportion": 46.81,
-            "qualityScore": 1.1098134513901934,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.25,
+            "bht": "Do not fear or despair, for the promise is that she shall be made whole. Have faith and believe, for in doing so, she will be restored to life and perfect health. This promise asks for great faith from Jairus, but the recent miracle surely increased his confidence. Though he had already stopped the crowd outside and was already in the house, he encounters another challenge within. But despite the circumstances, even though it is a unique promise in Luke, do not be dismayed \u2013 have faith, for the Lord is able to bring her back from the dead.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.35841843300951,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
             "commentatorTierSimilarities": [
-                18.86,
-                35.58,
-                45.56
+                21.47,
+                35.57,
+                42.96
             ],
             "generationAttempt": 5
         }

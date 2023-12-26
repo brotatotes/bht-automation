@@ -1,49 +1,47 @@
 {
-    "timestamp": "12-22-2023 23:20:27",
+    "timestamp": "12-25-2023 20:32:30",
     "verseRef": "Mark 1:27",
     "bestBHT": {
-        "bht": "The crowd, astounded by the miracles Jesus performed, questioned the nature of his teaching. They recognized the uniqueness and extraordinary power behind it, acknowledging that this new doctrine was unlike anything taught by their religious leaders. The authority with which Jesus cast out demons astonished them, revealing the unparalleled authority he possessed. However, despite their admiration, they hesitated to fully embrace this profound revelation, engaging in discussions and inquiries among themselves instead of wholeheartedly accepting it.",
-        "wordCount": 76,
-        "quoteTokenProportion": 37.1,
-        "qualityScore": 1.4845732716100937,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+        "bht": "The audience, perceiving that the miraculous healing was meant to exemplify the teachings and reveal the glory of the Teacher, questioned the novelty and uniqueness of this doctrine. They were charmed by the fresh and original nature of Jesus' teachings, which eventually faced opposition from religious leaders. The most astonishing element was the demons' willing submission to Jesus' authoritative commands. Conversing among themselves, they contemplated the extraordinary nature of his teachings and the powerful miracles by which they were confirmed.",
+        "wordCount": 80,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.613277441485633,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.98,
         "commentatorTierSimilarities": [
-            21.35,
-            35.97,
-            42.68
+            23.93,
+            41.17,
+            34.9
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "What thing is this? what new",
-            "\tdoctrine\u2014teaching is this?\" ",
-            "The audience,",
-            "\trightly apprehending that the miracle was wrought to illustrate the teaching and display the character and glory of the Teacher.",
-            "begin by asking what novel kind of teaching this could be, which was so marvellously attested."
+            "The audience, rightly apprehending that the miracle was wrought to illustrate the teaching and display the character and glory of the Teacher...",
+            "What novel kind of teaching this could be, which was so marvellously attested.",
+            "...asking what new doctrine\u2014teaching is this?"
         ],
         "Marvin Vincent": [
             "They questioned among themselves (\u00f3\u00f5\u00ed\u00e6\u00e7\u00f4\u00e5\u00e9\u0342\u00ed \u00f0\u00f1\u00ef\u0300\u00f2 \u00e5\u0314\u00e1\u00f5\u00f4\u00ef\u00f5\u0300\u00f2)"
         ],
         "John Calvin": [
             "What new doctrine is this? They call it new doctrine, not by way of reproach, but as an acknowledgment, that there was something in it unusual and extraordinary.",
-            "It is not for the sake of blame or to lessen its credit that they speak of it as new. This is rather a part of their admiration, that they pronounce it to be not common or ordinary.",
+            "It is not for the sake of blame, or to lessen its credit, that they speak of it as new. This is rather a part of their admiration, that they pronounce it to be not common or ordinary.",
             "Their only fault lies in this, that they remain in their state of hesitation, whereas the children of God ought to make increasing progress."
         ],
         "Philip Schaff": [
-            "Only a miracle could produce this effect.",
             "They rightly inferred, that such new and unexampled power was to attest a new revelation from God.",
-            "Mark gives special prominence to Christ's power over demons."
+            "Mark and Luke mention this miracle first, without saying that it was actually the first.",
+            "Mark gives special prominence to Christ\u2019s power over demons."
         ],
         "Archibald T. Robertson": [
-            "The teaching was fresh (\u03ba\u03b1\u03b9\u03bd\u03b7), original as the dew of the morning on the blossoms just blown.",
+            "The teaching was fresh, original as the dew of the morning on the blossoms just blown.",
             "This new teaching charmed the people, but soon will be rated as heresy by the rabbis.",
-            "But the most astonishing thing of all is that the demons 'obey him' (\u03c5\u03c0\u03b1\u03ba\u03bf\u03c5\u03bf\u03c5\u03c3\u03b9\u03bd \u03b1\u03c5\u03c4\u03c9)."
+            "The most astonishing thing of all is that the demons 'obey him.'"
         ],
         "John Gill": [
             "They spake among themselves, as Luke says, Luke 4:36; they inquired of one another; they conferred together, talked over the point, and disputed among themselves, concerning both the doctrine and power of Christ, what, and how wonderful they were.",
-            "They said, not as fixing a brand of novelty upon it, as the Athenians did on Paul's doctrine, Acts 17:19, but as admiring it; being what was rare and unusual, and which they had never heard of from their Rabbins and Scribes, and which was confirmed by miracles.",
-            "They not only observed the authority with which he delivered his doctrine, but the authority with which he cast out devils, by a word speaking; he not only commanded them to come out, but they immediately came out; their exorcists took authority upon them to command, but could not oblige the devils to obey; but these men took notice, that such was the authority of Christ in commanding, that the unclean spirits were obliged to obey, and did."
+            "What new doctrine is this? This they said, not as fixing a brand of novelty upon it, as the Athenians did on Paul's doctrine, Acts 17:19, but as admiring it; being what was rare and unusual, and which they had never heard of from their Rabbins and Scribes, and which was confirmed by miracles.",
+            "For with authority commandeth he even the unclean spirits, and they do obey him: they not only observed the authority with which he delivered his doctrine, but the authority with which he cast out devils, by a word speaking; he not only commanded them to come out, but they immediately came out."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The astonishment echoed among the crowd as they witnessed the miraculous power of Jesus. They marveled not only at the demon being cast out but also at the teaching that accompanied it. This was no ordinary, common doctrine; it was fresh and original, unlike anything they had heard from their religious leaders. The audience recognized that the teaching and the miracle were intertwined, illustrating the authority and glory of the Teacher. Such extraordinary power could only attest to a new revelation from God, leaving the people in awe and wonder. Yet, amidst their admiration, the onlookers remained in a state of hesitation, failing to fully embrace this new doctrine. They discussed, disputed, and inquired among themselves, recognizing the uniqueness and the confirmation of miracles but lacking the necessary response of wholehearted faith.",
-            "wordCount": 132,
-            "quoteTokenProportion": 33.71,
-            "qualityScore": 1.4737094168631715,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.34,
+            "bht": "The audience, recognizing that the miracle served to emphasize the teaching and demonstrate the character and glory of the Teacher, pondered the significance of this extraordinary and unprecedented power. The novelty of the teaching intrigued them, causing them to wonder about this new doctrine. The teaching itself was fresh and original, captivating the people, yet it would later be discredited by the religious leaders. What astonished them the most was how the demons obediently submitted to Jesus' authority. They conversed among themselves, inquiring about the remarkable nature of both Jesus' doctrine and his power, acknowledging its uniqueness and extraordinary nature. The only shortcoming was their hesitation, as true believers should constantly strive for progress in understanding.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.6002392238800263,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
             "commentatorTierSimilarities": [
-                21.33,
-                37.46,
-                41.21
+                25.17,
+                36.75,
+                38.08
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The crowd was left in awe and wonder as they witnessed the astonishing power of Jesus, prompting them to question the nature of this new teaching. They acknowledged that this doctrine was not ordinary or common; it was fresh and original, like the morning dew on blossoms. The miraculous demonstration of authority over demons attested to the uniqueness and confirmation of this teaching. Despite their admiration, they remained hesitant, discussing, disputing, and inquiring among themselves, failing to fully embrace the extraordinary revelation unfolding before them.",
-            "wordCount": 85,
-            "quoteTokenProportion": 31.75,
-            "qualityScore": 1.464703450139459,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.04,
+            "bht": "The miracle performed by Jesus not only served as a display of his power but also highlighted the significance of his teaching. The audience marveled at the novelty and authenticity of his doctrine, recognizing it as something extraordinary and unlike anything they had heard from their religious leaders. Their amazement extended to Jesus' authority over demons, as they observed how he commanded them with power and they obediently obeyed. This caused them to engage in conversations among themselves, pondering the remarkable nature of his teachings and the wonders he performed.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.5820681135169523,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
             "commentatorTierSimilarities": [
-                24.41,
-                32.84,
-                42.76
+                20.62,
+                39.91,
+                39.47
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The crowd, astounded by the miracles Jesus performed, questioned the nature of his teaching. They recognized the uniqueness and extraordinary power behind it, acknowledging that this new doctrine was unlike anything taught by their religious leaders. The authority with which Jesus cast out demons astonished them, revealing the unparalleled authority he possessed. However, despite their admiration, they hesitated to fully embrace this profound revelation, engaging in discussions and inquiries among themselves instead of wholeheartedly accepting it.",
-            "wordCount": 76,
-            "quoteTokenProportion": 37.1,
-            "qualityScore": 1.4845732716100937,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+            "bht": "The audience, rightly perceiving that the miraculous healings were intended to illustrate the profound teachings and reveal the character and glory of the Teacher, questioned and discussed among themselves the extraordinary nature of this new and unprecedented doctrine. They were captivated by the freshness and originality of Jesus' teachings, which, though initially charming, would later be deemed heresy by the religious leaders. The most astonishing aspect was the unquestioning obedience of the demons to Jesus' authoritative commands. Their conversations centered on the exceptional doctrine and power of Christ, making note of its uniqueness and confirmation through miracles.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.5951613340613249,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.38,
             "commentatorTierSimilarities": [
-                21.35,
-                35.97,
-                42.68
+                21.56,
+                40.01,
+                38.43
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The crowd, mesmerized by the miraculous power displayed by Jesus, found themselves questioning the unprecedented teaching that accompanied it. They marveled at the freshness and originality of this doctrine, recognizing that it exceeded the teachings of their religious authorities. The authority with which Jesus commanded demons to obey was an astonishing sight, highlighting the extraordinary power he possessed. Though they were amazed, the crowd struggled to fully embrace this remarkable revelation, engaging in discussions and inquiries among themselves, rather than wholeheartedly accepting it.",
-            "wordCount": 83,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.4708645086769845,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "bht": "The audience, recognizing the miraculous works as a means to illustrate the profound teachings and the character of the Teacher, marveled at the novelty of this new doctrine. They were captivated by the freshness and originality of Jesus' teachings, realizing that it went beyond what they had heard from their religious leaders. The remarkable obedience of the demons to Jesus' authoritative commands left them astonished. Engaging in discussions among themselves, they contemplated the extraordinary nature of Christ's teachings and the power that accompanied them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5883470948608036,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
             "commentatorTierSimilarities": [
-                21.65,
-                35.63,
-                42.72
+                23.34,
+                39.75,
+                36.91
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The crowd was awestruck by the miracles of Jesus, prompting them to question the nature of His teaching. They marveled at the freshness and originality of this doctrine, recognizing that it surpassed the teachings of the religious authorities. The authority with which Jesus commanded demons to obey astonished them, revealing the extraordinary power He possessed. However, despite their admiration, they hesitated to fully embrace this remarkable revelation, engaging in discussions and inquiries among themselves rather than fully accepting it.",
-            "wordCount": 79,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.4527017324902018,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "bht": "The audience, perceiving that the miraculous healing was meant to exemplify the teachings and reveal the glory of the Teacher, questioned the novelty and uniqueness of this doctrine. They were charmed by the fresh and original nature of Jesus' teachings, which eventually faced opposition from religious leaders. The most astonishing element was the demons' willing submission to Jesus' authoritative commands. Conversing among themselves, they contemplated the extraordinary nature of his teachings and the powerful miracles by which they were confirmed.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.613277441485633,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
             "commentatorTierSimilarities": [
-                23.01,
-                33.61,
-                43.37
+                23.93,
+                41.17,
+                34.9
             ],
             "generationAttempt": 5
         }

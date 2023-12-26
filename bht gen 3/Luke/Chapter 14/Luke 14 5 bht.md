@@ -1,13 +1,13 @@
 # Luke 14:5 Commentary Help Text
 
 ## BHT:
-This statement emphasizes the importance of caring for those in our possession or care, whether they be animals or fellow human beings. It challenges the hypocrisy of prioritizing rules over the well-being of others and exposes the lack of empathy in the hearts of the lawyers and Pharisees. By posing this question, Jesus unveils their inconsistency and leaves them defenseless. The underlying message suggests that if we are willing to extend help and kindness to animals, it is only just and reasonable that we do the same for our fellow human beings.
+Jesus poses a thought-provoking question to the Pharisees and lawyers, asking if they would hesitate to rescue their own livestock if they fell into a well on the Sabbath. By drawing attention to the care and concern they would naturally have for their possessions, Jesus reveals their lack of compassion for their fellow human beings. His comparison exposes the inconsistency in their observance of the Sabbath and challenges their rigid interpretation of the law, urging them to prioritize acts of kindness and mercy over legalistic rules.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The stress is on you: and the point of comparison is the ownership, consequent tender care, of the object in question." 
-2. "‘Those who are in your possession and care, whether belonging to your families, or your herds, are cared for, and rescued from perishing: am I... to let mine perish without care or rescue?’"
-3. "As Trench remarks, it is probable this was a splendid entertainment, and the guests distinguished persons."
+1. "The stress is on you: and the point of comparison is the ownership, consequent tender care, of the object in question."
+2. "‘Those who are in your possession and care, whether belonging to your families, or your herds, are cared for, and rescued from pershing: am I, (the possessor of heaven and earth,—this lies in the background) to let mine perish without care or rescue?’"
+3. "As Trench remark, it is probable this was a splendid entertainment, and the guests distinguished persons (ver. 12)."
 
 ### Marvin Vincent:
 1. Pit [φρεαρ] . The primary meaning is a well, as distinguished from a fountain. 
@@ -15,9 +15,9 @@ Pull out. More correctly up [ανα] .
 
 
 ### John Calvin:
-1. "Though they did not deserve that Christ should take pains to remove the offense, yet he shows that he did nothing inconsistent with the observance of the Sabbath."
-2. "He knew that they were too much blinded by virulent hatred to yield submissively, to argument, but wished to triumph over their malice, by compelling them through shame to be silent."
-3. "If we are at liberty to relieve brute animals on Sabbath, it would be unreasonable that we should not perform a similar office of kindness to man, who is formed after the image of God."
+1. "He shows that he did nothing inconsistent with the observance of the Sabbath."
+2. "If we are at liberty to relieve brute animals on Sabbath, it would be unreasonable that we should not perform a similar office of kindness to man, who is formed after the image of God."
+3. "He knew that they were too much blinded by virulent hatred to yield submissively, to argument, but wished to triumph over their malice, by compelling them through shame to be silent."
 
 ### Philip Schaff:
 1. "If on the Sabbath you help what is your own, then help others (love thy neighbor as thyself)."
@@ -25,52 +25,50 @@ Pull out. More correctly up [ανα] .
 3. "The danger in the well was that of drowning."
 
 ### Archibald T. Robertson:
-1. "Whose ox or ass of you shall fall into a well and he will not straightway draw him up on the sabbath day?"
+1. "Whose ox or ass of you shall fall into a well and he will not straightway draw him up on the sabbath day?" 
 2. "The very form of the question is a powerful argument and puts the lawyers and the Pharisees hopelessly on the defensive."
-3. "The sentence in the Greek reads literally...The manuscripts are much divided between 'son' and 'ass' which in the abbreviated uncials looked much alike and were much alike."
 
 ### John Gill:
 1. "Which of you shall have an ass, or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?"
-2. "It must be much more right and necessary to cure a man, a reasonable creature, just drowning with a dropsy."
-3. "A like kind of reasoning is used by Christ."
+2. "...and therefore it must be much more right and necessary to cure a man, a reasonable creature, just drowning with a dropsy, as this man was."
+3. "A like kind of reasoning is used by Christ..."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:19:45
+- Timestamp: 12-25-2023 20:33:33
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 46.15%
-- BHT Quality Score: 1.2541778383277724
+- BHT Word Count: 87
+- BHT Commentary Usage: 33.33%
+- BHT Quality Score: 1.3999402369281522
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['and', 'animals', 'are', 'be', 'being', 'beings', 'by', 'care', 'caring', 'challenges', 'defenseless', 'do', 'empathy', 'emphasizes', 'exposes', 'extend', 'fellow', 'for', 'hearts', 'help', 'human', 'hypocrisy', 'if', 'importance', 'in', 'inconsistency', 'is', 'it', 'jesus', 'just', 'kindness', 'lack', 'lawyers', 'leaves', 'message', 'of', 'only', 'or', 'others', 'our', 'over', 'pharisees', 'posing', 'possession', 'prioritizing', 'question', 'reasonable', 'rules', 'same', 'statement', 'suggests', 'that', 'the', 'their', 'them', 'they', 'this', 'those', 'to', 'underlying', 'unveils', 'we', 'well', 'whether', 'willing']
-- ChatGPT injected words (significant words only) (35):
-	['animals', 'beings', 'care', 'caring', 'challenges', 'defenseless', 'empathy', 'emphasizes', 'exposes', 'extend', 'fellow', 'hearts', 'help', 'human', 'hypocrisy', 'importance', 'inconsistency', 'jesus', 'kindness', 'lack', 'lawyers', 'leaves', 'message', 'pharisees', 'posing', 'possession', 'prioritizing', 'question', 'reasonable', 'rules', 'statement', 'suggests', 'underlying', 'unveils', 'willing']
+- ChatGPT injected words (60):
+	['a', 'acts', 'and', 'asking', 'attention', 'beings', 'by', 'care', 'challenges', 'comparison', 'compassion', 'concern', 'drawing', 'exposes', 'fell', 'fellow', 'for', 'have', 'hesitate', 'his', 'human', 'if', 'in', 'inconsistency', 'interpretation', 'into', 'jesus', 'kindness', 'lack', 'law', 'lawyers', 'legalistic', 'livestock', 'mercy', 'naturally', 'observance', 'of', 'on', 'over', 'own', 'pharisees', 'poses', 'possessions', 'prioritize', 'provoking', 'question', 'rescue', 'reveals', 'rigid', 'rules', 'sabbath', 'the', 'their', 'them', 'they', 'thought', 'to', 'urging', 'well', 'would']
+- ChatGPT injected words (significant words only) (40):
+	['acts', 'asking', 'attention', 'beings', 'care', 'challenges', 'comparison', 'compassion', 'concern', 'drawing', 'exposes', 'fell', 'fellow', 'hesitate', 'human', 'inconsistency', 'interpretation', 'jesus', 'kindness', 'lack', 'law', 'lawyers', 'legalistic', 'livestock', 'mercy', 'naturally', 'observance', 'pharisees', 'poses', 'possessions', 'prioritize', 'provoking', 'question', 'rescue', 'reveals', 'rigid', 'rules', 'sabbath', 'thought', 'urging']
 
 ### Logs
-- Attempt 1 BHT: The verse reminds us of the importance of compassion and care for all living beings. The question posed challenges the hypocrisy of prioritizing rules over the needs of those under our care, whether it be animals or fellow humans. This issue was particularly relevant in a society where lavish banquets were common, and it was crucial for the guests to portray superiority. The mention of a well or pit symbolizes imminent danger, demanding immediate action to save the one in distress. The question's power lies in its ability to leave the lawyers and Pharisees defenseless, as it exposes their inconsistency and lack of empathy. The underlying message is clear: if we are willing to extend help and kindness to animals, it is only logical and just that we do the same for our fellow human beings.
-- 🔄 Luke 14:5 (attempt 1, 137 words, 37.23% quotes quality score: 1.1617576572950374, V2 normalized quality score: 29.97, commentator tiers 1-3: 29.05%, 33.33%, 37.62%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: This passage challenges the hypocritical priorities of rules over the well-being of those under our care. It highlights the importance of compassion and immediate action in times of danger, whether it is a literal well or a metaphorical pit. By posing this question, Jesus exposes the inconsistency and lack of empathy in the hearts of the lawyers and Pharisees, forcing them into a defensive position. The underlying message is clear: if we are willing to extend help and kindness to animals, it is only logical and just that we do the same for our fellow human beings.
-- 🔄 Luke 14:5 (attempt 2, 98 words, 41.43% quotes quality score: 1.2204363416933017, V2 normalized quality score: 31.92, commentator tiers 1-3: 28.73%, 30.95%, 40.31%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The importance of compassionate care for all beings is emphasized in this statement. The question raised challenges the prioritization of rules over the well-being of those under our responsibility. Jesus exposes the inconsistency and lack of empathy in the hearts of the lawyers and Pharisees, leaving them defenseless. The message is clear: if we are willing to extend help and kindness to animals, it is only logical and just that we do the same for our fellow human beings.
-- 🔄 Luke 14:5 (attempt 3, 80 words, 43.86% quotes quality score: 1.1630089926174456, V2 normalized quality score: 30.01, commentator tiers 1-3: 28.21%, 36.09%, 35.7%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: This statement highlights the significance of caring for and rescuing those in our possession or care. It questions the inconsistency of allowing animals to perish without intervention while upholding rules and regulations. The question puts the lawyers and Pharisees on the defensive, exposing their lack of compassion and revealing their misguided priorities. The message conveyed is that if we are willing to extend help and kindness to animals, it is only fair and reasonable to show the same care and concern for our fellow human beings.
-- 🔄 Luke 14:5 (attempt 4, 86 words, 37.1% quotes quality score: 1.209786914410477, V2 normalized quality score: 31.57, commentator tiers 1-3: 36.47%, 28.39%, 35.14%) 
+- Attempt 1 BHT: If you possess something valuable, like an ox or an ass, and it falls into a well, you would immediately rescue it without hesitation, regardless of the day. In the same way, Jesus questions whether it is appropriate for him, the possessor of heaven and earth, to let a person perish without care or rescue. This statement puts the lawyers and Pharisees on the defensive, as it exposes their lack of compassion and highlights the inconsistency of their Sabbath observance. Jesus not only argues for the importance of helping others, whether human or animal, but also points out the unreasonable nature of their strict Sabbath regulations.
+- 🔄 Luke 14:5 (attempt 1, 106 words, 41.33% quotes quality score: 1.4334078537332524, V2 normalized quality score: 39.0, commentator tiers 1-3: 30.52%, 29.87%, 39.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: This statement emphasizes the importance of caring for those in our possession or care, whether they be animals or fellow human beings. It challenges the hypocrisy of prioritizing rules over the well-being of others and exposes the lack of empathy in the hearts of the lawyers and Pharisees. By posing this question, Jesus unveils their inconsistency and leaves them defenseless. The underlying message suggests that if we are willing to extend help and kindness to animals, it is only just and reasonable that we do the same for our fellow human beings.
-- 🔄 Luke 14:5 (attempt 5, 93 words, 46.15% quotes quality score: 1.2541778383277724, V2 normalized quality score: 33.04, commentator tiers 1-3: 26.99%, 31.63%, 41.39%) 
+- Attempt 2 BHT: Imagine if you were to let your own ox or ass fall into a well, wouldn't you immediately rescue it, regardless of the day? Jesus' question exposes the Pharisees' lack of care and compassion, highlighting the inconsistency of their Sabbath observance. By drawing this comparison, Jesus not only promotes the importance of helping others but also challenges the unreasonable nature of their strict regulations. He shows that it is not only justifiable but essential to extend kindness and assistance to others, regardless of the day.
+- 🔄 Luke 14:5 (attempt 2, 86 words, 39.68% quotes quality score: 1.259627240125759, V2 normalized quality score: 33.23, commentator tiers 1-3: 29.71%, 23.95%, 46.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 14:5 bht prompt v0.8 (93 words, 46.15% quotes)
-- quality score: 1.2541778383277724, V2 normalized quality score: 33.04, commentator tiers 1-3: 26.99%, 31.63%, 41.39%)
+- Attempt 3 BHT: Jesus poses a thought-provoking question to the Pharisees and lawyers, asking if they would hesitate to rescue their own livestock if they fell into a well on the Sabbath. By drawing attention to the care and concern they would naturally have for their possessions, Jesus reveals their lack of compassion for their fellow human beings. His comparison exposes the inconsistency in their observance of the Sabbath and challenges their rigid interpretation of the law, urging them to prioritize acts of kindness and mercy over legalistic rules.
+- 🔄 Luke 14:5 (attempt 3, 87 words, 33.33% quotes quality score: 1.3999402369281522, V2 normalized quality score: 37.89, commentator tiers 1-3: 29.18%, 27.38%, 43.44%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Jesus' question about rescuing one's own ox or ass that had fallen into a well on the Sabbath day exposes the hypocritical attitude of the Pharisees and lawyers. He emphasizes the importance of showing care and compassion towards others, even more so than for one's possessions. By challenging their strict Sabbath observance, Jesus highlights the need for love and kindness to prevail over legalistic rules. His penetrating question effectively puts the Pharisees and lawyers on the defensive, revealing their lack of genuine concern for their fellow human beings.
+- 🔄 Luke 14:5 (attempt 4, 90 words, 38.81% quotes quality score: 1.357807713265101, V2 normalized quality score: 36.49, commentator tiers 1-3: 35.11%, 20.91%, 43.98%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Jesus' powerful question about rescuing an ox or ass that had fallen into a well on the Sabbath exposes the inconsistency and lack of compassion in the Pharisees and lawyers. He points out that they would not hesitate to rescue their own possessions, yet they would neglect to extend the same care to human beings. By challenging their rigid interpretation of the law, Jesus highlights the importance of prioritizing love, kindness, and mercy over legalistic observance. His inquiry forces them to confront their own hypocrisy and disregard for others.
+- 🔄 Luke 14:5 (attempt 5, 89 words, 42.03% quotes quality score: 1.3089338528214927, V2 normalized quality score: 34.87, commentator tiers 1-3: 29.86%, 23.43%, 46.71%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 14:5 bht prompt v0.8 (87 words, 33.33% quotes)
+- quality score: 1.3999402369281522, V2 normalized quality score: 37.89, commentator tiers 1-3: 29.18%, 27.38%, 43.44%)

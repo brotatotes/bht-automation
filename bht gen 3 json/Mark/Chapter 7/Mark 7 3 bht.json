@@ -1,38 +1,38 @@
 {
-    "timestamp": "12-22-2023 23:24:04",
+    "timestamp": "12-25-2023 20:32:32",
     "verseRef": "Mark 7:3",
     "bestBHT": {
-        "bht": "The debate over the word oft in this text has puzzled scholars, with two possible interpretations: oft or diligently. This has led to uncertainty in determining its true meaning. One possibility is that it refers to washing diligently up to the elbow, using one hand clenched. On the other hand, it might imply washing one's own hands. Regardless, it is clear that the act of washing, as performed by the Scribes and Pharisees, was a formal and ceremonial tradition. This highlights their strict adherence to external rituals and traditions.",
-        "wordCount": 90,
-        "quoteTokenProportion": 41.54,
-        "qualityScore": 1.1798608495065794,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.57,
+        "bht": "The interpretation of the word in question has perplexed scholars, yet two possible renderings are considered valid. It could describe diligently rubbing one hand and arm with the other hand clenched, or a dry wash without water. Regardless of the exact meaning, the Pharisees and Jews were committed to adhering to this ritualistic tradition of washing hands before eating. They considered it an essential practice, rooted in their adherence to scriptural authority and the traditions upheld by the Scribes and Pharisees.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.429670581247538,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.88,
         "commentatorTierSimilarities": [
-            27.52,
-            26.21,
-            46.28
+            20.26,
+            28.59,
+            51.15
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The word oft thus rendered has perplexed all the Commentators.",
-            "Of the various renderings which have been given of it, two only seem to be admissible: (1) that given in the text, oft; and (2) diligently.",
+            "Of the various renderings which have been given of it, two only seem to be admissible.",
             "Between these two it is not easy to decide."
         ],
         "Philip Schaff": [
-            "Pharisaism had the upper hand.",
-            "The literal sense is the correct one, but it conveys no meaning to the ordinary reader without a long explanation.",
-            "The main point is, that the ceremony was formal."
+            "All the Jews. Pharisaism had the upper hand.",
+            "Probably it was part of the rite, that the washing hand was shut; Because it might have been thought that the open hand engaged in washing would make the other unclean, or be made unclean by it, after having itself been washed\u2019 (Lange.)",
+            "The literal sense is the correct one, but it conveys no meaning to the ordinary reader without a long explanation. The main point is, that the ceremony was formal."
         ],
         "Archibald T. Robertson": [
-            "Diligently (\u03c0\u03c5\u03b3\u03bc\u03b7). Instrumental case, with the fist, up to the elbow, rubbing one hand and arm with the other hand clenched.\" ",
-            "The middle voice \u03bd\u03b9\u03c8\u03c9\u03bd\u03c4\u03b1 means their own hands.\" ",
-            "This verb is often used for parts of the body while \u03bb\u03bf\u03c5\u03c9 is used of the whole body"
+            "Diligently...rubbing one hand and arm with the other hand clenched.\" ",
+            "Schultess considers it a dry wash or rubbing of the hands without water as a ritualistic concession.\" ",
+            "This verb is often used for parts of the body while \u03bb\u03bf\u03c5\u03c9 is used of the whole body."
         ],
         "John Gill": [
-            "they wash their hands to the elbow",
-            "the command concerning washing of hands is, from the words of the Scribes",
+            "For the Pharisees, and all the Jews, were very tenacious of this tradition of washing hands before eating.",
+            "The Jews pretend the authority of the Scriptures as obliging them to such rules; for, they say, the command concerning washing of hands is, 'from the words of the Scribes'.",
             "And this tradition of the elders, the Scribes, and Pharisees, strictly observed."
         ]
     },
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The word oft in this verse has been a cause of confusion among scholars and various renderings have been proposed, including diligently. The meaning of the word is not easy to determine. On one hand, it could refer to washing diligently, up to the elbow, with one hand clenched, and often used for parts of the body. On the other hand, it could imply their own hands being washed. Pharisaism seemed to be prevailing, and while the literal sense of the verse is correct, it may require a lengthy explanation for it to be fully understood. The main point here is that the washing ceremony was a formal act, following the tradition of the Scribes and Pharisees.",
-            "wordCount": 117,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 1.2729271011287364,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.67,
+            "bht": "The commentators are unsure of the exact meaning of the word in this verse, but two possible interpretations stand out. It could mean diligently rubbing one hand and arm with the other hand clenched, or it could refer to a dry wash or rubbing of the hands without water. Regardless of the precise action, this was a ritualistic concession that the Pharisees and Jews followed, as they were very strict in their observance of traditions and rules. This tradition of washing hands before eating was considered important by the Jewish elders and was seen as an obligation based on their interpretation of scriptural authority.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.4455769163569245,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.41,
             "commentatorTierSimilarities": [
-                28.49,
-                31.98,
-                39.52
+                17.7,
+                32.66,
+                49.64
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The word oft in this passage has raised much debate among scholars, with two possible meanings: oft or diligently. The confusion lies in the fact that this verb is often used for parts of the body, while \u03bb\u03bf\u03c5\u03c9, meaning to wash, is used for the whole body. The ceremony of washing here was a formal one, adhered to strictly by the Scribes and Pharisees. Although the true meaning may not be immediately clear to the average reader, it highlights the emphasis placed on traditions and external rituals.",
-            "wordCount": 87,
-            "quoteTokenProportion": 45.45,
-            "qualityScore": 1.2812011269871777,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.94,
+            "bht": "The word oft used in this passage has caused confusion among interpreters, who suggest two possible meanings for it. Some propose that it refers to diligently rubbing one hand and arm with the other hand clenched, while others argue for a dry wash or rubbing of the hands without water. Regardless of the specific action, it was a ritualistic practice upheld by the Pharisees and Jews. These traditions of hand washing before eating were considered important and obligatory, as they stemmed from the interpretation of scriptural authority by the Scribes and Pharisees.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.4356689667136935,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.08,
             "commentatorTierSimilarities": [
-                30.07,
-                31.75,
-                38.18
+                20.32,
+                30.43,
+                49.24
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The perplexing word oft in this verse can be understood in two ways: either as oft or diligently. Scholars have debated this, as the verb often refers to washing parts of the body, while another term, \u03bb\u03bf\u03c5\u03c9, is used for washing the entire body. The washing ceremony described here was a formal act, diligently followed by the Scribes and Pharisees, reflecting the emphasis they placed on traditions and external rituals. Though the meaning may not be immediately apparent, it underscores the significance of these customs in their religious practice.",
-            "wordCount": 89,
-            "quoteTokenProportion": 44.93,
-            "qualityScore": 1.1797544546068561,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.57,
+            "bht": "The interpretation of the word in question has perplexed scholars, yet two possible renderings are considered valid. It could describe diligently rubbing one hand and arm with the other hand clenched, or a dry wash without water. Regardless of the exact meaning, the Pharisees and Jews were committed to adhering to this ritualistic tradition of washing hands before eating. They considered it an essential practice, rooted in their adherence to scriptural authority and the traditions upheld by the Scribes and Pharisees.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.429670581247538,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.88,
             "commentatorTierSimilarities": [
-                30.83,
-                28.35,
-                40.82
+                20.26,
+                28.59,
+                51.15
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The debate over the word oft in this text has puzzled scholars, with two possible interpretations: oft or diligently. This has led to uncertainty in determining its true meaning. One possibility is that it refers to washing diligently up to the elbow, using one hand clenched. On the other hand, it might imply washing one's own hands. Regardless, it is clear that the act of washing, as performed by the Scribes and Pharisees, was a formal and ceremonial tradition. This highlights their strict adherence to external rituals and traditions.",
-            "wordCount": 90,
-            "quoteTokenProportion": 41.54,
-            "qualityScore": 1.1798608495065794,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.57,
+            "bht": "The meaning of the word in question remains uncertain among commentators, but two possible interpretations arise. It could entail diligently rubbing one hand and arm with the other clenched, or a dry wash without water, as a ritualistic act. The Pharisees and Jews held fast to this tradition, regarding it as significant and obligatory. They believed that this practice was based on scriptural authority and upheld by the Scribes and Pharisees, demonstrating their commitment to religious customs.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.321556552106154,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.28,
             "commentatorTierSimilarities": [
-                27.52,
-                26.21,
-                46.28
+                21.5,
+                27.39,
+                51.12
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The word oft in this passage has puzzled commentators, who contemplate two possible meanings: oft or diligently. The difficulty lies in deciding between them. One option is to interpret it as washing diligently, up to the elbow, with one hand clenched, a verb often used for body parts. Conversely, it could signify their own hands being washed. It is evident that the washing ceremony described here was a formal ritual followed strictly by the Scribes and Pharisees, emphasizing the significance they placed on traditions and external practices.",
-            "wordCount": 87,
-            "quoteTokenProportion": 43.66,
-            "qualityScore": 1.287378532342952,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.15,
+            "bht": "The uncertainty surrounding the meaning of the word in question has given rise to two possible renderings. It may refer to diligently rubbing one hand and arm with the other hand clenched, or to a dry wash without water. Regardless of the precise action, the Pharisees and Jews were devoted to this tradition, considering it an essential and obligatory practice. They maintained that this practice was in accordance with scriptural authority and was strictly followed by the Scribes and Pharisees.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.260449328025891,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.25,
             "commentatorTierSimilarities": [
-                31.48,
-                29.43,
-                39.1
+                23.5,
+                26.52,
+                49.98
             ],
             "generationAttempt": 5
         }

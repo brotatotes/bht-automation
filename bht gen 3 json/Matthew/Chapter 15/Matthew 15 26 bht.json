@@ -1,43 +1,42 @@
 {
-    "timestamp": "12-19-2023 23:48:40",
+    "timestamp": "12-25-2023 20:31:53",
     "verseRef": "Matthew 15:26",
     "bestBHT": {
-        "bht": "The word used here does not indicate contempt but rather familiarity, referring to tame dogs that would be found running around a family meal. The woman skillfully used this sense of familiarity to demonstrate her faith and convince the disciples that it was appropriate for her to receive blessings. This distinction between Jews and Gentiles was later removed with the spread of the Gospel. Jesus was testing the woman's faith and warning of impending judgment for the Jews who rejected the offered salvation.",
-        "wordCount": 84,
-        "quoteTokenProportion": 38.33,
-        "qualityScore": 1.426615493653649,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.78,
+        "bht": "The use of the term dogs in reference to the woman does not indicate any contempt; rather, it refers to tame and familiar household dogs. By calling the Gentiles little dogs who belong to their masters, Jesus is speaking honorably of them. This interaction serves as a test of the woman's faith and serves to emphasize the rejection of the Jews who refuse the blessings intended for them but are freely offered to those who seek them fervently.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.9270157843735243,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.41,
         "commentatorTierSimilarities": [
-            16.92,
-            45.46,
-            37.63
+            30.19,
+            38.08,
+            31.73
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "No contempt is indicated by the diminutive, still less any allusion to the daughter of the woman.",
-            "The word is commonly used of tame dogs, as diminutives frequently express familiarity.",
-            "Diminutives frequently express familiarity."
+            "The word is commonly used of tame dogs, as diminutives frequently express familiarity."
         ],
         "Marvin Vincent": [
-            "Children's [\u03c4\u03c9\u03bd \u03c4\u03b5\u03ba\u03bd\u03c9\u03bd]...he spoke honorably of them to those without.",
-            "Dogs [\u03ba\u03c5\u03bd\u03b1\u03c1\u03b9\u03bf\u03b9\u03c2]...The picture is of a family meal, with the pet house-dogs running round the table.",
+            "Children's [\u03c4\u03c9\u03bd \u03c4\u03b5\u03ba\u03bd\u03c9\u03bd]. Bengel observes that while Christ spoke severely to the Jews, he spoke honorably of them to those without.",
+            "Dogs [\u03ba\u03c5\u03bd\u03b1\u03c1\u03b9\u03bf\u03b9\u03c2]. Diminutive: little dogs.",
             "Their masters. The children are the masters of the little dogs."
         ],
         "John Calvin": [
-            "But this must be restricted to that time when it was in Judea only that men called on God; for, since the Gentiles were admitted to partake of the same salvations\u2014which took place when Christ diffused everywhere the light of his Gospel\u2014the distinction was removed, and those who were formerly dogs are now reckoned among the children.\" ",
-            "The pride of the flesh must fall down when we learn that by nature we are dogs.",
-            "His chief design was to make trial of the woman\u2019s faith, but he also pointed out the dreadful vengeance that would overtake the Jews, who rejected an inestimable benefit which was freely offered to them, and which they refused to those who sought it with warmth and earnestness."
+            "To make the meaning plain to us, it must be understood that the appellation of the children\u2019s bread is here given, not to the gifts of God of whatever description, but only to those which were bestowed in a peculiar manner on Abraham and his posterity.",
+            "By using the word throw, Christ intimates that what is taken from the Church of God and given to heathens is not well bestowed.",
+            "His chief design was, to make trial of the woman\u2019s faith; but he also pointed out the dreadful vengeance that would overtake the Jews, who rejected an inestimable benefit which was freely offered to them, and which they refused to those who sought it with warmth and earnestness."
         ],
         "Philip Schaff": [
-            "It calls forth the woman\u2019s faith, and convinces the disciples that it is \u2018proper\u2019 to bless this heathen woman.",
+            "The reply is not harsh, nor is it a refusal... It calls forth the woman\u2019s faith, and convinces the disciples that it is \u2018proper\u2019 to bless this heathen woman.",
             "All present understood this as referring to the blessings provided for the Jews.",
-            "Household dogs are meant; a sense the woman skillfully used."
+            "A reference to the large savage dogs so common in the East, would be very contemptuous; household dogs are meant; a sense the woman skilfully used."
         ],
         "John Gill": [
-            "By 'the children', are meant the Jews...being under the more peculiar care and notice of God.",
-            "By 'the bread'; which belonged to them, is meant the external ministry of the word, and the miracles of Christ.",
+            "By 'the children', are meant the Jews, to whom the adoption belonged; who, as a nation and people, were the children of God in a large sense.",
+            "By 'the bread'...is meant the external ministry of the word, and the miracles of Christ wrought among them.",
             "By 'the dogs' are designed the Gentiles, so called by the Jews in a way of contempt, because of their ignorance, idolatry, and impurity."
         ]
     },
@@ -58,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The word used for dogs in Matthew 15:26 does not indicate any contempt, but rather familiarity. It refers to tame dogs, like the ones that would run around a family meal. The woman skillfully used this sense of familiarity to demonstrate her faith and convince the disciples that it was appropriate for her to receive blessings. While at that time the distinction between Jews and Gentiles still existed, with the Jews being referred to as the children and the Gentiles as the dogs, later on this distinction was removed with the spread of the Gospel. Jesus was not only testing the woman's faith, but also warning of the judgment that awaited the Jews who rejected the salvation freely offered to them.",
-            "wordCount": 121,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.550348954564877,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "bht": "The woman in this passage is not being belittled in any way, as the term dogs is commonly used to refer to tame and familiar household dogs. Jesus is speaking honorably of the Gentiles, represented by the little dogs who belong to their masters, the children. This interaction serves to test the woman's faith, and also to highlight the rejection of the Jews who refuse the blessings that were intended for them, but are freely offered to those who seek them with earnestness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9000244202615608,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.52,
             "commentatorTierSimilarities": [
-                22.29,
-                41.07,
-                36.64
+                31.32,
+                37.07,
+                31.61
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The word used does not indicate any contempt, but rather familiarity. It refers to tame dogs, like those that would run around a family meal. The woman skillfully used this sense of familiarity to demonstrate her faith and convince the disciples that it was appropriate for her to receive blessings. While at that time the distinction between Jews and Gentiles still existed, this distinction was later removed with the spread of the Gospel. Jesus was testing the woman's faith and warning of the judgment that awaited the Jews who rejected the salvation freely offered to them.",
-            "wordCount": 97,
-            "quoteTokenProportion": 40.3,
-            "qualityScore": 1.3989005821692062,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.86,
+            "bht": "The use of the term dogs in reference to the woman does not indicate any contempt; rather, it refers to tame and familiar household dogs. By calling the Gentiles little dogs who belong to their masters, Jesus is speaking honorably of them. This interaction serves as a test of the woman's faith and serves to emphasize the rejection of the Jews who refuse the blessings intended for them but are freely offered to those who seek them fervently.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9270157843735243,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
             "commentatorTierSimilarities": [
-                21.18,
-                42.81,
-                36.01
+                30.19,
+                38.08,
+                31.73
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The word used here does not indicate contempt but rather familiarity, referring to tame dogs that would be found running around a family meal. The woman skillfully used this sense of familiarity to demonstrate her faith and convince the disciples that it was appropriate for her to receive blessings. This distinction between Jews and Gentiles was later removed with the spread of the Gospel. Jesus was testing the woman's faith and warning of impending judgment for the Jews who rejected the offered salvation.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.426615493653649,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.78,
+            "bht": "The woman is not being belittled as the term dogs here refers to tame and familiar household dogs. Jesus speaks honorably of the Gentiles, represented by the little dogs who belong to their masters, the children. This interaction tests the woman's faith and highlights the rejection of the Jews who refuse the blessings meant for them but are freely offered to those who earnestly seek them. It is not a harsh reply but calls forth the woman's faith and convinces the disciples that it is appropriate to bless this Gentile woman.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8772314228389995,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.76,
             "commentatorTierSimilarities": [
-                16.92,
-                45.46,
-                37.63
+                28.29,
+                41.22,
+                30.49
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The word used in this verse does not indicate contempt, but rather familiarity. It refers to tame dogs, like those that would be found running around a family meal. The woman skillfully used this familiarity to demonstrate her faith and convince the disciples that she too should receive blessings. While the distinction between Jews and Gentiles existed at that time, it was later removed through the spread of the Gospel. Jesus was testing the woman's faith and warning of the judgment that awaited the Jews who rejected the offered salvation.",
-            "wordCount": 91,
-            "quoteTokenProportion": 41.79,
-            "qualityScore": 1.3994063365420568,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.87,
+            "bht": "The woman is not being belittled as the term dogs here refers to tame and familiar household dogs. Jesus speaks honorably of the Gentiles, represented by the little dogs who belong to their masters, the children. This interaction tests the woman's faith and highlights the rejection of the Jews who refuse the blessings meant for them but are freely offered to those who earnestly seek them.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.8679932475012606,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.45,
             "commentatorTierSimilarities": [
-                19.04,
-                43.85,
-                37.11
+                32.25,
+                37.37,
+                30.38
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The term dogs used in this passage does not imply contempt but rather familiarity and refers to tame household dogs. The woman shrewdly used this sense of familiarity to display her faith and convince the disciples of her worthiness to receive blessings. Although there was a distinction between Jews and Gentiles at that time, this division was later abolished by the spread of the Gospel. Jesus' intention was to test the woman's faith while also warning the Jews of the impending judgment for rejecting the salvation offered to them.",
-            "wordCount": 90,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.3843771082619982,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.37,
+            "bht": "The woman is not being belittled, as the term dogs is commonly used to refer to tame and familiar household dogs. Jesus speaks honorably of the Gentiles, who are represented by the little dogs belonging to their masters, the children. This interaction serves to test the woman's faith and also emphasizes the rejection of the Jews who refuse the blessings intended for them, while freely offering them to those who earnestly seek them.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.882637046031943,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
             "commentatorTierSimilarities": [
-                15.79,
-                45.33,
-                38.88
+                33.27,
+                36.82,
+                29.91
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 17:29:50",
+    "timestamp": "12-25-2023 20:34:30",
     "verseRef": "2 Timothy 1:17",
     "bestBHT": {
-        "bht": "In the crowded metropolis of Rome, where not everyone would take the trouble to search out a Christian brother or minister who was a prisoner, there was a man who diligently sought after and found the apostle Paul. Despite the risk to his own life, this individual displayed loyal and loving kindness by going the extra mile to discover Paul's whereabouts. In the midst of Paul's confinement and chains, this act of compassion will not go unnoticed by the Lord on the day of judgment.",
-        "wordCount": 87,
-        "quoteTokenProportion": 38.71,
-        "qualityScore": 1.1973313467975433,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+        "bht": "In the crowded metropolis of Rome, Onesiphorus went above and beyond to find and comfort the imprisoned apostle Paul, even at the risk of his own life. His remarkable act of diligently seeking out a fellow Christian in need will not go unnoticed by the Lord on the day of judgment, when all the universe will be assembled. Onesiphorus's loyal and loving kindness, amidst the challenges of Paul's chains and the difficulty in locating him, demonstrates his exceptional devotion and selflessness.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.2635212865216188,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.36,
         "commentatorTierSimilarities": [
-            20.16,
-            42.5,
-            37.34
+            25.83,
+            49.1,
+            25.07
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -26,19 +26,19 @@
             "His attention was the more valuable because it cost him trouble to find him."
         ],
         "Philip Schaff": [
-            "Sought me out very diligently.",
-            "Others turned away.",
-            "He came with loyal and loving kindness."
+            "When he was in Borne. It follows from this that he had left it, or, as above, was dead, at the time when St. Paul wrote.",
+            "Sought me out very diligently. Literally, \u2018 more diligently,\u2019 as by an implied comparison with the conduct of others, or with the average of what was common.",
+            "Others turned away. He came to Rome and never rested till he had found out where the prisoner of the Lord was kept in custody, and then he came with loyal and loving kindness."
         ],
         "Archibald T. Robertson": [
-            "When he was in Rome (\u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b5\u03bd \u03a1\u03bf\u03bc\u03b7). Second aorist middle participle of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 (coming to Rome, happening in Rome).",
-            "He sought me diligently and found me (\u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03c9\u03c2 \u03b5\u03b6\u03b7\u03c4\u03b7\u03c3\u03b5\u03bd \u03bc\u03b5 \u03ba\u03b1 \u03b5\u03c5\u03c1\u03b5\u03bd).",
-            "He did it at the risk of his own life apparently."
+            "When he was in Rome... coming to Rome, happening in Rome.",
+            "He sought me diligently and found me... he did it at the risk of his own life.",
+            "Effective aorists both of them... first of \u03b6\u03b7\u03c4\u03b5\u03c9, second of \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03c9."
         ],
         "John Gill": [
-            "He sought me out very diligently, and found me.",
-            "The apostle was not in any particular place of confinement, but had a lodging where he was kept by a soldier.",
-            "He had a long chain fastened at one end to his right arm, and at the other to the left arm of the soldier that kept him."
+            "He sought me out very diligently, and found me.\" ",
+            "The manner of his bonds was this; he had a long chain fastened at one end to his right arm, and at the other to the left arm of the soldier that kept him.",
+            "In this way he might have liberty to go about and visit his friends; and this might still make it more difficult for Onesiphorus to find him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In the bustling city of Rome, where many would not take the trouble to seek out a Christian brother or minister who was a prisoner, this kind-hearted man went to great lengths to find the apostle Paul, even risking his own life in doing so. Others turned away, but he came with loyal and loving kindness, diligently searching until he found Paul in his lodging, where he was held by a soldier with a chain attached to his arm. This act of compassion and support will not go unnoticed by the Lord on the day of judgment, when the entire universe will be gathered together.",
-            "wordCount": 106,
-            "quoteTokenProportion": 42.31,
-            "qualityScore": 1.2398662557105022,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.57,
+            "bht": "In the bustling city of Rome, Onesiphorus went above and beyond to diligently search for and find the imprisoned apostle Paul, even risking his own life. His remarkable kindness and devotion stood out, as not everyone in such a grand city would take the time to seek out a fellow Christian in need. Onesiphorus's effort and selflessness in finding Paul will not go unnoticed by the Lord on the day of judgment when all of humanity will be gathered. Despite challenges, such as Paul's long chain that allowed limited movement and made it harder to be found, Onesiphorus persevered and displayed loyal and loving kindness.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.1832361837585539,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.69,
             "commentatorTierSimilarities": [
-                18.96,
-                40.05,
-                40.99
+                18.79,
+                55.33,
+                25.87
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In the crowded metropolis of Rome, where not everyone would take the trouble to search out a Christian brother or minister who was a prisoner, there was a man who diligently sought after and found the apostle Paul. Despite the risk to his own life, this individual displayed loyal and loving kindness by going the extra mile to discover Paul's whereabouts. In the midst of Paul's confinement and chains, this act of compassion will not go unnoticed by the Lord on the day of judgment.",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.1973313467975433,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+            "bht": "In Rome, amidst the bustling crowds, Onesiphorus diligently sought out the imprisoned apostle Paul, going so far as to risk his own life. His exceptional act of searching for Paul, even in a great and splendid city where few would bother, will surely be acknowledged by the Lord on the day of judgment when all are gathered. Despite the difficulties posed by Paul's chains, Onesiphorus displayed unwavering devotion and loyal kindness, ensuring that Paul was not forgotten or abandoned.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.2457513529108963,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.76,
             "commentatorTierSimilarities": [
-                20.16,
-                42.5,
-                37.34
+                19.14,
+                56.58,
+                24.28
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Found in the bustling city of Rome, this compassionate individual diligently sought out the imprisoned apostle Paul, even at the risk of his own life. In a metropolis where many would not trouble themselves to locate a Christian brother or minister in captivity, this kind-hearted person showed loyal and loving kindness. Despite the chains that bound Paul, this act of compassion will not be overlooked on the day of judgment, when all creation assembles before the Lord.",
-            "wordCount": 78,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.091799261186229,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.65,
+            "bht": "In the crowded metropolis of Rome, Onesiphorus went above and beyond to find and comfort the imprisoned apostle Paul, even at the risk of his own life. His remarkable act of diligently seeking out a fellow Christian in need will not go unnoticed by the Lord on the day of judgment, when all the universe will be assembled. Onesiphorus's loyal and loving kindness, amidst the challenges of Paul's chains and the difficulty in locating him, demonstrates his exceptional devotion and selflessness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.2635212865216188,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.36,
             "commentatorTierSimilarities": [
-                22.35,
-                43.03,
-                34.62
+                25.83,
+                49.1,
+                25.07
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In the crowded metropolis of Rome, where not everyone would take the trouble to search out a Christian brother or minister who was a prisoner, there was a man who diligently sought after and found the apostle Paul. Despite the risk to his own life, this individual displayed loyal and loving kindness by going the extra mile to discover Paul's whereabouts. In the midst of Paul's confinement and chains, this act of compassion will not go unnoticed by the Lord on the day of judgment.",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.1973313467975433,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+            "bht": "In the bustling city of Rome, Onesiphorus diligently sought out and found the imprisoned apostle Paul. His courageous act of searching for a fellow believer, even at the risk of his own life, sets him apart from others. On the day of judgment, when all are gathered, Onesiphorus's devotion and kindness will be recognized by the Lord. Despite the challenges posed by Paul's chains and the difficulty of locating him, Onesiphorus's loyal and loving pursuit of the apostle demonstrates his exceptional dedication.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.1847673494640971,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.74,
             "commentatorTierSimilarities": [
-                20.16,
-                42.5,
-                37.34
+                24.18,
+                45.59,
+                30.23
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the busy city of Rome, where few would bother to search out a Christian brother or minister in captivity, a compassionate person risked their life to diligently find and support the apostle Paul. Despite the chains that bound him, this act of loyal and loving kindness will not be overlooked on the day of judgment. Amidst the bustling metropolis, this individual's dedication to seek out a prisoner of the faith serves as an example of selflessness and empathy.",
-            "wordCount": 80,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 1.075981273299657,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.12,
+            "bht": "In Rome, Onesiphorus went above and beyond to diligently find and comfort the imprisoned apostle Paul, even at the risk to his own life. His exceptional act of seeking out a fellow believer amidst the grandeur of the city shows his uncommon kindness. On the day of judgment, when all are gathered, the Lord will surely remember Onesiphorus's unwavering devotion. Despite the challenges of Paul's chains and the difficulty in locating him, Onesiphorus's loyal and loving pursuit demonstrates his extraordinary commitment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.1743254628062678,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.39,
             "commentatorTierSimilarities": [
-                18.68,
-                48.88,
-                32.44
+                22.97,
+                49.39,
+                27.64
             ],
             "generationAttempt": 5
         }

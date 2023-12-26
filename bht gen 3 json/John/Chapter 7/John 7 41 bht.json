@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:08:05",
+    "timestamp": "12-25-2023 20:33:51",
     "verseRef": "John 7:41",
     "bestBHT": {
-        "bht": "It was divisive among the people whether Jesus, who came from Galilee, could truly be the Christ. Some boldly declared him to be the Messiah, while others denied it and used his Galilean origins as their reasoning. However, this controversy should not come as a surprise, as even in our present day, disagreements and controversies arise when the Gospel is preached. Nevertheless, the word of God is precious and should be received, even if only by a few. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
-        "wordCount": 99,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.3813473460468446,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+        "bht": "Some openly declared Jesus to be the Messiah, while others denied it based on the fact that He came from Galilee. They questioned, Shall Christ come out of Galilee? Yet, it is clear that their understanding of the Messiah was limited. In our present day, we must not be surprised by the divisions and controversies that arise among those who claim to be God's people. However, we should not be indifferent to the profound truths of the heavenly kingdom. Jesus, the true Messiah, spoke of rivers of living water flowing from Him.",
+        "wordCount": 93,
+        "quoteTokenProportion": 45.59,
+        "qualityScore": 1.4188606043084895,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.52,
         "commentatorTierSimilarities": [
-            40.66,
+            40.73,
             0.0,
-            59.34
+            59.27
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -24,22 +24,22 @@
         ],
         "Marvin Vincent": [
             "What, doth the Christ come, etc. The idea in full is, 'you cannot say that, for doth the Christ, etc.'\" ",
-            "Shall - come. The present tense. Rev., rightly, doth - come."
+            "The present tense. Rev., rightly, doth - come."
         ],
         "John Calvin": [
             "By this example we are warned that we ought not to think it strange in the present day, if men are divided among themselves by various controversies.",
-            "Shall the doctrine of Christ be blamed on that account, as if it were the cause of disturbances? Nay rather, though the whole world were in commotion, the word of God is so precious, that we ought to wish that it were received, at least by a few.",
-            "In short, of all the differences which spring up, when the Gospel is preached, the cause and seed formerly lay concealed in men; but when they are awakened, as it were, out of sleep, they begin to move, just as vapours are produced by something else than the sun, although it is not till the sun arises that they make their appearance."
+            "There is no reason, therefore, why our consciences should be distressed, when we see those who wish to be accounted the people of God fighting with each other by contrary opinions.",
+            "In matters of little consequence we are ashamed of being indolent, while, in the mysteries of the heavenly kingdom, we slumber without any concern."
         ],
         "Archibald T. Robertson": [
-            "These went further and dared to call Jesus the Messiah and not merely the prophet who might not be the Messiah. They said it openly.",
+            "These went further and dared to call Jesus the Messiah and not merely the prophet who might not be the Messiah. They said it openly.\" ",
             "These denied that Jesus was the Messiah and gave as their reason (\u03b3\u03b1\u03c1, for) the fact that he came from Galilee.",
             "The use of \u03bc\u03b7 expects a negative answer."
         ],
         "John Gill": [
-            "They concluded...from his speaking of rivers of living water flowing from him that believes in him.",
-            "For if they did not mean this, according to their own accounts, the Messiah was to be in Galilee, and to be first revealed there.",
-            "Jesus, the true Messiah, as he was brought up in Galilee, though not born there, so he first preached there, and there wrought his first miracle."
+            "The true Messiah...from his speaking of rivers of living water flowing from him that believes in him.",
+            "But some said, shall Christ come out of Galilee?",
+            "For if they did not mean this, according to their own accounts, the Messiah was to be in Galilee, and to be first revealed there."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "It was divisive among the people whether Jesus, who came from Galilee, could truly be the Christ. Some boldly declared him to be the Messiah, while others denied it and used his Galilean origins as their reasoning. However, this controversy should not come as a surprise, as even in our present day, disagreements and controversies arise when the Gospel is preached. Nevertheless, the word of God is precious and should be received, even if only by a few. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
-            "wordCount": 99,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.3813473460468446,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+            "bht": "Some openly declared Jesus to be the Messiah while others denied it based on the fact that He came from Galilee. They questioned, Shall Christ come out of Galilee? Yet, it is clear that their understanding of the Messiah was limited. In our present day, we must not be surprised by the divisions and controversies that arise among those who claim to be God's people. However, we should not be indifferent or apathetic when it comes to the profound truths of the heavenly kingdom. Jesus, the true Messiah, spoke of rivers of living water flowing from Him. Even by their own accounts, the Messiah was to be in Galilee and first revealed there.",
+            "wordCount": 114,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 1.4371603128776993,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
             "commentatorTierSimilarities": [
-                40.66,
+                40.54,
                 0.0,
-                59.34
+                59.46
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "It was divisive among the people whether Jesus, who came from Galilee, could truly be the Christ. Some boldly declared him to be the Messiah, while others denied it and used his Galilean origins as their reasoning. However, this controversy should not come as a surprise, as even in our present day, disagreements and controversies arise when the Gospel is preached. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
-            "wordCount": 82,
-            "quoteTokenProportion": 48.39,
-            "qualityScore": 1.4455120698023596,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.41,
+            "bht": "Some openly declared Jesus to be the Messiah, while others denied it based on the fact that He came from Galilee. They questioned, Shall Christ come out of Galilee? Yet, it is clear that their understanding of the Messiah was limited. In our present day, we must not be surprised by the divisions and controversies that arise among those who claim to be God's people. However, we should not be indifferent to the profound truths of the heavenly kingdom. Jesus, the true Messiah, spoke of rivers of living water flowing from Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.4188606043084895,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
             "commentatorTierSimilarities": [
-                42.09,
+                40.73,
                 0.0,
-                57.91
+                59.27
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The people were divided over whether Jesus, who came from Galilee, could be the Christ. Some boldly declared him as the Messiah, while others used his Galilean origins to deny it. This controversy is not uncommon as the preaching of the Gospel often sparks disagreements. Nonetheless, even if only a few receive the word of God, it is precious. Jesus, the true Messiah, preached and performed miracles in Galilee, in fulfillment of the prophecies about the Messiah's connection to the region.",
-            "wordCount": 82,
-            "quoteTokenProportion": 48.39,
-            "qualityScore": 1.400756009752235,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.92,
+            "bht": "Some boldly declared Jesus as the Messiah, while others rejected this notion, arguing that the Christ could not come from Galilee. However, their understanding of the Messiah was flawed. In our own time, it is not surprising to witness divisions and debates among those who consider themselves God's people. But let us not be indifferent when it comes to heavenly matters. Jesus, the true Messiah, promised rivers of living water to flow through those who believe in Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.3706136900062513,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.92,
             "commentatorTierSimilarities": [
-                42.86,
+                41.23,
                 0.0,
-                57.14
+                58.77
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The people were divided over whether Jesus, who came from Galilee, could truly be the Christ. Some openly declared him as the Messiah, while others denied it, using his Galilean origins as their reason. This controversy should not surprise us, as conflicts often arise when the Gospel is preached. However, despite the divisions, the word of God is precious and should be received, even if only by a few. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
-            "wordCount": 90,
-            "quoteTokenProportion": 51.43,
-            "qualityScore": 1.3678646268510442,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.82,
+            "bht": "Some confidently proclaimed Jesus to be the Messiah, while others disregarded this claim, using His Galilean origin as a basis for their denial. However, their limited understanding prevented them from recognizing the truth. In our present day, we should not be surprised by disputes and disagreements among those who identify as God's people. Nevertheless, we must not be passive about matters pertaining to the mysteries of the heavenly realm. Jesus, the genuine Messiah, spoke of abundant spiritual blessings flowing from those who have faith in Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.239596039966549,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.56,
             "commentatorTierSimilarities": [
-                39.85,
+                37.34,
                 0.0,
-                60.15
+                62.66
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The people were divided regarding Jesus' identity as the Christ, with some boldly acknowledging him as the Messiah while others rejected him, citing his Galilean origins. This controversy upon the preaching of the Gospel should not be unexpected. Nevertheless, the word of God holds great value and should be embraced, even by a few. Jesus, the true Messiah, preached and performed miraculous signs in Galilee, aligning with the prophecies pertaining to the Messiah's association with that region.",
-            "wordCount": 78,
-            "quoteTokenProportion": 42.37,
-            "qualityScore": 1.3793105965785069,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "bht": "While some boldly acknowledged Jesus as the Messiah, others questioned His Galilean roots, dismissing Him as the chosen one. Their limited understanding hindered them from recognizing the truth. In our current era, divisions and controversies among those who claim to be God's people should not come as a surprise. Nevertheless, we should not be indifferent to the profound mysteries of the heavenly kingdom. Jesus, the true Messiah, spoke of a continuous outpouring of living water from those who believe in Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.2558155977593315,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.1,
             "commentatorTierSimilarities": [
-                44.88,
+                37.88,
                 0.0,
-                55.12
+                62.12
             ],
             "generationAttempt": 5
         }

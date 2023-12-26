@@ -1,27 +1,25 @@
 {
-    "timestamp": "12-19-2023 16:26:26",
+    "timestamp": "12-25-2023 20:33:57",
     "verseRef": "Acts 5:16",
     "bestBHT": {
-        "bht": "No one ventured to publicly profess their discipleship after what had taken place, yet the number of believers steadily increased. Drawn by the fame of Peter's miracles, individuals afflicted with unclean spirits and sickness sought healing. Without exception, one by one, they were cured, serving as compelling confirmation of the Gospel preached by the apostles. These remarkable healings not only validated the message but also provoked opposition from their adversaries.",
-        "wordCount": 71,
-        "quoteTokenProportion": 38.33,
-        "qualityScore": 1.4855640012358418,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+        "bht": "After the unconverted witnessed such remarkable acts, they were reluctant to openly declare their discipleship, yet their numbers continued to grow. People were continuously gathering, both from the surrounding cities and from Jerusalem itself, bringing their infirmities and troubled spirits to be healed. This influx of individuals who sought healing served as a testament to the power of the apostles' message regarding the Gospel.",
+        "wordCount": 64,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.6373940066894057,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.79,
         "commentatorTierSimilarities": [
-            29.04,
-            24.19,
-            46.76
+            29.53,
+            25.1,
+            45.37
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Of the unconverted none ventured, after what had taken place, to profess discipleship but yet their number continually increased.",
-            "None ventured, after what had taken place, to profess discipleship.",
-            "Their number continually increased."
+            "Of the unconverted none ventured, after what had taken place, to profess discipleship but yet their number continually increased."
         ],
         "Albert Barnes": [
-            "Attracted by the fame of Peter's miracles, as the people formerly had been by the miracles of the Lord Jesus.",
+            "Attracted by the fame of Peter\u2019s miracles, as the people formerly had been by the miracles of the Lord Jesus.",
             "Called 'unclean' because they prompted to sin and impurity of life.",
             "Of these persons it is expressly affirmed that they were healed."
         ],
@@ -30,14 +28,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Imperfect middle, kept on coming.",
-            "Old adverb, strengthened form of \u03c0\u03b5\u03c1, only here in the N.T.",
-            "Were healed one at a time, repetition."
+            "Came together (\u03c3\u03c5\u03bd\u03b7\u03c1\u03c7\u03b5\u03c4\u03bf). Imperfect middle, kept on coming.",
+            "Round about (\u03c0\u03b5\u03c1\u03b9\u03be). Old adverb, strengthened form of \u03c0\u03b5\u03c1, only here in the N.T.",
+            "Vexed (\u03bf\u03c7\u03bb\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2). Present passive participle of \u03bf\u03c7\u03bb\u03b5\u03c9, to excite a mob (\u03bf\u03c7\u03bb\u03bf\u03c2) against one, to trouble, annoy."
         ],
         "John Gill": [
             "The fame of the apostles' miracles spread in the cities round about Jerusalem; those that were at some distance as well as near, and large numbers of people came from thence.",
-            "Bringing sick folks, and them which were vexed with unclean spirits; with devils, by whom they were not only possessed, but greatly harassed and afflicted.",
-            "None went without a cure, which served greatly to confirm the Gospel preached by the apostles, and to irritate and provoke their enemies."
+            "Along with those of the city of Jerusalem, who brought out their infirm persons into the streets to be cured.",
+            "None went without a cure, which served greatly to confirm the Gospel preached by the apostles."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -57,67 +55,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After the miraculous events that had occurred, no one dared to openly declare their discipleship. However, despite this fear, the number of believers continued to grow. People from far and wide were drawn to the fame of Peter's miracles, just as they had been drawn to the miracles of Jesus. These individuals, who were plagued by unclean spirits and sickness, came seeking healing from the apostles. And without fail, each one who came was healed, gradually spreading the message of the Gospel and provoking their adversaries.",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.1,
-            "qualityScore": 1.4795298119821565,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "bht": "After the miraculous healing of the sick and those troubled by unclean spirits, the number of disciples increased as news spread about the apostles' ability to bring healing. People from both nearby and distant cities were drawn to Jerusalem, bringing their infirmities to be cured. No one went without a cure, which greatly strengthened the message of the Gospel preached by the apostles.",
+            "wordCount": 63,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.5283577232272068,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.16,
             "commentatorTierSimilarities": [
-                26.9,
-                26.91,
-                46.19
+                22.32,
+                18.03,
+                59.65
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After the miraculous events, none had the courage to openly profess their discipleship, yet the number of believers continued to increase. Drawn by the fame of Peter's miracles, people from near and far sought healing for their afflictions. Plagued by unclean spirits and sickness, these individuals were not left without a cure, which served to validate the Gospel preached by the apostles. This astounding work of healing both confirmed the message and aroused opposition from their enemies.",
-            "wordCount": 78,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.4434548911268754,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "bht": "After the unconverted witnessed such remarkable acts, they were reluctant to openly declare their discipleship, yet their numbers continued to grow. People were continuously gathering, both from the surrounding cities and from Jerusalem itself, bringing their infirmities and troubled spirits to be healed. This influx of individuals who sought healing served as a testament to the power of the apostles' message regarding the Gospel.",
+            "wordCount": 64,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.6373940066894057,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
             "commentatorTierSimilarities": [
-                21.92,
-                23.66,
-                54.42
+                29.53,
+                25.1,
+                45.37
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After witnessing the extraordinary events, people refrained from openly professing their discipleship, yet the ranks of believers steadily grew. Attracted by the renowned miracles performed by Peter, individuals plagued by unclean spirits and sickness sought healing. With unwavering persistence, one after another, they were healed, solidifying the authenticity of the Gospel proclaimed by the apostles. These remarkable healings served as a confirmation of the message and provoked opposition from their adversaries.",
-            "wordCount": 71,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.4429308889849186,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.32,
+            "bht": "Upon witnessing the astounding miracles performed by the apostles, those who had not yet converted were apprehensive about openly professing their discipleship. Nevertheless, their ranks steadily grew, as people kept coming together from near and far, seeking relief from their afflictions. The influx of individuals afflicted with physical ailments and troubled spirits served to further reinforce the veracity of the Gospel preached by the apostles, as no one departed without experiencing a cure.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6116635698232624,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
             "commentatorTierSimilarities": [
-                23.99,
-                26.21,
-                49.8
+                32.19,
+                20.76,
+                47.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "No one dared to openly declare their discipleship, but believers continuously multiplied in number. Drawn by the reputation of Peter's miracles, individuals plagued by unclean spirits and sickness sought healing. With unwavering persistence, they were healed one by one, providing powerful evidence for the Gospel preached by the apostles. These miraculous healings confirmed the message and provoked the opposition of their enemies.",
-            "wordCount": 63,
-            "quoteTokenProportion": 29.41,
-            "qualityScore": 1.4565136664302574,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+            "bht": "After witnessing the marvels performed by the apostles, those who had not yet embraced their teachings hesitated to openly profess their discipleship. However, their ranks continued to increase, as people continuously assembled from both nearby and distant cities seeking relief. The multitude of individuals afflicted with physical infirmities and vexed spirits served as undeniable evidence, confirming the truth of the Gospel proclaimed by the apostles.",
+            "wordCount": 65,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.4496582272368346,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.54,
             "commentatorTierSimilarities": [
-                23.99,
-                25.35,
-                50.66
+                32.0,
+                18.88,
+                49.13
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "No one ventured to publicly profess their discipleship after what had taken place, yet the number of believers steadily increased. Drawn by the fame of Peter's miracles, individuals afflicted with unclean spirits and sickness sought healing. Without exception, one by one, they were cured, serving as compelling confirmation of the Gospel preached by the apostles. These remarkable healings not only validated the message but also provoked opposition from their adversaries.",
-            "wordCount": 71,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.4855640012358418,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "bht": "The unconverted, wary after witnessing the astonishing events, were hesitant to openly declare themselves as followers, yet their numbers grew steadily. Continuously, individuals gathered from the surrounding cities as well as from Jerusalem, bringing their ailments and distressed spirits, seeking solace and healing. The abundance of people who were afflicted found respite, consequently providing powerful validation for the apostles' preaching of the Gospel.",
+            "wordCount": 63,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.4524681228113003,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
             "commentatorTierSimilarities": [
-                29.04,
-                24.19,
-                46.76
+                30.35,
+                21.09,
+                48.55
             ],
             "generationAttempt": 5
         }

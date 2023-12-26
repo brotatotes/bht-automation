@@ -1,13 +1,13 @@
 # Mark 6:56 Commentary Help Text
 
 ## BHT:
-As news spread of the miraculous healings performed by Jesus, people flocked to the streets, hoping to touch the hem of his garment for their own healing. This desire stemmed from the accounts they had heard of others who had been healed in a similar manner, and it seemed that anywhere Jesus went, those who touched him were made whole. This heightened anticipation and eagerness marked the culmination of Jesus' Galilean ministry, where healing was abundant and excitement was at its peak in the marketplace.
+In the final days of Jesus' Galilean ministry, the crowds pleaded to touch even the border of his garment, inspired by the miraculous healing experienced by the woman with the issue of blood. As Jesus moved through the streets and marketplaces, those who reached out to touch him were made whole, their various sicknesses and diseases disappearing. This period marked the culmination of Jesus' healing ministry, filling the region with excitement and anticipation, as many experienced the transformative power of his touch.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "and besought him that they might touch if it were but the border of his garment—having heard, no doubt, of what the woman with the issue of blood experienced." 
-2. "and perhaps of other unrecorded cases of the same nature." 
-3. "All this they continued to do and to experience while our Lord was in that region."
+1. "and besought him that they might touch if it were but the border of his garment—having heard, no doubt, of what the woman with the issue of blood experienced on doing so (Mark 5:25-29)"
+2. "as many as touched him—or 'it'—the border of His garment."
+3. "were made whole—All this they continued to do and to experience while our Lord was in that region."
 
 ### Marvin Vincent:
 1. Peculiar to Mark. 
@@ -21,51 +21,51 @@ Border. See on Matthew 9:20.
 3. "Market-places, here with a wide sense. This description may refer to a period of some length, and indicates the great number of miracles performed by our Lord."
 
 ### Archibald T. Robertson:
-1. "Wheresoever he entered... as many as touched him."
-2. "The imperfect indicative with αν used to make a general indefinite statement with the relative adverb."
+1. "Wheresoever he entered... as many as touched him." 
+2. "One must enlarge the details here to get an idea of the richness of the healing ministry of Jesus." 
 3. "We are now near the close of the Galilean ministry with its many healing mercies and excitement is at the highest pitch."
 
 ### John Gill:
-1. "they laid the sick in the streets"
-2. "and besought him that they but might touch the border of his garment"
-3. "and as many as touched him were made whole"
+1. "Whether in smaller towns, or larger cities, or the fields, where were houses, here and there one."
+2. "If they might not be admitted to touch his person, or he did not choose to lay his hands on them."
+3. "Were made whole of whatsoever sickness, or disease, they were afflicted with."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:24:01
+- Timestamp: 12-25-2023 20:32:31
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 48.48%
-- BHT Quality Score: 1.2115205463590284
+- BHT Word Count: 82
+- BHT Commentary Usage: 40.0%
+- BHT Quality Score: 1.3577521752253068
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'abundant', 'accounts', 'and', 'anticipation', 'anywhere', 'as', 'at', 'been', 'by', 'culmination', 'desire', 'eagerness', 'excitement', 'flocked', 'for', 'from', 'galilean', 'garment', 'had', 'healed', 'healing', 'healings', 'heard', 'heightened', 'hem', 'him', 'his', 'hoping', 'in', 'it', 'its', 'jesus', 'made', 'manner', 'marked', 'marketplace', 'ministry', 'miraculous', 'news', 'of', 'others', 'own', 'peak', 'people', 'performed', 'seemed', 'similar', 'spread', 'stemmed', 'streets', 'that', 'the', 'their', 'they', 'this', 'those', 'to', 'touch', 'touched', 'was', 'went', 'were', 'where', 'who', 'whole']
-- ChatGPT injected words (significant words only) (34):
-	['abundant', 'accounts', 'anticipation', 'culmination', 'desire', 'eagerness', 'excitement', 'flocked', 'galilean', 'garment', 'healed', 'healing', 'healings', 'heard', 'heightened', 'hem', 'hoping', 'jesus', 'manner', 'marked', 'marketplace', 'ministry', 'miraculous', 'news', 'peak', 'people', 'performed', 'similar', 'spread', 'stemmed', 'streets', 'touch', 'touched', 'went']
+- ChatGPT injected words (55):
+	['and', 'anticipation', 'as', 'blood', 'border', 'by', 'crowds', 'culmination', 'days', 'disappearing', 'diseases', 'even', 'excitement', 'experienced', 'filling', 'final', 'galilean', 'garment', 'healing', 'him', 'his', 'in', 'inspired', 'issue', 'jesus', 'made', 'many', 'marked', 'marketplaces', 'ministry', 'miraculous', 'moved', 'of', 'out', 'period', 'pleaded', 'power', 'reached', 'region', 'sicknesses', 'streets', 'the', 'their', 'this', 'those', 'through', 'to', 'touch', 'transformative', 'various', 'were', 'who', 'whole', 'with', 'woman']
+- ChatGPT injected words (significant words only) (33):
+	['anticipation', 'blood', 'border', 'crowds', 'culmination', 'days', 'disappearing', 'diseases', 'excitement', 'experienced', 'filling', 'final', 'galilean', 'garment', 'healing', 'inspired', 'issue', 'jesus', 'marked', 'marketplaces', 'ministry', 'miraculous', 'moved', 'period', 'pleaded', 'power', 'reached', 'region', 'sicknesses', 'streets', 'touch', 'transformative', 'woman']
 
 ### Logs
-- Attempt 1 BHT: As the news of the miraculous healing powers of Jesus spread, people from all around brought their sick to the streets, fervently desiring even to touch the hem of his garment. This was not an isolated incident, as similar cases of healing had been witnessed before. In fact, it seemed that wherever Jesus went, as many as touched him were made whole. We are now reaching the culmination of Jesus' ministry in Galilee, where healing mercies abounded and anticipation was at its peak. The crowds gathered in the marketplaces, hopeful and eager for the opportunity to experience the transformative touch of Jesus. Such was the faith and desperation of the people that they believed even a mere touch would bring restoration and wholeness to their lives.
-- 🔄 Mark 6:56 (attempt 1, 126 words, 45.35% quotes quality score: 1.1256631869571034, V2 normalized quality score: 28.77, commentator tiers 1-3: 31.94%, 22.05%, 46.01%) 
+- Attempt 1 BHT: Many people sought to touch even the border of Jesus' garment, convinced of the healing power that awaited them. This desire to touch Jesus was likely inspired by the story of the woman with the issue of blood, who was healed simply by touching the hem of his garment. This act of touching brought healing to numerous individuals, as they were made whole from their various sicknesses and diseases. The region was filled with excitement and expectation, as Jesus continued to pour out his healing mercies. The Galilean ministry was coming to a close, and the healing ministry of Jesus had left a lasting impact on the lives of those who had experienced his touch.
+- 🔄 Mark 6:56 (attempt 1, 115 words, 38.57% quotes quality score: 1.3001191615555805, V2 normalized quality score: 34.57, commentator tiers 1-3: 48.47%, 24.22%, 27.31%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: As news spread of the miraculous healings performed by Jesus, people flocked to the streets, hoping to touch the hem of his garment for their own healing. This desire stemmed from the accounts they had heard of others who had been healed in a similar manner, and it seemed that anywhere Jesus went, those who touched him were made whole. This heightened anticipation and eagerness marked the culmination of Jesus' Galilean ministry, where healing was abundant and excitement was at its peak in the marketplace.
-- 🔄 Mark 6:56 (attempt 2, 85 words, 48.48% quotes quality score: 1.2115205463590284, V2 normalized quality score: 31.63, commentator tiers 1-3: 31.36%, 29.94%, 38.7%) 
+- Attempt 2 BHT: In the last days of Jesus' Galilean ministry, people eagerly beseeched him to touch even the border of his garment, inspired by the testimony of the woman who was healed through a similar touch. This act of reaching out brought about miraculous healings, curing individuals of their various sicknesses and diseases. Excitement ran high as Jesus traveled through streets and marketplaces, his healing ministry touching the lives of many. The region buzzed with anticipation, experiencing the richness of Jesus' merciful touch.
+- 🔄 Mark 6:56 (attempt 2, 81 words, 36.07% quotes quality score: 1.2383997630972248, V2 normalized quality score: 32.52, commentator tiers 1-3: 46.96%, 26.41%, 26.63%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As Jesus journeyed through the streets, the crowds beseeched him, longing to touch even the border of his garment. Such requests stemmed from the numerous accounts they had heard, testifying to the healing power of Jesus. It seemed that wherever he went, as many as touched him were made whole. This scene represented the climax of Jesus' ministry in Galilee, where healing was abundant and excitement reached its peak. The marketplace became filled with expectant hearts, eager to experience the transformative touch of Jesus.
-- 🔄 Mark 6:56 (attempt 3, 84 words, 45.31% quotes quality score: 1.1825184260868862, V2 normalized quality score: 30.66, commentator tiers 1-3: 26.81%, 22.14%, 51.05%) 
+- Attempt 3 BHT: In the final days of Jesus' Galilean ministry, crowds clamored to touch the border of his garment, hoping to experience the healing power that flowed through him. This desire to touch Jesus was fueled by the remarkable story of the woman who was healed by touching his garment. As Jesus journeyed through streets and marketplaces, those who reached out to him were made whole from their various sicknesses and diseases. The region buzzed with excitement and anticipation, witnessing the profound impact of Jesus' healing ministry.
+- 🔄 Mark 6:56 (attempt 3, 85 words, 39.66% quotes quality score: 1.2592893071273092, V2 normalized quality score: 33.21, commentator tiers 1-3: 49.73%, 22.9%, 27.38%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The streets were alive with fervent requests from the crowd, as they pleaded with Jesus for the chance to touch even the border of his garment, inspired by the remarkable accounts of the woman with the issue of blood and others who had experienced healing. This scene unfolded during the pinnacle of Jesus' ministry in Galilee, where healing wonders were plentiful, and anticipation coursed through the marketplaces. It was a time marked by the belief that anyone who touched Jesus would be made whole, a testament to the extraordinary healing power of the Son of God.
-- 🔄 Mark 6:56 (attempt 4, 96 words, 44.12% quotes quality score: 1.194842399773878, V2 normalized quality score: 31.07, commentator tiers 1-3: 36.31%, 29.75%, 33.94%) 
+- Attempt 4 BHT: In the final days of Jesus' Galilean ministry, the crowds pleaded to touch even the border of his garment, inspired by the miraculous healing experienced by the woman with the issue of blood. As Jesus moved through the streets and marketplaces, those who reached out to touch him were made whole, their various sicknesses and diseases disappearing. This period marked the culmination of Jesus' healing ministry, filling the region with excitement and anticipation, as many experienced the transformative power of his touch.
+- 🔄 Mark 6:56 (attempt 4, 82 words, 40.0% quotes quality score: 1.3577521752253068, V2 normalized quality score: 36.49, commentator tiers 1-3: 48.29%, 23.22%, 28.49%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Wherever Jesus went, people in the streets sought after him, hoping to touch even the edge of his cloak, influenced by the remarkable accounts of the woman with the issue of blood and other unrecorded cases. This persistent seeking of Jesus continued throughout his time in that region, as crowds gathered, desperate for healing and restoration. It was a time of high excitement, as word of Jesus' healing power spread among the people, igniting faith and anticipation for the transformative touch of the Son of God.
-- 🔄 Mark 6:56 (attempt 5, 86 words, 36.67% quotes quality score: 1.1704613474259449, V2 normalized quality score: 30.26, commentator tiers 1-3: 37.15%, 31.96%, 30.89%) 
+- Attempt 5 BHT: In the final days of Jesus' Galilean ministry, people eagerly sought to touch the border of his garment, as many had heard of the healing power that radiated from him. Inspired by the woman with the issue of blood, who was healed by touching his garment, individuals reached out in hopes of finding the same restoration. Their touch brought about wholeness, as they were cured of their various illnesses and afflictions. This period was marked by a heightened excitement, as Jesus continued his ministry of healing with remarkable impact.
+- 🔄 Mark 6:56 (attempt 5, 89 words, 39.68% quotes quality score: 1.1963511310000992, V2 normalized quality score: 31.12, commentator tiers 1-3: 55.07%, 21.98%, 22.95%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 6:56 bht prompt v0.8 (85 words, 48.48% quotes)
-- quality score: 1.2115205463590284, V2 normalized quality score: 31.63, commentator tiers 1-3: 31.36%, 29.94%, 38.7%)
+- ✅ Mark 6:56 bht prompt v0.8 (82 words, 40.0% quotes)
+- quality score: 1.3577521752253068, V2 normalized quality score: 36.49, commentator tiers 1-3: 48.29%, 23.22%, 28.49%)

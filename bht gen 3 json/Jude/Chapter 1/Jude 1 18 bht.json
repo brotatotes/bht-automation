@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 17:15:21",
+    "timestamp": "12-25-2023 20:34:32",
     "verseRef": "Jude 18",
     "bestBHT": {
-        "bht": "In the last times, mockers will arise, walking according to their own lusts of impiety. These mockers reject the Divine and indulge in immoral desires, scoffing at true religion. This warning reminds us to remain vigilant and firm in our faith, especially when faced with those who reject God and disregard the teachings of true religion. Let us be cautious of their influence and hold steadfast to our beliefs in the face of such mockery.",
-        "wordCount": 75,
-        "quoteTokenProportion": 37.04,
-        "qualityScore": 1.443214645196154,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.33,
+        "bht": "At the last time, there shall be scoffers, men who sport with what is holy and good, walking according to their own lusts of impieties. These mockers, in their inebriated state of contempt for God, rush headlong into a brutal rejection of the Divine Being. They reject all that is Divine and exhibit aggravated immorality as a result. This is a characteristic quality demonstrated by those who reject the message of the Second Coming of the Lord, casting off every fear and mocking the doctrine of true religion.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 1.7019301156087918,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.93,
         "commentatorTierSimilarities": [
-            29.11,
-            32.31,
-            38.58
+            23.46,
+            39.93,
+            36.6
         ],
-        "generationAttempt": 4
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "It is worthy of remark that he does not say they told us, but you; hereby again not indeed making it certain that he included himself among the Apostles, but making it very uncertain, whether he intends to exclude himself.",
-            "at the last of the time...there shall be scoffers...walking according to their own lusts of impieties.",
-            "indicating the direction, or perhaps the character of those desires. Compare the same words above, ver. 16."
+            "Hence we see that they to whom Jude is writing, had heard the other Apostles also.",
+            "That at the last of the time there shall be scoffers, men who sport with what is holy and good.",
+            "Walking according to their own lusts of impieties, indicating the direction, or perhaps the character of those desires."
         ],
         "Jamieson-Fausset-Brown": [
             "The word is found nowhere else in the New Testament.",
-            "How Alford can deny that 2 Peter 3:3 is referred to (at least in part), I cannot imagine.",
-            "literally, 'after (according to) their own lusts of ungodliness.'"
+            "How Alford can deny that... is referred to (at least in part), I cannot imagine.",
+            "Jude quotes the very words of Peter as the words which the apostles used to speak to his (Jude\u2019s) readers."
         ],
         "Marvin Vincent": [
             "Mockers. See on 2 Peter 3:3. ",
@@ -31,8 +31,8 @@
         ],
         "John Calvin": [
             "By the last time he means that in which the renewed condition of the Church received a fixed form till the end of the world; and it began at the first coming of Christ.",
-            "After the usual manner of Scripture, he calls them scoffers who, being inebriated with a profane and impious contempt of God, rush headlong into a brutal contempt of the Divine Being, so that no fear nor reverence keeps them any longer within the limits of duty.",
-            "So at this day the world is full of Epicurean despisers of God, who having cast off every fear, madly scoff at the whole doctrine of true religion, regarding it as fabulous."
+            "He calls them scoffers who, being inebriated with a profane and impious contempt of God, rush headlong into a brutal contempt of the Divine Being.",
+            "The world is full of Epicurean despisers of God, who having cast off every fear, madly scoff at the whole doctrine of true religion, regarding it as fabulous."
         ],
         "Philip Schaff": [
             "They show their quality in relation to the Second Coming of the Lord.",
@@ -63,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, it is mentioned that in the last times there will be mockers who walk according to their own lusts of impieties. These mockers are characterized by their rejection of the Divine and their indulgence in immoral desires. The mention of lusts of ungodliness emphasizes the direction and character of these desires. The term mockers refers to those who exhibit a profane and impious contempt of God, leading them to disregard and scoff at the true teachings of religion. This warning about mockers serves as a reminder to stay vigilant and firm in faith amidst a world filled with those who reject God.",
-            "wordCount": 105,
-            "quoteTokenProportion": 37.68,
-            "qualityScore": 1.6148926722503711,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "bht": "At the last time, there shall be scoffers, men who sport with what is holy and good, walking according to their own lusts of impieties. These mockers, in their inebriated state of contempt for God, rush headlong into a brutal rejection of the Divine Being. They reject all that is Divine and exhibit aggravated immorality as a result. This is a characteristic quality demonstrated by those who reject the message of the Second Coming of the Lord, casting off every fear and mocking the doctrine of true religion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.7019301156087918,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
             "commentatorTierSimilarities": [
-                30.17,
-                36.07,
-                33.75
+                23.46,
+                39.93,
+                36.6
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In the last times, there will be mockers who walk according to their own lusts of impieties. These individuals reject the Divine and indulge in immoral desires. Their contempt for God leads them to disregard and scoff at true religion. This warning reminds us to remain steadfast in our faith, especially when faced with those who mock and reject God. The mention of lusts of ungodliness emphasizes the direction and character of these desires. Let us stay vigilant in the face of such challenges.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.40587466418966,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "bht": "At the last time, there shall be scoffers, men who sport with what is holy and good, walking according to their own lusts of impieties. These mockers, in their inebriated state of contempt for God, rush headlong into a brutal rejection of the Divine Being. They reject all that is Divine and exhibit aggravated immorality as a result. This is a characteristic quality demonstrated by those who reject the message of the Second Coming of the Lord, mocking the doctrine of true religion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.698452256145126,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
             "commentatorTierSimilarities": [
-                32.85,
-                37.53,
-                29.62
+                23.35,
+                40.54,
+                36.11
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In the last times, mockers will arise, walking according to their own lusts of impiety. These mockers reject the Divine and indulge in immoral desires, leading them to a contemptuous attitude towards God. Such individuals scoff at true religion and disregard its teachings. This warning reminds us to remain steadfast in our faith, especially when faced with the influence of these mockers. Let us be vigilant in guarding ourselves against their negative influence and stay committed to the principles of true religion.",
-            "wordCount": 82,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.389478012198917,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.54,
+            "bht": "At the last time, there shall be scoffers, men who sport with what is holy and good, walking according to their own lusts of impieties. These mockers reject the Divine and exhibit aggravated immorality. They are inebriated with a contempt for God, rushing headlong into a brutal rejection of the Divine Being. This rejection is characteristic of those who reject the message of the Second Coming of the Lord, mocking the doctrine of true religion.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6589434275618893,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
             "commentatorTierSimilarities": [
-                29.29,
-                33.18,
-                37.52
+                23.64,
+                40.97,
+                35.39
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In the last times, mockers will arise, walking according to their own lusts of impiety. These mockers reject the Divine and indulge in immoral desires, scoffing at true religion. This warning reminds us to remain vigilant and firm in our faith, especially when faced with those who reject God and disregard the teachings of true religion. Let us be cautious of their influence and hold steadfast to our beliefs in the face of such mockery.",
-            "wordCount": 75,
-            "quoteTokenProportion": 37.04,
-            "qualityScore": 1.443214645196154,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.33,
+            "bht": "At the last time, there shall be scoffers, men who sport with what is holy and good, walking according to their own lusts of impieties. These mockers, in their contempt for God, reject the Divine and exhibit aggravated immorality. Their rejection is characterized by a brutal rejection of the Divine Being. This rejection is emblematic of those who reject the message of the Second Coming of the Lord, mocking the doctrine of true religion.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.650053613425147,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
             "commentatorTierSimilarities": [
-                29.11,
-                32.31,
-                38.58
+                23.49,
+                42.56,
+                33.95
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the last times, there will be mockers who walk according to their own lusts of impieties, scoffing at true religion. These individuals reject the Divine and indulge in immoral desires, displaying a contemptuous attitude towards God. This warning serves as a reminder to stay vigilant and unwavering in our faith, particularly when confronted with the influence of such mockers. Let us guard ourselves against their negative impact and remain steadfast in our commitment to the teachings of true religion.",
-            "wordCount": 80,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.38790434179699,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.49,
+            "bht": "At the last time, there shall be scoffers, men who sport with what is holy and good, walking according to their own lusts of impieties. These mockers, in their inebriated state of contempt for God, rush headlong into a brutal rejection of the Divine Being. They reject all that is Divine and exhibit aggravated immorality. This rejection is characteristic of those who reject the message of the Second Coming of the Lord, casting off every fear and mock the doctrine of true religion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6831751929525374,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.31,
             "commentatorTierSimilarities": [
-                27.85,
-                35.12,
-                37.03
+                23.63,
+                39.37,
+                37.0
             ],
             "generationAttempt": 5
         }

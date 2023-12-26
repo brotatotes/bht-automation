@@ -1,83 +1,88 @@
 # Ephesians 3:2 Commentary Help Text
 
 ## BHT:
-Assuming you have heard, I am entrusted with the divine arrangement and stewardship of the grace of God. Specifically, I have received this commission to make known the plan of God to the Gentiles. It is not for my own private use, but rather for the benefit of others. Therefore, take comfort in the belief that my work is dedicated to your welfare and the proclamation of the gospel. Do not be troubled by my sufferings, as they are part of fulfilling this purpose.
+Assuming that you have indeed heard, the apostle Paul reminds the Ephesians of his role as a steward of the grace of God that was given to him for their benefit. This divine arrangement, or dispensation, was not merely a matter of his personal office, but a commission to dispense the gospel of God's grace. Despite the sufferings he endured, Paul was comforted in knowing that his preaching of this glorious and eternal plan was for the welfare and glory of the Ephesians.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Assuming (what I know to be the fact, namely) that ye have heard,"
-2. "The indicative in the Greek shows that no doubt is implied: 'Seeing that doubtless,' &c."
-3. "The office of dispensing, as a steward, the grace of God which was (not 'is') given me to you-ward, namely, to dispense to you."
+1. "Assuming (what I know to be the fact, namely) that ye have heard."
+2. "The indicative in the Greek shows that no doubt is implied: 'Seeing that doubtless.'"
+3. "The office of dispensing, as a steward, the grace of God which was (not 'is') given me to you-ward."
 
 ### Albert Barnes:
-1. "Hence, it is exceedingly difficult to understand the exact state of mind in which he was. It seems to me that the whole of this long statement grew out of the incidental mention Ephesians 3:1 of the fact that he was a prisoner for the Gentiles."
-2. "He was comforted in the belief that he was making known the glorious and eternal plan of God, and in the belief that it was for the welfare of mankind; and he, therefore, entreated them also not to be troubled inordinately at his sufferings."
-3. "In the assignment of the different parts of the work of preaching the gospel, the office had been committed to him of making it known to the pagan."
+1. "He was comforted in the belief that he was making known the glorious and eternal plan of God, and in the belief that it was for the welfare of mankind."
+2. "He goes, therefore, into this long account, to show them how it happened; that it was by the appointment of God; that it was in the evolving of a great and glorious mystery."
+3. "He desires that they would not 'faint' or be unduly distressed on account of his sufferings for them, since his sufferings were designed to promote their 'glory'."
 
 ### Marvin Vincent:
-1. "If, Rev., if so be, means upon the supposition that; not implying the certainty of the assumption, though this shade of meaning is given by the context." 
-2. "Dispensation [οικονομιαν] . See on ch. Ephesians 1:10; Colossians 1:25. The divine arrangement or disposition."
+1. "If ye have heard [ειγε ηκουσατε]. Here begins a long digression extending to ver. 14. If, Rev., if so be, means upon the supposition that; not implying the certainty of the assumption, though this shade of meaning is given by the context."
+2. "The words are a reminder of his preaching among them."
+3. "Dispensation [οικονομιαν] . See on ch. Ephesians 1:10; Colossians 1:25. The divine arrangement or disposition."
 
 ### John Calvin:
-1. "There is reason to believe, that, while Paul was at Ephesus, he had said nothing on these subjects, no necessity for doing so having arisen." 
-2. "He did not, of his own accord, raise unnecessary disputes."
+1. "There is reason to believe, that, while Paul was at Ephesus, he had said nothing on these subjects, no necessity for doing so having arisen..." 
+2. "He did not, of his own accord, raise unnecessary disputes. It was only when the wickedness of his adversaries made it necessary, that he reluctantly undertook the defense of his ministry." 
 3. "Dispensation (οικονομια) means here a divine order or command, or, as it is generally expressed, a commission."
 
 ### Philip Schaff:
-1. "The same phrase occurs in chap. Ephesians 4:21; it does not imply doubt, but rather assumes something to be true, challenging the reader to verify the assumption in his own case."
+1. "Ye have heard; lit, ‘did hear,’ but the proper force is expressed by ‘have heard.’"
 2. "Not to have recognized Paul, not to have received his teaching, would be equivalent to not having heard him."
-3. "This grace was given in order that my activity might produce certain results in you."
+3. "This does not refer to his office, for how could they hear of that, but rather to a divine arrangement, which has reference, is concerned with, the grace of God."
 
 ### Archibald T. Robertson:
-1. "If so be that ye have heard (ε γε ηκουσατε). Condition of first class with ε and first aorist active indicative and with the intensive particle γε that gives a delicate touch to it all." 
+1. "Condition of first class with ε and first aorist active indicative and with the intensive particle γε that gives a delicate touch to it all."
 2. "On οικονομιαν (stewardship, dispensation) see Ephesians 1:9; Ephesians 3:9; Colossians 1:25."
 
 ### John Gill:
-1. "the subject matter of which is the grace of God; it is a declaration of the free grace of God in the salvation of men"
-2. "he acted by authority, and as a steward of the mysteries of God; and which he faithfully dispensed to the family of Christ"
-3. "it was not for his own private use, that the Gospel was committed to him, or gifts were given him to qualify him for the dispensation of it, but for the sake of others"
+1. "Not the free love and favour of God in his heart towards his people; nor internal grace wrought in the heart of the apostle; but either the gift of grace, as in Ephesians 3:7 qualifying him for the work of the ministry; and so the Ethiopic version renders it, 'if ye have heard the gift of the grace of God'; or rather the doctrine of grace, the Gospel, the subject matter of which is the grace of God."
+2. "Now the apostle had a dispensation to preach this Gospel committed to him; he acted by authority, and as a steward of the mysteries of God; and which he faithfully dispensed to the family of Christ, who appointed him to this service."
+3. "This is not said as if he questioned, whether they had heard or not, but as taking it for granted that they had: 'if', or 'seeing ye have heard', c."
 
 ### John Wesley:
 1. "The dispensation of the grace of God given me in your behalf."
 2. "The commission to dispense the gracious gospel."
-3. "To you Gentiles in particular."
+3. "To you gentiles in particular."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:29:17
+- Timestamp: 12-25-2023 20:34:37
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 84
-- BHT Commentary Usage: 53.33%
-- BHT Quality Score: 1.4414887778604561
+- BHT Commentary Usage: 38.18%
+- BHT Quality Score: 1.9229876089074356
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['am', 'and', 'are', 'arrangement', 'as', 'assuming', 'be', 'belief', 'benefit', 'but', 'by', 'comfort', 'commission', 'dedicated', 'divine', 'do', 'entrusted', 'for', 'fulfilling', 'gentiles', 'god', 'gospel', 'grace', 'have', 'heard', 'i', 'in', 'is', 'it', 'known', 'make', 'my', 'not', 'of', 'others', 'own', 'part', 'plan', 'private', 'proclamation', 'purpose', 'rather', 'received', 'specifically', 'stewardship', 'sufferings', 'take', 'that', 'the', 'therefore', 'they', 'this', 'to', 'troubled', 'use', 'welfare', 'with', 'work', 'you', 'your']
-- ChatGPT injected words (significant words only) (28):
-	['arrangement', 'assuming', 'belief', 'benefit', 'comfort', 'commission', 'dedicated', 'divine', 'entrusted', 'fulfilling', 'gentiles', 'god', 'gospel', 'grace', 'heard', 'known', 'plan', 'private', 'proclamation', 'purpose', 'received', 'specifically', 'stewardship', 'sufferings', 'troubled', 'use', 'welfare', 'work']
+- ChatGPT injected words (55):
+	['a', 'and', 'apostle', 'arrangement', 'as', 'assuming', 'benefit', 'but', 'comforted', 'commission', 'despite', 'dispensation', 'dispense', 'divine', 'endured', 'ephesians', 'eternal', 'for', 'given', 'glorious', 'glory', 'god', 'gospel', 'grace', 'have', 'he', 'heard', 'him', 'his', 'in', 'indeed', 'knowing', 'matter', 'merely', 'not', 'of', 'office', 'or', 'paul', 'personal', 'plan', 'preaching', 'reminds', 'role', 's', 'steward', 'sufferings', 'that', 'the', 'their', 'this', 'to', 'was', 'welfare', 'you']
+- ChatGPT injected words (significant words only) (34):
+	['apostle', 'arrangement', 'assuming', 'benefit', 'comforted', 'commission', 'despite', 'dispensation', 'dispense', 'divine', 'endured', 'ephesians', 'eternal', 'given', 'glorious', 'glory', 'god', 'gospel', 'grace', 'heard', 'knowing', 'matter', 'merely', 'office', 'paul', 'personal', 'plan', 'preaching', 'reminds', 'role', 's', 'steward', 'sufferings', 'welfare']
 
 ### Logs
-- Attempt 1 BHT: Assuming that you have heard, I want to remind you of the divine arrangement or disposition that has been given to me to dispense the grace of God to you. It is upon this supposition that I am writing to you, not implying any doubt about it. As a steward entrusted with the mysteries of God, I have the responsibility of making known the glorious and eternal plan of God, specifically to the Gentiles. This commission, this dispensation of the grace of God, has been given to me in your behalf, for the sake of others, to produce certain results in you. Therefore, do not be troubled by my sufferings but be comforted in the belief that my activity is for your welfare and the proclamation of the gospel.
-- 🔄 Ephesians 3:2 (attempt 1, 129 words, 44.59% quotes quality score: 1.7148771106623975, V2 normalized quality score: 48.36, commentator tiers 1-3: 31.32%, 35.79%, 32.89%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Assuming that you have heard, the verse highlights the divine arrangement of stewardship, the dispensation of the grace of God. As a steward, I have been entrusted with the task of making known the plan of God, particularly to the Gentiles. This commission has been given to me in your behalf, for the benefit of others. Therefore, do not be troubled by my sufferings but find comfort in the belief that my work is for your welfare and the proclamation of the gospel.
-- 🔄 Ephesians 3:2 (attempt 2, 83 words, 46.55% quotes quality score: 1.5792839608113205, V2 normalized quality score: 43.85, commentator tiers 1-3: 27.51%, 35.05%, 37.44%) 
+- Attempt 1 BHT: Assuming that you have indeed heard, the apostle Paul reminds the Ephesians of his role as a steward of the grace of God that was given to him for their benefit. This divine arrangement, or dispensation, was not merely a matter of his personal office, but a commission to dispense the gospel of God's grace. Despite the sufferings he endured, Paul was comforted in knowing that his preaching of this glorious and eternal plan was for the welfare and glory of the Ephesians.
+- 🔄 Ephesians 3:2 (attempt 1, 84 words, 38.18% quotes quality score: 1.9229876089074356, V2 normalized quality score: 55.28, commentator tiers 1-3: 24.3%, 35.8%, 39.89%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: Assuming that you have heard, the indicative in the Greek language shows that no doubt is implied. The verse emphasizes the divine arrangement and stewardship, the dispensation of the grace of God. This commission has been given to me to dispense to you, specifically to the Gentiles. It is a declaration of the free grace of God, entrusted to me for the benefit of others. Therefore, be comforted in the belief that my work is dedicated to your welfare and the proclamation of the gospel.
-- 🔄 Ephesians 3:2 (attempt 3, 85 words, 40.74% quotes quality score: 1.7188089943571447, V2 normalized quality score: 48.49, commentator tiers 1-3: 32.09%, 31.41%, 36.5%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Assuming that you have indeed heard, the apostle Paul is mindful of his role as the steward entrusted with the dispensation of God's grace. This divine arrangement pertains to the proclamation of the glorious and eternal plan of God, designed for the welfare and glory of the believers. Despite the sufferings he endured, Paul finds consolation in knowing that he has been commissioned to dispense the gospel of God's grace to the Ephesians, a task he faithfully performs.
+- 🔄 Ephesians 3:2 (attempt 2, 80 words, 34.55% quotes quality score: 1.811388154922843, V2 normalized quality score: 51.57, commentator tiers 1-3: 26.52%, 34.56%, 38.92%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Assuming that you have indeed heard, the apostle Paul reminds the Ephesians of his role as a steward, entrusted with the dispensation of the grace of God. This divine arrangement, characterized by a divine order or command, is the commission Paul faithfully carries out. Despite facing suffering, Paul finds comfort in knowing that his preaching of the glorious and eternal plan of God, designed for the welfare and glory of the Ephesians, is a result of the gift of grace given to him for the ministry.
+- 🔄 Ephesians 3:2 (attempt 3, 86 words, 35.09% quotes quality score: 1.7761358907163896, V2 normalized quality score: 50.4, commentator tiers 1-3: 26.34%, 31.65%, 42.01%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: Assuming that you have heard, the divine arrangement and stewardship of the grace of God have been given to me. My role as a steward is to make known the plan of God, specifically to the Gentiles. This commission is not for my own use, but for the sake of others. Therefore, find comfort in the belief that my work is dedicated to your welfare and the proclamation of the gospel. Do not be troubled by my sufferings, as they are a part of fulfilling this purpose.
-- 🔄 Ephesians 3:2 (attempt 4, 87 words, 50.0% quotes quality score: 1.4383700984631242, V2 normalized quality score: 39.17, commentator tiers 1-3: 25.48%, 34.97%, 39.55%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 5 BHT: Assuming you have heard, I am entrusted with the divine arrangement and stewardship of the grace of God. Specifically, I have received this commission to make known the plan of God to the Gentiles. It is not for my own private use, but rather for the benefit of others. Therefore, take comfort in the belief that my work is dedicated to your welfare and the proclamation of the gospel. Do not be troubled by my sufferings, as they are part of fulfilling this purpose.
-- 🔄 Ephesians 3:2 (attempt 5, 84 words, 53.33% quotes quality score: 1.4414887778604561, V2 normalized quality score: 39.27, commentator tiers 1-3: 25.35%, 35.42%, 39.23%) 
-	- BHT WAS OVER 80 WORDS!
-- ✅ Ephesians 3:2 bht prompt v0.8 (84 words, 53.33% quotes)
-- quality score: 1.4414887778604561, V2 normalized quality score: 39.27, commentator tiers 1-3: 25.35%, 35.42%, 39.23%)
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The apostle Paul assumes that the Ephesians have heard about his role as a steward, entrusted with the dispensation of the grace of God. This divine arrangement is a commission given to him, enabling him to faithfully proclaim and dispense the gospel of God's grace to the Gentiles. Despite facing suffering, Paul finds solace in the fact that his preaching of this glorious and eternal plan of God is intended for the welfare and glory of the Ephesians, highlighting the gift of grace bestowed upon him for this ministry.
+- 🔄 Ephesians 3:2 (attempt 4, 90 words, 30.36% quotes quality score: 1.90942814247751, V2 normalized quality score: 54.83, commentator tiers 1-3: 26.41%, 31.43%, 42.16%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: Assuming that you have indeed heard, the apostle Paul reassures the Ephesians of his vital role as a steward, entrusted with dispensing the grace of God. This divine arrangement, a commission or command, empowers him to faithfully proclaim and dispense the gospel of God's grace to the Gentiles. Despite enduring suffering, Paul finds solace in knowing that his preaching of the glorious and eternal plan of God is intended for the welfare and glory of the Ephesians, showcasing the gift of grace bestowed upon him for this purpose.
+- 🔄 Ephesians 3:2 (attempt 5, 89 words, 31.67% quotes quality score: 1.8592731214291318, V2 normalized quality score: 53.16, commentator tiers 1-3: 26.48%, 31.72%, 41.8%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Ephesians 3:2 bht prompt v0.8 (84 words, 38.18% quotes)
+- quality score: 1.9229876089074356, V2 normalized quality score: 55.28, commentator tiers 1-3: 24.3%, 35.8%, 39.89%)

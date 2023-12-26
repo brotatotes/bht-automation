@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-19-2023 23:51:30",
+    "timestamp": "12-25-2023 20:31:53",
     "verseRef": "Matthew 22:40",
     "bestBHT": {
-        "bht": "The challenge arises from understanding Christ as the Son of David in a worldly political sense, yet the solution lies in recognizing the incarnate Godhead of Christ, which the people were unaware of. The precepts of the law and the prophecies of Christ do not contradict but are rooted in a common principle. Living a holy and upright life involves both worshiping God and demonstrating charity towards others. These two commandments hold foremost importance but are not the sole components of faith. All the law and prophets align and depend on them for guidance.",
-        "wordCount": 94,
-        "quoteTokenProportion": 34.85,
-        "qualityScore": 1.3455390680630923,
-        "qualityScoreNormalizedComparedToV2BHTs": 36.08,
+        "bht": "The commandment to love God and our neighbors is the essence of the law and the prophets. It goes beyond the worldly understanding of the title Son of David and reveals the truth of the incarnate Godhead of Christ. This commandment unifies the cardinal precepts of the law and the prophetic teachings, with no contradiction between them. Loving God and others is the fulfillment of the law, and it cannot be separated from the teachings of the law and prophets; they are intertwined and interdependent.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.6227023558017108,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.3,
         "commentatorTierSimilarities": [
-            31.4,
-            25.74,
-            42.86
+            31.21,
+            27.12,
+            41.67
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "all the details of God\u2019s ancient revelation of His will, by whomsoever made.",
-            "He takes occasion to shew them, who understood this title in a mere worldly political sense, the difficulty arising from David\u2019s own reverence for this his Son.",
+            "the law and the prophets] in the sense of ch. v. 17; vii. 12: all the details of God\u2019s ancient revelation of His will, by whomsoever made.",
+            "From the universally recognized title of the Messiah as the Son of David, which by his question He elicits from them, He takes occasion to shew them, who understood this title in a mere worldly political sense.",
             "the solution lying in the incarnate Godhead of the Christ, of which they were ignorant."
         ],
         "John Calvin": [
-            "The sum of a holy and upright life consists in the worship of God and in charity to men.",
-            "Yet the free forgiveness of sins, by which we are reconciled to God, \u2014 confidence in calling on God, which is the earnest of the future inheritance, \u2014 and all the other parts of faith, though they hold the first rank in the Law, do not depend on these two commandments.",
-            "There is no other commandment greater than these."
+            "For Christ does not treat generally of what the Law and the Prophets contain, but, in drawing up his reply, states that nothing else is required in the Law and the prophets than that every man should love God and his neighbors.\" ",
+            "the sum of a holy and upright life consists in the worship of God and in charity to men",
+            "The same thing is expressed in other words by Mark, that there is no other commandment greater than these."
         ],
         "Philip Schaff": [
-            "Doth hang. Like a door on its hinges.\" ",
-            "The 'cardinal precepts have a common principle.",
-            "Between the law, which they used as a snare, and the prophets, who foretold of Christ, there was no contradiction."
+            "The \u2018cardinal precepts have a common principle.\" ",
+            "Between the law, which they used as a snare, and the prophets, who foretold of Christ, there was no contradiction.",
+            "On the response of the scribe, see Mark 12:32-34."
         ],
         "John Gill": [
-            "On these two commandments hang all the law and the prophets.",
-            "The substance of the law is love.",
-            "All that are in the law and prophets are consistent with, and dependent on these things."
+            "The substance of the law is love; and the writings of the prophets, as to the preceptive part of them, are an explanation of the law, and an enlargement upon it.\" ",
+            "Hence love is the fulfilling of the law.\" ",
+            "The sense is plainly this, that all that are in the law and prophets are consistent with, and dependent on these things; and are, as the Persic version renders the word, 'comprehended' in them, and cannot be separated from them."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse highlights the significance of God's ancient revelation and the difficulty in understanding the title of Christ as the Son of David in a mere worldly political sense. The solution lies in the incarnate Godhead of Christ, of which the people were ignorant. The cardinal precepts have a common principle, as there is no contradiction between the Law and the prophets. The sum of a holy and upright life consists of worshiping God and showing charity to others. These two commandments hold the first rank in the Law, but the forgiveness of sins and confidence in God do not depend solely on them. Ultimately, all the law and the prophets are consistent with and depend on these two great commandments.",
-            "wordCount": 122,
-            "quoteTokenProportion": 34.67,
-            "qualityScore": 1.456569869933245,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+            "bht": "The verse reminds us that the law and the prophets, the entirety of God's ancient revelation of His will, are summed up in the command to love God and our neighbors. This command is not simply a worldly, political interpretation of the title Son of David, which the scribes understood. Instead, the solution lies in recognizing the incarnate Godhead of Christ, of which they were ignorant. The cardinal precepts of the law and the prophets are undergirded by a common principle, with no contradiction between them. The sum of a holy and upright life is found in loving God and loving others, and this command is the fulfillment of the law. It is impossible to separate the command to love from the teachings of the law and prophets; they are intimately connected and dependent on one another.",
+            "wordCount": 138,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.5680294915624442,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
             "commentatorTierSimilarities": [
-                32.46,
-                25.48,
-                42.06
+                33.3,
+                27.8,
+                38.9
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The understanding of Christ as the Son of David in a political sense brings forth the difficulty arising from David's reverence for his Son. Nevertheless, the solution lies in the incarnate Godhead of Christ. There is no contradiction between the Law and the prophets, as they have a common principle. A holy and upright life consists of worshiping God and showing charity to others. These commandments hold a significant place, while forgiveness of sins and confidence in God also play important roles. Ultimately, all the law and the prophets align and depend on these two pivotal commandments.",
-            "wordCount": 98,
-            "quoteTokenProportion": 35.82,
-            "qualityScore": 1.2768629353681085,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.8,
+            "bht": "The commandment to love God and our neighbors is the essence of the law and the prophets. It goes beyond the worldly understanding of the title Son of David and reveals the truth of the incarnate Godhead of Christ. This commandment unifies the cardinal precepts of the law and the prophetic teachings, with no contradiction between them. Loving God and others is the fulfillment of the law, and it cannot be separated from the teachings of the law and prophets; they are intertwined and interdependent.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.6227023558017108,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.3,
             "commentatorTierSimilarities": [
-                30.1,
-                25.57,
-                44.33
+                31.21,
+                27.12,
+                41.67
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The challenge arises from understanding Christ as the Son of David in a worldly political sense, yet the solution lies in recognizing the incarnate Godhead of Christ, which the people were unaware of. The precepts of the law and the prophecies of Christ do not contradict but are rooted in a common principle. Living a holy and upright life involves both worshiping God and demonstrating charity towards others. These two commandments hold foremost importance but are not the sole components of faith. All the law and prophets align and depend on them for guidance.",
-            "wordCount": 94,
-            "quoteTokenProportion": 34.85,
-            "qualityScore": 1.3455390680630923,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.08,
+            "bht": "The law and the prophets, encompassing God's revelation, find their culmination in the commandment to love God and our neighbors. This transcends the limited political understanding associated with the title Son of David and directs our attention to the incarnate Godhead of Christ. These cardinal precepts harmonize without contradiction, and their essence lies in the practice of love towards God and others. Loving God and our neighbors fulfills the divine law, and this inseparable connection between love and divine teachings is at the heart of our journey.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.3662056878879534,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
             "commentatorTierSimilarities": [
-                31.4,
-                25.74,
-                42.86
+                33.19,
+                23.91,
+                42.91
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The challenge lies in understanding Christ as the Son of David in a purely political sense, while the solution is found in recognizing the incarnate Godhead of Christ. The precepts of the law and the prophecies of Christ are not contradictory, but derive from a shared principle. Living a holy life involves worshipping God and showing charity, as these two commandments hold utmost importance. However, forgiveness, confidence in God, and other aspects of faith are not solely dependent on these two commandments. The entirety of the law and the prophets are aligned and dependent on them.",
-            "wordCount": 96,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 1.26333291376443,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.35,
+            "bht": "The commandment to love God and our neighbors encapsulates the law and the prophets, representing the entirety of God's divine revelation. This transcends the limited understanding associated with the title Son of David, emphasizing instead the revelation of the incarnate Godhead of Christ. The cardinal precepts of the law and the prophetic teachings align harmoniously, without contradiction. Love towards God and others serves as the fulfillment of the divine law, inseparably connected to the teachings of the law and prophets.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.91,
+            "qualityScore": 1.5887912589622815,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
             "commentatorTierSimilarities": [
-                26.94,
-                25.71,
-                47.35
+                34.62,
+                27.07,
+                38.31
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Understanding Christ as the Son of David in a mere worldly sense presents a challenge, while the solution lies in recognizing His incarnate Godhead. The precepts of the law and prophecies of Christ share a common principle and are not contradictory. Living a holy life entails worshipping God and demonstrating charity to others, which hold significant importance. However, forgiveness of sins and confidence in God are not solely reliant on these two commandments. Ultimately, all the law and the prophets align with and depend on them.",
+            "bht": "The law and the prophets converge in the commandment to love God and our neighbors. This surpasses the superficial interpretation of the title Son of David in its political context, instead highlighting the revelation of the incarnate Godhead of Christ. The essential principles of the law and the prophets unite without contradiction, and they find their fulfillment in the act of love towards God and others. This love serves as the cornerstone of the divine law, inseparably intertwined with the teachings of the law and prophets.",
             "wordCount": 86,
-            "quoteTokenProportion": 32.26,
-            "qualityScore": 1.3009500451570817,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.6,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.5364461230089748,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
             "commentatorTierSimilarities": [
-                29.46,
-                26.14,
-                44.4
+                31.92,
+                24.32,
+                43.75
             ],
             "generationAttempt": 5
         }

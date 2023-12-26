@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:21:45",
+    "timestamp": "12-25-2023 20:33:33",
     "verseRef": "Luke 19:22",
     "bestBHT": {
-        "bht": "Did you really think I wouldn't know? You claimed to know my character and what I expected of you, so you should have been faithful. Your own words have turned against you, leading to your own condemnation. This principle applies not only to this particular slave, but also to all people who will face God's judgment. We cannot complain if God holds us accountable according to our own knowledge and understanding of Him.",
-        "wordCount": 75,
-        "quoteTokenProportion": 52.63,
-        "qualityScore": 1.4350794009242578,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+        "bht": "Did you know? Then, for that reason, you should have been more faithful. By your own statement or your own views of my character, you knew that I would be rigid, firm, and even severe. As you knew my character beforehand and were well acquainted with the fact that I should demand a strict compliance with your obligation, you have no right to complain if you are condemned accordingly. Out of your own mouth, your words are turned against you and you are judged accordingly.",
+        "wordCount": 85,
+        "quoteTokenProportion": 57.89,
+        "qualityScore": 1.463916998010685,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.02,
         "commentatorTierSimilarities": [
-            38.19,
-            30.53,
-            31.28
+            37.09,
+            40.63,
+            22.28
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Albert Barnes": [
-            "Out of thine own mouth - By your own statement, or your own views of my character.",
-            "If you 'knew' my character beforehand, and was well acquainted with the fact that I should demand a strict compliance with your obligation, you have no right to complain if you are condemned accordingly.",
-            "As people know that God will be 'just,' and will call them to a strict account in the day of judgment, they ought to be prepared to meet him, and that they cannot then complain if God should condemn them."
+            "By your own statement, or your own views of my character.",
+            "If you 'knew' that this was my character, and 'knew' that I would be rigid, firm, and even severe, it would have been the part of wisdom in you to have made the best use of the money in your power.",
+            "As you 'knew' my character beforehand, and was well acquainted with the fact that I should demand a strict compliance with your obligation, you have no right to complain if you are condemned accordingly."
         ],
         "Marvin Vincent": [
             "Thou knewest. To be read interrogatively. \"Didst thou know that? Then, for that reason, thou shouldst have been the more faithful."
@@ -28,14 +28,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Thou knewest. Either it must be taken as a question or be understood as sarcasm.",
-            "The words of the wicked slave are turned to his own condemnation.",
-            "The words of the wicked slave are turned to his own condemnation."
+            "Thou knewest (\u03b7\u03b9\u03b4\u03b5\u03b9\u03c2). Second past perfect of \u03bf\u03c1\u03b1\u03c9, to see, used as imperfect of \u03bf\u03b9\u03b4\u03b1, to know.\" ",
+            "Either it must be taken as a question as Westcott and Hort do or be understood as sarcasm as the Revised Version has it.\" ",
+            "The words of the wicked (\u03c0\u03bf\u03bd\u03b7\u03c1\u03bf\u03c2) slave are turned to his own condemnation."
         ],
         "John Gill": [
-            "Out of thine own mouth will I judge thee, thou wicked servant...\" ",
-            "...he was not only a wicked man, as all men are, even enemies by wicked works, and lie in wickedness; and a wicked professor of religion, as there be some; but a wicked minister...",
-            "...Christ turns his own argument upon him, and by his own words condemns him..."
+            "Out of thine own mouth will I judge thee, thou wicked servant.",
+            "He was not only a wicked man, as all men are, even enemies by wicked works, and lie in wickedness; and a wicked professor of religion, as there be some; but a wicked minister.",
+            "Christ turns his own argument upon him, and by his own words condemns him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -55,67 +55,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Did you really not know? If you did, then you should have been faithful. Your own words condemn you, turning your wickedness against you. Your knowledge of who I am and what I require of you gives you no right to complain when you are judged accordingly. You cannot expect mercy after speaking against me.",
-            "wordCount": 55,
-            "quoteTokenProportion": 60.98,
-            "qualityScore": 1.4287460354338548,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "bht": "Did you know? If you did, then you should have been more faithful. Your own statement, your own views of my character, should have led you to make better use of the resources entrusted to you. You knew that I would be rigid, firm, and even severe. So, it would only be wise for you to comply with your obligation. You cannot complain now that your words have turned against you and brought condemnation upon yourself. Out of your own mouth, I judge you, you wicked servant.",
+            "wordCount": 87,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 1.3870118117906203,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.46,
             "commentatorTierSimilarities": [
-                42.59,
-                26.91,
-                30.49
+                38.81,
+                31.86,
+                29.33
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Did you really think I wouldn't know? You claimed to know my character and what I expected of you, so you should have been faithful. Your own words have turned against you, leading to your own condemnation. This principle applies not only to this particular slave, but also to all people who will face God's judgment. We cannot complain if God holds us accountable according to our own knowledge and understanding of Him.",
-            "wordCount": 75,
-            "quoteTokenProportion": 52.63,
-            "qualityScore": 1.4350794009242578,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "bht": "Did you know? If you did, then you should have been more faithful. Your own statement, your own views of my character, should have led you to make better use of the resources entrusted to you. You knew that I would be rigid, firm, and even severe. So, it would only be wise for you to comply with your obligation. You cannot complain now that your words have turned against you and brought condemnation upon yourself. Out of your own mouth, I judge you, you wicked servant.",
+            "wordCount": 87,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 1.3870118117906203,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.46,
             "commentatorTierSimilarities": [
-                38.19,
-                30.53,
-                31.28
+                38.81,
+                31.86,
+                29.33
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Did you know? Then, because you knew, you should have been more faithful. The words of the wicked slave are turned against him, condemning him. By his own statement, he is judged. This serves as a reminder that we cannot complain if we are condemned according to God's standards, for we are aware that He is just and will call us to account. Let us be prepared to meet Him, knowing that we cannot argue against our own words and actions.",
-            "wordCount": 82,
-            "quoteTokenProportion": 56.67,
-            "qualityScore": 1.4050510874288809,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.06,
+            "bht": "Did you know? If you did, you should have been more faithful. Your own statement, your own views of my character, should have led you to make better use of the resources entrusted to you. You knew I would be rigid, firm, and even severe. So, it would have been wise to comply with your obligation. You cannot complain now that your own words have brought condemnation upon yourself. Out of your own mouth, I judge you, you wicked servant.",
+            "wordCount": 80,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 1.3410200678610544,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.93,
             "commentatorTierSimilarities": [
-                40.55,
-                24.71,
-                34.73
+                39.33,
+                32.83,
+                27.84
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Did you know? Then, because you knew, you should have been more faithful. The words of the wicked slave are turned against him, condemning him. By his own statement, he is judged. This serves as a reminder that we cannot complain if we are condemned according to God's standards. Let us be prepared to meet Him, knowing that we cannot argue against our own words and actions.",
-            "wordCount": 68,
-            "quoteTokenProportion": 55.56,
-            "qualityScore": 1.3847458017442489,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.39,
+            "bht": "Did you know? Then, for that reason, you should have been more faithful. By your own statement or your own views of my character, you knew that I would be rigid, firm, and even severe. As you knew my character beforehand and were well acquainted with the fact that I should demand a strict compliance with your obligation, you have no right to complain if you are condemned accordingly. Out of your own mouth, your words are turned against you and you are judged accordingly.",
+            "wordCount": 85,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 1.463916998010685,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.02,
             "commentatorTierSimilarities": [
-                40.82,
-                24.2,
-                34.98
+                37.09,
+                40.63,
+                22.28
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The verse reminds us that there are consequences for our actions and words. As the first-tier commentary suggests, the statement thou knewest can be seen as a question or sarcasm. The wicked servant's own words are turned against him, leading to his condemnation. The second-tier commentary emphasizes that if someone is aware of the expectations and character of God, they should not be surprised or complain when they are judged accordingly. Ultimately, this verse serves as a warning that our own words and actions can be used against us in the face of divine judgment.",
-            "wordCount": 98,
-            "quoteTokenProportion": 45.45,
-            "qualityScore": 1.4933486132024876,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "bht": "Did you know? Then, for that reason, you should have been more faithful. By your own statement or your own views of my character, you knew that I would be rigid, firm, and even severe. As you knew my character beforehand and were well acquainted with the fact that I should demand a strict compliance with your obligation, you have no right to complain if you are condemned accordingly. Out of your own mouth, your words are turned against you.",
+            "wordCount": 80,
+            "quoteTokenProportion": 58.93,
+            "qualityScore": 1.4190006776637194,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
             "commentatorTierSimilarities": [
-                36.52,
-                25.19,
-                38.3
+                36.97,
+                41.42,
+                21.61
             ],
             "generationAttempt": 5
         }

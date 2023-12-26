@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:19:31",
+    "timestamp": "12-25-2023 20:33:25",
     "verseRef": "Luke 13:28",
     "bestBHT": {
-        "bht": "By neglecting to enter through the narrow gate and allowing worldly influences to lead you astray, you risk being separated from the community of believers. Christ's warning is clear that those who follow this path will be cast out and shut out from the kingdom of God, having no part with the faithful forefathers. Being born into a religious family does not guarantee a place in eternal glory; genuine regeneration transcends lineage. Let not the allure of the world deceive you, for on the final day, the consequences of our exclusion will be undeniable.",
-        "wordCount": 95,
-        "quoteTokenProportion": 37.84,
-        "qualityScore": 1.0029481721601194,
-        "qualityScoreNormalizedComparedToV2BHTs": 24.69,
+        "bht": "Jesus warns those who have departed from the faith of their forefathers that they have no place in the kingdom of God. He urges them not to be influenced by the corrupt companions around them, but instead to enter through the narrow gate. Those who neglect to do so will face disappointment when they are cast out and see the faithful entering with Abraham, Isaac, and Jacob. This separation from the community of believers will result in their eternal separation from God.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.0338912220342575,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.72,
         "commentatorTierSimilarities": [
-            31.34,
+            27.83,
             0.0,
-            68.66
+            72.17
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -23,20 +23,19 @@
             "\tHEROD."
         ],
         "John Calvin": [
-            "Christ here assures them, that a bastard race, which has departed from the faith and piety of the fathers, has 'no inheritance in the kingdom of God.'\" (Commentary)",
-            "If you neglect (says he) to enter by the strait gate, because you are kept back by the great number of those who are going astray, do you not see that you are separated from the number of believers, and become involved with unbelievers?\" (Commentary)",
-            "If the aspect of the world now dazzles your eyes, the last day will cure you of this folly, but it will be too late: for you shall then know that you, and others like you, are excluded from the kingdom of God, and have no part with Abraham.\" (Commentary)"
+            "Christ here assures them, that a bastard race, which has departed from the faith and piety of the fathers, has 'no inheritance in the kingdom of God.'",
+            "There is a silent but implied reproof, that those who were desirous to have companions in seeking salvation, did not endeavor to associate themselves with Abraham, and the prophets, and the holy fathers, instead of looking around among their contemporaries, who had degenerated greatly from their example into innumerable corruptions.",
+            "If you neglect (says he) to enter by the strait gate, because you are kept back by the great number of those who are going astray, do you not see that you are separated from the number of believers, and become involved with unbelievers?"
         ],
         "Archibald T. Robertson": [
-            "There (\u03b5\u03ba\u03b5). Out there, outside the house whence they are driven.",
-            "When ye shall see (\u03bf\u03c4\u03b1\u03bd \u03bf\u03c8\u03b7\u03c3\u03b8\u03b5). First aorist middle subjunctive (of a late aorist \u03c9\u03c8\u03b1\u03bc\u03b7\u03bd) of \u03bf\u03c1\u03b1\u03c9, though \u03bf\u03c8\u03b5\u03c3\u03b8\u03b5 (future middle) in margin of Westcott and Hort, unless we admit here a 'future' subjunctive like Byzantine Greek (after Latin).",
-            "And yourselves cast forth without (\u03c5\u03bc\u03b1\u03c2 \u03b4\u03b5 \u03b5\u03ba\u03b2\u03b1\u03bb\u03bb\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2 \u03b5\u03be\u03c9). Present passive participle, continuous action, 'you being cast out' with the door shut."
+            "Out there, outside the house whence they are driven.",
+            "When ye shall see... you being cast out with the door shut.",
+            "See on Matthew 8:11 for this same picture."
         ],
         "John Gill": [
-            "This will be upon hearing the above sentence and character, 'depart from me', and will be increased,",
-            "when ye shall see Abraham, Isaac, and Jacob.",
-            "A being born of religious parents will neither give right unto, nor meetness for eternal glory; regeneration is not of blood.",
-            "With indignation and contempt, with shame and 'ignominy'...bid to depart, and ordered to be forever separated from them, as only fit company for devils and damned spirits."
+            "This will be upon hearing the above sentence and character, 'depart from me', and will be increased, when ye shall see Abraham, Isaac, and Jacob.",
+            "Sad will be the disappointment of such persons; a being born of religious parents, will neither give right unto, nor meetness for eternal glory; regeneration is not of blood.",
+            "You [yourselves] thrust out: with indignation and contempt, with shame and 'ignominy', as the Persic version adds; not suffered to go in with them, though their sons and successors; but bid to depart, and ordered to be forever separated from them, as only fit company for devils and damned spirits."
         ],
         "John Wesley": [
             "Matthew 8:11."
@@ -59,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When you neglect to enter through the narrow gate because you are influenced by those who have strayed from the faith, you risk being separated from the community of believers and joining the ranks of unbelievers. Christ warns that those who go down this path will be cast out, shut out from the kingdom of God, and will have no part with Abraham, Isaac, and Jacob. It is clear that being born into a religious family does not guarantee a place in eternal glory; true regeneration is not a matter of blood. Therefore, let us not be deceived by the allure of the world, for on that day of reckoning, we will understand the gravity of our exclusion if we have not chosen the strait and narrow path.",
-            "wordCount": 128,
-            "quoteTokenProportion": 45.35,
-            "qualityScore": 1.0123959385194845,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.01,
+            "bht": "When Jesus speaks about the door being shut and people being cast out, he is painting a vivid picture of the fate of those who have strayed from the faith and piety of their forefathers. He is implying that these individuals have no inheritance in the kingdom of God and will face disappointment when they see Abraham, Isaac, and Jacob entering. Christ challenges them to not be swayed by the corrupt companions around them and to enter by the narrow gate. Those who neglect to do so will find themselves separated from the community of believers and left to face the consequences of their choices.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.0872787139617472,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.5,
             "commentatorTierSimilarities": [
-                27.54,
+                28.48,
                 0.0,
-                72.46
+                71.52
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When you neglect to enter through the narrow gate, swayed by those who have turned away from faith, you risk being separated from the community of believers. Christ warns that those on this path will be cast out, shut out from the kingdom of God, and have no part with Abraham, Isaac, and Jacob. Being born into a religious family does not secure eternal glory; true regeneration is not of blood. Don't be deceived by the world, for on judgment day, the weight of our exclusion will become clear.",
-            "wordCount": 90,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 0.9988335436195037,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.56,
+            "bht": "Jesus warns those who have departed from the faith of their forefathers that they have no place in the kingdom of God. He urges them not to be influenced by the corrupt companions around them, but instead to enter through the narrow gate. Those who neglect to do so will face disappointment when they are cast out and see the faithful entering with Abraham, Isaac, and Jacob. This separation from the community of believers will result in their eternal separation from God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0338912220342575,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.72,
             "commentatorTierSimilarities": [
-                27.82,
+                27.83,
                 0.0,
-                72.18
+                72.17
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When you neglect to enter through the narrow gate, influenced by those who have turned away from faith, you risk being separated from the community of believers. Christ warns that those on this path will be cast out and shut out from the kingdom of God, having no part with Abraham, Isaac, and Jacob. Being born into a religious family doesn't guarantee eternal glory; true regeneration is not of blood. Do not be deceived by the allure of the world, for the day of reckoning will reveal the gravity of our exclusion.",
-            "wordCount": 93,
-            "quoteTokenProportion": 40.85,
-            "qualityScore": 0.9270494392277349,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.17,
+            "bht": "Jesus warns those who have turned away from the faith and piety of their forefathers that they will have no share in the kingdom of God. He challenges them to not be swayed by the corrupt companions around them, but to enter through the narrow gate. Failure to heed this warning will result in being cast out and witnessing the faithful, like Abraham, Isaac, and Jacob, entering the kingdom while they are left behind. This separation from the community of believers will lead to their eternal exclusion from God's presence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.0474277926941167,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.17,
             "commentatorTierSimilarities": [
-                26.27,
+                26.98,
                 0.0,
-                73.73
+                73.02
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "By neglecting to enter through the narrow gate and allowing worldly influences to lead you astray, you risk being separated from the community of believers. Christ's warning is clear that those who follow this path will be cast out and shut out from the kingdom of God, having no part with the faithful forefathers. Being born into a religious family does not guarantee a place in eternal glory; genuine regeneration transcends lineage. Let not the allure of the world deceive you, for on the final day, the consequences of our exclusion will be undeniable.",
-            "wordCount": 95,
-            "quoteTokenProportion": 37.84,
-            "qualityScore": 1.0029481721601194,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.69,
+            "bht": "Jesus warns those who have strayed from their forefathers' faith that they have no inheritance in the kingdom of God. He challenges them to not be influenced by corrupt companions, but to enter through the narrow gate. Those who neglect to do so will be cast out, witnessing the faithful like Abraham, Isaac, and Jacob entering the kingdom while they are left behind. This rejection will result in their eternal separation from God, emphasizing the importance of remaining faithful rather than relying on religious lineage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.0334175307176872,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.71,
             "commentatorTierSimilarities": [
-                31.34,
+                25.17,
                 0.0,
-                68.66
+                74.83
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When you neglect to enter through the narrow gate due to the influence of those who have strayed from faith, you risk separation from the believers. Christ warns that those on this path will be cast out, shut out from the kingdom of God, and have no part with Abraham, Isaac, and Jacob. Being born into a religious family doesn't guarantee eternal glory; true regeneration is not of blood. Let us not be deceived by the world, for on judgment day, the weight of our exclusion will be known.",
-            "wordCount": 90,
-            "quoteTokenProportion": 43.48,
-            "qualityScore": 0.9757941500601954,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.79,
+            "bht": "Jesus warns those who have departed from the faith of their forefathers that they have no inheritance in the kingdom of God, emphasizing the futility of relying on religious lineage alone. He urges them to not be swayed by the corrupt companions around them, but to enter through the narrow gate instead. Failing to do so will result in their ultimate rejection, as they witness the faithful, like Abraham, Isaac, and Jacob, entering the kingdom while they are left behind, forever separated from God's presence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.05311725733576,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.36,
             "commentatorTierSimilarities": [
-                27.71,
+                23.86,
                 0.0,
-                72.29
+                76.14
             ],
             "generationAttempt": 5
         }

@@ -1,16 +1,16 @@
 # 2 Thessalonians 3:8 Commentary Help Text
 
 ## BHT:
-Paul and his companions in this text diligently labored to obtain sustenance, refusing to depend on others for their livelihood. The phrase to eat bread is a Hebraistic expression meaning to get sustenance or to receive as a gift. They made it clear that they would work hard with their hands, not relying on the generosity of others. This commitment to financial independence and self-sufficiency was crucial for Paul to counter false accusations and demonstrate their dedication to hard work.
+To live at anyone's expense, or eat bread from any man, was seen as a privilege by many Thessalonians who would have gladly contributed. However, Paul chose not to rely on them for financial support, even though he had the right to do so. He worked hard to support himself and avoid false charges, setting an example for others. By demonstrating his financial independence, he ensured that the spread of the Gospel was not hindered. Thus, by not eating bread from any man, Paul emphasized the importance of self-sufficiency and diligence.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1.  8.] to eat bread is a Hebraistic expression for ‘to get sustenance:’ from any man, ‘at any one’s expense,’ from any one as a gift.
 
 ### Jamieson-Fausset-Brown:
-1. "eat THEIR OWN bread."
-2. "labour and travail"
-3. "He waived his right."
+1. "eat bread from any man," that is, live at anyone's expense. Contrast 2 Thessalonians 3:12, "eat THEIR OWN bread."
+2. "They preached gratuitously though they might have claimed maintenance from their converts."
+3. "Many Thessalonians, doubtless, would have felt it a privilege to contribute, but as he saw some idlers among them who would have made a pretext of his example to justify themselves, he waived his right."
 
 ### Albert Barnes:
 1. "We were not supported in idleness at the expense of others."
@@ -18,9 +18,9 @@ Paul and his companions in this text diligently labored to obtain sustenance, re
 3. "In fact, labored for our own support."
 
 ### Marvin Vincent:
-1. "Any man's bread...lit. bread from any one, or at any man's hand."
-2. "For nought...as a gift, gratis."
-3. "Be chargeable...burden...depending upon them for pecuniary support."
+1. "Any man's bread."
+2. "The accusative often adverbially as here; as a gift, gratis."
+3. "By depending upon them for pecuniary support."
 
 ### Archibald T. Robertson:
 1. "He lodged with Jason, but did not receive his meals gratis, for he paid for them."
@@ -28,47 +28,46 @@ Paul and his companions in this text diligently labored to obtain sustenance, re
 3. "To eat bread is merely a Hebraism for eat."
 
 ### John Gill:
-1. "He signifies, that what they ate, they bought with their own money, and lived on no man, without giving him a valuable consideration for what they had."
-2. "They working very hard and incessantly with their hands...nor was this inconsistent with his learning and liberal education."
-3. "It is better to strip the skins of beasts that have been torn, than to say to the people, I am a considerable wise (or learned) man, I am a priest, take care of me, and maintain me."
+1. "he signifies, that what they ate, they bought with their own money, and lived on no man, without giving him a valuable consideration for what they had" 
+2. "not only laboriously preaching the Gospel to them, as often as they could have opportunity, but working very hard and incessantly with their hands, at the occupations and trades they had been brought up to"
+3. "the apostles being able partly by their own hand labour, and partly by what they received from Philippi, to support themselves, chose to that they might not lie heavy upon them, and any ways hinder the spread of the Gospel among them"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:38:21
+- Timestamp: 12-25-2023 20:34:32
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 40.68%
-- BHT Quality Score: 1.433155983993278
+- BHT Word Count: 93
+- BHT Commentary Usage: 48.57%
+- BHT Quality Score: 1.6615465051152651
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'accusations', 'and', 'as', 'bread', 'clear', 'commitment', 'companions', 'counter', 'crucial', 'dedication', 'demonstrate', 'depend', 'diligently', 'eat', 'expression', 'false', 'financial', 'for', 'generosity', 'get', 'gift', 'hands', 'hard', 'hebraistic', 'his', 'in', 'independence', 'is', 'it', 'labored', 'livelihood', 'made', 'meaning', 'not', 'obtain', 'of', 'on', 'or', 'others', 'paul', 'phrase', 'receive', 'refusing', 'relying', 'self', 'sufficiency', 'sustenance', 'text', 'that', 'the', 'their', 'they', 'this', 'to', 'was', 'with', 'work', 'would']
-- ChatGPT injected words (significant words only) (35):
-	['accusations', 'bread', 'clear', 'commitment', 'companions', 'counter', 'crucial', 'dedication', 'demonstrate', 'depend', 'diligently', 'eat', 'expression', 'false', 'financial', 'generosity', 'gift', 'hands', 'hard', 'hebraistic', 'independence', 'labored', 'livelihood', 'meaning', 'obtain', 'paul', 'phrase', 'receive', 'refusing', 'relying', 'self', 'sufficiency', 'sustenance', 'text', 'work']
+- ChatGPT injected words (70):
+	['a', 'an', 'and', 'any', 'anyone', 'as', 'at', 'avoid', 'bread', 'by', 'charges', 'chose', 'contributed', 'demonstrating', 'diligence', 'do', 'eat', 'eating', 'emphasized', 'ensured', 'even', 'example', 'expense', 'false', 'financial', 'for', 'from', 'gladly', 'gospel', 'had', 'hard', 'have', 'he', 'himself', 'hindered', 'his', 'however', 'importance', 'independence', 'live', 'man', 'many', 'not', 'of', 'on', 'or', 'others', 'paul', 'privilege', 'rely', 'right', 's', 'seen', 'self', 'setting', 'so', 'spread', 'sufficiency', 'support', 'that', 'the', 'them', 'thessalonians', 'though', 'thus', 'to', 'was', 'who', 'worked', 'would']
+- ChatGPT injected words (significant words only) (36):
+	['avoid', 'bread', 'charges', 'chose', 'contributed', 'demonstrating', 'diligence', 'eat', 'eating', 'emphasized', 'ensured', 'example', 'expense', 'false', 'financial', 'gladly', 'gospel', 'hard', 'hindered', 'importance', 'independence', 'live', 'man', 'paul', 'privilege', 'rely', 'right', 's', 'seen', 'self', 'setting', 'spread', 'sufficiency', 'support', 'thessalonians', 'worked']
 
 ### Logs
-- Attempt 1 BHT: In 2 Thessalonians 3:8, the phrase to eat bread is a Hebraistic expression meaning to obtain sustenance, and in this context, it emphasizes that Paul and his companions did not rely on others for their livelihood. They labored diligently, refusing to be a burden on anyone else, and were even willing to pay for their own meals. Despite his education and learning, Paul made it clear that he would work hard with his hands to support himself, rather than depend on the generosity of others. It was important for Paul to establish his financial independence to counter false accusations and to demonstrate his commitment to self-sufficiency.
-- 🔄 2 Thessalonians 3:8 (attempt 1, 105 words, 42.67% quotes quality score: 1.4754345027634086, V2 normalized quality score: 40.4, commentator tiers 1-3: 33.74%, 21.45%, 44.81%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The Hebraistic expression to eat bread in this verse signifies obtaining sustenance from any man, at any one's expense, or as a gift. Paul and his companions, however, worked diligently and refused to be a burden on others for their pecuniary support. They were even willing to pay for their own meals, emphasizing their commitment to financial independence and debunking false accusations. This demonstration of self-sufficiency was a testament to their dedication to labor and to avoid relying on the generosity of others.
-- 🔄 2 Thessalonians 3:8 (attempt 2, 85 words, 39.06% quotes quality score: 1.457914554480772, V2 normalized quality score: 39.82, commentator tiers 1-3: 39.39%, 18.11%, 42.51%) 
+- Attempt 1 BHT: The verse is talking about not relying on others for sustenance and instead working to provide for oneself. The phrase eat bread from any man means to live at someone else's expense. Though Paul, as an apostle, could have claimed maintenance from his converts, he chose to preach gratis and work hard to support himself. He did this to set an example and avoid false charges. By depending on others for financial support, he would have hindered the spread of the Gospel. So, Paul made it clear that he would rather work with his own hands and not eat bread from any man.
+- 🔄 2 Thessalonians 3:8 (attempt 1, 104 words, 46.58% quotes quality score: 1.6321934675000738, V2 normalized quality score: 45.61, commentator tiers 1-3: 39.7%, 19.11%, 41.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The expression to eat bread in this Hebraistic context signifies obtaining sustenance, either at someone's expense or as a gift. Paul and his companions were diligent in their labor, refusing to be a burden on others and even paying for their own meals. This emphasized their commitment to financial independence and dispelled false accusations. Their emphasis on self-sufficiency demonstrated their dedication to hard work and their avoidance of dependence on the generosity of others.
-- 🔄 2 Thessalonians 3:8 (attempt 3, 76 words, 36.84% quotes quality score: 1.3708488662114586, V2 normalized quality score: 36.92, commentator tiers 1-3: 42.0%, 15.41%, 42.59%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Paul and his companions in this text diligently labored to obtain sustenance, refusing to depend on others for their livelihood. The phrase to eat bread is a Hebraistic expression meaning to get sustenance or to receive as a gift. They made it clear that they would work hard with their hands, not relying on the generosity of others. This commitment to financial independence and self-sufficiency was crucial for Paul to counter false accusations and demonstrate their dedication to hard work.
-- 🔄 2 Thessalonians 3:8 (attempt 4, 81 words, 40.68% quotes quality score: 1.433155983993278, V2 normalized quality score: 39.0, commentator tiers 1-3: 38.42%, 17.4%, 44.18%) 
+- Attempt 2 BHT: To live at anyone's expense, or eat bread from any man, was seen as a privilege by many Thessalonians who would have gladly contributed. However, Paul chose not to rely on them for financial support, even though he had the right to do so. He worked hard to support himself and avoid false charges, setting an example for others. By demonstrating his financial independence, he ensured that the spread of the Gospel was not hindered. Thus, by not eating bread from any man, Paul emphasized the importance of self-sufficiency and diligence.
+- 🔄 2 Thessalonians 3:8 (attempt 2, 93 words, 48.57% quotes quality score: 1.6615465051152651, V2 normalized quality score: 46.59, commentator tiers 1-3: 36.01%, 20.57%, 43.42%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul and his companions in this passage were diligent in their labor, refusing to depend on others for sustenance. The phrase to eat bread is a Hebraistic expression, meaning to receive sustenance or as a gift. They were committed to financial independence and worked hard with their hands, rather than relying on the generosity of others. This commitment was important to counter false accusations and demonstrate their dedication to hard work and self-sufficiency.
-- 🔄 2 Thessalonians 3:8 (attempt 5, 74 words, 38.18% quotes quality score: 1.380705942345939, V2 normalized quality score: 37.25, commentator tiers 1-3: 38.67%, 18.1%, 43.23%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ 2 Thessalonians 3:8 bht prompt v0.8 (81 words, 40.68% quotes)
-- quality score: 1.433155983993278, V2 normalized quality score: 39.0, commentator tiers 1-3: 38.42%, 17.4%, 44.18%)
+- Attempt 3 BHT: Choosing not to eat bread from any man, Paul worked diligently to support himself and avoided false charges. This exemplified his financial independence and prevented hindrances to the spread of the Gospel. Though as an apostle, he could have claimed maintenance from his converts, he preached gratuitously and made it clear that he would not rely on others for sustenance. Paul's decision to provide for himself through labor showcased the importance of self-sufficiency and served as an example to others.
+- 🔄 2 Thessalonians 3:8 (attempt 3, 82 words, 39.34% quotes quality score: 1.5727880302726729, V2 normalized quality score: 43.64, commentator tiers 1-3: 33.64%, 15.45%, 50.91%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Paul, as an apostle, chose not to eat bread from any man and supported himself through his own labor. This decision was made to set an example and avoid false charges. While he had the right to claim maintenance from his converts, he waived this right in order to not hinder the spread of the Gospel. By working hard and being financially independent, Paul emphasized the importance of self-sufficiency and demonstrated his commitment to the cause.
+- 🔄 2 Thessalonians 3:8 (attempt 4, 77 words, 39.29% quotes quality score: 1.4265586166500246, V2 normalized quality score: 38.78, commentator tiers 1-3: 31.34%, 22.71%, 45.95%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Paul, as an apostle, intentionally did not eat bread from any man but worked diligently to support himself. He chose to preach gratis and waived his right to claim maintenance from his converts, setting an example of financial independence. By not depending on others for sustenance, he aimed to avoid false charges and ensure the unhindered spread of the Gospel. Paul's emphasis on self-sufficiency through labor underscored his dedication to the cause and served as a model for others.
+- 🔄 2 Thessalonians 3:8 (attempt 5, 81 words, 32.79% quotes quality score: 1.520481151789727, V2 normalized quality score: 41.9, commentator tiers 1-3: 34.03%, 20.2%, 45.77%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 2 Thessalonians 3:8 bht prompt v0.8 (93 words, 48.57% quotes)
+- quality score: 1.6615465051152651, V2 normalized quality score: 46.59, commentator tiers 1-3: 36.01%, 20.57%, 43.42%)

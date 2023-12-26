@@ -1,7 +1,7 @@
 # Luke 24:10 Commentary Help Text
 
 ## BHT:
-The narrative in this account is rooted in the testimony of one of the disciples who had journeyed to Emmaus, as evidenced by the perfect agreement between the report and the subsequent events. The women, including prominent figures like Joanna, all played a role in relaying the message, forming two groups with possibly varying accounts due to their intense emotions. Although not explicitly mentioned, it can be inferred that Mary Magdalene likely encountered a similar response. Other witnesses included Joanna, who had supported Jesus, and Mary, the mother of James and other relatives of Jesus.
+It is evident that this account is based on the testimony of one of the disciples who went to Emmaus, as it aligns perfectly with their report. The mention of Joanna, the wife of Chuza, Herod's steward, adds weight and credibility to the narrative. Additionally, the fact that she had been a follower of Christ and had ministered to him further emphasizes her devotion and genuine belief in him. The inclusion of Joanna, along with the other women, highlights the importance of their role in bearing the message of Christ's resurrection.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -14,55 +14,49 @@ The narrative in this account is rooted in the testimony of one of the disciples
 
 
 ### Philip Schaff:
-1. "The more important persons are mentioned first, but all bore the message."
-2. "The form suggests a variety of accounts in the tumult of feeling natural at such a time, and divides the women into two parties."
-3. "The individual experience of the Magdalene is passed over, but her story doubtless met with the same reception."
+1. "The form suggests a variety of accounts in the tumult of feeling natural at such a time, and divides the women into two parties."
+2. "The individual experience of the Magdalene is passed over, but her story doubtless met with the same reception."
+3. "The more important persons are mentioned first, but all bore the message."
 
 ### John Gill:
-1. "It was Mary Magdalene,.... Out of whom Christ had cast seven devils, who was a sincere penitent, a true believer in Christ, and an affectionate lover of him, and to whom he first appeared."
-2. "and Joanna; the wife of Chuza, Herod's steward, one that had been a follower of Christ, and had ministered to him of her substance."
-3. "and Mary the mother of James; called the less; and also of Joses, and Simon, and Judas, the brethren, or kinsmen of Christ."
+1. "Out of whom Christ had cast seven devils, who was a sincere penitent, a true believer in Christ, and an affectionate lover of him." 
+2. "The wife of Chuza, Herod's steward, one that had been a follower of Christ, and had ministered to him of her substance." 
+3. "The mother of James; called the less; and also of Joses, and Simon, and Judas, the brethren, or kinsmen of Christ."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:23:56
+- Timestamp: 12-25-2023 20:33:38
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 36.11%
-- BHT Quality Score: 1.1869204308679244
+- BHT Word Count: 93
+- BHT Commentary Usage: 38.71%
+- BHT Quality Score: 1.2757308683475883
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (72):
-	['a', 'account', 'accounts', 'agreement', 'all', 'although', 'and', 'as', 'be', 'between', 'by', 'can', 'disciples', 'due', 'emmaus', 'emotions', 'encountered', 'events', 'evidenced', 'explicitly', 'figures', 'forming', 'groups', 'had', 'in', 'included', 'including', 'inferred', 'intense', 'is', 'it', 'james', 'jesus', 'joanna', 'journeyed', 'like', 'likely', 'magdalene', 'mary', 'mentioned', 'message', 'mother', 'narrative', 'not', 'of', 'one', 'other', 'perfect', 'played', 'possibly', 'prominent', 'relatives', 'relaying', 'report', 'response', 'role', 'rooted', 'similar', 'subsequent', 'supported', 'testimony', 'that', 'the', 'their', 'this', 'to', 'two', 'varying', 'who', 'with', 'witnesses', 'women']
-- ChatGPT injected words (significant words only) (46):
-	['account', 'accounts', 'agreement', 'disciples', 'emmaus', 'emotions', 'encountered', 'events', 'evidenced', 'explicitly', 'figures', 'forming', 'groups', 'included', 'including', 'inferred', 'intense', 'james', 'jesus', 'joanna', 'journeyed', 'like', 'likely', 'magdalene', 'mary', 'mentioned', 'message', 'mother', 'narrative', 'perfect', 'played', 'possibly', 'prominent', 'relatives', 'relaying', 'report', 'response', 'role', 'rooted', 'similar', 'subsequent', 'supported', 'testimony', 'varying', 'witnesses', 'women']
+- ChatGPT injected words (62):
+	['a', 'account', 'additionally', 'adds', 'aligns', 'along', 'and', 'as', 'based', 'bearing', 'been', 'belief', 'christ', 'chuza', 'credibility', 'devotion', 'disciples', 'emmaus', 'emphasizes', 'evident', 'fact', 'follower', 'further', 'genuine', 'had', 'her', 'herod', 'highlights', 'him', 'importance', 'in', 'inclusion', 'is', 'it', 'joanna', 'mention', 'message', 'ministered', 'narrative', 'of', 'on', 'one', 'other', 'perfectly', 'report', 'resurrection', 'role', 's', 'she', 'steward', 'testimony', 'that', 'the', 'their', 'this', 'to', 'weight', 'went', 'who', 'wife', 'with', 'women']
+- ChatGPT injected words (significant words only) (38):
+	['account', 'additionally', 'adds', 'aligns', 'based', 'bearing', 'belief', 'christ', 'chuza', 'credibility', 'devotion', 'disciples', 'emmaus', 'emphasizes', 'evident', 'fact', 'follower', 'genuine', 'herod', 'highlights', 'importance', 'inclusion', 'joanna', 'mention', 'message', 'ministered', 'narrative', 'perfectly', 'report', 'resurrection', 'role', 's', 'steward', 'testimony', 'weight', 'went', 'wife', 'women']
 
 ### Logs
-- Attempt 1 BHT: This verse is supported by the testimony of one of the disciples who went to Emmaus, which seems to have been the basis for the entire chapter. The account given exactly aligns with this report. The more prominent individuals are listed first, but all of them conveyed the message. It is possible that there were different accounts due to the overwhelming emotions that the women were experiencing at that time, leading to two groups. Although the individual experience of Mary Magdalene is not mentioned here, it is likely that her story met with the same response. Joanna, a follower of Christ who had ministered to Him, and Mary, the mother of James and other kinsmen of Jesus, were also present and witnessed these events.
-- 🔄 Luke 24:10 (attempt 1, 124 words, 44.32% quotes quality score: 1.1806591105029394, V2 normalized quality score: 30.6, commentator tiers 1-3: 15.2%, 43.74%, 41.06%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this passage, the testimony of one of the disciples who went to Emmaus seems to be the foundation for the events described. The account given aligns perfectly with this report. The more notable individuals are mentioned first, but it's clear that all of them were involved in conveying the message. It is likely that there were different accounts due to the tumultuous emotions experienced by the women present. Although not explicitly stated, Mary Magdalene's story likely received a similar response. Joanna, who had supported Jesus, and Mary, the mother of James and other relatives of Jesus, were also witnesses to these events.
-- 🔄 Luke 24:10 (attempt 2, 105 words, 42.11% quotes quality score: 1.1214203772217755, V2 normalized quality score: 28.63, commentator tiers 1-3: 16.48%, 43.91%, 39.61%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The narrative in this account is rooted in the testimony of one of the disciples who had journeyed to Emmaus, as evidenced by the perfect agreement between the report and the subsequent events. The women, including prominent figures like Joanna, all played a role in relaying the message, forming two groups with possibly varying accounts due to their intense emotions. Although not explicitly mentioned, it can be inferred that Mary Magdalene likely encountered a similar response. Other witnesses included Joanna, who had supported Jesus, and Mary, the mother of James and other relatives of Jesus.
-- 🔄 Luke 24:10 (attempt 3, 95 words, 36.11% quotes quality score: 1.1869204308679244, V2 normalized quality score: 30.81, commentator tiers 1-3: 15.17%, 36.44%, 48.39%) 
+- Attempt 1 BHT: It is evident that this account is based on the testimony of one of the disciples who went to Emmaus, as it aligns perfectly with their report. The mention of Joanna, the wife of Chuza, Herod's steward, adds weight and credibility to the narrative. Additionally, the fact that she had been a follower of Christ and had ministered to him further emphasizes her devotion and genuine belief in him. The inclusion of Joanna, along with the other women, highlights the importance of their role in bearing the message of Christ's resurrection.
+- 🔄 Luke 24:10 (attempt 1, 93 words, 38.71% quotes quality score: 1.2757308683475883, V2 normalized quality score: 33.76, commentator tiers 1-3: 20.87%, 33.51%, 45.63%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The events in this verse find their basis in the testimony of one of the disciples who had traveled to Emmaus. The subsequent account aligns perfectly with this report, indicating its veracity. The women involved, including notable figures such as Joanna, all participated in conveying the message, forming two distinct groups. While the individual experience of Mary Magdalene is not mentioned, it can be inferred that her story was received similarly. Additionally, Joanna, who had supported Christ, and Mary, the mother of James and other relatives of Jesus, were present as witnesses.
-- 🔄 Luke 24:10 (attempt 4, 92 words, 37.5% quotes quality score: 1.221720525375286, V2 normalized quality score: 31.97, commentator tiers 1-3: 16.54%, 38.62%, 44.84%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: This passage draws on the testimony of one of the disciples who traveled to Emmaus, indicating that it serves as the foundation for the subsequent events. The account presented here aligns precisely with this report. Noteworthy individuals like Joanna actively participated in relaying the message, forming two distinct groups. It is reasonable to assume that Mary Magdalene's encounter yielded a similar response, though it is not explicitly mentioned. Witnesses to these events included Joanna, a devoted follower of Christ who had provided support, as well as Mary, the mother of James and other relatives of Jesus.
-- 🔄 Luke 24:10 (attempt 5, 97 words, 32.88% quotes quality score: 1.1467072806768048, V2 normalized quality score: 29.47, commentator tiers 1-3: 21.84%, 34.81%, 43.35%) 
+- Attempt 2 BHT: Based on the testimony of one of the disciples who went to Emmaus, it becomes clear that the account presented in this passage is aligned with their report. Adding further credibility is the mention of Joanna, the wife of Chuza, Herod's steward. Her sincere repentance, true belief in Christ, and affectionate devotion to Him underscore the authority of her inclusion. This emphasizes the significance of the role played by Joanna and the other women in delivering the message of Christ's resurrection.
+- 🔄 Luke 24:10 (attempt 2, 83 words, 34.48% quotes quality score: 1.1699557853049714, V2 normalized quality score: 30.24, commentator tiers 1-3: 21.55%, 29.43%, 49.03%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- ✅ Luke 24:10 bht prompt v0.8 (95 words, 36.11% quotes)
-- quality score: 1.1869204308679244, V2 normalized quality score: 30.81, commentator tiers 1-3: 15.17%, 36.44%, 48.39%)
+- Attempt 3 BHT: This narrative is strongly rooted in the account provided by one of the disciples who journeyed to Emmaus, as it harmonizes perfectly with their testimony. The mention of Joanna, the wife of Herod's steward Chuza, lends credibility to the events described. Joanna's sincere penitence, unwavering belief in Christ, and heartfelt devotion to Him highlight her significance in this story. Alongside other faithful women, Joanna played a pivotal role in carrying the message of Christ's resurrection.
+- 🔄 Luke 24:10 (attempt 3, 78 words, 30.51% quotes quality score: 1.2543638653839824, V2 normalized quality score: 33.05, commentator tiers 1-3: 21.94%, 32.01%, 46.05%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: This narrative is based on the testimony of one of the disciples who went to Emmaus, aligning perfectly with their report. Joanna, the wife of Chuza, Herod's steward, adds weight to the account. Described as a sincere penitent, true believer, and affectionate lover of Christ, Joanna's inclusion highlights her devotion and genuine belief in Him. This emphasizes the important role played by Joanna and other women in spreading the message of Christ's resurrection.
+- 🔄 Luke 24:10 (attempt 4, 76 words, 31.58% quotes quality score: 1.2173665537135359, V2 normalized quality score: 31.82, commentator tiers 1-3: 20.83%, 30.3%, 48.86%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: This account is derived from the testimony of one of the disciples who went to Emmaus, accurately reflecting their report. The inclusion of Joanna, the wife of Chuza, Herod's steward, lends credibility to the narrative. Joanna is described as a sincere penitent, a true believer in Christ, and an affectionate lover of Him. Her presence underscores the significance of her role, along with the other women, in conveying the message of Christ's resurrection.
+- 🔄 Luke 24:10 (attempt 5, 75 words, 35.19% quotes quality score: 1.2689470304796673, V2 normalized quality score: 33.54, commentator tiers 1-3: 21.01%, 28.52%, 50.47%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 24:10 bht prompt v0.8 (93 words, 38.71% quotes)
+- quality score: 1.2757308683475883, V2 normalized quality score: 33.76, commentator tiers 1-3: 20.87%, 33.51%, 45.63%)

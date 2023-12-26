@@ -1,27 +1,27 @@
 {
-    "timestamp": "12-22-2023 23:25:26",
+    "timestamp": "12-25-2023 20:32:45",
     "verseRef": "Mark 8:26",
     "bestBHT": {
-        "bht": "After performing a miracle, Jesus admonished someone not to go into the village or disclose the event. This instruction held great significance, emphasizing the need for secrecy and avoidance of public attention. By withholding further miracles, it is believed that Jesus intended to penalize the people of Bethsaida for their lack of repentance and faith. This serves as a cautionary reminder to not overlook or reject God's grace, and to treasure His favor. The denial of miracles underscores the gravity of neglecting or despising the message of eternal life.",
-        "wordCount": 90,
-        "quoteTokenProportion": 31.82,
-        "qualityScore": 1.3042229711721554,
-        "qualityScoreNormalizedComparedToV2BHTs": 34.71,
+        "bht": "After Peter's noble confession of Christ, Jesus makes his first explicit announcement of his approaching sufferings, death, and resurrection. Seeking retirement and avoiding publicity, Jesus instructs his disciples to neither go into the village nor tell anyone there about it. The reason for this prohibition is unclear, but some suggest it was to avoid jealousy, commotion, or even to punish the inhabitants. It is a solemn reminder of the consequences when people neglect or reject the means of God's salvation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.3542315472950586,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.37,
         "commentatorTierSimilarities": [
-            15.92,
-            25.99,
-            58.09
+            18.62,
+            32.0,
+            49.38
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "He was not even to go into the village, no, nor so much as tell it to any who dwelt in the village.",
             "The neither and nor both carry a separate climax with them.",
-            "The various readings in my Greek Test."
+            "He was not even to go into the village.",
+            "No, nor so much as tell it to any who dwelt in the village."
         ],
         "Jamieson-Fausset-Brown": [
-            "Besides the usual reasons against going about 'blazing the matter,' retirement in this case would be salutary to himself.",
+            "Retirement in this case would be salutary to himself.",
             "PETER'S NOBLE CONFESSION OF CHRIST\u2014OUR LORD'S FIRST EXPLICIT ANNOUNCEMENT OF HIS APPROACHING SUFFERINGS, DEATH, AND RESURRECTION\u2014HIS REBUKE OF PETER, AND WARNING TO ALL THE TWELVE.",
             "For the exposition, see on Luke 9:18-42.9.26-"
         ],
@@ -30,24 +30,22 @@
             "Nor tell it ... - Lest it excite the jealousy of the Pharisees, and produce commotion and danger."
         ],
         "John Calvin": [
-            "Christ does not suffer him to return to Bethsaida, where there were many that had beheld the miracle.",
             "This is conjectured by some to have been done, because Christ intended to punish the inhabitants of that place by depriving them of the enjoyment of his favor.",
-            "It is certain that no miracle was performed by him in order to remain perpetually buried, but that he intended to have it concealed along with many others, till, after having expiated by his death the sins of the world, he should ascend to the glory of the Father."
+            "It is certain that no miracle was performed by him in order to remain perpetually buried, but that he intended to have it concealed along with many others",
+            "Till, after having expiated by his death the sins of the world, he should ascend to the glory of the Father."
         ],
         "Philip Schaff": [
-            "Our Lord forbids his return to the village.",
-            "He was now seeking retirement and avoiding publicity.",
+            "Our Lord forbids his return to the village. He was now seeking retirement and avoiding publicity.\" ",
+            "There may have been some special reason why it should not be published there.\" ",
             "The last clause is to be omitted, though found in many ancient authorities."
         ],
         "Archibald T. Robertson": [
-            "A joyful homecoming.\" ",
-            "He was not allowed to enter the village.\" ",
-            "Before Jesus moved on to Caesarea Philippi."
+            "A joyful homecoming that."
         ],
         "John Gill": [
-            "Christ had done many wonderful works among them and yet they repented not; nor did they believe in him; but despised him, his doctrine and his miracles; and therefore for their neglect and contempt of such means he was determined to withdraw them from them.",
-            "Thus he dealt with the Jews who contradicted and blasphemed and judged themselves or by their conduct made themselves appear to be unworthy of the words of eternal life; he took away the kingdom of God or the Gospel from them and sent it among the Gentiles.",
-            "And thus he threatened the church of Ephesus for leaving its first love to remove the candlestick out of its place in case of non-repentance; and a grievous judgment it is upon a place and people when God commands the clouds to rain no rain upon them."
+            "For their neglect and contempt of such means he was determined to withdraw them from them.",
+            "He takes it away from them, he orders his ministering servants to preach no more to them.",
+            "A grievous judgment it is upon a place and people when God commands the clouds to rain no rain upon them, or... when he enjoins his ministers no more to tell, or publish his Gospel to them."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -67,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus, after performing a miracle, instructed one not to go into the village or share what had happened with the villagers. This instruction was given as a climax, emphasizing the need for secrecy. Some speculate that Jesus wanted to avoid drawing attention from the Pharisees and the danger it might bring. It is believed that Jesus sought retirement and avoided publicity, even though there were many who had witnessed the miracle. Perhaps, Jesus withheld further miracles as a punishment to the inhabitants of Bethsaida for their lack of repentance and belief. By removing the Gospel from those who rejected and despised it, Jesus showed the seriousness of neglecting and rejecting God's grace. This withholding of miracles serves as a warning to all, reminding us not to take the words of eternal life for granted and to cherish the favor of God.",
-            "wordCount": 142,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.3347154778239805,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.72,
+            "bht": "Our Lord, after Peter's noble confession, makes his first explicit announcement of his approaching sufferings, death, and resurrection. Retreating from the village, he avoids publicity and instructs his disciples to neither go into the village nor tell anyone there about it. The reason for this prohibition is not entirely clear, but some speculate it was to avoid jealousy, commotion, or even to punish the inhabitants for their neglect and contempt. Whatever the reason, it seems that Jesus wanted to withdraw the message from them and withhold the enjoyment of his favor until the time of his glorification. It is a solemn reminder of the gravity of rejecting the means by which God offers salvation.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3647890419185371,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
             "commentatorTierSimilarities": [
-                17.63,
-                25.44,
-                56.93
+                18.98,
+                29.74,
+                51.28
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After performing a miracle, Jesus instructed someone not to go into the village or tell anyone. This prohibition signified a climax, highlighting the importance of secrecy. It is speculated that Jesus wanted to avoid the jealousy of the Pharisees and any resulting commotion. Retiring and maintaining a low profile allowed Jesus to escape public scrutiny. Additionally, it is believed that the withholding of further miracles was a punishment for the inhabitants of Bethsaida due to their lack of repentance and belief. This serves as a warning to all not to neglect or reject God's grace and the words of eternal life.",
-            "wordCount": 102,
-            "quoteTokenProportion": 33.8,
-            "qualityScore": 1.3661919098970405,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+            "bht": "After Peter's confession, Jesus reveals the coming of his suffering, death, and resurrection. He chooses to retreat from the village, not wanting any publicity or to even tell those living there. The reason behind this is uncertain, but some suggest that it was to avoid jealousy, commotion or even as a punishment. It serves as a reminder of the consequences when people neglect or reject the means of God's salvation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.3220279714005945,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
             "commentatorTierSimilarities": [
-                18.81,
-                30.73,
-                50.45
+                18.59,
+                32.41,
+                49.0
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After performing a miracle, Jesus instructed someone not to go into the village or tell anyone. This prohibition highlighted the importance of secrecy and avoidance of publicity. By witholding further miracles, it is speculated that Jesus intended to punish the inhabitants of Bethsaida for their lack of repentance and belief. This serves as a reminder not to take God's grace for granted and to cherish the favor of God. The withholding of miracles reflects the seriousness of neglecting and rejecting the words of eternal life.",
-            "wordCount": 86,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 1.2439737107010918,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.71,
+            "bht": "After Peter's noble confession of Christ, Jesus makes his first explicit announcement of his approaching sufferings, death, and resurrection. Seeking retirement and avoiding publicity, Jesus instructs his disciples to neither go into the village nor tell anyone there about it. The reason for this prohibition is unclear, but some suggest it was to avoid jealousy, commotion, or even to punish the inhabitants. It is a solemn reminder of the consequences when people neglect or reject the means of God's salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.3542315472950586,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.37,
             "commentatorTierSimilarities": [
-                13.15,
-                26.07,
-                60.78
+                18.62,
+                32.0,
+                49.38
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "After performing a miracle, Jesus admonished someone not to go into the village or disclose the event. This instruction held great significance, emphasizing the need for secrecy and avoidance of public attention. By withholding further miracles, it is believed that Jesus intended to penalize the people of Bethsaida for their lack of repentance and faith. This serves as a cautionary reminder to not overlook or reject God's grace, and to treasure His favor. The denial of miracles underscores the gravity of neglecting or despising the message of eternal life.",
-            "wordCount": 90,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.3042229711721554,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.71,
+            "bht": "After Peter's noble confession of Christ, Jesus reveals his forthcoming suffering, death, and resurrection. Seeking retirement and avoiding publicity, Jesus urges his disciples not to go into the village or share the news with its inhabitants. While the reason behind this remains uncertain, it is suggested that it could be to prevent jealousy, commotion, or even to punish the village. This serves as a significant reminder of the consequences when people neglect or reject the means of God's salvation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.3299757695030516,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.56,
             "commentatorTierSimilarities": [
-                15.92,
-                25.99,
-                58.09
+                18.92,
+                35.07,
+                46.01
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "After performing a miracle, Jesus told someone not to disclose it to the villagers of the nearby town. This prohibition carried added weight, emphasizing the importance of secrecy. Jesus may have wanted to avoid the jealousy of the Pharisees and the resulting commotion. By withholding further miracles, it is believed that Jesus intended to punish the inhabitants of Bethsaida for their lack of repentance and belief. This serves as a warning to value and not neglect God's grace, as rejecting it can lead to serious consequences.",
-            "wordCount": 87,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 1.2623925329524266,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+            "bht": "After Peter's confession of Christ, Jesus foretells his imminent suffering, death, and resurrection. Seeking solitude and avoiding attention, Jesus commands his disciples neither to enter the village nor to divulge the news to its residents. The purpose behind this prohibition remains inconclusive, with possibilities ranging from warding off jealousy and commotion to a form of punishment. This incident serves as a solemn reminder of the consequences that accompany the neglect or rejection of God's offer of salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.3247461932448,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
             "commentatorTierSimilarities": [
-                12.32,
-                31.97,
-                55.71
+                19.3,
+                33.37,
+                47.34
             ],
             "generationAttempt": 5
         }

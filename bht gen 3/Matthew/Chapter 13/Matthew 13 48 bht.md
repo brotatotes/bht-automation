@@ -1,7 +1,7 @@
 # Matthew 13:48 Commentary Help Text
 
 ## BHT:
-The separation of the righteous and the wicked is a deliberate and judicial process that will take place once the number of the elect is complete. This separation is depicted by casting away the worthless fish, representing the removal of the wicked. We are warned against rushing this discernment, as it is God's prerogative. Ultimately, there will only be two categories: the children of God and those destined for judgment. The preaching of the Gospel will cease, and the righteous will enter Christ's eternal kingdom, while the wicked will face a burning punishment.
+The separation and judgment will not occur until the number of the elect is complete. This highlights the deliberateness with which this final separation will be made. The bad or worthless fish will be cast away, symbolizing those who lack grace and righteousness despite their profession of religion. The caution is given against hasty attempts at separating before the Church has finished its work, as discernment is not within our jurisdiction. Ultimately, there are only two classes - the children of God and those destined for eternal punishment described later.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -15,7 +15,7 @@ The separation of the righteous and the wicked is a deliberate and judicial proc
 
 ### Philip Schaff:
 1. "A caution against too hasty attempts at separating before the Church has finished her work."
-2. "The next verse shows that the work of discriminating is not committed to men, however successful or zealous in the work of gathering of every kind."
+2. "The work of discriminating is not committed to men, however successful or zealous in the work of gathering of every kind."
 3. "There are but two classes, one the children of God, and the other those whose destiny is described in Matthew 13:49-50."
 
 ### Archibald T. Robertson:
@@ -25,46 +25,44 @@ The separation of the righteous and the wicked is a deliberate and judicial proc
 ### John Gill:
 1. "When the fulness of the Gentiles shall be brought in, and all Israel shall be saved."
 2. "Then will an end be put to the Gospel ministry, the net will be drawn to shore; the preaching of the Gospel will cease, and no more use be made of it."
-3. "They will gather into Christ's barn, into the everlasting habitations, the mansions in Christ's Father's house, he is gone to prepare: but as for the bad...they shall be cast into the lake which burns with fire and brimstone."
+3. "As for the bad, who shall appear to be destitute of the grace of God, and righteousness of Christ, notwithstanding their profession of religion, they shall be rejected, as good for nothing, and shall be cast into the lake which burns with fire and brimstone."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:47:45
+- Timestamp: 12-25-2023 20:31:49
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 37.7%
-- BHT Quality Score: 1.3647788479494896
+- BHT Word Count: 89
+- BHT Commentary Usage: 42.03%
+- BHT Quality Score: 1.4738253465561328
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'against', 'and', 'are', 'as', 'away', 'be', 'burning', 'by', 'casting', 'categories', 'cease', 'children', 'christ', 'complete', 'deliberate', 'depicted', 'destined', 'discernment', 'elect', 'enter', 'eternal', 'face', 'fish', 'for', 'god', 'gospel', 'is', 'it', 'judgment', 'judicial', 'kingdom', 'number', 'of', 'once', 'only', 'place', 'preaching', 'prerogative', 'process', 'punishment', 'removal', 'representing', 'righteous', 'rushing', 's', 'separation', 'take', 'that', 'the', 'there', 'this', 'those', 'two', 'ultimately', 'warned', 'we', 'while', 'wicked', 'will', 'worthless']
-- ChatGPT injected words (significant words only) (38):
-	['away', 'burning', 'casting', 'categories', 'cease', 'children', 'christ', 'complete', 'deliberate', 'depicted', 'destined', 'discernment', 'elect', 'enter', 'eternal', 'face', 'fish', 'god', 'gospel', 'judgment', 'judicial', 'kingdom', 'number', 'place', 'preaching', 'prerogative', 'process', 'punishment', 'removal', 'representing', 'righteous', 'rushing', 's', 'separation', 'ultimately', 'warned', 'wicked', 'worthless']
+- ChatGPT injected words (69):
+	['against', 'and', 'are', 'as', 'at', 'attempts', 'away', 'bad', 'be', 'before', 'cast', 'caution', 'children', 'church', 'classes', 'complete', 'deliberateness', 'described', 'despite', 'destined', 'discernment', 'elect', 'eternal', 'final', 'finished', 'fish', 'for', 'given', 'god', 'grace', 'has', 'hasty', 'highlights', 'is', 'its', 'judgment', 'jurisdiction', 'lack', 'later', 'made', 'not', 'number', 'occur', 'of', 'only', 'or', 'our', 'profession', 'punishment', 'religion', 'righteousness', 'separating', 'separation', 'symbolizing', 'the', 'their', 'there', 'this', 'those', 'two', 'ultimately', 'until', 'which', 'who', 'will', 'with', 'within', 'work', 'worthless']
+- ChatGPT injected words (significant words only) (40):
+	['attempts', 'away', 'bad', 'cast', 'caution', 'children', 'church', 'classes', 'complete', 'deliberateness', 'described', 'despite', 'destined', 'discernment', 'elect', 'eternal', 'final', 'finished', 'fish', 'given', 'god', 'grace', 'hasty', 'highlights', 'judgment', 'jurisdiction', 'lack', 'later', 'number', 'occur', 'profession', 'punishment', 'religion', 'righteousness', 'separating', 'separation', 'symbolizing', 'ultimately', 'work', 'worthless']
 
 ### Logs
-- Attempt 1 BHT: In Matthew 13:48, the separation of the righteous and the wicked will not happen until the number of the elect is complete. This division will be a deliberate and judicial act, depicted by the casting away of the worthless fish. It is a caution against premature attempts at separation, as this work belongs to God alone. Ultimately, there will only be two classes: the children of God and those destined for judgment. When the time comes for this separation, the preaching of the Gospel will cease, and the righteous will be gathered into Christ's eternal kingdom, while the wicked will face the fiery punishment awaiting them.
-- 🔄 Matthew 13:48 (attempt 1, 106 words, 39.13% quotes quality score: 1.4860556576106942, V2 normalized quality score: 40.75, commentator tiers 1-3: 20.45%, 37.82%, 41.73%) 
+- Attempt 1 BHT: The separation and judgment spoken of in this verse will not take place until the number of God's chosen ones is complete. This emphasizes the deliberate nature of the final separation, where the worthless and foul fish will be cast away. The use of the term sat down implies a careful and thoughtful selection process. We are cautioned not to hastily attempt this separation ourselves, as it is not our role to judge or discriminate. Ultimately, there are only two classes of people, the children of God and those who will face a destiny described in later verses.
+- 🔄 Matthew 13:48 (attempt 1, 99 words, 38.57% quotes quality score: 1.374693317503398, V2 normalized quality score: 37.05, commentator tiers 1-3: 24.79%, 40.66%, 34.56%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The separation of the righteous and the wicked in this passage is not a hasty process, but rather a deliberate and judicial act that will occur when the number of the elect is complete. The casting away of the worthless fish symbolizes the removal of the wicked. We are cautioned against premature attempts at division, as the work of discrimination belongs to God alone. In the end, there will be two classes: the children of God and those destined for judgment. The preaching of the Gospel will cease, and the righteous will be gathered into Christ's eternal kingdom, while the wicked will face a fiery punishment.
-- 🔄 Matthew 13:48 (attempt 2, 107 words, 38.57% quotes quality score: 1.3998511706936367, V2 normalized quality score: 37.89, commentator tiers 1-3: 20.69%, 38.56%, 40.75%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The separation of the righteous and the wicked is a deliberate and judicial process that will take place once the number of the elect is complete. This separation is depicted by casting away the worthless fish, representing the removal of the wicked. We are warned against rushing this discernment, as it is God's prerogative. Ultimately, there will only be two categories: the children of God and those destined for judgment. The preaching of the Gospel will cease, and the righteous will enter Christ's eternal kingdom, while the wicked will face a burning punishment.
-- 🔄 Matthew 13:48 (attempt 3, 95 words, 37.7% quotes quality score: 1.3647788479494896, V2 normalized quality score: 36.72, commentator tiers 1-3: 22.13%, 32.68%, 45.19%) 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The separation and judgment will not occur until the number of the elect is complete. This highlights the deliberateness with which this final separation will be made. The bad or worthless fish will be cast away, symbolizing those who lack grace and righteousness despite their profession of religion. The caution is given against hasty attempts at separating before the Church has finished its work, as discernment is not within our jurisdiction. Ultimately, there are only two classes - the children of God and those destined for eternal punishment described later.
+- 🔄 Matthew 13:48 (attempt 2, 89 words, 42.03% quotes quality score: 1.4738253465561328, V2 normalized quality score: 40.35, commentator tiers 1-3: 22.62%, 37.85%, 39.53%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The separation of the righteous and the wicked is a deliberate and judicial process. It will only occur when the full number of the elect is accomplished. This process is symbolically represented by casting away the worthless fish, illustrating the removal of the wicked. We should exercise caution in attempting premature segregation, as this work is solely entrusted to God. In the end, there will be two distinct classes: the children of God and those destined for judgment. The preaching of the Gospel will cease, and the righteous will inherit eternal life, while the wicked will face the torment of fire.
-- 🔄 Matthew 13:48 (attempt 4, 101 words, 35.38% quotes quality score: 1.2944122494981896, V2 normalized quality score: 34.38, commentator tiers 1-3: 21.11%, 37.26%, 41.64%) 
+- Attempt 3 BHT: The judgment and separation will only occur once the number of the elect is fulfilled, emphasizing the intentionality in the process. The bad or foul fish representing those lacking in grace or righteousness will be thrown away. It is cautioned against hastily separating before the Church has completed its work, as discrimination is not our responsibility. Ultimately, there are two distinct classes - the children of God and those with a destiny of eternal punishment as described later.
+- 🔄 Matthew 13:48 (attempt 3, 77 words, 40.0% quotes quality score: 1.4066448387401453, V2 normalized quality score: 38.11, commentator tiers 1-3: 18.5%, 42.83%, 38.67%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The final separation and judgment will not take place until the full number of God's chosen people is reached. This deliberate process will involve casting away the worthless and foul fish, symbolizing those lacking grace and righteousness despite their religious profession. The caution is given against prematurely attempting to separate before the Church completes its mission, as discernment is not a task for us. Ultimately, there are only two categories: the children of God and those destined for eternal punishment as described in subsequent verses.
+- 🔄 Matthew 13:48 (attempt 4, 86 words, 36.23% quotes quality score: 1.4657659182397165, V2 normalized quality score: 40.08, commentator tiers 1-3: 18.56%, 37.18%, 44.26%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The separation of the righteous and the wicked is a deliberate and intentional process that will be carried out only when the number of the elect is complete. This parable emphasizes the removal of the worthless and foul, analogous to the tares in another parable. We are cautioned against premature attempts at separation, as this task is not entrusted to humans. Ultimately, there will be two distinct groups: the children of God and those destined for judgment. The preaching of the Gospel will cease, and the righteous will be gathered into Christ's eternal kingdom, while the wicked will face the punishment of fire.
-- 🔄 Matthew 13:48 (attempt 5, 104 words, 39.71% quotes quality score: 1.372272453567099, V2 normalized quality score: 36.97, commentator tiers 1-3: 18.52%, 38.81%, 42.66%) 
+- Attempt 5 BHT: The separation and judgment will not occur until the number of the elect is complete. This highlights the deliberateness with which the final separation will be made. The bad or worthless fish will be cast away, symbolizing those lacking grace and righteousness. The caution is given against hasty attempts at separating before the Church has finished its work, as discernment is not our role. Ultimately, there are only two classes - the children of God and those destined for punishment as described later.
+- 🔄 Matthew 13:48 (attempt 5, 82 words, 41.94% quotes quality score: 1.444726253571759, V2 normalized quality score: 39.38, commentator tiers 1-3: 23.42%, 39.05%, 37.54%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 13:48 bht prompt v0.8 (95 words, 37.7% quotes)
-- quality score: 1.3647788479494896, V2 normalized quality score: 36.72, commentator tiers 1-3: 22.13%, 32.68%, 45.19%)
+- ✅ Matthew 13:48 bht prompt v0.8 (89 words, 42.03% quotes)
+- quality score: 1.4738253465561328, V2 normalized quality score: 40.35, commentator tiers 1-3: 22.62%, 37.85%, 39.53%)

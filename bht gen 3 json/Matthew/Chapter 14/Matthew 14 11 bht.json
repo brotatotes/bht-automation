@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:48:02",
+    "timestamp": "12-25-2023 20:31:43",
     "verseRef": "Matthew 14:11",
     "bestBHT": {
-        "bht": "The account of the little girl in the Bible often portrays her as a scorned and vengeful figure. Legends and literature depict her as having a romantic interest in John the Baptist, but there is no evidence to support this claim. This story serves as a cautionary tale about the dangers of unchecked lust and sinful actions. Both Salome and Herod, like the infamous Jezebel, faced their downfall, losing their power, being banished, and eventually meeting their deaths in foreign lands.",
-        "wordCount": 81,
-        "quoteTokenProportion": 29.51,
-        "qualityScore": 1.3852247215076425,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+        "bht": "The little girl in this account has been variously portrayed as a scorned woman, a lustful individual, and even as Kipling's female of the species. While these portrayals lack clear evidence, some suggest she might have been a vindictive adulteress influenced by immodest dancing and driven by her mother's instigation. However, what is apparent is that her deep-seated antagonism towards John the Baptist's truth led her to silence his voice, bringing about the stripping of her family's honors, wealth, and banishment from the kingdom.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.57,
+        "qualityScore": 1.416133565367704,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.43,
         "commentatorTierSimilarities": [
-            35.86,
-            29.31,
-            34.83
+            39.65,
+            24.51,
+            35.84
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -29,9 +29,9 @@
             "Kipling's 'female of the species' again."
         ],
         "John Gill": [
-            "Because she could not bear truth, that tongue which spoke truth; she plucked out, and pierced it through and through with a needle",
-            "But this triumph over the faithful reprover of her, and Herod's vices, did not last long; for quickly after this, they were stripped of their honours and riches, and deprived of the kingdom, and banished to Lyons in France, where they died",
-            "Herod was driven out of the land by Tiberius, and fled to Spain, and died there"
+            "By her mother's instigation, had asked it, and who received it out of the hands of Herod himself.",
+            "Because she could not bear truth, that tongue which spoke truth; she plucked out, and pierced it through and through with a needle.",
+            "Quickly after this, they were stripped of their honours and riches, and deprived of the kingdom, and banished."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The young girl, known in some versions as a little maid, is often depicted as a scorned and vengeful figure in legend and literature. Some even suggest that she had romantic feelings for John the Baptist. The story serves as a reminder of the dangers of unchecked lust and the consequences of sinful actions. This event parallels the story of Jezebel, another notorious woman from Biblical history, who plotted against the prophet Elijah. In the end, both Salome and Herod faced their own downfall, stripped of their power and exiled from their kingdom. Herod's fate serves as a cautionary tale, as he was driven out of the land and eventually met his end in a foreign land.",
-            "wordCount": 118,
-            "quoteTokenProportion": 32.5,
-            "qualityScore": 1.3058372748833154,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.76,
+            "bht": "The little girl in this verse has been portrayed as a scorned woman, a lustful individual, and even as Kipling's female of the species. These depictions, however, lack substantial evidence. Some suggest that the woman may have been a jealous and vindictive adulteress, as well as an immodest dancer influenced by her mother. Whatever the case may be, it is clear that her request to have John the Baptist's head was driven by a deep-rooted dislike for his words of truth. As a result, she not only silenced his voice but also brought about the downfall of her family.",
+            "wordCount": 102,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.1965668741433004,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.13,
             "commentatorTierSimilarities": [
-                33.22,
-                31.37,
-                35.41
+                39.24,
+                30.65,
+                30.11
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The little girl, referred to as a diminutive little maid, is often portrayed as a scorned and vengeful figure. Some believe she had romantic feelings for John the Baptist, though no evidence supports this claim. The story serves as a warning against unchecked lust and its consequences. Herod's demise, paralleling that of Jezebel, illustrates the downfall of those who plot against the faithful. Consequently, both Salome and Herod faced the loss of power, banishment, and eventually met their ends in foreign lands.",
-            "wordCount": 83,
-            "quoteTokenProportion": 34.85,
-            "qualityScore": 1.34482460074101,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.06,
+            "bht": "The diminutive damsel in this passage has been described in various ways - from a scorned woman to a lustful individual to Kipling's female of the species. However, there is little evidence to support these portrayals. Some suggest that she may have been a vindictive adulteress, influenced by her immodest dancing and encouraged by her mother. Regardless, it is evident that her deep-rooted dislike for John the Baptist's truth led her to silence his voice and ultimately brought about her family's downfall.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.1521690594198037,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.65,
             "commentatorTierSimilarities": [
-                39.6,
-                28.68,
-                31.72
+                42.04,
+                26.6,
+                31.36
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The account of the young girl in Matthew 14:11, known as a little maid, often portrays her as a scorned and vengeful figure. Some legends even suggest a romantic connection with John the Baptist, though without evidence. The story serves as a warning about the dangers of unchecked lust and sinful actions. This incident mirrors the story of Jezebel, another infamous woman in biblical history. Ultimately, both Salome and Herod met their downfall, stripped of power, banished, and meeting their ends in foreign lands.",
+            "bht": "The little girl in this account has been characterized as a scorned woman, a lust-driven individual, and even as Kipling's female of the species. However, there is limited evidence to support these notions. Some suggest that she could have been a vindictive adulteress, influenced by immodest dancing and manipulated by her mother. Regardless, it is clear that her deep-seated aversion to John the Baptist's message compelled her to silence his voice, leading to the downfall of her own family.",
             "wordCount": 83,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.3647671406181023,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1334125252935279,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.03,
             "commentatorTierSimilarities": [
-                36.43,
-                33.6,
-                29.97
+                39.56,
+                26.98,
+                33.46
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The young girl, referred to as a little maid, is often depicted as a scorned and vengeful figure. Legends suggest a romantic connection with John the Baptist, though no proof exists. This serves as a caution against unchecked lust and sinful actions. The story echoes that of Jezebel, another infamous woman. In the end, both Salome and Herod faced their downfall, losing power, being banished, and meeting their deaths in foreign lands.",
-            "wordCount": 72,
-            "quoteTokenProportion": 32.2,
-            "qualityScore": 1.344783089990616,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.06,
+            "bht": "The little girl in this account has been variously portrayed as a scorned woman, a lustful individual, and even as Kipling's female of the species. While these portrayals lack clear evidence, some suggest she might have been a vindictive adulteress influenced by immodest dancing and driven by her mother's instigation. However, what is apparent is that her deep-seated antagonism towards John the Baptist's truth led her to silence his voice, bringing about the stripping of her family's honors, wealth, and banishment from the kingdom.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.416133565367704,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.43,
             "commentatorTierSimilarities": [
-                38.92,
-                32.96,
-                28.12
+                39.65,
+                24.51,
+                35.84
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The account of the little girl in the Bible often portrays her as a scorned and vengeful figure. Legends and literature depict her as having a romantic interest in John the Baptist, but there is no evidence to support this claim. This story serves as a cautionary tale about the dangers of unchecked lust and sinful actions. Both Salome and Herod, like the infamous Jezebel, faced their downfall, losing their power, being banished, and eventually meeting their deaths in foreign lands.",
-            "wordCount": 81,
-            "quoteTokenProportion": 29.51,
-            "qualityScore": 1.3852247215076425,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+            "bht": "The young girl in this account has been portrayed as a scorned woman, a lustful individual, and even as Kipling's female of the species. However, these characterizations lack concrete evidence. It is suggested that she may have been a vindictive adulteress influenced by immodest dancing and manipulated by her mother. Yet, what is clear is that her intense animosity towards John the Baptist's truth compelled her to silence his voice, resulting in the loss of her family's status, wealth, and exile.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1891021993048947,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.88,
             "commentatorTierSimilarities": [
-                35.86,
-                29.31,
-                34.83
+                38.55,
+                26.9,
+                34.55
             ],
             "generationAttempt": 5
         }

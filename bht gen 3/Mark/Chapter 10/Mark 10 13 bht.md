@@ -1,11 +1,11 @@
 # Mark 10:13 Commentary Help Text
 
 ## BHT:
-The disciples, engrossed in their important conversation, reprimanded those who brought the young children to Jesus. However, Jesus recognized the simple yet profound gesture and allowed the children to come to Him. It was not a matter of baptism or salvation, but a natural act seeking His blessings and prayers. This incident highlights Jesus' tender nature and follows fittingly after His teachings on the sanctity of married life.
+As Jesus journeyed, people brought young children to him, seeking his touch and prayer. Even though the disciples, engrossed in deep conversation, interrupted to reproach those who brought the children, Jesus did not intend to teach them; his purpose was simply to touch them and pray over them. This incident follows suitably after Jesus emphasized the sanctity of marriage, highlighting the significance of children within the family. The act of bringing children to Jesus was a genuine and instinctive response, demonstrating the natural inclination to seek Jesus' blessings.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Our Lord was not to teach them, but only to touch, and pray over them."
+1. "Our Lord was not to teach them, but only to touch, and pray over them." 
 2. "This simple, seemingly superstitious application of those that brought them."
 3. "The disciples, interrupted in their converse on high and important subjects, despise and reprove."
 
@@ -20,14 +20,13 @@ The disciples, engrossed in their important conversation, reprimanded those who 
 
 ### Archibald T. Robertson:
 1. "This incident follows with singular fitness after the Lord's assertion of the sanctity of married life" (Swete).
- 
-2. "They were brought to Jesus for his blessing and prayers (Matthew)."
+2. "These children (παιδια, Mark and Matthew; βρεφη in Luke) were of various ages."
 3. "There was, of course, no question of baptism or salvation involved, but a most natural thing to do."
 
 ### John Gill:
-1. "And they brought young children to him... that he should touch them."
-2. "His disciples rebuked those that brought [the children]."
-3. "His disciples rebuked those that brought [the children]."
+1. "And they brought young children to him... that he should touch them..." 
+2. "...brought their children in their arms, or hands..."
+3. "...his disciples rebuked those that brought [them]"
 
 ### John Wesley:
 1.  Matthew 19:13.
@@ -36,36 +35,38 @@ The disciples, engrossed in their important conversation, reprimanded those who 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:25:59
+- Timestamp: 12-25-2023 20:32:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 38.89%
-- BHT Quality Score: 1.450811331289814
+- BHT Word Count: 88
+- BHT Commentary Usage: 35.0%
+- BHT Quality Score: 1.559911032499675
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'act', 'after', 'allowed', 'and', 'baptism', 'blessings', 'brought', 'but', 'children', 'come', 'conversation', 'disciples', 'engrossed', 'fittingly', 'follows', 'gesture', 'highlights', 'him', 'his', 'however', 'important', 'in', 'incident', 'it', 'jesus', 'life', 'married', 'matter', 'natural', 'nature', 'not', 'of', 'on', 'or', 'prayers', 'profound', 'recognized', 'reprimanded', 'salvation', 'sanctity', 'seeking', 'simple', 'teachings', 'tender', 'the', 'their', 'this', 'those', 'to', 'was', 'who', 'yet', 'young']
-- ChatGPT injected words (significant words only) (33):
-	['act', 'allowed', 'baptism', 'blessings', 'brought', 'children', 'come', 'conversation', 'disciples', 'engrossed', 'fittingly', 'follows', 'gesture', 'highlights', 'important', 'incident', 'jesus', 'life', 'married', 'matter', 'natural', 'nature', 'prayers', 'profound', 'recognized', 'reprimanded', 'salvation', 'sanctity', 'seeking', 'simple', 'teachings', 'tender', 'young']
+- ChatGPT injected words (60):
+	['a', 'act', 'after', 'and', 'as', 'blessings', 'bringing', 'brought', 'children', 'conversation', 'deep', 'demonstrating', 'did', 'disciples', 'emphasized', 'engrossed', 'even', 'family', 'follows', 'genuine', 'highlighting', 'him', 'his', 'in', 'incident', 'inclination', 'instinctive', 'intend', 'interrupted', 'jesus', 'journeyed', 'marriage', 'natural', 'not', 'of', 'over', 'people', 'pray', 'prayer', 'purpose', 'reproach', 'response', 'sanctity', 'seek', 'seeking', 'significance', 'simply', 'suitably', 'teach', 'the', 'them', 'this', 'those', 'though', 'to', 'touch', 'was', 'who', 'within', 'young']
+- ChatGPT injected words (significant words only) (39):
+	['act', 'blessings', 'bringing', 'brought', 'children', 'conversation', 'deep', 'demonstrating', 'disciples', 'emphasized', 'engrossed', 'family', 'follows', 'genuine', 'highlighting', 'incident', 'inclination', 'instinctive', 'intend', 'interrupted', 'jesus', 'journeyed', 'marriage', 'natural', 'people', 'pray', 'prayer', 'purpose', 'reproach', 'response', 'sanctity', 'seek', 'seeking', 'significance', 'simply', 'suitably', 'teach', 'touch', 'young']
 
 ### Logs
-- Attempt 1 BHT: The incident in Mark 10:13 demonstrates the tender nature of Jesus' interactions with children. The disciples, however, interrupted their conversation on important matters and despised those who brought the children to Jesus. Nevertheless, Jesus saw value in their actions and allowed the children to approach him. There was no question of baptism or salvation involved, but rather a natural desire for Jesus' blessing and prayers. The parallel account in Matthew 19:13 further emphasizes that the purpose of bringing the children to Jesus was for him to touch them.
-- 🔄 Mark 10:13 (attempt 1, 86 words, 40.68% quotes quality score: 1.5216993999084591, V2 normalized quality score: 41.94, commentator tiers 1-3: 30.41%, 27.11%, 42.48%) 
+- Attempt 1 BHT: As Jesus continued on his way, people brought young children to him. They desired his touch and prayer over their children, recognizing the significance of his presence. However, the disciples, engaged in a deep conversation, interrupted to despise and reprove those who brought the children, perhaps considering it a simple and superstitious act. This incident is fittingly placed after Jesus affirmed the sanctity of marriage, showcasing the importance of children within the context of family life. The act of bringing children to Jesus was natural and sincere, without any implications of baptism or salvation. Jesus acknowledged the children's presence and blessed them, exemplifying his love and care for all, regardless of age or status.
+- 🔄 Mark 10:13 (attempt 1, 115 words, 36.71% quotes quality score: 1.3808082434481808, V2 normalized quality score: 37.25, commentator tiers 1-3: 38.81%, 21.48%, 39.71%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The disciples, engrossed in their important conversation, reprimanded those who brought the young children to Jesus. However, Jesus recognized the simple yet profound gesture and allowed the children to come to Him. It was not a matter of baptism or salvation, but a natural act seeking His blessings and prayers. This incident highlights Jesus' tender nature and follows fittingly after His teachings on the sanctity of married life.
-- 🔄 Mark 10:13 (attempt 2, 68 words, 38.89% quotes quality score: 1.450811331289814, V2 normalized quality score: 39.58, commentator tiers 1-3: 38.02%, 21.93%, 40.04%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The disciples interrupted their conversation and despised those who brought children to Jesus, viewing it as a seemingly superstitious act. However, Jesus recognized the intention behind their actions and allowed the children to approach Him. It was not a matter of baptism or salvation, but a simple and natural desire for Jesus' blessings and prayers. This incident showcases Jesus' compassionate nature and serves as a fitting follow-up to His teachings on the sanctity of married life.
-- 🔄 Mark 10:13 (attempt 3, 77 words, 38.6% quotes quality score: 1.3840176505049377, V2 normalized quality score: 37.36, commentator tiers 1-3: 39.47%, 21.0%, 39.53%) 
+- Attempt 2 BHT: As Jesus journeyed, people brought young children to him, seeking his touch and prayer. Even though the disciples, engrossed in deep conversation, interrupted to reproach those who brought the children, Jesus did not intend to teach them; his purpose was simply to touch them and pray over them. This incident follows suitably after Jesus emphasized the sanctity of marriage, highlighting the significance of children within the family. The act of bringing children to Jesus was a genuine and instinctive response, demonstrating the natural inclination to seek Jesus' blessings.
+- 🔄 Mark 10:13 (attempt 2, 88 words, 35.0% quotes quality score: 1.559911032499675, V2 normalized quality score: 43.21, commentator tiers 1-3: 36.37%, 28.4%, 35.23%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The disciples, engrossed in their important conversation, rebuked those who brought young children to Jesus, dismissing it as a seemingly superstitious act. However, Jesus understood the significance behind their intentions and allowed the children to approach Him. The incident had no connection to baptism or salvation, but was a natural and heartfelt gesture seeking Jesus' blessings and prayers. This compassionate response exemplifies Jesus' tender nature and serves as a relevant continuation from His teachings on the sanctity of married life.
-- 🔄 Mark 10:13 (attempt 4, 80 words, 36.51% quotes quality score: 1.3793949377034753, V2 normalized quality score: 37.21, commentator tiers 1-3: 36.29%, 23.14%, 40.57%) 
+- Attempt 3 BHT: As Jesus continued on his way, people brought young children to him, desiring his touch and prayer over them. Even though the disciples were preoccupied with important matters, they interrupted to criticize and dismiss those who brought the children, perceiving it as a superstitious act. However, the act of bringing children to Jesus was a sincere and natural response, without any implications of baptism or salvation. Jesus acknowledged the children and their significance, emphasizing his love and care for all, regardless of age or status.
+- 🔄 Mark 10:13 (attempt 3, 85 words, 43.55% quotes quality score: 1.4994807835569632, V2 normalized quality score: 41.2, commentator tiers 1-3: 38.76%, 24.52%, 36.72%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The disciples, preoccupied with their discussion, despised and reproved those who brought the young children to Jesus, considering the act as a seemingly superstitious one. Nevertheless, Jesus recognized the significance of their actions and allowed the children to approach Him. The purpose was not about baptism or salvation, but a natural desire to receive Jesus' blessing and prayers. This incident beautifully showcases the compassionate nature of Jesus and resonates with the preceding teachings on the sanctity of married life.
-- 🔄 Mark 10:13 (attempt 5, 79 words, 35.09% quotes quality score: 1.3778392010937954, V2 normalized quality score: 37.16, commentator tiers 1-3: 39.36%, 22.62%, 38.02%) 
+- Attempt 4 BHT: As Jesus made his way, people brought young children to him, seeking his touch and prayer. Despite being engaged in important discussions, the disciples interjected to criticize and rebuke those who brought the children, perhaps perceiving their actions as simple and superstitious. However, the act of bringing children to Jesus was a natural response, without any implications of salvation or baptism. Jesus recognized the children's presence, demonstrating his love and care for all, regardless of age or social status.
+- 🔄 Mark 10:13 (attempt 4, 80 words, 36.67% quotes quality score: 1.4361752388296944, V2 normalized quality score: 39.1, commentator tiers 1-3: 36.86%, 24.68%, 38.46%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 10:13 bht prompt v0.8 (68 words, 38.89% quotes)
-- quality score: 1.450811331289814, V2 normalized quality score: 39.58, commentator tiers 1-3: 38.02%, 21.93%, 40.04%)
+- Attempt 5 BHT: People brought young children to Jesus as he journeyed, hoping for his touch and prayer. However, the disciples, immersed in a weighty discussion, interrupted to express disdain and reprove those who brought the children, seemingly considering it a naive and superstitious action. Nevertheless, the act of bringing the children to Jesus was a genuine and instinctive response, devoid of any connection to baptism or salvation. Jesus, recognizing the importance of children, welcomed them and bestowed his blessings upon them, showcasing his boundless love and care for all, irrespective of age or status.
+- 🔄 Mark 10:13 (attempt 5, 92 words, 32.81% quotes quality score: 1.4410478069253676, V2 normalized quality score: 39.26, commentator tiers 1-3: 39.3%, 22.35%, 38.35%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 10:13 bht prompt v0.8 (88 words, 35.0% quotes)
+- quality score: 1.559911032499675, V2 normalized quality score: 43.21, commentator tiers 1-3: 36.37%, 28.4%, 35.23%)

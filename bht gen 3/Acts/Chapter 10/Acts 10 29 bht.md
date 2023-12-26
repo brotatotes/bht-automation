@@ -1,17 +1,17 @@
 # Acts 10:29 Commentary Help Text
 
 ## BHT:
-The speaker's speech is dignified as he addresses the new brotherhood, having been directed by God to bring forth new truth. Without gainsaying, Peter acknowledges his objections made to the Lord, not fully understanding. He recognizes he has crossed the line of Jewish custom and asks for the purpose of his journey. This holy silence of faith receives God's commands and abandons contrary reasons. Peter's immediate consent is not only for confirmation but also for the sake of order, leading him to speak with new dignity and leaving Cornelius impressed.
+The speech in question is marked by its dignified tone as the apostle recognizes the new brotherhood before him and is divinely prompted to convey new truth. Peter's lack of objection, without gainsaying, illustrates his willingness to accept God's command without hesitation. He seeks a full and authentic confirmation, desiring to hear directly from Cornelius himself to further corroborate the message. The repetition of intentions and the narration lends an added sense of dignity and vitality to Peter's subsequent discourse.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "The whole speech is full of dignity..."
-2. "The apostle seeing in the company before him a new brotherhood..."
-3. "...he was divinely directed to pour the light of new truth."
+1. "The whole speech is full of dignity."
+2. "The apostle seeing in the company before him a new brotherhood."
+3. "Divinely directed to pour the light of new truth."
 
 ### Albert Barnes:
 1. "Without gainsaying - without 'saying anything against it'; without hesitation or reluctance."
-2. "I ask, therefore ... - The main design for which Cornelius had sent for him had been mentioned to Peter by the messenger, Acts 10:22."
+2. "I ask, therefore ... - The main design for which Cornelius had sent for him had been mentioned to Peter by the messenger."
 3. "For what intent - For what purpose or design."
 
 ### Marvin Vincent:
@@ -20,66 +20,62 @@ The speaker's speech is dignified as he addresses the new brotherhood, having be
 
 ### John Calvin:
 1. "This is the holy silence of faith, when as without murmuring against God we receive that meekly which he commandeth."
-2. "Abandoning all contrary reasons which intrude themselves." 
-3. "Driving far away."
+2. "Abandoning all contrary reasons which intrude themselves."
+3. "Driving far away [all contrary reasons]."
 
 ### Philip Schaff:
 1. "He says that he had at once obeyed instructions which he felt to be Divine."
-2. "This is a case in which every step is to be made firm."
-3. "The apostle asks for a full and authentic confirmation of what he had heard from the messengers."
+2. "Peter knew what the messengers had told him; but it was still needful that Cornelius should make his own statement."
+3. "This is a case in which every step is to be made firm. The apostle asks for a full and authentic confirmation of what he had heard from the messengers."
 
 ### Archibald T. Robertson:
-1. "Without gainsaying. Without answering back."
-2. "Peter's objections were made to the Lord in the vision which he did not understand."
-3. "He had stepped over the line of Jewish custom."
+1. "Without gainsaying... Without answering back."
 
 ### John Gill:
-1. "Therefore came I unto you, without gainsaying... as soon as I was sent for." 
-2. "He immediately consented to go... being previously directed so to do by the Spirit of God."
-3. "I ask therefore for what intent ye have sent for me?... not only for further confirmation's sake, but for order sake, to lead him on regularly to what he had to say."
+1. "Therefore came I unto you, without gainsaying.... readily and cheerfully, without objecting to it, or saying one word against it, or making any excuse to put it off."
+2. "I ask therefore for what intent ye have sent for me?... he was willing to have it from the mouth of Cornelius himself; not only for further confirmation's sake, but for order sake, to lead him on regularly to what he had to say."
 
 ### John Wesley:
 1. "I ask for what intent ye have sent for me?" - St. Peter knew this already.
-2. "The repetition of which, even as we read it, gives a new dignity and spirit to Peter's succeeding discourse."
-3. "Cornelius himself more impressed by the narration."
+2. "He puts Cornelius on telling the story, both that the rest might be informed, and Cornelius himself more impressed by the narration."
+3. "The repetition of which, even as we read it, gives a new dignity and spirit to Peter's succeeding discourse."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:29:27
+- Timestamp: 12-25-2023 20:34:14
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 30.88%
-- BHT Quality Score: 1.4820919316163281
+- BHT Word Count: 83
+- BHT Commentary Usage: 31.75%
+- BHT Quality Score: 1.5201233526850069
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['abandons', 'acknowledges', 'addresses', 'also', 'and', 'as', 'asks', 'been', 'bring', 'brotherhood', 'but', 'by', 'commands', 'confirmation', 'consent', 'contrary', 'cornelius', 'crossed', 'custom', 'dignified', 'dignity', 'directed', 'faith', 'for', 'forth', 'fully', 'gainsaying', 'god', 'has', 'having', 'he', 'him', 'his', 'holy', 'immediate', 'impressed', 'is', 'jewish', 'journey', 'leading', 'leaving', 'line', 'lord', 'made', 'new', 'not', 'objections', 'of', 'only', 'order', 'peter', 'purpose', 'reasons', 'receives', 'recognizes', 's', 'sake', 'silence', 'speak', 'speaker', 'speech', 'the', 'this', 'to', 'truth', 'understanding', 'with', 'without']
-- ChatGPT injected words (significant words only) (47):
-	['abandons', 'acknowledges', 'addresses', 'asks', 'bring', 'brotherhood', 'commands', 'confirmation', 'consent', 'contrary', 'cornelius', 'crossed', 'custom', 'dignified', 'dignity', 'directed', 'faith', 'forth', 'fully', 'gainsaying', 'god', 'having', 'holy', 'immediate', 'impressed', 'jewish', 'journey', 'leading', 'leaving', 'line', 'lord', 'new', 'objections', 'order', 'peter', 'purpose', 'reasons', 'receives', 'recognizes', 's', 'sake', 'silence', 'speak', 'speaker', 'speech', 'truth', 'understanding']
+- ChatGPT injected words (63):
+	['a', 'accept', 'added', 'an', 'and', 'apostle', 'as', 'authentic', 'before', 'brotherhood', 'by', 'command', 'confirmation', 'convey', 'cornelius', 'corroborate', 'desiring', 'dignified', 'dignity', 'directly', 'discourse', 'divinely', 'from', 'full', 'further', 'gainsaying', 'god', 'he', 'hear', 'hesitation', 'him', 'himself', 'his', 'illustrates', 'in', 'intentions', 'is', 'its', 'lack', 'lends', 'marked', 'message', 'narration', 'new', 'objection', 'of', 'peter', 'prompted', 'question', 'recognizes', 'repetition', 's', 'seeks', 'sense', 'speech', 'subsequent', 'the', 'to', 'tone', 'truth', 'vitality', 'willingness', 'without']
+- ChatGPT injected words (significant words only) (43):
+	['accept', 'added', 'apostle', 'authentic', 'brotherhood', 'command', 'confirmation', 'convey', 'cornelius', 'corroborate', 'desiring', 'dignified', 'dignity', 'directly', 'discourse', 'divinely', 'gainsaying', 'god', 'hear', 'hesitation', 'illustrates', 'intentions', 'lack', 'lends', 'marked', 'message', 'narration', 'new', 'objection', 'peter', 'prompted', 'question', 'recognizes', 'repetition', 's', 'seeks', 'sense', 'speech', 'subsequent', 'tone', 'truth', 'vitality', 'willingness']
 
 ### Logs
-- Attempt 1 BHT: The speaker's speech in this verse is filled with dignity as he addresses the new brotherhood before him, having been divinely directed to bring forth new truth. Without gainsaying or answering back, Peter acknowledges that his objections were made to the Lord, not fully understanding. He recognizes that he has crossed the line of Jewish custom, and he asks for what purpose he has been sent for. This is a holy silence of faith, receiving meekly what God commands and abandoning all contrary reasons. Peter's immediate consent to go is not only for further confirmation's sake but also for the sake of order, leading him to what he has to say. The repetition of his question gives new dignity and spirit to his discourse, leaving Cornelius more impressed.
-- 🔄 Acts 10:29 (attempt 1, 131 words, 37.5% quotes quality score: 1.5326910189775016, V2 normalized quality score: 42.3, commentator tiers 1-3: 32.55%, 32.91%, 34.54%) 
+- Attempt 1 BHT: The whole speech in Acts 10:29 is full of dignity, as the apostle Peter recognizes the new brotherhood before him and is divinely directed to share new truth. Peter asks Cornelius for what reason he has been sent for, without gainsaying or hesitating. This is a case of holy silence and faith, where we receive God's commands without murmuring or abandoning contrary reasons. Peter knew the main design of Cornelius' request, but he desired a full and authentic confirmation from Cornelius himself to lead him on and further confirm the message. The repetition of the intentions and the narration give a new dignity and spirit to Peter's subsequent discourse.
+- 🔄 Acts 10:29 (attempt 1, 110 words, 37.84% quotes quality score: 1.5229033604322426, V2 normalized quality score: 41.98, commentator tiers 1-3: 18.24%, 41.05%, 40.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The speaker's speech is dignified as he addresses the new brotherhood, having been directed by God to bring forth new truth. Without gainsaying, Peter acknowledges his objections made to the Lord, not fully understanding. He recognizes he has crossed the line of Jewish custom and asks for the purpose of his journey. This holy silence of faith receives God's commands and abandons contrary reasons. Peter's immediate consent is not only for confirmation but also for the sake of order, leading him to speak with new dignity and leaving Cornelius impressed.
-- 🔄 Acts 10:29 (attempt 2, 93 words, 30.88% quotes quality score: 1.4820919316163281, V2 normalized quality score: 40.62, commentator tiers 1-3: 33.66%, 32.84%, 33.49%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The speech in question carries a sense of dignity as the apostle recognizes the new brotherhood and is divinely directed to share new truth. Peter's lack of objection and inquiry about the reason behind the request, without gainsaying, demonstrates a case of faith that accepts God's commands without hesitation. Peter desired a full and authoritative confirmation from Cornelius himself, indicating the importance of hearing the story firsthand and further solidifying the message. The repetition of intentions and the narration add dignity and vigor to Peter's ensuing discourse.
+- 🔄 Acts 10:29 (attempt 2, 90 words, 25.81% quotes quality score: 1.4663377973993037, V2 normalized quality score: 40.1, commentator tiers 1-3: 21.2%, 37.99%, 40.81%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In his speech, the speaker displays great dignity as he addresses the newly formed brotherhood, having been divinely guided to share new revelations. Without gainsaying, the speaker acknowledges his objections, made in the vision without full comprehension. He recognizes that he has crossed the line of Jewish customs and inquires about the purpose of his visit. This humble silence of faith accepts God's commands and dismisses contradicting thoughts. The speaker's immediate compliance serves not only for confirmation but also for the sake of order, delivering his subsequent discourse with renewed dignity and leaving a lasting impression on Cornelius.
-- 🔄 Acts 10:29 (attempt 3, 100 words, 31.58% quotes quality score: 1.3922962017758103, V2 normalized quality score: 37.64, commentator tiers 1-3: 36.16%, 35.53%, 28.31%) 
+- Attempt 3 BHT: The speech in Acts 10:29 carries a sense of dignity as the apostle recognizes the new brotherhood and is divinely directed to pour new truth. Peter's lack of objection, without gainsaying, demonstrates a case of faith that accepts God's commands readily. Peter seeks a full and authentic confirmation, desiring to hear the story from Cornelius himself to further confirm the message. The repetition of intentions and the narration enhance the dignity and spirit of Peter's subsequent discourse.
+- 🔄 Acts 10:29 (attempt 3, 79 words, 25.45% quotes quality score: 1.414809362180864, V2 normalized quality score: 38.39, commentator tiers 1-3: 20.59%, 38.1%, 41.31%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The whole speech exudes dignity as the apostle acknowledges the newfound brotherhood and is divinely guided to impart fresh truth. Peter's lack of objection, without gainsaying, highlights his faithful acceptance of God's command. He seeks an authentic confirmation, desiring to hear the story directly from Cornelius to reinforce the message. The repetition of intentions and the narration adds a renewed sense of dignity and fervor to Peter's subsequent discourse.
+- 🔄 Acts 10:29 (attempt 4, 72 words, 24.07% quotes quality score: 1.469105879877794, V2 normalized quality score: 40.19, commentator tiers 1-3: 24.37%, 35.97%, 39.66%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The speech in question is marked by its dignified tone as the apostle recognizes the new brotherhood before him and is divinely prompted to convey new truth. Peter's lack of objection, without gainsaying, illustrates his willingness to accept God's command without hesitation. He seeks a full and authentic confirmation, desiring to hear directly from Cornelius himself to further corroborate the message. The repetition of intentions and the narration lends an added sense of dignity and vitality to Peter's subsequent discourse.
+- 🔄 Acts 10:29 (attempt 5, 83 words, 31.75% quotes quality score: 1.5201233526850069, V2 normalized quality score: 41.89, commentator tiers 1-3: 22.06%, 38.98%, 38.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Addressing the new brotherhood, the speaker's speech radiates dignity, having been divinely directed to shed light on new truths. Without gainsaying or answering back, Peter acknowledges his objections that were expressed to the Lord, even though he did not fully understand them at the time. Aware that he had stepped over the line of Jewish custom, he inquires about the purpose behind the invitation. This humble reception of God's commands demonstrates a holy silence of faith, abandoning contrary reasons and promptly obeying divine instructions.
-- 🔄 Acts 10:29 (attempt 4, 86 words, 34.72% quotes quality score: 1.4655862672164428, V2 normalized quality score: 40.07, commentator tiers 1-3: 38.01%, 33.37%, 28.62%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The speaker's dignified speech to the new brotherhood is marked by his divine guidance to share new truth. Without gainsaying, he acknowledges his objections made to the Lord when he did not fully understand. Recognizing that he crossed the line of Jewish custom, he earnestly asks the intent behind his summons. This humble silence of faith accepts God's commands, dismissing contrary reasons. The speaker's immediate compliance ensures confirmation and order, adding new dignity and leaving a strong impression on Cornelius.
-- 🔄 Acts 10:29 (attempt 5, 83 words, 28.12% quotes quality score: 1.4373337981121292, V2 normalized quality score: 39.13, commentator tiers 1-3: 37.04%, 33.77%, 29.2%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 10:29 bht prompt v0.8 (93 words, 30.88% quotes)
-- quality score: 1.4820919316163281, V2 normalized quality score: 40.62, commentator tiers 1-3: 33.66%, 32.84%, 33.49%)
+- ✅ Acts 10:29 bht prompt v0.8 (83 words, 31.75% quotes)
+- quality score: 1.5201233526850069, V2 normalized quality score: 41.89, commentator tiers 1-3: 22.06%, 38.98%, 38.96%)

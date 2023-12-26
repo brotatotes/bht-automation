@@ -1,45 +1,43 @@
 {
-    "timestamp": "12-19-2023 16:26:39",
+    "timestamp": "12-25-2023 20:34:01",
     "verseRef": "Acts 5:19",
     "bestBHT": {
-        "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and that heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
-        "wordCount": 92,
-        "quoteTokenProportion": 29.85,
-        "qualityScore": 1.1694911425354912,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+        "bht": "During this night, an angel of the Lord appeared, perpetuating the theme of angelic intervention. The angel functioned as a divine messenger, fortifying the disciples' fearlessness. This miraculous occurrence confirmed their protection under God's care and emphasized the guardianship of heavenly spirits over our well-being. Although the angel's precise identity holds little significance, our focus should lie in the assurance that God's hand defends our lives as necessary.",
+        "wordCount": 72,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.4103446559002113,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.24,
         "commentatorTierSimilarities": [
-            11.6,
-            39.67,
-            48.73
+            12.62,
+            45.2,
+            42.19
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "19. by night\u2014the same night."
         ],
         "Albert Barnes": [
+            "But the angel of the Lord - This does not denote any 'particular' angel, but simply an angel.\" ",
             "The word 'angel' denotes properly a 'messenger,' and particularly it is applied to the pure spirits that are sent to this world on errands of mercy.\" ",
-            "The case here was evidently 'a miracle.' An angel was employed for this special purpose.",
-            "The design might have been..."
+            "The case here was evidently 'a miracle.' An angel was employed for this special purpose, and the design might have been:"
         ],
         "Marvin Vincent": [
             "By night [\u03b4\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03c5\u03ba\u03c4\u03bf\u03c2] . More correctly, during this night : dia in the course of. Compare ch. 16 9."
         ],
         "John Calvin": [
             "He meant to declare, by this miracle, that they were in his hand and tuition, to the end he might maintain the credit of the gospel.",
-            "We must not hope always, nay, we must not always desire that God will deliver us from death; but we must be content with this one thing, that our life is defended by his hand.",
-            "This is a profitable help for our infirmity, that we know that not only God doth care for us, but also that the heavenly spirits do watch for our safety."
+            "We must not hope always, nay, we must not always desire that God will deliver us from death; but we must be content with this one thing, that our life is defended by his hand, so far as is expedient.",
+            "It is a profitable help for our infirmity, that we know that not only God doth care for us, but also that the heavenly spirits do watch for our safety."
         ],
         "Philip Schaff": [
             "The frequency of angelic interference in the early days of the Church is remarkable.",
-            "Surely the effects of this interposition were immediately felt... fearlessly they appear in the most public spot early in the morning, again proclaiming the holy name of the Master.",
-            "The Sadducee chiefs, whose perplexity and anxiety were increased by this new proof of a strange and awful power connected with these bold men."
+            "The reluctance to acknowledge angelic interference in the affairs of men here and on other occasions mentioned in the 'Acts,' proceeds from a notion, deep rooted in many minds, that angels do not exist.",
+            "Surely the effects of this interposition were immediately felt... fearlessly they appear in the most public spot early in the morning, again proclaiming the holy name of the Master."
         ],
         "John Gill": [
-            "one of those ministering spirits sent by God to minister to the heirs of promise\" ",
-            "one of those angels that excel in strength\" ",
-            "the angel... easily opened the prison doors"
+            "But the angel of the Lord...whether Michael, as some have thought, or Gabriel, or what particular angel, is not material to know."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -59,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, made a miraculous appearance and fearlessly proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This divine intervention serves as a reminder that our lives are defended by His hand, and that heavenly spirits watch over our safety. The angel, one of those ministering spirits sent by God, effortlessly opened the prison doors, showcasing the power and authority of God's messengers.",
+            "bht": "During this night, an angel of the Lord appeared, demonstrating the recurring occurrence of angelic intervention. The angel served as a divine messenger, sent with a specific purpose, instilling the fearlessness of the disciples who boldly proclaimed the holy name of the Master in the most public spot early in the morning. This miraculous display not only affirmed the disciples' protection under God's care but also emphasized the role of heavenly spirits in safeguarding our well-being. As for the identity of the angel, it is not essential to know, for what truly matters is the assurance that God's hand defends our lives as deemed necessary.",
             "wordCount": 108,
-            "quoteTokenProportion": 29.73,
-            "qualityScore": 1.188426798289088,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.3833538177922562,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
             "commentatorTierSimilarities": [
-                9.92,
-                41.6,
-                48.48
+                9.38,
+                46.84,
+                43.77
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
-            "wordCount": 91,
-            "quoteTokenProportion": 29.85,
-            "qualityScore": 1.1648954247477485,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "bht": "During this night, an angel of the Lord appeared as a divine messenger, affirming the disciples' protection under God's care. Their fearlessness was evident as they boldly proclaimed the holy name of the Master in a public place early in the morning. This display of angelic intervention underscores the role of heavenly spirits in safeguarding our well-being. Although the specific identity of the angel may not be crucial, what truly matters is the assurance that God's hand defends our lives as necessary.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.2841518649265091,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.04,
             "commentatorTierSimilarities": [
-                11.4,
-                39.76,
-                48.84
+                10.34,
+                46.79,
+                42.87
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and that heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
-            "wordCount": 92,
-            "quoteTokenProportion": 29.85,
-            "qualityScore": 1.1694911425354912,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+            "bht": "During this night, an angel of the Lord appeared, demonstrating the recurring occurrence of angelic intervention. The angel served as a divine messenger, sent with a specific purpose, instilling the fearlessness of the disciples. This miraculous display affirmed the disciples' protection under God's care and emphasized the role of heavenly spirits in safeguarding our well-being. As for the identity of the angel, it is not essential to know, for what truly matters is the assurance that God's hand defends our lives as necessary.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.3760582513994764,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.1,
             "commentatorTierSimilarities": [
-                11.6,
-                39.67,
-                48.73
+                9.4,
+                45.79,
+                44.81
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
-            "wordCount": 91,
-            "quoteTokenProportion": 29.85,
-            "qualityScore": 1.1648954247477485,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "bht": "During this night, an angel of the Lord appeared, perpetuating the theme of angelic intervention. The angel functioned as a divine messenger, fortifying the disciples' fearlessness. This miraculous occurrence confirmed their protection under God's care and emphasized the guardianship of heavenly spirits over our well-being. Although the angel's precise identity holds little significance, our focus should lie in the assurance that God's hand defends our lives as necessary.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4103446559002113,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.24,
             "commentatorTierSimilarities": [
-                11.4,
-                39.76,
-                48.84
+                12.62,
+                45.2,
+                42.19
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "During this night, an angel\u2014a pure spirit sent on a merciful errand\u2014fearlessly proclaimed the holy name of the Master, leaving the Sadducee chiefs perplexed and anxious. Through this miraculous intervention, God demonstrated His protection and care over those who proclaim the gospel. We are assured that our lives are defended by His hand and watched over by heavenly spirits, as this angel effortlessly opened the prison doors, showcasing the authority of God's messengers. Such divine intercession serves as a reminder of the power and presence that surround us.",
-            "wordCount": 91,
-            "quoteTokenProportion": 32.35,
-            "qualityScore": 1.1021095411615214,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+            "bht": "During this night, an angel of the Lord appeared, demonstrating the recurring occurrence of angelic intervention. The angel served as a divine messenger, sent with a specific purpose, instilling the fearlessness of the disciples who boldly proclaimed the holy name of the Master in the most public spot early in the morning. This miraculous display affirmed the disciples' protection under God's care and highlighted the intervention of heavenly spirits in safeguarding our well-being. While the exact identity of the angel may not be crucial, the essential point is the assurance that our lives are defended by God's hand as necessary.",
+            "wordCount": 103,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.37671332563903,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.12,
             "commentatorTierSimilarities": [
-                9.38,
-                39.46,
-                51.17
+                9.81,
+                48.11,
+                42.08
             ],
             "generationAttempt": 5
         }

@@ -1,23 +1,22 @@
 {
-    "timestamp": "12-22-2023 23:23:45",
+    "timestamp": "12-25-2023 20:32:25",
     "verseRef": "Mark 6:38",
     "bestBHT": {
-        "bht": "One of the disciples, Andrew, mentions a boy in the crowd who has five barley loaves and two small fishes, but questions whether it would be sufficient for such a large group. Jesus instructs them to bring the offering to Him. He says Go and see, prompting them to gather what else they can find. The disciples had previously doubted that two hundred pennyworth would be enough. This account highlights the humble origins of the meal that would turn into a miraculous feast.",
-        "wordCount": 83,
-        "quoteTokenProportion": 50.77,
-        "qualityScore": 1.075535747365737,
-        "qualityScoreNormalizedComparedToV2BHTs": 27.11,
+        "bht": "One of Jesus' disciples, Andrew, informed Him that there was a lad with only five barley loaves and two small fishes among the crowd, but he questioned whether this meager supply would be enough. Jesus instructed them to bring the food to Him. Andrew suggested that they examine what provisions were available among the crowd. This demonstrates Jesus' intent to test their faith and manifest a more astounding miracle.",
+        "wordCount": 69,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.3027003314714962,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.66,
         "commentatorTierSimilarities": [
-            40.93,
-            17.62,
-            41.45
+            37.5,
+            17.64,
+            44.86
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "One of His disciples, Andrew, Simon Peter's brother, saith unto Him, There is a lad here which hath five barley loaves and two small fishes: but what are they among so many?\" (John 6:8; John 6:9).",
-            " ",
             "Probably this was the whole stock of provisions then at the command of the disciples\u2014no more than enough for one meal to them\u2014and entrusted for the time to this lad.",
             "He said, Bring them hither to me\" (John 6:9)."
         ],
@@ -35,7 +34,7 @@
         "John Gill": [
             "This he said, not as ignorant, but as willing to try their faith yet more, and that the after miracle might be more manifest and illustrious.",
             "Go and see; meaning, either that they should examine their own store, if they had any; or rather go and see what was to be had upon the spot, among the company, for money.",
-            "They tell him, Andrew, Simon Peter's brother, particularly, that there was a boy among the multitude that had five barley loaves, and two small fishes; and, at the same time, suggests, that they were nothing for so great a company."
+            "When they had made inquiry what provisions there were, and the most that could be got at any rate, they tell him, Andrew, Simon Peter's brother, particularly, that there was a boy among the multitude that had five barley loaves, and two small fishes; and, at the same time, suggests, that they were nothing for so great a company."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -55,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "One of the disciples, Andrew, tells Jesus that there is a boy in the crowd who has five barley loaves and two small fishes, but questions whether they are sufficient for such a large group. This boy's provisions were likely the only food the disciples had at the time, enough for just one meal. Jesus instructs them to bring the meager offering to Him. By saying Go and see, Jesus prompts them to assess the situation and gather whatever else they can find. The disciples had previously expressed their doubt that two hundred pennyworth would be enough. This particular account of the lad with his lunch is found only in John's Gospel, shedding light on the humble origins of the meal that would turn into a miraculous feast.",
-            "wordCount": 130,
-            "quoteTokenProportion": 47.25,
-            "qualityScore": 1.2681075794125805,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.51,
+            "bht": "One of Jesus' disciples, Andrew, informed Him that there was a young boy in the crowd who had five barley loaves and two small fishes, but questioned their sufficiency for the multitude. This meager supply of provisions was most likely all that the disciples had at their disposal. However, Jesus instructed them to bring the food to Him. Andrew, aware that two hundred pennyworth was insufficient, suggested that the disciples examine what provisions were available among the crowd. This demonstrates Jesus' intent to test their faith and manifest a more astounding miracle.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.3242471916124636,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.37,
             "commentatorTierSimilarities": [
-                39.75,
-                19.3,
-                40.96
+                38.66,
+                15.71,
+                45.63
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "One of the disciples, Andrew, mentions a boy in the crowd who has five barley loaves and two small fishes, but questions whether it would be sufficient for such a large group. Jesus instructs them to bring the offering to Him. He says Go and see, prompting them to gather what else they can find. The disciples had previously doubted that two hundred pennyworth would be enough. This account highlights the humble origins of the meal that would turn into a miraculous feast.",
-            "wordCount": 83,
-            "quoteTokenProportion": 50.77,
-            "qualityScore": 1.075535747365737,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.11,
+            "bht": "One of Jesus' disciples, Andrew, informed Him that there was a lad with only five barley loaves and two small fishes among the crowd, but he questioned whether this meager supply would be enough. Jesus instructed them to bring the food to Him. Andrew suggested that they examine what provisions were available among the crowd. This demonstrates Jesus' intent to test their faith and manifest a more astounding miracle.",
+            "wordCount": 69,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.3027003314714962,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
             "commentatorTierSimilarities": [
-                40.93,
-                17.62,
-                41.45
+                37.5,
+                17.64,
+                44.86
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Andrew informs Jesus about a boy in the crowd who has five barley loaves and two small fishes, expressing doubt about their adequacy for such a large group. Jesus instructs the disciples to bring the provisions to Him. This prompts them to search for more food. The disciples had already expressed their skepticism about the insufficiency of two hundred pennyworth. This account highlights the humble origins of the meal that would later become a miraculous feast.",
-            "wordCount": 76,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.042386196342121,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.0,
+            "bht": "One of the disciples, Andrew, told Jesus that there was a boy among the crowd who had five barley loaves and two small fishes, but questioned what good they would do among so many people. This was probably the only food the disciples had with them, just enough for one meal. However, Jesus instructed them to bring the meager provisions to him. The disciples went to see what other food could be found, and Andrew told Jesus about the boy's offering. This exchange was not out of ignorance but to test their faith and to make the subsequent miracle more remarkable.",
+            "wordCount": 102,
+            "quoteTokenProportion": 56.34,
+            "qualityScore": 1.3634001636932889,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
             "commentatorTierSimilarities": [
-                41.51,
-                20.18,
-                38.31
+                39.35,
+                15.44,
+                45.21
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "One of His disciples, Andrew, informs Jesus that there is a lad in the crowd who possesses five barley loaves and two small fishes, but wonders if they would be enough for the multitude. This meager provision most likely constituted the entirety of the disciples' food at the time, entrusted to them for that particular occasion. Jesus instructs them to bring the limited offering to Him. This prompts the disciples to seek out additional sustenance among the people. The disciples had previously voiced their doubts regarding the adequacy of two hundred pennyworth. This unique account in John's Gospel emphasizes the presence of the young boy and the simplicity of the meal that would be transformed into a remarkable miracle.",
-            "wordCount": 120,
-            "quoteTokenProportion": 39.29,
-            "qualityScore": 1.1528528239723161,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.68,
+            "bht": "One of Jesus' disciples, Andrew, informed him that there was a boy in the crowd who had five barley loaves and two small fishes, but questioned the adequacy of these provisions. This was likely all the food the disciples had, enough for only one meal. However, Jesus instructed them to bring him the loaves and fishes. Andrew went and found the boy's offering, and through this exchange, Jesus intended to test the disciples' faith and bring about a remarkable miracle.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.402725046456968,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.98,
             "commentatorTierSimilarities": [
-                40.84,
-                16.93,
-                42.22
+                41.75,
+                15.35,
+                42.9
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Andrew, a disciple, informs Jesus about a boy in the crowd who has five barley loaves and two small fishes. Andrew questions if this meager provision is enough for the multitude. Jesus instructs them to bring the offering to Him, prompting the disciples to search for more food. The disciples previously expressed doubt that two hundred pennyworth would suffice. This account highlights the humble origins of the meal that would become a miraculous feast.",
-            "wordCount": 74,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.135775270413965,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.11,
+            "bht": "Andrew, one of the disciples, revealed to Jesus that amidst the multitude there was a boy with five barley loaves and two small fishes. Andrew questioned the significance of such a meager offering among the vast crowd. However, Jesus asked for the loaves and fishes to be brought to him. This exchange was meant to challenge the faith of the disciples and to demonstrate a miraculous sign that would astonish and inspire belief. The boy's lunch, a seemingly limited resource, would serve as the catalyst for Jesus' extraordinary provision.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.1624483859288428,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.99,
             "commentatorTierSimilarities": [
-                39.99,
-                22.28,
-                37.74
+                39.12,
+                17.18,
+                43.7
             ],
             "generationAttempt": 5
         }

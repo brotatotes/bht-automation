@@ -1,44 +1,42 @@
 {
-    "timestamp": "12-19-2023 23:47:24",
+    "timestamp": "12-25-2023 20:31:58",
     "verseRef": "Matthew 13:4",
     "bestBHT": {
-        "bht": "In the parable of the sower, the imagery of the cornfield is used to illustrate the diverse conditions of people's hearts. The trodden pathway represents the wayside hearers who receive the seed without understanding, hindering their own comprehension of the word. These careless, negligent, and inattentive hearers are susceptible to the birds of Satan, who come to devour the seed. To avoid being like the wayside hearers, let us ensure that our hearts are receptive and attentive to the word of God, cultivating fertile ground for it to bear fruit in our lives.",
-        "wordCount": 94,
-        "quoteTokenProportion": 31.15,
-        "qualityScore": 1.3423592775639102,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+        "bht": "In this vivid scene, a cornfield slopes towards the water's edge, while an unpaved path traverses through it without any barrier. Thorn bushes, reminiscent of the crown of thorns, emerge from the midst of the swaying wheat. The seed that falls by the wayside signifies those who are careless and inattentive, much like birds devouring the seed. These individuals hinder the effectiveness of the seed, similar to how the birds consume it. The challenge lies in evading both the birds' consumption and the scorching heat that can cause the seed to wither.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.7547183527078536,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.69,
         "commentatorTierSimilarities": [
-            32.1,
-            25.69,
-            42.21
+            31.84,
+            36.85,
+            31.31
         ],
         "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
             "There was the undulating cornfield descending to the water's edge.",
-            "There was the trodden pathway running through the midst of it, with no fence or hedge to prevent the seed from falling here and there on either side of it or upon it.",
-            "There were the large bushes of thorn - the nabk, that kind of which tradition says that the crown of thorns was woven - springing up, like the fruit-trees of the more inland parts, in the very midst of the waving wheat."
+            "There was the trodden pathway running through the midst of it, with no fence or hedge to prevent the seed from falling here and there on either side of it or upon it; itself hard with the constant tramp of horse and mule and human feet.",
+            "There were the large bushes of thorn - the nabk, that kind which tradition says that the crown of thorns was woven - springing up, like the fruit-trees of the more inland parts, in the very midst of the waving wheat."
         ],
         "Philip Schaff": [
-            "By the way-side.",
-            "The seed was exposed, and quickly picked up by the birds.",
-            "The paths or roads pass close to the edge of the ploughed ground in unenclosed fields."
+            "The paths or roads pass close to the edge of the ploughed ground in unenclosed fields; or the reference may be to the path across the field on which the sower walked as he sowed.",
+            "In any case the seed was exposed, and quickly picked up by the birds."
         ],
         "Archibald T. Robertson": [
-            "Literally, \"in the sowing as to him,\" a neat Greek idiom unlike our English temporal conjunction.\" ",
-            "People will make paths along the edge of a ploughed field or even across it where the seed lies upon the beaten track.\" ",
-            "'Ate down.' We say, 'ate up.'"
+            "By the wayside (\u03c0\u03b1\u03c1\u03b1 \u03c4\u03b7\u03bd \u03bf\u03b4\u03bf\u03bd). People will make paths along the edge of a ploughed field or even across it where the seed lies upon the beaten track.",
+            "Devoured (\u03ba\u03b1\u03c4\u03b5\u03c6\u03b1\u03b3\u03b5\u03bd). 'Ate down.' We say, 'ate up.' Second aorist active indicative of \u03ba\u03b1\u03c4\u03b5\u03c3\u03b8\u03b9\u03c9 (defective verb)."
         ],
         "John Gill": [
-            "Whilst he was sowing, some seeds fell... by the wayside; by the common road, or private paths, which led through corn fields... and designs such hearers as are careless, negligent, and inattentive.",
-            "They hear without understanding, judgment, and affection.",
+            "By the wayside; by the common road, or private paths, which led through corn fields, in which Christ and his disciples walked... and designs such hearers as are careless, negligent, and inattentive.\" ",
+            "Mean the devils; so called, because their habitation is in the air... to hinder its usefulness, as fowls do, where seed is sowing.\" ",
             "Satan, and his principalities, and powers, rove about in the air, come down on earth, and seek whom they may devour."
         ],
         "John Wesley": [
             "The first danger is, that the birds will devour the seed.",
-            "A vast majority of those who hear the word of God, receive the seed as by the highway side.",
-            "Yet in all these cases, it is not the will of God that hinders, but their own voluntary perverseness."
+            "If it escape this, there is then another danger, namely, lest it be scorched, and wither away.",
+            "A vast majority of those who hear the word of God, receive the seed as by the highway side."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, the imagery of a cornfield is used to illustrate the various types of hearers of the word. The undulating cornfield represents the diverse conditions of people's hearts. The trodden pathway running through it symbolizes the wayside hearers who receive the seed without understanding or affection, making them susceptible to the birds of Satan that come to devour the seed. These careless, negligent, and inattentive hearers hinder their own understanding of the word, but it is not God's will that hinders them. So, let us make sure our hearts are fertile ground, attentive and receptive to the word of God, so that it may take root and bear fruit in our lives.",
-            "wordCount": 116,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.172516339165094,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.33,
+            "bht": "The image presented in this verse is that of a cornfield extending towards the water, with a trodden pathway running through it. The lack of a fence or hedge allows the seed to fall on both sides of the pathway or even on it directly. The commentator mentions the large thorn bushes, reminiscent of the crown of thorns, growing amidst the wheat. The seed that falls by the wayside, whether on a common road or private paths, represents those who are careless and inattentive. These individuals, likened to birds devouring the seed, fail to grasp the word of God. The challenge lies in avoiding the dangers of the birds devouring the seed and the scorching heat withering it away. Yet, a majority of those who hear the word of God receive it as they walk by the wayside.",
+            "wordCount": 138,
+            "quoteTokenProportion": 31.33,
+            "qualityScore": 1.6725994900424066,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
             "commentatorTierSimilarities": [
-                33.57,
-                22.45,
-                43.98
+                31.77,
+                34.94,
+                33.29
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In the imagery of a cornfield, the trodden pathway symbolizes the wayside hearers who receive the seed without understanding. These careless, negligent, and inattentive hearers hinder their own understanding of the word, but it is not God's will that hinders them. Let us make sure our hearts are fertile ground, receptive to the word of God, so that it may bear fruit in our lives despite the diverse conditions of people's hearts.",
-            "wordCount": 74,
-            "quoteTokenProportion": 43.64,
-            "qualityScore": 1.1924265473342974,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.99,
+            "bht": "In this depiction, a cornfield slopes down to the water, tracing an undulating path. The trodden pathway weaves through the field, lacking any barrier to prevent the seed from dispersing on either side or directly on the path itself. The presence of thorn bushes intermingled with the wheat adds to the scenery. The seed that falls by the wayside refers to those who are inattentive and careless, akin to birds devouring the seed. These individuals struggle to comprehend the word of God, introducing obstacles such as the birds' consumption and scorching heat. Nevertheless, a significant number of people receive the word while walking alongside the wayside.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5348314000293768,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
             "commentatorTierSimilarities": [
-                31.48,
-                21.83,
-                46.69
+                33.98,
+                36.96,
+                29.06
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In the parable of the sower, the imagery of a cornfield helps illustrate the different types of hearers of the word. The undulating cornfield with the trodden pathway represents the wayside hearers who receive the seed without understanding. These careless, negligent, and inattentive hearers hinder their own comprehension of the word. It is not God's will that hinders them; rather, they are susceptible to the birds of Satan who come to devour the seed. To avoid being like the wayside hearers, let us ensure that our hearts are receptive and attentive to the word of God, cultivating fertile ground for it to take root and bear fruit in our lives.",
-            "wordCount": 111,
-            "quoteTokenProportion": 36.62,
-            "qualityScore": 1.2979438178270442,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.5,
+            "bht": "In this imagery, a cornfield stretches towards the water, with a pathway running through it, not protected by a fence or hedge. Thorn bushes, like the kind believed to have been used for the crown of thorns, grow amidst the wheat. The seed that falls by the wayside represents those who are negligent and inattentive. These individuals, likened to birds devouring the seed, fail to receive and understand the word of God. They pose a danger to the growth of the seed, just as the birds hinder its usefulness by consuming it.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.677097837065002,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
             "commentatorTierSimilarities": [
-                31.46,
-                25.98,
-                42.56
+                31.19,
+                34.77,
+                34.04
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In the parable of the sower, the imagery of the cornfield is used to illustrate the diverse conditions of people's hearts. The trodden pathway represents the wayside hearers who receive the seed without understanding, hindering their own comprehension of the word. These careless, negligent, and inattentive hearers are susceptible to the birds of Satan, who come to devour the seed. To avoid being like the wayside hearers, let us ensure that our hearts are receptive and attentive to the word of God, cultivating fertile ground for it to bear fruit in our lives.",
-            "wordCount": 94,
-            "quoteTokenProportion": 31.15,
-            "qualityScore": 1.3423592775639102,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "bht": "In this vivid scene, a cornfield slopes towards the water's edge, while an unpaved path traverses through it without any barrier. Thorn bushes, reminiscent of the crown of thorns, emerge from the midst of the swaying wheat. The seed that falls by the wayside signifies those who are careless and inattentive, much like birds devouring the seed. These individuals hinder the effectiveness of the seed, similar to how the birds consume it. The challenge lies in evading both the birds' consumption and the scorching heat that can cause the seed to wither.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.7547183527078536,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
             "commentatorTierSimilarities": [
-                32.1,
-                25.69,
-                42.21
+                31.84,
+                36.85,
+                31.31
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The parable of the sower uses the imagery of a cornfield to depict various types of hearers. The trodden pathway represents wayside hearers who receive the seed without understanding. These careless, negligent, and inattentive hearers hinder their own comprehension, vulnerable to the birds of Satan that seek to devour the seed. Let us cultivate receptive hearts, ensuring that we are attentive to the word of God, so that it can take root and bear fruit in our lives, amidst the diverse conditions of people's hearts.",
-            "wordCount": 86,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.2545547838002002,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.06,
+            "bht": "The scene painted by this verse displays a cornfield reaching towards the water, with a pathway that lacks any form of enclosure. Within this field, thorn bushes, associated with the crown of thorns, grow alongside the wheat. The seed that falls by the wayside represents those who are negligent and inattentive, akin to birds feasting on the seed. These individuals impede the effectiveness of the seed, as the birds hinder its usefulness. The challenge lies in escaping both the birds' consumption and the scorching heat that can cause the seed to wither away.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6670818179700677,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
             "commentatorTierSimilarities": [
-                31.63,
-                26.21,
-                42.16
+                30.4,
+                37.45,
+                32.16
             ],
             "generationAttempt": 5
         }

@@ -1,23 +1,23 @@
 # Revelation 12:5 Commentary Help Text
 
 ## BHT:
-The depiction of a powerful and vigorous man child in this context highlights qualities of masculinity, strength, and authority. The imagery of ruling with a rod of iron signifies an unwavering reign, comparable to a shepherd guiding and protecting his flock. This may symbolize the universal expansion of the church's influence, where truth and righteousness prevail worldwide. It could also allude to a specific historical period, such as Constantine's reign, which marked the church's protection from persecution. Ultimately, the man child's purpose is to shepherd and care for all nations with resolute strength.
+The event holds deep significance, as it mirrors the divine Son and those united with Him. Emphasizing masculinity, the Son's power and vigor are highlighted. The Son tends to all nations with a rod of iron, ruling as a shepherd, not through force but protective care. His manhood is evident from birth, as He possesses the properties of strength. By wielding a scepter of iron, the Son ensures the universal spread of truth and righteousness, shepherding all nations under His guidance.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "On the deep significance of this term, see on :.-"
-2. "A rod is for long-continued obstinacy until they submit themselves to obedience [BENGEL]"
-3. "Any interpretation which ignores this must be wrong."
+1. "On the deep significance of this term."
+2. "A rod is for long-continued obstinacy until they submit themselves to obedience."
+3. "What took place primarily in the case of the divine Son of the woman, shall take place also in the case of those who are one with Him."
 
 ### Albert Barnes:
 1. "That the church would become universal - or that the principles of truth and righteousness would prevail everywhere on the earth."
-2. "That the ascendency of religion over the understandings and consciences of people would be irresistible - as firm as a government administered under a scepter of iron; yet, (c)That it would be rather of a character of protection than of force or violence, like the sway which a shepherd wields over his flock."
-3. "Why may we not suppose the reference to be to the time of Constantine, when the church came under his protection; when it was effectually and finally saved from pagan persecution; when it was rendered safe from the enemy that waited to destroy it?"
+2. "That the ascendency of religion over the understandings and consciences of people would be irresistible - as firm as a government administered under a scepter of iron; yet."
+3. "That it would be rather of a character of protection than of force or violence, like the sway which a shepherd wields over his flock."
 
 ### Marvin Vincent:
 1. "The correct reading is arsen, the neuter, not agreeing with the masculine individual but with the neuter of the genus. The object is to emphasize, not the sex, but the quality of Masculinity - power and vigor."
-2. "To rule. Lit., to shepherd or tend."
-3. "Was caught up."
+2. "To rule: lit., to shepherd or tend."
+3. "Was caught up. Compare Acts 23:10; Jude 1:23."
 
 ### Philip Schaff:
 1. "The object is not simply to tell us that the 'son' is a male, which as a son he must be, but to impress upon us the thought of his manhood, power, and force."
@@ -25,62 +25,57 @@ The depiction of a powerful and vigorous man child in this context highlights qu
 3. "The function of this Son is as a shepherd to tend all the nations with a sceptre of iron."
 
 ### Archibald T. Robertson:
-1. "She was delivered of a son (ετεκεν υιον)." 
-2. "A man child (αρσεν)." 
-3. "Who is to rule all the nations with a rod of iron (ος μελλε ποιμαινειν παντα τα εθνη εν ραβδω σιδηρα)."
+1. "She bore a son" (second aorist active indicative of τικτω).
+2. "Who is to rule all the nations with a rod of iron" (ος μελλε ποιμαινειν παντα τα εθνη εν ραβδω σιδηρα).
+3. "The Messiah, so far from being destroyed, is caught up to a share in God's throne" (Beckwith).
 
 ### John Gill:
-1. "Christ came as a King, yet his kingdom was not with observation in the days of his flesh."
-2. "This manly birth may design a more glorious appearing and breaking forth of the kingdom of Christ in the Roman empire."
-3. "The allusion seems to be to the shepherd's rod, with which he leads and feeds his sheep; the same word signifies both to rule and feed."
+1. "Christ in his members, who are called by his name, because he is formed in them, and they are the seed of the woman, the church; and many of these were brought forth to Christ by the church in the primitive times, who were a manly birth, hale, strong, and robust Christians."
+2. "This may be expressive even of the temporal government of Constantine, who was an heroic and victorious prince, and extended his dominions to the several parts of the world."
+3. "This may also take in the accession of Constantine himself to the imperial throne, which was the throne of God; for kings have their sceptres, thrones, and kingdoms from him, they his viceregents, and in some measure represent and are therefore called gods, and the children of the most high."
 
 ### John Wesley:
 1. "And she brought forth a man child — Even Christ, considered not in his person, but in his kingdom."
 2. "Who was to rule all nations — When his time is come."
-3. "And her child — Which was already in heaven, as were the woman and the dragon."
+3. "Was caught up to God — Taken utterly out of his reach."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 21:46:26
+- Timestamp: 12-25-2023 20:34:41
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 32.35%
-- BHT Quality Score: 1.4919548016701336
+- BHT Word Count: 82
+- BHT Commentary Usage: 35.59%
+- BHT Quality Score: 1.64851160760644
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'all', 'allude', 'also', 'an', 'and', 'as', 'authority', 'care', 'child', 'church', 'comparable', 'constantine', 'context', 'could', 'depiction', 'expansion', 'flock', 'for', 'from', 'guiding', 'highlights', 'his', 'historical', 'imagery', 'in', 'influence', 'iron', 'is', 'it', 'man', 'marked', 'masculinity', 'may', 'nations', 'of', 'period', 'persecution', 'powerful', 'prevail', 'protecting', 'protection', 'purpose', 'qualities', 'reign', 'resolute', 'righteousness', 'rod', 'ruling', 's', 'shepherd', 'signifies', 'specific', 'strength', 'such', 'symbolize', 'the', 'this', 'to', 'truth', 'ultimately', 'universal', 'unwavering', 'vigorous', 'where', 'which', 'with', 'worldwide']
-- ChatGPT injected words (significant words only) (46):
-	['allude', 'authority', 'care', 'child', 'church', 'comparable', 'constantine', 'context', 'depiction', 'expansion', 'flock', 'guiding', 'highlights', 'historical', 'imagery', 'influence', 'iron', 'man', 'marked', 'masculinity', 'nations', 'period', 'persecution', 'powerful', 'prevail', 'protecting', 'protection', 'purpose', 'qualities', 'reign', 'resolute', 'righteousness', 'rod', 'ruling', 's', 'shepherd', 'signifies', 'specific', 'strength', 'symbolize', 'truth', 'ultimately', 'universal', 'unwavering', 'vigorous', 'worldwide']
+- ChatGPT injected words (59):
+	['a', 'all', 'and', 'are', 'as', 'birth', 'but', 'by', 'care', 'deep', 'divine', 'emphasizing', 'ensures', 'event', 'evident', 'force', 'from', 'guidance', 'he', 'highlighted', 'him', 'his', 'holds', 'iron', 'is', 'it', 'manhood', 'masculinity', 'mirrors', 'nations', 'not', 'of', 'possesses', 'power', 'properties', 'protective', 'righteousness', 'rod', 'ruling', 's', 'scepter', 'shepherd', 'shepherding', 'significance', 'son', 'spread', 'strength', 'tends', 'the', 'those', 'through', 'to', 'truth', 'under', 'united', 'universal', 'vigor', 'wielding', 'with']
+- ChatGPT injected words (significant words only) (38):
+	['birth', 'care', 'deep', 'divine', 'emphasizing', 'ensures', 'event', 'evident', 'force', 'guidance', 'highlighted', 'holds', 'iron', 'manhood', 'masculinity', 'mirrors', 'nations', 'possesses', 'power', 'properties', 'protective', 'righteousness', 'rod', 'ruling', 's', 'scepter', 'shepherd', 'shepherding', 'significance', 'son', 'spread', 'strength', 'tends', 'truth', 'united', 'universal', 'vigor', 'wielding']
 
 ### Logs
-- Attempt 1 BHT: The significance of this verse lies in the portrayal of a powerful and vigorous figure, a man child who is destined to rule all nations with a rod of iron. The emphasis is not on the individual's sex, but rather on the qualities of masculinity - strength and authority. The image of ruling with a rod of iron symbolizes the firm and unyielding nature of this reign, akin to a shepherd tending and protecting his flock. The potential interpretation of this verse could be the universal expansion of the church's influence, where truth and righteousness prevail throughout the earth. This could also refer to a time in history, such as the reign of Constantine, when the church was safeguarded against pagan persecution. Ultimately, the man child's purpose is to shepherd and care for all nations with a scepter of strength.
-- 🔄 Revelation 12:5 (attempt 1, 142 words, 32.93% quotes quality score: 1.5782235533816598, V2 normalized quality score: 43.82, commentator tiers 1-3: 21.46%, 43.86%, 34.68%) 
+- Attempt 1 BHT: The verse speaks of a significant event that mirrors the divine Son, as well as those connected to Him. It emphasizes the quality of masculinity, representing power and vigor. The Son's role is to shepherd or tend, ruling all nations with a rod of iron. This rule is not one of force or violence, but protective, similar to a shepherd caring for his flock. This Son, who is already more than a child, possesses the properties of manhood from birth. He functions as a shepherd, tending to all nations with a scepter of iron. Thus, the verse suggests that the church will become universal, with the principles of truth and righteousness prevailing everywhere on earth.
+- 🔄 Revelation 12:5 (attempt 1, 116 words, 41.56% quotes quality score: 1.6545863397452487, V2 normalized quality score: 46.36, commentator tiers 1-3: 26.27%, 48.1%, 25.63%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The man child in this passage signifies a powerful and vigorous figure who is destined to rule all nations with a rod of iron, emphasizing qualities of masculinity, strength, and authority. The symbolism of ruling with a rod of iron implies an unwavering and decisive reign, akin to a shepherd tending and protecting his flock. This verse could represent the expansion and establishment of the church's influence, where truth and righteousness prevail throughout the earth, or even a historical time such as Constantine's reign, which safeguarded the church from persecution. The man child's purpose is to shepherd and care for all nations with unwavering strength.
-- 🔄 Revelation 12:5 (attempt 2, 108 words, 33.33% quotes quality score: 1.6352288639170518, V2 normalized quality score: 45.71, commentator tiers 1-3: 23.41%, 42.88%, 33.71%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The depiction of a powerful and vigorous man child in this context highlights qualities of masculinity, strength, and authority. The imagery of ruling with a rod of iron signifies an unwavering reign, comparable to a shepherd guiding and protecting his flock. This may symbolize the universal expansion of the church's influence, where truth and righteousness prevail worldwide. It could also allude to a specific historical period, such as Constantine's reign, which marked the church's protection from persecution. Ultimately, the man child's purpose is to shepherd and care for all nations with resolute strength.
-- 🔄 Revelation 12:5 (attempt 3, 97 words, 32.35% quotes quality score: 1.4919548016701336, V2 normalized quality score: 40.95, commentator tiers 1-3: 21.19%, 44.76%, 34.05%) 
+- Attempt 2 BHT: The significance of this event relates to the divine Son and those connected to Him. It highlights the quality of masculinity, representing power and vigor. The Son's role is to shepherd, ruling all nations with a rod of iron. This rule is protective, akin to a shepherd caring for his flock. The Son, already more than a child, possesses the properties of manhood from birth. He tends to all nations with a scepter of iron, suggesting the universal spread of truth and righteousness.
+- 🔄 Revelation 12:5 (attempt 2, 84 words, 34.55% quotes quality score: 1.6391328181126146, V2 normalized quality score: 45.84, commentator tiers 1-3: 28.32%, 45.88%, 25.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The man child in Revelation 12:5 represents a powerful figure destined to rule all nations with a rod of iron. This emphasizes qualities of masculinity, strength, and authority. Such a ruler would establish a firm and unwavering reign, similar to a shepherd guiding and protecting his flock. The symbolic imagery of ruling with a rod of iron suggests the universal expansion of the church's influence, where truth and righteousness prevail across the earth. This could also refer to a specific historical period, like Constantine's reign, which safeguarded the church from persecution. Ultimately, the man child's purpose is to shepherd and care for all nations with unwavering strength.
-- 🔄 Revelation 12:5 (attempt 4, 109 words, 28.57% quotes quality score: 1.5140375724705963, V2 normalized quality score: 41.68, commentator tiers 1-3: 23.14%, 42.6%, 34.26%) 
+- Attempt 3 BHT: The event holds deep significance, as it mirrors the divine Son and those united with Him. Emphasizing masculinity, the Son's power and vigor are highlighted. As a shepherd, He rules all nations with a rod of iron, symbolizing a protective rather than forceful leadership. The Son's properties of manhood are evident from birth. His role as a shepherd involves tending to all nations, maintaining order with a scepter of iron. This signifies the spreading of truth and righteousness across the earth.
+- 🔄 Revelation 12:5 (attempt 3, 83 words, 33.33% quotes quality score: 1.572982820587331, V2 normalized quality score: 43.64, commentator tiers 1-3: 29.14%, 46.41%, 24.46%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: In this passage, a powerful and vigorous figure is depicted as a man child destined to rule all nations with unwavering strength. This emphasizes qualities of masculinity, vigor, and authority. The imagery of ruling with a rod of iron signifies a firm and decisive reign, like that of a shepherd guiding and protecting his flock. This verse suggests the expansion of the church's influence, where righteousness and truth prevail universally, or even refers to a specific historical period, such as Constantine's reign, which safeguarded the church from persecution. The man child's ultimate purpose is to shepherd and care for all nations with resolute strength.
-- 🔄 Revelation 12:5 (attempt 5, 107 words, 28.17% quotes quality score: 1.5394094010038435, V2 normalized quality score: 42.53, commentator tiers 1-3: 22.44%, 41.5%, 36.06%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: This event holds deep significance, as it mirrors the divine Son and those united with Him. Emphasizing masculinity, the Son's power and vigor are highlighted. As a shepherd, He rules all nations with a rod of iron, symbolizing a protective rather than forceful leadership. The Son's properties of manhood are evident from birth. His role as a shepherd involves tending to all nations, maintaining order with a scepter of iron. This signifies the spreading of truth and righteousness across the earth.
+- 🔄 Revelation 12:5 (attempt 4, 83 words, 33.33% quotes quality score: 1.567276275104424, V2 normalized quality score: 43.45, commentator tiers 1-3: 28.95%, 46.22%, 24.83%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Revelation 12:5 bht prompt v0.8 (97 words, 32.35% quotes)
-- quality score: 1.4919548016701336, V2 normalized quality score: 40.95, commentator tiers 1-3: 21.19%, 44.76%, 34.05%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The event holds deep significance, as it mirrors the divine Son and those united with Him. Emphasizing masculinity, the Son's power and vigor are highlighted. The Son tends to all nations with a rod of iron, ruling as a shepherd, not through force but protective care. His manhood is evident from birth, as He possesses the properties of strength. By wielding a scepter of iron, the Son ensures the universal spread of truth and righteousness, shepherding all nations under His guidance.
+- 🔄 Revelation 12:5 (attempt 5, 82 words, 35.59% quotes quality score: 1.64851160760644, V2 normalized quality score: 46.16, commentator tiers 1-3: 27.5%, 47.75%, 24.76%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Revelation 12:5 bht prompt v0.8 (82 words, 35.59% quotes)
+- quality score: 1.64851160760644, V2 normalized quality score: 46.16, commentator tiers 1-3: 27.5%, 47.75%, 24.76%)

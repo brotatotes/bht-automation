@@ -1,75 +1,77 @@
 # Revelation 2:23 Commentary Help Text
 
 ## BHT:
-Those who faithfully follow this seductive and corrupt figure will face the punishment of being killed by a dreadful death. This judgment, whether through pestilence or divine intervention, will reveal the true extent of their wickedness. The speaker, God himself, declares the ability to search the hearts and thoughts of individuals, ensuring their true motives and actions are not hidden. Ultimately, all the churches will come to understand and acknowledge God's righteous judgment and the just consequences awaiting each individual.
+Those who adhere to her, rather than suffer her, are the ones threatened with death by pestilence, implying a sure and awful demise. God's attribute of searching the hearts and reins is also attributed to Christ, emphasizing that the punishment is rooted in a deep understanding of desires and thoughts. The judgment pronounced against this false church aims to make known the offenders' fate as widely as their scandal had spread. It is a reminder that God's judgments, which explore the most inward parts of humans, cannot be evaded.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Her proper adherents; not those who suffer her, but those who are begotten of her."
-2. "Kill with death is a Hebraism for slay with most sure and awful death; so 'dying thou shalt die.'"
-3. "The 'I' is strongly emphatical: 'that it is I am He who,' c."
+1. "Her proper adherents; not those who suffer her, but those who are begotten of her." (Commentary on Revelation 2:23)
+2. "Kill with death is a Hebraism for slay with most sure and awful death." (Commentary on Revelation 2:23)
+3. "God's peculiar attribute is given to Christ. The 'reins' are the seat of the desires, the 'heart,' that of the thoughts." (Commentary on Revelation 2:23)
 
 ### Albert Barnes:
-1. "A strong Hebraistic mode of expression, meaning that he would certainly destroy them."
+1. "It has been made a question whether the word 'children' here is to be taken literally or figuratively... If it is to be taken literally, it is in accordance with what is often threatened in the Scriptures, that children shall be visited with calamity for the sins of parents, and with what often occurs in fact, that they do thus suffer."
 2. "The design of this judgment will be so apparent that it will convince all that I know what is in the hearts of people, even the secret acts of wickedness that are concealed from human view."
-3. "I am he which searcheth the reins and hearts... a full proof that he claims this for himself."
+3. "There is nothing which more clearly pertains to God than the power of searching the heart... The word 'reins'... is commonly used in the plural to denote the kidneys, or the loins... the secrets of the soul... the repository of the more secret affections of the mind."
 
 ### Philip Schaff:
 1. "The truth is that the two classes are the same: they are in both cases those who partake of her spirit, and who follow her example."
-2. "And all the churches shall know that I am he which searcheth the reins and hearts."
-3. "The Lord tries the ‘reins and hearts,’ the most inward parts of men. From these the ‘works’ of men cannot be separated."
+2. "And all the churches shall know that I am he which searcheth the reins and hearts. [...] The wicked are not in the Lord’s thought, 'for God’s judgments are far above out of their sight, but all who ponder these things and lay them to heart' (Trench)."
+3. "The Lord tries the ‘reins and hearts,’ the most inward parts of men. From these the ‘works’ of men cannot be separated. His ‘works’ are the whole of man. The inward manifests itself in the outward: the value of the outward is dependent upon the inward."
 
 ### Archibald T. Robertson:
 1. "I will kill with death... in the sense of pestilence."
-2. "Either her actual children... or 'her spiritual progeny' who have completely accepted her Nicolaitan practices."
-3. "Shall come to know... as widely as the scandal had been."
+2. "The doom of the offenders was to be known as widely as the scandal had been."
+3. "Reins... quoted also with καρδιας."
 
 ### John Gill:
-1. "Her popes, cardinals, priests, Jesuits, monks, friars, and all that join in the Romish apostasy, they shall be killed with death; there shall be an utter extirpation of them in God's own time..."
-2. "They shall receive the righteous reward of their evil practices, which they have coloured over, and glossed with specious pretences of religion and holiness, and a zeal for God and his glory, when they only meant themselves, the gratifying their carnal lusts, and securing their worldly interests, and amassing riches and honours to themselves..."
-3. "Christ is omniscient, and does not judge according to the outward appearance of things, but knows the principles and ends of all actions, however covert they may be; so he is righteous in judging and in punishing, which will be according as men's works are; and not one shall escape his righteous judgment, nor the due desert of their sins, though the punishment of some may be greater than that of others."
+1. "Her popes, cardinals, priests, Jesuits, monks, friars, and all that join in the Romish apostasy, they shall be killed with death."
+2. "When their hidden things of darkness will be brought to light, and exposed by him."
+3. "Christ is omniscient, and does not judge according to the outward appearance of things, but knows the principles and ends of all actions, however covert they may be."
 
 ### John Wesley:
-1. "And I will kill her children — Those which she hath borne in adultery, and them whom she hath seduced."
+1. "And I will kill her children — Those which she hath borne in adultery, and them whom she hath seduced." 
 2. "With death — This expression denotes death by the plague, or by some manifest stroke of God's hand. Probably the remarkable vengeance taken on her children was the token of the certainty of all the rest."
 3. "And all the churches — To which thou now writest. Shall know that I search the reins — The desires. And hearts — Thoughts."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 21:39:45
+- Timestamp: 12-25-2023 20:34:38
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 34.43%
-- BHT Quality Score: 1.392037544122855
+- BHT Word Count: 91
+- BHT Commentary Usage: 39.44%
+- BHT Quality Score: 1.6700084312592036
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'ability', 'acknowledge', 'actions', 'all', 'and', 'are', 'awaiting', 'being', 'by', 'churches', 'come', 'consequences', 'corrupt', 'death', 'declares', 'divine', 'dreadful', 'each', 'ensuring', 'extent', 'face', 'faithfully', 'figure', 'follow', 'god', 'hearts', 'hidden', 'himself', 'individual', 'individuals', 'intervention', 'judgment', 'just', 'killed', 'motives', 'not', 'of', 'or', 'pestilence', 'punishment', 'reveal', 'righteous', 's', 'search', 'seductive', 'speaker', 'the', 'their', 'this', 'those', 'thoughts', 'through', 'to', 'true', 'ultimately', 'understand', 'whether', 'who', 'wickedness', 'will']
-- ChatGPT injected words (significant words only) (40):
-	['ability', 'acknowledge', 'actions', 'awaiting', 'churches', 'come', 'consequences', 'corrupt', 'death', 'declares', 'divine', 'dreadful', 'ensuring', 'extent', 'face', 'faithfully', 'figure', 'follow', 'god', 'hearts', 'hidden', 'individual', 'individuals', 'intervention', 'judgment', 'killed', 'motives', 'pestilence', 'punishment', 'reveal', 'righteous', 's', 'search', 'seductive', 'speaker', 'thoughts', 'true', 'ultimately', 'understand', 'wickedness']
+- ChatGPT injected words (71):
+	['a', 'adhere', 'against', 'aims', 'also', 'and', 'are', 'as', 'attribute', 'attributed', 'awful', 'be', 'by', 'cannot', 'christ', 'church', 'death', 'deep', 'demise', 'desires', 'emphasizing', 'evaded', 'explore', 'false', 'fate', 'god', 'had', 'hearts', 'her', 'humans', 'implying', 'in', 'inward', 'is', 'it', 'judgment', 'judgments', 'known', 'make', 'most', 'of', 'offenders', 'ones', 'parts', 'pestilence', 'pronounced', 'punishment', 'rather', 'reins', 'reminder', 'rooted', 's', 'scandal', 'searching', 'spread', 'suffer', 'sure', 'than', 'that', 'the', 'their', 'this', 'those', 'thoughts', 'threatened', 'to', 'understanding', 'which', 'who', 'widely', 'with']
+- ChatGPT injected words (significant words only) (43):
+	['adhere', 'aims', 'attribute', 'attributed', 'awful', 'christ', 'church', 'death', 'deep', 'demise', 'desires', 'emphasizing', 'evaded', 'explore', 'false', 'fate', 'god', 'hearts', 'humans', 'implying', 'inward', 'judgment', 'judgments', 'known', 'offenders', 'ones', 'parts', 'pestilence', 'pronounced', 'punishment', 'reins', 'reminder', 'rooted', 's', 'scandal', 'searching', 'spread', 'suffer', 'sure', 'thoughts', 'threatened', 'understanding', 'widely']
 
 ### Logs
-- Attempt 1 BHT: Those who faithfully follow this seductive and corrupt figure, whether they are her physical children or her spiritual successors, will face the severe punishment of being killed by a dreadful and certain death, such as a plague or divine judgment. This judgment will bring clarity and reveal the true nature of her followers' wickedness, proving that the speaker, who is none other than God himself, knows the depths of their hearts and the secrets of their actions. Indeed, the Lord's discerning gaze penetrates even the most inward parts of humanity, leaving no room for deceit or escape from the righteous consequences of their deeds. Ultimately, all the churches will come to understand and acknowledge that God, in his omniscience and fairness, judges according to the intentions and works of individuals, ensuring that each receives their just reward.
-- 🔄 Revelation 2:23 (attempt 1, 138 words, 36.0% quotes quality score: 1.4657815817452187, V2 normalized quality score: 40.08, commentator tiers 1-3: 18.83%, 33.52%, 47.65%) 
+- Attempt 1 BHT: Those who adhere to her, rather than suffer her, are the ones threatened with death by pestilence, implying a sure and awful demise. God's attribute of searching the hearts and reins is also attributed to Christ, emphasizing that the punishment is rooted in a deep understanding of desires and thoughts. The judgment pronounced against this false church aims to make known the offenders' fate as widely as their scandal had spread. It is a reminder that God's judgments, which explore the most inward parts of humans, cannot be evaded.
+- 🔄 Revelation 2:23 (attempt 1, 91 words, 39.44% quotes quality score: 1.6700084312592036, V2 normalized quality score: 46.87, commentator tiers 1-3: 31.44%, 37.77%, 30.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Those who faithfully follow this seductive figure, whether physically or spiritually, will face severe punishment. This judgment, whether through plague or divine intervention, will bring clarity and reveal the true nature of their wickedness. The speaker, none other than God, knows the depths of their hearts and actions. The Lord's discerning gaze leaves no room for deceit, ensuring that each receives their just reward. Ultimately, all the churches will understand that God judges based on intentions and works, ensuring justice for all.
-- 🔄 Revelation 2:23 (attempt 2, 83 words, 32.81% quotes quality score: 1.3834813544382274, V2 normalized quality score: 37.34, commentator tiers 1-3: 19.59%, 37.29%, 43.12%) 
+- Attempt 2 BHT: Those who are begotten of her, not those who suffer her, are her proper adherents. Kill with death is a Hebraism meaning to slay with a most sure and awful death, such as pestilence. The punishment is meant to be known as widely as the scandal had been, making it clear that God's judgments explore the desires and thoughts that lie within the hearts and reins of individuals. Ultimately, this passage serves as a reminder that the inward manifestations of the soul cannot be separated from its outward works.
+- 🔄 Revelation 2:23 (attempt 2, 90 words, 39.06% quotes quality score: 1.6985640689331818, V2 normalized quality score: 47.82, commentator tiers 1-3: 37.06%, 35.0%, 27.93%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: Those who are begotten of her, not those who suffer her, are her proper adherents. Kill with death is a Hebraism meaning to slay with a most sure and awful death, such as pestilence. The punishment aims to be known as widely as the scandal had spread. It serves as a reminder that God's judgments explore the desires and thoughts present within the hearts and reins of individuals. The inward manifestations of the soul are inseparable from its outward works.
+- 🔄 Revelation 2:23 (attempt 3, 81 words, 37.93% quotes quality score: 1.5142142432427432, V2 normalized quality score: 41.69, commentator tiers 1-3: 38.73%, 31.93%, 29.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Those who adhere to the influence of this seductive figure, whether physically or spiritually, will face the severe punishment of being killed with a certain and dreadful death. This judgment, whether through pestilence or divine intervention, will make clear the extent of their wickedness. The speaker, identified as God himself, declares that he alone possesses the ability to search the hearts and thoughts of individuals, ensuring that their true motives and actions are not hidden from him. Ultimately, all the churches will come to recognize God's righteous judgment and the just consequences awaiting each individual.
-- 🔄 Revelation 2:23 (attempt 3, 96 words, 38.89% quotes quality score: 1.3912454210339318, V2 normalized quality score: 37.6, commentator tiers 1-3: 19.86%, 35.8%, 44.34%) 
+- Attempt 4 BHT: Those who adhere to her, rather than suffer her, are threatened with death by pestilence. The punishment aims to be known as widely as the scandal had spread. It reveals that God's judgments explore the desires and thoughts present within the hearts and reins of individuals. The inward manifestations of the soul are inseparable from its outward works, underscoring the depth of divine discernment. The verse serves as a profound reminder of the ominous consequences and all-encompassing nature of God's judgment.
+- 🔄 Revelation 2:23 (attempt 4, 84 words, 34.92% quotes quality score: 1.530502025059787, V2 normalized quality score: 42.23, commentator tiers 1-3: 34.42%, 33.91%, 31.68%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: Those who are begotten of her, not those who suffer her, are her proper adherents. Kill with death is a Hebraism meaning to slay with a most sure and awful death, such as pestilence. The punishment is meant to be known as widely as the scandal had been, making it clear that God's judgments explore the desires and thoughts that lie within the hearts and reins of individuals. Ultimately, this serves as a reminder that the inward manifestations of the soul cannot be separated from its outward works.
+- 🔄 Revelation 2:23 (attempt 5, 89 words, 39.68% quotes quality score: 1.6680191803740383, V2 normalized quality score: 46.8, commentator tiers 1-3: 36.63%, 35.09%, 28.28%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Those who faithfully follow this seductive and corrupt figure will face the severe punishment of being killed by a dreadful and certain death. This judgment, whether through pestilence or divine intervention, will bring clarity and reveal the true nature of their wickedness. The speaker, none other than God himself, claims the ability to search the hearts and thoughts of individuals, ensuring that their true motives and actions are not hidden. Ultimately, all the churches will come to understand and acknowledge God's righteous judgment and the just consequences awaiting each individual.
-- 🔄 Revelation 2:23 (attempt 4, 91 words, 36.23% quotes quality score: 1.3877807620237366, V2 normalized quality score: 37.49, commentator tiers 1-3: 18.95%, 36.22%, 44.83%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Those who faithfully follow this seductive and corrupt figure will face the punishment of being killed by a dreadful death. This judgment, whether through pestilence or divine intervention, will reveal the true extent of their wickedness. The speaker, God himself, declares the ability to search the hearts and thoughts of individuals, ensuring their true motives and actions are not hidden. Ultimately, all the churches will come to understand and acknowledge God's righteous judgment and the just consequences awaiting each individual.
-- 🔄 Revelation 2:23 (attempt 5, 81 words, 34.43% quotes quality score: 1.392037544122855, V2 normalized quality score: 37.63, commentator tiers 1-3: 20.41%, 35.75%, 43.84%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Revelation 2:23 bht prompt v0.8 (81 words, 34.43% quotes)
-- quality score: 1.392037544122855, V2 normalized quality score: 37.63, commentator tiers 1-3: 20.41%, 35.75%, 43.84%)
+- ✅ Revelation 2:23 bht prompt v0.8 (91 words, 39.44% quotes)
+- quality score: 1.6700084312592036, V2 normalized quality score: 46.87, commentator tiers 1-3: 31.44%, 37.77%, 30.79%)

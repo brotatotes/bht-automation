@@ -1,7 +1,7 @@
 # Luke 8:52 Commentary Help Text
 
 ## BHT:
-The people were weeping and bewailing, as they thought the girl was dead. This is similar to the mourning seen in Mark 5:38. The mention of the lamentation by the Evangelists reinforces the belief in the resurrection. The actions of the mourners reveal the world's inclination to indulge and promote its faults. However, Jesus tells them not to weep, as the girl is not truly dead but merely sleeping. This separation of the soul from the body is better described as sleep rather than death.
+The people were weeping and bewailing, demonstrating their continuous sorrow. This kind of lamentation is also seen in Mark 5:38, highlighting its importance. The Evangelists mention the mourning in order to strengthen belief in the resurrection. While the mourners sought to honor the dead, it reveals the prevalent inclination to indulge and promote faults. Jesus consoles them, asking them not to weep, as the woman is not truly dead but in a temporary sleep, signaling a brief separation and a more fitting comparison to sleep rather than death.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -15,7 +15,8 @@ So, rightly, Rev. Compare on bewailing, Mark 5:38.
 3. "The Gentiles even thought that this was a way of soothing departed spirits; and hence we see how many corruptions were at that time spread throughout Judea."
 
 ### John Gill:
-1. "Weep not; neither in show, as the mourning women did, nor in reality, as the friends of the deceased."
+1. "Weep not; neither in show, as the mourning women did, nor in reality, as the friends of the deceased." 
+2. "She is not dead, but sleepeth."
 
 ### John Wesley:
 1. She is not dead but sleepeth — Her soul is not separated finally from the body; and this short separation is rather to be called sleep than death.
@@ -24,38 +25,39 @@ So, rightly, Rev. Compare on bewailing, Mark 5:38.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:52
+- Timestamp: 12-25-2023 20:33:12
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 34.48%
-- BHT Quality Score: 1.1823905925212919
+- BHT Word Count: 87
+- BHT Commentary Usage: 32.81%
+- BHT Quality Score: 1.2929938737252624
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['actions', 'and', 'as', 'belief', 'better', 'bewailing', 'body', 'but', 'by', 'dead', 'death', 'described', 'evangelists', 'faults', 'from', 'girl', 'however', 'in', 'inclination', 'indulge', 'is', 'its', 'jesus', 'lamentation', 'mark', 'mention', 'merely', 'mourners', 'mourning', 'not', 'of', 'people', 'promote', 'rather', 'reinforces', 'resurrection', 'reveal', 's', 'seen', 'separation', 'similar', 'sleep', 'sleeping', 'soul', 'tells', 'than', 'the', 'them', 'they', 'this', 'thought', 'to', 'truly', 'was', 'weep', 'weeping', 'were', 'world']
-- ChatGPT injected words (significant words only) (38):
-	['actions', 'belief', 'better', 'bewailing', 'body', 'dead', 'death', 'described', 'evangelists', 'faults', 'girl', 'inclination', 'indulge', 'jesus', 'lamentation', 'mark', 'mention', 'merely', 'mourners', 'mourning', 'people', 'promote', 'reinforces', 'resurrection', 'reveal', 's', 'seen', 'separation', 'similar', 'sleep', 'sleeping', 'soul', 'tells', 'thought', 'truly', 'weep', 'weeping', 'world']
+- ChatGPT injected words (64):
+	['a', 'also', 'and', 'as', 'asking', 'belief', 'bewailing', 'brief', 'but', 'comparison', 'consoles', 'continuous', 'dead', 'death', 'demonstrating', 'evangelists', 'faults', 'fitting', 'highlighting', 'honor', 'importance', 'in', 'inclination', 'indulge', 'is', 'it', 'its', 'jesus', 'kind', 'lamentation', 'mark', 'mention', 'more', 'mourners', 'mourning', 'not', 'of', 'order', 'people', 'prevalent', 'promote', 'rather', 'resurrection', 'reveals', 'seen', 'separation', 'signaling', 'sleep', 'sorrow', 'sought', 'strengthen', 'temporary', 'than', 'the', 'their', 'them', 'this', 'to', 'truly', 'weep', 'weeping', 'were', 'while', 'woman']
+- ChatGPT injected words (significant words only) (43):
+	['asking', 'belief', 'bewailing', 'brief', 'comparison', 'consoles', 'continuous', 'dead', 'death', 'demonstrating', 'evangelists', 'faults', 'fitting', 'highlighting', 'honor', 'importance', 'inclination', 'indulge', 'jesus', 'kind', 'lamentation', 'mark', 'mention', 'mourners', 'mourning', 'order', 'people', 'prevalent', 'promote', 'resurrection', 'reveals', 'seen', 'separation', 'signaling', 'sleep', 'sorrow', 'sought', 'strengthen', 'temporary', 'truly', 'weep', 'weeping', 'woman']
 
 ### Logs
-- Attempt 1 BHT: The people were weeping and bewailing, as they thought the girl was dead. This is similar to the mourning seen in Mark 5:38. The mention of the lamentation by the Evangelists serves to reinforce the belief in the resurrection. It is interesting to note that the actions of the mourners, adorning the grave and soothing departed spirits, reveal the world's inclination to indulge and promote its faults. However, Jesus tells them not to weep, as the girl is not truly dead but merely sleeping. This separation of the soul from the body is better described as sleep rather than death.
-- 🔄 Luke 8:52 (attempt 1, 100 words, 32.35% quotes quality score: 1.1730870046129862, V2 normalized quality score: 30.35, commentator tiers 1-3: 34.6%, 0.0%, 65.4%) 
+- Attempt 1 BHT: The people were weeping and bewailing, expressing their deep sorrow for the loss of the deceased. This kind of lamentation was not uncommon, as seen in Mark 5:38. The mention of the lamentation by the Evangelists serves to strengthen the belief in the resurrection. These mourners sought to honor the dead, but this tendency to indulge and promote faults was prevalent in society. The Gentiles even believed that mourning in this way could soothe departed spirits, indicating the corruption that had spread throughout Judea. However, Jesus tells them not to weep, as the woman is not truly dead, but rather in a temporary sleep. The separation of her soul from her body is brief, and this can be better described as sleep rather than death.
+- 🔄 Luke 8:52 (attempt 1, 124 words, 35.71% quotes quality score: 1.0648345926274763, V2 normalized quality score: 26.75, commentator tiers 1-3: 32.31%, 0.0%, 67.69%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The people were weeping and bewailing, as they thought the girl was dead. This is similar to the mourning seen in Mark 5:38. The mention of the lamentation by the Evangelists reinforces the belief in the resurrection. The actions of the mourners reveal the world's inclination to indulge and promote its faults. However, Jesus tells them not to weep, as the girl is not truly dead but merely sleeping. This separation of the soul from the body is better described as sleep rather than death.
-- 🔄 Luke 8:52 (attempt 2, 85 words, 34.48% quotes quality score: 1.1823905925212919, V2 normalized quality score: 30.66, commentator tiers 1-3: 38.14%, 0.0%, 61.86%) 
+- Attempt 2 BHT: The people were weeping and bewailing, as the imperfect verbs indicate their continuous sorrow. This kind of lamentation is also mentioned in Mark 5:38, further reinforcing its significance. The Evangelists include the mention of the people's sorrow to reinforce the belief in the resurrection. The mourners aimed to honor the deceased, but it reveals the prevalent tendency to indulge and promote faults. The Gentiles even saw mourning as a way to appease departed spirits, a reflection of the widespread corruption in Judea. Jesus reassures them not to weep, as the woman is not truly dead but in a temporary sleep, emphasizing that the separation is brief and comparable to sleep rather than death.
+- 🔄 Luke 8:52 (attempt 2, 113 words, 28.57% quotes quality score: 1.136065709016126, V2 normalized quality score: 29.12, commentator tiers 1-3: 43.52%, 0.0%, 56.48%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As the people wept and bewailed, it is reminiscent of the mourning mentioned in Mark 5:38. The Evangelists' mention of the lamentation reinforces the belief in the resurrection. It is interesting to observe how the actions of the mourners showcase the world's inclination to indulge and promote its faults. Jesus comforts them, urging them not to weep since the girl is not truly dead but merely sleeping. This separation of the soul from the body is better described as sleep rather than death.
-- 🔄 Luke 8:52 (attempt 3, 83 words, 31.03% quotes quality score: 1.1674219571358537, V2 normalized quality score: 30.16, commentator tiers 1-3: 36.21%, 0.0%, 63.79%) 
+- Attempt 3 BHT: The people were weeping and bewailing, as indicated by the imperfect verbs describing their continuous sorrow. This type of lamentation is mentioned in Mark 5:38, showing its significance. The Evangelists include the mention of mourning to strengthen the belief in resurrection. Although the mourners aimed to honor the deceased, it reveals the prevalent tendency to indulge and promote faults. Jesus reassures them not to weep, as the woman is not truly dead but in a temporary sleep, emphasizing the brevity and similarity with slumber instead of death.
+- 🔄 Luke 8:52 (attempt 3, 86 words, 29.23% quotes quality score: 1.2288414366480405, V2 normalized quality score: 32.2, commentator tiers 1-3: 47.0%, 0.0%, 53.0%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Weeping and bewailing, the people mourned for the girl's apparent death, similar to what was seen in Mark 5:38. The mention of lamentation by the Evangelists serves to strengthen the belief in resurrection. Interestingly, the actions of the mourners reveal the world's inclination to indulge and promote its faults. However, Jesus reassures them not to weep, for the girl is just sleeping, and this temporary separation of soul from body can be better described as sleep rather than death.
-- 🔄 Luke 8:52 (attempt 4, 80 words, 36.67% quotes quality score: 1.114370344837745, V2 normalized quality score: 28.4, commentator tiers 1-3: 36.97%, 0.0%, 63.03%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Weeping and bewailing in grief, the people expressed their sorrow for the apparent death of the girl. This mournful scene aligns with the mourning depicted in Mark 5:38. By mentioning the lamentation, the Evangelists aimed to reinforce the belief in resurrection. The actions of the mourners shed light on the world's tendency to indulge and promote its own faults. However, Jesus offers solace, urging them not to weep as the girl is not truly deceased but merely in a state of sleep. This represents a temporary separation of the soul from the body, akin to slumber rather than eternal death.
-- 🔄 Luke 8:52 (attempt 5, 100 words, 31.51% quotes quality score: 1.1238853309094265, V2 normalized quality score: 28.71, commentator tiers 1-3: 36.12%, 0.0%, 63.88%) 
+- Attempt 4 BHT: The people were weeping and bewailing, demonstrating their continuous sorrow. This kind of lamentation is also seen in Mark 5:38, highlighting its importance. The Evangelists mention the mourning in order to strengthen belief in the resurrection. While the mourners sought to honor the dead, it reveals the prevalent inclination to indulge and promote faults. Jesus consoles them, asking them not to weep, as the woman is not truly dead but in a temporary sleep, signaling a brief separation and a more fitting comparison to sleep rather than death.
+- 🔄 Luke 8:52 (attempt 4, 87 words, 32.81% quotes quality score: 1.2929938737252624, V2 normalized quality score: 34.34, commentator tiers 1-3: 47.26%, 0.0%, 52.74%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 8:52 bht prompt v0.8 (85 words, 34.48% quotes)
-- quality score: 1.1823905925212919, V2 normalized quality score: 30.66, commentator tiers 1-3: 38.14%, 0.0%, 61.86%)
+- Attempt 5 BHT: The people were weeping and bewailing, their continuous grief evident from the imperfect verbs used. This kind of lamentation is also mentioned in Mark 5:38, emphasizing its significance. The Evangelists mention the mourning to enhance belief in the resurrection. While the mourners intended to honor the deceased, it exposes the prevalent tendency to indulge and promote faults. Jesus reassures them, urging them not to weep, as the woman is not truly dead but in a temporary sleep, implying a brief separation akin to slumber rather than death.
+- 🔄 Luke 8:52 (attempt 5, 86 words, 32.84% quotes quality score: 1.1942870016327856, V2 normalized quality score: 31.05, commentator tiers 1-3: 45.33%, 0.0%, 54.67%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 8:52 bht prompt v0.8 (87 words, 32.81% quotes)
+- quality score: 1.2929938737252624, V2 normalized quality score: 34.34, commentator tiers 1-3: 47.26%, 0.0%, 52.74%)

@@ -1,24 +1,23 @@
 {
-    "timestamp": "12-22-2023 23:29:05",
+    "timestamp": "12-25-2023 20:32:48",
     "verseRef": "Mark 14:64",
     "bestBHT": {
-        "bht": "Not all members of the Council were present during the meeting that sentenced Jesus to death, as Joseph of Arimathea, a good and just man, did not give his consent. It is likely that he, along with Nicodemus, chose to absent themselves from the meeting, knowing that their voices would not be heard. The details of this account must be carefully examined to fully grasp the magnitude of the indignities against Jesus. However, the majority of the Council voted in favor of Jesus' death.",
-        "wordCount": 84,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.489508329859318,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+        "bht": "The intense atmosphere around Jesus' trial and subsequent condemnation for blasphemy demanded careful observation of every word and the unanimous verdict rendered against Him, except from Joseph of Arimathea. The absence of Joseph and Nicodemus, who exhibited previous sympathy for Jesus, left Jesus alone in facing the condemning judgment. The collective agreement sealed Jesus' fate, leading to the fulfillment of prophecy and His ultimate sacrifice for the salvation of humanity.",
+        "wordCount": 70,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.5267267166637088,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.11,
         "commentatorTierSimilarities": [
-            75.71,
+            49.9,
             0.0,
-            24.29
+            50.1
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Yet not absolutely all; for Joseph of",
-            "Arimathea, 'a good man and a just,' was one of that Council, and 'he was not a consenting party to the counsel and deed of them,'",
-            "Probably he absented himself, and Nicodemus also, from this meeting of the Council, the temper of which they would know too well to expect their voice to be listened to;",
+            "Ye have heard the blasphemy.\" ",
+            "What think ye? Say what the verdict is to be.\" ",
             "Every word here must be carefully observed, and the several accounts put together, that we may lose none of the awful indignities about to be described."
         ],
         "Marvin Vincent": [
@@ -30,9 +29,9 @@
             "But all who were present voted for the death of Jesus."
         ],
         "John Gill": [
-            "Ye have heard the blasphemy.",
-            "What think ye?",
-            "And they all condemned him to be guilty of death."
+            "Ye have heard the blasphemy,.... The 'manifest' blasphemy.",
+            "And they all condemned him to be guilty of death.",
+            "excepting Joseph of Arimathea."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -52,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Not all members of the Council were present during the meeting that sentenced Jesus to death, as Joseph of Arimathea, a good and just man, did not give his consent. It is likely that he, along with Nicodemus, chose to absent themselves from the meeting, knowing that their voices would not be heard. The details of this account must be carefully examined to fully grasp the magnitude of the indignities against Jesus. However, the majority of the Council voted in favor of Jesus' death.",
-            "wordCount": 84,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.489508329859318,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "bht": "The events leading up to Jesus' crucifixion were filled with intense judgment and disbelief from those present. The accusations of blasphemy rang loudly, prompting the question of the verdict. The gravity of the situation required careful attention to every word, ensuring that none of the awful indignities about to unfold were overlooked. While Joseph of Arimathea and Nicodemus were notably absent, all present voted in agreement for Jesus' death, except for Joseph of Arimathea. The weight of their unified condemnation sentenced Jesus to death, ultimately leading to the fulfillment of prophecy and the salvation it brought.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.4653450931038376,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
             "commentatorTierSimilarities": [
-                75.71,
+                48.37,
                 0.0,
-                24.29
+                51.63
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Not all members of the Council were present during the meeting that sentenced Jesus to death, as Joseph of Arimathea, a good and just man, did not give his consent. It is likely that he, along with Nicodemus, chose to absent themselves from the meeting, knowing that their voices would not be heard. The majority of the Council voted in favor of Jesus' death, condemning him as guilty of blasphemy. Examining the full account is important to grasp the magnitude of the indignities inflicted upon Jesus.",
-            "wordCount": 86,
-            "quoteTokenProportion": 47.54,
-            "qualityScore": 1.583737383711858,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.0,
+            "bht": "The intense atmosphere around Jesus' trial and subsequent condemnation for blasphemy demanded careful observation of every word and the unanimous verdict rendered against Him, except from Joseph of Arimathea. The absence of Joseph and Nicodemus, who exhibited previous sympathy for Jesus, left Jesus alone in facing the condemning judgment. The collective agreement sealed Jesus' fate, leading to the fulfillment of prophecy and His ultimate sacrifice for the salvation of humanity.",
+            "wordCount": 70,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.5267267166637088,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.11,
             "commentatorTierSimilarities": [
-                70.76,
+                49.9,
                 0.0,
-                29.24
+                50.1
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Not all members of the Council were present during the meeting that sentenced Jesus to death. Joseph of Arimathea, described as a good and just man, did not give his consent. It is likely that he and Nicodemus chose to absent themselves from the meeting, knowing that their voices would not be heard. The majority of the Council voted in favor of Jesus' death, condemning him as guilty of blasphemy. The full account reveals the gravity of the indignities inflicted upon Jesus.",
-            "wordCount": 82,
-            "quoteTokenProportion": 46.55,
-            "qualityScore": 1.6007694310005847,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.57,
+            "bht": "The gravity of the situation was palpable as the accusations of blasphemy hung in the air, prompting the question of the impending verdict. Each word spoken had to be carefully observed, ensuring that none of the awful indignities about to unfold were overlooked. Despite the absence of Joseph of Arimathea and Nicodemus, all those present unanimously voted for Jesus' death, save for Joseph of Arimathea. This unified condemnation sealed Jesus' fate, fulfilling prophecy and leading to His sacrificial death for the redemption of mankind.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.4411327107054293,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
             "commentatorTierSimilarities": [
-                66.34,
+                52.07,
                 0.0,
-                33.66
+                47.93
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Not all members of the Council were present during the meeting that sentenced Jesus to death. Joseph of Arimathea, a good and just man, did not consent to this decision. It is likely that he, along with Nicodemus, chose to absent themselves from the meeting, knowing their voices would not be heard. The majority of the Council voted in favor of Jesus' death, considering him guilty of blasphemy. Examining the complete account is crucial to fully comprehend the magnitude of the indignities suffered by Jesus.",
-            "wordCount": 85,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.533633081981585,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "bht": "As the accusations of blasphemy echoed, the weight of the situation demanded a careful observation of every word and a collective verdict. The absence of Joseph of Arimathea and Nicodemus, possibly due to their sympathy for Jesus, left Him vulnerable in facing the unanimous vote for His death. This unified condemnation decisively sealed Jesus' fate, leading to the fulfillment of prophecy and His ultimate sacrifice for the redemption of humanity.",
+            "wordCount": 70,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.4264903733958578,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.77,
             "commentatorTierSimilarities": [
-                70.19,
+                51.5,
                 0.0,
-                29.81
+                48.5
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Not all members of the Council were present during the meeting that sentenced Jesus to death. Joseph of Arimathea, a good and just man, did not consent to the counsel and deed. He likely chose to absent himself from the Council, aware that his voice would not be acknowledged. The majority of the Council approved the death of Jesus, finding him guilty of blasphemy. Carefully examining the complete account is necessary to comprehend the weight of the indignities endured by Jesus.",
-            "wordCount": 81,
-            "quoteTokenProportion": 38.18,
-            "qualityScore": 1.5155995548109698,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "bht": "The accusation of blasphemy hung in the air, leading to a crucial question about the impending verdict. The severity of the situation required a diligent examination of each spoken word to ensure the gravity of the upcoming events was fully perceived. Although Joseph of Arimathea and Nicodemus were notably absent, their sympathetic inclinations set them apart from the unanimous condemnation of Jesus to death. This collective decision played a pivotal role in fulfilling prophecy and ultimately resulted in Jesus' sacrificial death for the salvation of mankind.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.3212428234257647,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.27,
             "commentatorTierSimilarities": [
-                69.65,
+                50.61,
                 0.0,
-                30.35
+                49.39
             ],
             "generationAttempt": 5
         }

@@ -1,22 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:27:28",
+    "timestamp": "12-25-2023 20:32:45",
     "verseRef": "Mark 13:15",
     "bestBHT": {
-        "bht": "When faced with urgency, swift action is required, as seen in the instruction given. Those on the housetop should refrain from entering the house or gathering belongings. This vivid imagery emphasizes the criticality of the situation. The mention of the housetop highlights the need to take external steps, underscoring the urgency. It is a call for immediate action, leaving no room for delay or distraction, but rather a focused response to the impending danger.",
-        "wordCount": 74,
-        "quoteTokenProportion": 39.29,
-        "qualityScore": 0.8954689732088614,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.12,
+        "bht": "Jesus cautions his followers of the imminent destruction of Jerusalem. He advises them not to return to their houses or take anything with them, emphasizing the urgency of the situation. The rooftop escape symbolizes the necessity for immediate action, warning against the temptation to save personal belongings and the consequences of delaying their escape. It is crucial to prioritize their safety above all else, leaving behind possessions. This aligns with the idea in Matthew 24:17, stressing the need for quick action and abandoning material belongings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.055625904883178,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.44,
         "commentatorTierSimilarities": [
-            53.37,
-            22.91,
-            23.72
+            45.35,
+            17.34,
+            37.31
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Let him that is on the housetop not get down into the house, neither enter therein, to take any thing out of his house\u2014that is, let him take the outside flight of steps from the roof to the ground; a graphic way of denoting the extreme urgency of the case..."
+            "Let him that is on the housetop not get down into the house, neither enter therein, to take any thing out of his house.\" ",
+            "Let him take the outside flight of steps from the roof to the ground; a graphic way of denoting the extreme urgency of the case.",
+            "The danger of being tempted, by the desire to save his property, to delay till escape should become impossible."
         ],
         "Albert Barnes": [
             "On the house-top - See the notes at Matthew 9:1-8."
@@ -47,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 13:15, the urgency of the situation is emphasized by the command for those on the housetop not to go down into the house or bring anything with them. This graphic imagery highlights the necessity for immediate action in response to the impending danger. The commentators also point out that the phrase on the housetop refers to taking the outside flight of steps from the roof to the ground, further emphasizing the urgency of the situation.",
-            "wordCount": 76,
-            "quoteTokenProportion": 45.1,
-            "qualityScore": 1.271742989619938,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.63,
+            "bht": "In Mark 13:15, Jesus warns his followers about the impending destruction of Jerusalem, advising them to not even go back into their houses or take anything with them. The urgency of the situation is emphasized by the suggestion to take the outside flight of steps from the roof to the ground, showing that there is no time to waste. The danger lies in being tempted to save one's property and delaying their escape until it is too late. Instead, they must prioritize their safety above all else. This verse echoes the sentiment in Matthew 24:17, emphasizing the need for immediate action and leaving behind personal possessions.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 1.0709945441606394,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.95,
             "commentatorTierSimilarities": [
-                56.3,
-                22.02,
-                21.69
+                48.39,
+                17.24,
+                34.36
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In regards to the urgency of the situation in the verse, it is advised that those on the housetop should not go down into the house or bring along any belongings. This vivid imagery magnifies the necessity for immediate action. Additionally, the phrase on the housetop refers to taking the outside flight of steps from the roof to the ground, further underlining the pressing nature of the circumstance.",
-            "wordCount": 68,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.184033713512841,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.71,
+            "bht": "Jesus cautions his followers of the imminent destruction of Jerusalem. He advises them not to return to their houses or take anything with them, emphasizing the urgency of the situation. The rooftop escape symbolizes the necessity for immediate action, warning against the temptation to save personal belongings and the consequences of delaying their escape. It is crucial to prioritize their safety above all else, leaving behind possessions. This aligns with the idea in Matthew 24:17, stressing the need for quick action and abandoning material belongings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.055625904883178,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.44,
             "commentatorTierSimilarities": [
-                49.42,
-                24.64,
-                25.94
+                45.35,
+                17.34,
+                37.31
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When faced with a time of great urgency, one must heed the cautionary words of the advice given in Mark 13:15. It is stressed that those situated on the housetop should refrain from descending into the house or gathering any possessions. This vivid imagery serves to emphasize the pressing need for immediate action, leaving no room for delay or hesitation. The reference to the housetop also signifies the significance of taking the external flight of steps from the roof to the ground, further highlighting the gravity of the situation at hand.",
-            "wordCount": 90,
-            "quoteTokenProportion": 36.76,
-            "qualityScore": 1.0945507131629602,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.74,
+            "bht": "In Mark 13:15, Jesus cautions his followers about the impending destruction of Jerusalem. He advises them not to go back into their houses or take anything with them, emphasizing the extreme urgency of the situation. This warning reflects the danger of being tempted to save their belongings, which could ultimately delay their escape until it becomes impossible. The severity of the circumstances is highlighted by the suggestion to take the outside flight of steps from the roof, indicating the need for immediate action and leaving everything behind.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.0365089702604016,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.81,
             "commentatorTierSimilarities": [
-                48.49,
-                26.22,
-                25.29
+                48.74,
+                13.02,
+                38.24
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In times of urgency, one must not hesitate but act swiftly, as advised in the passage. The command for those on the housetop to refrain from going inside or taking any belongings underscores the critical nature of the situation. The imagery of the housetop depicts the need to take the external flight of steps, emphasizing the urgency. It is a call to immediate action, leaving no time for delay or distraction, but rather a focused response to the impending danger.",
-            "wordCount": 80,
-            "quoteTokenProportion": 38.6,
-            "qualityScore": 1.010372769317983,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.94,
+            "bht": "In the face of imminent destruction, Jesus urges his disciples to prioritize their safety above all else. He warns them not to linger in their houses or retrieve any possessions, emphasizing the critical urgency of the situation. The temptation to save their belongings may result in a detrimental delay in their escape. The imagery of the rooftop escape underscores the necessity for swift action, leaving no room for hesitation or attachment to material possessions. This echoes the sentiment in a parallel passage, emphasizing the need for immediate abandonment of personal belongings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 0.9620080358036188,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.33,
             "commentatorTierSimilarities": [
-                56.54,
-                19.59,
-                23.87
+                46.39,
+                14.6,
+                39.02
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When faced with urgency, swift action is required, as seen in the instruction given. Those on the housetop should refrain from entering the house or gathering belongings. This vivid imagery emphasizes the criticality of the situation. The mention of the housetop highlights the need to take external steps, underscoring the urgency. It is a call for immediate action, leaving no room for delay or distraction, but rather a focused response to the impending danger.",
-            "wordCount": 74,
-            "quoteTokenProportion": 39.29,
-            "qualityScore": 0.8954689732088614,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.12,
+            "bht": "In the face of impending danger, Jesus urges his followers not to return to their houses or take anything with them. The urgency of the situation is underscored by the suggestion to take the outside flight of steps from the roof to the ground. This vivid imagery depicts the extreme urgency of the matter at hand, cautioning against the temptation to prioritize personal property over their safety. It is crucial to act swiftly and prioritize their escape rather than being weighed down by material possessions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 0.9976816170101863,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.52,
             "commentatorTierSimilarities": [
-                53.37,
-                22.91,
-                23.72
+                44.32,
+                13.32,
+                42.36
             ],
             "generationAttempt": 5
         }

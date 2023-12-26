@@ -1,70 +1,70 @@
 # Matthew 27:1 Commentary Help Text
 
 ## BHT:
-As dawn broke, the Sanhedrin promptly held a formal meeting to condemn Jesus, thereby ratifying the previous night's illegal trial. They sought to find a charge that would not violate Roman laws and settled on Jesus' claim of being the King of the Jews. This accusation compelled Pilate to grant his consent. The Pharisees meticulously followed formalities despite their unjust intentions. Swiftly condemning Jesus, they wasted no time in executing their malevolent plan. This earthly condemnation would ultimately serve to nullify our own heavenly condemnation.
+After the break of dawn, the Sanhedrin swiftly held a meeting to ratify the illegal trial during the night and formally condemn Jesus. They took counsel to determine how they could deliver him to the Roman emperor and put him to death. Their plan was to seek Pilate's consent to their sentence and accuse Jesus of claiming to be the King of the Jews or the Son of God if necessary. They executed their wicked design promptly, choosing crucifixion as the most ignominious and painful death.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
-1. "Peter’s last denial was probably not far from three o’clock a. m., or near the break of day." (27 words)
-2. "They therefore 'consulted,' or took counsel together, to determine on what pretence they could deliver him to the Roman emperor." (27 words)
-3. "On a charge of 'blasphemy' they knew he could not, as that was not an offence against the Roman laws." (19 words)
+1. "The chief priests and elders of the people took counsel - They agreed that he deserved to die, 'on a charge of blasphemy,' yet they did not dare to put him to death by stoning, as they did afterward Stephen Acts 7:0... They therefore 'consulted,' or took counsel together, to determine on what pretence they could deliver him to the Roman emperor."
+2. "They fixed on... 'that of perverting the nation, and of forbidding to give tribute to Caesar'... On this accusation... they supposed Pilate could be induced to condemn Jesus."
+3. "To put him to death - To devise some way by which he might be put to death under the authority of the Roman governor."
 
 ### John Calvin:
-1. "By so doing, they observe the form of judicial proceedings, that they may not be suspected of undue haste."
-2. "As soon as it was daylight, they condemned Christ to death, and did not lose a moment in earnestly putting into execution their wicked design."
-3. "It was proper that the Son of God should be solemnly condemned by an earthly judge, that he might efface our condemnation in heaven."
+1. "But it is probable, that when Christ had been led away from their council, they immediately held a consultation, and, without long delay, resolved what they would do; for we have been already told at what time Christ went out from them and met Peter, which was after the cock-crowing, and just as day was breaking."
+2. "The Evangelists, therefore, do not mean that they removed from the place, but only relate, that as soon as it was daylight, they condemned Christ to death, and did not lose a moment in earnestly putting into execution their wicked design."
+3. "For the stoning of Stephen (Acts 7:59) took place in a seditious manner, as happens in cases of tumult; but it was proper that the Son of God should be solemnly condemned by an earthly judge, that he might efface our condemnation in heaven."
 
 ### Philip Schaff:
 1. "Probably about sunrise, since the twilight is short in that latitude."
 2. "It is characteristic of Pharisaism to be most formal when most unjust."
-3. "Their plan appears to have been: 1. To ask Pilate’s consent, without inquiry, to their sentence of death (John 18:30). 2. If necessary, to make the vague charge, that Jesus claimed to be King of the Jews (Matthew 27:11). This was the ground on which they forced Pilate to consent. 3. Another charge mentioned by John (John 19:7), that He claimed to be the Son of God, may have been determined on, in case He denied the political character of His Messiahship. But it had no effect, and the other accusation was resumed."
+3. "Their plan appears to have been: 1. To ask Pilate’s consent, without inquiry, to their sentence of death. 2. If necessary, to make the vague charge, that Jesus claimed to be King of the Jews. 3. Another charge mentioned by John, that He claimed to be the Son of God, may have been determined on, in case He denied the political character of His Messiahship."
 
 ### Archibald T. Robertson:
 1. "After dawn came the Sanhedrin held a formal meeting to condemn Jesus and so ratify the illegal trial during the night."
-2. "The phrase used, took counsel, is a Latin idiom (consilium ceperunt) for συνεβουλευσαντο."
-3. "Luke gives the details of this second ratification consultation."
+2. "Luke gives the details of this second ratification consultation."
+3. "The phrase used, took counsel, is a Latin idiom for συνεβουλευσαντο."
 
 ### John Gill:
-1. "They made haste to shed blood."
-2. "Religion, rites, ceremonies, and canons, must all give way to the accomplishment of what their hearts were so much set upon."
-3. "They are all summoned and gathered together, unless we except Joseph of Arimathea and Nicodemus; who yet might be there, though they did not consent to their counsel and deed."
+1. "Their feet ran to evil, and they made haste to shed blood." 
+2. "What they consulted about was to put him to death; it was not what punishment to inflict upon him, whether scourging or death; that was before determined; they had already condemned him to death."
+3. "They chose crucifixion as the most ignominious and painful; and therefore determined to deliver him up to the Roman governor, and use their interest with him to put him to death, according to the Roman law."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:54:02
+- Timestamp: 12-25-2023 20:32:22
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 28.57%
-- BHT Quality Score: 1.3465534826074175
+- BHT Word Count: 87
+- BHT Commentary Usage: 31.67%
+- BHT Quality Score: 1.53587900826059
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (70):
-	['a', 'accusation', 'and', 'as', 'being', 'broke', 'charge', 'claim', 'compelled', 'condemn', 'condemnation', 'condemning', 'consent', 'dawn', 'despite', 'earthly', 'executing', 'find', 'followed', 'formal', 'formalities', 'grant', 'heavenly', 'held', 'his', 'illegal', 'in', 'intentions', 'jesus', 'jews', 'king', 'laws', 'malevolent', 'meeting', 'meticulously', 'night', 'no', 'not', 'nullify', 'of', 'on', 'our', 'own', 'pharisees', 'pilate', 'plan', 'previous', 'promptly', 'ratifying', 'roman', 's', 'sanhedrin', 'serve', 'settled', 'sought', 'swiftly', 'that', 'the', 'their', 'thereby', 'they', 'this', 'time', 'to', 'trial', 'ultimately', 'unjust', 'violate', 'wasted', 'would']
-- ChatGPT injected words (significant words only) (50):
-	['accusation', 'broke', 'charge', 'claim', 'compelled', 'condemn', 'condemnation', 'condemning', 'consent', 'dawn', 'despite', 'earthly', 'executing', 'find', 'followed', 'formal', 'formalities', 'grant', 'heavenly', 'held', 'illegal', 'intentions', 'jesus', 'jews', 'king', 'laws', 'malevolent', 'meeting', 'meticulously', 'night', 'nullify', 'pharisees', 'pilate', 'plan', 'previous', 'promptly', 'ratifying', 'roman', 's', 'sanhedrin', 'serve', 'settled', 'sought', 'swiftly', 'time', 'trial', 'ultimately', 'unjust', 'violate', 'wasted']
+- ChatGPT injected words (60):
+	['a', 'accuse', 'after', 'and', 'as', 'be', 'break', 'choosing', 'claiming', 'condemn', 'consent', 'could', 'counsel', 'crucifixion', 'dawn', 'death', 'deliver', 'design', 'determine', 'during', 'emperor', 'executed', 'formally', 'god', 'held', 'him', 'how', 'if', 'ignominious', 'illegal', 'jesus', 'jews', 'king', 'meeting', 'most', 'necessary', 'night', 'of', 'or', 'painful', 'pilate', 'plan', 'promptly', 'put', 'ratify', 'roman', 's', 'sanhedrin', 'seek', 'sentence', 'son', 'swiftly', 'the', 'their', 'they', 'to', 'took', 'trial', 'was', 'wicked']
+- ChatGPT injected words (significant words only) (41):
+	['accuse', 'break', 'choosing', 'claiming', 'condemn', 'consent', 'counsel', 'crucifixion', 'dawn', 'death', 'deliver', 'design', 'determine', 'emperor', 'executed', 'formally', 'god', 'held', 'ignominious', 'illegal', 'jesus', 'jews', 'king', 'meeting', 'necessary', 'night', 'painful', 'pilate', 'plan', 'promptly', 'ratify', 'roman', 's', 'sanhedrin', 'seek', 'sentence', 'son', 'swiftly', 'took', 'trial', 'wicked']
 
 ### Logs
-- Attempt 1 BHT: As dawn arrived, the Sanhedrin wasted no time in holding a formal meeting to condemn Jesus and legitimize the unlawful trial that took place during the night. In their consultation, they deliberated on how to deliver Jesus to the Roman emperor, seeking a charge that would not conflict with Roman law. Ultimately, they settled on accusing Jesus of claiming to be the King of the Jews, effectively forcing Pilate to give his consent. The Pharisees were meticulous in following proper judicial procedures, yet their haste to shed innocent blood revealed their true intentions. This solemn condemnation by an earthly judge served a divine purpose, as it would ultimately cancel out our own condemnation in heaven. Despite the majority gathering in agreement, there were notable individuals like Joseph of Arimathea and Nicodemus who, though present, did not consent to this vile counsel and deed.
-- 🔄 Matthew 27:1 (attempt 1, 143 words, 31.73% quotes quality score: 1.3915614966836798, V2 normalized quality score: 37.61, commentator tiers 1-3: 35.0%, 27.9%, 37.1%) 
+- Attempt 1 BHT: After dawn came, the Sanhedrin held a formal meeting to condemn Jesus and ratify the illegal trial during the night. They took counsel together to determine how they could deliver him to the Roman emperor and put him to death under the governor's authority. Their plan was to ask Pilate's consent to their sentence of death and, if necessary, accuse Jesus of claiming to be the King of the Jews or the Son of God. It was characteristic of Pharisaism to be most formal when most unjust. Their wicked design was put into execution without delay as soon as it was daylight, and they chose crucifixion as the most ignominious and painful death.
+- 🔄 Matthew 27:1 (attempt 1, 115 words, 34.72% quotes quality score: 1.5356888076627109, V2 normalized quality score: 42.4, commentator tiers 1-3: 26.94%, 36.41%, 36.65%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: At dawn, the Sanhedrin swiftly convened a formal meeting to condemn Jesus and validate the illegal trial conducted during the night. Their consultation aimed to find a charge that Romans would not object to, eventually settling on Jesus' claim of being the King of the Jews. This enabled them to manipulate Pilate into granting consent. The Pharisees carefully observed proper judicial procedures, but their urgency in shedding innocent blood exposed their true intentions. This earthly condemnation would serve to annul our own condemnation in heaven. However, not all present consented to this wicked deed.
-- 🔄 Matthew 27:1 (attempt 2, 94 words, 30.14% quotes quality score: 1.2048937142768643, V2 normalized quality score: 31.41, commentator tiers 1-3: 38.01%, 23.48%, 38.51%) 
+- Attempt 2 BHT: After the break of dawn, the Sanhedrin swiftly held a meeting to ratify the illegal trial during the night and formally condemn Jesus. They took counsel to determine how they could deliver him to the Roman emperor and put him to death. Their plan was to seek Pilate's consent to their sentence and accuse Jesus of claiming to be the King of the Jews or the Son of God if necessary. They executed their wicked design promptly, choosing crucifixion as the most ignominious and painful death.
+- 🔄 Matthew 27:1 (attempt 2, 87 words, 31.67% quotes quality score: 1.53587900826059, V2 normalized quality score: 42.41, commentator tiers 1-3: 27.24%, 32.91%, 39.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As dawn broke, the Sanhedrin promptly held a formal meeting to condemn Jesus, thereby ratifying the previous night's illegal trial. They sought to find a charge that would not violate Roman laws and settled on Jesus' claim of being the King of the Jews. This accusation compelled Pilate to grant his consent. The Pharisees meticulously followed formalities despite their unjust intentions. Swiftly condemning Jesus, they wasted no time in executing their malevolent plan. This earthly condemnation would ultimately serve to nullify our own heavenly condemnation.
-- 🔄 Matthew 27:1 (attempt 3, 86 words, 28.57% quotes quality score: 1.3465534826074175, V2 normalized quality score: 36.12, commentator tiers 1-3: 37.4%, 27.46%, 35.13%) 
+- Attempt 3 BHT: After the break of dawn, the Sanhedrin wasted no time in holding a formal meeting to condemn Jesus and ratify the illegal trial carried out during the night. It was characteristic of Pharisaism to be most formal when most unjust. Seeking to put Jesus to death, they devised a plan to deliver him to the Roman governor, using accusations of perverting the nation and forbidding tribute to Caesar. They chose crucifixion as the most ignominious and painful method of execution, with the aim of securing Pilate's consent.
+- 🔄 Matthew 27:1 (attempt 3, 88 words, 33.33% quotes quality score: 1.4710903862971907, V2 normalized quality score: 40.26, commentator tiers 1-3: 28.66%, 37.23%, 34.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: At dawn, the Sanhedrin held a formal meeting to condemn Jesus, solidifying the unlawful trial conducted during the night. Their consilium ceperunt or consultation aimed to legitimize their plan of delivering Jesus to the Roman emperor. They strategically settled on accusing Jesus of claiming to be the King of the Jews, pressuring Pilate to grant consent. The Pharisees' meticulous observance of judicial proceedings concealed their unjust intentions. Without delay, they swiftly executed their wicked plot, shedding innocent blood. This earthly condemnation contrasted with Christ's purpose to erase our condemnation in heaven.
-- 🔄 Matthew 27:1 (attempt 4, 92 words, 22.54% quotes quality score: 1.2637815910882095, V2 normalized quality score: 33.36, commentator tiers 1-3: 35.05%, 25.66%, 39.29%) 
+- Attempt 4 BHT: At daybreak, the Sanhedrin assembled to hastily ratify Jesus' illegal trial conducted during the night. Their plan was to deliver him to the Roman governor for crucifixion, a form of execution they deemed most ignominious and painful. Pharisaism's characteristic formality concealed their deep injustice. They sought Pilate's consent, accusing Jesus of perverting the nation and forbidding tribute to Caesar. The Sanhedrin wasted no time, promptly executing their wicked design as soon as daylight broke, eager to shed innocent blood.
+- 🔄 Matthew 27:1 (attempt 4, 81 words, 23.44% quotes quality score: 1.3616010513505985, V2 normalized quality score: 36.62, commentator tiers 1-3: 28.45%, 33.68%, 37.87%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As dawn broke, the Sanhedrin wasted no time in convening a formal meeting to condemn Jesus and thus validate the previous unlawful trial. Their consilium ceperunt or consultation sought to find a charge that would not breach Roman laws, resulting in the accusation of Jesus claiming to be the King of the Jews. By employing this accusation, they manipulated Pilate into giving his consent. The Pharisees meticulously followed proper judicial procedures amidst their unjust intentions. With promptness, they executed their wicked plan, hastening to shed innocent blood. This earthly condemnation served the purpose of negating our own condemnation in heaven.
-- 🔄 Matthew 27:1 (attempt 5, 100 words, 29.11% quotes quality score: 1.2637712263493583, V2 normalized quality score: 33.36, commentator tiers 1-3: 35.13%, 26.02%, 38.85%) 
+- Attempt 5 BHT: After daybreak, the Sanhedrin held a formal meeting to ratify the unlawful trial against Jesus conducted during the previous night. Their plan was to deliver him to the Roman governor for crucifixion, the most disgraceful and agonizing form of execution. The characteristic formality of Pharisaism marked their unjust actions, as they sought Pilate's permission, accusing Jesus of perverting the nation and refusing tribute to Caesar. Wasting no time, they swiftly carried out their wicked scheme at first light, eagerly spilling innocent blood.
+- 🔄 Matthew 27:1 (attempt 5, 83 words, 28.36% quotes quality score: 1.4397465029510794, V2 normalized quality score: 39.21, commentator tiers 1-3: 28.11%, 32.31%, 39.58%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 27:1 bht prompt v0.8 (86 words, 28.57% quotes)
-- quality score: 1.3465534826074175, V2 normalized quality score: 36.12, commentator tiers 1-3: 37.4%, 27.46%, 35.13%)
+- ✅ Matthew 27:1 bht prompt v0.8 (87 words, 31.67% quotes)
+- quality score: 1.53587900826059, V2 normalized quality score: 42.41, commentator tiers 1-3: 27.24%, 32.91%, 39.86%)

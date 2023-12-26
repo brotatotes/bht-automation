@@ -1,22 +1,22 @@
 # Matthew 22:37 Commentary Help Text
 
 ## BHT:
-To truly follow this commandment, one must love God with their whole being - reason, intellect, sentiment, passion, thought, and will. This love is not to be forced or insincere, but freely given. It is a reminder to the Jews of their devotion to the true God, distinguishing Him from idols. In Deuteronomy 6:5, the same commandment is reiterated, emphasizing the need for an unwavering love that encompasses every aspect of our lives.
+We are called to love the Lord our God with every aspect of our being—heart, soul, and mind. This commandment encompasses the entirety of our affection, reason, intellect, sentiment, passion, thought, and will. It is a demand for supreme devotion, a recognition that our love for God should permeate every facet of our lives. This summary of the commandments helps us understand that God desires a sincere and perfect love that fills all our senses, illuminating our need for his grace in our pursuit of perfect love.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
-1. "That they may not hesitate, as usually happens in cases of uncertainty, the Jews are informed that the rule of life is prescribed to them by the true and only God."
-2. "And yet there is no reason to doubt that the Lord distinguishes himself from all idols, that the Jews may not be drawn aside from him, but may adhere to the pure worship of God himself."
-3. "Let us therefore learn, that the commencement of godliness is the love of God, because God disdains the forced services of men, and chooses to be worshipped freely and willingly."
+1. "For, though it is divided into two tables, the first of which relates to the worship of God, and the second to charity, Moses properly and wisely draws up this summary, that the Jews may perceive what is the will of God in each of the commandments."
+2. "But as the wicked and sinful inclinations of the flesh draw us aside from what is right, Moses shows that our life will not be regulated aright till the love of God fill all our senses."
+3. "It now appears from this summary that, in the commandments of the Law, God does not look at what men can do, but at what they ought to do; since in this infirmity of the flesh it is impossible that perfect love can obtain dominion."
 
 ### Philip Schaff:
 1. "The whole is a demand for supreme affection."
-2. "The first [phrase] refers to 'the whole energy of the reason and the intellect; soul, 'the whole energy of sentiment and passion; mind, 'the whole energy of thought and will in its manifestation.'"
-3. "To this Mark adds: 'with all thy strength,' which refers more especially to the manifestations of thought and will."
+2. "The first refers to 'the whole energy of the reason and the intellect; soul, 'the whole energy of sentiment and passion; mind, 'the whole energy of thought and will in its manifestation.'"
+3. "With all thy strength,' which refers more especially to the manifestations of thought and will."
 
 ### John Gill:
-1. "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind; that is, with all the powers and faculties of the soul, the will, the understanding, and the affections."
-2. "Though the Jewish writers paraphrase and interpret it... 'with all thy strength,' with all thy 'mammon', or riches; or otherwise, 'with all thy might,' with every measure he measures unto thee, do thou measure unto him."
+1. "thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind; that is, with all the powers and faculties of the soul, the will, the understanding, and the affections; in the most sincere, upright, and perfect manner, without any dissimulation and hypocrisy."
+2. "and though this is now the case of man, yet his obligation to love the Lord in this manner is still the same; and when the Spirit of God does produce the grace and fruit of love in his soul, he does love the Lord sincerely."
 3. "And certain it is, that as God is to be loved in the strongest manner we are capable of, and with all we have, and are; so always, at all times, under all dispensations of his providence, and upon all accounts, and for all he does towards, in, upon, and for us."
 
 ### John Wesley:
@@ -26,38 +26,38 @@ To truly follow this commandment, one must love God with their whole being - rea
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:51:30
+- Timestamp: 12-25-2023 20:31:51
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 71
-- BHT Commentary Usage: 50.0%
-- BHT Quality Score: 1.2004448108394639
+- BHT Word Count: 88
+- BHT Commentary Usage: 37.29%
+- BHT Quality Score: 1.48114341587636
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['a', 'an', 'and', 'aspect', 'be', 'being', 'but', 'commandment', 'deuteronomy', 'devotion', 'distinguishing', 'emphasizing', 'encompasses', 'every', 'follow', 'for', 'forced', 'freely', 'from', 'given', 'god', 'him', 'idols', 'in', 'insincere', 'intellect', 'is', 'it', 'jews', 'lives', 'love', 'must', 'need', 'not', 'of', 'one', 'or', 'our', 'passion', 'reason', 'reiterated', 'reminder', 'same', 'sentiment', 'that', 'the', 'their', 'this', 'thought', 'to', 'true', 'truly', 'unwavering', 'whole', 'will', 'with']
-- ChatGPT injected words (significant words only) (28):
-	['aspect', 'commandment', 'deuteronomy', 'devotion', 'distinguishing', 'emphasizing', 'encompasses', 'follow', 'forced', 'freely', 'given', 'god', 'idols', 'insincere', 'intellect', 'jews', 'lives', 'love', 'need', 'passion', 'reason', 'reiterated', 'reminder', 'sentiment', 'thought', 'true', 'truly', 'unwavering']
+- ChatGPT injected words (59):
+	['a', 'affection', 'all', 'and', 'are', 'aspect', 'being', 'called', 'commandment', 'commandments', 'demand', 'desires', 'devotion', 'encompasses', 'entirety', 'every', 'facet', 'fills', 'for', 'god', 'grace', 'heart', 'helps', 'his', 'illuminating', 'in', 'intellect', 'is', 'it', 'lives', 'lord', 'love', 'mind', 'need', 'of', 'our', 'passion', 'perfect', 'permeate', 'pursuit', 'reason', 'recognition', 'senses', 'sentiment', 'should', 'sincere', 'soul', 'summary', 'supreme', 'that', 'the', 'this', 'thought', 'to', 'understand', 'us', 'we', 'will', 'with']
+- ChatGPT injected words (significant words only) (37):
+	['affection', 'aspect', 'called', 'commandment', 'commandments', 'demand', 'desires', 'devotion', 'encompasses', 'entirety', 'facet', 'fills', 'god', 'grace', 'heart', 'helps', 'illuminating', 'intellect', 'lives', 'lord', 'love', 'mind', 'need', 'passion', 'perfect', 'permeate', 'pursuit', 'reason', 'recognition', 'senses', 'sentiment', 'sincere', 'soul', 'summary', 'supreme', 'thought', 'understand']
 
 ### Logs
-- Attempt 1 BHT: To truly follow the commandment in Matthew 22:37, one must give their whole being to loving God. This includes the full range of human capacities - reason, intellect, sentiment, passion, thought, and will. It is through this all-encompassing love that the Jews are reminded of their devotion to the one true God, distinct from idols and external influences. This love should not be forced or insincere, but freely given. In Deuteronomy 6:5, the same commandment is reiterated, emphasizing the need for an unwavering love for God that encompasses every aspect of our lives.
-- 🔄 Matthew 22:37 (attempt 1, 91 words, 45.59% quotes quality score: 1.1524079293576115, V2 normalized quality score: 29.66, commentator tiers 1-3: 0.0%, 42.33%, 57.67%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: To truly follow this commandment, one must love God with their whole being - reason, intellect, sentiment, passion, thought, and will. This love is not to be forced or insincere, but freely given. It is a reminder to the Jews of their devotion to the true God, distinguishing Him from idols. In Deuteronomy 6:5, the same commandment is reiterated, emphasizing the need for an unwavering love that encompasses every aspect of our lives.
-- 🔄 Matthew 22:37 (attempt 2, 71 words, 50.0% quotes quality score: 1.2004448108394639, V2 normalized quality score: 31.26, commentator tiers 1-3: 0.0%, 40.17%, 59.83%)
-- Attempt 3 BHT: To love the Lord your God with all your heart, soul, and mind means to offer Him your supreme affection and the entirety of your being. This encompasses the whole energy of your reason, intellect, sentiment, passion, thought, and will. It is a demand for complete devotion. The Jews are reminded that this rule of life is prescribed by the one true God, differentiating Him from idols and urging them to adhere to pure worship. The love of God is the foundation of godliness, a voluntary and willing offering of oneself to the Lord. It involves the love of God with all your powers, faculties, and even material possessions. It is an all-encompassing love that transcends time, circumstances, and everything God does for us. (Deuteronomy 6:5)
-- 🔄 Matthew 22:37 (attempt 3, 126 words, 35.53% quotes quality score: 1.3380615956374364, V2 normalized quality score: 35.83, commentator tiers 1-3: 0.0%, 49.02%, 50.98%) 
+- Attempt 1 BHT: We are called to love the Lord our God with every aspect of our being—heart, soul, and mind. This commandment encompasses the entirety of our affection, reason, intellect, sentiment, passion, thought, and will. It is a demand for supreme devotion, a recognition that our devotion to God should permeate every facet of our lives. This summary of the commandments helps us understand that God desires not only outward obedience, but a sincere and perfect love that fills all our senses. Though we may falter in our pursuit of perfect love, our obligation to love the Lord in this manner remains the same. When the Spirit of God produces the grace and fruit of love in our souls, we will love the Lord sincerely and with all that we have and are.
+- 🔄 Matthew 22:37 (attempt 1, 132 words, 38.67% quotes quality score: 1.3670668953955045, V2 normalized quality score: 36.8, commentator tiers 1-3: 0.0%, 44.71%, 55.29%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: To love the Lord your God with all your heart, soul, and mind requires offering Him supreme affection and the entirety of your being. This includes the whole energy of reason, intellect, sentiment, passion, thought, and will. It is a demand for complete devotion, distinguishing the true God from idols. The foundation of godliness is the voluntary and willing love of God, which involves all powers, faculties, and even material possessions. This all-encompassing love transcends time, circumstances, and everything God does for us. (Deuteronomy 6:5)
-- 🔄 Matthew 22:37 (attempt 4, 85 words, 36.67% quotes quality score: 1.424816758445949, V2 normalized quality score: 38.72, commentator tiers 1-3: 0.0%, 49.07%, 50.93%) 
+- Attempt 2 BHT: We are called to love the Lord our God with every aspect of our being—heart, soul, and mind. This commandment encompasses the entirety of our affection, reason, intellect, sentiment, passion, thought, and will. It is a demand for supreme devotion, a recognition that our love for God should permeate every facet of our lives. This summary of the commandments helps us understand that God desires a sincere and perfect love that fills all our senses, illuminating our need for his grace in our pursuit of perfect love.
+- 🔄 Matthew 22:37 (attempt 2, 88 words, 37.29% quotes quality score: 1.48114341587636, V2 normalized quality score: 40.59, commentator tiers 1-3: 0.0%, 50.62%, 49.38%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: To love the Lord your God with all your heart, soul, and mind means to offer supreme affection, involving reason, sentiment, and thought. It is a demand for complete devotion. The true and only God prescribes this rule of life, distinguishing Himself from idols. The love of God is the foundation of godliness, a voluntary, willing offering of oneself to the Lord. This all-encompassing love includes the love of God with all powers, faculties, and material possessions, transcending time, circumstances, and everything He does for us. (Deuteronomy 6:5)
-- 🔄 Matthew 22:37 (attempt 5, 88 words, 32.76% quotes quality score: 1.3428372375882727, V2 normalized quality score: 35.99, commentator tiers 1-3: 0.0%, 46.28%, 53.72%) 
+- Attempt 3 BHT: We are commanded to love the Lord our God with our entire being—heart, soul, and mind. This means offering the whole energy of our reasoning, intellect, sentiment, passion, thought, and will in complete devotion. It is a call for supreme affection, a recognition that our love for God should saturate every aspect of our lives. This summary of the commandments shows us that God desires a genuine and unwavering love that fills all our senses, acknowledging our dependency on His grace to fulfill this perfect love.
+- 🔄 Matthew 22:37 (attempt 3, 87 words, 40.32% quotes quality score: 1.4700746207003348, V2 normalized quality score: 40.22, commentator tiers 1-3: 0.0%, 53.04%, 46.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 22:37 bht prompt v0.8 (71 words, 50.0% quotes)
-- quality score: 1.2004448108394639, V2 normalized quality score: 31.26, commentator tiers 1-3: 0.0%, 40.17%, 59.83%)
+- Attempt 4 BHT: This verse commands us to love the Lord our God with all our heart, soul, and mind. It is a call to offer our whole being in complete devotion, using every faculty of our soul, including our will, understanding, and affections. Our love for God should be sincere, upright, and without hypocrisy. We are reminded that our love for God must be genuine and integrated into every aspect of our lives, reliant on His grace to fulfill this perfect love.
+- 🔄 Matthew 22:37 (attempt 4, 80 words, 52.63% quotes quality score: 1.2533148048189517, V2 normalized quality score: 33.02, commentator tiers 1-3: 0.0%, 40.93%, 59.07%) 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: We are directed to love the Lord our God with our entire being, involving our heart, soul, and mind. This instruction entails offering our whole self in wholehearted devotion, employing all aspects of our soul, including our will, understanding, and affections. Our love for God should be authentic, upright, and devoid of hypocrisy. This summary highlights the necessity of a genuine and all-encompassing love for God, that permeates every dimension of our existence, underscoring our dependence on His grace to realize this ideal love.
+- 🔄 Matthew 22:37 (attempt 5, 85 words, 37.29% quotes quality score: 1.207428367322986, V2 normalized quality score: 31.49, commentator tiers 1-3: 0.0%, 43.14%, 56.86%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 22:37 bht prompt v0.8 (88 words, 37.29% quotes)
+- quality score: 1.48114341587636, V2 normalized quality score: 40.59, commentator tiers 1-3: 0.0%, 50.62%, 49.38%)

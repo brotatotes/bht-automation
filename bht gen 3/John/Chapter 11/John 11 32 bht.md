@@ -1,7 +1,7 @@
 # John 11:32 Commentary Help Text
 
 ## BHT:
-Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This reminds us that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.
+Mary's response to Jesus's arrival is characterized by her impassioned weeping and falling down at his feet. Her actions speak volumes about her profound grief, and her heartfelt cry reflects her belief that if Jesus had been present, her brother would still be alive. Her words are few but significant, conveying the depth of her sorrow and her unwavering trust in Jesus's power. In this moment, Mary honors Jesus beyond the ordinary customs of men, recognizing his authority and seeking solace in his presence.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -15,23 +15,23 @@ Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her i
 
 ### John Calvin:
 1. "From her falling down at his feet we learn that Christ was honored in that house beyond the ordinary custom of men."
-2. "As Christ had nothing about him, according to the flesh, that was royal or magnificent, it was for a different purpose that Mary fell down at his feet."
-3. "The power of Christ, which filled heaven and earth, ought not to have been limited to his bodily presence."
+2. "Though she appears to speak of Christ respectfully, yet we have lately pointed out what is faulty in these words; for the power of Christ, which filled heaven and earth, ought not to have been limited to his bodily presence."
+
 
 ### Philip Schaff:
-1. "Lord, if thou hadst been here, my brother had not died." 
-2. "Her first words are nearly the same as her sister’s: there is only in the Greek a slight difference in the place of ‘my’ which gives a touching emphasis to the expression of personal loss." 
-3. "Mary’s absorbing grief makes other words impossible: she falls at the feet of Jesus weeping."
+1. "Lord, if thou hadst been here, my brother had not died."
+2. "There is only in the Greek a slight difference in the place of 'my' which gives a touching emphasis to the expression of personal loss."
+3. "Mary's absorbing grief makes other words impossible: she falls at the feet of Jesus weeping."
 
 ### Archibald T. Robertson:
-1. "Fell down at his feet (επεσεν αυτου προς τους ποδας). Second aorist active of πιπτω, to fall."
+1. "Fell down at his feet (επεσεν αυτου προς τους ποδας). Second aorist active of πιπτω, to fall. Note unusual position of αυτου."
 2. "This impulsive act like Mary."
-3. "She said no more, only wept."
+3. "But she said no more, only wept (verse John 11:33)."
 
 ### John Gill:
-1. "It is blessed meeting Christ any where; and where he is preached, and his ordinances administered, let it be in what place it will, there may the presence of Christ be expected."
-2. "Martha had been here before, and had had some conversation with Christ to her great satisfaction, and she goes and calls her sister, that she might enjoy the same."
-3. "Lord, if thou hadst been here, my brother had not died; which were the same words Martha uttered upon her first meeting Jesus."
+1. "It is blessed meeting Christ any where; and where he is preached, and his ordinances administered, let it be in what place it will, there may the presence of Christ be expected." 
+2. "Martha had been here before, and had had some conversation with Christ to her great satisfaction, and she goes and calls her sister, that she might enjoy the same: so souls that have met with Jesus under such a ministry, in such a place, invite others to go thither also." 
+3. "Saying unto him, Lord, if thou hadst been here, my brother had not died; which were the same words Martha uttered upon her first meeting Jesus."
 
 ### John Wesley:
 1. She fell at his feet — This Martha had not done. So she makes amends for her slowness in coming.
@@ -40,38 +40,38 @@ Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her i
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:10:23
+- Timestamp: 12-25-2023 20:34:01
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 39.06%
-- BHT Quality Score: 1.4619519896816036
+- BHT Word Count: 87
+- BHT Commentary Usage: 37.5%
+- BHT Quality Score: 1.6838289405568616
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (64):
-	['action', 'administered', 'and', 'as', 'at', 'be', 'before', 'beyond', 'by', 'can', 'christ', 'comfort', 'deep', 'evident', 'expected', 'extends', 'falls', 'feet', 'find', 'further', 'great', 'grief', 'healing', 'her', 'herself', 'him', 'his', 'honor', 'hope', 'impassioned', 'in', 'is', 'jesus', 'mary', 'no', 'of', 'offers', 'ordinances', 'overwhelming', 'physical', 'power', 'preached', 'presence', 'prostrating', 'recognition', 'reminds', 'requiring', 's', 'she', 'shows', 'solace', 'sorrow', 'speaks', 'that', 'the', 'this', 'times', 'us', 'volumes', 'we', 'weeping', 'wherever', 'who', 'words']
-- ChatGPT injected words (significant words only) (39):
-	['action', 'administered', 'christ', 'comfort', 'deep', 'evident', 'expected', 'extends', 'falls', 'feet', 'find', 'great', 'grief', 'healing', 'honor', 'hope', 'impassioned', 'jesus', 'mary', 'offers', 'ordinances', 'overwhelming', 'physical', 'power', 'preached', 'presence', 'prostrating', 'recognition', 'reminds', 'requiring', 's', 'shows', 'solace', 'sorrow', 'speaks', 'times', 'volumes', 'weeping', 'words']
+	['about', 'actions', 'alive', 'and', 'are', 'arrival', 'at', 'authority', 'be', 'been', 'belief', 'beyond', 'brother', 'but', 'by', 'characterized', 'conveying', 'cry', 'customs', 'depth', 'down', 'falling', 'feet', 'few', 'grief', 'had', 'heartfelt', 'her', 'his', 'honors', 'if', 'impassioned', 'in', 'is', 'jesus', 'mary', 'men', 'moment', 'of', 'ordinary', 'power', 'presence', 'present', 'profound', 'recognizing', 'reflects', 'response', 's', 'seeking', 'significant', 'solace', 'sorrow', 'speak', 'still', 'that', 'the', 'this', 'to', 'trust', 'unwavering', 'volumes', 'weeping', 'words', 'would']
+- ChatGPT injected words (significant words only) (40):
+	['actions', 'alive', 'arrival', 'authority', 'belief', 'brother', 'characterized', 'conveying', 'cry', 'customs', 'depth', 'falling', 'feet', 'grief', 'heartfelt', 'honors', 'impassioned', 'jesus', 'mary', 'men', 'moment', 'ordinary', 'power', 'presence', 'present', 'profound', 'recognizing', 'reflects', 'response', 's', 'seeking', 'significant', 'solace', 'sorrow', 'speak', 'trust', 'unwavering', 'volumes', 'weeping', 'words']
 
 ### Logs
-- Attempt 1 BHT: In John 11:32, Mary's grief is so overpowering that she falls at Jesus' feet, weeping. Her action is more impassioned and her words are fewer compared to her sister Martha. She echoes Martha's initial statement, emphasizing her personal loss. Mary's deep sorrow leaves her unable to say more, only to weep. This act of falling at Jesus' feet shows great honor and recognition of His power, which extends beyond His physical presence. Wherever Christ is preached, His presence can be expected.
-- 🔄 John 11:32 (attempt 1, 83 words, 34.43% quotes quality score: 1.6153458700768566, V2 normalized quality score: 45.05, commentator tiers 1-3: 24.09%, 39.88%, 36.03%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Mary's intense grief in this passage is revealed through her impassioned action of falling at Jesus' feet, weeping. Her words are fewer compared to her sister Martha, but carry a powerful message of personal loss. By falling at Jesus' feet, Mary honors Him and acknowledges His presence and power that extends beyond His physical presence. This story reminds us that wherever Christ is preached, we can expect His presence and find comfort in His words.
-- 🔄 John 11:32 (attempt 2, 76 words, 37.5% quotes quality score: 1.741988739282014, V2 normalized quality score: 49.26, commentator tiers 1-3: 21.09%, 40.89%, 38.02%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This serves as a reminder that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.
-- 🔄 John 11:32 (attempt 3, 82 words, 38.46% quotes quality score: 1.4613570791030528, V2 normalized quality score: 39.93, commentator tiers 1-3: 21.96%, 38.61%, 39.43%) 
+- Attempt 1 BHT: Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. While Mary's words are fewer, her actions speak volumes about her profound grief. It is evident that she has been deeply affected by the death of her brother and feels a personal loss. The powerful image of Mary falling at Jesus's feet is a demonstration of the extraordinary honor and reverence she holds for him. Her heartfelt cry captures her belief that if Jesus had been present, her brother would still be alive. Although Mary's words are brief, they convey the depth of her sorrow and her unwavering trust in Jesus's power.
+- 🔄 John 11:32 (attempt 1, 115 words, 39.19% quotes quality score: 1.7387138695042479, V2 normalized quality score: 49.15, commentator tiers 1-3: 23.74%, 38.93%, 37.32%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Mary's profound sorrow is expressed as she falls at Jesus' feet, weeping. Her act of prostrating herself before Him is a powerful display of honor and recognition of His power. It signifies that Jesus deserves reverence beyond what is customary for men. It reminds us that the presence of Christ can be expected wherever He is preached and His ordinances administered. In times of deep pain, encountering Jesus brings solace and the assurance of His healing and comforting presence.
-- 🔄 John 11:32 (attempt 4, 80 words, 39.34% quotes quality score: 1.3053218037774912, V2 normalized quality score: 34.75, commentator tiers 1-3: 16.71%, 38.8%, 44.49%) 
+- Attempt 2 BHT: Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. Her profound grief is evident in her actions, as she demonstrates extraordinary honor and reverence for him. Her heartfelt cry captures her belief that if Jesus had been present, her brother would still be alive. Though her words are brief, they convey the depth of her sorrow and her unwavering trust in Jesus's power.
+- 🔄 John 11:32 (attempt 2, 74 words, 43.1% quotes quality score: 1.630139009045656, V2 normalized quality score: 45.54, commentator tiers 1-3: 22.96%, 35.26%, 41.78%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This reminds us that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.
-- 🔄 John 11:32 (attempt 5, 80 words, 39.06% quotes quality score: 1.4619519896816036, V2 normalized quality score: 39.95, commentator tiers 1-3: 21.75%, 38.81%, 39.43%) 
+- Attempt 3 BHT: Mary's response to Jesus's arrival is characterized by her impassioned weeping and falling down at his feet. Her actions speak volumes about her profound grief, and her heartfelt cry reflects her belief that if Jesus had been present, her brother would still be alive. Her words are few but significant, conveying the depth of her sorrow and her unwavering trust in Jesus's power. In this moment, Mary honors Jesus beyond the ordinary customs of men, recognizing his authority and seeking solace in his presence.
+- 🔄 John 11:32 (attempt 3, 87 words, 37.5% quotes quality score: 1.6838289405568616, V2 normalized quality score: 47.33, commentator tiers 1-3: 22.32%, 35.54%, 42.14%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 11:32 bht prompt v0.8 (80 words, 39.06% quotes)
-- quality score: 1.4619519896816036, V2 normalized quality score: 39.95, commentator tiers 1-3: 21.75%, 38.81%, 39.43%)
+- Attempt 4 BHT: Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. Her actions demonstrate her profound grief and honor for Jesus. Her heartfelt cry reveals her belief that if Jesus had been present, her brother would still be alive. Though her words may be few, they convey the depth of her sorrow and unwavering trust in Jesus's power. Mary's act of falling at his feet signifies her recognition of Jesus's authority and her desire for solace in his presence.
+- 🔄 John 11:32 (attempt 4, 90 words, 38.98% quotes quality score: 1.6587079854246998, V2 normalized quality score: 46.49, commentator tiers 1-3: 21.68%, 36.61%, 41.71%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. Her actions demonstrate her profound grief and honor for Jesus. Her heartfelt cry reveals her belief that if Jesus had been present, her brother would still be alive. Though her words may be few, they convey the depth of her sorrow and unwavering trust in Jesus's power. Mary's act of falling at his feet signifies her recognition of Jesus's authority and her desire for solace in his presence.
+- 🔄 John 11:32 (attempt 5, 90 words, 38.98% quotes quality score: 1.6587079854246998, V2 normalized quality score: 46.49, commentator tiers 1-3: 21.68%, 36.61%, 41.71%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 11:32 bht prompt v0.8 (87 words, 37.5% quotes)
+- quality score: 1.6838289405568616, V2 normalized quality score: 47.33, commentator tiers 1-3: 22.32%, 35.54%, 42.14%)

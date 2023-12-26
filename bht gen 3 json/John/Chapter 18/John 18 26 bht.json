@@ -1,42 +1,40 @@
 {
-    "timestamp": "12-21-2023 03:14:10",
+    "timestamp": "12-25-2023 20:34:03",
     "verseRef": "John 18:26",
     "bestBHT": {
-        "bht": "Did I not see thee with my own eyes? This was about an hour after the former. Thou art a Galilean, and thy speech agreeth thereto. If Peter had held his peace, he only thus revealed himself. This staggering and sudden thrust expects an affirmative answer.",
-        "wordCount": 46,
-        "quoteTokenProportion": 53.49,
-        "qualityScore": 1.2653768871009135,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.42,
+        "bht": "Did I not see thee with my own eyes? This staggering and sudden question, asked with bitterness, aimed to expose Peter's previous denials. Hoping to divert suspicion, Peter had joined in the fireside talk, but this only revealed his connection to Jesus. I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it? The danger of arrest for his attempt to kill and his desperate desire to distance himself from Jesus drove Peter to vehemently deny his association.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.5902979735028437,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.22,
         "commentatorTierSimilarities": [
-            40.97,
-            22.44,
-            36.59
+            30.28,
+            25.63,
+            44.1
         ],
         "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Did I not see thee with my own eyes?",
-            "The 'I' is emphatic in the original.",
-            "This was about an hour after the former."
+            "The 'I' is emphatic in the original: as we say, Did I not see thee with my own eyes?"
         ],
         "Jamieson-Fausset-Brown": [
-            "Sad reprisals!",
-            "Thou art a Galilean, and thy speech agreeth thereto",
+            "Sad reprisals!\" [BENGEL].",
+            "Thou art a Galilean, and thy speech agreeth thereto\" (Matthew 26:73).",
             "If Peter had held his peace, this peculiarity had not been observed; but hoping, probably, to put them off the scent by joining in the fireside talk, he only thus revealed himself."
         ],
         "Philip Schaff": [
-            "It is natural to ask why mention is made of the relationship between the servant who asks this question and the other servant who had suffered through Peter\u2019s hasty zeal.",
-            "The probable answer is, that the circumstance is not merely historical, but that it aids in developing the idea which the Evangelist has in view. It heightens the effect.",
+            "The circumstance is not merely historical, but that it aids in developing the idea which the Evangelist has in view.",
+            "This man would ask his question with far more bitterness than the others.",
             "His question too is much more pointed, not whether Peter is one of the disciples, but whether his own eyes had not seen him but a little before upon a spot which he could name."
         ],
         "Archibald T. Robertson": [
             "This staggering and sudden thrust expects an affirmative answer by the use of \u03bf\u03c5\u03ba, not \u03bc\u03b7.",
-            "Peter's previous denials with the knowledge that he was observed by a kinsman of Malchus whom he had tried to kill drove him to the third flat denial.",
-            "That was usually the close of the third watch of the night, about 3 A.M."
+            "Peter's previous denials with the knowledge that he was observed by a kinsman of Malchus whom he had tried to kill drove him to the third flat denial that he knew Jesus.",
+            "Peter was in dire peril now of arrest himself for attempt to kill."
         ],
         "John Gill": [
-            "Hearing him so stiffly deny that he was a disciple of Jesus, when he had great reason to believe he was.\" ",
+            "Hearing him so stiffly deny that he was a disciple of Jesus, when he had great reason to believe he was.",
             "I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it?",
             "And wilt thou stand in it so confidently, that thou art not one of his disciples?"
         ]
@@ -58,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Did I not see thee with my own eyes? The 'I' is emphatic in the original. This was about an hour after the former. Thou art a Galilean, and thy speech agreeth thereto. If Peter had held his peace, this peculiarity had not been observed; but hoping, probably, to put them off the scent by joining in the fireside talk, he only thus revealed himself. This staggering and sudden thrust expects an affirmative answer. Peter's previous denials with the knowledge that he was observed drove him to the third flat denial.",
-            "wordCount": 92,
-            "quoteTokenProportion": 48.61,
-            "qualityScore": 1.3329956336865871,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.67,
+            "bht": "Did I not see thee with my own eyes? This staggering and sudden question, asked with bitterness, aimed to expose Peter's previous denials. Hoping to divert suspicion, Peter had joined in the fireside talk, but this only revealed his connection to Jesus. The kinsman of Malchus, whom Peter had tried to kill, observed him and now pressed him further. I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it? The danger of arrest for his attempt to kill and his desperate desire to distance himself from Jesus drove Peter to vehemently deny his association with Him, endangering himself even more.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.5729865457945165,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
             "commentatorTierSimilarities": [
-                43.95,
-                26.5,
-                29.55
+                32.02,
+                27.27,
+                40.71
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Did I not see thee with my own eyes? The 'I' is emphatic in the original... Thou art a Galilean, and thy speech agreeth thereto... If Peter had held his peace, he only thus revealed himself... This staggering and sudden thrust expects an affirmative answer... Peter's previous denials with the knowledge that he was observed drove him to the third flat denial.",
-            "wordCount": 63,
-            "quoteTokenProportion": 47.27,
-            "qualityScore": 1.2982887643654641,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.51,
+            "bht": "Did I not see thee with my own eyes? This staggering and sudden question aimed to expose Peter's previous denials. Hoping to divert suspicion, Peter had joined in the fireside talk, but this only revealed his connection to Jesus. The kinsman of Malchus observed him and pressed him further. I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it? The danger of arrest for his attempt to kill and his desperate desire to distance himself from Jesus drove Peter to vehemently deny his association with Him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5119324903754712,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.61,
             "commentatorTierSimilarities": [
-                40.6,
-                25.13,
-                34.27
+                31.78,
+                25.23,
+                42.99
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Did I not see thee with my own eyes? This was about an hour after the former. Thou art a Galilean, and thy speech agreeth thereto. If Peter had held his peace, he only thus revealed himself. This staggering and sudden thrust expects an affirmative answer. Peter's previous denials with the knowledge that he was observed drove him to the third flat denial.",
-            "wordCount": 64,
-            "quoteTokenProportion": 49.09,
-            "qualityScore": 1.321717139266878,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+            "bht": "Did I not see thee with my own eyes? This staggering and sudden question, asked with bitterness, aimed to expose Peter's previous denials. Hoping to divert suspicion, Peter had joined in the fireside talk, but this only revealed his connection to Jesus. The kinsman of Malchus observed him and now pressed him further. I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it? The danger of arrest for his attempt to kill and his desperate desire to distance himself from Jesus drove Peter to vehemently deny his association.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.5223521259204087,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.96,
             "commentatorTierSimilarities": [
-                39.37,
-                25.65,
-                34.98
+                31.5,
+                26.45,
+                42.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Did I not see thee with my own eyes? This was about an hour after the former. Thou art a Galilean, and thy speech agreeth thereto. If Peter had held his peace, he only thus revealed himself. This staggering and sudden thrust expects an affirmative answer.",
-            "wordCount": 46,
-            "quoteTokenProportion": 53.49,
-            "qualityScore": 1.2653768871009135,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.42,
+            "bht": "Did I not see thee with my own eyes? This staggering and sudden question, asked with bitterness, aimed to expose Peter's previous denials. Hoping to divert suspicion, Peter had joined in the fireside talk, but this only revealed his connection to Jesus. I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it? The danger of arrest for his attempt to kill and his desperate desire to distance himself from Jesus drove Peter to vehemently deny his association.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5902979735028437,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
             "commentatorTierSimilarities": [
-                40.97,
-                22.44,
-                36.59
+                30.28,
+                25.63,
+                44.1
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The servant's emphatic question, Did I not see thee with my own eyes? highlighted Peter's blatant denial of his association with Jesus. Hoping to divert attention by joining in the fireside conversation, Peter only made his Galilean origin more noticeable, leading to this unsettling confrontation. The servant's sharp inquiry, not merely about Peter being a disciple, but whether he had seen him with Jesus, intensified the impact. It was in this early morning hour that Peter's repeated denials, witnessed by someone connected to the man Peter had previously harmed, culminated in his third and most resolute denial.",
-            "wordCount": 101,
-            "quoteTokenProportion": 42.67,
-            "qualityScore": 1.4276482940691442,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.81,
+            "bht": "Did I not see thee with my own eyes? This question, asked with bitterness, aimed to expose Peter's previous denials. Hoping to divert suspicion, Peter had joined in the fireside talk, but this only revealed his connection to Jesus. The kinsman of Malchus observed him and pressed him further. I saw thee with my own eyes along with Jesus, this very night in the garden, how canst thou deny it? The danger of arrest for his attempt to kill and his desperate desire to distance himself from Jesus drove Peter to vehemently deny his association.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5113131128779806,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.59,
             "commentatorTierSimilarities": [
-                23.57,
-                39.87,
-                36.56
+                30.76,
+                26.59,
+                42.65
             ],
             "generationAttempt": 5
         }

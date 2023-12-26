@@ -1,63 +1,64 @@
 # Luke 8:38 Commentary Help Text
 
 ## BHT:
-Having been freed from the grip of the demons, the man pleaded persistently to accompany Jesus, but Jesus, recognizing the potential of the man's testimony among his own people, instructed him to return home. The man, filled with gratitude for Jesus' power and grace, left obediently, carrying with him the incredible story of his deliverance. Jesus' decision to send him away demonstrates the gentle drawing power of goodness, as opposed to the fear-inducing nature of power, and highlights the importance of sharing the remarkable acts of kindness received from God.
+Recognizing Jesus' divine power, the restored man pleaded persistently to accompany him. His prayer attests to his understanding of both the power and goodness of God. Although Jesus declined his request to become his disciple, it is likely that he intended for the man to proclaim the remarkable act of kindness he had experienced to his Gentile compatriots. The man's response, marked by his prayers and fervent plea, distinguishes him, leading Jesus to dismiss him so that he could spread the news of his miraculous deliverance.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "Beseech is used to render parakalew. Parakalew, beseech, is used of prayer to God in only one instance, 2 Corinthians 12:8, where Paul besought the Lord to remove the thorn in the flesh." 
-2. "Frequently of requests to Christ while on earth." 
-3. "The distinction, however, must not be closely pressed. The two words seem to be often used interchangeably in the New Testament."
+1. "Beseech is used to render parakalew (Mark 5:10)."
+2. "Parakalew, beseech, is used of prayer to God in only one instance, 2 Corinthians 12:8."
+3. "The restored man, recognizing Jesus' divine power, prayed [εδειτο] to be with him."
 
 ### John Calvin:
-1. "Power strikes men with terror, makes them fly from the presence of God, and drives them to a distance from him: but goodness draws them gently, and makes them feel that nothing is more desirable than to be united to God."
-2. "Why Christ refuses to have this man as one of his followers we cannot determine with certainty, if it was not that he expected the man to make himself more extensively useful by communicating to his Gentile countrymen the remarkable and extraordinary act of kindness which he had received."
-3. "…he [the healed man] actually did [communicate the act of kindness to his Gentile countrymen], as we are assured by Mark and Luke."
+1. "Hence we learn how wide is the difference between the knowledge of the goodness, and the knowledge of the power, of God."
+2. "Power strikes men with terror, makes them fly from the presence of God, and drives them to a distance from him: but goodness draws them gently, and makes them feel that nothing is more desirable than to be united to God."
+3. "Why Christ refuses to have this man as one of his followers we cannot determine with certainty, if it was not that he expected the man to make himself more extensively useful by communicating to his Gentile countrymen the remarkable and extraordinary act of kindness which he had received; and this he actually did, as we are assured by Mark and Luke."
 
 ### Archibald T. Robertson:
-1. "From whom the devils were gone out, past perfect active of εξερχομα, state of completion in the past."
-2. "Prayed him, imperfect middle, kept on begging."
+1. "From whom the devils (demons) were gone out, state of completion in the past." 
+2. "Prayed him, kept on begging."
 
 ### John Gill:
-1. "Now the man out of whom the devils were departed,.... Sensible of the power of Christ, and of the favor he had received from him, was of a quite different mind from his countrymen." 
-2. "But Jesus sent him away; from him, into the country."
-3. "Saying, as follows."
+1. "Sensible of the power of Christ, and of the favor he had received from him, was of a quite different mind from his countrymen." 
+2. "And besought him that he might be with him." 
+3. "But Jesus sent him away; from him, into the country."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:51
+- Timestamp: 12-25-2023 20:33:14
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 23.33%
-- BHT Quality Score: 1.1603391958789646
+- BHT Word Count: 87
+- BHT Commentary Usage: 31.58%
+- BHT Quality Score: 1.4981152453666469
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['accompany', 'acts', 'among', 'and', 'as', 'away', 'been', 'but', 'carrying', 'decision', 'deliverance', 'demons', 'demonstrates', 'drawing', 'fear', 'filled', 'for', 'freed', 'from', 'gentle', 'god', 'goodness', 'grace', 'gratitude', 'grip', 'having', 'highlights', 'him', 'his', 'home', 'importance', 'incredible', 'inducing', 'instructed', 'jesus', 'kindness', 'left', 'man', 'nature', 'obediently', 'of', 'opposed', 'own', 'people', 'persistently', 'pleaded', 'potential', 'power', 'received', 'recognizing', 'remarkable', 'return', 's', 'send', 'sharing', 'story', 'testimony', 'the', 'to', 'with']
-- ChatGPT injected words (significant words only) (46):
-	['accompany', 'acts', 'away', 'carrying', 'decision', 'deliverance', 'demons', 'demonstrates', 'drawing', 'fear', 'filled', 'freed', 'gentle', 'god', 'goodness', 'grace', 'gratitude', 'grip', 'having', 'highlights', 'home', 'importance', 'incredible', 'inducing', 'instructed', 'jesus', 'kindness', 'left', 'man', 'nature', 'obediently', 'opposed', 'people', 'persistently', 'pleaded', 'potential', 'power', 'received', 'recognizing', 'remarkable', 'return', 's', 'send', 'sharing', 'story', 'testimony']
+- ChatGPT injected words (57):
+	['accompany', 'act', 'although', 'and', 'attests', 'become', 'both', 'by', 'compatriots', 'could', 'declined', 'deliverance', 'disciple', 'dismiss', 'distinguishes', 'divine', 'experienced', 'fervent', 'for', 'gentile', 'god', 'goodness', 'had', 'he', 'him', 'his', 'intended', 'is', 'it', 'jesus', 'kindness', 'leading', 'likely', 'man', 'marked', 'miraculous', 'news', 'of', 'persistently', 'plea', 'pleaded', 'power', 'prayer', 'prayers', 'proclaim', 'recognizing', 'remarkable', 'request', 'response', 'restored', 's', 'so', 'spread', 'that', 'the', 'to', 'understanding']
+- ChatGPT injected words (significant words only) (39):
+	['accompany', 'act', 'attests', 'compatriots', 'declined', 'deliverance', 'disciple', 'dismiss', 'distinguishes', 'divine', 'experienced', 'fervent', 'gentile', 'god', 'goodness', 'intended', 'jesus', 'kindness', 'leading', 'likely', 'man', 'marked', 'miraculous', 'news', 'persistently', 'plea', 'pleaded', 'power', 'prayer', 'prayers', 'proclaim', 'recognizing', 'remarkable', 'request', 'response', 'restored', 's', 'spread', 'understanding']
 
 ### Logs
-- Attempt 1 BHT: The man who had been healed from demons by Jesus earnestly begged to go with Jesus, but Jesus told him to return home. The man, overwhelmed by the power of Christ and the kindness he had received, was eager to be a follower and share his story with others. Jesus, in his wisdom, had another plan for the man. Perhaps Jesus expected the man to be more effective in spreading the news of his miraculous healing among his own people. Regardless of the reasons, Jesus asked the man to go, and the man obediently departed, carrying the message of Christ's power and goodness with him.
-- 🔄 Luke 8:38 (attempt 1, 106 words, 41.94% quotes quality score: 1.086145172388689, V2 normalized quality score: 27.46, commentator tiers 1-3: 30.78%, 0.0%, 69.22%) 
+- Attempt 1 BHT: The restored man, recognizing Jesus' divine power, kept on begging to be with him. He prayed to Jesus, fully aware of the demons that had been cast out of him. This man's desire to be with Jesus demonstrates his understanding of both the power and the goodness of God. Although Jesus denied the man's request to be his follower, it is likely that Jesus wanted him to share his incredible story with his Gentile countrymen. This man's response to Jesus's power and favor sets him apart from his fellow countrymen, and he was sent away by Jesus to spread the news of what had happened to him.
+- 🔄 Luke 8:38 (attempt 1, 111 words, 37.1% quotes quality score: 1.4701353643731654, V2 normalized quality score: 40.22, commentator tiers 1-3: 43.99%, 0.0%, 56.01%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Having been freed from the grip of the demons, the man pleaded persistently to accompany Jesus, but Jesus, recognizing the potential of the man's testimony among his own people, instructed him to return home. The man, filled with gratitude for Jesus' power and grace, left obediently, carrying with him the incredible story of his deliverance. Jesus' decision to send him away demonstrates the gentle drawing power of goodness, as opposed to the fear-inducing nature of power, and highlights the importance of sharing the remarkable acts of kindness received from God.
-- 🔄 Luke 8:38 (attempt 2, 92 words, 23.33% quotes quality score: 1.1603391958789646, V2 normalized quality score: 29.92, commentator tiers 1-3: 29.67%, 0.0%, 70.33%) 
+- Attempt 2 BHT: The restored man, recognizing Jesus' divine power, kept on begging to be with him. He prayed to Jesus, fully aware of the demons that had been cast out of him. This man's desire to be with Jesus demonstrates his understanding of both the power and the goodness of God. Although Jesus denied the man's request to be his follower, it is likely that Jesus wanted him to share his incredible story with his Gentile countrymen. This man's response to Jesus's power and favor sets him apart from his fellow countrymen, and he was sent away by Jesus to spread the news of what had happened to him.
+- 🔄 Luke 8:38 (attempt 2, 111 words, 37.1% quotes quality score: 1.4701353643731654, V2 normalized quality score: 40.22, commentator tiers 1-3: 43.99%, 0.0%, 56.01%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The healed man implored Jesus to be allowed to accompany him, but Jesus urged him to go back home. The man, profoundly aware of the power and kindness of Christ, was eager to become a follower and communicate the astonishing miracle he had experienced. Jesus, however, had a different plan for him, knowing that he could be more effective in spreading the news among his own people. Thus, the man obediently departed, carrying with him the story of Christ's divine intervention.
-- 🔄 Luke 8:38 (attempt 3, 82 words, 43.1% quotes quality score: 1.0514349241571588, V2 normalized quality score: 26.3, commentator tiers 1-3: 30.14%, 0.0%, 69.86%) 
+- Attempt 3 BHT: The restored man, recognizing Jesus' divine power, prayed to be with him. His prayers beseeched Jesus, acknowledging the demons that had been expelled from him. This man's plea reveals his understanding of both the power and goodness of God. Although Jesus refused his request to follow him, it is probable that he intended for the man to share his story with his Gentile countrymen. The man's response to Jesus' power and favor distinguished him from others, leading Jesus to send him away to spread the remarkable act of kindness he had received.
+- 🔄 Luke 8:38 (attempt 3, 94 words, 34.48% quotes quality score: 1.4724126847688974, V2 normalized quality score: 40.3, commentator tiers 1-3: 47.6%, 0.0%, 52.4%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The man who had been delivered from the demons pleaded fervently to accompany Jesus, but Jesus felt it was best for him to return home. The man, deeply grateful for the power and favor he had received, longed to be a follower and share his extraordinary testimony. Jesus recognized the man's potential to communicate this remarkable act of kindness to his own people. Consequently, Jesus sent him away, and the man dutifully departed, carrying with him the story of his miraculous deliverance.
-- 🔄 Luke 8:38 (attempt 4, 83 words, 34.48% quotes quality score: 1.121989597062904, V2 normalized quality score: 28.65, commentator tiers 1-3: 28.82%, 0.0%, 71.18%) 
+- Attempt 4 BHT: The restored man, fully aware of Jesus' divine power, devotedly prayed to be with him. Jesus granted his request to accompany him as a follower. This man's steadfastness in beseeching Jesus sets him apart from others, as he comprehends the difference between the knowledge of God's goodness and the knowledge of his power. Jesus, however, chooses to send him away to share his testimony with his Gentile countrymen, magnifying the extraordinary act of kindness he had received from Jesus.
+- 🔄 Luke 8:38 (attempt 4, 81 words, 33.96% quotes quality score: 1.3945452015666289, V2 normalized quality score: 37.71, commentator tiers 1-3: 41.18%, 0.0%, 58.82%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The man, from whom the demons had been cast out, earnestly beseeched Jesus to allow him to go with him. However, Jesus had a different plan in mind for him. Recognizing the man's potential to share his extraordinary experience with his own people, Jesus sent him back home. Filled with gratitude for the power and favor he had received, the man obediently departed, carrying with him the remarkable story of his deliverance.
-- 🔄 Luke 8:38 (attempt 5, 73 words, 40.0% quotes quality score: 1.078597978555306, V2 normalized quality score: 27.21, commentator tiers 1-3: 33.02%, 0.0%, 66.98%) 
+- Attempt 5 BHT: Recognizing Jesus' divine power, the restored man pleaded persistently to accompany him. His prayer attests to his understanding of both the power and goodness of God. Although Jesus declined his request to become his disciple, it is likely that he intended for the man to proclaim the remarkable act of kindness he had experienced to his Gentile compatriots. The man's response, marked by his prayers and fervent plea, distinguishes him, leading Jesus to dismiss him so that he could spread the news of his miraculous deliverance.
+- 🔄 Luke 8:38 (attempt 5, 87 words, 31.58% quotes quality score: 1.4981152453666469, V2 normalized quality score: 41.15, commentator tiers 1-3: 46.14%, 0.0%, 53.86%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 8:38 bht prompt v0.8 (92 words, 23.33% quotes)
-- quality score: 1.1603391958789646, V2 normalized quality score: 29.92, commentator tiers 1-3: 29.67%, 0.0%, 70.33%)
+- ✅ Luke 8:38 bht prompt v0.8 (87 words, 31.58% quotes)
+- quality score: 1.4981152453666469, V2 normalized quality score: 41.15, commentator tiers 1-3: 46.14%, 0.0%, 53.86%)

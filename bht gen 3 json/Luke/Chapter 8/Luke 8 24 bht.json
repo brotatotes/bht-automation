@@ -1,38 +1,37 @@
 {
-    "timestamp": "12-19-2023 16:16:42",
+    "timestamp": "12-25-2023 20:33:08",
     "verseRef": "Luke 8:24",
     "bestBHT": {
-        "bht": "In the midst of a raging storm, the disciples, consumed by fear, woke Jesus from his sleep, urgently crying out, Master, Master, we perish! Jesus, fully aware of the chaotic situation, rose and rebuked the wind and the violent water. Instantly, the storm ceased, replaced by a profound calm. The repetition of their desperate pleas and the vivid description of the storm reveal the disciples' anxiety and their limited comprehension of Jesus' authority over nature's forces.",
-        "wordCount": 77,
-        "quoteTokenProportion": 23.08,
-        "qualityScore": 1.2042230751481198,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.38,
+        "bht": "The disciples, filled with fear as the water raged with violent agitation, desperately awakened Jesus and cried out, Master, Master, we perish. Jesus, having been thoroughly awakened, rose and rebuked the wind and the raging water, bringing about a great calm. His intervention showcased his authority over the forces of nature, comforting the distressed disciples and reminding them of his power to bring peace to the storm.",
+        "wordCount": 67,
+        "quoteTokenProportion": 29.17,
+        "qualityScore": 1.3585059640306345,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.51,
         "commentatorTierSimilarities": [
-            40.27,
+            36.78,
             0.0,
-            59.73
+            63.22
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
             "24.] See notes on Matthew."
         ],
         "Marvin Vincent": [
-            "The raging.",
-            "Arose [\u03b4\u03b9\u03b5\u03b3\u03b5\u03c1\u03b8\u03b5\u03b9\u03c2]. Wrong. It is the word used just before, awoke.",
-            "A calm. Matthew and Mark have 'a great calm.'"
+            "Arose [\u03b4\u03b9\u03b5\u03b3\u03b5\u03c1\u03b8\u03b5\u03b9\u03c2] . Wrong. It is the word used just before, awoke. Lit., having been thoroughly awakened.\" ",
+            "Luke is especially fond of compounds with dia.",
+            "Matthew and Mark have 'a great calm.'"
         ],
         "Archibald T. Robertson": [
             "The repetition here shows the uneasiness of the disciples.",
-            "The raging of the water...a boisterous surge, a violent agitation.",
-            "It is almost result."
+            "We perish... we are perishing.",
+            "The raging of the water... a boisterous surge, a violent agitation."
         ],
         "John Gill": [
-            "And they came to him, and awoke him,.... That is, the disciples came from some part of the ship, to the hinder part of it, where Christ was asleep; and by their shrieks and cries, and repeated vociferations, awaked him out of sleep:",
-            " ",
-            "Saying, Master, Master, we perish. The Vulgate Latin, Arabic, and Ethiopic versions, only read 'master', without a repetition of the word, as in Matthew and Mark; but the Syriac and Persic versions repeat it, and render the words, 'our master, our master';",
-            "Then he rose, and rebuked the wind, and the raging of the water, and they ceased, and there was a calm;"
+            "And they came to him, and awoke him... saying, Master, Master, we perish.\" ",
+            "Then he rose, and rebuked the wind, and the raging of the water, and they ceased.\" ",
+            "And there was a calm."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -52,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples, in a state of panic, woke Jesus from his sleep, tremblingly expressing their fear that they were perishing. This prompted Jesus to rise and rebuke the wind and the violent, agitated water. As a result, the stormy waters immediately ceased and a great calm ensued. The repetition of their pleas and the description of the storm emphasize the disciples' uneasiness, highlighting their limited understanding of Jesus' power and authority over nature.",
-            "wordCount": 73,
-            "quoteTokenProportion": 28.85,
-            "qualityScore": 1.1883255360433003,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "bht": "The disciples were in distress as waves crashed against their boat, fearing that they would perish. As they desperately woke Jesus from his sleep and pleaded for help, he arose and rebuked the wind and the violent waves, commanding them to cease. The repetition of their cries and the use of strong words like raging and boisterous highlight the intensity of the situation. Jesus's intervention brought about a great calm, displaying his power over the forces of nature.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.1539631961131676,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.71,
             "commentatorTierSimilarities": [
-                39.17,
+                41.95,
                 0.0,
-                60.83
+                58.05
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples, overcome by fear as the water raged and the wind roared, approached Jesus and woke him from his slumber. They urgently cried out, Master, Master, we perish! Jesus, fully aware of the tumultuous situation, rose and rebuked the wind and the surging water. In response to his authority, the storm abruptly ceased, and an atmosphere of serene tranquility settled upon them. The repetition of their plea reflects the disciples' distress, underscoring their limited understanding of Jesus' dominion even over nature's forces.",
-            "wordCount": 84,
-            "quoteTokenProportion": 31.15,
-            "qualityScore": 1.1226683631147494,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.67,
+            "bht": "The disciples, in the midst of a boisterous surge and violent agitation of the water, were in a state of panic, fearing that they would perish. Desperately seeking help, they came to Jesus and awoke him, pleading for his intervention. Jesus, having been thoroughly awakened, rose and rebuked the wind and the raging of the water, commanding them to cease. His authority over the forces of nature was displayed as a great calm settled upon the tumultuous scene.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.2021334957946652,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.31,
             "commentatorTierSimilarities": [
-                34.68,
+                34.37,
                 0.0,
-                65.32
+                65.63
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples, in a state of panic, woke Jesus, tremblingly expressing their fear that they were perishing. This prompted Jesus to rise and rebuke the wind and the violent water. As a result, the stormy waters immediately ceased and a great calm ensued. The repetition of their pleas and the description of the storm emphasize the disciples' uneasiness, highlighting their limited understanding of Jesus' power and authority over nature.",
-            "wordCount": 69,
-            "quoteTokenProportion": 27.08,
-            "qualityScore": 1.171190853634557,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.29,
+            "bht": "In the face of a threatening storm, the disciples found themselves in great distress as the water raged and surged violently around them. Overwhelmed with fear, they urgently woke Jesus, using multiple pleas of Master, Master, we perish. Jesus, having been thoroughly awakened, rose and rebuked the wind and the turbulent water, causing them to cease. His intervention brought about a remarkable calm, demonstrating his authority over the forces of nature and bringing peace to their tumultuous situation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.17470648865719,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.4,
             "commentatorTierSimilarities": [
-                39.97,
+                34.98,
                 0.0,
-                60.03
+                65.02
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples, overcome by fear as the water raged and the wind roared, approached Jesus and woke him from his slumber. They urgently cried out, Master, Master, we perish! Jesus, fully aware of the tumultuous situation, rose and rebuked the wind and the surging water. In response to his authority, the storm abruptly ceased, and an atmosphere of serene tranquility settled upon them. The repetition of their plea reflects the disciples' distress, underscoring their limited understanding of Jesus' dominion even over nature's forces.",
-            "wordCount": 84,
-            "quoteTokenProportion": 31.15,
-            "qualityScore": 1.1226683631147494,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.67,
+            "bht": "The disciples, filled with fear as the water raged with violent agitation, desperately awakened Jesus and cried out, Master, Master, we perish. Jesus, having been thoroughly awakened, rose and rebuked the wind and the raging water, bringing about a great calm. His intervention showcased his authority over the forces of nature, comforting the distressed disciples and reminding them of his power to bring peace to the storm.",
+            "wordCount": 67,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.3585059640306345,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
             "commentatorTierSimilarities": [
-                34.68,
+                36.78,
                 0.0,
-                65.32
+                63.22
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the midst of a raging storm, the disciples, consumed by fear, woke Jesus from his sleep, urgently crying out, Master, Master, we perish! Jesus, fully aware of the chaotic situation, rose and rebuked the wind and the violent water. Instantly, the storm ceased, replaced by a profound calm. The repetition of their desperate pleas and the vivid description of the storm reveal the disciples' anxiety and their limited comprehension of Jesus' authority over nature's forces.",
-            "wordCount": 77,
-            "quoteTokenProportion": 23.08,
-            "qualityScore": 1.2042230751481198,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.38,
+            "bht": "In the face of a tumultuous and dangerous situation, the disciples felt overwhelmed with fear, believing that they were perishing. With a sense of urgency, they came to Jesus and awoke him, calling out to him as Master, Master. Jesus, having been thoroughly awakened, rose and rebuked the wind and the raging waters, causing them to cease. The repetition of the disciples' cries and the vivid description of the storm highlight the intensity of the situation. Jesus's display of power over the forces of nature, resulting in a great calm, reassured his disciples and demonstrated his authority.",
+            "wordCount": 98,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.2235679416267509,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.03,
             "commentatorTierSimilarities": [
-                40.27,
+                37.02,
                 0.0,
-                59.73
+                62.98
             ],
             "generationAttempt": 5
         }

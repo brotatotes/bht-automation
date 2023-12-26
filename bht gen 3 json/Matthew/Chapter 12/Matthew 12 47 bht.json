@@ -1,24 +1,23 @@
 {
-    "timestamp": "12-19-2023 23:47:11",
+    "timestamp": "12-25-2023 20:31:49",
     "verseRef": "Matthew 12:47",
     "bestBHT": {
-        "bht": "Interrupted in His discourse, Jesus saw the interruption as a chance to impart a profound lesson, displaying remarkable condescension. Some manuscripts omit this, but Mark and Luke include it. The motive for the interruption remains unclear\u2014whether it was a genuine message from Jesus' family or a test of His devotion. Nevertheless, Jesus prioritized His spiritual work, showing His dedication to the souls of people over His natural relations.",
-        "wordCount": 69,
-        "quoteTokenProportion": 35.85,
-        "qualityScore": 1.4321013998836396,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+        "bht": "While Jesus was delivering a powerful message, He was interrupted by His mother and brothers seeking His attention. Instead of rebuking them, Jesus used this interruption to teach a profound lesson in a remarkably humble way. This incident, though some manuscripts omit it, is mentioned in other Gospels, showing its authenticity. It is debated whether this interruption was intended to genuinely inform Jesus or if it was an attempt to disrupt His work. Regardless, Jesus used the moment to convey a significant spiritual truth.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.6991414059952223,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.84,
         "commentatorTierSimilarities": [
-            31.52,
-            44.63,
-            23.86
+            26.84,
+            44.8,
+            28.36
         ],
-        "generationAttempt": 4
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Absorbed in the awful warnings He was pouring forth, He felt this to be an unseasonable interruption, fitted to dissipate the impression made upon the large audience\u2014such an interruption as duty to the nearest relatives did not require Him to give way to.",
-            "But instead of a direct rebuke, He seizes on the incident to convey a sublime lesson.",
-            "Expressed in a style of inimitable condescension."
+            "Absorbed in the awful warnings He was pouring forth, He felt this to be an unseasonable interruption, fitted to dissipate the impression made upon the large audience.\" (Quote 1)",
+            "But instead of a direct rebuke, He seizes on the incident to convey a sublime lesson, expressed in a style of inimitable condescension.\" (Quote 2)"
         ],
         "Philip Schaff": [
             "We need not suppose that this unnamed person wished to interrupt the discourse, still less that he would call attention to the humble relatives to prove that Jesus was not the Messiah."
@@ -29,9 +28,9 @@
             "It was probably copied into Matthew from Mark or Luke."
         ],
         "John Gill": [
-            "Whether this message was carried at the request of the mother and brethren of Christ, and delivered in a simple manner, and with an honest intention; or whether it was officiously done, and with a design to interrupt him, and to try him, whether he would prefer his natural relations, and their society and conversation, to the spiritual work in which he was engaged, in doing good to the souls of men, is not certain.\" ",
-            "The latter seems probable, from the following words, and conduct of Christ.",
-            "Some copies read, 'desiring to see thee'."
+            "Upon his mother and brethren calling to him, as Mark says they did; first one and then another, and more, might apprise him of it.\" ",
+            "Whether this message was carried at the request of the mother and brethren of Christ, and delivered in a simple manner, and with an honest intention.",
+            "Whether it was officiously done, and with a design to interrupt him, and to try him, whether he would prefer his natural relations, and their society and conversation, to the spiritual work in which he was engaged."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -51,67 +50,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In the midst of delivering warnings to a large audience, Jesus was interrupted by an unnamed person. Instead of rebuking them, Jesus used the interruption as an opportunity to convey a profound lesson, demonstrating remarkable condescension. While some manuscripts omit this verse, others include it in Mark and Luke. It is debated whether the interruption was with the honest intention of delivering a message from Jesus' mother and brethren or if it was an attempt to test Jesus' devotion to his spiritual work. Regardless, Jesus' response suggests the latter, as he prioritized the souls of men over his natural relations.",
-            "wordCount": 100,
-            "quoteTokenProportion": 38.03,
-            "qualityScore": 1.6469571473301252,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "bht": "While Jesus was delivering a powerful message, He was interrupted by His mother and brothers seeking His attention. Instead of rebuking them, Jesus used this interruption to teach a profound lesson in a remarkably humble way. This incident, though some manuscripts omit it, is mentioned in other Gospels, showing its authenticity. It is debated whether this interruption was intended to genuinely inform Jesus or if it was an attempt to disrupt His work. Regardless, Jesus used the moment to convey a significant spiritual truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6991414059952223,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.84,
             "commentatorTierSimilarities": [
-                26.94,
-                49.85,
-                23.22
+                26.84,
+                44.8,
+                28.36
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Interrupted while delivering warnings, Jesus seized the opportunity to impart a profound lesson, displaying unmatched condescension. Although some manuscripts omit this passage, it is found in Mark and Luke. The motive behind the interruption is unclear\u2014whether it was an attempt to test Jesus' commitment to his spiritual work or a genuine message from his family. Nevertheless, Jesus prioritized his spiritual mission, showcasing his devotion to the souls of people.",
-            "wordCount": 70,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.4342463812891226,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.03,
+            "bht": "In the midst of delivering a weighty message, Jesus was unexpectedly interrupted by His mother and brothers, a disruption that could potentially diminish the impact of His words. However, rather than responding with rebuke, Jesus saw this as an opportunity to impart a profound lesson, displaying His remarkable humility. Although this incident is omitted in some manuscripts, its presence in other Gospels attests to its authenticity. It is debated whether this interruption was a sincere attempt to inform Jesus or a deliberate effort to distract Him. Regardless, Jesus seized the moment to convey a significant spiritual truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.6728988812484553,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
             "commentatorTierSimilarities": [
-                31.95,
-                42.72,
-                25.33
+                27.87,
+                45.15,
+                26.97
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Absorbed in His warnings, Jesus found the interruption unseasonable yet used it as an opportunity to teach. Expressing unparalleled condescension, He addressed the interruption without rebuke. Though some manuscripts omit this, it is present in Mark and Luke. The purpose of the interruption remains uncertain, whether it was a genuine message from His family or a test of His dedication. Regardless, Jesus prioritized His spiritual mission, underscoring His commitment to the souls of people.",
-            "wordCount": 74,
-            "quoteTokenProportion": 39.29,
-            "qualityScore": 1.3751237163838426,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.07,
+            "bht": "During a momentous sermon, Jesus was interrupted by His concerned mother and brothers, a disruption that had the potential to distract the audience from His impactful words. Instead of reproach, Jesus used the interruption as an opportunity to deliver a sublime lesson, demonstrating His unmatched humility. While this verse is omitted in some manuscripts, its inclusion in other Gospels confirms its authenticity. The nature of the interruption remains debated, with questions over whether it was a genuine attempt to inform Jesus or a calculated ploy to test His priorities. Nevertheless, Jesus skillfully used the moment to convey a profound spiritual truth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.6172990573723687,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
             "commentatorTierSimilarities": [
-                35.43,
-                43.85,
-                20.72
+                28.48,
+                44.81,
+                26.71
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Interrupted in His discourse, Jesus saw the interruption as a chance to impart a profound lesson, displaying remarkable condescension. Some manuscripts omit this, but Mark and Luke include it. The motive for the interruption remains unclear\u2014whether it was a genuine message from Jesus' family or a test of His devotion. Nevertheless, Jesus prioritized His spiritual work, showing His dedication to the souls of people over His natural relations.",
-            "wordCount": 69,
-            "quoteTokenProportion": 35.85,
-            "qualityScore": 1.4321013998836396,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "bht": "Amidst His powerful discourse, Jesus faced an unexpected interruption from His mother and brothers, a disruption that risked diluting the impact of His message. Yet, in His remarkable humility, Jesus transformed this circumstance into an opportunity for a profound teaching, rather than responding with rebuke. Although some manuscripts omit this incident, its authenticity is supported by its presence in other Gospels. Scholars debate whether the interruption was well-intentioned information or a deliberate test of His priorities. Regardless, Jesus used this moment to convey an enduring spiritual truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.4562873920008303,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.76,
             "commentatorTierSimilarities": [
-                31.52,
-                44.63,
-                23.86
+                29.65,
+                41.41,
+                28.94
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the midst of pouring forth solemn warnings, Jesus faced an interruption. Instead of rebuking it directly, He seized the incident as an opportunity to convey a sublime lesson, demonstrating unmatched condescension. While some manuscripts omit this verse, it is found in Mark and Luke. The purpose of the interruption is uncertain - whether it was an honest message from Jesus' family or an attempt to test His commitment to His spiritual work. Regardless, Jesus showed His prioritization of souls over natural relations.",
-            "wordCount": 82,
-            "quoteTokenProportion": 32.26,
-            "qualityScore": 1.4227953093694985,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.65,
+            "bht": "While Jesus was powerfully delivering His message, His mother and brothers interrupted Him, potentially diminishing the impact of His words. In a display of unparalleled humility, Jesus seized this interruption as an opportunity to impart a profound lesson. Although some manuscripts omit this incident, its presence in other Gospels testifies to its authenticity. Scholars debate whether the interruption was an honest attempt to inform Jesus or a calculated test. Nevertheless, Jesus skillfully utilized the moment to convey a significant spiritual truth that resonates throughout the ages.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5860966509638588,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
             "commentatorTierSimilarities": [
-                33.63,
-                42.49,
-                23.88
+                28.15,
+                44.88,
+                26.96
             ],
             "generationAttempt": 5
         }

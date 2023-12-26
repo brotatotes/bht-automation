@@ -1,25 +1,25 @@
 {
-    "timestamp": "12-19-2023 16:22:12",
+    "timestamp": "12-25-2023 20:33:33",
     "verseRef": "Luke 20:22",
     "bestBHT": {
-        "bht": "The discussion centers around tribute, a form of payment. Luke uses the Greek term for tribute, while Matthew and Mark employ the Latin equivalent. The tribute mentioned could be an annual tax on land and houses. The question arises not about its legality for the Romans, but for the Jews who consider themselves Abraham's seed and the Lord's free people. The emphasis lies on the phrase for us, highlighting the tension surrounding the question of whether it is lawful to pay tribute to a heathen emperor.",
-        "wordCount": 88,
-        "quoteTokenProportion": 34.92,
-        "qualityScore": 1.4240901196686777,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.69,
+        "bht": "The debate revolves around whether it is lawful for the Jews, who consider themselves free and descendants of Abraham, to pay tribute, an annual tax brought as payment. Luke employs the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The question emphasizes the phrase for us, raising the issue of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly referring to the coin's depiction of Tiberius.",
+        "wordCount": 80,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.5688797731532738,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.51,
         "commentatorTierSimilarities": [
-            27.77,
-            32.72,
-            39.52
+            26.71,
+            34.57,
+            38.72
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "22. tribute\u2014(See on :-)."
         ],
         "Marvin Vincent": [
-            "Tribute [\u03c6\u03bf\u03c1\u03bf\u03bd] . Something, therefore, which is brought in by way of payment.",
+            "Tribute [\u03c6\u03bf\u03c1\u03bf\u03bd] . From ferw, to bring. Something, therefore, which is brought in by way of payment.",
             "Luke uses the Greek word instead of the Latin khnson, census, in Matthew and Mark."
         ],
         "Philip Schaff": [
@@ -27,9 +27,9 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "The picture on the coin may have been that of Tiberius.",
-            "Tribute (\u03c6\u03bf\u03c1\u03bf\u03bd). Old word for the annual tax on land, houses, etc.",
-            "Mark and Matthew have \u03ba\u03b7\u03bd\u03c3\u03bf\u03bd, which see for this Latin word in Greek letters."
+            "Tribute (\u03c6\u03bf\u03c1\u03bf\u03bd). Old word for the annual tax on land, houses, etc.\" ",
+            "Mark and Matthew have \u03ba\u03b7\u03bd\u03c3\u03bf\u03bd, which see for this Latin word in Greek letters.\" ",
+            "The picture on the coin may have been that of Tiberius."
         ],
         "John Gill": [
             "The doubt pretended, was not whether it was lawful for the Romans to pay tribute to Caesar, but whether it was lawful for them who were Jews, were Abraham's seed, and, as they boasted, were never in bondage, but were the Lord's free people, to pay tribute to an Heathen emperor, or no.",
@@ -54,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse discusses the concept of tribute, which is a form of payment. Luke uses the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The tribute in question may have been an annual tax on land or houses. The question being raised is not whether it is lawful for the Romans to pay tribute, but whether it is lawful for the Jews, who consider themselves Abraham's seed and the Lord's free people, to pay tribute to a heathen emperor. The emphasis lies on the phrase for us.",
-            "wordCount": 93,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.505518822759014,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.4,
+            "bht": "The verse speaks of tribute, referring to an annual tax brought as a form of payment. Luke uses the Greek word fortribute, while Matthew and Mark use the Latin equivalent. The debate in this passage centers on whether it is lawful for the Jews, who consider themselves free people and descendants of Abraham, to pay tribute to a non-Jewish ruler. The emphasis lies on the phrase for us, highlighting the question of whether it is permissible for them to pay this tax. The Syriac and Persic versions translate it as head money, perhaps referring to the coin's depiction of Tiberius.",
+            "wordCount": 102,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.5177750422299954,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.81,
             "commentatorTierSimilarities": [
-                28.5,
-                32.14,
-                39.36
+                27.06,
+                33.59,
+                39.35
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The verse revolves around the concept of tribute, which is a form of payment. Luke uses the Greek word for tribute, while Matthew and Mark use the Latin equivalent. Tribute could have been an annual tax on land or houses that the Jews, who consider themselves the Lord's free people, were questioning the lawfulness of paying to a heathen emperor. The emphasis rests on the phrase for us.",
-            "wordCount": 69,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.543265804411715,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+            "bht": "The debate centers on the Jewish people's obligation to pay tribute, an annual tax brought as payment. Luke employs the Greek word for tribute, while Matthew and Mark use the Latin equivalent. It questions whether it is lawful for the Jews, who consider themselves free and descendants of Abraham, to pay tribute to a non-Jewish ruler. The phrase for us carries emphasis, highlighting the question of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly alluding to the coin's depiction of Tiberius.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.4745194643720276,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
             "commentatorTierSimilarities": [
-                29.98,
-                34.95,
-                35.07
+                26.69,
+                33.07,
+                40.25
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The discussion centers around tribute, a payment brought in as a form of tax. Luke uses the Greek word for tribute, while Matthew and Mark employ the Latin equivalent. It is suggested that the tribute mentioned could be an annual tax on land and houses. The question being posed is not whether it is lawful for the Romans to pay tribute, but rather if it is lawful for the Jews, who see themselves as Abraham's seed and the Lord's free people, to pay tribute to a heathen emperor. The crucial element lies in the phrase for us.",
-            "wordCount": 99,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.3920682129832262,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.63,
+            "bht": "The debate revolves around whether it is lawful for the Jews, who consider themselves free and descendants of Abraham, to pay tribute, an annual tax brought as payment. Luke employs the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The question emphasizes the phrase for us, raising the issue of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly referring to the coin's depiction of Tiberius.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5688797731532738,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
             "commentatorTierSimilarities": [
-                29.26,
-                33.48,
-                37.26
+                26.71,
+                34.57,
+                38.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The discussion centers around tribute, a form of payment. Luke uses the Greek term for tribute, while Matthew and Mark employ the Latin equivalent. The tribute mentioned could be an annual tax on land and houses. The question arises not about its legality for the Romans, but for the Jews who consider themselves Abraham's seed and the Lord's free people. The emphasis lies on the phrase for us, highlighting the tension surrounding the question of whether it is lawful to pay tribute to a heathen emperor.",
-            "wordCount": 88,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 1.4240901196686777,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.69,
+            "bht": "The debate centers around whether it is lawful for the Jews, who claim to be free people and descendants of Abraham, to pay tribute in the form of an annual tax. Luke uses the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The question emphasizes the phrase for us, highlighting the issue of whether this tax is permissible. The Syriac and Persic versions translate it as head money, possibly alluding to the coin's depiction of Tiberius.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.515386391764196,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
             "commentatorTierSimilarities": [
-                27.77,
-                32.72,
-                39.52
+                26.65,
+                34.19,
+                39.15
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The discussion revolves around tribute, a payment brought in as a form of tax. Luke uses the Greek word for tribute, and Matthew and Mark use the Latin equivalent. It may have been an annual tax on land or houses. The issue at hand is not the legality of Romans paying tribute but whether it is acceptable for Jews, who consider themselves the Lord's free people, to pay tribute to a heathen emperor. The phrase for us holds the weight of the question.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.4007953854805515,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.92,
+            "bht": "The dispute arises regarding the legality of the Jewish people, who identify themselves as descendants of Abraham and profess their freedom, paying tribute in the form of an annual tax. While Matthew and Mark utilize the Latin word tribute, Luke employs the Greek equivalent. The significance lies in the phrase for us, emphasizing the question of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly referring to the coin's depiction of Tiberius.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.5447857629829747,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.71,
             "commentatorTierSimilarities": [
-                30.28,
-                34.87,
-                34.84
+                26.96,
+                34.51,
+                38.53
             ],
             "generationAttempt": 5
         }

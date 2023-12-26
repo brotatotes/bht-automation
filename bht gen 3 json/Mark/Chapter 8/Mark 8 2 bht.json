@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-22-2023 23:24:17",
+    "timestamp": "12-25-2023 20:32:33",
     "verseRef": "Mark 8:2",
     "bestBHT": {
-        "bht": "Jesus' compassion for the multitude arose from a profound empathy within His noble entrails, or the inward parts and seat of His affections. He saw their physical need after spending three days together, and His deep emotion preceded His remarkable intervention for their relief. His care extended to both their bodies and souls, as His bowels yearned towards them all. Despite His exhaustion, Jesus was driven by His love and concern for the people, voicing His desire to provide a solution for their lack of food.",
-        "wordCount": 86,
-        "quoteTokenProportion": 34.92,
-        "qualityScore": 1.1508708445732108,
-        "qualityScoreNormalizedComparedToV2BHTs": 29.61,
+        "bht": "Jesus, filled with compassion for the multitude, is moved by the deep emotion in His heart that always precedes His remarkable acts of relief. Recognizing their constant attendance for three days without food, He expresses His tender mercy and affection, symbolized by the use of the term bowels to describe His inward parts. The disciples, witnessing this compassion, are aware of Jesus' love for the people and the urgency to provide for their physical needs.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.239919147385811,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.57,
         "commentatorTierSimilarities": [
-            36.66,
+            54.02,
             0.0,
-            63.34
+            45.98
         ],
         "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "I have compassion on the multitude\u2014an expression of that deep emotion in the Redeemer's heart which always preceded some remarkable interposition for relief.\" ",
-            "because they have now been with me\u2014in constant attendance.\" ",
+            "I have compassion on the multitude\u2014an expression of that deep emotion in the Redeemer's heart which always preceded some remarkable interposition for relief.",
+            "because they have now been with me\u2014in constant attendance.",
             "three days, and have nothing to eat."
         ],
         "Marvin Vincent": [
             "A peculiar verb, from splagcna, the inward parts, especially the nobler entrails - the heart, lungs, liver, and kidneys.",
-            "These came gradually to denote the seat of the affections, like our word heart.",
-            "The Rev. has properly rejected it in every such case, using it only in its literal sense in the single passage, Acts 1:18."
+            "This explains the frequent use of the word bowels in the A. V. in the sense of tender mercy, affection, compassion.",
+            "They have been with me [\u03c0\u03c1\u03bf\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c3\u03b9\u03bd] . Lit., they continue, as Rev."
         ],
         "Archibald T. Robertson": [
             "Now three days (\u03b7\u03b4\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03c4\u03c1\u03b5\u03b9\u03c2). This text preserves a curious parenthetic nominative of time (Robertson, Grammar, p. 460). See on Matthew 15:32. "
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse describes how Jesus had compassion on the multitude because they had been with him for three days and had nothing to eat. This compassion was not just a surface-level emotion, but a deep feeling that stirred within the innermost parts of Jesus' heart. He saw their physical need and was moved to provide for them, showing his care for both their bodies and souls. Despite being exhausted from their time together, Jesus was driven by his love and concern for the people, and his bowels yearned towards them all.",
-            "wordCount": 92,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.2397423728352046,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.56,
+            "bht": "Jesus, moved by deep compassion for the multitude, decides to intercede on their behalf and provide them with food. He acknowledges that they have faithfully followed Him for three days, enduring hunger. This compassion that Jesus feels is often described as coming from His inward parts, particularly His heart, lungs, liver, and kidneys, symbolizing His tender mercy towards humanity. It is noteworthy that the disciples have also witnessed this emotion and are aware of Jesus' deep love for the people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.1870108197362728,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.81,
             "commentatorTierSimilarities": [
-                41.83,
+                47.28,
                 0.0,
-                58.17
+                52.72
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus' compassion for the multitude was not a shallow response but stemmed from a deep and genuine care within the core of His being. He understood their physical need, having spent three days with them, and recognized the urgency to provide for them. His love extended far beyond their material well-being, encompassing their souls as well. Despite his own weariness, Jesus' innermost being stirred with compassion, yearning to meet the needs of everyone present.",
-            "wordCount": 75,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.0721031486798727,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.99,
+            "bht": "Having deep compassion for the multitude is an expression of the profound emotion within Jesus' heart that always precedes His remarkable acts of relief. He acknowledges the faithful attendance of the people who have been with Him for three days, enduring hunger. This compassion, often described as arising from His inward parts, signifies His tender mercy and affection towards humanity. The disciples are also aware of this inward emotion in Jesus and the depth of His love for the people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.1358284125083509,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.11,
             "commentatorTierSimilarities": [
-                45.05,
+                55.9,
                 0.0,
-                54.95
+                44.1
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus' compassion for the multitude arose from a profound empathy within His noble entrails, or the inward parts and seat of His affections. He saw their physical need after spending three days together, and His deep emotion preceded His remarkable intervention for their relief. His care extended to both their bodies and souls, as His bowels yearned towards them all. Despite His exhaustion, Jesus was driven by His love and concern for the people, voicing His desire to provide a solution for their lack of food.",
-            "wordCount": 86,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 1.1508708445732108,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.61,
+            "bht": "Jesus, filled with compassion for the multitude, is moved by the deep emotion in His heart that always precedes His remarkable acts of relief. Recognizing their constant attendance for three days without food, He expresses His tender mercy and affection, symbolized by the use of the term bowels to describe His inward parts. The disciples, witnessing this compassion, are aware of Jesus' love for the people and the urgency to provide for their physical needs.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.239919147385811,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.57,
             "commentatorTierSimilarities": [
-                36.66,
+                54.02,
                 0.0,
-                63.34
+                45.98
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus was moved with compassion for the multitude, with His deep emotions stirred within. Having spent three days together, He witnessed their desperate need for food. His care extended to their physical and spiritual well-being, as His very core longed to meet their needs. Even though exhausted from His time with them, Jesus' love and concern compelled Him to provide for them. His compassion exemplified His role as a compassionate Savior, providing for both their bodies and souls.",
-            "wordCount": 79,
-            "quoteTokenProportion": 39.66,
-            "qualityScore": 1.0959672497597759,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.78,
+            "bht": "With great compassion, Jesus is deeply moved by the multitude's plight and is compelled to intervene on their behalf. Having witnessed their unwavering devotion for three days, enduring hunger, Jesus understands the urgency to provide relief. Describing His inward emotion, the term bowels emphasizes His tender mercy and affection. The disciples also recognize this compassion in Jesus and comprehend His profound love for the people, driving them to take immediate action in meeting their physical needs.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.1555930942650006,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.77,
             "commentatorTierSimilarities": [
-                37.08,
+                52.91,
                 0.0,
-                62.92
+                47.09
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus' compassion for the multitude stemmed from His deep emotion and constant presence with them for three days. He saw their dire circumstances, with nothing to eat. His care extended to their physical needs, as His inward parts, the seat of His affections, were moved by their plight. Despite His fatigue, Jesus' love and concern drove Him to intervene and provide relief. His compassion exemplified his role as a Savior who cared for both their bodies and souls.",
-            "wordCount": 78,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.1044208901874621,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.07,
+            "bht": "In Mark 8:2, Jesus is motivated by His deep compassion for the multitude, which is a strong indication that He is about to perform a significant act of relief for them. Recognizing their continuous presence and devotion for three days, despite having nothing to eat, highlights their faithfulness. The term bowels is used to convey Jesus' tender mercy and affection, representing His inward emotions. The disciples are aware of this compassion displayed by Jesus, revealing His immense love and prompting them to take action to address the physical needs of the people.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.1377579267466102,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.17,
             "commentatorTierSimilarities": [
-                37.3,
+                54.61,
                 0.0,
-                62.7
+                45.39
             ],
             "generationAttempt": 5
         }

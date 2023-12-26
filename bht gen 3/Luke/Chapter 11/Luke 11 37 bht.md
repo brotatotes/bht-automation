@@ -1,80 +1,79 @@
 # Luke 11:37 Commentary Help Text
 
 ## BHT:
-While reproving the generation, Jesus accepted an invitation to dine with a Pharisee for breakfast. This meal held significance as the morning repast after prayers in the synagogue. Despite knowing that his neglect of ceremonial washing would cause offense, Jesus declined to observe it, emphasizing spiritual purity over outward cleanliness. He willingly went with the Pharisee and immediately sat down, demonstrating that God values inner righteousness above religious rituals and external appearances. This incident teaches us the importance of true purity and the hypocrisy of substituting outward forms for genuine worship.
+The meal mentioned here is not a dinner but rather a morning meal known as dine, after morning prayers in the synagogue. Jesus intentionally disregarded outward ceremonies to correct people's superstitions and valued spiritual righteousness over external cleanness. Despite knowing the Pharisee's evil design, Jesus did not decline the ordinary invitation, using it as an opportunity to do good. He sat down without any formalities, displaying his affable nature and willingness to engage with all sorts of people.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "This meal, as also that in John xxi. 12, 15, was not what we now understand by dinner, an afternoon meal, but the first meal of the day, the breakfast or dejeuner in the prime of the morning."
-2. "We may retain dine (indeed we have no other fitting word) provided we remember this."
-3. "We may retain dine (indeed we have no other fitting word) provided we remember this."
+1. "This meal, as also that in John xxi. 12, 15, was not what we now understand by dinner..." (37)
+2. "We may retain dine (indeed we have no other fitting word) provided we remember this." (37)
+3. "...the first meal of the day, the breakfast or dejeuner in the prime of the morning." (37)
 
 ### Albert Barnes:
-1. "While he was addressing the people, and particularly while he was reproving that generation and declaring its crimes."
-2. "He knew that it might afford him an opportunity to do good."
-3. "Reclined at the table."
+1. "He went in - Though he knew the evil design of the Pharisee, yet he did not decline the invitation. He knew that it might afford him an opportunity to do good."
+2. "These two things are to be observed in regard to our Saviour’s conduct in such matters."
+3. "Sat down - Reclined at the table."
 
 ### Marvin Vincent:
-1. "Besought [ερωτα] . Too strong. Better, as Rev., asketh. The present tense." 
-2. "Dine [αριστηση] . See on dinner, Matthew 22:4. The morning meal, immediately after the return from morning prayers in the synagogue."
-3. "Washed [εβαπτισθη] . See on Mark 7:4."
+1. "Besought (asketh). The present tense."
+2. "Dine. The morning meal, immediately after the return from morning prayers in the synagogue."
+3. "Washed. See on Mark 7:4."
 
 ### John Calvin:
-1. "God had prescribed in his Law certain kinds of washings, that by means of them he might train his people usefully to the consideration of true purity."
-2. "This fault was accompanied by wicked confidence; for they cared little about the spiritual worship of God, and thought that they had perfectly discharged their duty, when the figure was substituted in the place of God."
-3. "Christ is fully aware that his neglect of this ceremony will give offense, but he declines to observe it, in order to show that God sets very little value on outward cleanness, but demands the spiritual righteousness of the heart."
+1. "Christ, in order to correct the superstition of the people, intentionally disregarded outward ceremonies of human invention." 
+2. "God sets very little value on outward cleanness, but demands the spiritual righteousness of the heart."
+3. "They cared little about the spiritual worship of God, and thought that they had perfectly discharged their duty, when the figure was substituted in the place of God."
 
 ### Philip Schaff:
-1. "While he had been speaking, i.e., the foregoing. A reference to some other time is barely possible, certainly not natural."
+1. "A reference to some other time is barely possible, certainly not natural."
 2. "‘Besought’ is too strong; it was an ordinary invitation."
 3. "The meal was not the principal repast of the day, but a morning one."
 
 ### Archibald T. Robertson:
-1. "No time in the aorist infinitive."
-2. "Request, not question."
-3. "The verb is from αριστον (breakfast)."
+1. "εν with the articular infinitive (aorist active infinitive) but it does not mean 'after he had spoken' as Plummer argues, but simply 'in the speaking,' no time in the aorist infinitive." 
+2. "Note οπως rather than the common ινα. Aorist active subjunctive rather than present, for a single meal." 
+3. "Second aorist active indicative of αναπιπτω, old verb, to recline, to fall back on the sofa or lounge."
 
 ### John Gill:
-1. "Christ, who was always affable and free with all sorts of men, readily accepted of the invitation."
-2. "Whatever were the intentions of the Pharisee, Christ...at once went along with him to his house."
-3. "He immediately sat down without any ceremony."
+1. "who was an overmatch for them before the people"
+2. "Christ, who was always affable and free with all sorts of men"
+3. "he immediately sat down without any ceremony"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:18:41
+- Timestamp: 12-25-2023 20:33:27
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 30.14%
-- BHT Quality Score: 1.3582140032494974
+- BHT Word Count: 80
+- BHT Commentary Usage: 39.39%
+- BHT Quality Score: 1.4392879912559855
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (73):
-	['a', 'above', 'accepted', 'after', 'an', 'and', 'appearances', 'as', 'breakfast', 'cause', 'ceremonial', 'cleanliness', 'declined', 'demonstrating', 'despite', 'dine', 'down', 'emphasizing', 'external', 'for', 'forms', 'generation', 'genuine', 'god', 'he', 'held', 'his', 'hypocrisy', 'immediately', 'importance', 'in', 'incident', 'inner', 'invitation', 'it', 'jesus', 'knowing', 'meal', 'morning', 'neglect', 'observe', 'of', 'offense', 'outward', 'over', 'pharisee', 'prayers', 'purity', 'religious', 'repast', 'reproving', 'righteousness', 'rituals', 'sat', 'significance', 'spiritual', 'substituting', 'synagogue', 'teaches', 'that', 'the', 'this', 'to', 'true', 'us', 'values', 'washing', 'went', 'while', 'willingly', 'with', 'worship', 'would']
-- ChatGPT injected words (significant words only) (51):
-	['accepted', 'appearances', 'breakfast', 'cause', 'ceremonial', 'cleanliness', 'declined', 'demonstrating', 'despite', 'dine', 'emphasizing', 'external', 'forms', 'generation', 'genuine', 'god', 'held', 'hypocrisy', 'immediately', 'importance', 'incident', 'inner', 'invitation', 'jesus', 'knowing', 'meal', 'morning', 'neglect', 'observe', 'offense', 'outward', 'pharisee', 'prayers', 'purity', 'religious', 'repast', 'reproving', 'righteousness', 'rituals', 'sat', 'significance', 'spiritual', 'substituting', 'synagogue', 'teaches', 'true', 'values', 'washing', 'went', 'willingly', 'worship']
+- ChatGPT injected words (66):
+	['a', 'affable', 'after', 'all', 'an', 'and', 'any', 'as', 'but', 'ceremonies', 'cleanness', 'correct', 'decline', 'design', 'despite', 'did', 'dine', 'dinner', 'displaying', 'disregarded', 'do', 'down', 'engage', 'evil', 'external', 'formalities', 'good', 'he', 'here', 'his', 'in', 'intentionally', 'invitation', 'is', 'it', 'jesus', 'knowing', 'known', 'meal', 'mentioned', 'morning', 'nature', 'not', 'of', 'opportunity', 'ordinary', 'outward', 'over', 'people', 'pharisee', 'prayers', 'rather', 'righteousness', 's', 'sat', 'sorts', 'spiritual', 'superstitions', 'synagogue', 'the', 'to', 'using', 'valued', 'willingness', 'with', 'without']
+- ChatGPT injected words (significant words only) (40):
+	['affable', 'ceremonies', 'cleanness', 'correct', 'decline', 'design', 'despite', 'dine', 'dinner', 'displaying', 'disregarded', 'engage', 'evil', 'external', 'formalities', 'good', 'intentionally', 'invitation', 'jesus', 'knowing', 'known', 'meal', 'mentioned', 'morning', 'nature', 'opportunity', 'ordinary', 'outward', 'people', 'pharisee', 'prayers', 'righteousness', 's', 'sat', 'sorts', 'spiritual', 'superstitions', 'synagogue', 'valued', 'willingness']
 
 ### Logs
-- Attempt 1 BHT: Jesus, while speaking to the people and reproving their generation, accepted an invitation to dine at the house of a Pharisee. This meal was not a typical dinner, but rather the first meal of the day, in the morning after prayers. Though Jesus knew that his neglect of the ceremonial washing would cause offense, he declined to observe it, emphasizing the importance of spiritual purity over outward cleanness. Despite the intentions of the Pharisee, Jesus readily went with him to his house and immediately sat down without any ceremony. This incident serves as a reminder that God values inner righteousness of the heart more than religious rituals and external appearances.
-- 🔄 Luke 11:37 (attempt 1, 110 words, 39.51% quotes quality score: 1.4134742804030633, V2 normalized quality score: 38.34, commentator tiers 1-3: 20.66%, 23.51%, 55.83%) 
+- Attempt 1 BHT: The meal described in this verse is not what we now understand as dinner; rather, it refers to the morning meal immediately after returning from morning prayers in the synagogue. The use of the word besought implies a simple, ordinary invitation. Jesus intentionally disregarded the outward ceremonies of human invention in order to correct the superstitions of the people. He valued spiritual righteousness of the heart over outward cleanness. Despite knowing the evil design of the Pharisee, Jesus did not decline the invitation because he saw it as an opportunity to do good. He sat down and immediately without any ceremony, displaying his affable and free nature.
+- 🔄 Luke 11:37 (attempt 1, 107 words, 35.53% quotes quality score: 1.4014096381000232, V2 normalized quality score: 37.94, commentator tiers 1-3: 23.12%, 31.75%, 45.13%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The meal mentioned in this passage is not a dinner but rather a morning meal, known as dine, that took place after morning prayers in the synagogue. Jesus disregarded outward ceremonies and emphasized the importance of spiritual righteousness over external cleanliness. Despite being aware of the Pharisee's evil intentions, Jesus accepted the invitation, showcasing his affable nature. He immediately sat down without any formalities, showing his willingness to engage with all sorts of people.
+- 🔄 Luke 11:37 (attempt 2, 75 words, 36.51% quotes quality score: 1.3868855768550759, V2 normalized quality score: 37.46, commentator tiers 1-3: 25.09%, 28.76%, 46.15%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: The meal mentioned here is not a dinner but rather a morning meal known as dine, after morning prayers in the synagogue. Jesus intentionally disregarded outward ceremonies to correct people's superstitions and valued spiritual righteousness over external cleanness. Despite knowing the Pharisee's evil design, Jesus did not decline the ordinary invitation, using it as an opportunity to do good. He sat down without any formalities, displaying his affable nature and willingness to engage with all sorts of people.
+- 🔄 Luke 11:37 (attempt 3, 80 words, 39.39% quotes quality score: 1.4392879912559855, V2 normalized quality score: 39.2, commentator tiers 1-3: 22.64%, 30.2%, 47.16%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The meal described in this account is not the typical dinner we understand today, but rather a morning meal immediately following prayers in the synagogue. Jesus intentionally ignored outward customs and valued spiritual righteousness over external cleanliness, rebuking the people's superstitions. Despite his knowledge of the Pharisee's evil intentions, Jesus accepted the ordinary invitation, using it as an opportunity to do good. He sat down without ceremony, showcasing his affable nature, and demonstrating his willingness to engage with people from all walks of life.
+- 🔄 Luke 11:37 (attempt 4, 86 words, 35.21% quotes quality score: 1.3606461689661997, V2 normalized quality score: 36.58, commentator tiers 1-3: 24.19%, 29.06%, 46.75%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: While reproving the generation, Jesus accepted an invitation to dine with a Pharisee for breakfast. This meal held significance as the morning repast after prayers in the synagogue. Despite knowing that his neglect of ceremonial washing would cause offense, Jesus declined to observe it, emphasizing spiritual purity over outward cleanliness. He willingly went with the Pharisee and immediately sat down, demonstrating that God values inner righteousness above religious rituals and external appearances. This incident teaches us the importance of true purity and the hypocrisy of substituting outward forms for genuine worship.
-- 🔄 Luke 11:37 (attempt 2, 91 words, 30.14% quotes quality score: 1.3582140032494974, V2 normalized quality score: 36.5, commentator tiers 1-3: 24.36%, 20.39%, 55.25%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: The morning meal described in this account, referred to as dine, was not the typical dinner we know today. Jesus intentionally disregarded outward customs and valued spiritual righteousness over external cleanliness, challenging the people's superstitions. Despite being aware of the Pharisee's evil intentions, Jesus accepted the ordinary invitation as an opportunity for good. He sat down without ceremony, displaying his affable nature and willingness to engage with people from all walks of life.
+- 🔄 Luke 11:37 (attempt 5, 75 words, 32.81% quotes quality score: 1.3824093072807981, V2 normalized quality score: 37.31, commentator tiers 1-3: 21.41%, 32.31%, 46.28%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: During His reproof of the generation, Jesus accepted an invitation to dine with a Pharisee for breakfast, after morning prayers. Though aware that His neglect of ceremonial washing would cause offense, Jesus declined to observe it, highlighting the importance of spiritual purity over outward cleanliness. Despite their intentions, Jesus willingly went to the Pharisee's house and immediately sat down, showing that God values inner righteousness more than religious rituals and external appearances. This incident serves as a reminder of the significance of true purity and the emptiness of replacing genuine worship with mere symbols.
-- 🔄 Luke 11:37 (attempt 3, 95 words, 29.73% quotes quality score: 1.3436768714339746, V2 normalized quality score: 36.02, commentator tiers 1-3: 21.84%, 18.73%, 59.42%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: While reproving the generation, Jesus accepted a breakfast invitation from a Pharisee. This morning meal, following synagogue prayers, held significance. Jesus, aware that His omission of ceremonial washing would offend, declined to observe it, emphasizing spiritual purity over outward cleanliness. Despite the Pharisee's intentions, Jesus willingly went to his house and promptly sat down, demonstrating that God esteems inner righteousness more than religious rituals and external appearances. This incident underscores the importance of genuine purity and the futility of substituting symbolic acts for sincere worship.
-- 🔄 Luke 11:37 (attempt 4, 86 words, 24.29% quotes quality score: 1.334582041863667, V2 normalized quality score: 35.72, commentator tiers 1-3: 23.63%, 20.58%, 55.79%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus, while reproving the generation, accepted a breakfast invitation from a Pharisee. This morning meal, after synagogue prayers, held significance. Though aware that His omission of ceremonial washing would offend, Jesus declined to observe it, emphasizing spiritual purity over outward cleanliness. Despite the Pharisee's intentions, Jesus willingly went to his house and sat down without ceremony, illustrating that God treasures inner righteousness over religious rituals and superficial appearances. This incident highlights the importance of genuine purity and warns against substituting symbols for true worship.
-- 🔄 Luke 11:37 (attempt 5, 85 words, 27.14% quotes quality score: 1.3492603321620327, V2 normalized quality score: 36.21, commentator tiers 1-3: 23.71%, 21.14%, 55.14%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 11:37 bht prompt v0.8 (91 words, 30.14% quotes)
-- quality score: 1.3582140032494974, V2 normalized quality score: 36.5, commentator tiers 1-3: 24.36%, 20.39%, 55.25%)
+- ✅ Luke 11:37 bht prompt v0.8 (80 words, 39.39% quotes)
+- quality score: 1.4392879912559855, V2 normalized quality score: 39.2, commentator tiers 1-3: 22.64%, 30.2%, 47.16%)

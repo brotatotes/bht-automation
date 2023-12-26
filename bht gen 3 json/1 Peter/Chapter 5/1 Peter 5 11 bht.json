@@ -1,35 +1,34 @@
 {
-    "timestamp": "12-19-2023 16:39:53",
+    "timestamp": "12-25-2023 20:34:32",
     "verseRef": "1 Peter 5:11",
     "bestBHT": {
-        "bht": "To Him and Him alone, not to ourselves, be the might shown in so 'perfecting' us. Giving Him glory shows gratitude for His grace bestowed upon us. Dominion is ascribed to Him, whose kingdom rules over all and dispenses grace in a sovereign way. Amen, signifying the belief in the prayer that the apostle prayed, trusting that it will be answered as they desire.",
+        "bht": "To Him alone belongs the glory and dominion, for it is God's might that perfects us. The doxology, though shorter here than in other places, is a similar expression of praise found in earlier verses. With confidence and gratitude, we give glory to God for the grace He bestows upon us and acknowledge His sovereign rule over all. May it be so, Amen.",
         "wordCount": 64,
-        "quoteTokenProportion": 51.02,
-        "qualityScore": 1.496525856661854,
-        "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+        "quoteTokenProportion": 55.77,
+        "qualityScore": 1.5414924790877955,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.6,
         "commentatorTierSimilarities": [
-            30.0,
-            30.38,
-            39.63
+            28.4,
+            28.7,
+            42.9
         ],
-        "generationAttempt": 4
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "To Him and Him alone: not to ourselves.",
-            "The might shown in so 'perfecting,' you.",
-            "The oldest manuscripts and versions omit 'glory and dominion'."
+            "To Him\u2014emphatic. To Him and Him alone: not to ourselves.",
+            "glory and\u2014omitted in the oldest manuscripts and versions.",
+            "dominion\u2014Greek, 'the might' shown in so 'perfecting' you."
         ],
         "Albert Barnes": [
             "To him be glory ... - See the notes at 1 Peter 4:11."
         ],
         "John Calvin": [
             "To him be glory.\" ",
-            "He breaks out into thanksgiving.\" ",
-            "Though this be read in the indicative as well as in the optative mood, still the meaning is nearly the same."
+            "That he might add more confidence to the godly, he breaks out into thanksgiving."
         ],
         "Philip Schaff": [
-            "To him be (or, is) the dominion unto the ages. Amen.",
+            "To him be (or, is) the dominion unto the ages.\" ",
             "A doxology similar to that in chap. 1 Peter 4:11, but briefer.",
             "The longer version of the A. V. is not sustained by sufficient evidence."
         ],
@@ -37,8 +36,8 @@
             "To him (\u03b1\u03c5\u03c4\u03c9). To God (dative case). Note \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 in the doxology as in 1 Timothy 6:16 and briefer than the doxology in 1 Peter 4:11, to Christ. "
         ],
         "John Gill": [
-            "Glory is due to God for all the grace he bestows on men and to give it to him shows a sense of divine goodness, and a grateful heart.\" ",
-            "To him very fitly is 'dominion' ascribed, whose kingdom rules over all, and who dispenses his grace, as well as his providential favours, in a sovereign way.",
+            "glory is due to God for all the grace he bestows on men and to give it to him shows a sense of divine goodness, and a grateful heart\" ",
+            "to him very fitly is 'dominion' ascribed, whose kingdom rules over all, and who dispenses his grace, as well as his providential favours, in a sovereign way\" ",
             "Amen, signifying that so the apostle prayed it might be, and believed it would be."
         ]
     },
@@ -59,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "To Him and Him alone, not to ourselves, be the might shown in so 'perfecting' us. To Him be glory, as He deserves all the credit for the grace bestowed upon us. Though the longer version of the doxology is not supported by sufficient evidence, the briefer version still conveys the same meaning. Glory is due to God for His goodness towards us, and giving Him glory shows gratitude. Dominion is ascribed to Him, whose kingdom rules over all and dispenses grace in a sovereign way. Amen, signifying the apostle's belief in his prayer.",
-            "wordCount": 95,
-            "quoteTokenProportion": 46.03,
-            "qualityScore": 1.4938067103596764,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "bht": "To Him alone belongs the glory and dominion, for it is God's might that perfects us. The doxology, though shorter here than in other places, is a similar expression of praise found in earlier verses. With confidence and gratitude, we give glory to God for the grace He bestows upon us and acknowledge His sovereign rule over all. May it be so, Amen.",
+            "wordCount": 64,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 1.5414924790877955,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.6,
             "commentatorTierSimilarities": [
-                29.58,
-                32.25,
-                38.17
+                28.4,
+                28.7,
+                42.9
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "To Him and Him alone, not to ourselves, be the might shown in so 'perfecting' us. To Him be glory, as He deserves it for the grace bestowed. Giving Him glory shows gratitude and a sense of divine goodness. Dominion is ascribed to Him, whose kingdom rules over all and dispenses grace in a sovereign way. Amen, signifying the apostle's belief in his prayer.",
-            "wordCount": 65,
-            "quoteTokenProportion": 47.92,
-            "qualityScore": 1.5452018577092632,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.72,
+            "bht": "To Him alone, to God, be the might and perfecting shown in the grace He bestows on us. Glory, though omitted in some manuscripts, is due to God for all that He does, and to give Him glory shows a sense of divine goodness and a grateful heart. It is very fitting that dominion is ascribed to Him, whose kingdom rules over all and who dispenses His grace in a sovereign way. This is a doxology similar to one found earlier in 1 Peter, but shorter, and it is prayed with the belief that it will be so. Amen.",
+            "wordCount": 98,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.5790113138055462,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.84,
             "commentatorTierSimilarities": [
-                27.82,
-                32.15,
-                40.03
+                28.16,
+                30.31,
+                41.53
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "To Him and Him alone, not to ourselves, be the might shown in so 'perfecting' us. The doxology, though the longer version is not supported by sufficient evidence, still conveys the same meaning. Glory is due to God for His goodness towards us, and giving Him glory shows gratitude. Dominion is ascribed to Him, whose kingdom rules over all and dispenses grace in a sovereign way. Amen, signifying the belief in the prayer.",
-            "wordCount": 73,
-            "quoteTokenProportion": 47.17,
-            "qualityScore": 1.4273736440668157,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.8,
+            "bht": "To Him alone, to God, be the might and perfecting shown in the grace He bestows on us. Glory, though omitted in some manuscripts, is due to God for all that He does, and to give Him glory shows a sense of divine goodness and a grateful heart. It is fitting that dominion is ascribed to Him, whose kingdom rules over all and who dispenses His grace in a sovereign way. This is a doxology similar to one found earlier in 1 Peter, but shorter, and it is prayed with the belief that it will be so.",
+            "wordCount": 96,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.7495690979522145,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
             "commentatorTierSimilarities": [
-                31.08,
-                31.11,
-                37.81
+                29.07,
+                30.79,
+                40.14
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "To Him and Him alone, not to ourselves, be the might shown in so 'perfecting' us. Giving Him glory shows gratitude for His grace bestowed upon us. Dominion is ascribed to Him, whose kingdom rules over all and dispenses grace in a sovereign way. Amen, signifying the belief in the prayer that the apostle prayed, trusting that it will be answered as they desire.",
-            "wordCount": 64,
-            "quoteTokenProportion": 51.02,
-            "qualityScore": 1.496525856661854,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+            "bht": "To Him alone, to God, be the might and perfecting shown in the grace He bestows on us. To give Him glory is to acknowledge His divine goodness and express gratitude. It is fitting to ascribe dominion to Him, for His kingdom rules over all and He dispenses His grace in a sovereign way. This shorter doxology, similar to one found earlier in 1 Peter, is prayed in faith and belief, signified by the word Amen.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.723507793806538,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
             "commentatorTierSimilarities": [
-                30.0,
-                30.38,
-                39.63
+                28.61,
+                29.68,
+                41.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "To Him and Him alone, not to ourselves, be the glory and dominion. This doxology, though briefer than the one in 1 Peter 4:11, is a heartfelt expression of thanksgiving, acknowledging that it is to God that all grace is due and that His kingdom rules over all. It is a proclamation of faith, believing that God will indeed receive the glory and have dominion forever. Amen.",
-            "wordCount": 65,
-            "quoteTokenProportion": 56.82,
-            "qualityScore": 1.588153168526966,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "bht": "To Him and Him alone, not to ourselves, be the might and perfecting shown in the grace He bestows on us. Though omitted in some manuscripts, giving glory to God reflects a sense of divine goodness and a grateful heart. It is fitting to ascribe dominion to Him, whose kingdom rules over all and who dispenses His grace in a sovereign way. This shorter doxology, similar to one found earlier, is prayed with the belief that it will be so, signified by the word Amen.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.5512683266775058,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
             "commentatorTierSimilarities": [
-                28.6,
-                36.51,
-                34.89
+                29.62,
+                27.35,
+                43.03
             ],
             "generationAttempt": 5
         }

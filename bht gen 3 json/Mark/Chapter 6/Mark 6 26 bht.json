@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:23:33",
+    "timestamp": "12-25-2023 20:32:31",
     "verseRef": "Mark 6:26",
     "bestBHT": {
-        "bht": "Caught between his conscience and the repercussions of a foolish promise, Herod's internal struggle in this narrative exposes the dangers of prioritizing societal expectations over moral convictions. His remorse for John the Baptist clashes with his reluctance to be seen as unsteady. This cautionary tale serves as a sobering reminder of how easily one's principles can be compromised under the influence of false shame. It urges us to remain steadfast in our convictions, guarding against the snare of sacrificing integrity for the sake of reputation.",
-        "wordCount": 87,
-        "quoteTokenProportion": 33.33,
-        "qualityScore": 1.3405314386176208,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+        "bht": "With his conscience burdened by John's preaching, Herod's regret was palpable as he found himself ensnared by his own rash actions. The false shame that drove him to fulfill a foolish promise reveals the fatal trap of prioritizing reputation over moral scruples. This cautionary tale serves as a reminder that yielding to the worst crimes while struggling to keep a thoughtless oath is characteristic of those lacking principles but troubled by their conscience. Herod's sorry reaction exposes the conflict between his own convictions and the environment that stifled them.",
+        "wordCount": 92,
+        "quoteTokenProportion": 35.21,
+        "qualityScore": 1.5734921167304465,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.66,
         "commentatorTierSimilarities": [
-            51.85,
-            6.55,
-            41.6
+            57.37,
+            8.45,
+            34.18
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -24,8 +24,8 @@
             "Exceeding sorry. Where Matthew has sorry."
         ],
         "John Calvin": [
-            "And yet he has not the courage to give a refusal to a dancing girl, lest he should incur the reproach of unsteadiness; as if it were more dishonorable to retract a rash and foolish promise than to persist in a heinous crime.",
             "No inward feelings of religion constrained Herod to do this, but the mere love of power drove him headlong; for he reckoned that he would sink in the estimation of those who were present, if he did not fulfill his engagement.",
+            "Though Herod had kept before his eyes the sacredness of an oath alone, and not the dread of the opinion of men, he committed a more heinous offense in fulfilling a foolish promise than if he had violated his oath.",
             "Hence it follows, that monastic vows, which are attended by open impiety, do not bind the conscience any more than the enchantments of magicians; for it is not the will of God that his sacred name shall give support to what is sinful."
         ],
         "Philip Schaff": [
@@ -37,7 +37,7 @@
         ],
         "John Gill": [
             "And the king was exceeding sorry...",
-            "yet for his oath's sake, [and] for their sakes which sat with him...",
+            "as Matthew adds, 'at meat'...\" ",
             "He would not reject her; deny her her request, or send her away without granting it..."
         ],
         "John Wesley": [
@@ -62,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 6:26, we see the internal struggle of Herod between his conscience and the pressure of his surroundings. Although Herod felt remorse in his heart for John the Baptist, he found himself trapped in a situation where he had to break a rash oath made to a dancing girl. This reveals how easily men of no principles but troubled conscience will prioritize the breaking of a careless promise over committing grave sins. Sadly, false shame often leads people into fatal snares, as they fear being seen as troubled by religious or moral scruples. This story serves as a cautionary tale, reminding us of the dangers of succumbing to societal expectations and ignoring the convictions of our conscience.",
-            "wordCount": 117,
-            "quoteTokenProportion": 36.78,
-            "qualityScore": 1.4555770656950209,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "bht": "The verse shows how Herod, who had been influenced by John's preaching in the past, found himself trapped by his own foolishness when he rashly made a promise and was then stuck between his conscience and the pressure of his surroundings. This is a cautionary tale about the danger of giving in to the opinions of others and the consequences of not standing firm in one's convictions. Herod's sorry reaction reflects his internal struggle, as he was torn between wanting to save face in front of the guests and being aware of his own folly.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.448344139305302,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.5,
             "commentatorTierSimilarities": [
-                51.98,
-                10.73,
-                37.3
+                52.26,
+                13.92,
+                33.82
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, we witness Herod's inner struggle between his conscience and the pressure to fulfill an ill-advised promise. His remorse for John the Baptist clashes with the desire to maintain his reputation, ultimately leading him to break his oath. This story serves as a reminder of the dangers of allowing external influences to override our moral convictions. It is a cautionary tale, exposing the folly of prioritizing societal expectations over the true principles of righteousness.",
-            "wordCount": 78,
-            "quoteTokenProportion": 30.65,
-            "qualityScore": 1.2800281577486174,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.9,
+            "bht": "Caught between his conscience and the pressure of his surroundings, Herod's foolishness in making a rash promise led to his deep regret. Influenced by John's preaching in the past, he found himself trapped, unable to reject the request. This cautionary tale serves as a reminder of the danger of succumbing to the opinions of others and the importance of standing firm in one's convictions. Herod's sorry reaction reflects his internal struggle, torn between preserving his reputation and acknowledging his own mistakes.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.4265726228042745,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.78,
             "commentatorTierSimilarities": [
-                50.58,
-                7.63,
-                41.79
+                52.05,
+                15.69,
+                32.27
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this account, we witness the turmoil within Herod as he grapples with his guilty conscience and the pressure to uphold a foolish promise. The clash between his feelings for John the Baptist and the desire to save face in the eyes of others becomes a snare for him. It sheds light on the danger of allowing false shame to trap us in compromising situations. This episode serves as a stark reminder of the consequences when we prioritize societal expectations over our moral convictions.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.1,
-            "qualityScore": 1.311408109926657,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "bht": "Herod, influenced by John's preaching and burdened by conscience, found himself ensnared by his own rash actions. His false shame drove him to fulfill a foolish promise, disregarding the warning of his conscience. This warns of the fatal trap that many fall into, valuing appearances over true morality. Caught between conscience and environment, Herod's sorry reaction reveals the struggle of one torn between saving face and acknowledging his own mistakes. The language used in Mark's account emphasizes the depth of Herod's regret compared to Matthew's.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5131300371082073,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
             "commentatorTierSimilarities": [
-                51.02,
-                7.89,
-                41.08
+                49.73,
+                20.24,
+                30.03
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Caught between his conscience and the repercussions of a foolish promise, Herod's internal struggle in this narrative exposes the dangers of prioritizing societal expectations over moral convictions. His remorse for John the Baptist clashes with his reluctance to be seen as unsteady. This cautionary tale serves as a sobering reminder of how easily one's principles can be compromised under the influence of false shame. It urges us to remain steadfast in our convictions, guarding against the snare of sacrificing integrity for the sake of reputation.",
-            "wordCount": 87,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.3405314386176208,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+            "bht": "Influenced by John's preaching and burdened by conscience, Herod's own rashness led to his regrettable actions. Faced with the choice of upholding his promise or following his convictions, Herod succumbed to false shame and fulfilled the foolish oath he had made. This cautionary tale serves as a reminder of the dangers of prioritizing appearances over righteousness. Caught between conscience and environment, Herod's sorry reaction reflects the struggle he faced between preserving his reputation and acknowledging his mistakes.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.4214505435411446,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.61,
             "commentatorTierSimilarities": [
-                51.85,
-                6.55,
-                41.6
+                52.94,
+                8.96,
+                38.09
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In Mark 6:26, we witness the struggle of Herod as he wrestles with his conscience and the pressure to fulfill a rash promise. This treacherous situation highlights the perils of allowing false shame and societal expectations to outweigh moral values. Herod's remorse for John the Baptist is contrasted with his fear of being seen as unsteady, illustrating the tragic consequences of prioritizing reputation over righteousness. This powerful narrative serves as a timeless reminder of the need to courageously adhere to our convictions, avoiding the fatal snares of compromise.",
-            "wordCount": 88,
-            "quoteTokenProportion": 25.76,
-            "qualityScore": 1.4894757720819676,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "bht": "With his conscience burdened by John's preaching, Herod's regret was palpable as he found himself ensnared by his own rash actions. The false shame that drove him to fulfill a foolish promise reveals the fatal trap of prioritizing reputation over moral scruples. This cautionary tale serves as a reminder that yielding to the worst crimes while struggling to keep a thoughtless oath is characteristic of those lacking principles but troubled by their conscience. Herod's sorry reaction exposes the conflict between his own convictions and the environment that stifled them.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.5734921167304465,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
             "commentatorTierSimilarities": [
-                46.28,
-                17.85,
-                35.88
+                57.37,
+                8.45,
+                34.18
             ],
             "generationAttempt": 5
         }

@@ -1,7 +1,7 @@
 # Luke 11:43 Commentary Help Text
 
 ## BHT:
-The Pharisees received a stern rebuke for their affection for glory and yearning for distinction. They coveted the prominent seats in the synagogues and longed for recognition through greetings in public. Through these actions, they exhibited their arrogance and pride. This serves as a reminder to believers to resist the allure of seeking recognition and instead embody humility. Rather than striving for prominence, we should humbly serve others and prioritize their needs above our own desires for personal acclaim.
+The Pharisees, a well-known religious group, sought the uppermost seats in the synagogues, displaying their desire for recognition and honor within the community. This pursuit of influence and importance was a distinct characteristic of the Pharisees, as their love for prominent positions extended beyond the synagogues to the uppermost rooms at feasts and greetings in the market. The Pharisees' preoccupation with status and recognition in various settings reveals their intention to be seen as significant and respected figures.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -14,14 +14,14 @@ greetings—(See on :-).
 
 
 ### Marvin Vincent:
-1. "Luke's form of expression differs from that of Matthew, who says, 'ye Pharisees; while Luke has' woe unto you, the Pharisees,' marking them by the article as a well-known religious body."
-2. "Luke's form of expression differs from that of Matthew."
-3. "Marking them by the article as a well-known religious body."
+1. "Luke has 'woe unto you, the Pharisees,' marking them by the article as a well-known religious body." 
+2. "Luke's form of expression differs from that of Matthew, who says, 'ye Pharisees.'"
+3. "Pharisees - Luke's form of expression differs from that of Matthew."
 
 ### Archibald T. Robertson:
 1. "The chief seats in the synagogues...This semi-circular bench faced the congregation." 
-2. "Matthew 23:6 has also the chief place at feasts...as well as in Luke 14:7, a marked characteristic of the Pharisees."
-3. "This semi-circular bench faced the congregation."
+2. "This semi-circular bench faced the congregation."
+3. "A marked characteristic of the Pharisees."
 
 ### John Gill:
 1. Woe unto you Pharisees, for ye love the uppermost seats in the synagogues,.... And also the uppermost rooms at feasts,
@@ -33,38 +33,39 @@ Matthew 23:6- :.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:18:23
+- Timestamp: 12-25-2023 20:33:15
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 79
-- BHT Commentary Usage: 35.59%
-- BHT Quality Score: 1.0888560721673364
+- BHT Commentary Usage: 33.96%
+- BHT Quality Score: 1.4354207983467866
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'above', 'acclaim', 'actions', 'affection', 'allure', 'and', 'arrogance', 'as', 'believers', 'coveted', 'desires', 'distinction', 'embody', 'exhibited', 'for', 'glory', 'greetings', 'humbly', 'humility', 'in', 'instead', 'longed', 'needs', 'of', 'others', 'our', 'own', 'personal', 'pharisees', 'pride', 'prioritize', 'prominence', 'prominent', 'public', 'rather', 'rebuke', 'received', 'recognition', 'reminder', 'resist', 'seats', 'seeking', 'serve', 'serves', 'should', 'stern', 'striving', 'synagogues', 'than', 'the', 'their', 'these', 'they', 'this', 'through', 'to', 'we', 'yearning']
-- ChatGPT injected words (significant words only) (38):
-	['acclaim', 'actions', 'affection', 'allure', 'arrogance', 'believers', 'coveted', 'desires', 'distinction', 'embody', 'exhibited', 'glory', 'greetings', 'humbly', 'humility', 'instead', 'longed', 'needs', 'personal', 'pharisees', 'pride', 'prioritize', 'prominence', 'prominent', 'public', 'rebuke', 'received', 'recognition', 'reminder', 'resist', 'seats', 'seeking', 'serve', 'serves', 'stern', 'striving', 'synagogues', 'yearning']
+- ChatGPT injected words (53):
+	['a', 'and', 'as', 'at', 'be', 'beyond', 'characteristic', 'community', 'desire', 'displaying', 'distinct', 'extended', 'feasts', 'figures', 'for', 'greetings', 'group', 'honor', 'importance', 'in', 'influence', 'intention', 'known', 'love', 'market', 'of', 'pharisees', 'positions', 'preoccupation', 'prominent', 'pursuit', 'recognition', 'religious', 'respected', 'reveals', 'rooms', 'seats', 'seen', 'settings', 'significant', 'sought', 'status', 'synagogues', 'the', 'their', 'this', 'to', 'uppermost', 'various', 'was', 'well', 'with', 'within']
+- ChatGPT injected words (significant words only) (35):
+	['characteristic', 'community', 'desire', 'displaying', 'distinct', 'extended', 'feasts', 'figures', 'greetings', 'group', 'honor', 'importance', 'influence', 'intention', 'known', 'love', 'market', 'pharisees', 'positions', 'preoccupation', 'prominent', 'pursuit', 'recognition', 'religious', 'respected', 'reveals', 'rooms', 'seats', 'seen', 'settings', 'significant', 'sought', 'status', 'synagogues', 'uppermost']
 
 ### Logs
-- Attempt 1 BHT: Woe to the Pharisees, for they love the uppermost seats in the synagogues and greetings in the market. This verse points out the Pharisees' desire for recognition and honor, particularly in religious and social settings. They sought the best seats and positions of importance, desiring to be seen as superior and respected. Their love for status and prestige was evident in their actions, as they placed themselves above others. It is a reminder for believers to humbly serve and not seek recognition or status.
-- 🔄 Luke 11:43 (attempt 1, 84 words, 37.5% quotes quality score: 1.2314269070336756, V2 normalized quality score: 32.29, commentator tiers 1-3: 40.28%, 0.0%, 59.72%) 
+- Attempt 1 BHT: Woe unto you Pharisees, for ye love the uppermost seats in the synagogues - This highlights the Pharisees' desire for recognition and honor within the religious community, seeking the most prominent positions. Their love for the uppermost seats in the synagogues reflects their desire for influence and importance. This behavior was a distinctive characteristic of the Pharisees, as Luke emphasizes their distinct form of expression in contrast to Matthew's reference to ye Pharisees. The Pharisees' pursuit of recognition extended beyond the synagogues, as they also sought the uppermost rooms at feasts and greetings in the market. Such behavior reveals their preoccupation with status and recognition within society.
+- 🔄 Luke 11:43 (attempt 1, 107 words, 31.75% quotes quality score: 1.4213431456892631, V2 normalized quality score: 38.6, commentator tiers 1-3: 48.22%, 0.0%, 51.78%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The Pharisees were rebuked for their love of attention and desire for status. They sought the chief seats in the synagogues and desired to be greeted with respect in public. This desire for recognition and honor was indicative of their arrogance and pride. By prioritizing their own importance, they neglected the humble and selfless nature that should be exhibited by believers. This passage serves as a reminder to all Christians to resist the temptation to seek recognition and instead focus on serving with humility.
-- 🔄 Luke 11:43 (attempt 2, 84 words, 35.59% quotes quality score: 1.1635245250726074, V2 normalized quality score: 30.03, commentator tiers 1-3: 46.68%, 0.0%, 53.32%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The Pharisees' love for the uppermost seats in the synagogues demonstrates their desire for recognition and honor. This behavior, typical of the Pharisees, reveals their preoccupation with status and importance within the religious community. Luke's mention of their distinct form of expression distinguishes them as a well-known religious group, highlighting their pursuit of influence and prominence. In addition to the synagogues, they also sought the uppermost rooms at feasts and greetings in the market, further emphasizing their desire for recognition in various social settings.
+- 🔄 Luke 11:43 (attempt 2, 86 words, 32.76% quotes quality score: 1.3760352590175047, V2 normalized quality score: 37.1, commentator tiers 1-3: 50.36%, 0.0%, 49.64%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The Pharisees were reproached for their love of recognition and pursuit of honor. They coveted the highest seats in the synagogues and desired to be acknowledged and respected by others through greetings in public. Their actions revealed their pride and arrogance. This serves as a reminder for believers to resist the temptation to seek prominence and instead embrace humility and servant-like attitudes. We should prioritize the needs of others and avoid seeking personal glory.
-- 🔄 Luke 11:43 (attempt 3, 75 words, 32.14% quotes quality score: 0.9948777123485963, V2 normalized quality score: 24.42, commentator tiers 1-3: 38.76%, 0.0%, 61.24%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The Pharisees, a well-known religious group, sought the uppermost seats in the synagogues, displaying their desire for recognition and honor within the community. This pursuit of influence and importance was a distinct characteristic of the Pharisees, as their love for prominent positions extended beyond the synagogues to the uppermost rooms at feasts and greetings in the market. The Pharisees' preoccupation with status and recognition in various settings reveals their intention to be seen as significant and respected figures.
+- 🔄 Luke 11:43 (attempt 3, 79 words, 33.96% quotes quality score: 1.4354207983467866, V2 normalized quality score: 39.07, commentator tiers 1-3: 47.23%, 0.0%, 52.77%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Pharisees were admonished for their love of honor and desire for prominence. They sought the top seats in the synagogues and craved recognition through greetings in public. These actions exposed their arrogance and self-importance. As believers, we are reminded to resist the temptation to seek recognition and instead embrace humility. Rather than prioritizing our own status, we should humbly serve others and focus on meeting their needs.
-- 🔄 Luke 11:43 (attempt 4, 69 words, 40.0% quotes quality score: 1.032350214036331, V2 normalized quality score: 25.67, commentator tiers 1-3: 39.51%, 0.0%, 60.49%) 
+- Attempt 4 BHT: The desire of the Pharisees for the uppermost seats in the synagogues reveals their pursuit of recognition and honor within the religious community. This characteristic behavior of the Pharisees, distinguishable by their distinct form of expression, indicates their longing for influence and prominence. Apart from the synagogues, their appetite for recognition extended to the uppermost rooms during feasts and greetings in the marketplace. Such a noteworthy pursuit of status and acknowledgment illustrates their aspiration to be esteemed and seen as significant figures in various social contexts.
+- 🔄 Luke 11:43 (attempt 4, 86 words, 30.36% quotes quality score: 1.2492446768044183, V2 normalized quality score: 32.88, commentator tiers 1-3: 48.56%, 0.0%, 51.44%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Pharisees received a stern rebuke for their affection for glory and yearning for distinction. They coveted the prominent seats in the synagogues and longed for recognition through greetings in public. Through these actions, they exhibited their arrogance and pride. This serves as a reminder to believers to resist the allure of seeking recognition and instead embody humility. Rather than striving for prominence, we should humbly serve others and prioritize their needs above our own desires for personal acclaim.
-- 🔄 Luke 11:43 (attempt 5, 79 words, 35.59% quotes quality score: 1.0888560721673364, V2 normalized quality score: 27.55, commentator tiers 1-3: 42.62%, 0.0%, 57.38%) 
+- Attempt 5 BHT: The Pharisees' craving for the uppermost seats in the synagogues demonstrated their longing for recognition and honor within the religious community. This distinct behavior of the Pharisees exposed their relentless pursuit of influence and prominence. Beyond the synagogues, they also sought the highest positions at feasts and yearned for greetings in the marketplace. Their persistent quest for status and acclaim highlighted their desire to be regarded as esteemed figures in a variety of social settings.
+- 🔄 Luke 11:43 (attempt 5, 75 words, 30.19% quotes quality score: 1.2392501765784703, V2 normalized quality score: 32.55, commentator tiers 1-3: 46.52%, 0.0%, 53.48%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 11:43 bht prompt v0.8 (79 words, 35.59% quotes)
-- quality score: 1.0888560721673364, V2 normalized quality score: 27.55, commentator tiers 1-3: 42.62%, 0.0%, 57.38%)
+- ✅ Luke 11:43 bht prompt v0.8 (79 words, 33.96% quotes)
+- quality score: 1.4354207983467866, V2 normalized quality score: 39.07, commentator tiers 1-3: 47.23%, 0.0%, 52.77%)

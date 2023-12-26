@@ -1,18 +1,18 @@
 # Matthew 23:37 Commentary Help Text
 
 ## BHT:
-How often would I have gathered, said the Lord, my people under my wing, offering them messages of repentance and mercy. The tears of our Lord testify to man's will to resist God's grace, as Jerusalem did. I longed to gather them like a mother hen does with her chicks, protecting and saving them. It is a mysterious word, the resistance of such patient love and the liberty of self-undoing. Yet, they would not.
+How often would I have gathered the people of Jerusalem, desiring to protect and save them, like a mother hen gathers her chicks under her wings. The tears shed by our Lord over their stubbornness reveal the freedom of man's will to resist the grace of God. Despite Jerusalem's rejection, God's compassion for His people remains, even in the face of imminent destruction by the Roman armies. He longs to shelter and save them, just as the ancient rabbins spoke of those who sought refuge under the wings of the Shekinah.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "how often would I have gathered must be understood of all the messages of repentance and mercy sent by the prophets, for our Lord’s words embrace the whole time comprised in the historic survey of ver. 35, as well as His own ministry." 
+1. "How often would I have gathered must be understood of all the messages of repentance and mercy sent by the prophets, for our Lord’s words embrace the whole time comprised in the historic survey of ver. 35, as well as His own ministry."
 2. "The tears of our Lord over the perverseness of Jerusalem are witnesses of the freedom of man’s will to resist the grace of God."
-3. "ye would not" - See Isa. xxviii. 12; xxx. 15.
+3. "On the similitude, see Deut. xxxii. 11: Ps. xvii. 8; xxxvi. 7; lvii. 1; lxi. 4: Isa, xxxi. 5: Mal. iv. 2."
 
 ### Jamieson-Fausset-Brown:
-1. "How ineffably grand and melting is this apostrophe! It is the very heart of God pouring itself forth through human flesh and speech."
+1. "It is the very heart of God pouring itself forth through human flesh and speech."
 2. "Under His great Mediatorial wing would He have 'gathered' Israel."
-3. "O mysterious word! mysterious the resistance of such patient Love—mysterious the liberty of self-undoing!"
+3. "The ancient rabbins had a beautiful expression for proselytes from the heathen—that they had 'come under the wings of the Shekinah.'"
 
 ### Albert Barnes:
 1. O Jerusalem ... - See the notes at Luke 19:41-42.
@@ -25,24 +25,23 @@ Thy children - Thy people.
 
 
 ### John Calvin:
-1. "Yet Christ had likewise the intention to obviate the scandal which soon after arose, that believers, when they saw him basely put to death at Jerusalem, might not be confounded by the novelty of such an exhibition."
-2. "This shows us what value we should attach to places. There never certainly was a city in the world on which God bestowed such magnificent titles, or such distinguished honor; and yet we see how deeply it was sunk by its ingratitude."
-3. "Hence came dispersions so frequent, that they scarcely remained at rest for a single moment under the wings of God, as we see in the present day a certain wildness in the world, which has indeed existed in all ages; and, therefore, it is necessary that God should recall to himself those who are wandering and going astray."
+1. "Thou who oughtest to have been a faithful guardian of the word of God, a teacher of heavenly wisdom, the light of the world, the fountain of sound doctrine, the seat of divine worship, a pattern of faith and obedience, art a murderer of the prophets, so that thou hast acquired a certain habit of sucking their blood."
+2. "It is an amazing and unparalleled instance of love, that he did not disdain to stoop to those blandishments, by which he might tame rebels into subjection."
+3. "And, therefore, whenever he exhibits to us the doctrine of the Gospel, dreadful vengeance awaits us, if we do not quietly hide ourselves under his wings, by which he is ready to receive and shelter us."
 
 ### Philip Schaff:
 1. "A mighty emotion of compassion follows the stem language of denunciation; both are aroused by guilt."
-2. "Our Lord speaks of His own merciful desires in the past, in the Old Testament times and in His ministry on earth."
+2. "The impending destruction was from the ‘eagle,’ the standard of the Roman armies."
 3. "The matter was decided, and that by the free-will of the people themselves. As a whole the city had rejected, and would yet more cruelly reject Him; though many individuals might be saved."
 
 ### Archibald T. Robertson:
-1. "How often did I long to gather to myself (double compound infinitive)."
-2. "The same verb (επισυναγε) is used of the hen with the compound preposition υποκατω."
-3. "Everyone has seen the hen quickly get together the chicks under her wings in the time of danger."
+1. "How often did I long to gather to myself...Everyone has seen the hen quickly get together the chicks under her wings in the time of danger." 
+2. "These words naturally suggest previous visits to Jerusalem made plain by John's Gospel."
 
 ### John Gill:
-1. "How often would I have gathered thy children together, as a hen gathereth her chickens under her wings, and ye would not!"
-2. "Christ here speaks as a man, and the minister of the circumcision, and expresses an human affection for the inhabitants of Jerusalem, and an human wish, and will for their temporal good."
-3. "Had Christ expressed his desire to have gathered the heads of the people to him, the members of the Jewish sanhedrim, the civil and ecclesiastical rulers of the Jews: or had he signified how much he wished, and earnestly sought after, and attempted to gather Jerusalem, the children, the inhabitants of it in common, and neither of them would not; it would have carried some appearance of the doctrine of free will, and have seemed to have countenanced it, and have imputed the non-gathering of them to their own will."
+1. "Thou that killest the prophets; that is, with the sword, with which the prophets in Elijah's time were slain by the children of Israel, 1 Kings 19:10 and which was one of the capital punishments inflicted by the Jewish Sanhedrin."
+2. "Christ here speaks as a man, and the minister of the circumcision, and expresses a human affection for the inhabitants of Jerusalem, and a human wish and will for their temporal good, which he very aptly signifies by the hen, which is a very affectionate creature to its young, and which it endeavors to screen from danger by covering with its wings."
+3. "The plain meaning of the text is the same with that of Matthew 23:13 and consequently is no proof of men's resisting the operations of the Spirit and grace of God; but only shows what obstructions and discouragements were thrown in the way of attendance on the external ministry of the word."
 
 ### John Wesley:
 1. Luke 13:34.
@@ -51,35 +50,37 @@ Thy children - Thy people.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:52:10
+- Timestamp: 12-25-2023 20:32:01
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 44.07%
-- BHT Quality Score: 1.477578793572951
+- BHT Word Count: 94
+- BHT Commentary Usage: 40.3%
+- BHT Quality Score: 1.6907120103856226
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'and', 'as', 'chicks', 'did', 'does', 'gather', 'gathered', 'god', 'grace', 'have', 'hen', 'her', 'how', 'i', 'is', 'it', 'jerusalem', 'liberty', 'like', 'longed', 'lord', 'love', 'man', 'mercy', 'messages', 'mother', 'my', 'mysterious', 'not', 'of', 'offering', 'often', 'our', 'patient', 'people', 'protecting', 'repentance', 'resist', 'resistance', 's', 'said', 'saving', 'self', 'such', 'tears', 'testify', 'the', 'them', 'they', 'to', 'under', 'undoing', 'will', 'wing', 'with', 'word', 'would', 'yet']
-- ChatGPT injected words (significant words only) (33):
-	['chicks', 'gather', 'gathered', 'god', 'grace', 'hen', 'jerusalem', 'liberty', 'like', 'longed', 'lord', 'love', 'man', 'mercy', 'messages', 'mother', 'mysterious', 'offering', 'patient', 'people', 'protecting', 'repentance', 'resist', 'resistance', 's', 'said', 'saving', 'self', 'tears', 'testify', 'undoing', 'wing', 'word']
+- ChatGPT injected words (67):
+	['a', 'ancient', 'and', 'armies', 'as', 'by', 'chicks', 'compassion', 'desiring', 'despite', 'destruction', 'even', 'face', 'for', 'freedom', 'gathered', 'gathers', 'god', 'grace', 'have', 'he', 'hen', 'her', 'his', 'how', 'i', 'imminent', 'in', 'jerusalem', 'just', 'like', 'longs', 'lord', 'man', 'mother', 'of', 'often', 'our', 'over', 'people', 'protect', 'rabbins', 'refuge', 'rejection', 'remains', 'resist', 'reveal', 'roman', 's', 'save', 'shed', 'shekinah', 'shelter', 'sought', 'spoke', 'stubbornness', 'tears', 'the', 'their', 'them', 'those', 'to', 'under', 'who', 'will', 'wings', 'would']
+- ChatGPT injected words (significant words only) (40):
+	['ancient', 'armies', 'chicks', 'compassion', 'desiring', 'despite', 'destruction', 'face', 'freedom', 'gathered', 'gathers', 'god', 'grace', 'hen', 'imminent', 'jerusalem', 'like', 'longs', 'lord', 'man', 'mother', 'people', 'protect', 'rabbins', 'refuge', 'rejection', 'remains', 'resist', 'reveal', 'roman', 's', 'save', 'shed', 'shekinah', 'shelter', 'sought', 'spoke', 'stubbornness', 'tears', 'wings']
 
 ### Logs
-- Attempt 1 BHT: How often would I have gathered, said the Lord, my people under my wing, offering them messages of repentance and mercy. It breaks my heart to witness the perverseness of Jerusalem, to see how they resolutely resisted the grace and love I extended to them. Oh, the depth of this apostrophe! It is the very heart of God pouring itself forth through human flesh and speech. I longed to gather them, to enfold them in my protective embrace like a mother hen gathering her chicks. Yet, they would not. Even though the prophets had foretold of this resistance, it is still a mysterious and unfathomable mystery how love can be rejected and the freedom of self-undoing embraced.
-- 🔄 Matthew 23:37 (attempt 1, 118 words, 38.75% quotes quality score: 1.4369968147011591, V2 normalized quality score: 39.12, commentator tiers 1-3: 32.81%, 28.51%, 38.68%) 
+- Attempt 1 BHT: How often the messages of repentance and mercy were sent to Jerusalem, longing to gather the people under the protection and love of God. But the tears shed by our Lord over the stubbornness of Jerusalem show the freedom of man's will to resist the grace of God. Like a mother hen gathering her chicks under her wings in times of danger, God desired to shelter and save Israel, just as the ancient rabbins spoke of those who came under the wings of the Shekinah. Yet, Jerusalem rejected Him, with impending destruction from the Roman armies, while He still held out hope and compassion for His people.
+- 🔄 Matthew 23:37 (attempt 1, 108 words, 40.79% quotes quality score: 1.7376818389647108, V2 normalized quality score: 49.12, commentator tiers 1-3: 33.39%, 28.5%, 38.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: How often would I have gathered, said the Lord, my people under my wing, offering them messages of repentance and mercy. It breaks my heart to witness the perverseness of Jerusalem; the tears of our Lord testify to man's will to resist God's grace. I longed to gather them like a mother hen does with her chicks. It is a mysterious word, the resistance of such patient Love, and the liberty of self-undoing. Yet, they would not.
-- 🔄 Matthew 23:37 (attempt 2, 80 words, 40.68% quotes quality score: 1.4768278250048033, V2 normalized quality score: 40.45, commentator tiers 1-3: 36.4%, 26.04%, 37.56%) 
+- Attempt 2 BHT: How often the messages of repentance and mercy were sent to Jerusalem, longing to gather the people under the protection and love of God. The tears shed by our Lord show the freedom of man's will to resist the grace of God. Like a mother hen gathering her chicks under her wings in times of danger, God desired to shelter and save Israel, just as the ancient rabbins spoke of those who came under the wings of the Shekinah. Yet, Jerusalem rejected Him, with impending destruction from the Roman armies, while He still held out hope and compassion for His people.
+- 🔄 Matthew 23:37 (attempt 2, 102 words, 39.73% quotes quality score: 1.7017518336898507, V2 normalized quality score: 47.93, commentator tiers 1-3: 32.77%, 29.33%, 37.9%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: How often would I have gathered, said the Lord, my people under my wing, offering them messages of repentance and mercy. The tears of our Lord testify to man's will to resist God's grace, as Jerusalem did. I longed to gather them like a mother hen does with her chicks, protecting and saving them. It is a mysterious word, the resistance of such patient love and the liberty of self-undoing. Yet, they would not.
-- 🔄 Matthew 23:37 (attempt 3, 77 words, 44.07% quotes quality score: 1.477578793572951, V2 normalized quality score: 40.47, commentator tiers 1-3: 34.08%, 28.86%, 37.07%) 
+- Attempt 3 BHT: How often would I have gathered the people of Jerusalem, desiring to protect and save them, like a mother hen gathers her chicks under her wings. The tears shed by our Lord over their stubbornness reveal the freedom of man's will to resist the grace of God. Despite Jerusalem's rejection, God's compassion for His people remains, even in the face of imminent destruction by the Roman armies. He longs to shelter and save them, just as the ancient rabbins spoke of those who sought refuge under the wings of the Shekinah.
+- 🔄 Matthew 23:37 (attempt 3, 94 words, 40.3% quotes quality score: 1.6907120103856226, V2 normalized quality score: 47.56, commentator tiers 1-3: 35.7%, 27.8%, 36.51%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: How often would I have gathered, said the Lord, my people under my wing, offering them messages of repentance and mercy. The tears of our Lord testify to man's will to resist God's grace, as Jerusalem did. I longed to gather them like a mother hen does with her chicks, protecting and saving them. It is a mysterious word, the resistance of such patient love and the liberty of self-undoing. Yet, they would not.
-- 🔄 Matthew 23:37 (attempt 4, 77 words, 44.07% quotes quality score: 1.477578793572951, V2 normalized quality score: 40.47, commentator tiers 1-3: 34.08%, 28.86%, 37.07%) 
+- Attempt 4 BHT: How often would I have gathered the people of Jerusalem, desiring to protect and save them. The tears shed by our Lord over their stubbornness reveal the freedom of man's will to resist the grace of God. Despite Jerusalem's rejection, God's compassion for His people remains, even in the face of imminent destruction. He longs to shelter and save them, just as the ancient rabbins spoke of those who sought refuge under the wings of the Shekinah.
+- 🔄 Matthew 23:37 (attempt 4, 80 words, 43.1% quotes quality score: 1.5731592618988333, V2 normalized quality score: 43.65, commentator tiers 1-3: 29.39%, 32.06%, 38.55%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: How often would I have gathered, said the Lord, my people, offering them messages of repentance and mercy. The tears of our Lord testify to man's will to resist God's grace, as Jerusalem did. I longed to gather them like a mother hen does with her chicks, protecting and saving them. It is a mysterious word, the resistance of such patient love and the liberty of self-undoing. Yet, they would not.
-- 🔄 Matthew 23:37 (attempt 5, 74 words, 43.86% quotes quality score: 1.4565005705817435, V2 normalized quality score: 39.77, commentator tiers 1-3: 32.19%, 30.48%, 37.33%) 
+- Attempt 5 BHT: How often would I have gathered the people of Jerusalem, desiring to protect and save them. The tears shed by our Lord over their stubbornness reveal the freedom of man's will to resist the grace of God. Despite Jerusalem's rejection, God's compassion for His people remains, even in the face of imminent destruction. He longs to shelter and save them, just as the ancient rabbins spoke of those who sought refuge under the wings of the Shekinah.
+- 🔄 Matthew 23:37 (attempt 5, 80 words, 43.1% quotes quality score: 1.5731592618988333, V2 normalized quality score: 43.65, commentator tiers 1-3: 29.39%, 32.06%, 38.55%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 23:37 bht prompt v0.8 (77 words, 44.07% quotes)
-- quality score: 1.477578793572951, V2 normalized quality score: 40.47, commentator tiers 1-3: 34.08%, 28.86%, 37.07%)
+- ✅ Matthew 23:37 bht prompt v0.8 (94 words, 40.3% quotes)
+- quality score: 1.6907120103856226, V2 normalized quality score: 47.56, commentator tiers 1-3: 35.7%, 27.8%, 36.51%)

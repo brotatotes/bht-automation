@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:19:40",
+    "timestamp": "12-25-2023 20:33:27",
     "verseRef": "Luke 14:3",
     "bestBHT": {
-        "bht": "Jesus, perceiving the thoughts of those who questioned him, responded to their dilemma with a rhetorical inquiry. He knew that they were watching him closely, so he proposed the question to them in order to redirect the conversation. This unexpected question visibly caught them off guard and left them speechless. Jesus cleverly used this situation to demonstrate his careful consideration of the law and his willingness to provide a valid explanation for his actions. Their silence, however, revealed their ulterior motive of finding fault rather than upholding the law.",
-        "wordCount": 89,
-        "quoteTokenProportion": 38.46,
-        "qualityScore": 1.3173719743048264,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.15,
+        "bht": "Jesus, in response to the thoughts of the lawyers and Pharisees, presented a dilemma that left them silent and embarrassed. He knew that they were watching him and attempted to preemptively counter their accusations by proposing a question regarding the lawfulness of healing on the Sabbath. By doing so, Jesus revealed that he did not perform miracles on the Sabbath indiscriminately; he had a reason for his actions. It was clear that their intention was to find fault with him, but Jesus, indifferent to their opinions, focused on the compassion and need for healing in the situation at hand.",
+        "wordCount": 99,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.4433813049485074,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.34,
         "commentatorTierSimilarities": [
-            14.77,
-            41.88,
-            43.34
+            15.54,
+            33.33,
+            51.13
         ],
         "generationAttempt": 1
     },
@@ -19,28 +19,29 @@
             "3-6. (See on :-)."
         ],
         "Albert Barnes": [
-            "To 'answer,' in the Scriptures, does not always imply, as among us, that anything had been said before. It means often merely to 'begin' or to take up a subject, or, as here, to remark on the case that was present.",
+            "To 'answer,' in the Scriptures, does not always imply, as among us, that anything had been said before.",
+            "It means often merely to 'begin' or to take up a subject, or, as here, to remark on the case that was present.",
             "He knew that they were watching him. If he healed the man at once, they would accuse him. He, therefore, proposed the question to them, and when it was asked, they could not say that it was not lawful."
         ],
         "John Calvin": [
-            "Is it lawful to cure on Sabbath?...Christ first puts the question to them, and he does so for the purpose of guarding against offense.",
+            "The law of the Sabbath goes no farther, than that men shall rest from their own works.",
             "He intended to show by this example, that he did not inconsiderately perform miracles on Sabbath, because he was prepared to assign a reason for what he did.",
-            "They, on the other hand, make it evident by their silence, that their desire of finding fault is stronger than their zeal for the law."
+            "Christ treats with utter indifference their opinion about his action, because it was evident that they intentionally sought out an occasion of offense."
         ],
         "Philip Schaff": [
+            "Answering, i.e., the thoughts of the Pharisees.\" ",
             "This unexpected question evidently embarrassed them.",
-            "If they answered yes, the occasion of finding fault was taken away.",
-            "If no, they could be charged with want of compassion."
+            "If they answered yes, the occasion of finding fault was taken away; if no, they could be charged with want of compassion."
         ],
         "Archibald T. Robertson": [
-            "Jesus answered the thoughts of those mentioned in verse Luke 14:1.",
+            "Jesus answered the thoughts of those mentioned... Here 'lawyers and Pharisees' are treated as one class with one article.",
             "The dilemma forestalled any question by them.",
             "They became silent, more so than before."
         ],
         "John Gill": [
-            "All the Oriental versions, for 'lawyers', read 'Scribes': these, with the Pharisees, were got together in a body, in their brother Pharisee's house, to watch the motions of Christ.",
-            "Knowing that these men were catching at every thing, to traduce him, [Jesus] was desirous of having their sentiments first.",
-            "[Jesus] knew full well, what was agreeable to the law of God, and what was not; and what also were the traditions of their elders, which they held, and which allowed of healing on the sabbath day, where life was in danger."
+            "Who knew their designs upon him, and the thoughts of their hearts.",
+            "Christ had a compassionate regard to, and determined to cure.",
+            "Healing on the Sabbath day, where life was in danger."
         ],
         "John Wesley": [
             "And Jesus answering, spake \u2014 Answering the thoughts which he saw rising in their hearts."
@@ -63,67 +64,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus, perceiving the thoughts of those who questioned him, responded to their dilemma with a rhetorical inquiry. He knew that they were watching him closely, so he proposed the question to them in order to redirect the conversation. This unexpected question visibly caught them off guard and left them speechless. Jesus cleverly used this situation to demonstrate his careful consideration of the law and his willingness to provide a valid explanation for his actions. Their silence, however, revealed their ulterior motive of finding fault rather than upholding the law.",
-            "wordCount": 89,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.3173719743048264,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.15,
+            "bht": "Jesus, in response to the thoughts of the lawyers and Pharisees, presented a dilemma that left them silent and embarrassed. He knew that they were watching him and attempted to preemptively counter their accusations by proposing a question regarding the lawfulness of healing on the Sabbath. By doing so, Jesus revealed that he did not perform miracles on the Sabbath indiscriminately; he had a reason for his actions. It was clear that their intention was to find fault with him, but Jesus, indifferent to their opinions, focused on the compassion and need for healing in the situation at hand.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.4433813049485074,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
             "commentatorTierSimilarities": [
-                14.77,
-                41.88,
-                43.34
+                15.54,
+                33.33,
+                51.13
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus, perceiving their thoughts, replied to their dilemma by posing a question of his own. He strategically knew that they were closely observing him and sought to preempt any accusations by bringing the matter to their attention. This unexpected inquiry left them visibly embarrassed and unable to answer. By doing so, Jesus aimed to demonstrate his careful adherence to the law and his readiness to justify his actions. However, their silence highlighted their true intentions of finding fault rather than displaying a genuine concern for the law.",
-            "wordCount": 87,
-            "quoteTokenProportion": 35.94,
-            "qualityScore": 1.2551511736770005,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.08,
+            "bht": "Jesus strategically addressed the unspoken concerns of the lawyers and Pharisees, rendering them speechless. Knowing their intent to criticize him, he questioned the legality of healing on the Sabbath to expose their motives. Undeterred by their opinions, Jesus prioritized compassion, demonstrating that he did not recklessly perform miracles on the Sabbath but had valid reasons for his actions. He ignored their attempts to provoke him, instead focusing on the urgent need for healing in the present scenario.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.2967261551238818,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.46,
             "commentatorTierSimilarities": [
-                13.35,
-                38.52,
-                48.13
+                13.89,
+                31.79,
+                54.32
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Recognizing the thoughts of those who challenged him, Jesus responded to their dilemma with a thought-provoking question. He was fully aware of their scrutiny and anticipated the accusations they might bring upon him. To counter this, he skillfully engaged them in dialogue, leaving them speechless and unsettled. Jesus sought to demonstrate his careful adherence to the law and his readiness to provide a valid explanation for his actions. Their astonished silence revealed their true motives of seeking fault rather than upholding the principles of compassion and justice.",
-            "wordCount": 88,
-            "quoteTokenProportion": 33.85,
-            "qualityScore": 1.247586948067918,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.83,
+            "bht": "Jesus effectively responded to the silent thoughts and intentions of the lawyers and Pharisees by presenting them with a dilemma that left them embarrassed and speechless. Aware of their watchful eyes, Jesus posed a question about the lawfulness of healing on the Sabbath, preventing them from accusing him immediately. He demonstrated indifference towards their opinions, choosing to prioritize compassion and addressing the urgent need for healing rather than getting caught up in their attempts to find fault with him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.3513569396201919,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.28,
             "commentatorTierSimilarities": [
-                11.67,
-                38.16,
-                50.18
+                17.97,
+                34.03,
+                48.0
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus, perceiving the thoughts of his challengers, countered their dilemma by posing a question of his own. He knew they were closely watching him, ready to accuse him of breaking the law. By initiating this unexpected dialogue, he effectively shifted the focus onto them and exposed their lack of compassion. Jesus aimed to demonstrate his meticulous observance of both God's law and the traditions of their elders. Their silence exposed their ulterior motive of finding fault rather than seeking understanding.",
-            "wordCount": 81,
-            "quoteTokenProportion": 32.76,
-            "qualityScore": 1.199921632279567,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.24,
+            "bht": "Jesus, in answering the unspoken thoughts of the lawyers and Pharisees, presented them with a dilemma that left them silent and embarrassed. He knew they were watching him and by posing a question about the lawfulness of healing on the Sabbath, he took control of the situation. Jesus disregarded their attempts to provoke him and instead focused on the compassion and urgent need for healing in the case at hand. His actions revealed that he did not perform miracles on the Sabbath without reason.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3461298960041446,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
             "commentatorTierSimilarities": [
-                11.7,
-                35.62,
-                52.68
+                16.44,
+                32.19,
+                51.37
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus, perceiving their thoughts, responded to their dilemma with a question of his own. He skillfully anticipated their accusations and sought to engage them in a dialogue, leaving them speechless and uneasy. His intention was to showcase his adherence to the law and his willingness to justify his actions. However, their silence exposed their true agenda of finding fault rather than prioritizing compassion and upholding the law.",
-            "wordCount": 67,
-            "quoteTokenProportion": 34.04,
-            "qualityScore": 1.22260428689018,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+            "bht": "Jesus, in addressing the thoughts of the lawyers and Pharisees, put them in a difficult position, leaving them speechless. Recognizing their intent to criticize him, Jesus skillfully posed a question about the lawfulness of healing on the Sabbath, preemptively removing their opportunity to accuse him. He prioritized compassion over their opinions, emphasizing the pressing need for healing and showcasing that his actions were not arbitrary. Despite their attempts to provoke him, Jesus remained focused on the purpose of his miracles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2622554132563883,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.31,
             "commentatorTierSimilarities": [
-                13.65,
-                34.66,
-                51.69
+                13.33,
+                31.77,
+                54.9
             ],
             "generationAttempt": 5
         }

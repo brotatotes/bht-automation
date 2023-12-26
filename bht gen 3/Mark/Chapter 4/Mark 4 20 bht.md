@@ -1,18 +1,18 @@
 # Mark 4:20 Commentary Help Text
 
 ## BHT:
-An honest and good heart is soft, tender, and deeply stirred by eternal truths, guarded against worldly distractions, and capable of producing spiritual fruit with patience and endurance. This level of spiritual fruitfulness is rarely witnessed, but it is exemplified by those who have been transformed by God's grace. These hearers not only receive the seed of the Word into their minds, but also into their hearts, holding onto it steadfastly even in the most challenging times. Despite varying quantities, their fruit consistently displays good quality.
+The interpretation of the parable emphasizes the significance of the honest and good heart, which is described as a heart that is soft, tender, and guarded against worldly distractions, showing a deep concern for eternal matters. These hearers produce fruit through patient endurance, with varying degrees of fruitfulness ranging from thirtyfold to a hundredfold. The order of fruitfulness is given by Mark as thirty, sixty, to a hundred, while Matthew reverses this order. This group of hearers receives the word of God into their hearts, holding onto it steadfastly, resulting in good fruit of the same quality.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Notice the concluding words of the interpretation exactly reproducing those of the parable" 
-2. "It is remarkable that the same is found in Matthew but in another form and order" 
-3. "In Luke, the two are varied"
+1. "Notice the concluding words of the interpretation exactly reproducing those of the parable..."
+2. "It is remarkable that the same is found in Matthew but in another form and order..."
+3. "In Luke, the two are varied."
 
 ### Jamieson-Fausset-Brown:
-1. "A heart soft and tender, stirred to its depths on the great things of eternity, and jealously guarded from worldly engrossments, such only is the 'honest and good heart'." (27 words)
-2. "Such 'bring forth fruit with patience' or continuance, enduring to the end." (14 words)
-3. "The highest degrees of spiritual fruitfulness are too seldom witnessed." (11 words)
+1. "A heart soft and tender, stirred to its depths on the great things of eternity, and jealously guarded from worldly engrossments, such only is the 'honest and good heart'." 
+2. "Such 'bring forth fruit with patience', or continuance, 'enduring to the end'; in contrast with those in whom the word is 'choked' and brings no fruit to perfection." 
+3. "The 'thirtyfold' is designed to express the lowest degree of fruitfulness; the 'hundredfold' the highest; and the 'sixtyfold' the intermediate degrees of fruitfulness."
 
 ### Marvin Vincent:
 1. Such as. A good rendering of the pronoun oitinev, which indicates the class of hearers.
@@ -28,46 +28,49 @@ An honest and good heart is soft, tender, and deeply stirred by eternal truths, 
 
 
 ### John Gill:
-1. "Such hearers who are intended by the good ground on which other seed fell, are those who are made good men by the grace of God."
-2. "... receive it not into their heads only, but into their hearts; and having received it, hold it fast, and abide by it in the worst of times."
+1. "Such hearers who are intended by the good ground on which other seed fell, are those who are made good men by the grace of God; for there is none good naturally, nor that doeth good, no not one."
+2. "These are such who hear the word, and receive it; as the word of God, in whose hearts it works effectually; who receive it not into their heads only, but into their hearts; and having received it, hold it fast, and abide by it in the worst of times."
 3. "All bring forth good fruit of the same quality, though not of the same quantity."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:21:56
+- Timestamp: 12-25-2023 20:32:21
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 36.76%
-- BHT Quality Score: 1.3875317067349586
+- BHT Word Count: 97
+- BHT Commentary Usage: 37.14%
+- BHT Quality Score: 1.6696313462953207
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['against', 'also', 'an', 'and', 'been', 'but', 'by', 'capable', 'challenging', 'consistently', 'deeply', 'despite', 'displays', 'distractions', 'endurance', 'eternal', 'even', 'exemplified', 'fruit', 'fruitfulness', 'god', 'good', 'grace', 'guarded', 'have', 'hearers', 'heart', 'hearts', 'holding', 'honest', 'in', 'into', 'is', 'it', 'level', 'minds', 'most', 'not', 'of', 'only', 'onto', 'patience', 'producing', 'quality', 'quantities', 'rarely', 'receive', 's', 'seed', 'soft', 'spiritual', 'steadfastly', 'stirred', 'tender', 'the', 'their', 'these', 'this', 'those', 'times', 'transformed', 'truths', 'varying', 'who', 'with', 'witnessed', 'word', 'worldly']
-- ChatGPT injected words (significant words only) (43):
-	['capable', 'challenging', 'consistently', 'deeply', 'despite', 'displays', 'distractions', 'endurance', 'eternal', 'exemplified', 'fruit', 'fruitfulness', 'god', 'good', 'grace', 'guarded', 'hearers', 'heart', 'hearts', 'holding', 'honest', 'level', 'minds', 'patience', 'producing', 'quality', 'quantities', 'rarely', 'receive', 's', 'seed', 'soft', 'spiritual', 'steadfastly', 'stirred', 'tender', 'times', 'transformed', 'truths', 'varying', 'witnessed', 'word', 'worldly']
+- ChatGPT injected words (70):
+	['a', 'against', 'and', 'as', 'by', 'concern', 'deep', 'degrees', 'described', 'distractions', 'emphasizes', 'endurance', 'eternal', 'for', 'from', 'fruit', 'fruitfulness', 'given', 'god', 'good', 'group', 'guarded', 'hearers', 'heart', 'hearts', 'holding', 'honest', 'hundred', 'hundredfold', 'in', 'interpretation', 'into', 'is', 'it', 'mark', 'matters', 'matthew', 'of', 'onto', 'order', 'parable', 'patient', 'produce', 'quality', 'ranging', 'receives', 'resulting', 'reverses', 'same', 'showing', 'significance', 'sixty', 'soft', 'steadfastly', 'tender', 'that', 'the', 'their', 'these', 'thirty', 'thirtyfold', 'this', 'through', 'to', 'varying', 'which', 'while', 'with', 'word', 'worldly']
+- ChatGPT injected words (significant words only) (44):
+	['concern', 'deep', 'degrees', 'described', 'distractions', 'emphasizes', 'endurance', 'eternal', 'fruit', 'fruitfulness', 'given', 'god', 'good', 'group', 'guarded', 'hearers', 'heart', 'hearts', 'holding', 'honest', 'hundredfold', 'interpretation', 'mark', 'matters', 'matthew', 'order', 'parable', 'patient', 'produce', 'quality', 'ranging', 'receives', 'resulting', 'reverses', 'showing', 'significance', 'soft', 'steadfastly', 'tender', 'thirty', 'thirtyfold', 'varying', 'word', 'worldly']
 
 ### Logs
-- Attempt 1 BHT: An honest and good heart is one that is soft, tender, and deeply moved by eternal truths, while remaining guarded against worldly distractions. This kind of heart is capable of producing spiritual fruit with patience and endurance, continuing until the end. Sadly, such abundant spiritual fruitfulness is not frequently seen. The class of hearers who exemplify this good ground are those who have been transformed into good people by the grace of God. They not only receive the seed of the Word in their minds, but also in their hearts, holding onto it firmly even in the most difficult times. While the quantity of their fruit may vary, its quality remains consistently good.
-- 🔄 Mark 4:20 (attempt 1, 113 words, 40.24% quotes quality score: 1.375966202497101, V2 normalized quality score: 37.09, commentator tiers 1-3: 29.67%, 18.98%, 51.36%) 
+- Attempt 1 BHT: The interpretation of the parable in Mark 4:20 exactly mirrors the concluding words, as seen in the similar interpretations found in Matthew and Luke. The honest and good heart is described as a heart that is soft, tender, and guarded against worldly distractions, showing a deep concern for eternal matters. These hearers produce fruit through patient endurance and varying degrees of fruitfulness, ranging from thirtyfold to a hundredfold. The pronoun such as refers to the class of hearers. The order of fruitfulness is given by Mark as thirty, sixty, to a hundred, while Matthew reverses this order.
+- 🔄 Mark 4:20 (attempt 1, 96 words, 30.77% quotes quality score: 1.5719707777402543, V2 normalized quality score: 43.61, commentator tiers 1-3: 44.32%, 30.93%, 24.76%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: An honest and good heart is soft, tender, and deeply stirred by eternal truths, guarded against worldly distractions, and capable of producing spiritual fruit with patience and endurance. This level of spiritual fruitfulness is rarely witnessed, but it is exemplified by those who have been transformed by God's grace. These hearers not only receive the seed of the Word into their minds, but also into their hearts, holding onto it steadfastly even in the most challenging times. Despite varying quantities, their fruit consistently displays good quality.
-- 🔄 Mark 4:20 (attempt 2, 87 words, 36.76% quotes quality score: 1.3875317067349586, V2 normalized quality score: 37.48, commentator tiers 1-3: 32.97%, 16.98%, 50.05%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The interpretation of the parable in Mark 4:20 closely mirrors those in Matthew and Luke, with the concluding words being reproduced. The honest and good heart is depicted as a tender heart focused on eternal matters, shielded from worldly distractions. Such hearers produce fruit through patient endurance, with varying degrees of fruitfulness. The pronoun such as refers to this specific group. Mark highlights the order of fruitfulness as thirty, sixty, to a hundred, while Matthew presents the reverse order.
+- 🔄 Mark 4:20 (attempt 2, 78 words, 33.33% quotes quality score: 1.528223068464984, V2 normalized quality score: 42.16, commentator tiers 1-3: 40.26%, 33.95%, 25.78%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The interpretation of the parable portrays the honest and good heart as a heart that is soft, tender, and guarded against worldly distractions, showing a deep concern for eternal matters. These hearers produce fruit through patient endurance, with variations in degrees of fruitfulness ranging from thirtyfold to a hundredfold. The order of fruitfulness is given by Mark as thirty, sixty, to a hundred, while Matthew reverses this order. This class of hearers receives the word of God into their hearts and holds it steadfastly, resulting in good fruit of the same quality.
+- 🔄 Mark 4:20 (attempt 3, 92 words, 36.36% quotes quality score: 1.6522642744976412, V2 normalized quality score: 46.28, commentator tiers 1-3: 36.33%, 26.2%, 37.46%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: An honest and good heart is characterized by its softness, tenderness, and deep response to eternal truths. This kind of heart is attentive to spiritual matters and avoids worldly distractions. It produces spiritual fruit with patience and endurance, continuing until the end. However, such levels of spiritual fruitfulness are rarely witnessed. These hearers, represented by the good ground, not only receive the seed of the Word in their minds but also in their hearts, holding onto it even in the most challenging times. Their fruit may vary in quantity but consistently demonstrates good quality.
-- 🔄 Mark 4:20 (attempt 3, 94 words, 37.68% quotes quality score: 1.3087775082678101, V2 normalized quality score: 34.86, commentator tiers 1-3: 34.9%, 16.79%, 48.31%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The interpretation highlights the significance of the honest and good heart - a tender heart focused on eternal matters while being shielded from worldly distractions. These hearers produce fruit through patient endurance, with varying degrees of fruitfulness ranging from thirtyfold to a hundredfold. The order of fruitfulness differs between Mark and Matthew. Such hearers, described as a class, receive the word of God into their hearts, holding it steadfastly, resulting in good fruit of the same quality.
+- 🔄 Mark 4:20 (attempt 4, 76 words, 34.48% quotes quality score: 1.573040793786853, V2 normalized quality score: 43.65, commentator tiers 1-3: 33.64%, 27.08%, 39.28%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The interpretation of the parable emphasizes the significance of the honest and good heart, which is described as a heart that is soft, tender, and guarded against worldly distractions, showing a deep concern for eternal matters. These hearers produce fruit through patient endurance, with varying degrees of fruitfulness ranging from thirtyfold to a hundredfold. The order of fruitfulness is given by Mark as thirty, sixty, to a hundred, while Matthew reverses this order. This group of hearers receives the word of God into their hearts, holding onto it steadfastly, resulting in good fruit of the same quality.
+- 🔄 Mark 4:20 (attempt 5, 97 words, 37.14% quotes quality score: 1.6696313462953207, V2 normalized quality score: 46.86, commentator tiers 1-3: 35.47%, 27.16%, 37.37%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: An honest and good heart is a heart that is sensitive and deeply moved by eternal truths, while being guarded against worldly distractions. This kind of heart produces spiritual fruit with patience and endurance, continuing until the end. However, such high levels of spiritual fruitfulness are seldom witnessed. These hearers, represented by the good ground, not only receive the seed of the Word in their minds but also in their hearts, holding onto it even in the most challenging times. Their fruit, though varying in quantity, consistently displays good quality.
-- 🔄 Mark 4:20 (attempt 4, 90 words, 42.03% quotes quality score: 1.3209239171647589, V2 normalized quality score: 35.26, commentator tiers 1-3: 32.64%, 15.84%, 51.53%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: An honest and good heart is one that is soft and tender, deeply stirred by eternal truths, and protected from worldly distractions. This kind of heart brings forth spiritual fruit with patience and endurance, lasting until the end. Unfortunately, witnessing such high levels of spiritual fruitfulness is rare. These hearers, represented by the good ground, not only receive the seed of the Word in their minds but also in their hearts, securely holding onto it even during challenging times. While the quantity may differ, their fruit consistently displays good quality.
-- 🔄 Mark 4:20 (attempt 5, 90 words, 37.14% quotes quality score: 1.3179456439911932, V2 normalized quality score: 35.16, commentator tiers 1-3: 32.92%, 14.34%, 52.73%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 4:20 bht prompt v0.8 (87 words, 36.76% quotes)
-- quality score: 1.3875317067349586, V2 normalized quality score: 37.48, commentator tiers 1-3: 32.97%, 16.98%, 50.05%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Mark 4:20 bht prompt v0.8 (97 words, 37.14% quotes)
+- quality score: 1.6696313462953207, V2 normalized quality score: 46.86, commentator tiers 1-3: 35.47%, 27.16%, 37.37%)

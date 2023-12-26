@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:34:49",
+    "timestamp": "12-25-2023 20:34:19",
     "verseRef": "Acts 21:29",
     "bestBHT": {
-        "bht": "The crowd falsely accused Paul of bringing Trophimus, an Ephesian, into the temple, assuming this based on seeing them together in the city. This unjust accusation reflects the destructive nature of mob mentality fueled by assumptions and prejudices. The Jews' fervent desire to protect their customs and resent foreign interference amplified their hostility towards Paul. Despite his efforts to bridge the gap, they eagerly seized any opportunity to attack him, even upon unfounded suspicions. It is crucial to state facts accurately and refrain from baseless accusations in order to avoid the spread of slander and persecution.",
-        "wordCount": 96,
-        "quoteTokenProportion": 29.87,
-        "qualityScore": 1.3866569842447591,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.45,
+        "bht": "The mob accused Paul falsely, presuming that since they saw Trophimus with him in the city, he must have been in the temple as well. This highlights the tendency of people to make baseless assumptions and charge others based on inferred truths rather than factual evidence. The Jews' deep attachment to their customs and their growing animosity towards foreign influences fueled their anger. Their eagerness to seize any opportunity against Paul demonstrates their malicious intent. In the end, the temple they fiercely protected would be completely destroyed, emphasizing the impermanence of worldly structures.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.36,
+        "qualityScore": 1.4098034567408657,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.22,
         "commentatorTierSimilarities": [
-            3.51,
-            44.55,
-            51.94
+            14.84,
+            53.35,
+            31.81
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -22,27 +22,27 @@
             "29. Trophimus\u2014(See on :-)."
         ],
         "Albert Barnes": [
-            "They did not even pretend that they had seen him in the temple; but the inference was enough to inflame the angry and excitable passions of the multitude.\" ",
-            "If people would state facts as they are, no small part of the slanderous accusations against others would cease.",
-            "If a statement is made, it should be of the thing as it was. If we attempt to say what a man has done, it should not be what we suppose he has done."
+            "They had seen him with Paul in the city; they inferred, therefore, that he had been with him in the temple. They did not even pretend that they had seen him in the temple; but the inference was enough to inflame the angry and excitable passions of the multitude.\" ",
+            "So in the accusations which people now often make of others. They see one thing, they infer another; they could testify to one thing, but they conclude that another thing will also be true, and that other thing they charge on them as the truth.",
+            "If people would state facts as they are, no small part of the slanderous accusations against others would cease. An end would be made of the most of the charges of falsehood, error, heresy, dishonesty, double-dealing, and immorality."
         ],
         "Marvin Vincent": [
             "Trophimus. See on ch. Acts 20:4. As an Ephesian he would be known to the Asiatic Jews."
         ],
         "Philip Schaff": [
-            "There was no excuse either for Paul or Trophimus, they considered; the prohibition to pass the balustrade... was well known.",
-            "Thus the temple was really looked upon as including all the courts and buildings which were surrounded by the Court of the Gentiles.",
-            "The feverish anxiety of the Jews to maintain all their ancient privileges and customs, and their hatred of all foreign interference, was growing, it must be remembered, every year."
+            "The temple was really looked upon as including all the courts and buildings which were surrounded by the Court of the Gentiles.",
+            "The feverish anxiety of the Jews to maintain all their ancient privileges and customs, and their hatred of all foreign interference, was growing, it must be remembered, every year.",
+            "In A.D. 70 not one stone of all this superb pile of buildings then glittering with its wealth of gold and marble remained on another."
         ],
         "Archibald T. Robertson": [
-            "They had before seen... \u03b5\u03bd \u03c4\u03b7 \u03c0\u03bf\u03bb\u03b5 \u03c3\u03c5\u03bd \u03b1\u03c5\u03c4\u03c9.\" ",
-            "They supposed... \u03b5\u03b9\u03c3\u03b7\u03b3\u03b1\u03b3\u03b5\u03bd as in verse Acts 21:28.",
+            "They simply argued that, if Paul was willing to be seen down street with a Greek Christian, he would not hesitate to bring him (therefore, did bring him, \u03b5\u03b9\u03c3\u03b7\u03b3\u03b1\u03b3\u03b5\u03bd as in verse Acts 21:28) into the temple.",
+            "That was a fact. They had just seized Paul in the temple (\u03b9\u03b5\u03c1\u03bf\u03bd). That was another fact.",
             "This is the way of the mob-mind in all ages. Many an innocent man has been rushed to his death by the fury of a lynching party."
         ],
         "John Gill": [
-            "For seeing him walk with the apostle very familiarly through the streets of Jerusalem, they concluded from thence, that he took him with him into the temple, which was a very rash and ill grounded conclusion.",
-            "It shows the malignity and virulence of their minds, and how ready they were to make use of any opportunity, and take up any occasion against him, even a bare surmise.",
-            "For it can never be thought, that while Paul was using methods to remove the prejudices of the Jews against him, he should take such a step as this, to introduce a Gentile into the holy place, which he knew was unlawful, and would greatly irritate and provoke them."
+            "For they had seen before with him in the city...\" ",
+            "whom these Jews of Asia... knew very well to be a Gentile...",
+            "which shows the malignity and virulence of their minds, and how ready they were to make use of any opportunity, and take up any occasion against him..."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -62,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The crowd falsely accused Paul of bringing Trophimus, an Ephesian, into the temple, even though they had only seen them together in the city. This type of mob mentality, fueled by assumptions and prejudices, has led to the unjust persecution of innocent individuals throughout history. It is important to state facts accurately and not make baseless accusations against others. The Jews' fervent desire to preserve their customs and privileges in the face of foreign influence intensified their hostility towards Paul and his companions. Despite Paul's efforts to bridge the divide, they were quick to use any opportunity to attack him, even on the basis of unfounded suspicions.",
-            "wordCount": 108,
-            "quoteTokenProportion": 37.35,
-            "qualityScore": 1.3922708077557528,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "bht": "The accusations against Paul were based on inference rather than concrete evidence. The mob had seen Trophimus, an Ephesian, with Paul in the city, and from this, they jumped to the conclusion that he had also been with Paul in the temple. The mob's mindset reflects the way many people accuse others, making unfounded assumptions and charging them based on perceived truths rather than facts. The Jews' fervent desire to maintain their traditions and their growing hostility towards foreign influence further fueled their anger. However, their malicious intent is evident in their readiness to seize any opportunity to go against Paul. Ultimately, the temple they so fiercely protected would eventually be destroyed, highlighting the transience of worldly structures.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.3768560632528821,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.12,
             "commentatorTierSimilarities": [
-                3.27,
-                47.39,
-                49.35
+                18.39,
+                56.68,
+                24.92
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The angry crowd falsely accused Paul of bringing Trophimus into the temple, assuming this based on seeing them together in the city. This unjust accusation reflects the destructive nature of mob mentality, where assumptions and biases can lead to the persecution of innocent people. It is crucial to state facts accurately and refrain from making unfounded accusations. The Jews' deep-seated desire to protect their customs and resent foreign interference fueled their animosity towards Paul. Despite his efforts to bridge the gap, they eagerly seized any opportunity to attack him, even upon mere suspicions.",
-            "wordCount": 94,
-            "quoteTokenProportion": 29.87,
-            "qualityScore": 1.3614586042176222,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "bht": "The mob falsely accused Paul based on their assumption that since they had seen Trophimus with him in the city, he must have been in the temple as well. This reveals the tendency of people to make unfounded inferences and charge others based on perceived truths rather than actual evidence. The Jews' strong attachment to their customs and animosity towards foreign influences further fueled their rage. However, their readiness to seize any opportunity to go against Paul showcases their malicious intent. It is important to remember that the temple they vehemently protected would eventually be destroyed.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.3678866904424565,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.83,
             "commentatorTierSimilarities": [
-                2.57,
-                46.23,
-                51.2
+                13.26,
+                52.69,
+                34.06
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The crowd falsely accused Paul of bringing Trophimus, an Ephesian, into the temple, assuming this based on seeing them together in the city. This unjust accusation showcases the destructive nature of mob mentality fueled by assumptions and prejudices. It is essential to accurately state facts and refrain from baseless accusations. The Jews' ardent desire to maintain their customs and resent foreign interference intensified their animosity towards Paul. Despite his attempts to reconcile, they eagerly grasped any opportunity to attack him, even on unfounded suspicions.",
-            "wordCount": 84,
-            "quoteTokenProportion": 31.43,
-            "qualityScore": 1.379104677569643,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.2,
+            "bht": "The mob accused Paul falsely, presuming that since they saw Trophimus with him in the city, he must have been in the temple as well. This highlights the tendency of people to make baseless assumptions and charge others based on inferred truths rather than factual evidence. The Jews' deep attachment to their customs and their growing animosity towards foreign influences fueled their anger. Their eagerness to seize any opportunity against Paul demonstrates their malicious intent. In the end, the temple they fiercely protected would be completely destroyed, emphasizing the impermanence of worldly structures.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.4098034567408657,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.22,
             "commentatorTierSimilarities": [
-                4.63,
-                46.18,
-                49.19
+                14.84,
+                53.35,
+                31.81
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The crowd falsely accused Paul of bringing Trophimus, an Ephesian, into the temple, assuming this based on seeing them together in the city. This unjust accusation reflects the destructive nature of mob mentality fueled by assumptions and prejudices. The Jews' fervent desire to protect their customs and resent foreign interference amplified their hostility towards Paul. Despite his efforts to bridge the gap, they eagerly seized any opportunity to attack him, even upon unfounded suspicions. It is crucial to state facts accurately and refrain from baseless accusations in order to avoid the spread of slander and persecution.",
-            "wordCount": 96,
-            "quoteTokenProportion": 29.87,
-            "qualityScore": 1.3866569842447591,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.45,
+            "bht": "The accusations against Paul were unfounded, based on the assumption that because Trophimus, an Ephesian, was seen with him in the city, he must have been with him in the temple. This reflects the tendency of people to jump to conclusions and charge others based on inferred truths rather than solid evidence. The Jews' strong attachment to their traditions and their growing hostility towards foreign influence fueled their anger. Their readiness to seize any opportunity against Paul demonstrates their malicious intent. The eventual destruction of the temple underscores the transient nature of earthly structures.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.3694239653695035,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.88,
             "commentatorTierSimilarities": [
-                3.51,
-                44.55,
-                51.94
+                19.16,
+                53.81,
+                27.03
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The false accusation against Paul stems from a hasty and ill-founded assumption made by the crowd. The destructive nature of mob mentality is evident in their readiness to use any opportunity against him. The Jews' determination to maintain their privileges and customs intensified their hatred of foreign interference, fueling their animosity towards Paul. Despite his efforts to bridge the divide, they eagerly seized upon unfounded suspicions. It serves as a reminder of the dangers of jumping to conclusions and the importance of accurately presenting facts.",
-            "wordCount": 86,
-            "quoteTokenProportion": 30.77,
-            "qualityScore": 1.3018255038119135,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
+            "bht": "The mob falsely accused Paul based on the presumption that because they had seen Trophimus, an Ephesian, with him in the city, he must have been in the temple as well. This reveals the tendency of individuals to make unwarranted inferences and charge others based on perceived truths rather than concrete evidence. The Jews' firm devotion to their traditions and their increasing animosity towards foreign influence further fueled their anger. Their willingness to exploit any opportunity against Paul demonstrates their malicious nature. Ultimately, the temple they fiercely protected would be utterly destroyed, illustrating the impermanence of worldly structures.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.373371743452926,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.01,
             "commentatorTierSimilarities": [
-                3.53,
-                42.33,
-                54.14
+                14.17,
+                58.18,
+                27.64
             ],
             "generationAttempt": 5
         }

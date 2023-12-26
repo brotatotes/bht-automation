@@ -1,26 +1,27 @@
 # John 4:18 Commentary Help Text
 
 ## BHT:
-This truth uncovers the woman's complex marital history, as she had five husbands, some of whom may have died or divorced her. Her current relationship was not a lawful marriage. While her actions may have led her astray, there is hope in the fact that her heart had not hardened. It serves as a reminder for us to embrace truthfulness and seek redemption in our own lives.
+The truth of the woman's situation is evident in the fact that she had truly experienced five husbands, none of whom were her lawful husband. Although the conviction of her sin may not have fully transformed her at that moment, Jesus' words and her journey back to the city began to deepen the realization of her wrongdoing. Despite her choices, her heart remained unhardened, leaving room for repentance and a potential change of heart.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Notice it is true (a fact—bare truth), not truly: this one word was true..."
+1. "Notice it is true (a fact—bare truth), not truly: this one word was true."
+2. "The conviction of sin here lies beneath the surface: it is not pressed, nor at the moment does it seem to have worked deeply."
+3. "Our Lord’s words in vv. 25, 26 would tend to infix it more deeply, and we find at ver. 29, that it had been working during her journey back to the city."
 
 ### Albert Barnes:
-1. "Hast had five husbands - Who have either died; or who, on account of your improper conduct, have divorced you; or whom you have left improperly, without legal divorce."
-2. "Is not thy husband - You are not lawfully married to him."
-3. "Either she might have left a former husband without divorce, and thus her marriage with this man was unlawful, or she was living with him without the form of marriage, in open guilt."
+1. "Hast had five husbands - Who have either died; or who, on account of your improper conduct, have divorced you; or whom you have left improperly, without legal divorce. Either of these might have been the case."
+2. "Is not thy husband - You are not lawfully married to him. Either she might have left a former husband without divorce, and thus her marriage with this man was unlawful, or she was living with him without the form of marriage, in open guilt."
 
 ### Philip Schaff:
 1. "The ‘five’ were no doubt lawful husbands, from whom she had been separated either by death or by divorce."
 2. "In contrast with the lawful marriages is set the present unlawful union with one who was no husband."
-3. "Her life was sinful: in what degree we cannot learn from this brief statement. An age in which divorce was freely allowed cannot be judged by the same rules as one of stricter principles. Whatever may have led her to an evil life, it is plain that her heart was not yet hardened."
+3. "Whatever may have led her to an evil life, it is plain that her heart was not yet hardened."
 
 ### John Gill:
-1. "For thou hast had five husbands,.... Which she either had had lawfully, and had buried one after another; and which was no crime, and might be..."
-2. "Or rather, she had had so many, and had been divorced from everyone of them, for adultery..."
-3. "and he whom thou now hast, is not thy husband; that is, not thy lawful husband..."
+1. "Which she either had had lawfully, and had buried one after another; ... Or rather, she had had so many, and had been divorced from everyone of them, for adultery..." 
+2. "and he whom thou now hast, is not thy husband; that is, not thy lawful husband..." 
+3. "thus Christ the omniscient God, who knew her full well, exposes all unto her."
 
 ### John Wesley:
 1. Thou hast had five husbands — Whether they were all dead or not, her own conscience now awakened would tell her.
@@ -29,40 +30,36 @@ This truth uncovers the woman's complex marital history, as she had five husband
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:05:17
+- Timestamp: 12-25-2023 20:33:41
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 50.0%
-- BHT Quality Score: 1.2096355147621047
+- BHT Word Count: 75
+- BHT Commentary Usage: 39.29%
+- BHT Quality Score: 1.44305092708071
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (56):
-	['a', 'actions', 'and', 'as', 'astray', 'complex', 'current', 'died', 'divorced', 'embrace', 'fact', 'five', 'for', 'had', 'hardened', 'have', 'heart', 'her', 'history', 'hope', 'husbands', 'in', 'is', 'it', 'lawful', 'led', 'lives', 'marital', 'marriage', 'may', 'not', 'of', 'or', 'our', 'own', 'redemption', 'relationship', 'reminder', 's', 'seek', 'serves', 'she', 'some', 'that', 'the', 'there', 'this', 'to', 'truth', 'truthfulness', 'uncovers', 'us', 'was', 'while', 'whom', 'woman']
-- ChatGPT injected words (significant words only) (28):
-	['actions', 'astray', 'complex', 'current', 'died', 'divorced', 'embrace', 'fact', 'hardened', 'heart', 'history', 'hope', 'husbands', 'lawful', 'led', 'lives', 'marital', 'marriage', 'redemption', 'relationship', 'reminder', 's', 'seek', 'serves', 'truth', 'truthfulness', 'uncovers', 'woman']
+	['a', 'although', 'and', 'at', 'back', 'began', 'change', 'choices', 'city', 'conviction', 'deepen', 'despite', 'evident', 'experienced', 'fact', 'five', 'for', 'fully', 'had', 'have', 'heart', 'her', 'husband', 'husbands', 'in', 'is', 'jesus', 'journey', 'lawful', 'leaving', 'may', 'moment', 'none', 'not', 'of', 'potential', 'realization', 'remained', 'repentance', 'room', 's', 'she', 'sin', 'situation', 'that', 'the', 'to', 'transformed', 'truly', 'truth', 'unhardened', 'were', 'whom', 'woman', 'words', 'wrongdoing']
+- ChatGPT injected words (significant words only) (34):
+	['began', 'change', 'choices', 'city', 'conviction', 'deepen', 'despite', 'evident', 'experienced', 'fact', 'fully', 'heart', 'husband', 'husbands', 'jesus', 'journey', 'lawful', 'leaving', 'moment', 'potential', 'realization', 'remained', 'repentance', 'room', 's', 'sin', 'situation', 'transformed', 'truly', 'truth', 'unhardened', 'woman', 'words', 'wrongdoing']
 
 ### Logs
-- Attempt 1 BHT: This verse reveals that the woman Jesus spoke to had a complicated marital history. She had been with five husbands, whether through death or divorce. Her current relationship was not a lawful marriage. While her life had been marked by sinful choices, it is important to note that her heart had not hardened, suggesting that there was still hope for her redemption. The emphasis on the truth of her situation highlights the need for authenticity and repentance in our own lives.
-- 🔄 John 4:18 (attempt 1, 81 words, 46.03% quotes quality score: 1.2997745117258055, V2 normalized quality score: 34.56, commentator tiers 1-3: 17.16%, 45.43%, 37.41%) 
+- Attempt 1 BHT: This verse highlights the truth of the woman's situation: she had truly gone through five husbands and the man she was currently with was not her lawful husband. However, the conviction of her sin was not immediately apparent, as it hadn't deeply worked within her yet. It was through Jesus' words during their conversation and her journey back to the city that the realization of her sin began to take hold. Despite her life choices, her heart had not yet hardened, indicating that there was still room for repentance and transformation.
+- 🔄 John 4:18 (attempt 1, 93 words, 40.62% quotes quality score: 1.5073567242739656, V2 normalized quality score: 41.46, commentator tiers 1-3: 33.4%, 34.61%, 31.99%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: This passage illuminates the truth about the woman's marital history, as she had had five husbands, some of whom she may have divorced or left without proper legal separation. Her current relationship was not a lawful marriage. Although her past choices had led her astray, there is a glimmer of hope as her heart had not completely hardened. The emphasis on the authenticity of her situation serves as a reminder for us to embrace truthfulness and repentance in our own lives.
-- 🔄 John 4:18 (attempt 2, 82 words, 45.31% quotes quality score: 1.2803991640120633, V2 normalized quality score: 33.92, commentator tiers 1-3: 16.21%, 48.45%, 35.34%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: This truth uncovers the woman's complex marital history, as she had five husbands, some of whom may have died or divorced her. Her current relationship was not a lawful marriage. While her actions may have led her astray, there is hope in the fact that her heart had not hardened. It serves as a reminder for us to embrace truthfulness and seek redemption in our own lives.
-- 🔄 John 4:18 (attempt 3, 68 words, 50.0% quotes quality score: 1.2096355147621047, V2 normalized quality score: 31.56, commentator tiers 1-3: 18.75%, 46.99%, 34.26%)
-- Attempt 4 BHT: Notice that the verse states a fact - that the woman hast had five husbands. Some commentators suggest that these husbands could have died or divorced her, while others propose that she left them improperly or was living with them in an unlawful way. Regardless, it is clear that her current relationship is not a lawful one. Though we don't know the extent of her sinful life, it is evident that her heart was not yet hardened.
-- 🔄 John 4:18 (attempt 4, 77 words, 46.55% quotes quality score: 1.5747660680825124, V2 normalized quality score: 43.7, commentator tiers 1-3: 20.59%, 40.89%, 38.52%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: Notice that the statement is true, indicating a fact about the woman's marital history. Some commentators suggest that her previous husbands may have died or divorced her, while others propose that she left them improperly or engaged in an unlawful relationship. Regardless, her current union is not lawful. Although we don't have details about the extent of her sinful lifestyle, it is clear that her heart has not yet hardened.
-- 🔄 John 4:18 (attempt 5, 72 words, 40.35% quotes quality score: 1.4889468375928094, V2 normalized quality score: 40.85, commentator tiers 1-3: 26.24%, 41.13%, 32.63%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- ✅ John 4:18 bht prompt v0.8 (68 words, 50.0% quotes)
-- quality score: 1.2096355147621047, V2 normalized quality score: 31.56, commentator tiers 1-3: 18.75%, 46.99%, 34.26%)
+- Attempt 2 BHT: The truth of the woman's situation is evident in the fact that she had truly experienced five husbands, none of whom were her lawful husband. Although the conviction of her sin may not have fully transformed her at that moment, Jesus' words and her journey back to the city began to deepen the realization of her wrongdoing. Despite her choices, her heart remained unhardened, leaving room for repentance and a potential change of heart.
+- 🔄 John 4:18 (attempt 2, 75 words, 39.29% quotes quality score: 1.44305092708071, V2 normalized quality score: 39.32, commentator tiers 1-3: 28.29%, 37.11%, 34.6%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The woman had truly gone through five husbands, and her current partner was not her lawful husband. Although the conviction of her sin had not deeply worked within her, Jesus' words and her journey back to the city started to bring about a realization of her wrongdoing. Unlike her past choices, her heart had not yet hardened, indicating the possibility of repentance and transformation.
+- 🔄 John 4:18 (attempt 3, 64 words, 35.56% quotes quality score: 1.442596099815954, V2 normalized quality score: 39.31, commentator tiers 1-3: 27.52%, 38.62%, 33.85%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The woman had truly experienced five husbands, and her current partner was not her lawful husband. While the conviction of her sin had not deeply worked within her, Jesus' words and her journey back to the city began to implant a sense of realization. Her heart had not hardened, suggesting that there was still an opportunity for repentance and change.
+- 🔄 John 4:18 (attempt 4, 60 words, 40.91% quotes quality score: 1.4121975174874133, V2 normalized quality score: 38.3, commentator tiers 1-3: 28.89%, 36.61%, 34.5%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The woman had truly gone through five husbands, and her current partner was not her lawful husband. Although the conviction of her sin had not deeply worked within her yet, Jesus' words and her journey back to the city had started to bring about a realization. Her heart had not hardened, indicating space for repentance and transformation in her life.
+- 🔄 John 4:18 (attempt 5, 60 words, 40.91% quotes quality score: 1.43264468693368, V2 normalized quality score: 38.98, commentator tiers 1-3: 27.36%, 37.83%, 34.82%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 4:18 bht prompt v0.8 (75 words, 39.29% quotes)
+- quality score: 1.44305092708071, V2 normalized quality score: 39.32, commentator tiers 1-3: 28.29%, 37.11%, 34.6%)

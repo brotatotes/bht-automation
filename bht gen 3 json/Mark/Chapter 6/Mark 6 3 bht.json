@@ -1,44 +1,44 @@
 {
-    "timestamp": "12-22-2023 23:23:19",
+    "timestamp": "12-25-2023 20:32:33",
     "verseRef": "Mark 6:3",
     "bestBHT": {
-        "bht": "Jesus, the carpenter, performed ordinary carpentry work making plows and yokes among men. His lack of ability to perform miracles was not because He was powerless, but because of the people's faithlessness. He often required faith from recipients, and without it, help could not be given. The fact that Jesus was rejected even by His own brothers, who disbelieved His Messianic claims, is a sad reality. This highlights the significance of His humble life as a carpenter, setting an example of industry and diligence.",
-        "wordCount": 85,
-        "quoteTokenProportion": 40.91,
-        "qualityScore": 1.461406594468874,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+        "bht": "Jesus, during his time among men, worked as a carpenter, handling ordinary tasks such as ploughs and yokes. The people of Nazareth took offense at the mere notion that Jesus, who had grown up amongst them, could make claims of being the Messiah. Their lack of faith hindered Jesus from performing many miracles among them, for he often required faith from those he sought to help. It was saddening that even his own family disbelieved his Messianic claims, adding to the stumbling block for the Nazarenes.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 1.7192947725527739,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.51,
         "commentatorTierSimilarities": [
-            29.56,
-            25.59,
-            44.84
+            33.32,
+            28.69,
+            37.99
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
             "For He wrought, while among men, the ordinary works of a carpenter, to wit, ploughs and yokes.",
             "The want of ability spoken of is not absolute, but relative: 'not because He was powerless, but because they were faithless.'",
-            "In most cases of human infirmity, it was our Lord's practice to require faith in the recipient of aid: and that being wanting, the help could not be given."
+            "In most cases of human infirmity, it was our Lord\u2019s practice to require faith in the recipient of aid: and that being wanting, the help could not be given."
         ],
         "Marvin Vincent": [
-            "The carpenter. This word 'throws the only flash which falls on the continuous tenor of the first thirty years, from infancy to manhood, of the life of Christ'\" (Farrar, \"Messages of the Books\").",
-            "They were offended.\" ",
+            "This word 'throws the only flash which falls on the continuous tenor of the first thirty years, from infancy to manhood, of the life of Christ.\" (Farrar, \"Messages of the Books\")",
+            "They were offended.\" (See On Matthew 5:29)",
             "Tynd., hurt."
         ],
         "Philip Schaff": [
-            "The carpenter's son.",
-            "All Jewish young men learned a trade.",
+            "The carpenter. Matthew: 'the carpenter's son.'",
+            "Our Lord had probably wrought at the trade of Joseph.",
             "The Son of man would doubtless share in the primal curse."
         ],
         "Archibald T. Robertson": [
-            "This word carpenter 'throws the only flash which falls on the continuous tenor of the first thirty years from infancy to manhood, of the life of Christ' (Farrar).",
-            "He became--\u03c0\u03b5\u03c4\u03c1\u03b1 \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03bf\u03c5 (1 Peter 2:7; 1 Peter 2:8; Romans 9:33) to those who disbelieved.",
-            "This was the saddest part of it all, that his own brothers in his own home disbelieved his Messianic claims."
+            "This word carpenter 'throws the only flash which falls on the continuous tenor of the first thirty years from infancy to manhood, of the life of Christ'",
+            "The Nazarenes found their stumbling block in the person or circumstances of Jesus. He became--\u03c0\u03b5\u03c4\u03c1\u03b1 \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03bf\u03c5 to those who disbelieved",
+            "This was the saddest part of it all, that his own brothers in his own home disbelieved his Messianic claims"
         ],
         "John Gill": [
-            "such may Christ be reasonably thought to be, since his father was; and which business he might follow, partly through the meanness and poverty of his parents; and partly that he might set an example of industry and diligence",
-            "the Jews ought not to have flouted Christ with this trade of a carpenter, since, according to them, it was necessary that a carpenter, in some cases, should be a regular priest",
-            "they could by no means think of him as the Messiah, who made so contemptible a figure, and was brought up in such a low way of life"
+            "Such may Christ be reasonably thought to be, since his father was; and which business he might follow, partly through the meanness and poverty of his parents; and partly that he might set an example of industry and diligence; and chiefly to bear that part of the first Adam's curse, which was to eat his bread with the sweat of his brow.",
+            "The Jews ought not to have flouted Christ with this trade of a carpenter, since, according to them, it was necessary that a carpenter, in some cases, should be a regular priest; as in repairing of the temple, especially the holy of holies.",
+            "Or they were offended at the meanness of his extraction and descent, his father, and mother, and brethren, and sisters, being all persons in low circumstances of life; whereas they expected the Messiah would be born and brought up as a temporal prince, in great grandeur and splendour."
         ],
         "John Wesley": [
             "Is not this the carpenter? \u2014 There can be no doubt, but in his youth he wrought with his supposed father Joseph."
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus, known as the carpenter, performed ordinary carpentry work such as making plows and yokes among men. However, His ability to perform miracles was hindered by the lack of faith from those around Him. Jesus often required faith from recipients before providing aid, and without it, help could not be given. His own brothers in His own home even disbelieved His Messianic claims, showing the sad reality that those closest to Him rejected Him. It is significant that Jesus, the Son of man, shared in the primal curse and worked as a carpenter, as it sheds light on the continuous thirty years of His life leading up to His ministry.",
-            "wordCount": 110,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.5731330241698607,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "bht": "Jesus, while among men, worked as a carpenter, crafting ploughs and yokes. The people in Nazareth were 'offended' by the fact that He, who had grown up in their midst, dared to claim the title of Messiah. Because of their lack of faith, Jesus was unable to perform many miracles there. The meanness of Jesus' background, his lowly extraction and humble family, was a stumbling block for them. Despite this, Jesus willingly took up the trade of carpentry, not only to set an example of industry and diligence, but also to bear the part of the curse of Adam, eating bread with the sweat of his brow.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.6776327717606547,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
             "commentatorTierSimilarities": [
-                30.0,
-                29.31,
-                40.69
+                28.34,
+                32.67,
+                38.99
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus, the carpenter, performed ordinary carpentry work making plows and yokes among men. His inability to perform miracles was due to the lack of faith from those around Him. He often required faith from recipients to give aid. Even His own brothers disbelieved His Messianic claims, which was the saddest part. This sheds light on the continuous thirty years of His life. His role as the Son of man who shared in the primal curse is significant, as it shows the necessity and example of industry and diligence.",
-            "wordCount": 88,
-            "quoteTokenProportion": 38.81,
-            "qualityScore": 1.4085589030516439,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.18,
+            "bht": "Jesus, while among men, worked as a carpenter, crafting ploughs and yokes. The people in Nazareth were 'offended' by the fact that He, who had grown up in their midst, dared to claim the title of Messiah. Because of their lack of faith, Jesus was unable to perform many miracles there. The meanness of Jesus' background, his lowly extraction and humble family, was a stumbling block for them. Despite this, Jesus willingly took up the trade of carpentry to bear the part of the curse of Adam.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.6942718841994862,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.68,
             "commentatorTierSimilarities": [
-                29.41,
-                34.01,
-                36.58
+                27.7,
+                34.88,
+                37.42
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus, the carpenter, performed ordinary carpentry work making plows and yokes among men. His lack of ability to perform miracles was not because He was powerless, but because of the people's faithlessness. He often required faith from recipients, and without it, help could not be given. The fact that Jesus was rejected even by His own brothers, who disbelieved His Messianic claims, is a sad reality. This highlights the significance of His humble life as a carpenter, setting an example of industry and diligence.",
-            "wordCount": 85,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.461406594468874,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "bht": "Jesus, being among men, worked as a carpenter, making ploughs and yokes. The people in Nazareth were 'offended' because they couldn't see past Jesus' ordinary background to believe in His Messianic claims, despite witnessing many miracles. Their lack of faith hindered Jesus from performing more miracles among them. Jesus willingly chose to take up carpentry, not only to set an example of industry and diligence but also to bear the burden of the curse of Adam.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.682590591586913,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.29,
             "commentatorTierSimilarities": [
-                29.56,
-                25.59,
-                44.84
+                29.16,
+                33.79,
+                37.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus, the carpenter, performed ordinary carpentry work making plows and yokes among men. The lack of ability to perform miracles was due to the people's faithlessness. Faith was crucial for Him to provide help. Even His own brothers disbelieved His Messianic claims, a sad part of His journey. His humble life as a carpenter sheds light on his continuous thirty years, setting an example of industry and diligence.",
-            "wordCount": 69,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 1.4580366636730904,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "bht": "Jesus, during his time among men, worked as a carpenter, handling ordinary tasks such as ploughs and yokes. The people of Nazareth took offense at the mere notion that Jesus, who had grown up amongst them, could make claims of being the Messiah. Their lack of faith hindered Jesus from performing many miracles among them, for he often required faith from those he sought to help. It was saddening that even his own family disbelieved his Messianic claims, adding to the stumbling block for the Nazarenes.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.7192947725527739,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
             "commentatorTierSimilarities": [
-                29.49,
-                31.32,
-                39.19
+                33.32,
+                28.69,
+                37.99
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus, known as the carpenter, performed ordinary carpentry work making plows and yokes among men. However, His ability to perform miracles was hindered by the lack of faith from those around Him. Jesus often required faith from recipients before providing aid, and without it, help could not be given. His own brothers in His own home even disbelieved His Messianic claims, showing the sad reality that those closest to Him rejected Him. It is significant that Jesus, the Son of man, shared in the primal curse and worked as a carpenter, as it sheds light on the continuous thirty years of His life leading up to His ministry.",
-            "wordCount": 108,
-            "quoteTokenProportion": 37.66,
-            "qualityScore": 1.5651021593251413,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "bht": "Jesus, as a carpenter, performed ordinary tasks like making ploughs and yokes while he walked among men. The people of Nazareth were offended by his claims of being the Messiah, as they couldn't see past his humble background and doubted his abilities. Jesus often required faith from those seeking his help, and without it, he could not perform many miracles. Even his own family disbelieved his Messianic claims, which added to the stumbling block for the people of Nazareth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.620581410807049,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
             "commentatorTierSimilarities": [
-                29.95,
-                29.74,
-                40.31
+                31.21,
+                29.03,
+                39.76
             ],
             "generationAttempt": 5
         }

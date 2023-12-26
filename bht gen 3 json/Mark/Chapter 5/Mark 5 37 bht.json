@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:23:02",
+    "timestamp": "12-25-2023 20:32:32",
     "verseRef": "Mark 5:37",
     "bestBHT": {
-        "bht": "Jesus only allowed Peter, James, and John to follow him, excluding all others. This select group of disciples had a unique and special relationship with Jesus, being part of His inner circle. They were witnesses not only to this particular miracle but also to other significant moments in Jesus' ministry, such as the Transfiguration and His time in the Garden of Gethsemane. By limiting the number of followers, Jesus ensured that His miracle would not be overshadowed by a noisy and distracting crowd. This emphasis on a smaller, intimate gathering of witnesses highlights the intentionality and significance of the moment.",
-        "wordCount": 100,
-        "quoteTokenProportion": 41.43,
-        "qualityScore": 1.2107944144136602,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.6,
+        "bht": "Jesus allowed only Peter, James, and John to accompany Him, excluding the other disciples, perhaps due to limited space in the house. These three formed a close inner circle and were present at significant events like the Transfiguration and the Garden of Gethsemane. Jesus intentionally restricted the number of witnesses to the miracle, either to avoid distractions or emphasize the significance of the young woman's restoration to life. While Matthew does not mention this detail, it was important for Mark to highlight. James, recently martyred, holds a notable position in Mark's writing.",
+        "wordCount": 94,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.2666540007734,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.46,
         "commentatorTierSimilarities": [
-            45.81,
+            48.5,
             0.0,
-            54.19
+            51.5
         ],
-        "generationAttempt": 1
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -23,22 +23,20 @@
         "John Calvin": [
             "He forbade that they should be allowed to enter, either because they were unworthy to be his witnesses of the miracle, or because he did not choose that the miracle should be overpowered by a noisy crowd around him.",
             "It was better that the young woman, whose dead body they had beheld, should suddenly go out before the eyes of men, alive and full of rigor.",
-            "Mark and Luke tell us that not more than three of the disciples were admitted, and both mention also the parents."
+            "Matthew, who is more concise, takes no notice of this circumstance."
         ],
         "Archibald T. Robertson": [
-            "Save Peter, and James, and John (\u03b5 \u03bc\u03b7 \u03a0\u03b5\u03c4\u03c1\u03bf\u03bd \u03ba\u03b1 \u03bb\u03b1\u03ba\u03c9\u03b2\u03bf\u03bd \u03ba\u03b1 \u0399\u03c9\u03b1\u03bd\u03b7\u03bd).",
+            "Save Peter, and James, and John. Probably the house was too small for the other disciples to come in with the family.\" ",
             "The first instance of this inner circle of three seen again on the Mount of Transfiguration and in the Garden of Gethsemane.",
             "The one article in the Greek treats the group as a unit."
         ],
         "John Gill": [
-            "He suffered no man to follow him... being not desirous of the honour and applause of men.\" ",
-            "Save Peter, and James, and John, the brother of James: three favourite disciples, who were a sufficient number of witnesses.",
-            "They might conclude there was nothing now to be done."
+            "And he suffered no man to follow him...being not desirous of the honour and applause of men.\" ",
+            "...understanding by the messengers that the child was dead, were the more easily prevailed upon to depart...\" ",
+            "...three favourite disciples, who were a sufficient number of witnesses; and who were taken alone along with Christ on some other occasions."
         ],
         "John Wesley": [
-            "When St. Mark wrote, not long after our Lord's ascension, the memory of St. James, lately beheaded, was so fresh...",
-            "the memory of St. James, lately beheaded, was so fresh, that his name was more known...",
-            "...that his name was more known than that of John himself."
+            "When St. Mark wrote, not long after our Lord's ascension, the memory of St. James, lately beheaded, was so fresh, that his name was more known than that of John himself."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus only allowed Peter, James, and John to follow him, excluding all others. This select group of disciples had a unique and special relationship with Jesus, being part of His inner circle. They were witnesses not only to this particular miracle but also to other significant moments in Jesus' ministry, such as the Transfiguration and His time in the Garden of Gethsemane. By limiting the number of followers, Jesus ensured that His miracle would not be overshadowed by a noisy and distracting crowd. This emphasis on a smaller, intimate gathering of witnesses highlights the intentionality and significance of the moment.",
-            "wordCount": 100,
-            "quoteTokenProportion": 41.43,
-            "qualityScore": 1.2107944144136602,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.6,
+            "bht": "Jesus allowed only Peter, James, and John to accompany Him, excluding the other disciples, perhaps due to the limited space in the house. These three disciples formed a close inner circle, being witnesses to significant events like the Transfiguration and the Garden of Gethsemane. The use of the definite article in Greek suggests that they were treated as a unit. Jesus intentionally restricted the number of witnesses to the miracle, either to avoid distractions or to emphasize the significance of the young woman's restoration to life. While Matthew does not mention this detail, it was important for Mark to highlight. This decision also expressed Jesus' humility, as He was not seeking worldly recognition. Furthermore, the messengers' report of the child's death likely influenced the crowd's departure. By selecting these three disciples as witnesses, Jesus conveyed the importance of their testimony. The mention of James, who was recently martyred, illustrates his prominent position at the time of Mark's writing.",
+            "wordCount": 162,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.1787584581748787,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.54,
             "commentatorTierSimilarities": [
-                45.81,
+                44.26,
                 0.0,
-                54.19
+                55.74
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus allowed only Peter, James, and John to follow Him, forming a close-knit inner circle. This exclusivity is emphasized by the use of a definite article in the Greek, treating the three disciples as a distinct unit. They witnessed not only this miracle but also other significant events in Jesus' life. By limiting the number of followers, Jesus ensured that the miracle would not be overshadowed by a noisy crowd. This intentional selection of witnesses highlights the importance and significance of the moment.",
-            "wordCount": 84,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.0518626394551243,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.32,
+            "bht": "Jesus permitted only three disciples, Peter, James, and John, to accompany Him, while excluding the rest due to limited space. These three formed an intimate circle, often present at significant moments in Jesus' ministry. The specific use of the definite article signifies their unity. Jesus intentionally limited the witnesses to the miracle, possibly to avoid distractions or highlight the significance of the young woman's restoration. Matthew omits this detail, but Mark emphasizes its importance. The messengers' report likely influenced the crowd's departure, and Jesus' choice of these three disciples as witnesses underscores their testimony's importance. The mention of James, recently martyred, highlights his prominence during Mark's writing.",
+            "wordCount": 111,
+            "quoteTokenProportion": 27.85,
+            "qualityScore": 1.1007561195234525,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.94,
             "commentatorTierSimilarities": [
-                45.42,
+                45.8,
                 0.0,
-                54.58
+                54.2
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus allowed only Peter, James, and John, forming a close-knit inner circle, to follow Him. This unique group of disciples witnessed not only this miracle but also other significant events in Jesus' life. By limiting the number of followers, Jesus ensured that the miracle would not be overshadowed by a noisy crowd. Their presence as witnesses emphasizes the importance and significance of the moment, showing the intentional selection of those who could truly appreciate and understand the power of Jesus' actions.",
-            "wordCount": 82,
-            "quoteTokenProportion": 35.48,
-            "qualityScore": 1.145791124063334,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.44,
+            "bht": "Jesus allowed only Peter, James, and John to accompany Him, excluding the other disciples, perhaps due to limited space in the house. These three formed a close inner circle and were present at significant events like the Transfiguration and the Garden of Gethsemane. Jesus intentionally restricted the number of witnesses to the miracle, either to avoid distractions or emphasize the significance of the young woman's restoration to life. While Matthew does not mention this detail, it was important for Mark to highlight. James, recently martyred, holds a notable position in Mark's writing.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2666540007734,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.46,
             "commentatorTierSimilarities": [
-                44.07,
+                48.5,
                 0.0,
-                55.93
+                51.5
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus only allowed Peter, James, and John to follow Him, excluding all others. This select group of disciples had a special relationship with Jesus. They were witnesses not only to this miracle but also to other significant moments in Jesus' ministry. By limiting the number of followers, Jesus ensured that His miracle would not be overshadowed by a noisy and distracting crowd. This emphasis on a smaller, intimate gathering of witnesses highlights the intentionality and significance of the moment.",
-            "wordCount": 79,
-            "quoteTokenProportion": 43.1,
-            "qualityScore": 1.1455585531180144,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.43,
+            "bht": "Jesus chose only Peter, James, and John to accompany Him, excluding the other disciples, possibly due to limited space. These three disciples formed a tight-knit circle and witnessed significant events such as the Transfiguration and the Garden of Gethsemane. Jesus deliberately limited the number of witnesses to the miracle, emphasizing the importance of the young woman's restoration. While Matthew does not mention this detail, Mark highlights it. The mention of James, recently martyred, indicates his significant presence during the time of Mark's writing.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.2360499063952848,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.44,
             "commentatorTierSimilarities": [
-                43.17,
+                45.82,
                 0.0,
-                56.83
+                54.18
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus only permitted Peter, James, and John to accompany Him while excluding all others. This distinguished trio formed an exclusive inner circle of disciples, closely connected to Jesus. They witnessed not only this particular miracle but also other significant occasions, such as the Transfiguration and His agonizing time in Gethsemane. By limiting the number of followers, Jesus ensured that His miracle would not be overshadowed by a noisy crowd. This deliberate choice of a smaller, more intimate group of witnesses underscores the importance and profundity of the moment.",
-            "wordCount": 88,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.117630387423362,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.5,
+            "bht": "Jesus allowed only Peter, James, and John to accompany Him, excluding the other disciples due to limited space. The three formed a close circle and witnessed key events like the Transfiguration and the Garden of Gethsemane. Jesus intentionally restricted the witnesses to the miracle, either to prevent distractions or highlight the significance of the young woman's restoration. While Matthew omits this detail, Mark emphasizes its importance. The mention of James, recently martyred, suggests his prominence at the time of Mark's writing.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.2535580750773423,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
             "commentatorTierSimilarities": [
-                45.03,
+                47.0,
                 0.0,
-                54.97
+                53.0
             ],
             "generationAttempt": 5
         }

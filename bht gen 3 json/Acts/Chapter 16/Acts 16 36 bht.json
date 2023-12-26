@@ -1,23 +1,23 @@
 {
-    "timestamp": "12-19-2023 16:32:11",
+    "timestamp": "12-25-2023 20:34:05",
     "verseRef": "Acts 16:36",
     "bestBHT": {
-        "bht": "The jailer, overflowing with joy, quickly delivered the message to Paul and Silas, expressing his happiness over their release and his desire for them to depart and go in peace. The simple task of relaying the orders brought him immense delight, as he had experienced firsthand the goodness that Paul and Silas had brought to him and his family.",
-        "wordCount": 59,
-        "quoteTokenProportion": 40.48,
-        "qualityScore": 1.3965072343807798,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+        "bht": "Paul and Silas found themselves back at the prison, where the jailer eagerly informed them about the magistrates' order for their release. Although it was a simple matter for the jailer, Paul had a different perspective on receiving such orders. Nevertheless, the jailer sincerely wished Paul and Silas peace and prosperity as they departed from the prison.",
+        "wordCount": 57,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.5367716911315559,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.44,
         "commentatorTierSimilarities": [
-            28.33,
+            35.85,
             0.0,
-            71.67
+            64.15
         ],
-        "generationAttempt": 1
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "Paul and Silas had returned to the prison.",
-            "Whither the jailor goes, accompanied by the lictors.",
+            "The jailor goes, accompanied by the lictors.",
             "It was they that he addressed in ver. 37."
         ],
         "Jamieson-Fausset-Brown": [
@@ -29,14 +29,13 @@
             "\treceive such orders."
         ],
         "Archibald T. Robertson": [
-            "It was a simple matter to the jailor and he was full of glee over this happy outcome.",
-            "It was a simple matter to the jailor.",
+            "It was a simple matter to the jailor.\" ",
             "He was full of glee over this happy outcome."
         ],
         "John Gill": [
-            "Now therefore depart, and go in peace; which expresses the jailer's pleasure of mind, and joy of heart, in executing his orders.\" ",
-            "and his sincere and hearty wishes for peace and prosperity to go along with them wherever they went.",
-            "who had been instrumental of so much good to him and his family."
+            "And the keeper of the prison told this, saying to Paul.... The Ethiopic version adds, 'and to Silas'; this was the same person with the jailer, whom Paul had baptized...\" (35 words)",
+            "the magistrates have sent to let you go; they have sent an order to let you out of prison...\" (20 words)",
+            "now therefore depart, and go in peace; which expresses the jailer's pleasure of mind, and joy of heart, in executing his orders; and his sincere and hearty wishes for peace and prosperity to go along with them wherever they went, who had been instrumental of so much good to him and his family.\" (56 words)"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -56,67 +55,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The jailer, overflowing with joy, quickly delivered the message to Paul and Silas, expressing his happiness over their release and his desire for them to depart and go in peace. The simple task of relaying the orders brought him immense delight, as he had experienced firsthand the goodness that Paul and Silas had brought to him and his family.",
-            "wordCount": 59,
-            "quoteTokenProportion": 40.48,
-            "qualityScore": 1.3965072343807798,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+            "bht": "Paul and Silas had returned to the prison, and the jailor, filled with glee over this happy outcome, joyfully informed Paul about the magistrates' order to release them. It was a simple matter for the jailor, but for Paul, receiving such orders was a different experience. Nevertheless, the jailor expressed his sincere and heartfelt wishes for peace and prosperity to accompany Paul and Silas as they departed from the prison.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.707047287725545,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
             "commentatorTierSimilarities": [
-                28.33,
+                42.62,
                 0.0,
-                71.67
+                57.38
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Overjoyed by the opportunity to carry out the orders, the jailer eagerly informed Paul and Silas, relishing in the simplicity of the task and his delight over their release. Expressing his heartfelt wishes for them to depart and go in peace, he couldn't contain his glee at the positive outcome. Having experienced the transformative impact of Paul and Silas firsthand, the jailer couldn't help but be filled with joy and gratitude for the good they had brought into his life and the lives of his loved ones.",
-            "wordCount": 89,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.3456754532855069,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.09,
+            "bht": "Paul and Silas had returned to the prison, and the joyful jailor informed Paul about the magistrates' order to release them. It was a simple matter for the jailor, but for Paul, receiving such orders was a different experience. Nevertheless, the jailor expressed his sincere wishes for peace and prosperity as they departed from the prison.",
+            "wordCount": 56,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.6285841168049089,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
             "commentatorTierSimilarities": [
-                28.86,
+                41.99,
                 0.0,
-                71.14
+                58.01
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The jailer, full of joy, quickly shared the news with Paul and Silas, conveying his happiness over their release and his wish for them to go in peace. He delighted in the simplicity of the task and the favorable outcome. Having witnessed the positive impact of Paul and Silas, he was filled with glee and gratefulness for the good they had brought into his life and the lives of his family.",
-            "wordCount": 71,
-            "quoteTokenProportion": 38.3,
-            "qualityScore": 1.338027212281761,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "bht": "Paul and Silas, who had returned to the prison, were informed by the jailor about the magistrates' order of release. While it was a simple matter for the jailor, Paul experienced it differently. Nonetheless, the jailor expressed his heartfelt wishes for peace and prosperity as Paul and Silas departed from the prison.",
+            "wordCount": 52,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.6917310056355706,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
             "commentatorTierSimilarities": [
-                31.36,
+                47.16,
                 0.0,
-                68.64
+                52.84
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Overjoyed by the orders to release Paul and Silas, the jailer excitedly conveyed the news to them and expressed his desire for them to depart and go in peace. The simplicity of the task brought him immense delight, as he had personally experienced the positive transformation caused by their presence. Filled with joy and gratitude for the good they had done for him and his family, the jailer couldn't contain his glee at the favorable outcome.",
-            "wordCount": 77,
-            "quoteTokenProportion": 35.19,
-            "qualityScore": 1.2371194476885283,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
+            "bht": "Having returned to the prison, Paul and Silas were delighted when the jailor notified them of the magistrates' release order. While it was a straightforward task for the jailor, Paul perceived the situation differently. Nevertheless, the jailor conveyed his genuine wishes for peace and success as Paul and Silas left the prison.",
+            "wordCount": 52,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.6029263252953645,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.64,
             "commentatorTierSimilarities": [
-                25.47,
+                44.25,
                 0.0,
-                74.53
+                55.75
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Rejoicing at the chance to execute the orders, the jailer eagerly informed Paul and Silas, relishing the simplicity of the task and his delight over their release. He wished them to depart and go in peace, his pleasure of mind and heartfelt desires evident. Having experienced the significant impact of Paul and Silas, he couldn't contain his joy and gratitude for the good they had brought to him and his family, their remarkable influence leaving a lasting impression.",
-            "wordCount": 79,
-            "quoteTokenProportion": 30.36,
-            "qualityScore": 1.2674478914195757,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.49,
+            "bht": "Paul and Silas found themselves back at the prison, where the jailer eagerly informed them about the magistrates' order for their release. Although it was a simple matter for the jailer, Paul had a different perspective on receiving such orders. Nevertheless, the jailer sincerely wished Paul and Silas peace and prosperity as they departed from the prison.",
+            "wordCount": 57,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5367716911315559,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
             "commentatorTierSimilarities": [
-                22.8,
+                35.85,
                 0.0,
-                77.2
+                64.15
             ],
             "generationAttempt": 5
         }

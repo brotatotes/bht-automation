@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:29:17",
+    "timestamp": "12-25-2023 20:34:00",
     "verseRef": "Acts 10:27",
     "bestBHT": {
-        "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, surrounded by an expectant group of Gentiles eager for Peter's interpretation of the vision. This encounter signifies a significant step for Peter, as he becomes more comfortable with interacting with Gentiles, overcoming his previous apprehensions. The initial conversation likely revolved around casual matters, but Peter is deeply moved by what he witnesses upon entering. He expresses his excessive respect for Cornelius, recognizing his own weaknesses and unworthiness. The gathering includes not only Cornelius's family but also his friends and relatives, all present to receive blessings.",
-        "wordCount": 97,
-        "quoteTokenProportion": 36.62,
-        "qualityScore": 1.383165689958147,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+        "bht": "Peter's second going in signifies the completion of his entrance into the chamber, where he engages in a conversation with Cornelius. This encounter reveals Peter's growth in accepting Gentiles, while the expectant group eagerly awaits his interpretation of the vision. As they talk, Peter is surprised and impressed, recognizing his own frailty and unworthiness in the presence of Cornelius and those gathered.",
+        "wordCount": 64,
+        "quoteTokenProportion": 36.17,
+        "qualityScore": 1.5160588522524843,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.75,
         "commentatorTierSimilarities": [
-            25.13,
-            32.42,
-            42.46
+            42.73,
+            33.17,
+            24.1
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,20 +21,21 @@
         "Albert Barnes": [
             "It was an expression of joy thus to go out to meet him.",
             "He probably met him at the door, or at a small distance from the house.",
-            "As he talked with him."
+            "And as he talked with him."
         ],
         "Philip Schaff": [
             "Free and friendly intercourse with a Gentile is now become comparatively easy to Peter. He has reached a further step in the learning of his great lesson.\" ",
-            "The conversation at this point probably related to casual matters, such as health or the incidents of the journey.\" ",
+            "The conversation at this point probably related to casual matters, such as health or the incidents of the journey.",
             "Many. This adds much force to what was said before. Peter seems to have been surprised and much impressed by what he saw on entering."
         ],
         "Archibald T. Robertson": [
-            "As he talked with him, with associative instrumental case.\" ",
-            "Findeth, vivid historical present indicative active.",
-            "Come together, it was an expectant group of Gentiles eager for Peter's interpretation of the vision of Cornelius."
+            "As he talked with him (\u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03c9\u03bd \u03b1\u03c5\u03c4\u03c9). Present active participle of \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b5\u03c9, rare compound and here alone in the N.T., with associative instrumental case.\" ",
+            "Findeth (\u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03b5). Vivid historical present indicative active.",
+            "Come together (\u03c3\u03c5\u03bd\u03b5\u03bb\u03b7\u03bb\u03c5\u03b8\u03bf\u03c4\u03b1\u03c2). Second perfect active participle of \u03c3\u03c5\u03bd\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1. It was an expectant group of Gentiles eager for Peter's interpretation of the vision of Cornelius."
         ],
         "John Gill": [
             "About the excessive respect he showed him, and his own infirmity and frailty, and unworthiness, as a creature.",
+            "To some interior room and apartment in it.",
             "Besides his family, many of his relations and intimate friends, whom he had got together on this occasion, that they might receive some advantage, as well as himself."
         ]
     },
@@ -55,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, marked by joy and an expectant group of Gentiles eager for Peter's interpretation of Cornelius's vision. This encounter signifies a significant step for Peter, as he becomes more comfortable with interacting with Gentiles, overcoming his previous apprehensions. The initial conversation likely revolved around casual matters, but Peter is deeply moved by what he witnesses upon entering. Not only does he express excessive respect for Cornelius, but he also recognizes his own weaknesses and unworthiness in the presence of such a significant moment. The gathering is not limited to Cornelius's family, but includes his close friends and relatives, all present to receive the blessings of this encounter.",
-            "wordCount": 119,
-            "quoteTokenProportion": 35.9,
-            "qualityScore": 1.3834900242460093,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
+            "bht": "Peter's second going in reflects the completion of his entrance into the house, and he meets Cornelius at the door or a small distance away as they engage in a joyful and friendly conversation. This interaction between Peter and Cornelius signifies a significant step in Peter's journey of learning to embrace Gentiles, and the large group of Gentiles gathered eagerly awaits Peter's interpretation of the vision. As they talk, Peter shows excessive respect, feeling surprised and impressed by what he has witnessed, recognizing his own infirmity and unworthiness in the presence of Cornelius and those gathered with him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.4081925385243674,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.17,
             "commentatorTierSimilarities": [
-                24.79,
-                33.77,
-                41.44
+                30.39,
+                38.28,
+                31.33
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, surrounded by an expectant group of Gentiles eager for Peter's interpretation of the vision. This encounter signifies a significant step for Peter, as he becomes more comfortable with interacting with Gentiles, overcoming his previous apprehensions. The initial conversation likely revolved around casual matters, but Peter is deeply moved by what he witnesses upon entering. He expresses his excessive respect for Cornelius, recognizing his own weaknesses and unworthiness. The gathering includes not only Cornelius's family but also his friends and relatives, all present to receive blessings.",
-            "wordCount": 97,
-            "quoteTokenProportion": 36.62,
-            "qualityScore": 1.383165689958147,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+            "bht": "Peter's second going in signifies the completion of his entrance, as he meets Cornelius to engage in a friendly conversation. This interaction demonstrates Peter's growth in accepting Gentiles, and the eager group of Gentiles gathered await Peter's interpretation of the vision. As they talk, Peter feels surprised and impressed, recognizing his own infirmity and unworthiness in the presence of Cornelius and those gathered with him.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.4170897729900154,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
             "commentatorTierSimilarities": [
-                25.13,
-                32.42,
-                42.46
+                36.43,
+                37.43,
+                26.14
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, joined by a group of Gentiles eagerly awaiting his interpretation of the vision. This encounter marks a significant milestone for Peter, as he grows more comfortable in his interactions with Gentiles, gaining insight and overcoming his previous reservations. The initial exchange likely involved light-hearted topics, but Peter is profoundly impacted by what he observes upon entering. He reveres Cornelius, acknowledging his own limitations and frailty in the face of this transformative experience. The gathering extends beyond Cornelius's family, including close friends and relatives seeking spiritual enrichment.",
-            "wordCount": 98,
-            "quoteTokenProportion": 26.39,
-            "qualityScore": 1.327630473648986,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "bht": "Peter's second going in completes his entrance into the house, as he engages in a friendly conversation with Cornelius. This interaction highlights Peter's growth in accepting Gentiles, while the eager group of Gentiles await his interpretation of the vision. Peter's surprise and admiration for Cornelius and those gathered with him show his humility and recognition of his own unworthiness.",
+            "wordCount": 62,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.411842724081077,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.29,
             "commentatorTierSimilarities": [
-                27.28,
-                31.14,
-                41.58
+                42.01,
+                32.89,
+                25.1
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius and a group of expectant Gentiles, eager to hear Peter's interpretation of Cornelius's vision. This encounter signifies a significant milestone for Peter, as he becomes more comfortable with interacting with Gentiles and overcomes his previous apprehensions. The initial conversation likely focused on casual matters, but Peter is deeply moved by what he witnesses upon entering. He expresses great respect for Cornelius and recognizes his own weaknesses and unworthiness in the presence of such a profound moment. The gathering includes not only Cornelius's family but also close friends and relatives, all seeking spiritual benefit.",
-            "wordCount": 106,
-            "quoteTokenProportion": 34.67,
-            "qualityScore": 1.333560057998806,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.68,
+            "bht": "Peter's second going in signifies the completion of his entrance into the chamber, where he engages in a conversation with Cornelius. This encounter reveals Peter's growth in accepting Gentiles, while the expectant group eagerly awaits his interpretation of the vision. As they talk, Peter is surprised and impressed, recognizing his own frailty and unworthiness in the presence of Cornelius and those gathered.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.5160588522524843,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.75,
             "commentatorTierSimilarities": [
-                24.54,
-                32.61,
-                42.85
+                42.73,
+                33.17,
+                24.1
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Stepping into the room, Peter engages in conversation with Cornelius and a group of eager Gentiles, anticipating his interpretation of the vision. This pivotal encounter signifies Peter's growing ease in interacting with Gentiles, the culmination of his journey. Initially, their talk likely revolved around casual subjects, but Peter's heart is stirred by what unfolds before him. Admiring Cornelius, Peter humbly acknowledges his own limitations in the face of such a profound occasion. Gathering not just Cornelius's family but also close friends and relatives, they all seek to partake in the blessings of this momentous meeting.",
-            "wordCount": 98,
-            "quoteTokenProportion": 34.72,
-            "qualityScore": 1.342218167056299,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.97,
+            "bht": "Peter's second going in marks the completion of his entrance into the house, where he engages in conversation with Cornelius. This signifies Peter's growth in embracing Gentiles, as the eager group looks forward to his interpretation of the vision. As they talk, Peter is surprised and impressed, acknowledging his own infirmity and unworthiness in the presence of Cornelius and those assembled.",
+            "wordCount": 63,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.4555955341267235,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
             "commentatorTierSimilarities": [
-                28.18,
-                34.23,
-                37.59
+                42.13,
+                34.08,
+                23.79
             ],
             "generationAttempt": 5
         }

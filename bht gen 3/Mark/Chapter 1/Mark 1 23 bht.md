@@ -1,18 +1,18 @@
 # Mark 1:23 Commentary Help Text
 
 ## BHT:
-In this account, a man is depicted as being in intimate union with an unclean spirit, emphasizing the power and control it exerts over him. This idea of estrangement from God is reflected in the term 'unclean spirit', often used interchangeably with 'demon'. The demon, in a state of dread and envy, cried out when confronted by the majesty of Christ's presence, fearful of being dispossessed from the man. This narrative highlights the reality of spiritual oppression and the transformative impact of Christ's ministry.
+The presence of the unclean spirit in the man illustrated a complete surrender of his personality to its power, highlighting the stark contrast with the Majesty and glory of Jesus. The frequent association between evil spirits and the characterization of impurity in the Gospels should not be overlooked. This prompts contemplation on whether contemporary criminals and degenerates may also be under demonic influence, necessitating a transformative change of heart. The unclean spirit held the man captive, exerting its dominance over his very being.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "We may observe that this epithet often occurs under strong contrast to His Majesty and glory."
-2. "Us, generic: the demons having a common cause."
-3. "Perhaps more properly, convulsed him."
+1. "This epithet often occurs under strong contrast to His Majesty and glory." 
+2. "The demons having a common cause." 
+3. "He did not injure him at all."
 
 ### Jamieson-Fausset-Brown:
 1. "The frequency with which this character of 'impurity' is ascribed to evil spirits—some twenty times in the Gospels—is not to be overlooked."
-2. "In an unclean spirit—that is, so entirely under demoniacal power that his personality was sunk for the time in that of the spirit."
-3. "And he cried out—as follows."
+2. "so entirely under demoniacal power that his personality was sunk for the time in that of the spirit."
+3. "and he cried out—as follows:"
 
 ### Marvin Vincent:
 1. Straightway
@@ -30,52 +30,54 @@ return to 'Top of Page'
 
 
 ### Archibald T. Robertson:
-1. "The unclean spirit was in the man and the man in the unclean spirit, a man in the power of the unclean spirit."
-2. "Unclean spirit is used as synonymous with demon. It is the idea of estrangement from God."
-3. "One wonders today if the degenerates and confirmed criminals so common now are not under the power of demons. The only cure for confirmed criminals seems to be conversion (a new heart)."
+- "The unclean spirit was in the man and the man in the unclean spirit, a man in the power of the unclean spirit."
+- "Unclean spirit is used as synonymous with demon. It is the idea of estrangement from God."
+- "One wonders today if the degenerates and confirmed criminals so common now are not under the power of demons. The only cure for confirmed criminals seems to be conversion (a new heart)."
 
 ### John Gill:
-1. "such spirits sometimes are where religious persons meet, but with no good design; either to disturb the preacher, or to divert the hearer, that the word may be unfruitful and unprofitable"
-2. "he cried out through dread of the majesty of Christ, whose presence he could not bear; and through grief and envy at the success of his ministration, and the influence it had upon the minds of men"
-3. "and through fear of being dispossessed of the man, in whom he was"
+1. "but that had a devil; for in Luke 4:33, it is said, 'he had a spirit of an unclean devil'"
+2. "such spirits sometimes are where religious persons meet, but with no good design"
+3. "he cried out through dread of the majesty of Christ, whose presence he could not bear"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-25-2023 19:20:47
+- Timestamp: 12-25-2023 20:32:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 35.09%
-- BHT Quality Score: 1.5800653943962888
+- BHT Word Count: 83
+- BHT Commentary Usage: 36.67%
+- BHT Quality Score: 1.5513357271070067
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'account', 'an', 'and', 'as', 'being', 'by', 'christ', 'confronted', 'control', 'cried', 'demon', 'depicted', 'dispossessed', 'dread', 'emphasizing', 'envy', 'estrangement', 'exerts', 'fearful', 'from', 'god', 'highlights', 'him', 'idea', 'impact', 'in', 'interchangeably', 'intimate', 'is', 'it', 'majesty', 'man', 'ministry', 'narrative', 'of', 'often', 'oppression', 'out', 'over', 'power', 'presence', 'reality', 'reflected', 's', 'spirit', 'spiritual', 'state', 'term', 'the', 'this', 'transformative', 'unclean', 'union', 'used', 'when', 'with']
-- ChatGPT injected words (significant words only) (37):
-	['account', 'christ', 'confronted', 'control', 'cried', 'demon', 'depicted', 'dispossessed', 'dread', 'emphasizing', 'envy', 'estrangement', 'exerts', 'fearful', 'god', 'highlights', 'idea', 'impact', 'interchangeably', 'intimate', 'majesty', 'man', 'ministry', 'narrative', 'oppression', 'power', 'presence', 'reality', 'reflected', 's', 'spirit', 'spiritual', 'state', 'term', 'transformative', 'unclean', 'union']
+- ChatGPT injected words (60):
+	['a', 'also', 'and', 'association', 'be', 'being', 'between', 'captive', 'change', 'characterization', 'complete', 'contemplation', 'contemporary', 'contrast', 'criminals', 'degenerates', 'demonic', 'dominance', 'evil', 'exerting', 'frequent', 'glory', 'gospels', 'heart', 'held', 'highlighting', 'his', 'illustrated', 'impurity', 'in', 'influence', 'its', 'jesus', 'majesty', 'man', 'may', 'necessitating', 'not', 'of', 'on', 'over', 'overlooked', 'personality', 'power', 'presence', 'prompts', 'should', 'spirit', 'spirits', 'stark', 'surrender', 'the', 'this', 'to', 'transformative', 'unclean', 'under', 'very', 'whether', 'with']
+- ChatGPT injected words (significant words only) (38):
+	['association', 'captive', 'change', 'characterization', 'complete', 'contemplation', 'contemporary', 'contrast', 'criminals', 'degenerates', 'demonic', 'dominance', 'evil', 'exerting', 'frequent', 'glory', 'gospels', 'heart', 'held', 'highlighting', 'illustrated', 'impurity', 'influence', 'jesus', 'majesty', 'man', 'necessitating', 'overlooked', 'personality', 'power', 'presence', 'prompts', 'spirit', 'spirits', 'stark', 'surrender', 'transformative', 'unclean']
 
 ### Logs
-- Attempt 1 BHT: In Mark 1:23, a man with an unclean spirit is described as being in intimate union with the spirit, emphasizing the power and control it has over him. This unclean spirit is often used as a synonym for a demon, representing an estrangement from God. The frequency with which evil spirits are associated with impurity in the Gospels is significant. The demon in this particular instance cried out in dread of the majesty of Christ, fearful of being dispossessed from the man it had control over. This passage highlights both the reality of spiritual oppression and the transformative power of Christ's ministry.
-- 🔄 Mark 1:23 (attempt 1, 102 words, 38.71% quotes quality score: 1.6047529528561002, V2 normalized quality score: 44.7, commentator tiers 1-3: 34.18%, 28.86%, 36.96%) 
+- Attempt 1 BHT: In Mark 1:23, the man who encountered Jesus was completely under the power of the unclean spirit, to the point where his own personality was overshadowed. The term unclean is used to describe the estrangement from God that is associated with demons. The frequency of this characterization in the Gospels is significant. It is worth considering whether the criminals and degenerates of today may also be influenced by demons, as they too require a conversion of heart. The unclean spirit in this verse was residing within the man, and the man himself was in the power of the unclean spirit.
+- 🔄 Mark 1:23 (attempt 1, 99 words, 47.54% quotes quality score: 1.6041032148583918, V2 normalized quality score: 44.68, commentator tiers 1-3: 34.87%, 25.75%, 39.38%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The man in Mark 1:23 was completely under the power of the unclean spirit, with his own personality overshadowed by it. The term unclean signifies the separation from God associated with demons, as it is used about twenty times in the Gospels to describe evil spirits. It is interesting to consider whether today's criminals and degenerates might also be under the influence of demons, as a conversion of heart is often the only remedy. The unclean spirit was not only dwelling within the man, but he was also held captive by its power.
+- 🔄 Mark 1:23 (attempt 2, 93 words, 48.39% quotes quality score: 1.6984431513530855, V2 normalized quality score: 47.82, commentator tiers 1-3: 35.33%, 24.16%, 40.51%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The man in the passage had his personality consumed by the unclean spirit, demonstrating the stark contrast between his state and the majesty and glory of Jesus. The frequent association of the descriptor impurity with evil spirits throughout the Gospels cannot be ignored. It raises the question of whether today's criminals and degenerates might also be influenced by demons, necessitating a conversion of heart to bring about true transformation. The unclean spirit not only resided within the man, but the man himself was entrapped by its power.
+- 🔄 Mark 1:23 (attempt 3, 88 words, 40.62% quotes quality score: 1.600221700621753, V2 normalized quality score: 44.55, commentator tiers 1-3: 34.43%, 22.67%, 42.9%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: In this account, a man is depicted as being in intimate union with an unclean spirit, emphasizing the power and control it exerts over him. This idea of estrangement from God is reflected in the term 'unclean spirit', often used interchangeably with 'demon'. The demon, in a state of dread and envy, cried out when confronted by the majesty of Christ's presence, fearful of being dispossessed from the man. This narrative highlights the reality of spiritual oppression and the transformative impact of Christ's ministry.
-- 🔄 Mark 1:23 (attempt 2, 86 words, 35.09% quotes quality score: 1.5800653943962888, V2 normalized quality score: 43.88, commentator tiers 1-3: 32.88%, 23.46%, 43.66%) 
+- Attempt 4 BHT: The man, consumed by the unclean spirit, stood in stark contrast to the Majesty and glory of Jesus. Evil spirits are often described as impure, appearing numerous times in the Gospels. This raises the question of whether modern-day criminals and degenerates may also be influenced by such entities and require a conversion of heart. The unclean spirit had complete control over the man, his very being submerged in its power.
+- 🔄 Mark 1:23 (attempt 4, 71 words, 40.0% quotes quality score: 1.5388151829389234, V2 normalized quality score: 42.51, commentator tiers 1-3: 33.39%, 21.58%, 45.03%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The presence of the unclean spirit in the man illustrated a complete surrender of his personality to its power, highlighting the stark contrast with the Majesty and glory of Jesus. The frequent association between evil spirits and the characterization of impurity in the Gospels should not be overlooked. This prompts contemplation on whether contemporary criminals and degenerates may also be under demonic influence, necessitating a transformative change of heart. The unclean spirit held the man captive, exerting its dominance over his very being.
+- 🔄 Mark 1:23 (attempt 5, 83 words, 36.67% quotes quality score: 1.5513357271070067, V2 normalized quality score: 42.92, commentator tiers 1-3: 34.52%, 23.4%, 42.07%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In this account, a man is described as being in intimate union with an unclean spirit, indicating the extent of the spirit's power and influence over him. The association between evil spirits and impurity is evident throughout the Gospels, emphasizing the deep estrangement from God. The demon, overwhelmed by fear and envy, cried out at the presence of Christ, dreading the potential loss of control over the man. This narrative emphasizes the reality of spiritual oppression and the transformative effect of Christ's ministry.
-- 🔄 Mark 1:23 (attempt 3, 85 words, 31.67% quotes quality score: 1.5288706654815492, V2 normalized quality score: 42.18, commentator tiers 1-3: 29.31%, 23.63%, 47.05%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this account, a man is depicted as being in intimate union with an unclean spirit, emphasizing the power and control it has over him. Evil spirits are often associated with impurity, highlighting the sense of estrangement from God. The demon cried out in dread of Christ's majesty and the success of His ministry, driven by envy and fear of being dispossessed from the man. This narrative conveys the reality of spiritual oppression and underscores the transformative impact of Christ's presence.
-- 🔄 Mark 1:23 (attempt 4, 83 words, 35.0% quotes quality score: 1.5472601461823123, V2 normalized quality score: 42.79, commentator tiers 1-3: 30.23%, 21.51%, 48.26%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In this account, a man is described as being in intimate union with an unclean spirit, indicating the power and control it has over him. The association between evil spirits and impurity cannot be overlooked, occurring frequently in the Gospels. The demon cried out in fear and envy upon encountering the majesty of Christ, sensing its potential expulsion from the possessed man. This narrative reveals the reality of spiritual oppression and highlights the transformative influence of Christ's ministry.
-- 🔄 Mark 1:23 (attempt 5, 79 words, 36.07% quotes quality score: 1.5151936722564874, V2 normalized quality score: 41.72, commentator tiers 1-3: 31.57%, 25.57%, 42.86%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 1:23 bht prompt v0.8 (86 words, 35.09% quotes)
-- quality score: 1.5800653943962888, V2 normalized quality score: 43.88, commentator tiers 1-3: 32.88%, 23.46%, 43.66%)
+- ✅ Mark 1:23 bht prompt v0.8 (83 words, 36.67% quotes)
+- quality score: 1.5513357271070067, V2 normalized quality score: 42.92, commentator tiers 1-3: 34.52%, 23.4%, 42.07%)

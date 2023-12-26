@@ -1,22 +1,20 @@
 # Mark 12:19 Commentary Help Text
 
 ## BHT:
-The Pharisees approach Jesus with a question about a situation mentioned by Moses in the law. They refer to a widow who marries a series of brothers, each of whom dies without leaving children. This law, written by Moses, has significance for the Pharisees as they adhere to its literal interpretation. By raising this case, the Pharisees aim to test Jesus' understanding and wisdom in interpreting the law, engaging in a complex and contentious discussion.
+In the conversation mentioned, Moses wrote about the practice of levirate marriage, where a man marries his deceased brother's wife to have children for him. The responsibility fell on the surviving brother if his brother died without leaving any children. This instruction, found in Deuteronomy 25:5, emphasizes the importance of family duty and continuity. It is interesting to note that while Matthew uses the word said, Mark uses wrote, suggesting that Moses left this guidance in writing for future generations to follow.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "If a man's brother die, and leave his wife behind him . . . And the seven had her, and left no seed: last of all the woman died also."
-2. "Master, Moses wrote unto us— (Deuteronomy 25:5)."
-3. "And the seven had her, and left no seed: last of all the woman died also."
 
 ### Archibald T. Robertson:
 1.  Moses wrote (Μωυσης εγραψεν). So Luke 20:28 (Genesis 38:8; Genesis 25:5). Matthew has "said" (ειπεν). 
 
 
 ### John Gill:
-1. "Moses wrote unto us...the following precept to observe..."
-2. "They acknowledged the writings of Moses..."
-3. "Adhering to the literal sense of them..."
+1. "Master, Moses wrote unto us"
+2. "Has left in writing for us the following precept to observe"
+3. "if a man's brother die, and leave no children, that his brother should take his wife, and raise up seed unto his brother"
 
 ### John Wesley:
 1.  Deuteronomy 25:5.
@@ -25,39 +23,47 @@ The Pharisees approach Jesus with a question about a situation mentioned by Mose
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:26:59
+- Timestamp: 12-25-2023 20:32:44
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 75
-- BHT Commentary Usage: 37.25%
-- BHT Quality Score: 1.3966630763814534
+- BHT Word Count: 82
+- BHT Commentary Usage: 33.87%
+- BHT Quality Score: 1.6391751597555788
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (51):
-	['a', 'about', 'adhere', 'aim', 'and', 'approach', 'as', 'brothers', 'by', 'case', 'children', 'complex', 'contentious', 'dies', 'discussion', 'each', 'engaging', 'for', 'has', 'in', 'interpretation', 'interpreting', 'its', 'jesus', 'law', 'leaving', 'literal', 'marries', 'mentioned', 'moses', 'of', 'pharisees', 'question', 'raising', 'refer', 'series', 'significance', 'situation', 'test', 'the', 'they', 'this', 'to', 'understanding', 'who', 'whom', 'widow', 'wisdom', 'with', 'without', 'written']
-- ChatGPT injected words (significant words only) (32):
-	['adhere', 'aim', 'approach', 'brothers', 'case', 'children', 'complex', 'contentious', 'dies', 'discussion', 'engaging', 'interpretation', 'interpreting', 'jesus', 'law', 'leaving', 'literal', 'marries', 'mentioned', 'moses', 'pharisees', 'question', 'raising', 'refer', 'series', 'significance', 'situation', 'test', 'understanding', 'widow', 'wisdom', 'written']
+- ChatGPT injected words (62):
+	['a', 'about', 'and', 'any', 'brother', 'children', 'continuity', 'conversation', 'deceased', 'deuteronomy', 'died', 'duty', 'emphasizes', 'family', 'fell', 'follow', 'for', 'found', 'future', 'generations', 'guidance', 'have', 'him', 'his', 'if', 'importance', 'in', 'instruction', 'interesting', 'is', 'it', 'leaving', 'left', 'levirate', 'man', 'mark', 'marriage', 'marries', 'matthew', 'mentioned', 'moses', 'note', 'of', 'on', 'practice', 'responsibility', 's', 'said', 'suggesting', 'surviving', 'that', 'the', 'this', 'to', 'uses', 'where', 'while', 'wife', 'without', 'word', 'writing', 'wrote']
+- ChatGPT injected words (significant words only) (41):
+	['brother', 'children', 'continuity', 'conversation', 'deceased', 'deuteronomy', 'died', 'duty', 'emphasizes', 'family', 'fell', 'follow', 'found', 'future', 'generations', 'guidance', 'importance', 'instruction', 'interesting', 'leaving', 'left', 'levirate', 'man', 'mark', 'marriage', 'marries', 'matthew', 'mentioned', 'moses', 'note', 'practice', 'responsibility', 's', 'said', 'suggesting', 'surviving', 'uses', 'wife', 'word', 'writing', 'wrote']
 
 ### Logs
-- Attempt 1 BHT: In Mark 12:19, the Pharisees bring up the case of a widow who marries seven brothers consecutively, each dying without leaving any children. Their question is rooted in the law Moses wrote in Deuteronomy 25:5 about a brother marrying his deceased sibling's widow. The first-tier commentary emphasizes that Moses wrote this law, and the second-tier commentary adds that the Pharisees acknowledged and adhered to the literal sense of Moses' writings. This background helps us understand why the Pharisees bring up this case to Jesus, highlighting their desire to test Him with a complex and contentious legal question.
-- 🔄 Mark 12:19 (attempt 1, 98 words, 33.85% quotes quality score: 1.5745210922532187, V2 normalized quality score: 43.7, commentator tiers 1-3: 52.52%, 0.0%, 47.48%) 
+- Attempt 1 BHT: In Mark 12:19, the conversation revolves around the concept of levirate marriage, which is the practice of a man marrying his deceased brother's wife to raise up offspring for him. Moses wrote about this in Deuteronomy 25:5, stating that if a man's brother dies without leaving any children, it is the responsibility of the surviving brother to marry the widow and have children in his brother's name. The first-tier commentary mentions that Matthew uses the word said, while Mark uses wrote, indicating that Moses had left this instruction in writing for future generations to observe. The passage highlights the importance of familial duty and continuity in the context of marriage and offspring.
+- 🔄 Mark 12:19 (attempt 1, 114 words, 34.72% quotes quality score: 1.6516616534617374, V2 normalized quality score: 46.26, commentator tiers 1-3: 56.06%, 0.0%, 43.94%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this passage, the Pharisees raise a question based on a scenario outlined by Moses in the law, where a widow marries a series of brothers who all die without leaving any children. This law penned by Moses holds significance for the Pharisees, as they adhere to the literal interpretation of his writings. By bringing up this case, the Pharisees aim to challenge Jesus with a complex legal issue, seeking to test his wisdom and expertise in interpreting the law.
-- 🔄 Mark 12:19 (attempt 2, 80 words, 35.71% quotes quality score: 1.3757513038078444, V2 normalized quality score: 37.09, commentator tiers 1-3: 45.64%, 0.0%, 54.36%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The Pharisees approach Jesus with a question regarding a situation described by Moses in the law. The scenario involves a widow married to seven brothers consecutively, all of whom die without leaving any children. The law that Moses wrote holds significant importance for the Pharisees, as they firmly adhere to its literal interpretation. Through this question, they seek to test Jesus, challenging his understanding and wisdom in interpreting the law. This interaction highlights their desire to engage in a complex and contentious discussion about legal matters.
-- 🔄 Mark 12:19 (attempt 3, 86 words, 35.94% quotes quality score: 1.1175931825070449, V2 normalized quality score: 28.5, commentator tiers 1-3: 46.17%, 0.0%, 53.83%) 
+- Attempt 2 BHT: In the conversation mentioned, Moses wrote about the practice of levirate marriage, where a man marries his deceased brother's wife to have children for him. The responsibility fell on the surviving brother if his brother died without leaving any children. This instruction, found in Deuteronomy 25:5, emphasizes the importance of family duty and continuity. It is interesting to note that while Matthew uses the word said, Mark uses wrote, suggesting that Moses left this guidance in writing for future generations to follow.
+- 🔄 Mark 12:19 (attempt 2, 82 words, 33.87% quotes quality score: 1.6391751597555788, V2 normalized quality score: 45.84, commentator tiers 1-3: 54.19%, 0.0%, 45.81%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Pharisees bring up a scenario outlined in the law, written by Moses, where a widow marries multiple brothers consecutively, all of whom die without leaving children. This law holds importance for the Pharisees, as they adhere to its literal interpretation. Their intention is to test Jesus by posing a complex legal question, showcasing their desire to engage in a contentious discussion regarding the law.
-- 🔄 Mark 12:19 (attempt 4, 65 words, 37.25% quotes quality score: 1.1867577700078915, V2 normalized quality score: 30.8, commentator tiers 1-3: 43.06%, 0.0%, 56.94%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Pharisees approach Jesus with a question about a situation mentioned by Moses in the law. They refer to a widow who marries a series of brothers, each of whom dies without leaving children. This law, written by Moses, has significance for the Pharisees as they adhere to its literal interpretation. By raising this case, the Pharisees aim to test Jesus' understanding and wisdom in interpreting the law, engaging in a complex and contentious discussion.
-- 🔄 Mark 12:19 (attempt 5, 75 words, 37.25% quotes quality score: 1.3966630763814534, V2 normalized quality score: 37.78, commentator tiers 1-3: 47.56%, 0.0%, 52.44%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 12:19 bht prompt v0.8 (75 words, 37.25% quotes)
-- quality score: 1.3966630763814534, V2 normalized quality score: 37.78, commentator tiers 1-3: 47.56%, 0.0%, 52.44%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: In this conversation, Moses wrote about the practice of levirate marriage, where a man marries his deceased brother's wife to have children in his brother's name. If a man's brother died without leaving any children, it became the responsibility of the surviving brother to take the widow as his wife and continue the family line. This instruction, recorded in Deuteronomy 25:5, highlights the significance of familial duty and continuity. It is worth noting that the difference in wording used by Matthew and Mark draws attention to the enduring nature of this written instruction.
+- 🔄 Mark 12:19 (attempt 3, 95 words, 36.51% quotes quality score: 1.5695253703929322, V2 normalized quality score: 43.53, commentator tiers 1-3: 54.97%, 0.0%, 45.03%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The discussion centers around the practice of levirate marriage, where a man is instructed to marry his deceased brother's wife to ensure the continuation of the family line. Moses wrote about this obligation, stating that if a man's brother dies without children, it becomes the responsibility of the surviving brother to take the widow as his wife. This guidance underscores the importance of fulfilling familial duty and preserving the lineage. The distinction between said and wrote in Matthew and Mark indicates that Moses left this directive in written form for future generations to adhere to.
+- 🔄 Mark 12:19 (attempt 4, 97 words, 31.82% quotes quality score: 1.4708594170763556, V2 normalized quality score: 40.25, commentator tiers 1-3: 57.48%, 0.0%, 42.52%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The passage explores the concept of levirate marriage, where a man is obliged to marry his deceased brother's widow to ensure the continuation of his brother's lineage. Moses wrote about this practice, highlighting the responsibility of the surviving brother to take on this role. The contrasting choice of words used in Matthew and Mark, said and wrote respectively, suggests the enduring nature of this instruction. It underscores the significance of fulfilling familial duty by upholding this practice for future generations.
+- 🔄 Mark 12:19 (attempt 5, 82 words, 29.31% quotes quality score: 1.2043849735602605, V2 normalized quality score: 31.39, commentator tiers 1-3: 52.14%, 0.0%, 47.86%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- ✅ Mark 12:19 bht prompt v0.8 (82 words, 33.87% quotes)
+- quality score: 1.6391751597555788, V2 normalized quality score: 45.84, commentator tiers 1-3: 54.19%, 0.0%, 45.81%)

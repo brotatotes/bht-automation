@@ -1,42 +1,42 @@
 {
-    "timestamp": "12-19-2023 16:13:43",
+    "timestamp": "12-25-2023 20:33:00",
     "verseRef": "Luke 1:52",
     "bestBHT": {
-        "bht": "God has the power to bring down the mighty and elevate those of low stature. This power is not to be confused with tyranny, but rather a just and providential government. Mary's words remind us that the world is not governed by blind luck, but by the perfect justice of God. The rise and fall of princes and rulers are under His control. It is through His divine plan that the lowly can be exalted to positions of honor. In this way, God overturns the worldly order and establishes His kingdom.",
-        "wordCount": 92,
-        "quoteTokenProportion": 40.62,
-        "qualityScore": 1.3039925829035348,
-        "qualityScoreNormalizedComparedToV2BHTs": 34.7,
+        "bht": "God's providence is evident in how those in positions of power are subject to His control. The mention of princes, kings, and conquerors being brought down highlights the transient nature of worldly power. This aligns with the sentiment expressed in the war-songs of David, where God triumphs over the pride and elevation of the world. The verse also alludes to the overthrow of wicked rulers, such as Herod, and the fall of mighty angels. Ultimately, it foreshadows the establishment of the Messiah's kingdom, which will surpass and destroy all other earthly kingdoms.",
+        "wordCount": 95,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.3720182423440175,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.96,
         "commentatorTierSimilarities": [
-            30.81,
-            28.92,
-            40.27
+            28.94,
+            32.38,
+            38.68
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Albert Barnes": [
             "Hath put down the mighty - The 'mighty' here denotes princes, kings, or conquerors.",
-            "Low degree - Low or humble birth and condition in life...The origin of illustrious families is often obscure.",
-            "No conduct is more odious and unchristian than to be ashamed of our birth or the humble circumstances of our friends."
+            "Low degree - Low or humble birth and condition in life... The origin of illustrious families is often obscure.",
+            "They who are thus elevated, if imbued with right feelings, will not despise their former employments nor their former companions, nor will they esteem their parents or friends the less because they still remain in the same rank in life."
         ],
         "John Calvin": [
-            "Let us understand, that she does not ascribe to God a despotic power,\u2014as if men were tossed and thrown up and down like balls by a tyrannical authority,\u2014but a just government, founded on the best reasons, though they frequently escape our notice.",
-            "To instruct us by facts, that whatever is lofty and elevated in the world is subject to God, and that the whole world is governed by his dominion, some are exalted to high honor, while others either come down in a gradual manner, or else fall headlong from their thrones.",
-            "Thus, when Mary says, that it is God who casteth down nobles from their thrones, and exalteth mean persons, she teaches us, that the world does not move and revolve by a blind impulse of Fortune, but that all the revolutions observed in it are brought about by the Providence of God, and that those judgments, which appear to us to disturb and overthrow the entire framework of society, are regulated by God with unerring justice."
+            "...she ascribes to the providence and judgments of God what ungodly men can the game of Fortune.",
+            "To instruct us by facts, that whatever is lofty and elevated in the world is subject to God, and that the whole world is governed by his dominion.",
+            "...those whom God has raised to a high estate do not occupy it long... when the Lord raises mean persons to exalted rank, he triumphs over the pride of the world..."
         ],
         "Philip Schaff": [
             "Princes from their thrones, heathen usurpers.",
             "That Herod was thought of is very probable, but not Herod alone.",
-            "The singer thinks of all the mighty enemies of God\u2019s chosen people."
+            "Here, as in the royal war-songs of David, the singer thinks of all the mighty enemies of God\u2019s chosen people."
         ],
         "Archibald T. Robertson": [
             "Princes (\u03b4\u03c5\u03bd\u03b1\u03c3\u03c4\u03b1\u03c2). Our word dynasty is from this word. It comes from \u03b4\u03c5\u03bd\u03b1\u03bc\u03b1, to be able. "
         ],
         "John Gill": [
-            "He hath put down the mighty from their seats... casting down rebellious angels... or this may have respect to the putting down the monarchies and kingdoms of this world.\" ",
-            "Exalted them of low degree... raising David from the sheepfold... raising beggars from the dunghill, to sit among princes.\" ",
-            "A method, which God in his infinite wisdom and grace has been pleased to take, more or less, in all ages of time; for not many mighty and noble are called by grace; but usually the foolish, the weak, and the base things of the world."
+            "He hath put down the mighty from their seats,.... As mighty kings and emperors from their thrones...",
+            "the mighty angels...rebelling against God...were cast down to hell; and are reserved in chains of darkness...",
+            "this may have respect to the putting down the monarchies and kingdoms of this world, by the kingdom of the Messiah to be set up; which, though at first was mean and despicable, like a stone cut out of a mountain, will increase, spread, and break in pieces, and destroy all other kingdoms..."
         ],
         "John Wesley": [
             "He hath put down the mighty \u2014 Both angels and men."
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "God has the power to bring down the mighty and elevate those of low stature. This power is not to be confused with tyranny, but rather a just and providential government. Mary's words remind us that the world is not governed by blind luck or chance, but by the perfect justice and wisdom of God. The rise and fall of princes and rulers are all under His control. It is through His divine plan that those who are considered lowly by the world can be exalted to positions of honor. In this way, God overturns the worldly order and establishes His kingdom.",
-            "wordCount": 103,
-            "quoteTokenProportion": 41.43,
-            "qualityScore": 1.3053796753991933,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "bht": "God's providence and judgments are at work, as expressed in Luke 1:52, where it is shown that those who are in positions of power are subject to His control. This includes princes and kings, whose positions can be traced back to their ability and strength. Through His divine authority, God can humble and bring down the mighty from their thrones, reminding us that all worldly power is transient. This aligns with David's war-songs, in which the singer acknowledges that God triumphs over the pride and elevation of the world. Additionally, this verse may also allude to the overthrow of wicked rulers, such as Herod, as well as the rebellion and fall of mighty angels. Ultimately, it points to the establishment of the Messiah's kingdom, which will destroy all other worldly kingdoms.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.33,
+            "qualityScore": 1.366953124049315,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.79,
             "commentatorTierSimilarities": [
-                29.01,
-                29.61,
-                41.38
+                28.87,
+                32.34,
+                38.8
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "God has the power to bring down the mighty and elevate those of low stature. This power is not to be confused with tyranny, but rather a just and providential government. Mary's words remind us that the world is not governed by blind luck, but by the perfect justice of God. The rise and fall of princes and rulers are under His control. It is through His divine plan that the lowly can be exalted to positions of honor. In this way, God overturns the worldly order and establishes His kingdom.",
-            "wordCount": 92,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.3039925829035348,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.7,
+            "bht": "God's providence is evident in the control He exercises over those in power, as illustrated in the passage. The mention of princes and kings being brought down from their positions highlights the transient nature of worldly power. This aligns with the sentiment expressed in the war-songs of David, where God triumphs over the pride and elevation of the world. The verse also alludes to the overthrow of wicked rulers, such as Herod, and the fall of mighty angels. Ultimately, it foreshadows the establishment of the Messiah's kingdom, which will surpass and destroy all other worldly kingdoms.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.2973966617995907,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.48,
             "commentatorTierSimilarities": [
-                30.81,
-                28.92,
-                40.27
+                27.68,
+                32.82,
+                39.5
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "God exercises His power to bring down the powerful and exalt the humble. This divine authority is not oppressive, but rather a just and providential rule. Mary's words remind us that the world is not governed by chance, but by God's perfect justice. He orchestrates the rise and fall of princes and rulers. Through His divine plan, He uplifts the lowly to positions of honor, overturning the world's established order. It is through God's governance that His kingdom is established.",
-            "wordCount": 84,
-            "quoteTokenProportion": 34.55,
-            "qualityScore": 1.3027678975455625,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
+            "bht": "God's providence is evident in how those in positions of power are subject to His control. The mention of princes, kings, and conquerors being brought down highlights the transient nature of worldly power. This aligns with the sentiment expressed in the war-songs of David, where God triumphs over the pride and elevation of the world. The verse also alludes to the overthrow of wicked rulers, such as Herod, and the fall of mighty angels. Ultimately, it foreshadows the establishment of the Messiah's kingdom, which will surpass and destroy all other earthly kingdoms.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.3720182423440175,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.96,
             "commentatorTierSimilarities": [
-                32.3,
-                29.05,
-                38.64
+                28.94,
+                32.38,
+                38.68
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In Luke 1:52, Mary reflects on God's power to humiliate the mighty and elevate the lowly. She emphasizes that this is not a despotic authority but a just and providential governance. Mary's words remind believers that the world is not dictated by random fortune, but by God's perfect justice. He orchestrates the rise and fall of princes and rulers, using His divine plan to exalt the lowly to positions of honor, thereby reshaping the worldly order according to His kingdom.",
-            "wordCount": 82,
-            "quoteTokenProportion": 32.76,
-            "qualityScore": 1.341019395966147,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.93,
+            "bht": "God's providence is evident as He exerts control over those in positions of power, causing even mighty rulers to be brought down from their thrones. This highlights the transient nature of worldly power and the triumph of God over the pride and elevation of the world. The verse alludes to the overthrow of wicked rulers such as Herod, as well as the fall of mighty angels. Ultimately, it points to the establishment of the Messiah's kingdom, which will surpass and destroy all other earthly kingdoms.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.2754506231298224,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.75,
             "commentatorTierSimilarities": [
-                34.77,
-                27.56,
-                37.67
+                23.67,
+                32.25,
+                44.08
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "God's power is revealed in His ability to bring down those in positions of power and elevate those who are considered lowly. Mary's words highlight the importance of understanding that God's authority is just and providential, not tyrannical. She reminds us that the world is not governed by luck, but by God's perfect justice. Through His divine plan, He orchestrates the rise and fall of rulers, exalting the humble to places of honor. In this way, God reconfigures the world's order and establishes His kingdom.",
-            "wordCount": 90,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.251545332701611,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.96,
+            "bht": "God's providence is evident as He controls those in power, causing even mighty rulers to be humbled and brought down. This highlights the transient nature of worldly power. The verse alludes to how God triumphs over the pride of the world, as seen in David's war-songs. It also hints at the overthrow of wicked rulers like Herod and the fall of mighty angels. Ultimately, it foreshadows the establishment of the Messiah's kingdom, which will surpass and destroy all other earthly kingdoms.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.2234836623502905,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.02,
             "commentatorTierSimilarities": [
-                28.16,
-                27.51,
-                44.33
+                23.95,
+                33.7,
+                42.35
             ],
             "generationAttempt": 5
         }

@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-22-2023 23:22:48",
+    "timestamp": "12-25-2023 20:32:24",
     "verseRef": "Mark 5:35",
     "bestBHT": {
-        "bht": "Just as the messengers arrived to inform Jairus that his daughter had died, they kindly told him not to trouble the Teacher any further. The messengers believed it was in vain to give Christ any further trouble since they thought he could not raise someone from the dead. However, this message also diverted attention from the woman who had just been healed. While the situation seemed bleak, there was still an underlying sense of faith in the language used by the messengers.",
-        "wordCount": 82,
-        "quoteTokenProportion": 55.74,
-        "qualityScore": 1.3124514376287455,
-        "qualityScoreNormalizedComparedToV2BHTs": 34.98,
+        "bht": "Nowhere does Mark preserve better the lifelike traits of an eyewitness like Peter than in these incidents in chapter 5. The people felt that it was all over for the girl, so there was no further use in troubling the Teacher. The language used here is kind, indicating faith, but it also suggests that the case is beyond the help of Jesus to cure and raise her from death. However, these words were spoken to the poor woman, in commendation of her faith and for her future encouragement, peace, and comfort in soul and body.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.4218441131389472,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.62,
         "commentatorTierSimilarities": [
-            21.31,
-            35.25,
-            43.44
+            24.13,
+            28.16,
+            47.71
         ],
         "generationAttempt": 2
     },
@@ -20,23 +20,24 @@
             "\ttroublest thou the Master any further?\u2014the Teacher."
         ],
         "Marvin Vincent": [
-            "From his house; for the ruler himself is addressed.",
-            "Troublest. See on Matthew 9:36. Compare Luke 11:22, where occurs the cognate word skula, spoils, things torn or stripped from an enemy.",
-            "Wyc., travailest. Tynd., diseasest."
+            "Troublest [\u03c3\u03ba\u03c5\u03bb\u03bb\u03b5\u03b9\u03c2] . See on Matthew 9:36. Compare Luke 11:22, where occurs the cognate word skula, spoils, things torn or stripped from an enemy.\" ",
+            "Wyc., travailest.\" ",
+            "Tynd., diseasest."
         ],
         "Philip Schaff": [
-            "Why troublest thou the master (Greek: \u2018teacher\u2019) any further? The underlying thought is: the case is now beyond the help of Jesus, who might have cured, but cannot raise her.",
-            "The language is kind, and indicates faith."
+            "The case is now beyond the help of Jesus, who might have cured, but cannot raise her.",
+            "The language is kind, and indicates faith.",
+            "Why troublest thou the master any further?"
         ],
         "Archibald T. Robertson": [
-            "While he yet spake (\u0395\u03c4 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03bb\u03b1\u03bb\u03bf\u03c5\u03bd\u03c4\u03bf\u03c2). Genitive absolute. Another vivid touch in Mark and Luke 8:49.",
-            "The arrival of the messengers from Jairus was opportune for the woman just healed of the issue of blood (\u03b5\u03bd \u03c5\u03c3\u03b5 \u03b1\u03b9\u03bc\u03b1\u03c4\u03bf\u03c2) for it diverted attention from her.",
+            "Nowhere does Mark preserve better the lifelike traits of an eyewitness like Peter than in these incidents in chapter 5.",
+            "It was all over, so they felt. Jesus had raised from the dead the son of the widow of Nain, but people in general did not expect him to raise the dead.",
             "There was no further use in troubling the Teacher about the girl."
         ],
         "John Gill": [
             "The above things to the poor woman, in commendation of her faith, and for her future encouragement, peace, and comfort in soul and body.",
-            "These brought him the account that his daughter was actually dead, which he himself feared before; and therefore they thought it was in vain to give Christ any further trouble to drag along through a crowd of people pressing him.",
-            "Whom they looked upon as a very worthy person, an eminent doctor and prophet, a master in Israel, and one that had done great cures on living persons in distress; yet imagined it was wholly out of his power to raise one from the dead."
+            "They could not come from him in person, for he was with Jesus: hence some versions, as the Arabic and Ethiopic, read, 'there came to the ruler of the synagogue.'",
+            "They thought it was in vain to give Christ any further trouble to drag along through a crowd of people pressing him; whom they looked upon as a very worthy person, an eminent doctor and prophet...yet imagined it was wholly out of his power to raise one from the dead."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -56,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Just as Jairus, the ruler, received word that his daughter had died, messengers came to tell him not to trouble the Teacher any longer. This news was opportune for the woman who had just been healed of her issue of blood, as it diverted attention from her. The underlying message behind the messengers' words was that the case was now beyond the help of Jesus, who might have cured but could not raise the girl. Despite their message, the language used was kind and indicated that there was still faith.",
-            "wordCount": 90,
-            "quoteTokenProportion": 47.69,
-            "qualityScore": 1.4604384386575886,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.9,
+            "bht": "Nowhere does Mark preserve better the lifelike traits of an eyewitness like Peter than in these incidents in chapter 5. The people felt that it was all over for the girl, so there was no further use in troubling the Teacher. The language used here is kind, indicating faith, but it also suggests that the case is beyond the help of Jesus to cure and raise her from death. Though they recognized Jesus as an eminent doctor and prophet, they believed it was entirely out of his power to raise someone from the dead. However, these words were spoken to the poor woman, in commendation of her faith, and for her future encouragement, peace, and comfort in soul and body.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.4148379323173477,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.39,
             "commentatorTierSimilarities": [
-                21.83,
-                41.54,
-                36.63
+                22.88,
+                26.66,
+                50.46
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Just as the messengers arrived to inform Jairus that his daughter had died, they kindly told him not to trouble the Teacher any further. The messengers believed it was in vain to give Christ any further trouble since they thought he could not raise someone from the dead. However, this message also diverted attention from the woman who had just been healed. While the situation seemed bleak, there was still an underlying sense of faith in the language used by the messengers.",
-            "wordCount": 82,
-            "quoteTokenProportion": 55.74,
-            "qualityScore": 1.3124514376287455,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.98,
+            "bht": "Nowhere does Mark preserve better the lifelike traits of an eyewitness like Peter than in these incidents in chapter 5. The people felt that it was all over for the girl, so there was no further use in troubling the Teacher. The language used here is kind, indicating faith, but it also suggests that the case is beyond the help of Jesus to cure and raise her from death. However, these words were spoken to the poor woman, in commendation of her faith and for her future encouragement, peace, and comfort in soul and body.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.4218441131389472,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.62,
             "commentatorTierSimilarities": [
-                21.31,
-                35.25,
-                43.44
+                24.13,
+                28.16,
+                47.71
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Upon receiving the news of his daughter's death, Jairus was urged not to trouble the Teacher any further. The messengers believed it was pointless to seek Jesus' help since they thought raising the dead was beyond His capabilities. Although this may have seemed discouraging, their words also provided a distraction that diverted attention from the recently healed woman. Despite the seemingly bleak situation, there was still a glimmer of faith reflected in the messengers' language.",
-            "wordCount": 76,
-            "quoteTokenProportion": 41.94,
-            "qualityScore": 1.2990396382000409,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.54,
+            "bht": "Mark's account in chapter 5 vividly captures Peter's eyewitness perspective. The people believed it was all over for the girl, concluding there was no need to trouble the Teacher anymore. This kind language, though indicating faith, also implies that the situation was beyond Jesus' ability to heal and raise her. Yet, these words were spoken to the woman, acknowledging her faith and providing future encouragement, peace, and comfort for her body and soul.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.1873164092689708,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.82,
             "commentatorTierSimilarities": [
-                20.34,
-                35.25,
-                44.41
+                21.29,
+                26.96,
+                51.75
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "As messengers arrived to inform Jairus of his daughter's demise, they kindly advised him not to trouble the Teacher anymore. They believed it was pointless to seek Jesus' assistance as they thought bringing someone back from the dead was beyond His capabilities. While this news may have appeared discouraging, it also diverted attention from the woman recently healed. Yet, there was still a glimmer of faith reflected in the language used by the messengers.",
-            "wordCount": 75,
-            "quoteTokenProportion": 44.07,
-            "qualityScore": 1.272744906901901,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.66,
+            "bht": "In Mark chapter 5, the eyewitness account by Peter captures the lifelike traits. The people believed it was all over for the girl and felt there was no further use to trouble the Teacher. While the language used indicates kindness and faith, it also suggests that the case was beyond Jesus' ability to cure and raise her. Nevertheless, these words were spoken to the poor woman, commending her faith and offering future encouragement, peace, and comfort for her body and soul.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.2871015464894864,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.14,
             "commentatorTierSimilarities": [
-                19.42,
-                37.67,
-                42.91
+                22.23,
+                28.71,
+                49.06
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When messengers arrived to deliver the news of Jairus' daughter's death, they kindly suggested that he should not trouble the Teacher any further. In their belief, seeking Jesus' help seemed futile as they thought it was beyond His power to raise the dead. Although this message might have been disheartening, it served as a distraction and shifted the focus away from the woman recently healed. Despite the seemingly negative circumstances, there was still an underlying faith mirrored in the messengers' words.",
-            "wordCount": 82,
-            "quoteTokenProportion": 43.48,
-            "qualityScore": 1.287694442190297,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.16,
+            "bht": "In this account from Mark chapter 5, we witness the authentic portrayal of eyewitness details by Peter. The people, convinced that it was all over for the girl, saw no purpose in troubling the Teacher any further. Although the language used in their response reflects kindness and faith, it also reveals their belief that Jesus could not cure or raise her from the dead. Nevertheless, these encouraging words were directed towards the woman, highlighting her faith and offering solace, encouragement, and healing for her body and soul.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.2386743764954293,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.53,
             "commentatorTierSimilarities": [
-                18.1,
-                34.98,
-                46.92
+                23.56,
+                26.1,
+                50.33
             ],
             "generationAttempt": 5
         }

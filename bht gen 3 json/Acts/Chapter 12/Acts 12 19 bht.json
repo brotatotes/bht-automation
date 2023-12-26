@@ -1,57 +1,53 @@
 {
-    "timestamp": "12-19-2023 16:30:15",
+    "timestamp": "12-25-2023 20:34:18",
     "verseRef": "Acts 12:19",
     "bestBHT": {
-        "bht": "After examining the keepers and commanding their execution, Herod's futile attempt to suppress the gospel backfired. In contrast, the message continued to flourish despite persecution. As Herod's miserable end forced him to retreat from Judea to Caesarea, it became evident that the power of human authority is fleeting compared to the enduring impact of God's kingdom. The failed plot to silence Peter underscores the triumph of the gospel and the limitations of earthly rulers.",
-        "wordCount": 77,
-        "quoteTokenProportion": 25.0,
-        "qualityScore": 1.431791546735405,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+        "bht": "Determined to discover the circumstances of Peter's escape, Herod Agrippa subjected the guards and those involved to a thorough examination. Incensed and impotent, he ordered the execution of the guards, attempting to create an impression that Peter's escape was due to their negligence. However, divine intervention overruled Herod's plans, as the prayers of the church prevailed, leading to the cessation of the persecution initiated by royal authority. In the end, Herod's futile efforts ended in divine judgment, while Peter's deliverance showcased the power and protection of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.6927391714006508,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.63,
         "commentatorTierSimilarities": [
-            16.84,
-            51.02,
-            32.14
+            20.16,
+            45.14,
+            34.7
         ],
         "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "examined the keepers\u2014who,",
-            "\teither like the keepers of our Lord's sepulchre, had 'shaken and",
-            "\tbecome as dead men' (Matthew 28:4),",
-            "\tor had slept on their watch and been divinely kept from awaking.\" ",
-            "commanded that they should be",
-            "\tput to death\u2014Impotent vengeance!",
-            "HEROD'S MISERABLE END\u2014GROWING SUCCESS OF THE GOSPEL\u2014BARNABAS AND SAUL RETURN TO ANTIOCH."
+            "either like the keepers of our Lord's sepulchre, had 'shaken and become as dead men' (Matthew 28:4)",
+            "or had slept on their watch and been divinely kept from awaking",
+            "Impotent vengeance!"
         ],
         "Albert Barnes": [
             "He subjected them to a rigid scrutiny to ascertain the manner of his escape; for it is evident that Herod did not mean to admit the possibility of a miraculous interposition.",
             "The men on guard were undoubtedly put to death; and thus Herod used all his power to create the impression that Peter had escaped by their negligence.",
-            "Thus, by the providence of God, this persecution, that had been commenced, not by popular tumult, but by royal authority and power, and that was aimed at the very pillars of the church, ceased."
+            "Thus, by the providence of God, this persecution, that had been commenced, not by popular tumult, but by royal authority and power, and that was aimed at the very pillars of the church, ceased. The prayers of the church prevailed; and the monarch was overcome, disappointed, bummed, and, by divine judgment, soon put to death."
         ],
         "Marvin Vincent": [
-            "Abode (die triben). Originally, to rub away, or consume; hence, of time, to spend.",
-            "Put to death [\u03b1\u03c0\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1\u03b9] . Lit., led away; i.e., to execution. A technical phrase like the Latin ducere. Compare Matthew 27:31.",
-            "Examined [\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2]. See on Luke 23:14; and compare ch. 4 9."
+            "Examined [\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2].",
+            "Put to death [\u03b1\u03c0\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1\u03b9].",
+            "Abode (die triben). Originally, to rub away, or consume; hence, of time, to spend."
         ],
         "Philip Schaff": [
-            "No doubt bitterly disappointed at not being able to comply with the Jewish desire in the matter of putting to death the famous Nazarene leader...",
-            "...he went down to C\u00e6sarea, then the second city in his broad kingdom.",
+            "No doubt bitterly disappointed at not being able to comply with the Jewish desire in the matter of putting to death the famous Nazarene leader...\" ",
+            "Herod left his Jewish capital for a short season, as he thought, and went down to C\u00e6sarea...\" ",
             "Josephus mentions a desire to be present at games to be celebrated in honour of Claudius C\u00e6sar as a reason for this removal of the king to C\u00e6sarea."
         ],
         "Archibald T. Robertson": [
-            "He examined (\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2).\" ",
-            "That they should be put to death (\u03b1\u03c0\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1).\" ",
-            "Tarried (\u03b4\u03b9\u03b5\u03c4\u03c1\u03b9\u03b2\u03b5\u03bd)."
+            "He examined (\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2). First aorist active participle of \u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03c9, old verb to sift up and down, to question thoroughly, in a forensic sense.",
+            "That they should be put to death (\u03b1\u03c0\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1). First aorist passive infinitive (indirect command) of \u03b1\u03c0\u03b1\u03b3\u03c9, old verb to lead away, especially to execution.",
+            "Tarried (\u03b4\u03b9\u03b5\u03c4\u03c1\u03b9\u03b2\u03b5\u03bd). Imperfect active. Herod Agrippa made his home in Jerusalem, but he went to Caesarea to the public games in honour of Emperor Claudius."
         ],
         "John Gill": [
-            "Neither in the prison, nor in any part of the city.",
             "He examined the keepers; of the prison, and those that were upon the watch, whether they had not been accessary to his escape.",
-            "And he went down from Judea to Caesarea."
+            "And commanded that they should be put to death: or brought forth, not before a judge to be tried and judged, because they had been examined by Herod already.",
+            "And he went down from Judea to Caesarea; not Peter, but Herod."
         ],
         "John Wesley": [
             "And thus the wicked suffered in the room of the righteous.",
-            "With shame, for not having brought forth Peter, according to his promise."
+            "And going down from Judea \u2014 With shame, for not having brought forth Peter, according to his promise."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After interrogating the guards to determine the circumstances of Peter's escape, Herod, in his fury, ordered their execution as a display of his impotent vengeance. This act of persecution, initiated by royal authority, ultimately failed to accomplish its intended purpose. Meanwhile, the work of the gospel continued to spread and flourish. Herod himself, plagued by a miserable end, went from Judea to Caesarea, reflecting the decline of his power. Through these events, we see the contrast between the transient nature of human authority and the enduring triumph of God's kingdom.",
-            "wordCount": 92,
-            "quoteTokenProportion": 30.88,
-            "qualityScore": 1.3249990646902667,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.4,
+            "bht": "After the miraculous escape of Peter from prison, Herod Agrippa launched an investigation to determine how it was possible for such an event to occur. He sought to place blame either on those responsible for guarding Peter's cell, implying that they had slept through their duty, or on individuals who may have been part of a conspiracy to aid in Peter's escape. Showing the extent of his rage and frustration, he had the guards executed. In the end, Herod's vindictive plan was foiled by divine intervention, and his persecution against the church was halted. God answered the prayers of the believers, and Herod himself faced a swift judgment as he met his eventual demise, leaving Judea to attend games in Caesarea. Thus, the wicked suffered in place of the righteous, demonstrating the power and protection of God over His people.",
+            "wordCount": 143,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.6320301071266727,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
             "commentatorTierSimilarities": [
-                15.6,
-                52.16,
-                32.24
+                19.18,
+                42.33,
+                38.49
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After subjecting the guards to scrutiny, Herod's plans for Peter's death were thwarted, leading to his impotent rage and the execution of the guards. This failed attempt at persecution only served to highlight the growing success of the gospel. Meanwhile, Herod's own demise revealed the transient nature of human power. As Herod retreated from Judea to Caesarea, his dwindling authority stood in stark contrast to the flourishing kingdom of God.",
-            "wordCount": 73,
-            "quoteTokenProportion": 29.63,
-            "qualityScore": 1.4247903341639843,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "bht": "Seeking to assign blame for Peter's miraculous escape, Herod Agrippa meticulously examined the guards and those accountable for Peter's imprisonment. In a fit of rage and disappointment, the guards were executed. However, divine intervention thwarted Herod's oppressive plans as prayers of the faithful prevailed, and his persecution was abruptly halted. Ultimately, Herod's authority and power were no match for the sovereignty of God, who swiftly brought judgment upon him. This turn of events highlights how the wicked ultimately suffer in place of the righteous.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.5327216780033632,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
             "commentatorTierSimilarities": [
-                16.24,
-                53.39,
-                30.37
+                18.7,
+                40.1,
+                41.2
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After examining the keepers and commanding their execution, Herod's futile attempt to suppress the gospel backfired. In contrast, the message continued to flourish despite persecution. As Herod's miserable end forced him to retreat from Judea to Caesarea, it became evident that the power of human authority is fleeting compared to the enduring impact of God's kingdom. The failed plot to silence Peter underscores the triumph of the gospel and the limitations of earthly rulers.",
-            "wordCount": 77,
-            "quoteTokenProportion": 25.0,
-            "qualityScore": 1.431791546735405,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+            "bht": "Determined to discover the circumstances of Peter's escape, Herod Agrippa subjected the guards and those involved to a thorough examination. Incensed and impotent, he ordered the execution of the guards, attempting to create an impression that Peter's escape was due to their negligence. However, divine intervention overruled Herod's plans, as the prayers of the church prevailed, leading to the cessation of the persecution initiated by royal authority. In the end, Herod's futile efforts ended in divine judgment, while Peter's deliverance showcased the power and protection of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.6927391714006508,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
             "commentatorTierSimilarities": [
-                16.84,
-                51.02,
-                32.14
+                20.16,
+                45.14,
+                34.7
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "After interrogating the keepers, Herod's impotent vengeance led to the order for their execution. Yet, the growing success of the gospel remained unstoppable. Herod's miserable end and subsequent retreat from Judea to Caesarea exposed the transient nature of human power. In contrast, the gospel continued to flourish, revealing the enduring impact of God's kingdom. The futile attempts to silence Peter only served to highlight the triumph of the gospel and the limitations of earthly rulers.",
-            "wordCount": 78,
-            "quoteTokenProportion": 20.37,
-            "qualityScore": 1.3248520097061645,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
+            "bht": "After Peter's miraculous escape from prison, Herod Agrippa conducted a meticulous examination of the guards and those responsible for Peter's imprisonment, hoping to shift blame. Frustrated by his failure to capture Peter, he ordered the execution of the guards, showcasing his impotent vengeance. However, Herod's plans were subverted by divine intervention, as the prayers of the church prevailed and his persecution against the church came to an abrupt end. This turn of events reveals the ultimate triumph of God's power over earthly authorities.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.5396107697966999,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
             "commentatorTierSimilarities": [
-                17.64,
-                46.71,
-                35.65
+                19.25,
+                45.79,
+                34.96
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "After examining the keepers, who had either been paralyzed like those at Jesus' tomb or had negligently slept on duty, Herod's impotent vengeance led to their execution. However, the gospel continued to thrive despite this persecution. Herod's unfortunate demise and subsequent relocation to Caesarea showcased the temporary nature of human power. In contrast, the gospel's influence endured, demonstrating the lasting impact of God's kingdom. The failed plot to silence Peter underscored the ultimate triumph of the gospel and the limitations of earthly authorities.",
-            "wordCount": 87,
-            "quoteTokenProportion": 26.15,
-            "qualityScore": 1.3172863941139723,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+            "bht": "In a desperate attempt to unravel the mystery behind Peter's miraculous escape from prison, Herod Agrippa interrogated the guards and others involved, determined to assign blame. Consumed by rage and disappointment, he ordered the execution of the guards, seeking to create an impression of their negligence. However, divine intervention frustrated Herod's vindictive plot, as the heartfelt prayers of the church prevailed. This unexpected turn of events brought a swift end to Herod's persecution, serving as a reminder of the power and sovereignty of God over earthly powers.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.5880735620927393,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
             "commentatorTierSimilarities": [
-                18.2,
-                48.59,
-                33.21
+                18.45,
+                46.81,
+                34.74
             ],
             "generationAttempt": 5
         }

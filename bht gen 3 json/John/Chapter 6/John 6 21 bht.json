@@ -1,39 +1,38 @@
 {
-    "timestamp": "12-21-2023 03:06:45",
+    "timestamp": "12-25-2023 20:33:53",
     "verseRef": "John 6:21",
     "bestBHT": {
-        "bht": "Their initial fears were transformed into wonder and delight as the disciples witnessed the miraculous power of the Lord of Nature propelling the boat across the tranquil waters. Lost in amazement, they arrived at their destination without even realizing the rapid journey. Their desire to receive Jesus and His actual arrival seemed to occur simultaneously, as they willingly followed Him to the land they had been heading to. In a continuous state of awe, they welcomed His presence, knowing He had the ability to help them.",
-        "wordCount": 86,
+        "bht": "The disciples' initial fears turned to wonder and delight as the storm suddenly ceased, and the boat, propelled by the Lord of Nature, smoothly glided through the calm waters. As they marveled at the miraculous turn of events, they were pleasantly surprised to find themselves at their intended destination. Their continuous willingness to receive Jesus was evident, and it can be inferred that He entered the boat. This miraculous arrival at the shore left them in awe, having retired from their previous anxieties.",
+        "wordCount": 83,
         "quoteTokenProportion": 34.92,
-        "qualityScore": 1.4992801421272008,
-        "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+        "qualityScore": 1.6014985569980125,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.59,
         "commentatorTierSimilarities": [
-            42.21,
+            42.42,
             0.0,
-            57.79
+            57.58
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "Their first fears being now converted into wonder and delight.",
-            "The little bark\u2014propelled by the secret power of the Lord of Nature now sailing in it\u2014glided through the now unruffled waters.",
-            "While they were wrapt in wonder at what had happened, not heeding their rapid motion, [the ship] was found at port, to their still further surprise."
+            "As the storm was suddenly calmed, so the little bark\u2014propelled by the secret power of the Lord of Nature...glided through the now unruffled waters.",
+            "While they were wrapt in wonder at what had happened...was found at port, to their still further surprise."
         ],
         "Marvin Vincent": [
-            "The imperfect denotes a continuous state of feeling, not a mere impulsive and temporary wish.",
-            "Their immediate and miraculous arrival at the shore was simultaneous either with their entertaining the wish to receive Him, or with His actually coming on board.",
-            "The verb has the sense of retiring from something."
+            "They willingly received [\u03b7\u03b8\u03b5\u03bb\u03bf\u03bd \u03bb\u03b1\u03b2\u03b5\u03b9\u03bd] . Wrong. Rev., correctly, they were willing to receive; after being reassured by His voice. The imperfect denotes a continuous state of feeling, not a mere impulsive and temporary wish.\" ",
+            "Immediately [\u03b5\u03c5\u03b8\u03b5\u03c9\u03c2] . Whether Jesus actually entered the boat or not, John does not say. The more natural inference is that he did. Both Matthew and Mark say so. Their immediate and miraculous arrival at the shore was simultaneous either with their entertaining the wish to receive Him, or with His actually coming on board. Only John mentions this incident. Matthew and Mark say that the wind ceased.",
+            "They went [\u03c5\u03c0\u03b7\u03b3\u03bf\u03bd] . Imperfect : were going. Literally, were going away. The verb has the sense of retiring from something. Compare ver. 67; John 7:33, on which see note; John 12:11; John 18:8."
         ],
         "Archibald T. Robertson": [
             "They began to be willing.",
             "To which land they had been going.",
-            "Intransitive use of '\u03c5\u03c0\u03b1\u03b3\u03c9', to lead under, to go under or away."
+            "Intransitive use of \u03c5\u03c0\u03b1\u03b3\u03c9, to lead under, to go under or away."
         ],
         "John Gill": [
             "When they knew who he was; and especially he was the more welcome, as they were in distress; and he able, as they well knew, to help them.",
-            "Which was done, as Nonnus observes, by a divine motion; for not only the wind ceased, but another miracle was wrought.",
-            "The ship was in an instant at the place whither they intended to go."
+            "For not only the wind ceased, but another miracle was wrought; the ship was in an instant at the place whither they intended to go."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "As the disciples found themselves in a state of awe and amazement, their initial fears transformed into wonder and delight. The boat, under the secret power of the Lord of Nature, glided smoothly and effortlessly across the once tumultuous waters. Their astonishment only grew as they realized that, amidst their marveling, they had arrived at their destination without even recognizing their rapid journey. Their desire to receive Him and His actual arrival seemed to occur simultaneously, and as they began to be willing, they found themselves led toward the land they had been heading to. In this miraculous and continuous state of feeling, the disciples were not only comforted in their distress, but also welcomed the presence of one who they knew could help them.",
-            "wordCount": 125,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.4451466165599238,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
+            "bht": "Amidst their initial fears, the disciples transformed their emotions into wonder and delight as the storm suddenly calmed. The boat, powered by the secret might of the Lord of Nature, smoothly sailed through the now tranquil waters. As they marveled at this miraculous turn of events, they found themselves unexpectedly at their desired destination. Their willingness to receive Jesus was continuous, a continuous state of feeling rather than a mere fleeting desire. It is not explicitly stated whether Jesus entered the boat or not, but it can be inferred that He did based on Matthew and Mark's accounts. The disciples, in awe of the immediate and miraculous arrival at the shore, were consistently going towards their intended land. The use of the verb \u03c5\u03c0\u03b1\u03b3\u03c9 conveys the sense of retiring from something. Hence, this verse showcases the disciples' journey from initial fear to subsequent wonder, as well as their recognition of Jesus' ability to help them in times of distress.",
+            "wordCount": 160,
+            "quoteTokenProportion": 35.78,
+            "qualityScore": 1.3728107766041955,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.99,
             "commentatorTierSimilarities": [
-                44.49,
+                46.07,
                 0.0,
-                55.51
+                53.93
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "As the disciples' fear turned into wonder, the boat, powered by the Lord of Nature, effortlessly sailed through the calmed waters. Their surprise grew when they suddenly found themselves at their intended destination, unaware of their rapid journey. Their desire to receive Him and His arrival seemed to happen simultaneously. They willingly followed Him to the land they had been heading to, while feeling a continuous state of awe. In their distress, they welcomed His presence, knowing He had the ability to help them.",
-            "wordCount": 84,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.4781520064554985,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.49,
+            "bht": "Amidst their initial fears, the disciples' astonishment grew as the storm abruptly ceased, and the boat, propelled by the Lord of Nature, smoothly glided through the calm waters. Struck with wonder, they were surprised to find themselves at their intended destination. Their continuous state of willingness to receive Jesus was evident, and although it's not explicitly mentioned, it is likely that Jesus entered the boat. This miraculous arrival at the shore left them in awe, as they consistently moved towards their desired land, retiring from their previous anxieties.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.5931118676693643,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
             "commentatorTierSimilarities": [
-                43.84,
+                44.31,
                 0.0,
-                56.16
+                55.69
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples were initially filled with fear, but their emotions quickly transformed into astonishment and delight. Guided by the divine power of the Lord of Nature, the small boat smoothly sailed across the tranquil waters. Lost in their wonder, they arrived at their destination without even realizing their rapid journey. Their desire to receive Jesus and His actual arrival seemed to occur simultaneously. They willingly followed Him to the land they had been heading to, experiencing a continuous state of awe.",
-            "wordCount": 81,
-            "quoteTokenProportion": 34.38,
-            "qualityScore": 1.4096084524642345,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.21,
+            "bht": "Their initial fears were transformed into wonder and delight as the storm suddenly calmed, and the boat, propelled by the Lord of Nature, smoothly glided through the tranquil waters. In awe of what had transpired, the disciples found themselves unexpectedly at their intended destination. Their continuous willingness to receive Jesus was evident, and although it is not explicitly stated if He entered the boat, it is inferred from other accounts. This miraculous arrival at the shore left them in awe, as they moved towards their desired land, retiring from their previous anxieties.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.5477373278462179,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
             "commentatorTierSimilarities": [
-                45.86,
+                44.48,
                 0.0,
-                54.14
+                55.52
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Filled with fear, the disciples were amazed as the boat, under the secret power of the Lord of Nature, effortlessly sailed across the calm waters. Unaware of their rapid progress, they found themselves at their intended destination, their surprise growing with each passing moment. Their desire to receive Jesus and His actual arrival seemed to happen simultaneously, and they willingly followed Him to the land they had been heading to, in a continuous state of awe and wonder.",
-            "wordCount": 78,
-            "quoteTokenProportion": 35.59,
-            "qualityScore": 1.4521030407337285,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.63,
+            "bht": "The disciples' initial fears turned to wonder and delight as the storm suddenly ceased, and the boat, propelled by the Lord of Nature, smoothly glided through the calm waters. As they marveled at the miraculous turn of events, they were pleasantly surprised to find themselves at their intended destination. Their continuous willingness to receive Jesus was evident, and it can be inferred that He entered the boat. This miraculous arrival at the shore left them in awe, having retired from their previous anxieties.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6014985569980125,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
             "commentatorTierSimilarities": [
-                45.06,
+                42.42,
                 0.0,
-                54.94
+                57.58
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Their initial fears were transformed into wonder and delight as the disciples witnessed the miraculous power of the Lord of Nature propelling the boat across the tranquil waters. Lost in amazement, they arrived at their destination without even realizing the rapid journey. Their desire to receive Jesus and His actual arrival seemed to occur simultaneously, as they willingly followed Him to the land they had been heading to. In a continuous state of awe, they welcomed His presence, knowing He had the ability to help them.",
-            "wordCount": 86,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 1.4992801421272008,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "bht": "The disciples' initial fears transformed into wonder as the storm miraculously ceased, allowing the boat to sail smoothly through the tranquil waters. Their amazement deepened when they unexpectedly arrived at their intended destination. Their continual willingness to receive Jesus was evident, as they embraced His presence. Although it is not explicitly stated, it is likely that Jesus entered the boat. This extraordinary arrival at the shore left them in awe, having moved towards their desired land, freeing themselves from their previous anxieties.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.4666322534626985,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.11,
             "commentatorTierSimilarities": [
-                42.21,
+                42.56,
                 0.0,
-                57.79
+                57.44
             ],
             "generationAttempt": 5
         }

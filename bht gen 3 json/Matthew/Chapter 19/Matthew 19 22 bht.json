@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-19-2023 23:50:07",
+    "timestamp": "12-25-2023 20:31:49",
     "verseRef": "Matthew 19:22",
     "bestBHT": {
-        "bht": "When faced with the choice between God and money, the man in this story prioritized money over God. Jesus may only require this choice if one is controlled by money. Different sins can keep individuals from coming to Christ. The man's sorrowful departure signifies that he was affected by the encounter but ultimately made his own decision. Our own choices are crucial, while God's Providence can remove obstacles. We are reminded to turn away from worldly desires and find the appealing sweetness of Christ's grace to remain faithful to His teachings.",
-        "wordCount": 94,
-        "quoteTokenProportion": 42.86,
-        "qualityScore": 1.26352678687061,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.36,
+        "bht": "Feeling overwhelmed, the rich young man went away grieved because he believed Jesus had asked too much of him. Jesus's test of surrendering wealth is only required for those in the grip of money. Each person is under the control of different sins, and even a single sin is enough to keep one distant from Christ. This encounter highlights the importance of renouncing worldly desires and finding true contentment solely in the grace of Christ, forsaking present pleasures for the pursuit of everlasting happiness.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.4416057950991101,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.28,
         "commentatorTierSimilarities": [
-            41.21,
-            29.62,
-            29.17
+            50.51,
+            17.59,
+            31.89
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "John Calvin": [
-            "If we are not prepared to endure poverty, it is manifest that covetousness reigns in us.",
+            "But if we are not prepared to endure poverty, it is manifest that covetousness reigns in us.",
             "We are reminded also by this example that, if we would persevere steadily in the school of Christ, we must renounce the flesh.",
-            "The same thing will happen to us, unless the sweetness of the grace of Christ render all the allurements of the flesh distasteful to us."
+            "The same thing will happen to us unless the sweetness of the grace of Christ render all the allurements of the flesh distasteful to us."
         ],
         "Philip Schaff": [
             "He went away sorrowful. Not unaffected, he yet went away.",
-            "But the silence about his future course hints, that whatever light and love one receives, the decision is to be made by the man himself.",
+            "Whatever light and love one receives, the decision is to be made by the man himself.",
             "The hindrance is often removed by God's Providence."
         ],
         "Archibald T. Robertson": [
-            "He worshipped money more than God when put to the test.",
-            "Does Jesus demand this same test of every one? Not unless he is in the grip of money.",
+            "Went away grieved.\" He felt that Jesus had asked too much of him. ",
+            "Does Jesus demand this same test of every one? Not unless he is in the grip of money. ",
             "Different persons are in the power of different sins. One sin is enough to keep one away from Christ."
         ],
         "John Gill": [
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When faced with the test of choosing between God and money, the man in this verse worshiped money more than God. This brings up the question of whether Jesus demands this same test of everyone, and the commentary suggests that he does so only if someone is in the grip of money. Each person may be under the power of different sins that keep them away from Christ. The man in the verse went away sorrowful, indicating that he was affected by the encounter but still made his own decision. This highlights the importance of the individual's own choice, and that the hindrance to following Christ is often removed by God's Providence. Ultimately, this example serves as a reminder to renounce the flesh and find alluring the sweetness of Christ's grace in order to persevere in His teachings.",
-            "wordCount": 141,
-            "quoteTokenProportion": 44.94,
-            "qualityScore": 1.402932823074605,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "bht": "When the rich young man heard Jesus's command to sell all that he had and give to the poor, he was filled with grief because he felt it was too great a demand. Jesus's test of surrendering wealth applies only to those who are enslaved by money. Each person is trapped by different sins, and one sin alone is sufficient to keep them distant from Christ. The young man's response teaches us the importance of renouncing the flesh and finding our delight solely in the grace of Christ, detaching ourselves from worldly pleasures to pursue eternal happiness.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.3281345799411686,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.5,
             "commentatorTierSimilarities": [
-                43.34,
-                26.97,
-                29.7
+                45.25,
+                18.51,
+                36.25
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When faced with the test of choosing between God and money, the man in this passage worshiped money more than God. Jesus may only demand this test if one is in the grip of money, as different sins are enough to keep one away from Christ. The man went away sorrowful, indicating that although affected, he made his own decision. This emphasizes the importance of personal choice, while God's Providence can remove hindrances. The example serves as a reminder to renounce the flesh and find allure in the sweetness of Christ's grace to persevere in His teachings.",
-            "wordCount": 99,
-            "quoteTokenProportion": 43.48,
-            "qualityScore": 1.4356951952747399,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.08,
+            "bht": "When faced with Jesus's command to sell all his possessions and give to the poor, the rich young man felt overwhelmed, believing that the request was too demanding. Such a test is only applicable to those engulfed by the power of money. This encounter teaches us the vital lesson of forsaking worldly desires and finding our contentment solely in the grace of Christ, disregarding temporal pleasures in pursuit of eternal fulfillment.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 0.9638532827915112,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.39,
             "commentatorTierSimilarities": [
-                42.54,
-                28.44,
-                29.02
+                40.34,
+                14.18,
+                45.49
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When faced with the choice between God and money, the man in this story prioritized money over God. Jesus may only require this choice if one is controlled by money. Different sins can keep individuals from coming to Christ. The man's sorrowful departure signifies that he was affected by the encounter but ultimately made his own decision. Our own choices are crucial, while God's Providence can remove obstacles. We are reminded to turn away from worldly desires and find the appealing sweetness of Christ's grace to remain faithful to His teachings.",
-            "wordCount": 94,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.26352678687061,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.36,
+            "bht": "When confronted with Jesus's instruction to sell all his possessions and give to the needy, the rich young man was deeply saddened because he perceived it as an excessive demand. Such a requirement is only applicable to those who are under the sway of materialism. Different individuals are ensnared by various sins, and even one sin can keep them away from Christ. This encounter underscores the significance of renouncing worldly indulgences and finding our ultimate satisfaction in the grace of Christ, relinquishing present pleasures for the pursuit of eternal joy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.2080219335658173,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.51,
             "commentatorTierSimilarities": [
-                41.21,
-                29.62,
-                29.17
+                41.51,
+                20.52,
+                37.96
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this story, the man faced a test and prioritized money over God. This raises the question of whether Jesus demands the same test from everyone, which seems to be the case if one is controlled by money. Each person may be bound by different sins that keep them from Christ. The man left with a sense of sorrow, indicating the impact of the encounter, but ultimately, he made his own decision. Our choices play a significant role, and God's Providence can remove obstacles. We are reminded to renounce worldly desires and embrace the allure of Christ's grace to faithfully follow Him.",
-            "wordCount": 104,
-            "quoteTokenProportion": 44.87,
-            "qualityScore": 1.2329749818691658,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.34,
+            "bht": "Feeling overwhelmed, the rich young man went away grieved because he believed Jesus had asked too much of him. Jesus's test of surrendering wealth is only required for those in the grip of money. Each person is under the control of different sins, and even a single sin is enough to keep one distant from Christ. This encounter highlights the importance of renouncing worldly desires and finding true contentment solely in the grace of Christ, forsaking present pleasures for the pursuit of everlasting happiness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4416057950991101,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.28,
             "commentatorTierSimilarities": [
-                42.72,
-                27.58,
-                29.7
+                50.51,
+                17.59,
+                31.89
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The man in this story prioritized money over God, revealing his worship of money over God when put to the test. However, it is not expected that Jesus demands this specific test from everyone unless they are in the grip of money. Each person may be held captive by different sins that separate them from Christ. Despite being affected, the man went away sorrowful, making his own choice. Our decisions are crucial, and God's Providence can remove hindrances. We are reminded to renounce the flesh and find solace in the sweetness of Christ's grace to remain steadfast in His teachings.",
-            "wordCount": 102,
-            "quoteTokenProportion": 41.1,
-            "qualityScore": 1.3551316071671442,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "bht": "The rich young man's response to Jesus was one of deep sorrow and disappointment, as he believed that the command to sell his possessions and give to the poor was too demanding. However, Jesus does not require this same test from everyone unless they are ensnared by materialism. Each person is held captive by different sins, and even one sin can hinder them from following Christ. This encounter serves as a reminder to renounce worldly pleasures and find true fulfillment in the grace of Christ, prioritizing eternal joy over temporary satisfaction.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.2697722929325657,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.56,
             "commentatorTierSimilarities": [
-                40.82,
-                28.42,
-                30.76
+                44.47,
+                17.89,
+                37.64
             ],
             "generationAttempt": 5
         }

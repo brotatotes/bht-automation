@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:15:47",
+    "timestamp": "12-25-2023 20:33:00",
     "verseRef": "Luke 6:36",
     "bestBHT": {
-        "bht": "Be perfect in your mercy and compassion, just as the Father is perfect. Strive to be tenderhearted, kind, and generous towards all, whether they are your friends or your enemies. The goal is to emulate the mercy and compassion of God, who is often referred to as the Merciful in Jewish literature. Remember that while we seek to reflect God's perfect mercy, we are not claiming that we have already attained it.",
-        "wordCount": 73,
-        "quoteTokenProportion": 52.08,
-        "qualityScore": 1.3218039225706055,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+        "bht": "Be ye therefore merciful, tenderhearted, kind, beneficent to all men, friends and foes. In both the perfection of the Father is placed as the goal before his children, even as your Father. His tender mercies are over all his works, so be ye merciful on earth.",
+        "wordCount": 46,
+        "quoteTokenProportion": 52.78,
+        "qualityScore": 1.7213039919421838,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.58,
         "commentatorTierSimilarities": [
-            37.12,
+            29.36,
             0.0,
-            62.88
+            70.64
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -23,14 +23,13 @@
         ],
         "Archibald T. Robertson": [
             "In both the perfection of the Father is placed as the goal before his children.",
-            "In neither case is it said that they have reached it."
+            "In neither case is it said that they have reached it.",
+            "Even as your Father (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03bf \u03c0\u03b1\u03c4\u03b7\u03c1 \u03c5\u03bc\u03c9\u03bd). In Matthew 5:48 we have \u03c9\u03c2 \u03bf \u03c0\u03b1\u03c4\u03b7\u03c1 \u03c5\u03bc\u03c9\u03bd."
         ],
         "John Gill": [
-            "Be ye therefore merciful,.... Tenderhearted, kind, beneficent to all men, friends and foes:",
-            "as your Father also is merciful.\" ",
-            "nothing is more common in Zohar...than to express the Divine Being by no other name, than 'the Merciful'",
-            "O my people, the children of 'Israel, as your father',",
-            "\u05e8\u05d7\u05de\u05df, 'is merciful' in heaven, so be ye merciful on earth."
+            "Be ye therefore merciful, tenderhearted, kind, beneficent to all men, friends and foes.",
+            "...his tender mercies are over all his works...",
+            "...so be ye merciful on earth."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -50,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Be perfect in your mercy and compassion, just as the Father is perfect. Strive to be tenderhearted, kind, and generous towards all, whether they are your friends or your enemies. The goal is to emulate the mercy and compassion of God, who is often referred to as the Merciful in Jewish literature. Remember that while we seek to reflect God's perfect mercy, we are not claiming that we have already attained it.",
-            "wordCount": 73,
-            "quoteTokenProportion": 52.08,
-            "qualityScore": 1.3218039225706055,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+            "bht": "Be perfect and merciful, even as your Father is perfect and merciful. Just as the Father's perfection is set as the ultimate goal for His children, it is not said that they have fully achieved it. Therefore, in striving towards perfection, one must also be merciful, tenderhearted, kind, and beneficent to all. As the Father's tender mercies extend to all His works, so should our mercies extend to all people on earth.",
+            "wordCount": 74,
+            "quoteTokenProportion": 55.1,
+            "qualityScore": 1.5810103726251996,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
             "commentatorTierSimilarities": [
-                37.12,
+                38.5,
                 0.0,
-                62.88
+                61.5
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Be perfect in mercy, for in being merciful, we strive towards perfection, just as our Father in heaven is perfect. We are called to be tenderhearted, kind, and benevolent towards all, mirroring the merciful nature of God. This is not to say that we have already achieved this perfection, but it serves as our guiding principle. In fact, the divine name often used in the Zohar to depict God is the Merciful. Thus, as children of God, we are urged to imitate our heavenly Father's merciful character in our earthly interactions.",
-            "wordCount": 92,
-            "quoteTokenProportion": 48.28,
-            "qualityScore": 1.350349812778791,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "bht": "Be ye therefore merciful, tenderhearted, kind, beneficent to all men, friends and foes. In both the perfection of the Father is placed as the goal before his children, even as your Father. His tender mercies are over all his works, so be ye merciful on earth.",
+            "wordCount": 46,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 1.7213039919421838,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
             "commentatorTierSimilarities": [
-                34.57,
+                29.36,
                 0.0,
-                65.43
+                70.64
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Strive for perfection by embodying mercy, mirroring the nature of our heavenly Father. We are called to be tenderhearted, kind, and benevolent to all, as nothing is more common than expressing God as the Merciful. Although we may not have fully attained this perfection, it remains our goal. Let us, as children of God, reflect the mercy of our heavenly Father in all our interactions on earth.",
-            "wordCount": 67,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.2510510573772788,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.94,
+            "bht": "Be perfect, as your Father in heaven is perfect. This verse emphasizes the importance of showing mercy and compassion to others, just as God does. It is a reminder that we should strive to reach the perfection that the Father exemplifies, although we may not fully attain it. We are called to be merciful, tenderhearted, kind, and beneficent to all, whether they are our friends or our enemies. Just as God's tender mercies extend to all his works, we too are called to show mercy on earth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.3480410076163873,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.17,
             "commentatorTierSimilarities": [
-                36.56,
+                36.31,
                 0.0,
-                63.44
+                63.69
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Be ye therefore merciful, tenderhearted, kind, and beneficent to all men, just as your Father in heaven is merciful. In both the perfection of the Father and the disciples' command to be merciful, the goal is set before them. Although it is not explicitly stated that they have already achieved this perfection, they are called to embody the mercy of the Father in their actions towards others. Truly, nothing is more common in the Zohar than to refer to the Divine Being as the Merciful, emphasizing the importance of showing mercy and compassion to others as an expression of our relationship with God.",
-            "wordCount": 103,
-            "quoteTokenProportion": 51.52,
-            "qualityScore": 1.5760319860453675,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "bht": "Strive for perfection by embodying the same merciful and compassionate nature as your heavenly Father. While attaining complete perfection may be challenging, the call to be merciful, tenderhearted, kind, and benevolent to all individuals remains. This includes extending mercy to both friends and foes alike. Like God's tender mercies that encompass all of His creations, we are likewise encouraged to show mercy and compassion in our interactions on earth.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.4316791434899607,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
             "commentatorTierSimilarities": [
-                37.95,
+                35.48,
                 0.0,
-                62.05
+                64.52
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Be ye therefore merciful, showing tenderheartedness, kindness, and benevolence to all people, just as your Father in heaven is merciful. Both the perfection of the Father and the disciples' command to be merciful are presented as a goal to strive for. It is not explicitly stated that they have already attained this perfection, but they are called to embody the mercy of the Father in their interactions with others. The Zohar frequently refers to the Divine Being as the Merciful, underscoring the significance of demonstrating mercy and compassion towards others in our earthly lives.",
-            "wordCount": 94,
-            "quoteTokenProportion": 48.39,
-            "qualityScore": 1.5211009819659909,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.92,
+            "bht": "Strive for perfection by embodying the same merciful and compassionate nature as your heavenly Father. In both cases, it is acknowledged that attaining complete perfection may be challenging. Nevertheless, the call to be merciful, tenderhearted, kind, and benevolent to all individuals remains. This includes extending mercy to both friends and foes alike. Just as God's tender mercies extend to all of His works, we are likewise encouraged to show mercy and compassion in our interactions on earth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.3348141790640096,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.73,
             "commentatorTierSimilarities": [
-                37.54,
+                35.69,
                 0.0,
-                62.46
+                64.31
             ],
             "generationAttempt": 5
         }

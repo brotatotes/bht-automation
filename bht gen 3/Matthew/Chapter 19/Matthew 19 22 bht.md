@@ -1,23 +1,23 @@
 # Matthew 19:22 Commentary Help Text
 
 ## BHT:
-When faced with the choice between God and money, the man in this story prioritized money over God. Jesus may only require this choice if one is controlled by money. Different sins can keep individuals from coming to Christ. The man's sorrowful departure signifies that he was affected by the encounter but ultimately made his own decision. Our own choices are crucial, while God's Providence can remove obstacles. We are reminded to turn away from worldly desires and find the appealing sweetness of Christ's grace to remain faithful to His teachings.
+Feeling overwhelmed, the rich young man went away grieved because he believed Jesus had asked too much of him. Jesus's test of surrendering wealth is only required for those in the grip of money. Each person is under the control of different sins, and even a single sin is enough to keep one distant from Christ. This encounter highlights the importance of renouncing worldly desires and finding true contentment solely in the grace of Christ, forsaking present pleasures for the pursuit of everlasting happiness.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
-1. "If we are not prepared to endure poverty, it is manifest that covetousness reigns in us."
+1. "But if we are not prepared to endure poverty, it is manifest that covetousness reigns in us."
 2. "We are reminded also by this example that, if we would persevere steadily in the school of Christ, we must renounce the flesh."
-3. "The same thing will happen to us, unless the sweetness of the grace of Christ render all the allurements of the flesh distasteful to us."
+3. "The same thing will happen to us unless the sweetness of the grace of Christ render all the allurements of the flesh distasteful to us."
 
 ### Philip Schaff:
 1. "He went away sorrowful. Not unaffected, he yet went away."
-2. "But the silence about his future course hints, that whatever light and love one receives, the decision is to be made by the man himself."
+2. "Whatever light and love one receives, the decision is to be made by the man himself."
 3. "The hindrance is often removed by God's Providence."
 
 ### Archibald T. Robertson:
-1. "He worshipped money more than God when put to the test."
-2. "Does Jesus demand this same test of every one? Not unless he is in the grip of money."
-3. "Different persons are in the power of different sins. One sin is enough to keep one away from Christ."
+1. "Went away grieved." He felt that Jesus had asked too much of him. 
+2. Does Jesus demand this same test of every one? Not unless he is in the grip of money. 
+3. Different persons are in the power of different sins. One sin is enough to keep one away from Christ.
 
 ### John Gill:
 1. "he went away sorrowful; not with a godly sorrow for his sin and imperfections, but with the sorrow of the world, which worketh death"
@@ -27,42 +27,38 @@ When faced with the choice between God and money, the man in this story prioriti
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:50:07
+- Timestamp: 12-25-2023 20:31:49
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 42.86%
-- BHT Quality Score: 1.26352678687061
+- BHT Word Count: 85
+- BHT Commentary Usage: 35.82%
+- BHT Quality Score: 1.4416057950991101
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (70):
-	['affected', 'and', 'appealing', 'are', 'away', 'between', 'but', 'by', 'can', 'choice', 'choices', 'christ', 'coming', 'controlled', 'crucial', 'decision', 'departure', 'desires', 'different', 'encounter', 'faced', 'faithful', 'find', 'from', 'god', 'grace', 'he', 'his', 'if', 'in', 'individuals', 'is', 'jesus', 'keep', 'made', 'man', 'may', 'money', 'obstacles', 'of', 'one', 'only', 'our', 'over', 'own', 'prioritized', 'providence', 'remain', 'reminded', 'remove', 'require', 's', 'signifies', 'sins', 'sorrowful', 'story', 'sweetness', 'teachings', 'that', 'the', 'this', 'to', 'turn', 'ultimately', 'was', 'we', 'when', 'while', 'with', 'worldly']
-- ChatGPT injected words (significant words only) (40):
-	['affected', 'appealing', 'away', 'choice', 'choices', 'christ', 'coming', 'controlled', 'crucial', 'decision', 'departure', 'desires', 'different', 'encounter', 'faced', 'faithful', 'find', 'god', 'grace', 'individuals', 'jesus', 'man', 'money', 'obstacles', 'prioritized', 'providence', 'remain', 'reminded', 'remove', 'require', 's', 'signifies', 'sins', 'sorrowful', 'story', 'sweetness', 'teachings', 'turn', 'ultimately', 'worldly']
+- ChatGPT injected words (67):
+	['a', 'and', 'asked', 'away', 'because', 'believed', 'christ', 'contentment', 'control', 'desires', 'different', 'distant', 'each', 'encounter', 'enough', 'even', 'everlasting', 'feeling', 'finding', 'for', 'forsaking', 'from', 'grace', 'grieved', 'grip', 'had', 'happiness', 'he', 'highlights', 'him', 'importance', 'in', 'is', 'jesus', 'keep', 'man', 'money', 'much', 'of', 'one', 'only', 'overwhelmed', 'person', 'pleasures', 'present', 'pursuit', 'renouncing', 'required', 'rich', 's', 'sin', 'single', 'sins', 'solely', 'surrendering', 'test', 'the', 'this', 'those', 'to', 'too', 'true', 'under', 'wealth', 'went', 'worldly', 'young']
+- ChatGPT injected words (significant words only) (43):
+	['asked', 'away', 'believed', 'christ', 'contentment', 'control', 'desires', 'different', 'distant', 'encounter', 'everlasting', 'feeling', 'finding', 'forsaking', 'grace', 'grieved', 'grip', 'happiness', 'highlights', 'importance', 'jesus', 'man', 'money', 'overwhelmed', 'person', 'pleasures', 'present', 'pursuit', 'renouncing', 'required', 'rich', 's', 'sin', 'single', 'sins', 'solely', 'surrendering', 'test', 'true', 'wealth', 'went', 'worldly', 'young']
 
 ### Logs
-- Attempt 1 BHT: When faced with the test of choosing between God and money, the man in this verse worshiped money more than God. This brings up the question of whether Jesus demands this same test of everyone, and the commentary suggests that he does so only if someone is in the grip of money. Each person may be under the power of different sins that keep them away from Christ. The man in the verse went away sorrowful, indicating that he was affected by the encounter but still made his own decision. This highlights the importance of the individual's own choice, and that the hindrance to following Christ is often removed by God's Providence. Ultimately, this example serves as a reminder to renounce the flesh and find alluring the sweetness of Christ's grace in order to persevere in His teachings.
-- 🔄 Matthew 19:22 (attempt 1, 141 words, 44.94% quotes quality score: 1.402932823074605, V2 normalized quality score: 37.99, commentator tiers 1-3: 43.34%, 26.97%, 29.7%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: When faced with the test of choosing between God and money, the man in this passage worshiped money more than God. Jesus may only demand this test if one is in the grip of money, as different sins are enough to keep one away from Christ. The man went away sorrowful, indicating that although affected, he made his own decision. This emphasizes the importance of personal choice, while God's Providence can remove hindrances. The example serves as a reminder to renounce the flesh and find allure in the sweetness of Christ's grace to persevere in His teachings.
-- 🔄 Matthew 19:22 (attempt 2, 99 words, 43.48% quotes quality score: 1.4356951952747399, V2 normalized quality score: 39.08, commentator tiers 1-3: 42.54%, 28.44%, 29.02%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: When faced with the choice between God and money, the man in this story prioritized money over God. Jesus may only require this choice if one is controlled by money. Different sins can keep individuals from coming to Christ. The man's sorrowful departure signifies that he was affected by the encounter but ultimately made his own decision. Our own choices are crucial, while God's Providence can remove obstacles. We are reminded to turn away from worldly desires and find the appealing sweetness of Christ's grace to remain faithful to His teachings.
-- 🔄 Matthew 19:22 (attempt 3, 94 words, 42.86% quotes quality score: 1.26352678687061, V2 normalized quality score: 33.36, commentator tiers 1-3: 41.21%, 29.62%, 29.17%) 
+- Attempt 1 BHT: When the rich young man heard Jesus's command to sell all that he had and give to the poor, he was filled with grief because he felt it was too great a demand. Jesus's test of surrendering wealth applies only to those who are enslaved by money. Each person is trapped by different sins, and one sin alone is sufficient to keep them distant from Christ. The young man's response teaches us the importance of renouncing the flesh and finding our delight solely in the grace of Christ, detaching ourselves from worldly pleasures to pursue eternal happiness.
+- 🔄 Matthew 19:22 (attempt 1, 100 words, 42.67% quotes quality score: 1.3281345799411686, V2 normalized quality score: 35.5, commentator tiers 1-3: 45.25%, 18.51%, 36.25%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this story, the man faced a test and prioritized money over God. This raises the question of whether Jesus demands the same test from everyone, which seems to be the case if one is controlled by money. Each person may be bound by different sins that keep them from Christ. The man left with a sense of sorrow, indicating the impact of the encounter, but ultimately, he made his own decision. Our choices play a significant role, and God's Providence can remove obstacles. We are reminded to renounce worldly desires and embrace the allure of Christ's grace to faithfully follow Him.
-- 🔄 Matthew 19:22 (attempt 4, 104 words, 44.87% quotes quality score: 1.2329749818691658, V2 normalized quality score: 32.34, commentator tiers 1-3: 42.72%, 27.58%, 29.7%) 
+- Attempt 2 BHT: When faced with Jesus's command to sell all his possessions and give to the poor, the rich young man felt overwhelmed, believing that the request was too demanding. Such a test is only applicable to those engulfed by the power of money. This encounter teaches us the vital lesson of forsaking worldly desires and finding our contentment solely in the grace of Christ, disregarding temporal pleasures in pursuit of eternal fulfillment.
+- 🔄 Matthew 19:22 (attempt 2, 72 words, 36.67% quotes quality score: 0.9638532827915112, V2 normalized quality score: 23.39, commentator tiers 1-3: 40.34%, 14.18%, 45.49%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: When confronted with Jesus's instruction to sell all his possessions and give to the needy, the rich young man was deeply saddened because he perceived it as an excessive demand. Such a requirement is only applicable to those who are under the sway of materialism. Different individuals are ensnared by various sins, and even one sin can keep them away from Christ. This encounter underscores the significance of renouncing worldly indulgences and finding our ultimate satisfaction in the grace of Christ, relinquishing present pleasures for the pursuit of eternal joy.
+- 🔄 Matthew 19:22 (attempt 3, 91 words, 45.45% quotes quality score: 1.2080219335658173, V2 normalized quality score: 31.51, commentator tiers 1-3: 41.51%, 20.52%, 37.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The man in this story prioritized money over God, revealing his worship of money over God when put to the test. However, it is not expected that Jesus demands this specific test from everyone unless they are in the grip of money. Each person may be held captive by different sins that separate them from Christ. Despite being affected, the man went away sorrowful, making his own choice. Our decisions are crucial, and God's Providence can remove hindrances. We are reminded to renounce the flesh and find solace in the sweetness of Christ's grace to remain steadfast in His teachings.
-- 🔄 Matthew 19:22 (attempt 5, 102 words, 41.1% quotes quality score: 1.3551316071671442, V2 normalized quality score: 36.4, commentator tiers 1-3: 40.82%, 28.42%, 30.76%) 
+- Attempt 4 BHT: Feeling overwhelmed, the rich young man went away grieved because he believed Jesus had asked too much of him. Jesus's test of surrendering wealth is only required for those in the grip of money. Each person is under the control of different sins, and even a single sin is enough to keep one distant from Christ. This encounter highlights the importance of renouncing worldly desires and finding true contentment solely in the grace of Christ, forsaking present pleasures for the pursuit of everlasting happiness.
+- 🔄 Matthew 19:22 (attempt 4, 85 words, 35.82% quotes quality score: 1.4416057950991101, V2 normalized quality score: 39.28, commentator tiers 1-3: 50.51%, 17.59%, 31.89%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 19:22 bht prompt v0.8 (94 words, 42.86% quotes)
-- quality score: 1.26352678687061, V2 normalized quality score: 33.36, commentator tiers 1-3: 41.21%, 29.62%, 29.17%)
+- Attempt 5 BHT: The rich young man's response to Jesus was one of deep sorrow and disappointment, as he believed that the command to sell his possessions and give to the poor was too demanding. However, Jesus does not require this same test from everyone unless they are ensnared by materialism. Each person is held captive by different sins, and even one sin can hinder them from following Christ. This encounter serves as a reminder to renounce worldly pleasures and find true fulfillment in the grace of Christ, prioritizing eternal joy over temporary satisfaction.
+- 🔄 Matthew 19:22 (attempt 5, 92 words, 41.89% quotes quality score: 1.2697722929325657, V2 normalized quality score: 33.56, commentator tiers 1-3: 44.47%, 17.89%, 37.64%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 19:22 bht prompt v0.8 (85 words, 35.82% quotes)
+- quality score: 1.4416057950991101, V2 normalized quality score: 39.28, commentator tiers 1-3: 50.51%, 17.59%, 31.89%)

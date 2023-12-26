@@ -1,28 +1,28 @@
 # Matthew 26:31 Commentary Help Text
 
 ## BHT:
-All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.
+Jesus' statement about all being offended at him is meant to distinguish the present disciples from Judas and refers to the rejection and piercing of the Shepherd, identifying Jesus as the Messiah. This prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While these words were addressed to all, they likely carried particular significance for Peter, who needed extraordinary consolation after his denial of Christ. Their faith would have failed without Jesus' prayer, and the sufferings of Christ were part of God's plan executed with justice.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "All (emphatic) ye seems to be used as distinguishing those present from the one, who had me out." 
-2. "But, on the contrary, if we examine Zech. xi. xii. xiii, we must I think come to the conclusion that the shepherd spoken of xi. 7–14, who is rejected and sold, who is said to have been pierced (xii. 10), is also spoken of in ch. xiii. 7."
-3. "Stier has gone at length into the meaning of the whole prophecy, and especially that of the word ‘my fellow,’ and shewn that the reference can be to no other than the Messiah."
+2. "The shepherd spoken of xi. 7–14, who is rejected and sold, who is said to have been pierced (xii. 10), is also spoken of in ch. xiii. 7."
+3. "The reference can be to no other than the Messiah."
 
 ### John Calvin:
 1. "What Matthew and Mark extend to all the disciples alike is related by Luke as having been spoken to Peter only."
-2. "But though the statement was equally addressed to all, yet it is probable that Christ spoke to them in the person of one man."
-3. "He [Peter] needed extraordinary consolation, that, after having denied Christ, he might not be altogether overwhelmed with despair."
+2. "But though the statement was equally addressed to all, yet it is probable that Christ spoke to them in the person of one man, who was to be admonished more than all the rest."
+3. "He needed extraordinary consolation, that, after having denied Christ, he might not be altogether overwhelmed with despair."
 
 ### Philip Schaff:
-1. "Shall be offended; 'made to stumble,' 'fall away.'"
-2. "In me, i.e., His betrayal and sufferings, this night, would be made by them an occasion of stumbling, a snare; they would forsake and deny Him."
-3. "And the sheep of the flock; the Apostles, but with a wider reference also to the Jewish people."
+1. "All ye. Not without a contrast to Judas who had gone."
+2. "Shall be offended; ‘made to stumble,’ ‘fall away.’"
+3. "This occurred both in the case of the disciples, and of the Jews, after they had rejected the smitten Shepherd."
 
 ### John Gill:
 1. "They would be so shocked with this sad disappointment, and so offended, or stumble, as to be ready to fall from him."
-2. "Because of his low estate, his being seized and bound, and led away by his enemies."
-3. "The sufferings of Christ, which are meant by the smiting him, were according, not only to the determinate counsel and foreknowledge of God, the will of his good pleasure, but according to his will of command."
+2. "Their faith in him must have failed, had he not prayed for them, as he did for Peter."
+3. "The sufferings of Christ, which are meant by the smiting him, were according, not only to the determinate counsel and foreknowledge of God, the will of his good pleasure, but according to his will of command; which justice executed, and Christ was obedient to, and in which Jehovah had a very great hand himself."
 
 ### John Wesley:
 1. All ye will be offended at me — Something will happen to me, which will occasion your falling into sin by forsaking me. Zechariah 13:7.
@@ -31,37 +31,39 @@ All of you, referring to the disciples, will be made to stumble and fall away. T
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:53:27
+- Timestamp: 12-25-2023 20:32:18
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 54.72%
-- BHT Quality Score: 1.2647259132709219
+- BHT Word Count: 97
+- BHT Commentary Usage: 39.44%
+- BHT Quality Score: 1.3848321907072831
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['accordance', 'all', 'and', 'away', 'be', 'by', 'can', 'determination', 'disciples', 'fall', 'found', 'from', 'god', 'him', 'however', 'in', 'is', 'jesus', 'lowly', 'made', 'messiah', 'none', 'of', 'offended', 'other', 'pierced', 'prophecy', 'ready', 'referring', 'rejected', 'shepherd', 'shocked', 'so', 'sold', 'state', 'stumble', 'suffering', 'sufferings', 'than', 'that', 'the', 'these', 'they', 'this', 'to', 'were', 'where', 'who', 'will', 'with', 'would', 'you', 'zechariah']
-- ChatGPT injected words (significant words only) (24):
-	['accordance', 'away', 'determination', 'disciples', 'fall', 'found', 'god', 'jesus', 'lowly', 'messiah', 'offended', 'pierced', 'prophecy', 'ready', 'referring', 'rejected', 'shepherd', 'shocked', 'sold', 'state', 'stumble', 'suffering', 'sufferings', 'zechariah']
+- ChatGPT injected words (71):
+	['about', 'addressed', 'after', 'all', 'and', 'applies', 'as', 'at', 'away', 'being', 'both', 'carried', 'christ', 'consolation', 'denial', 'disciples', 'distinguish', 'executed', 'extraordinary', 'failed', 'faith', 'falling', 'for', 'from', 'god', 'have', 'him', 'his', 'identifying', 'is', 'jesus', 'jews', 'judas', 'justice', 'likely', 'meant', 'messiah', 'needed', 'of', 'offended', 'part', 'particular', 'peter', 'piercing', 'plan', 'prayer', 'prediction', 'present', 'refers', 'rejecting', 'rejection', 's', 'shepherd', 'significance', 'smitten', 'statement', 'stumbling', 'sufferings', 'the', 'their', 'these', 'they', 'this', 'to', 'were', 'while', 'who', 'with', 'without', 'words', 'would']
+- ChatGPT injected words (significant words only) (43):
+	['addressed', 'applies', 'away', 'carried', 'christ', 'consolation', 'denial', 'disciples', 'distinguish', 'executed', 'extraordinary', 'failed', 'faith', 'falling', 'god', 'identifying', 'jesus', 'jews', 'judas', 'justice', 'likely', 'meant', 'messiah', 'needed', 'offended', 'particular', 'peter', 'piercing', 'plan', 'prayer', 'prediction', 'present', 'refers', 'rejecting', 'rejection', 's', 'shepherd', 'significance', 'smitten', 'statement', 'stumbling', 'sufferings', 'words']
 
 ### Logs
-- Attempt 1 BHT: All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. While the statement was addressed to all the disciples, it is likely that Christ spoke to them through the person of Peter, who would need extraordinary consolation after denying Christ to avoid despair. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.
-- 🔄 Matthew 26:31 (attempt 1, 107 words, 48.61% quotes quality score: 1.2827706699964572, V2 normalized quality score: 34.0, commentator tiers 1-3: 25.39%, 34.77%, 39.84%) 
+- Attempt 1 BHT: When Jesus said, All ye will be offended at me, he was speaking not just to the disciples present, but to distinguish them from Judas who had already betrayed him. This statement also alludes to the rejection and piercing of the Shepherd mentioned in other Scriptures, making it clear that Jesus is referring to himself as the Messiah. This prediction of the disciples' stumbling and falling away echoes the faith failure that would occur both among them and the Jews after rejecting the smitten Shepherd. While the statement was addressed to all, it is likely that Jesus directed it to Peter in particular, who needed extraordinary consolation to avoid being overwhelmed with despair after denying Christ. Without Jesus' prayer for them, their faith would have failed. Thus, the sufferings of Christ, symbolized by his smiting, were part of God's plan and executed with justice, and it is within that context that the disciples would falter and stumble.
+- 🔄 Matthew 26:31 (attempt 1, 158 words, 44.76% quotes quality score: 1.3314238854663172, V2 normalized quality score: 35.61, commentator tiers 1-3: 23.69%, 36.22%, 40.09%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. While the statement was addressed to all the disciples, it is likely that Christ spoke to them through the person of Peter, who would need extraordinary consolation after denying Christ to avoid despair. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him.
-- 🔄 Matthew 26:31 (attempt 2, 94 words, 48.44% quotes quality score: 1.404773513821719, V2 normalized quality score: 38.05, commentator tiers 1-3: 27.17%, 34.7%, 38.13%) 
+- Attempt 2 BHT: Jesus foretold that All ye will be offended at me, specifically distinguishing the disciples present from Judas. This refers to the rejection and piercing of the Shepherd, identifying Jesus as the Messiah. The prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While the statement was spoken to all, it likely carried special significance for Peter, who needed extraordinary consolation after denying Christ. Without Jesus' prayer, their faith would have failed. The sufferings of Christ were part of God's plan and executed with justice.
+- 🔄 Matthew 26:31 (attempt 2, 95 words, 38.03% quotes quality score: 1.3353780987379031, V2 normalized quality score: 35.74, commentator tiers 1-3: 26.25%, 37.78%, 35.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: All of you, referring to the disciples, will be made to stumble and fall away. This prophecy can be found in Zechariah, where the shepherd who is rejected, sold, and pierced is none other than the Messiah. The disciples would be so shocked and offended by Jesus' lowly state and suffering that they would be ready to fall away from him. However, these sufferings were in accordance with the will and determination of God.
-- 🔄 Matthew 26:31 (attempt 3, 74 words, 54.72% quotes quality score: 1.2647259132709219, V2 normalized quality score: 33.4, commentator tiers 1-3: 24.28%, 37.9%, 37.82%)
-- Attempt 4 BHT: All the disciples, rebuked by Jesus, who spoke as one of them, would be offended and stumble upon witnessing His betrayal and sufferings. They would be so shocked by the sad disappointment and their Shepherd being rejected and sold that they would be ready to fall away from Him. Yet, Peter especially needed extraordinary consolation, as he would deny Christ, to prevent despair from overwhelming him. These sufferings were not by chance, but according to the determinate counsel and foreknowledge of God, fulfilling the prophecies in Zechariah 11, 12, and 13.
-- 🔄 Matthew 26:31 (attempt 4, 88 words, 43.08% quotes quality score: 1.227534472902629, V2 normalized quality score: 32.16, commentator tiers 1-3: 20.07%, 37.51%, 42.43%) 
+- Attempt 3 BHT: Jesus' declaration that All ye will be offended at me distinguishes the present disciples from Judas. This relates to the rejection and piercing of the Shepherd, referring to Jesus as the Messiah. The prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While Jesus addressed all, it likely had special significance for Peter, who needed extraordinary consolation after denying Christ. Their faith would have failed without Jesus' prayer. The sufferings of Christ were part of God's plan and executed with justice.
+- 🔄 Matthew 26:31 (attempt 3, 92 words, 39.71% quotes quality score: 1.301410490874733, V2 normalized quality score: 34.62, commentator tiers 1-3: 24.49%, 38.06%, 37.45%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: All the disciples, rebuked by Jesus, who spoke as one of them, would be offended and stumble upon witnessing His betrayal and sufferings. They would be so shocked by the sad disappointment and their Shepherd being rejected and sold that they would be ready to fall away from Him. Yet, Peter especially needed extraordinary consolation, as he would deny Christ, to prevent despair from overwhelming him. These sufferings were not by chance, but according to the determinate counsel and foreknowledge of God, fulfilling the prophecies in Zechariah 11, 12, and 13.
-- 🔄 Matthew 26:31 (attempt 5, 88 words, 43.08% quotes quality score: 1.227534472902629, V2 normalized quality score: 32.16, commentator tiers 1-3: 20.07%, 37.51%, 42.43%) 
+- Attempt 4 BHT: Jesus' statement that All ye will be offended at me distinguishes the present disciples from Judas and alludes to the piercing and rejection of the Shepherd, identifying Jesus as the Messiah. The prediction of stumbling and falling away applies to the disciples and the Jews after rejecting the smitten Shepherd. Though addressed to all, the words likely offered extra consolation to Peter, who had denied Christ. Without Jesus' prayer, their faith would have failed. The sufferings of Christ were part of God's plan, executed with justice.
+- 🔄 Matthew 26:31 (attempt 4, 87 words, 36.51% quotes quality score: 1.3325658648105185, V2 normalized quality score: 35.65, commentator tiers 1-3: 23.61%, 39.19%, 37.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 26:31 bht prompt v0.8 (74 words, 54.72% quotes)
-- quality score: 1.2647259132709219, V2 normalized quality score: 33.4, commentator tiers 1-3: 24.28%, 37.9%, 37.82%)
+- Attempt 5 BHT: Jesus' statement about all being offended at him is meant to distinguish the present disciples from Judas and refers to the rejection and piercing of the Shepherd, identifying Jesus as the Messiah. This prediction of stumbling and falling away applies to both the disciples and the Jews after rejecting the smitten Shepherd. While these words were addressed to all, they likely carried particular significance for Peter, who needed extraordinary consolation after his denial of Christ. Their faith would have failed without Jesus' prayer, and the sufferings of Christ were part of God's plan executed with justice.
+- 🔄 Matthew 26:31 (attempt 5, 97 words, 39.44% quotes quality score: 1.3848321907072831, V2 normalized quality score: 37.39, commentator tiers 1-3: 22.99%, 38.11%, 38.91%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 26:31 bht prompt v0.8 (97 words, 39.44% quotes)
+- quality score: 1.3848321907072831, V2 normalized quality score: 37.39, commentator tiers 1-3: 22.99%, 38.11%, 38.91%)

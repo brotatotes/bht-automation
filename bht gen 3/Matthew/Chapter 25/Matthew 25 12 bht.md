@@ -1,18 +1,18 @@
 # Matthew 25:12 Commentary Help Text
 
 ## BHT:
-When Jesus says, I know you not, it means that those who merely profess Christianity without genuine piety will not be acknowledged by Him as His true followers. This refusal is final and a consequence of their negligence. The parable emphasizes the importance of enduring till the end and keeping our light shining bright, no matter how long the delay may be. Only those who believe in and love Christ will be granted admittance and adorned with the righteousness of saints.
+The parable teaches that being admitted to the wedding feast requires not only faith, but also true righteousness, symbolized by the wedding garment. The phrase I know you not does not imply lack of knowledge, but rather lack of approval and acknowledgment. Those who are admitted to the feast have been chosen and loved by Christ, whereas the foolish virgins were graceless professors who made no account of Him. Their exclusion serves as a consequence of their negligence and absence of genuine faith.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Observe here, I know you not is very different, as the whole circumstances are different, from 'I never knew you,' in ch. vii. 23..." 
+1. "Observe here, I know you not is very different, as the whole circumstances are different, from 'I never knew you,' in ch. vii. 23..."
 2. "...where the 'Depart from me' binds it to our ver. 41, and to the time of the final judgment, spoken of in that parable."
 3. "[See the note at the end of the chapter.]"
 
 ### Jamieson-Fausset-Brown:
-1. "Besides being inconsistent with the general tenor of such language, and particularly the solemn moral of the whole (Matthew 7:23- :), it is a kind of criticism which tampers with some of the most awful warnings regarding the future."
-2. "If it be asked why unworthy guests were admitted to the marriage of the King's Son, in a former parable, and the foolish virgins are excluded in this one, we may answer... that those festivities are celebrated in this life, in the Church militant; these at the last day, in the Church triumphant."
-3. "To those, even they are admitted who are not adorned with the wedding garment; but to these, only they to whom it is granted to be arrayed in fine linen clean and white, which is the righteousness of saints."
+1. "If it be asked why unworthy guests were admitted to the marriage of the King's Son, in a former parable, and the foolish virgins are excluded in this one, we may answer, in the admirable words of GERHARD, quoted by TRENCH, that those festivities are celebrated in this life, in the Church militant; these at the last day, in the Church triumphant."
+2. "To those, even they are admitted who are not adorned with the wedding garment; but to these, only they to whom it is granted to be arrayed in fine linen clean and white, which is the righteousness of saints."
+3. "To those, men are called by the trumpet of the Gospel; to these by the trumpet of the Archangel; to those, who enters may go out from them, or be cast out; who is once introduced to these never goes out, nor is cast out, from them any more: wherefore it is said, 'The door is shut.'"
 
 ### Albert Barnes:
 1. "I know you not - You were not in the company of those who attended me to the marriage-feast, and are unknown to me."
@@ -21,56 +21,56 @@ When Jesus says, I know you not, it means that those who merely profess Christia
 
 ### Philip Schaff:
 1. "I know you not." 
-2. "The refusal is definite and apparently final." 
+2. "The refusal is definite and apparently final."
 3. "The lesson respects the blessedness of endurance unto the end, of keeping the light bright for the coming of the Bridegroom, however delayed."
 
 ### Archibald T. Robertson:
-1. "I know you not. Hence there was no reason for special or unusual favours to be granted them."
+1. "I know you not (ουκ οιδα υμας). Hence there was no reason for special or unusual favours to be granted them."
 2. "They must abide the consequences of their own negligence."
 
 ### John Gill:
-1. "Verily I say unto you, I know you not; which must be understood in consistence with the omniscience of Christ: he knew their persons, conduct, and state; he knew they were foolish virgins, graceless professors..."
-2. "...he never knew them to believe in him, or love him; nor ever exalt his person, blood and sacrifice..."
-3. "which answer implies, that as the door was shut, so it should remain; there was no admittance for them, nor any to be hoped for..."
+1. "Verily I say unto you, I know you not; which must be understood in consistence with the omniscience of Christ: he knew their persons, conduct, and state; he knew they were foolish virgins, graceless professors, who had made no account of him and his righteousness."
+2. "They were none of the people whom he foreknew, or knew as his own, and loved with an everlasting love; he never knew them as his father's choice in him, or as his father's gift to him; he never knew them in the everlasting covenant, or as his sheep, for whom he died."
+3. "He never knew them to believe in him, or love him; nor ever exalt his person, blood and sacrifice, at his table, nor do any good work with a single eye to his glory; he never approved of them, liked their persons, or their conduct; or ever owned them as the true companions, either of his bride, or of himself."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:52:56
+- Timestamp: 12-25-2023 20:32:16
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 43.94%
-- BHT Quality Score: 1.370220283728716
+- BHT Word Count: 83
+- BHT Commentary Usage: 46.67%
+- BHT Quality Score: 1.5191684207726501
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'acknowledged', 'admittance', 'adorned', 'and', 'as', 'be', 'believe', 'bright', 'by', 'christ', 'christianity', 'consequence', 'delay', 'emphasizes', 'end', 'enduring', 'final', 'followers', 'genuine', 'granted', 'him', 'his', 'how', 'i', 'importance', 'in', 'is', 'it', 'jesus', 'keeping', 'know', 'light', 'long', 'love', 'matter', 'may', 'means', 'merely', 'negligence', 'no', 'not', 'of', 'only', 'our', 'parable', 'piety', 'profess', 'refusal', 'righteousness', 'saints', 'says', 'shining', 'that', 'the', 'their', 'this', 'those', 'till', 'true', 'when', 'who', 'will', 'with', 'without', 'you']
-- ChatGPT injected words (significant words only) (37):
-	['acknowledged', 'admittance', 'adorned', 'believe', 'bright', 'christ', 'christianity', 'consequence', 'delay', 'emphasizes', 'end', 'enduring', 'final', 'followers', 'genuine', 'granted', 'importance', 'jesus', 'keeping', 'know', 'light', 'long', 'love', 'matter', 'means', 'merely', 'negligence', 'parable', 'piety', 'profess', 'refusal', 'righteousness', 'saints', 'says', 'shining', 'till', 'true']
+- ChatGPT injected words (60):
+	['a', 'absence', 'account', 'acknowledgment', 'admitted', 'also', 'and', 'approval', 'are', 'as', 'been', 'being', 'but', 'by', 'chosen', 'christ', 'consequence', 'does', 'exclusion', 'faith', 'feast', 'foolish', 'garment', 'genuine', 'graceless', 'have', 'him', 'i', 'imply', 'know', 'knowledge', 'lack', 'loved', 'made', 'negligence', 'no', 'not', 'of', 'only', 'parable', 'phrase', 'professors', 'rather', 'requires', 'righteousness', 'serves', 'symbolized', 'teaches', 'that', 'the', 'their', 'those', 'to', 'true', 'virgins', 'wedding', 'were', 'whereas', 'who', 'you']
+- ChatGPT injected words (significant words only) (32):
+	['absence', 'account', 'acknowledgment', 'admitted', 'approval', 'chosen', 'christ', 'consequence', 'exclusion', 'faith', 'feast', 'foolish', 'garment', 'genuine', 'graceless', 'imply', 'know', 'knowledge', 'lack', 'loved', 'negligence', 'parable', 'phrase', 'professors', 'requires', 'righteousness', 'serves', 'symbolized', 'teaches', 'true', 'virgins', 'wedding']
 
 ### Logs
-- Attempt 1 BHT: In Matthew 25:12, when Jesus says, I know you not, He is not saying that He never knew them, like in Matthew 7:23. Rather, it means that they were not in the company of those who truly followed Him. The refusal is definite and final, and it is a consequence of their negligence. This parable teaches us the importance of enduring till the end, of keeping our light shining bright for the coming of the Bridegroom, no matter how long the delay may be. Those who merely profess Christianity, without genuine piety, will not be acknowledged by Christ as His true followers.
-- 🔄 Matthew 25:12 (attempt 1, 100 words, 46.67% quotes quality score: 1.4111538859530524, V2 normalized quality score: 38.26, commentator tiers 1-3: 30.99%, 31.22%, 37.79%) 
+- Attempt 1 BHT: The parable of the ten virgins in Matthew 25:12 conveys a strong message about the necessity of genuine faith and preparedness for the coming of the Bridegroom. The phrase I know you not signifies not a lack of knowledge, but rather a lack of approval and acknowledgment. This rejection is final and serves as a consequence of their own negligence and lack of true piety. Those who are admitted to the marriage feast of the King's Son in this life are not necessarily adorned with the wedding garment of righteousness, but those who are granted the privilege to be arrayed in fine linen clean and white, symbolizing the righteousness of the saints. It is a call to endure and keep the light of faith bright until the very end, remaining vigilant and prepared for the Bridegroom's return.
+- 🔄 Matthew 25:12 (attempt 1, 138 words, 34.52% quotes quality score: 1.466712020858533, V2 normalized quality score: 40.11, commentator tiers 1-3: 31.35%, 30.78%, 37.87%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this passage, Jesus makes a clear distinction between those who truly follow Him and those who only profess Christianity. When He says, I know you not, He means that they were not part of His company, that they were graceless professors. The refusal is final, and it is a consequence of their negligence. This parable serves as a reminder of the importance of enduring till the end and keeping our light shining bright, despite any delay in the coming of the Bridegroom.
-- 🔄 Matthew 25:12 (attempt 2, 83 words, 44.26% quotes quality score: 1.379508213665771, V2 normalized quality score: 37.21, commentator tiers 1-3: 31.46%, 33.19%, 35.36%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Jesus's words, I know you not, in this passage signify that those who only profess Christianity without true piety will not be acknowledged by Him as His genuine followers. This refusal, definite and final, is the consequence of their negligence. The parable teaches the importance of endurance and keeping our light shining bright, regardless of any delay in the coming of the Bridegroom. Only those who truly believe in and love Christ will be granted admittance and be adorned with the righteousness of saints.
-- 🔄 Matthew 25:12 (attempt 3, 85 words, 38.1% quotes quality score: 1.4725504244206644, V2 normalized quality score: 40.3, commentator tiers 1-3: 33.31%, 31.04%, 35.65%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: When Jesus says, I know you not, it means that those who merely profess Christianity without genuine piety will not be acknowledged by Him as His true followers. This refusal is final and a consequence of their negligence. The parable emphasizes the importance of enduring till the end and keeping our light shining bright, no matter how long the delay may be. Only those who believe in and love Christ will be granted admittance and adorned with the righteousness of saints.
-- 🔄 Matthew 25:12 (attempt 4, 81 words, 43.94% quotes quality score: 1.370220283728716, V2 normalized quality score: 36.9, commentator tiers 1-3: 33.64%, 32.13%, 34.23%) 
+- Attempt 2 BHT: The parable teaches that being admitted to the wedding feast requires not only faith, but also true righteousness, symbolized by the wedding garment. The phrase I know you not does not imply lack of knowledge, but rather lack of approval and acknowledgment. Those who are admitted to the feast have been chosen and loved by Christ, whereas the foolish virgins were graceless professors who made no account of Him. Their exclusion serves as a consequence of their negligence and absence of genuine faith.
+- 🔄 Matthew 25:12 (attempt 2, 83 words, 46.67% quotes quality score: 1.5191684207726501, V2 normalized quality score: 41.85, commentator tiers 1-3: 28.76%, 28.09%, 43.16%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: When Jesus says, I know you not, He means that those who only make a profession of Christianity, without true piety, will not be acknowledged as His genuine followers. This refusal is a result of their negligence. The parable teaches us the importance of enduring till the end and keeping our light shining bright, even in the face of delay. Only those who believe in and love Christ will be granted admittance, adorned with the righteousness of saints.
-- 🔄 Matthew 25:12 (attempt 5, 78 words, 44.26% quotes quality score: 1.3193407669884025, V2 normalized quality score: 35.21, commentator tiers 1-3: 31.54%, 31.34%, 37.12%) 
+- Attempt 3 BHT: The parable of the ten virgins teaches that true faith is not just a profession, but a matter of genuine piety and righteousness. The phrase I know you not signifies a lack of approval and acknowledgment rather than a lack of knowledge. The exclusion of the foolish virgins from the wedding feast serves as a consequence of their negligence and absence of a true relationship with Christ. It emphasizes the importance of enduring with faith until the end and being prepared for the Bridegroom's return.
+- 🔄 Matthew 25:12 (attempt 3, 86 words, 38.6% quotes quality score: 1.4789469024410655, V2 normalized quality score: 40.52, commentator tiers 1-3: 27.45%, 32.7%, 39.85%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 25:12 bht prompt v0.8 (81 words, 43.94% quotes)
-- quality score: 1.370220283728716, V2 normalized quality score: 36.9, commentator tiers 1-3: 33.64%, 32.13%, 34.23%)
+- Attempt 4 BHT: The parable of the ten virgins in Matthew 25:12 teaches the importance of genuine faith and preparedness for the coming of the Bridegroom. The phrase I know you not signifies a lack of approval and acknowledgment rather than a lack of knowledge. It serves as a consequence of their own negligence and absence of true piety. Only those who are adorned with the wedding garment of righteousness, representing the true saints, are granted access to the wedding feast. The parable emphasizes the need to endure with faith and remain prepared until the Bridegroom's return.
+- 🔄 Matthew 25:12 (attempt 4, 94 words, 37.1% quotes quality score: 1.4124994016771644, V2 normalized quality score: 38.31, commentator tiers 1-3: 32.97%, 28.8%, 38.23%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The parable of the ten virgins presents a profound lesson about the necessity of genuine faith and preparedness for the coming of the Bridegroom. The phrase I know you not does not indicate a lack of knowledge but rather a lack of approval and acknowledgment. It serves as a consequence of their own negligence and absence of true piety. Only those who are adorned with the righteousness of the saints are granted access to the wedding feast. The parable underscores the importance of endurance and readiness until the Bridegroom's return.
+- 🔄 Matthew 25:12 (attempt 5, 91 words, 39.34% quotes quality score: 1.3865294562566657, V2 normalized quality score: 37.45, commentator tiers 1-3: 32.45%, 30.93%, 36.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 25:12 bht prompt v0.8 (83 words, 46.67% quotes)
+- quality score: 1.5191684207726501, V2 normalized quality score: 41.85, commentator tiers 1-3: 28.76%, 28.09%, 43.16%)

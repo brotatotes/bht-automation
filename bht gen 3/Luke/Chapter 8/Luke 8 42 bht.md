@@ -1,62 +1,66 @@
 # Luke 8:42 Commentary Help Text
 
 ## BHT:
-A man named Jairus, referred to affectionately as Mark's diminutive, sought out Jesus desperately. Unaware of the tragic news to come, he narrates events concisely. The crowd followed Jesus, eager to witness what would unfold. Among them was a father whose only daughter lay dying, her life slipping away. Jesus pressed on through the throngs, feeling the weight of the suffocating crowd. Despite the chaos, Jesus was determined to reach out and offer his healing touch to this desperate father and his dying daughter.
+Luke, in his concise narration, describes a crowd that follows Jesus to witness what will unfold at Jairus's house. A woman, suffering from a hemorrhage for twelve years, presses upon Jesus, almost suffocating him with the weight of the people. Jairus's beloved daughter, his only child, is on the verge of dying. The immense throng surrounding Jesus creates a chaotic atmosphere, making it challenging for him to navigate through the crowd.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The affectionate diminutive of Mark."
-2. "He is not aware of the subsequent message to Jairus, and narrates concisely and generally."
-3. "The crowd seems to have followed to see what would happen at Jairus's house."
+1. "He is not aware of the subsequent message to Jairus, and narrates concisely and generally."
+2. "The crowd seems to have followed to see what would happen at Jairus’s house."
+3. "The affectionate diminutive of Mark."
 
 ### Marvin Vincent:
 1. Thronged [συνεπνιγον] . With the idea of pressing together [συν] upon him : stifling. The simple verb is that rendered choke, as in vv. 8, 33.
 
 
 ### Archibald T. Robertson:
-1. "An only daughter (θυγατηρ μονογενης)."
-2. "She lay a dying (απεθνησκεν)."
-3. "Thronged (συνεπνιγον)."
+1. "An only daughter (θυγατηρ μονογενης)...The same adjective used of the widow's son (Luke 7:12) and the epileptic boy (Luke 9:38) and of Jesus (John 1:18; John 3:16)." 
+2. "She lay a dying (απεθνησκεν). Imperfect active, she was dying. Matthew 9:18 has it that she has just died." 
+3. "Thronged (συνεπνιγον). Imperfect active of συμπνιγω, to press together, the verb used of the thorns choking the growing grain (Luke 8:14). It was a jam."
 
 ### John Gill:
 1. "And she lay a dying, or 'was near death', as the Syriac and Persic versions; or 'was just ready to die', as the Ethiopic version."
 2. "The Vulgate Latin and Arabic versions render it, 'she was dead', or 'now dead', and which agrees with Matthew 9:18."
-3. "The people thronged him; such a vast multitude followed him to see the cure, that he was even crowded, and so pressed on all sides, that it was difficult to walk along."
+3. "the people thronged him; such a vast multitude followed him to see the cure, that he was even crowded, and so pressed on all sides, that it was difficult to walk along."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:49
+- Timestamp: 12-25-2023 20:33:13
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 31.75%
-- BHT Quality Score: 1.1097420993016818
+- BHT Word Count: 73
+- BHT Commentary Usage: 39.29%
+- BHT Quality Score: 1.310466033156189
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'affectionately', 'among', 'and', 'as', 'away', 'chaos', 'come', 'concisely', 'crowd', 'daughter', 'desperate', 'desperately', 'despite', 'determined', 'diminutive', 'dying', 'eager', 'events', 'father', 'feeling', 'followed', 'he', 'healing', 'her', 'his', 'jairus', 'jesus', 'lay', 'life', 'man', 'mark', 'named', 'narrates', 'news', 'of', 'offer', 'on', 'only', 'out', 'pressed', 'reach', 'referred', 's', 'slipping', 'sought', 'suffocating', 'the', 'them', 'this', 'throngs', 'through', 'to', 'touch', 'tragic', 'unaware', 'unfold', 'was', 'weight', 'what', 'whose', 'witness', 'would']
-- ChatGPT injected words (significant words only) (43):
-	['affectionately', 'away', 'chaos', 'come', 'concisely', 'crowd', 'daughter', 'desperate', 'desperately', 'despite', 'determined', 'diminutive', 'dying', 'eager', 'events', 'father', 'feeling', 'followed', 'healing', 'jairus', 'jesus', 'lay', 'life', 'man', 'mark', 'named', 'narrates', 'news', 'offer', 'pressed', 'reach', 'referred', 's', 'slipping', 'sought', 'suffocating', 'throngs', 'touch', 'tragic', 'unaware', 'unfold', 'weight', 'witness']
+- ChatGPT injected words (56):
+	['a', 'almost', 'at', 'atmosphere', 'beloved', 'challenging', 'chaotic', 'child', 'concise', 'creates', 'crowd', 'daughter', 'describes', 'dying', 'follows', 'for', 'from', 'hemorrhage', 'him', 'his', 'house', 'immense', 'in', 'is', 'it', 'jairus', 'jesus', 'luke', 'making', 'narration', 'navigate', 'of', 'on', 'only', 'people', 'presses', 's', 'suffering', 'suffocating', 'surrounding', 'that', 'the', 'throng', 'through', 'to', 'twelve', 'unfold', 'upon', 'verge', 'weight', 'what', 'will', 'with', 'witness', 'woman', 'years']
+- ChatGPT injected words (significant words only) (34):
+	['atmosphere', 'beloved', 'challenging', 'chaotic', 'child', 'concise', 'creates', 'crowd', 'daughter', 'describes', 'dying', 'follows', 'hemorrhage', 'house', 'immense', 'jairus', 'jesus', 'luke', 'making', 'narration', 'navigate', 'people', 'presses', 's', 'suffering', 'suffocating', 'surrounding', 'throng', 'unfold', 'verge', 'weight', 'witness', 'woman', 'years']
 
 ### Logs
-- Attempt 1 BHT: A desperate father sought out Jesus, unaware of the tragic news to come. Throngs of people, curious to witness what would unfold at Jairus's house, pressed upon Jesus as he made his way forward. Among those in need was a man who spoke of his only daughter, a phrase that conveys both endearment and a sense of great loss. This young girl lay dying, her life hanging by a thread, and her father's heart surely weighed heavy with anguish. In the midst of this chaos, Jesus pushed on, determined to offer his healing touch.
-- 🔄 Luke 8:42 (attempt 1, 96 words, 36.0% quotes quality score: 1.0914786108252814, V2 normalized quality score: 27.64, commentator tiers 1-3: 45.72%, 0.0%, 54.28%) 
+- Attempt 1 BHT: A woman who had been suffering for twelve years with a hemorrhage approached Jesus in a crowd as he was on his way to heal Jairus' daughter. Unaware of the urgency of Jairus' request, Luke narrates briefly, mentioning the crowd's curiosity about what would happen at Jairus' house. The woman, described affectionately as Jairus did in Mark's account, pressed upon Jesus, stifling him with the weight of the multitude. Jairus' daughter, an only child, was near death, and the throng of people made it difficult for Jesus to walk. Though not explicitly stated in Luke's account, Matthew's Gospel tells us that the girl had already passed away.
+- 🔄 Luke 8:42 (attempt 1, 111 words, 42.31% quotes quality score: 1.3279085982611885, V2 normalized quality score: 35.5, commentator tiers 1-3: 52.48%, 0.0%, 47.52%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: A man named Jairus, referred to affectionately as Mark's diminutive, sought out Jesus desperately. Unaware of the tragic news to come, he narrates events concisely. The crowd followed Jesus, eager to witness what would unfold. Among them was a father whose only daughter lay dying, her life slipping away. Jesus pressed on through the throngs, feeling the weight of the suffocating crowd. Despite the chaos, Jesus was determined to reach out and offer his healing touch to this desperate father and his dying daughter.
-- 🔄 Luke 8:42 (attempt 2, 85 words, 31.75% quotes quality score: 1.1097420993016818, V2 normalized quality score: 28.24, commentator tiers 1-3: 46.14%, 0.0%, 53.86%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Unaware of the subsequent message to Jairus, Luke narrates concisely as a crowd follows Jesus to see what would happen at Jairus's house. In the midst of this throng, a woman with a twelve-year hemorrhage presses upon Jesus, stifling him as the people crowd around. Meanwhile, Jairus's only daughter lies near death, as mentioned in Matthew's Gospel. The close proximity of the people makes it difficult for Jesus to move, creating a challenging situation.
+- 🔄 Luke 8:42 (attempt 2, 78 words, 37.5% quotes quality score: 1.2782251561041047, V2 normalized quality score: 33.84, commentator tiers 1-3: 48.87%, 0.0%, 51.13%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Luke, in his concise narration, describes a crowd that follows Jesus to witness what will unfold at Jairus's house. A woman, suffering from a hemorrhage for twelve years, presses upon Jesus, almost suffocating him with the weight of the people. Jairus's beloved daughter, his only child, is on the verge of dying. The immense throng surrounding Jesus creates a chaotic atmosphere, making it challenging for him to navigate through the crowd.
+- 🔄 Luke 8:42 (attempt 3, 73 words, 39.29% quotes quality score: 1.310466033156189, V2 normalized quality score: 34.92, commentator tiers 1-3: 54.7%, 0.0%, 45.3%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: Unaware of the subsequent message to Jairus, Luke briefly narrates the scene as a crowd follows Jesus, curious to see what would happen at Jairus's house. Amongst the multitude, a woman with a twelve-year hemorrhage presses upon Jesus, stifling him with the weight of the people. Meanwhile, Jairus's only daughter lies near death. The close proximity of the people makes it difficult for Jesus to move, creating a congested and challenging situation.
+- 🔄 Luke 8:42 (attempt 4, 75 words, 36.36% quotes quality score: 1.1380126087071898, V2 normalized quality score: 29.18, commentator tiers 1-3: 43.75%, 0.0%, 56.25%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: Unaware of the subsequent message to Jairus, Luke briefly narrates the scene as a crowd follows Jesus to see what will happen at Jairus's house. Pressing upon Jesus, the woman suffering from a hemorrhage for twelve years stifles him with the weight of the throng. Meanwhile, Jairus's only daughter is near death, adding urgency to the situation. The gathering of people makes it difficult for Jesus to navigate through the crowd, presenting a challenge in reaching Jairus's house in time.
+- 🔄 Luke 8:42 (attempt 5, 83 words, 36.21% quotes quality score: 1.2611722295863166, V2 normalized quality score: 33.28, commentator tiers 1-3: 54.68%, 0.0%, 45.32%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: A grieving father, identified as Jairus, urgently approached Jesus. Unaware of what would later transpire, Jairus briefly recounted his story. The crowds surrounding Jesus were eager to witness the outcome at Jairus's house. Among them, a man shared the heartbreaking news of his only daughter teetering on the edge of death. The pressing and stifling crowd made it difficult for Jesus to move forward. However, undeterred, Jesus persevered, intent on bringing healing and hope to this desperate situation.
-- 🔄 Luke 8:42 (attempt 3, 79 words, 33.87% quotes quality score: 0.9640807594578883, V2 normalized quality score: 23.4, commentator tiers 1-3: 43.16%, 0.0%, 56.84%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Throngs of people gathered around Jesus as he walked, pressing upon him and stifling his movement. In this chaotic scene, a distraught father named Jairus approached Jesus urgently, unaware of the subsequent events. Jairus, affectionately referred to in Mark's account, had a dying daughter who hovered on the brink of death. The crowd in tow followed Jesus, eager to witness the unfolding of events at Jairus's house. Despite the suffocating environment, Jesus pressed through, determined to bring healing to this desperate situation.
-- 🔄 Luke 8:42 (attempt 4, 84 words, 28.57% quotes quality score: 1.094813276549675, V2 normalized quality score: 27.75, commentator tiers 1-3: 44.57%, 0.0%, 55.43%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In the midst of a dense crowd, Jairus, an anguished father, sought out Jesus urgently. Unaware of the message to come, he concisely narrated his plea. The masses surrounding Jesus were filled with curiosity and followed closely to see what would unfold at Jairus's house. Within this chaotic scene, Jairus shared the devastating news of his only daughter who lay dying. Despite the overwhelming press of the crowd, Jesus remained steadfast, determined to bring healing to this desperate situation.
-- 🔄 Luke 8:42 (attempt 5, 80 words, 32.26% quotes quality score: 1.0763502990999627, V2 normalized quality score: 27.13, commentator tiers 1-3: 45.51%, 0.0%, 54.49%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 8:42 bht prompt v0.8 (85 words, 31.75% quotes)
-- quality score: 1.1097420993016818, V2 normalized quality score: 28.24, commentator tiers 1-3: 46.14%, 0.0%, 53.86%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 8:42 bht prompt v0.8 (73 words, 39.29% quotes)
+- quality score: 1.310466033156189, V2 normalized quality score: 34.92, commentator tiers 1-3: 54.7%, 0.0%, 45.3%)

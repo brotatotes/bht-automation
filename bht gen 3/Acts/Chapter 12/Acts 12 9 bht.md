@@ -1,7 +1,7 @@
 # Acts 12:9 Commentary Help Text
 
 ## BHT:
-Unaware of the reality, Peter followed the angel's instructions, not fully comprehending that he was being freed from prison. He thought it was simply a vision, as if his mind was playing tricks on him, rather than a tangible experience. Oblivious to the true nature of his deliverance, Peter willingly obeyed the angel's command, without questioning or reasoning, and emerged from the prison cell to follow wherever the angel led him. The astonishing nature of the events made Peter unsure if it was all real or if he was caught in a dream or trance.
+Peter, not realizing that his deliverance was actually happening, followed the angel's instructions without hesitation. He obeyed willingly and without questioning, content with the commandment of the angel alone. Even though he thought it might be a vision, he acted in faith, not knowing if what was happening was true or not. The whole experience was so incredible and astonishing to him that he couldn't be sure if it was real or just a dream-like vision. But regardless, he followed the angel and went out, stepping into the miraculous deliverance that awaited him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -20,53 +20,52 @@ Unaware of the reality, Peter followed the angel's instructions, not fully compr
 
 ### John Calvin:
 1. "True is taken in this place for that which is done naturally and after the manner of men."
-2. "Furthermore, though he think that it is a vision, yet doth he willingly obey; whereby his obedience is proved."
+2. "Though he think that it is a vision, yet doth he willingly obey; whereby his obedience is proved."
 3. "Being content with the commandment of the angel alone, he doth not inquire nor reason what he must do, but doth that which he is commanded to do."
 
 ### Archibald T. Robertson:
-1. "Wist not (ουκ ηιδε). Past perfect of οιδα used as imperfect, did not know." 
-2. "Followed (ηκολουθε). Imperfect active, kept on following as the angel had directed (verse Acts 12:8)." 
+1. "Wist not (ουκ ηιδε). Past perfect of οιδα used as imperfect, did not know."
+2. "Followed (ηκολουθε). Imperfect active, kept on following as the angel had directed (verse Acts 12:8)."
 3. "Peter will soon know whether he is still in the cell or not as we find out that a dream is only a dream when we wake up."
 
 ### John Gill:
-1. "He came out from between the two soldiers, and out of that apartment in the prison, in which he was, and followed the angel where he led him."
-2. "He did not know whether this was matter of fact, or whether it was, not represented to him in a visionary way, as what could be, or would be done."
-3. "Imagined he was in a dream or a trance, and only saw these things in a vision, and that they were not really done, the whole was so amazing and astonishing."
+1. "And he went out and followed him...and wist not that it was true that was done by the angel." 
+2. "Not that he thought the angel was a mere apparition...but he did not know whether this was matter of fact." 
+3. "But thought he saw a vision...the whole was so amazing and astonishing."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:29:55
+- Timestamp: 12-25-2023 20:34:06
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 39.06%
-- BHT Quality Score: 1.496906408626633
+- BHT Word Count: 96
+- BHT Commentary Usage: 45.31%
+- BHT Quality Score: 1.521120861822573
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (64):
-	['a', 'all', 'and', 'angel', 'as', 'astonishing', 'being', 'caught', 'cell', 'command', 'comprehending', 'deliverance', 'dream', 'emerged', 'events', 'experience', 'follow', 'followed', 'freed', 'from', 'fully', 'he', 'him', 'his', 'if', 'in', 'instructions', 'it', 'led', 'made', 'mind', 'nature', 'not', 'obeyed', 'oblivious', 'of', 'on', 'or', 'peter', 'playing', 'prison', 'questioning', 'rather', 'real', 'reality', 'reasoning', 's', 'simply', 'tangible', 'than', 'that', 'the', 'thought', 'to', 'trance', 'tricks', 'true', 'unaware', 'unsure', 'vision', 'was', 'wherever', 'willingly', 'without']
-- ChatGPT injected words (significant words only) (39):
-	['angel', 'astonishing', 'caught', 'cell', 'command', 'comprehending', 'deliverance', 'dream', 'emerged', 'events', 'experience', 'follow', 'followed', 'freed', 'fully', 'instructions', 'led', 'mind', 'nature', 'obeyed', 'oblivious', 'peter', 'playing', 'prison', 'questioning', 'real', 'reality', 'reasoning', 's', 'simply', 'tangible', 'thought', 'trance', 'tricks', 'true', 'unaware', 'unsure', 'vision', 'willingly']
+	['a', 'acted', 'actually', 'alone', 'and', 'angel', 'astonishing', 'awaited', 'be', 'but', 'commandment', 'content', 'couldn', 'deliverance', 'dream', 'even', 'experience', 'faith', 'followed', 'happening', 'he', 'hesitation', 'him', 'his', 'if', 'in', 'incredible', 'instructions', 'into', 'it', 'just', 'knowing', 'like', 'might', 'miraculous', 'not', 'obeyed', 'of', 'or', 'out', 'peter', 'questioning', 'real', 'realizing', 'regardless', 's', 'so', 'stepping', 'sure', 't', 'that', 'the', 'though', 'thought', 'to', 'true', 'vision', 'was', 'went', 'what', 'whole', 'willingly', 'with', 'without']
+- ChatGPT injected words (significant words only) (35):
+	['acted', 'actually', 'angel', 'astonishing', 'awaited', 'commandment', 'content', 'couldn', 'deliverance', 'dream', 'experience', 'faith', 'followed', 'happening', 'hesitation', 'incredible', 'instructions', 'knowing', 'like', 'miraculous', 'obeyed', 'peter', 'questioning', 'real', 'realizing', 'regardless', 's', 'stepping', 'sure', 't', 'thought', 'true', 'vision', 'went', 'willingly']
 
 ### Logs
-- Attempt 1 BHT: Unaware of the reality of his situation, Peter followed the angel's instructions, not fully comprehending that he was being freed from prison. He thought it was simply a vision, as if his mind was playing tricks on him, rather than a tangible experience. Oblivious to the true nature of his deliverance, Peter willingly obeyed the angel's command, without questioning or reasoning, and emerged from the prison cell to follow wherever the angel led him. The astonishing nature of the events made Peter unsure if it was all real or if he was caught in a dream or trance.
-- 🔄 Acts 12:9 (attempt 1, 100 words, 38.46% quotes quality score: 1.4878856873353168, V2 normalized quality score: 40.81, commentator tiers 1-3: 18.93%, 34.29%, 46.79%) 
+- Attempt 1 BHT: Peter, not realizing that his deliverance was actually happening, followed the angel's instructions without hesitation. He obeyed willingly and without questioning, content with the commandment of the angel alone. Even though he thought it might be a vision, he acted in faith, not knowing if what was happening was true or not. The whole experience was so incredible and astonishing to him that he couldn't be sure if it was real or just a dream-like vision. But regardless, he followed the angel and went out, stepping into the miraculous deliverance that awaited him.
+- 🔄 Acts 12:9 (attempt 1, 96 words, 45.31% quotes quality score: 1.521120861822573, V2 normalized quality score: 41.92, commentator tiers 1-3: 18.32%, 32.18%, 49.5%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Unaware of the reality, Peter obediently followed the angel's instructions, thinking it was a mere vision. He emerged from the prison cell, uncertain if it was all real or just an astonishing dream. Peter's willingness to obey without questioning demonstrated his trust in the commandment of the angel. The events unfolding before him were beyond his expectations, leading him to wonder if he was caught in a dream or trance. Nevertheless, Peter followed the angel, unaware of the true nature of his deliverance.
-- 🔄 Acts 12:9 (attempt 2, 85 words, 38.18% quotes quality score: 1.4128124863116571, V2 normalized quality score: 38.32, commentator tiers 1-3: 23.52%, 29.18%, 47.3%) 
+- Attempt 2 BHT: Peter, not realizing that it was truly happening, obediently followed the angel's instructions without questioning, content with the commandment he received. Even though he believed it might be a vision, he willingly obeyed, uncertain if it was reality or not. The whole experience was so astonishing to him that he couldn't be certain if it was real or just a dream-like vision. However, he trusted and followed, stepping into the extraordinary deliverance waiting for him.
+- 🔄 Acts 12:9 (attempt 2, 78 words, 42.86% quotes quality score: 1.5020535432407494, V2 normalized quality score: 41.29, commentator tiers 1-3: 16.83%, 36.75%, 46.43%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Peter, unaware of the reality of his deliverance, obediently followed the angel's instructions without hesitation. He willingly obeyed, not knowing if it was a vision or a real event. The experience was so remarkable and extraordinary to him that he couldn't be certain whether it was a factual occurrence or merely an astonishing vision. Nevertheless, he trusted and followed, embracing the remarkable deliverance that awaited him.
+- 🔄 Acts 12:9 (attempt 3, 68 words, 40.82% quotes quality score: 1.373142906331664, V2 normalized quality score: 37.0, commentator tiers 1-3: 14.72%, 37.96%, 47.33%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Peter, unaware of the truth of his deliverance, followed the angel's instructions without realization. He willingly obeyed, unsure if it was reality or a vision. The experience was so remarkable and astonishing to him that he couldn't discern whether it was a factual event or simply an extraordinary vision. Nevertheless, he trusted and followed, embracing the remarkable deliverance that awaited him.
+- 🔄 Acts 12:9 (attempt 4, 63 words, 40.0% quotes quality score: 1.38792034546423, V2 normalized quality score: 37.49, commentator tiers 1-3: 16.68%, 36.58%, 46.73%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Peter, not knowing if it was true or just a vision, obediently followed the angel's instructions, willingly embracing the commandment given to him. Uncertain of the reality of his deliverance, he stepped out, unaware of the miraculous event happening before him. The whole experience was so astonishing and amazing that he couldn't be sure if it was a factual occurrence or simply an extraordinary vision. Nevertheless, he trusted and followed, fully surrendering to the remarkable deliverance that lay ahead.
+- 🔄 Acts 12:9 (attempt 5, 81 words, 37.29% quotes quality score: 1.3423214022943528, V2 normalized quality score: 35.98, commentator tiers 1-3: 15.31%, 36.11%, 48.58%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Unaware of the reality, Peter obediently followed the angel's instructions, thinking it was a mere vision. The astonishing nature of the events made him uncertain if it was all real, or if he was caught in a dream or trance. Peter's willingness to obey without questioning demonstrated his trust in the commandment of the angel. Uncertain of the true nature of his deliverance, Peter emerged from the prison cell, following wherever the angel led him.
-- 🔄 Acts 12:9 (attempt 3, 77 words, 34.69% quotes quality score: 1.3879314098231266, V2 normalized quality score: 37.49, commentator tiers 1-3: 24.29%, 27.26%, 48.45%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Unaware of the reality, Peter obediently followed the angel's instructions, thinking it was a mere vision. The astonishing nature of the events made him uncertain if it was all real, or if he was caught in a dream or trance. Peter's willingness to obey without questioning demonstrated his trust in the commandment of the angel. Uncertain of the true nature of his deliverance, Peter emerged from the prison cell, following wherever the angel led him.
-- 🔄 Acts 12:9 (attempt 4, 77 words, 34.69% quotes quality score: 1.3879314098231266, V2 normalized quality score: 37.49, commentator tiers 1-3: 24.29%, 27.26%, 48.45%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Unaware of the reality, Peter followed the angel's instructions, not fully comprehending that he was being freed from prison. He thought it was simply a vision, as if his mind was playing tricks on him, rather than a tangible experience. Oblivious to the true nature of his deliverance, Peter willingly obeyed the angel's command, without questioning or reasoning, and emerged from the prison cell to follow wherever the angel led him. The astonishing nature of the events made Peter unsure if it was all real or if he was caught in a dream or trance.
-- 🔄 Acts 12:9 (attempt 5, 97 words, 39.06% quotes quality score: 1.496906408626633, V2 normalized quality score: 41.11, commentator tiers 1-3: 19.61%, 33.49%, 46.91%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 12:9 bht prompt v0.8 (97 words, 39.06% quotes)
-- quality score: 1.496906408626633, V2 normalized quality score: 41.11, commentator tiers 1-3: 19.61%, 33.49%, 46.91%)
+- ✅ Acts 12:9 bht prompt v0.8 (96 words, 45.31% quotes)
+- quality score: 1.521120861822573, V2 normalized quality score: 41.92, commentator tiers 1-3: 18.32%, 32.18%, 49.5%)

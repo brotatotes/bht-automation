@@ -1,13 +1,13 @@
 # Matthew 20:6 Commentary Help Text
 
 ## BHT:
-The parable emphasizes that God's grace is available to all, even those who come late and have remained idle. It illustrates the different periods of time and ages of the world, highlighting that God's invitation is not limited by time or circumstance. Despite the lateness of the hour, the day still offers room for those who respond to God's call. It's a reminder that God's generosity extends to everyone, regardless of when they choose to come to Him.
+Laborers in this story were hired at various hours, including the eleventh hour. However, this timing was uncommon, as it was only one hour before the end of the working day. The question raised was why these individuals had been idle for the entire day. Nevertheless, there was still room for them to be employed. This parable sheds light on the problem of unemployment and highlights the possibility of finding opportunities even in the final moments of the day.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "One hour before the close of the working day; a most unusual hour both for offering and engaging."
+1. "About the eleventh hour—but one hour before the close of the working day; a most unusual hour both for offering and engaging."
 2. "Why stand ye here all the day idle?—Of course they had not been there, or not been disposed to offer themselves at the proper time."
-3. "Yet there was room, they also are engaged, and on similar terms with all the rest."
+3. "Yet there was room."
 
 ### Albert Barnes:
 1. The eleventh hour - About five o’clock in the afternoon, or when there was but one working hour of the day left.
@@ -18,9 +18,9 @@ The parable emphasizes that God's grace is available to all, even those who come
 
 
 ### John Gill:
-1. "These different seasons of the husbandman's going out to hire labourers...may have regard either to the several periods of time, and ages of the world, as before the law, under the law, the times of the Messiah, and the last days." 
-2. "The state and condition of God's elect, by nature, as it is the same with others, it is the same with them all."
-3. "Why stand ye here all the day idle? for being about the eleventh hour, the day was far spent, it was almost gone."
+1. "These different seasons of the husbandman's going out to hire laborers... may have regard either to the several periods of time, and ages of the world... or the various dispensations of the Gospel... or to the several stages of human life." 
+2. "For the state and condition of God's elect, by nature, as it is the same with others, it is the same with them all." 
+3. "Being about the eleventh hour, the day was far spent, it was almost gone, a small portion of it remained, but one hour."
 
 ### John Wesley:
 1. About the eleventh hour — That is, very late; long after the rest were called.
@@ -29,41 +29,39 @@ The parable emphasizes that God's grace is available to all, even those who come
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:50:09
+- Timestamp: 12-25-2023 20:31:41
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 41.82%
-- BHT Quality Score: 1.2602162274576365
+- BHT Word Count: 79
+- BHT Commentary Usage: 48.28%
+- BHT Quality Score: 1.5927284590451825
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (55):
-	['a', 'ages', 'all', 'and', 'available', 'by', 'call', 'choose', 'circumstance', 'come', 'day', 'despite', 'different', 'emphasizes', 'even', 'everyone', 'extends', 'for', 'generosity', 'god', 'grace', 'have', 'highlighting', 'him', 'hour', 'idle', 'illustrates', 'invitation', 'is', 'it', 'late', 'lateness', 'limited', 'not', 'of', 'offers', 'or', 'parable', 'periods', 'regardless', 'remained', 'reminder', 'respond', 'room', 's', 'still', 'that', 'the', 'they', 'those', 'time', 'to', 'when', 'who', 'world']
-- ChatGPT injected words (significant words only) (32):
-	['ages', 'available', 'choose', 'circumstance', 'come', 'day', 'despite', 'different', 'emphasizes', 'extends', 'generosity', 'god', 'grace', 'highlighting', 'hour', 'idle', 'illustrates', 'invitation', 'late', 'lateness', 'limited', 'offers', 'parable', 'periods', 'regardless', 'remained', 'reminder', 'respond', 'room', 's', 'time', 'world']
+- ChatGPT injected words (58):
+	['and', 'as', 'at', 'be', 'been', 'before', 'day', 'eleventh', 'employed', 'end', 'entire', 'even', 'final', 'finding', 'for', 'had', 'highlights', 'hired', 'hour', 'hours', 'however', 'idle', 'in', 'including', 'individuals', 'it', 'laborers', 'light', 'moments', 'nevertheless', 'of', 'on', 'one', 'only', 'opportunities', 'parable', 'possibility', 'problem', 'question', 'raised', 'room', 'sheds', 'still', 'story', 'the', 'them', 'there', 'these', 'this', 'timing', 'to', 'uncommon', 'unemployment', 'various', 'was', 'were', 'why', 'working']
+- ChatGPT injected words (significant words only) (30):
+	['day', 'eleventh', 'employed', 'end', 'entire', 'final', 'finding', 'highlights', 'hired', 'hour', 'hours', 'idle', 'including', 'individuals', 'laborers', 'light', 'moments', 'opportunities', 'parable', 'possibility', 'problem', 'question', 'raised', 'room', 'sheds', 'story', 'timing', 'uncommon', 'unemployment', 'working']
 
 ### Logs
-- Attempt 1 BHT: The parable in this verse teaches us about the generosity of God's grace and his willingness to include all who come to him, regardless of when they choose to do so. It shows that even those who come late in the day and have been idle all day can still find room in God's kingdom. This concept can apply to different periods of time and ages of the world, as well as to the state and condition of God's elect. Ultimately, God's invitation is open to all who respond, no matter the timing.
-- 🔄 Matthew 20:6 (attempt 1, 97 words, 44.44% quotes quality score: 1.1201453982163423, V2 normalized quality score: 28.59, commentator tiers 1-3: 36.62%, 25.87%, 37.51%) 
+- Attempt 1 BHT: The parable in this verse tells the story of laborers being hired at different hours of the day, including an eleventh hour hiring. Commentators note that this is unusual, as it is one hour before the end of the working day. Those idle for the day were asked why they had not offered themselves earlier. However, despite the lateness, there was still room for them. This parable speaks to the problem of the unemployed and highlights the availability of opportunity even in the final moments of the day.
+- 🔄 Matthew 20:6 (attempt 1, 88 words, 46.77% quotes quality score: 1.5781984009402343, V2 normalized quality score: 43.82, commentator tiers 1-3: 34.74%, 39.15%, 26.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The parable emphasizes that God's grace is available to all, even those who come late and have remained idle. It illustrates the different periods of time and ages of the world, highlighting that God's invitation is not limited by time or circumstance. Despite the lateness of the hour, the day still offers room for those who respond to God's call. It's a reminder that God's generosity extends to everyone, regardless of when they choose to come to Him.
-- 🔄 Matthew 20:6 (attempt 2, 83 words, 41.82% quotes quality score: 1.2602162274576365, V2 normalized quality score: 33.25, commentator tiers 1-3: 33.45%, 33.24%, 33.31%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The parable in this passage challenges the notion of fairness by highlighting the generosity of God's grace. It invites us to consider the different seasons of the husbandman's labor, symbolizing the various periods of time in the world. The parable also speaks to the state and condition of God's elect, emphasizing that all are invited to partake in God's kingdom, regardless of when they respond. It serves as a reminder that God's invitation is open to everyone, no matter the timing or circumstances.
-- 🔄 Matthew 20:6 (attempt 3, 88 words, 37.29% quotes quality score: 0.8608370892485401, V2 normalized quality score: 19.97, commentator tiers 1-3: 28.15%, 34.39%, 37.46%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: In this passage, laborers are hired at different hours of the day, even at the eleventh hour when there was only one working hour left. The parable emphasizes the unusualness of this timing and questions why they were idle for so long. Despite the lateness, there was still room for them to be hired. This parable reflects on the issue of unemployment and highlights the opportunity that can still arise even in the final moments of the day.
+- 🔄 Matthew 20:6 (attempt 2, 78 words, 47.17% quotes quality score: 1.6038471781272108, V2 normalized quality score: 44.67, commentator tiers 1-3: 34.46%, 41.82%, 23.72%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: The parable teaches us that God's grace is not limited by time or circumstance. It challenges us to reconsider our understanding of fairness and emphasizes the inclusiveness of God's kingdom. Despite the lateness of the hour, there is still room for all who respond to God's call. The parable also highlights the different periods of time and ages of the world, reminding us that God's invitation extends to everyone, regardless of when they choose to come to Him.
-- 🔄 Matthew 20:6 (attempt 4, 82 words, 42.59% quotes quality score: 0.9758891914049777, V2 normalized quality score: 23.79, commentator tiers 1-3: 29.96%, 36.2%, 33.84%) 
+- Attempt 3 BHT: Laborers in this story were hired at various hours, including the eleventh hour. However, this timing was uncommon, as it was only one hour before the end of the working day. The question raised was why these individuals had been idle for the entire day. Nevertheless, there was still room for them to be employed. This parable sheds light on the problem of unemployment and highlights the possibility of finding opportunities even in the final moments of the day.
+- 🔄 Matthew 20:6 (attempt 3, 79 words, 48.28% quotes quality score: 1.5927284590451825, V2 normalized quality score: 44.3, commentator tiers 1-3: 33.26%, 40.07%, 26.67%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: In this story, laborers were hired at different times, with the eleventh hour being particularly noteworthy. It was described as an unusual hour to offer and engage in work. The question was raised as to why these individuals had been idle for the entire day, indicating the problem of unemployment. However, despite their lateness, there was still room for them to be included. This parable highlights the availability of opportunities, even in the final moments of the day.
+- 🔄 Matthew 20:6 (attempt 4, 78 words, 44.07% quotes quality score: 1.4509407954301838, V2 normalized quality score: 39.59, commentator tiers 1-3: 35.89%, 40.01%, 24.1%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The hiring of laborers at various times, including the eleventh hour, is the subject of this story. The eleventh hour is described as an unusual hour to offer and engage in work. The question is posed as to why these individuals had been idle the entire day. Yet, despite their lateness, there was still room for them to be included. This parable highlights the issue of unemployment and emphasizes the availability of opportunities, even in the final moments of the day.
+- 🔄 Matthew 20:6 (attempt 5, 81 words, 42.86% quotes quality score: 1.5241490267265796, V2 normalized quality score: 42.02, commentator tiers 1-3: 34.31%, 40.45%, 25.24%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: This parable reminds us of God's graciousness and inclusivity. It challenges the idea of fairness by showing that God's invitation is open to all, regardless of when they respond. The different seasons of the husbandman's labor represent the various periods of time in the world, illustrating that God's grace extends throughout history. It emphasizes that even those who come late or have been idle can still find a place in God's kingdom. Ultimately, this parable teaches us about the limitless nature of God's love and mercy.
-- 🔄 Matthew 20:6 (attempt 5, 92 words, 40.0% quotes quality score: 0.8152685858764446, V2 normalized quality score: 18.45, commentator tiers 1-3: 37.19%, 18.34%, 44.47%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 20:6 bht prompt v0.8 (83 words, 41.82% quotes)
-- quality score: 1.2602162274576365, V2 normalized quality score: 33.25, commentator tiers 1-3: 33.45%, 33.24%, 33.31%)
+- ✅ Matthew 20:6 bht prompt v0.8 (79 words, 48.28% quotes)
+- quality score: 1.5927284590451825, V2 normalized quality score: 44.3, commentator tiers 1-3: 33.26%, 40.07%, 26.67%)

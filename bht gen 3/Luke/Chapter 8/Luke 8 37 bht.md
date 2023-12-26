@@ -1,7 +1,7 @@
 # Luke 8:37 Commentary Help Text
 
 ## BHT:
-The people were taken with fear, the same word used to describe the fever and the fear experienced by Jesus and Paul. They chose to keep their fear instead of accepting Christ, valuing their swine more than Him and their countrymen's well-being. Due to their ingratitude, Jesus did not stay long in that place, his presence being rejected. This rejection is evident in other accounts as well.
+In this account, the people were gripped by fear akin to a fever, using the same word as another instance referring to Jesus and Paul. They seemed to prioritize the presence of demons and their physical well-being over Jesus himself, leading Jesus to move on swiftly due to their ingratitude and preference for swine.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -9,9 +9,8 @@ The people were taken with fear, the same word used to describe the fever and th
 
 
 ### Archibald T. Robertson:
-1. "Were holden with great fear." 
-2. "Imperfect passive of συνεχω with the instrumental case of φοβος." 
-3. "See a similar use of this vigorous verb in Luke 12:50 of Jesus and in Philippians 1:23 of Paul."
+1. "Imperfect passive of συνεχω with the instrumental case of φοβος." 
+2. "See a similar use of this vigorous verb in Luke 12:50 of Jesus and in Philippians 1:23 of Paul."
 
 ### John Gill:
 1. "Choosing rather that the devils should be retained among them, than Christ continue with them."
@@ -25,40 +24,38 @@ The people were taken with fear, the same word used to describe the fever and th
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:45
+- Timestamp: 12-25-2023 20:33:06
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 69
-- BHT Commentary Usage: 50.94%
-- BHT Quality Score: 1.0538118560607357
+- BHT Word Count: 55
+- BHT Commentary Usage: 54.55%
+- BHT Quality Score: 1.4714000717279347
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['accepting', 'accounts', 'and', 'as', 'being', 'by', 'chose', 'christ', 'countrymen', 'describe', 'did', 'due', 'evident', 'experienced', 'fear', 'fever', 'him', 'his', 'in', 'ingratitude', 'instead', 'is', 'jesus', 'keep', 'long', 'more', 'not', 'of', 'other', 'paul', 'people', 'place', 'presence', 'rejected', 'rejection', 's', 'same', 'stay', 'swine', 'taken', 'than', 'that', 'the', 'their', 'they', 'this', 'to', 'used', 'valuing', 'well', 'were', 'with', 'word']
-- ChatGPT injected words (significant words only) (26):
-	['accepting', 'accounts', 'chose', 'christ', 'countrymen', 'describe', 'evident', 'experienced', 'fear', 'fever', 'ingratitude', 'instead', 'jesus', 'long', 'paul', 'people', 'place', 'presence', 'rejected', 'rejection', 's', 'stay', 'swine', 'taken', 'valuing', 'word']
+- ChatGPT injected words (44):
+	['a', 'account', 'akin', 'and', 'another', 'as', 'being', 'by', 'demons', 'due', 'fear', 'fever', 'for', 'gripped', 'himself', 'in', 'ingratitude', 'instance', 'jesus', 'leading', 'move', 'of', 'on', 'over', 'paul', 'people', 'physical', 'preference', 'presence', 'prioritize', 'referring', 'same', 'seemed', 'swiftly', 'swine', 'the', 'their', 'they', 'this', 'to', 'using', 'well', 'were', 'word']
+- ChatGPT injected words (significant words only) (20):
+	['account', 'akin', 'demons', 'fear', 'fever', 'gripped', 'ingratitude', 'instance', 'jesus', 'leading', 'paul', 'people', 'physical', 'preference', 'presence', 'prioritize', 'referring', 'swiftly', 'swine', 'word']
 
 ### Logs
-- Attempt 1 BHT: The people in the verse were taken with great fear and were holden by it, just like how Jesus had taken hold of Peter's mother-in-law's fever in Luke 4:38. The verb used here is the same one used to describe Jesus and Paul being taken by fear in Luke 12:50 and Philippians 1:23. It seems that these people were not willing to let go of their fear and choose Christ, as they preferred to keep the demons among them rather than have Jesus continue with them. It's notable that Jesus didn't stay long in this place, perhaps because of the people's refusal to accept him, as seen in Matthew 9:1 and Mark 5:18.
-- 🔄 Luke 8:37 (attempt 1, 115 words, 49.32% quotes quality score: 1.5342614577433493, V2 normalized quality score: 42.36, commentator tiers 1-3: 49.03%, 0.0%, 50.97%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+- Attempt 1 BHT: The people in this verse were taken by fear, using the same word as a fever. The commentaries note that this verb is used to describe Jesus in Luke 12:50 and Paul in Philippians 1:23. It seems that the people in this verse were afraid and possibly desired that the demons would stay with them rather than Jesus. They prioritized their swine and bodily health over Christ, causing him to not stay for long in that place.
+- 🔄 Luke 8:37 (attempt 1, 75 words, 50.0% quotes quality score: 1.4958001818491842, V2 normalized quality score: 41.08, commentator tiers 1-3: 60.1%, 0.0%, 39.9%) 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The people in the passage were taken with great fear, a similar use of this verb referring to Jesus and Paul in other contexts. They chose to hold on to their fear, refusing to accept Christ and preferring the presence of demons instead. As a result, Jesus did not stay long in that place, having just landed and not straying far from the seashore. This unwillingness of the people to embrace Jesus is evident in other biblical accounts as well.
-- 🔄 Luke 8:37 (attempt 2, 80 words, 37.5% quotes quality score: 1.0569910065213897, V2 normalized quality score: 26.49, commentator tiers 1-3: 39.1%, 0.0%, 60.9%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The people were taken with fear, the same word used to describe the fever and the fear experienced by Jesus and Paul. They chose to keep their fear instead of accepting Christ, valuing their swine more than Him and their countrymen's well-being. Due to their ingratitude, Jesus did not stay long in that place, his presence being rejected. This rejection is evident in other accounts as well.
-- 🔄 Luke 8:37 (attempt 3, 69 words, 50.94% quotes quality score: 1.0538118560607357, V2 normalized quality score: 26.38, commentator tiers 1-3: 51.06%, 0.0%, 48.94%)
-- Attempt 4 BHT: The people in Luke 8:37 were taken by great fear and were paralyzed by it. The word used here is the same word used to describe a fever earlier in Luke. They were so terrified that they chose to keep the demons with them rather than have Christ stay. This shows that they had no desire to remain with Jesus, and preferred their own possessions over his presence. They didn't appreciate Jesus' power and weren't grateful for his healing. Jesus had only been in this place for a short time and hadn't gone far from the seashore. (Matthew 9:1; Mark 5:18)
-- 🔄 Luke 8:37 (attempt 4, 101 words, 45.71% quotes quality score: 1.2675274878308302, V2 normalized quality score: 33.49, commentator tiers 1-3: 41.82%, 0.0%, 58.18%) 
+- Attempt 2 BHT: The people in this account were gripped by fear that was comparable to a fever. It is interesting to note that this verb is used to describe Jesus in another passage and Paul in another letter, highlighting the intensity of their emotional state. These individuals seemed to prioritize the presence of the demons over Jesus, exhibiting their preference for swine and physical well-being. As a result, Jesus did not stay in that place for long, as their lack of gratitude and appreciation led him to move on quickly.
+- 🔄 Luke 8:37 (attempt 2, 89 words, 44.44% quotes quality score: 1.0876390535525196, V2 normalized quality score: 27.51, commentator tiers 1-3: 53.57%, 0.0%, 46.43%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: The people in this passage were seized by great fear, paralyzed by it. They didn't appreciate Jesus' power and preferred their own possessions over his presence. They chose to keep the demons with them instead of having Christ stay. This shows their ingratitude and lack of desire to remain with Jesus. He had only been there briefly, not going far from the seashore, but they were more concerned with their swine than with his healing power.
-- 🔄 Luke 8:37 (attempt 5, 77 words, 45.76% quotes quality score: 1.0030960380959506, V2 normalized quality score: 24.7, commentator tiers 1-3: 40.05%, 0.0%, 59.95%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- ✅ Luke 8:37 bht prompt v0.8 (69 words, 50.94% quotes)
-- quality score: 1.0538118560607357, V2 normalized quality score: 26.38, commentator tiers 1-3: 51.06%, 0.0%, 48.94%)
+- Attempt 3 BHT: In this account, the people were gripped by fear akin to a fever, using the same word as another instance referring to Jesus and Paul. They seemed to prioritize the presence of demons and their physical well-being over Jesus himself, leading Jesus to move on swiftly due to their ingratitude and preference for swine.
+- 🔄 Luke 8:37 (attempt 3, 55 words, 54.55% quotes quality score: 1.4714000717279347, V2 normalized quality score: 40.27, commentator tiers 1-3: 62.23%, 0.0%, 37.77%)
+- Attempt 4 BHT: The people in this verse were taken, or συνειχοντο, just as they were with the fever in another passage. This shows a similar use of the word in reference to Jesus and Paul in other situations. The people in this verse chose to keep the devils among them rather than have Christ with them. They did not want Jesus to stay because they valued their swine more than him and did not appreciate his presence. He had only just arrived and had not traveled far from the seashore.
+- 🔄 Luke 8:37 (attempt 4, 88 words, 54.24% quotes quality score: 1.2679463582059953, V2 normalized quality score: 33.5, commentator tiers 1-3: 49.56%, 0.0%, 50.44%) 
+	- BHT WAS OVER 80 WORDS! 
+	- 'PASSAGE' FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: The people in this account experienced being taken, just like when they were afflicted with a fever. Jesus and Paul can be compared to this use of the word. Rather than having Christ stay with them, they preferred to keep the demons. This shows their lack of gratitude and their preference for their swine over Christ. It is important to note that Jesus had just arrived and had not ventured far from the seashore.
+- 🔄 Luke 8:37 (attempt 5, 74 words, 50.0% quotes quality score: 1.0970204281814753, V2 normalized quality score: 27.82, commentator tiers 1-3: 49.48%, 0.0%, 50.52%)
+- ✅ Luke 8:37 bht prompt v0.8 (55 words, 54.55% quotes)
+- quality score: 1.4714000717279347, V2 normalized quality score: 40.27, commentator tiers 1-3: 62.23%, 0.0%, 37.77%)

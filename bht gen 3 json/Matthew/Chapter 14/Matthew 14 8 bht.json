@@ -1,28 +1,29 @@
 {
-    "timestamp": "12-19-2023 23:48:05",
+    "timestamp": "12-25-2023 20:31:53",
     "verseRef": "Matthew 14:8",
     "bestBHT": {
-        "bht": "Salome, driven by her mother Herodias, urgently demanded the head of John the Baptist to be brought to her on a charger. The abruptness of her request spares Salome from complete culpability and shifts the blame solely onto Herodias. By insisting on an immediate response, Salome hoped to prevent any potential reconsideration from Herod. The use of the term charger to describe the dish highlights the cruelty embedded in her demand. Salome's readiness to make such a gruesome request reveals her corruption and draws parallels between her and her mother's lasciviousness, thirst for revenge, and cruelty.",
-        "wordCount": 98,
-        "quoteTokenProportion": 28.57,
-        "qualityScore": 1.164455891337239,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.06,
+        "bht": "Salome, under the influence and instigation of her mother, demanded the head of John the Baptist with a grim and hideous request. By asking for the execution to occur here and on the spot, she ensured her mother's satisfaction and prevented Herod from having time to reconsider. This act of vengeance reveals Salome's determination and her mother's vindictiveness. Their cruel and lascivious nature is evident in their desire for John's head to be served in a large dish, a symbol of their triumph over the prophet who spoke against their sinful union.",
+        "wordCount": 96,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.3631985903821549,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.67,
         "commentatorTierSimilarities": [
-            34.24,
-            20.16,
-            45.6
+            20.01,
+            41.23,
+            38.75
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Being put forward...slightly relieves Salome of the charge of wanton cruelty, and throws it wholly upon Herodias.\" ",
-            "She demanded it on the spot, before Herod should have had time to reflect and relent.\" ",
-            "A charger...a dish."
+            "The correct rendering slightly relieves Salome of the charge of wanton cruelty, and throws it wholly upon Herodias.",
+            "She demanded it on the spot, before Herod should have had time to reflect and relent.",
+            "The Revisers cannot be defended in their retention of this thoroughly obsolete word."
         ],
         "Philip Schaff": [
-            "Instigated rather than instructed.",
-            "A hideous jest, implying an intention to devour it."
+            "Being let on by her mother. Instigated rather than instructed.",
+            "The mother\u2019s purpose had already been formed, and her answer shows great vindictiveness and determination.",
+            "This seems to have been added by Salome herself, \u2018as a hideous jest, implying an intention to devour it\u2019."
         ],
         "Archibald T. Robertson": [
             "It should require a good deal of 'educating' to bring a young girl to make such a grim request\" (Bruce).",
@@ -30,12 +31,13 @@
             "In a charger (\u03b5\u03c0 \u03c0\u03b9\u03bd\u03b1\u03ba). Dish, plate, platter. Why the obsolete 'charger'?"
         ],
         "John Gill": [
-            "She desires his head, and this to be brought to her in a large dish, that her mother might be sure of his death.",
-            "And she desires to have it given 'here', in that very place, at that very time, where, and while the company was together, who were witnesses of the king's promise and oath.",
+            "she desires his head, and this to be brought to her in a large dish, that her mother might be sure of his death; and have an opportunity of insulting that mouth and tongue, that had spoke against her incestuous marriage.",
+            "and she desires to have it given 'here', in that very place, at that very time, where, and while the company was together, who were witnesses of the king's promise and oath.",
             "The mother and daughter seem to be much alike, both for lasciviousness, revenge, and cruelty."
         ],
         "John Wesley": [
-            "Being before instructed by her mother \u2014 Both as to the matter and manner of her petition: She said, Give me here - Fearing if he had time to consider, he would not do it.\" ",
+            "Being before instructed by her mother \u2014 Both as to the matter and manner of her petition.",
+            "Give me here - Fearing if he had time to consider, he would not do it.",
             "John the Baptist's head in a charger - A large dish or bowl."
         ]
     },
@@ -56,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Salome, under the influence of her mother Herodias, demanded the head of John the Baptist to be brought to her immediately. This abrupt and horrifying request leaves Salome somewhat less culpable, as it places the full weight of cruelty on Herodias. The urgency for the request was intentional, aimed at preventing any chance of Herod reflecting on his decision or having a change of heart. The use of the word charger to describe the dish in which John's head was to be presented may be considered obsolete, yet it emphasizes the barbarity of the situation. Salome's readiness to make such a grim request speaks to the extent of her corruption and the parallels between her and her mother in terms of lasciviousness, revenge, and cruelty become evident.",
-            "wordCount": 129,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.0935833427555495,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.71,
+            "bht": "Salome, instigated by her mother, boldly demanded the head of John the Baptist, leaving no room for Herod to reflect or relent. The rendering of the verse slightly shifts the blame from Salome to Herodias, as Salome's request is described as a grim and hideous jest, meant to devour the prophet's head. The request for the execution to take place here and on the spot highlights the vindictiveness and determination of Salome and her mother. This act of vengeance and cruelty reveals the similarity between the mother and daughter, both characterized by lasciviousness and a thirst for revenge.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.313666300863122,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.02,
             "commentatorTierSimilarities": [
-                31.62,
-                17.3,
-                51.09
+                20.84,
+                41.53,
+                37.62
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Salome's request for the head of John the Baptist on a charger was not only instigated by her mother but also designed to ensure his immediate death without Herod having time to reconsider. The dish symbolizes the gruesome nature of the act. Salome's readiness to make such a request reveals her corruption, paralleling her mother's traits of lasciviousness and revenge. The urgency to have the head presented at that very time shows the cruelty and depravity displayed by both mother and daughter.",
-            "wordCount": 85,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 1.1130492554288747,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.35,
+            "bht": "Salome, under the influence and instigation of her mother, demanded the head of John the Baptist with a grim and hideous request. By asking for the execution to occur here and on the spot, she ensured her mother's satisfaction and prevented Herod from having time to reconsider. This act of vengeance reveals Salome's determination and her mother's vindictiveness. Their cruel and lascivious nature is evident in their desire for John's head to be served in a large dish, a symbol of their triumph over the prophet who spoke against their sinful union.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.3631985903821549,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
             "commentatorTierSimilarities": [
-                29.13,
-                17.7,
-                53.17
+                20.01,
+                41.23,
+                38.75
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Salome's demand for the head of John the Baptist on a charger was a horrifying request, instigated by her mother, Herodias. The urgency of her demand, delivered here and now, aimed to prevent any reconsideration from Herod. The use of the word charger to describe the dish highlights the cruelty of the act. Salome's readiness to make such a grim request reveals her corruption and the striking resemblance between her and her mother in terms of lasciviousness, revenge, and cruelty.",
+            "bht": "Salome's demand for John the Baptist's head, made on the spot and before Herod could reflect and relent, reflects both her mother's instigation and her own vindictiveness. The request to have the head served in a large dish demonstrates their desire to witness his death and triumph over his opposition to their incestuous marriage. Salome's audacity and cruelty, fueled by her mother's teachings, illustrate a likeness between the two women in their lasciviousness and thirst for revenge.",
             "wordCount": 82,
-            "quoteTokenProportion": 34.62,
-            "qualityScore": 1.1639057168736648,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.04,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.2767264175309299,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.79,
             "commentatorTierSimilarities": [
-                33.16,
-                18.7,
-                48.14
+                18.55,
+                35.68,
+                45.78
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Salome, influenced by her mother Herodias, demanded the head of John the Baptist to be brought to her immediately. This abrupt and horrifying request leaves Salome less culpable, as it places the cruelty solely on Herodias. The urgency of the request, made here and now, aimed to prevent any reflection or change of heart from Herod. The use of the term charger highlights the barbarity of the situation. Salome's alarming readiness to make such a grim request exposes her corruption, aligning her with her mother's traits of lust, revenge, and cruelty.",
-            "wordCount": 93,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 1.068364399820259,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.87,
+            "bht": "Salome, influenced by her mother's vindictiveness, boldly demanded the head of John the Baptist, leaving no room for Herod to reflect or relent. Her request, made here and on the spot, aimed to ensure the prophet's death was witnessed by all, serving as a triumph over his opposition to her mother's illicit marriage. This act revealed the cruelty and revengeful nature that both Salome and her mother shared, characterized by their lasciviousness and desire for retribution.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.300867932585042,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.6,
             "commentatorTierSimilarities": [
-                32.82,
-                19.68,
-                47.5
+                17.05,
+                39.66,
+                43.29
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Salome, driven by her mother Herodias, urgently demanded the head of John the Baptist to be brought to her on a charger. The abruptness of her request spares Salome from complete culpability and shifts the blame solely onto Herodias. By insisting on an immediate response, Salome hoped to prevent any potential reconsideration from Herod. The use of the term charger to describe the dish highlights the cruelty embedded in her demand. Salome's readiness to make such a gruesome request reveals her corruption and draws parallels between her and her mother's lasciviousness, thirst for revenge, and cruelty.",
-            "wordCount": 98,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.164455891337239,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.06,
+            "bht": "Salome, being let on by her mother, fearlessly demanded the head of John the Baptist without giving Herod a chance to reconsider. The request was made here and on the spot, intending to witness the execution in the presence of the entire company. This act of vengeance and cruelty reveals the likeness between mother and daughter, both driven by lasciviousness and a thirst for revenge. Salome's audacity reflects her mother's teachings, resulting in a grim, hideous, and resolute appeal that could not pass unnoticed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.233764227738769,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.37,
             "commentatorTierSimilarities": [
-                34.24,
-                20.16,
-                45.6
+                21.39,
+                40.84,
+                37.77
             ],
             "generationAttempt": 5
         }

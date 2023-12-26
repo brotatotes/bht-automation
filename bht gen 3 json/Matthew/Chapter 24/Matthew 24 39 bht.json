@@ -1,39 +1,39 @@
 {
-    "timestamp": "12-19-2023 23:52:29",
+    "timestamp": "12-25-2023 20:32:02",
     "verseRef": "Matthew 24:39",
     "bestBHT": {
-        "bht": "The people in this account can be likened to those who ignored Noah's warning about the flood. Their unbelief and blindness caused them to remain ignorant of the impending disaster as they carried on with their daily lives. Only a small number, those who believed and trusted in God's message, were able to escape the coming destruction. This serves as a reminder for us to place our faith in the Lord and not be deceived by the false sense of security offered by the world.",
-        "wordCount": 87,
-        "quoteTokenProportion": 39.06,
-        "qualityScore": 1.1631464333289154,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.02,
+        "bht": "The people in this account were ignorant of the impending judgment because their unbelief had blinded them. While Noah, driven by faith, feared God and saw the coming destruction, the rest chose to disbelieve and remain unconcerned. Despite having some knowledge of the flood, they refused to accept it, resulting in God allowing their hearts to be hardened. Similarly, the Jews before the destruction of Jerusalem lived sinful lives, disregarding the warnings of Christ and expecting deliverance while sudden destruction awaited them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.4429873640389612,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.32,
         "commentatorTierSimilarities": [
             0.0,
-            40.88,
-            59.12
+            34.82,
+            65.18
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Albert Barnes": [
             "They knew not - That is, they knew not the exact time until it came upon them.",
-            "They shall not know 'the precise time' until he comes.",
-            "Then they will be found engaged in the ordinary business of life unconcerned."
+            "So, says he, it shall be when the Son of man shall come.",
+            "They shall not know 'the precise time' until he comes, and then they will be found engaged in the ordinary business of life unconcerned."
         ],
         "John Calvin": [
             "The source and cause of their ignorance was, that unbelief had blinded their minds.",
-            "But it must be observed that the reprobate, at that time, were hardened in their wickedness, because the Lord did not show his grace to any but his servants.",
-            "To this small number, therefore, our minds must be directed, if we desire to escape in safety."
+            "Noah beheld at a distance, by the eyes of faith, the vengeance of God which was still concealed, so as to entertain an early dread of it.",
+            "Not that information of the future deluge was altogether withheld from the inhabitants of the world\u2014before whose eyes Noah, in building the ark for more than a hundred years, presented a warning of the approaching calamity."
         ],
         "Philip Schaff": [
-            "Even after Noah was in the ark, their unbelief continued.\" ",
+            "Even after Noah was in the ark, their unbelief continued.",
             "Men will persist in unbelief, despite the fear mentioned in Luke 21:24-25.",
-            "They will at least go on as if unconcerned."
+            "Men will at least go on as if unconcerned."
         ],
         "John Gill": [
-            "They did not believe, that what he said of the flood was true; they had notice of it, but they would not know it.",
-            "They were careless and secure of danger; they would not believe their ruin was at hand, when it was just upon them.",
-            "They cried peace, peace, when sudden destruction was nigh; even of them all, their nation, city, and temple, a few only excepted, as in the days of Noah."
+            "They did not believe, that what he said of the flood was true; they had notice of it, but they would not know it, and therefore God gave them up to judicial blindness and hardness of heart.",
+            "Such shall be, as it was, the case of the Jews, before the destruction of Jerusalem: they gave themselves up to all manner of wickedness and uncleanness; they disregarded the warnings of Christ and his apostles; they were careless and secure of danger.",
+            "They buoyed themselves up to the very last, that a deliverer would arise, and save them; they cried peace, peace, when sudden destruction was nigh."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Matthew 24:39, people are compared to those who were ignorant of the coming flood during the time of Noah. Their unbelief and blindness led to their ignorance, as they continued with their everyday activities, unaware of the impending catastrophe. Despite the warning signs, they persisted in their unbelief and remained unconcerned. Only a small number, those who believed and trusted in God's word, were able to escape the impending destruction. This serves as a reminder for us to seek refuge in the Lord and not be deceived by the false sense of security that the world offers.",
-            "wordCount": 98,
-            "quoteTokenProportion": 33.82,
-            "qualityScore": 1.2210516586543991,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "bht": "The people in this verse were ignorant of the impending destruction because their unbelief had blinded them. Noah, on the other hand, had faith which allowed him to perceive the coming judgment and fear God. Although Noah's contemporaries were not completely unaware of the flood, they chose not to believe or acknowledge it. Similarly, the Jews before the destruction of Jerusalem lived in wickedness, disregarding the warnings of Christ and his apostles, and clinging to false hope. Despite the signs and messages, they remained careless and secure until their sudden destruction.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.3775330679251376,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
             "commentatorTierSimilarities": [
                 0.0,
-                44.78,
-                55.22
+                36.48,
+                63.52
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The people in the verse are likened to those who disregarded Noah's warning about the flood. Their ignorance stemmed from their unbelief, which blinded them and made them continue with their daily routines, oblivious to the impending destruction. Only a small number who trusted in God were able to escape. This serves as a cautionary tale for us to put our faith in God's word and not be swayed by worldly distractions.",
-            "wordCount": 74,
-            "quoteTokenProportion": 44.83,
-            "qualityScore": 1.1312642700200772,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.96,
+            "bht": "The ignorance of the people in this passage stemmed from their disbelief that blinded them to the impending judgment. Unlike them, Noah had faith and averted disaster by fearing God. Although Noah's contemporaries had some knowledge of the flood, they chose not to believe it, and God allowed their hearts to be hardened. Similarly, the Jews before the destruction of Jerusalem lived unrighteous lives, ignoring the warnings from Christ and his apostles, and foolishly expecting deliverance while facing imminent destruction.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.428175841586992,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.83,
             "commentatorTierSimilarities": [
                 0.0,
-                42.2,
-                57.8
+                35.48,
+                64.52
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The people in question can be likened to those during Noah's time who were ignorant and unbelieving when it came to the impending flood. They continued with their ordinary activities, disregarding the signs and remaining unconcerned. Only a few were able to escape the impending destruction by trusting in God's warning. This reminds us to place our faith in God's word and not be deceived by the false security that the world offers.",
-            "wordCount": 76,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.1162319867681392,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.46,
+            "bht": "The people in this account were ignorant of the impending judgment because their unbelief had blinded them. While Noah, driven by faith, feared God and saw the coming destruction, the rest chose to disbelieve and remain unconcerned. Despite having some knowledge of the flood, they refused to accept it, resulting in God allowing their hearts to be hardened. Similarly, the Jews before the destruction of Jerusalem lived sinful lives, disregarding the warnings of Christ and expecting deliverance while sudden destruction awaited them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4429873640389612,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.32,
             "commentatorTierSimilarities": [
                 0.0,
-                46.93,
-                53.07
+                34.82,
+                65.18
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The people portrayed in this passage can be compared to those who disregarded Noah's warning about the flood. Their unbelief and blindness caused them to remain ignorant of the impending catastrophe, as they continued their daily activities unconcerned. Only a small number, those who believed and trusted in God's message, were able to escape the impending destruction. This serves as a reminder for us to seek refuge in the Lord and not be deceived by the false sense of security that the world offers.",
-            "wordCount": 86,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.1776131445800986,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.5,
+            "bht": "The people in this account were ignorant of the impending judgment because their unbelief had blinded them. While Noah, driven by faith, feared God and saw the coming destruction, the rest chose to disbelieve and remain unconcerned. Despite having some knowledge of the flood, they refused to accept it, resulting in God allowing their hearts to be hardened. Similarly, the Jews before the destruction of Jerusalem lived sinful lives, disregarding the warnings of Christ, and expecting deliverance while sudden destruction approached.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4310992731039427,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.93,
             "commentatorTierSimilarities": [
                 0.0,
-                41.56,
-                58.44
+                34.57,
+                65.43
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The people in this account can be likened to those who ignored Noah's warning about the flood. Their unbelief and blindness caused them to remain ignorant of the impending disaster as they carried on with their daily lives. Only a small number, those who believed and trusted in God's message, were able to escape the coming destruction. This serves as a reminder for us to place our faith in the Lord and not be deceived by the false sense of security offered by the world.",
-            "wordCount": 87,
-            "quoteTokenProportion": 39.06,
-            "qualityScore": 1.1631464333289154,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.02,
+            "bht": "The people in this account were ignorant of the impending judgment because their unbelief had blinded them. Despite having some knowledge of the flood, they refused to accept it, resulting in God allowing their hearts to be hardened. Similarly, the Jews before the destruction of Jerusalem lived in sin, disregarding the warnings of Christ, and expecting deliverance while sudden destruction was near. Both cases demonstrate the dangers of unbelief and the consequences of living in denial of God's warnings.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3130095246274336,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
             "commentatorTierSimilarities": [
                 0.0,
-                40.88,
-                59.12
+                32.44,
+                67.56
             ],
             "generationAttempt": 5
         }

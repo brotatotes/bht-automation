@@ -1,53 +1,53 @@
 {
-    "timestamp": "12-19-2023 16:31:07",
+    "timestamp": "12-25-2023 20:34:13",
     "verseRef": "Acts 13:51",
     "bestBHT": {
-        "bht": "The disciples, obeying Christ's command, shook off the dust of their feet against the people in Iconium, a populous city. This symbolic gesture showed that the city was regarded as profane and forbade any further communication or fellowship. Iconium, as the capital of Lycaonia, held great influence and even eclipsed Antioch in Pisidia. Its strategic location contributed to the consolidation of the Turkish empire. This act of shaking off the dust demonstrated the detestation of the wicked and serves as a solemn reminder to revere the gospel and uphold its majesty.",
-        "wordCount": 92,
-        "quoteTokenProportion": 28.12,
-        "qualityScore": 1.4641765601527417,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+        "bht": "The apostles obeyed Christ's instructions by shaking off the dust of their feet against the people of Iconium. This symbolic act marked their refusal to have further contact, demonstrating their reverence for the gospel and their aversion to the wicked. Iconium's significance as a populous city positioned on major Roman roads and its role in the formation of the Turkish empire added weight to this gesture. By shaking off the dust, the apostles conveyed that the very soil of the city was considered defiling, cutting off any further interaction.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.5571618419018625,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.12,
         "commentatorTierSimilarities": [
-            29.9,
-            34.22,
-            35.88
+            29.08,
+            34.03,
+            36.89
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "shook off the dust of their feet against them\u2014as directed\" ",
-            "came unto Iconium\u2014a populous city about forty-five miles southeast from Pisidian Antioch",
-            "largely contributing to the consolidation of the Turkish empire"
+            "shook off the dust of their feet against them\u2014as directed.\" ",
+            "came unto Iconium\u2014a populous city about forty-five miles southeast from Pisidian Antioch.",
+            "in later times largely contributing to the consolidation of the Turkish empire."
         ],
         "Albert Barnes": [
-            "But they shook off the dust ...\" ",
-            "Konieh extends to the east and south over the plain far beyond the walls, which are about two miles in circumference ...",
-            "The city wall is said to have been erected by the Seljukian sultans: it seems to have been built from the ruins of more ancient buildings."
+            "But they shook off the dust...\" ",
+            "\u201cKonieh extends to the east and south over the plain far beyond the walls, which are about two miles in circumference ...\" ",
+            "The city wall is said to have been erected by the Seljukian sultans: it seems to have been built from the ruins of more ancient buildings, as broken columns, capitals, pedestals, bas-reliefs, and other pieces of sculpture contribute toward its construction."
         ],
         "Marvin Vincent": [
             "Shook off. See on Matthew 10:14. ",
             "Dust. See on Luke 10:11. "
         ],
         "John Calvin": [
-            "For it is not to be thought that Christ meant to have his [disciples] use an unknown sign, forasmuch as it was his purpose to terrify the gross and professed condemners of his doctrine.",
-            "He meant by this means to declare that God doth so detest the wicked, that we must take heed that we have no fellowship with them, lest we be infected with their uncleanness.",
-            "Wherefore, let this so great severity teach us to reverence the gospel. Also the ministers of the word are taught with how great ferventness of zeal they must maintain the majesty of the word, that they do not coldly dissemble and wink at the contempt thereof."
+            "God doth so detest the wicked, that we must take meat heed that we have no fellowship with them, lest we be infected with their uncleanness.",
+            "All the wicked are said, indeed, to pollute the ground whereon they tread; but the Lord did never command that any, save only the condemners of his word, should be so rejected with such execration.",
+            "Wherefore, let this so great severity teach us to reverence the gospel."
         ],
         "Philip Schaff": [
             "The shaking of the dust off the feet implied that the city was regarded as profane.",
-            "Iconium was a populous city and the capital of a distinct territory, and was ruled by a tetrarch.",
-            "It is about fifty miles east of Pisidian Antioch, near the foot of Mount Taurus."
+            "Iconium, Broussa, Adrianople, and lastly Constantinople, have been successively the capital cities of their vast empire.",
+            "One curious relic of its former rank in the Ottoman monarchy it retains in the family of an ancient sovereign race, whose head, when a new sultan is proclaimed in Constantinople, always waives his right to the Ottoman throne in favour of the heir of the reigning house of Osman."
         ],
         "Archibald T. Robertson": [
-            "The sandal was taken off and the dust shaken out as a symbolic token that the very soil of the country was defiling\" (Furneaux).",
+            "The sandal was taken off and the dust shaken out as a symbolic token that the very soil of the country was defiling.\" ",
             "It is a dramatic gesture that forbids further intercourse.",
-            "When the province of Galatia was divided, Iconium became the capital of Lycaonia and eclipsed Antioch in Pisidia."
+            "It was at the meeting place of several Roman roads and on the highway from east to west."
         ],
         "John Gill": [
             "But they shook off the dust of their feet against them,.... As Christ directed his apostles to do;",
-            "Pliny says e, that 'there was a tetrarchy granted out of Lycaonia, on that part which borders on Galatia, consisting of fourteen cities, the most celebrated city being Iconium.'",
-            "It was called by the Syrians \u05d4\u05d9\u05e7 \u05e2\u05e0\u05d0, 'Ik-ona,' which signifies 'the bosom of sheep'; the country round about it being famous for feeding great numbers of sheep; and here afterwards was a church of Christ, a bosom for his sheep."
+            "It was called by the Syrians \u05d4\u05d9\u05e7 \u05e2\u05e0\u05d0, 'Ik-ona', which signifies 'the bosom of sheep'; the country round about it being famous for feeding great numbers of sheep;",
+            "Here afterwards was a church of Christ, a bosom for his sheep; it is now in the hands of the Turks, and is called 'Conia', or 'Cogne'."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -67,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples, following Christ's command, shook off the dust of their feet against the people in Iconium as a symbolic gesture of separation and to show that the city was regarded as profane. This act signified that further communication or fellowship with them was forbidden. Iconium, a populous city and the capital of Lycaonia, held significant political and cultural influence, even becoming the capital of Lycaonia and overshadowing Antioch in Pisidia. Its strategic location contributed to the consolidation of the Turkish empire. The shaking off of dust represented the detestation of the wicked, and this severity serves as a reminder to revere the gospel and maintain the majesty of the word with great fervor.",
-            "wordCount": 115,
-            "quoteTokenProportion": 28.77,
-            "qualityScore": 1.3839003612795429,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.36,
+            "bht": "The apostles, following Christ's instructions, symbolically shook off the dust of their feet against the people of Iconium, a city known for its role in the consolidation of the Turkish empire and for its position as a meeting place of Roman roads. This gesture, akin to removing one's sandal and shaking out the dust, served as a dramatic statement to cut off further intercourse. It conveyed that the city was regarded as profane and defiling. Thus, the severity of this action demonstrates the apostles' reverence for the gospel and their commitment to avoiding fellowship with the wicked.",
+            "wordCount": 99,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.4623629090857906,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.97,
             "commentatorTierSimilarities": [
-                27.94,
-                34.98,
-                37.08
+                28.53,
+                34.65,
+                36.82
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples followed Christ's command in Acts 13:51 by shaking off the dust of their feet against the people in Iconium. This dramatic gesture was a symbolic token, signifying that the city was regarded as profane and that further communication or fellowship with them was forbidden. Iconium, a populous city and the capital of Lycaonia, held significant political and cultural influence, even becoming the capital of Lycaonia and overshadowing Antioch in Pisidia. The severity of this action reminds us to revere the gospel and maintain the majesty of the word with great fervor.",
-            "wordCount": 93,
-            "quoteTokenProportion": 32.81,
-            "qualityScore": 1.424205768623008,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "bht": "The apostles, following Christ's instructions, shook off the dust of their feet against the people of Iconium, a city contributing to the Turkish empire and located on the highway from east to west. This dramatic gesture symbolized the apostles' refusal to have any further interaction with them, effectively cutting off fellowship. It demonstrated their reverence for the gospel and their desire to avoid contamination from the wicked. By shaking off the dust, they conveyed the profane and defiling nature of the city.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.4546729780004415,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.71,
             "commentatorTierSimilarities": [
-                22.84,
-                32.09,
-                45.06
+                27.92,
+                31.96,
+                40.12
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples, obeying Christ's command, shook off the dust of their feet against the people in Iconium, a populous city. This symbolic gesture showed that the city was regarded as profane and forbade any further communication or fellowship. Iconium, as the capital of Lycaonia, held great influence and even eclipsed Antioch in Pisidia. Its strategic location contributed to the consolidation of the Turkish empire. This act of shaking off the dust demonstrated the detestation of the wicked and serves as a solemn reminder to revere the gospel and uphold its majesty.",
-            "wordCount": 92,
-            "quoteTokenProportion": 28.12,
-            "qualityScore": 1.4641765601527417,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+            "bht": "The apostles, in accordance with Christ's guidance, shook off the dust of their feet against the people of Iconium. This symbolic action was a dramatic gesture that signified the defiling nature of the city and prohibited any further interaction. Iconium, situated on the Roman roads and instrumental in the Turkish empire's consolidation, embodied a profane environment. This act of shaking off the dust demonstrated the apostles' reverence for the gospel and their determination to avoid association with the wicked.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.4325093146166332,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
             "commentatorTierSimilarities": [
-                29.9,
-                34.22,
-                35.88
+                31.39,
+                30.22,
+                38.39
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Upon receiving Christ's directive, the disciples shook off the dust of their feet against the people in Iconium, signifying the city's profane nature and terminating any further interaction. Iconium, a significant, populous city that became the capital of Lycaonia, held political and cultural influence and played a role in consolidating the Turkish empire. This dramatic gesture demonstrated the detestation of the wicked, reminding us to revere the gospel fervently. It emphasizes the need for ministers to zealously uphold the majesty of the word, avoiding complacency in the face of contempt.",
-            "wordCount": 92,
-            "quoteTokenProportion": 26.87,
-            "qualityScore": 1.3821956197329186,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
+            "bht": "The apostles obeyed Christ's instructions by shaking off the dust of their feet against the people of Iconium. This symbolic act marked their refusal to have further contact, demonstrating their reverence for the gospel and their aversion to the wicked. Iconium's significance as a populous city positioned on major Roman roads and its role in the formation of the Turkish empire added weight to this gesture. By shaking off the dust, the apostles conveyed that the very soil of the city was considered defiling, cutting off any further interaction.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.5571618419018625,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
             "commentatorTierSimilarities": [
-                26.11,
-                27.57,
-                46.31
+                29.08,
+                34.03,
+                36.89
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Following Christ's instruction, the disciples shook off the dust of their feet against the people in Iconium, a populous city that served as the capital of Lycaonia. This symbolic act represented the city's profaneness and severed any further interaction. Iconium's significant cultural and political influence contributed to the consolidation of the Turkish empire. The severity of shaking off the dust conveyed the detestation of the wicked, reminding us to passionately revere the gospel. This act emphasizes the duty of ministers to fervently uphold the majesty of the word and not overlook its contempt.",
-            "wordCount": 96,
-            "quoteTokenProportion": 26.56,
-            "qualityScore": 1.3664515301937183,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.78,
+            "bht": "The apostles, following Christ's instructions, shook off the dust of their feet against the people of Iconium. This dramatic gesture, a symbolic token of defilement, forbade further intercourse and conveyed the apostles' aversion to fellowship with the wicked. Iconium, situated on major Roman roads and contributing to the Turkish empire, possessed significance as a populous city. By shaking off the dust, the apostles demonstrated their reverence for the gospel and their resolve to distance themselves from the profane nature of the city.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5466507369515547,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
             "commentatorTierSimilarities": [
-                28.73,
-                31.4,
-                39.86
+                29.07,
+                33.09,
+                37.84
             ],
             "generationAttempt": 5
         }

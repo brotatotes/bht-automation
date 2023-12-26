@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 13:56:22",
+    "timestamp": "12-25-2023 20:34:18",
     "verseRef": "Philippians 4:23",
     "bestBHT": {
-        "bht": "May the grace of the Lord Jesus Christ be with you all. It is our duty to be firm in the Lord, to appeal to others as beloved brethren, and to invite them to be steadfast in their Christian profession. Reconciliation is encouraged for those who have caused harm, and we should seek forgiveness. Our privilege is to rejoice in the Lord always, finding lasting joy in Him. Let the grace of our Lord Jesus Christ be with your spirit.",
-        "wordCount": 80,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.1876108106698051,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.83,
+        "bht": "May the grace of the Lord Jesus Christ be with your spirit. In the midst of trials and temptations, it is our duty to stand firm in the Lord, seeking reconciliation and rejoicing in Him always. This closing statement signifies the genuineness of the apostle's epistle to the Philippians.",
+        "wordCount": 50,
+        "quoteTokenProportion": 40.54,
+        "qualityScore": 1.5747391677173677,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.7,
         "commentatorTierSimilarities": [
-            7.36,
-            48.62,
-            44.02
+            6.41,
+            56.02,
+            37.57
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -26,19 +26,17 @@
             "\t\"Amen."
         ],
         "Albert Barnes": [
-            "It is our duty to be firm in the Lord, in all the trials, temptations, and persecutions to which we may be exposed... Like Paul, we should appeal to others as 'brethren dearly beloved and longed for,' and by all their affection for us we should entreat them to be steadfast in the Christian profession.\" ",
-            "It is the duty of those who have from any cause been alienated, to seek to be reconciled... If you are conscious that you have injured him [your brother], then nothing is more proper than that you should go and make confession.\" ",
-            "It is our duty and our privilege to rejoice in the Lord always... The Christian, therefore, may be always happy. If he will look to God and not to himself; to heaven and not to earth, he will find permanent and substantial sources of enjoyment."
+            "It is our duty to be firm in the Lord, in all the trials, temptations, and persecutions to which we may be exposed.",
+            "It is the duty of those who have from any cause been alienated, to seek to be reconciled.",
+            "It is our duty and our privilege to rejoice in the Lord always."
         ],
         "Philip Schaff": [
-            "The grace of the Lord Jesus Christ be with your spirit.\" ",
-            "Such changes from the primitive text have been introduced by a desire to bring all the closing benedictions as nearly as possible into one form.",
-            "After this, some future scribe, having a text and margin, considered it best to bring all into the same shape."
+            "The grace of the Lord Jesus Christ be with your spirit."
         ],
         "John Gill": [
-            "The grace of our Lord Jesus Christ [be] with you all....\" - This is the apostle's token in all his epistles of the genuineness of them. ",
-            "Amen: with which all the epistles are concluded.\" - The subscription is... written [to] the Philippians from Rome, by Epaphroditus.",
-            "This epistle was written to the Philippians by the Apostle Paul, when he was a prisoner at Rome, and sent to them by Epaphroditus their minister."
+            "The grace of our Lord Jesus Christ [be] with you all....\" ",
+            "This is the apostle's token in all his epistles of the genuineness of them...",
+            "The subscription is, [it was] written [to] the Philippians from Rome, by Epaphroditus..."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +56,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "May the grace of the Lord Jesus Christ be with you all. It is our duty to be firm in the Lord, to appeal to others as beloved brethren and invite them to be steadfast in the Christian profession. We should seek reconciliation if we have caused any harm or offense. Rejoicing in the Lord always is our duty and privilege, finding lasting joy in Him. Let the grace of our Lord Jesus Christ be with your spirit. The subscription confirms that this letter was written to the Philippians by Paul during his imprisonment in Rome and sent to them by Epaphroditus.",
-            "wordCount": 102,
-            "quoteTokenProportion": 46.97,
-            "qualityScore": 1.202954453790901,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.34,
+            "bht": "May the grace of the Lord Jesus Christ be with your spirit. This verse reminds us that amidst trials and temptations, we should stand firm in our faith and rely on the grace of the Lord. It is our duty to seek reconciliation with those we may have become estranged from, and to rejoice in the Lord always. This closing statement serves as a genuineness token of the apostle's epistle to the Philippians.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.575098835206569,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
             "commentatorTierSimilarities": [
-                6.86,
-                41.57,
-                51.57
+                5.95,
+                55.97,
+                38.07
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "May the grace of the Lord Jesus Christ be with you all. It is our duty to be firm in the Lord, to appeal to others as beloved brethren, and to invite them to be steadfast in the Christian profession. Reconciliation is urged for those who have caused harm or offense. Our duty and privilege are to rejoice in the Lord always, finding lasting joy in Him. Let the grace of our Lord Jesus Christ be with your spirit. The subscription confirms the origin of this letter.",
-            "wordCount": 87,
-            "quoteTokenProportion": 47.27,
-            "qualityScore": 1.1180749215608845,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.52,
+            "bht": "May the grace of the Lord Jesus Christ be with your spirit, as we stand firm in the Lord amidst trials and temptations. It is our duty to seek reconciliation and rejoice in the Lord always. The closing statement of this passage serves as a token of the genuineness of the apostle's epistle to the Philippians.",
+            "wordCount": 57,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.5525581785981326,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.97,
             "commentatorTierSimilarities": [
-                6.83,
-                45.15,
-                48.02
+                4.3,
+                57.27,
+                38.42
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "May the grace of the Lord Jesus Christ be with you all. It is our duty to be firm in the Lord, to appeal to others as beloved brethren, and to invite them to be steadfast in their Christian profession. Reconciliation is encouraged for those who have caused harm, and we should seek forgiveness. Our privilege is to rejoice in the Lord always, finding lasting joy in Him. Let the grace of our Lord Jesus Christ be with your spirit.",
-            "wordCount": 80,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.1876108106698051,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.83,
+            "bht": "May the grace of the Lord Jesus Christ be with your spirit, as we stand firm amidst trials, seeking reconciliation and rejoicing in the Lord always. This closing statement serves as a token of the genuineness of the apostle's epistle to the Philippians.",
+            "wordCount": 44,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4279582770007169,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
             "commentatorTierSimilarities": [
-                7.36,
-                48.62,
-                44.02
+                4.05,
+                51.24,
+                44.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Let us be steadfast in our Christian profession, appealing to our brethren with love and affection to remain firm in the Lord despite trials and persecutions. If we have caused harm to others, it is our duty to seek reconciliation and make confession. By looking to God and rejoicing in the Lord always, we can find true and lasting happiness. May the grace of the Lord Jesus Christ be with our spirits. Though some variations in the closing benedictions exist, they are introduced with the intention of unifying the form. This epistle, written by the Apostle Paul during his imprisonment in Rome, was sent to the Philippians by their minister Epaphroditus.",
-            "wordCount": 111,
-            "quoteTokenProportion": 37.18,
-            "qualityScore": 1.0979935529962122,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.85,
+            "bht": "May the grace of the Lord Jesus Christ be with your spirit. In the midst of trials and temptations, it is our duty to stand firm in the Lord, seeking reconciliation and rejoicing in Him always. This closing statement signifies the genuineness of the apostle's epistle to the Philippians.",
+            "wordCount": 50,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.5747391677173677,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
             "commentatorTierSimilarities": [
-                4.09,
-                41.57,
-                54.33
+                6.41,
+                56.02,
+                37.57
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Let us remain steadfast in the Lord, appealing to our beloved brethren to be firm in their Christian profession. When we have caused harm, it is our duty to seek reconciliation and confession. By rejoicing in the Lord always and looking to Him for our happiness, we can find true joy. May the grace of our Lord Jesus Christ be with us all. These closing benedictions aim to unify the form, and this epistle was written by the Apostle Paul during his imprisonment in Rome, sent to the Philippians by Epaphroditus, their minister.",
-            "wordCount": 93,
-            "quoteTokenProportion": 40.3,
-            "qualityScore": 1.1370129974937266,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.15,
+            "bht": "May the grace of the Lord Jesus Christ be with your spirit, as we stand firm amidst trials, seeking reconciliation and rejoicing in the Lord always. This closing statement serves as a token of the genuineness of the apostle's epistle to the Philippians.",
+            "wordCount": 44,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4279582770007169,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
             "commentatorTierSimilarities": [
-                1.84,
-                39.89,
-                58.27
+                4.05,
+                51.24,
+                44.72
             ],
             "generationAttempt": 5
         }

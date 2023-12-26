@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:06:35",
+    "timestamp": "12-25-2023 20:33:50",
     "verseRef": "John 6:7",
     "bestBHT": {
-        "bht": "With only two hundred denarii, equivalent to around thirty to thirty-five dollars, the disciples were concerned about the insufficiency of bread to feed the crowd. As the number of men alone amounted to five thousand, each person would only receive a meager portion, less than a denarius, or about eight-pence, of their currency. Andrew highlighted the vastness of the sum to emphasize their financial limitations. However, Jesus, with His great power and compassion, performed the miraculous feeding of the multitude, ensuring that everyone had the opportunity to partake, even if it was just a little.",
-        "wordCount": 97,
-        "quoteTokenProportion": 44.44,
-        "qualityScore": 1.444654815937878,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+        "bht": "The disciples had only loaves of two hundred denarii, worth about thirty to thirty-five dollars, which would not be enough to feed the large crowd. Even if they were to distribute this little amount, it would only provide a small portion for each person. With around five thousand men present, and even more people when including women and children, it was clear that the disciples did not have the means to adequately provide for everyone.",
+        "wordCount": 76,
+        "quoteTokenProportion": 57.63,
+        "qualityScore": 1.5944333080635327,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.36,
         "commentatorTierSimilarities": [
-            24.07,
-            40.59,
-            35.34
+            20.9,
+            38.35,
+            40.75
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -22,23 +22,24 @@
             "Pennyworth [\u03b4\u03b7\u03bd\u03b1\u03c1\u03c9\u03bd] . See on Matthew 20:2. Two hundred pennyworth would represent between thirty and thirty - five dollars. That every one may take a little. Peculiar to John."
         ],
         "John Calvin": [
-            "If you divide this sum among five thousand men, each hundred of them will have less than seventeen pence sterling.",
+            "If we now add about a thousand of women and children, it will be found that Philip allots to each person about the sixth part of an English penny, to buy a little bread.",
             "Andrew intended to alarm Christ by the greatness of the sum, meaning that they were not wealthy enough to entertain so many people.",
-            "Taking the franc (as Cotgrave rates it) at two shillings, 35 francs are also equal to three pounds, ten shillings."
+            "As usually happens in a great crowd, he probably thought that there was a greater number of people present."
         ],
         "Philip Schaff": [
-            "As the number of the men alone proved to be five thousand, an expenditure of 200 'pence' ( i.e. 200 denarii) would allow less than a denarius, or about eight-pence of our money, to twenty-five persons...\" ",
-            "Philip might well say that it was 'not sufficient for them.'"
+            "As the number of the men alone proved to be five thousand, an expenditure of 200 \u2018pence\u2019 (i.e. 200 denarii) would allow less than a denarius, or about eight-pence of our money, to twenty-five persons...\" ",
+            "...that sum would not purchase in ordinary times more than five or six ounces of bread for each.\" ",
+            "Philip might well say that it was \u2018not sufficient for them.\u2019"
         ],
         "Archibald T. Robertson": [
             "Loaves of two hundred denarii.",
             "The denarius was the usual pay for a day's labour.",
-            "That every one may take a little."
+            "Final clause with \u03b9\u03bd\u03b1 and second aorist active subjunctive of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9. This detail in John alone."
         ],
         "John Gill": [
             "Two hundred pennyworth of bread is not sufficient for them.",
-            "That everyone of them might take a little.",
-            "Everyone could not have a small bit to taste of, or in the least to stay or blunt his appetite."
+            "that everyone of them might take a little",
+            "but here were three thousand more, besides women and children, who could not have been provided for with such a sum of money."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "With only two hundred denarii, equivalent to around thirty to thirty-five dollars, the disciples were concerned about the insufficiency of bread to feed the crowd. As the number of men alone amounted to five thousand, each person would only receive a meager portion, less than a denarius, or about eight-pence, of their currency. Andrew highlighted the vastness of the sum to emphasize their financial limitations. However, Jesus, with His great power and compassion, performed the miraculous feeding of the multitude, ensuring that everyone had the opportunity to partake, even if it was just a little.",
-            "wordCount": 97,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.444654815937878,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "bht": "The disciples were faced with the task of feeding thousands of people, but they were only able to find loaves of two hundred denarii, which would amount to around thirty to thirty-five dollars. This would barely provide a small amount for each individual. Philip, realizing the insufficiency, expressed his concern that even this amount would not be enough. However, the number of people was even greater, with about five thousand men alone. If we include women and children, the amount of bread available would be even less, and it is clear that they did not have the means to provide for everyone.",
+            "wordCount": 103,
+            "quoteTokenProportion": 54.29,
+            "qualityScore": 1.488354040845098,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
             "commentatorTierSimilarities": [
-                24.07,
-                40.59,
-                35.34
+                18.11,
+                41.7,
+                40.18
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "With only two hundred denarii, equivalent to between thirty and thirty-five dollars, the disciples were concerned about the insufficiency of bread to feed the crowd. As the number of men alone amounted to five thousand, each person would only receive a meager portion. Andrew intended to alarm Christ by emphasizing their financial limitations. However, Jesus, with His great power and compassion, performed the miraculous feeding of the multitude, ensuring that everyone had the opportunity to partake, even if it was just a little.",
-            "wordCount": 84,
-            "quoteTokenProportion": 43.94,
-            "qualityScore": 1.3627704702994072,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.66,
+            "bht": "The disciples had only loaves of two hundred denarii, worth about thirty to thirty-five dollars, which would not be enough to feed the large crowd. Even if they were to distribute this little amount, it would only provide a small portion for each person. With around five thousand men present, and even more people when including women and children, it was clear that the disciples did not have the means to adequately provide for everyone.",
+            "wordCount": 76,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 1.5944333080635327,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.36,
             "commentatorTierSimilarities": [
-                22.52,
-                41.31,
-                36.16
+                20.9,
+                38.35,
+                40.75
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "With only two hundred denarii, equivalent to between thirty and thirty-five dollars, the disciples were concerned about the insufficiency of bread to feed the crowd. As the number of men alone amounted to five thousand, each person would only receive a meager portion. Andrew highlighted their financial limitations, trying to emphasize the impossibility of satisfying everyone's hunger. However, Jesus, with His great power and compassion, performed the miraculous feeding of the multitude, ensuring that everyone had the opportunity to partake, even if it was just a little.",
-            "wordCount": 89,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.416691082398978,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.45,
+            "bht": "The disciples faced a daunting task in providing food for the large crowd. With only two hundred pennyworth, equivalent to thirty to thirty-five dollars, they knew it would not be enough to feed everyone. As the number of people alone was five thousand, even dividing the amount up would only provide about eight pence of our money for twenty-five people. Philip, in his concern, recognized this insufficiency. Andrew, on the other hand, may have been alarmed at the magnitude of the need and the lack of resources, prompting his statement about the impossibility of providing for such a large group. Yet, the real miracle occurred when Jesus took what seemed inadequate and made it more than enough, ensuring that everyone had the opportunity to receive nourishment.",
+            "wordCount": 128,
+            "quoteTokenProportion": 50.54,
+            "qualityScore": 1.3064836063706469,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.78,
             "commentatorTierSimilarities": [
-                24.02,
-                38.95,
-                37.02
+                21.11,
+                43.36,
+                35.53
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "With only two hundred denarii, equivalent to around thirty to thirty-five dollars, the disciples were concerned about the insufficiency of bread to feed the crowd. As the number of men alone amounted to five thousand, each person would only receive a meager portion, less than a denarius, or about eight-pence of their currency. Andrew highlighted the vastness of the sum to emphasize their financial limitations. However, Jesus, with His great power and compassion, performed the miraculous feeding of the multitude, ensuring that everyone had the opportunity to partake, even if it was just a little.",
-            "wordCount": 97,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.444654815937878,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "bht": "The disciples faced the daunting task of feeding the large crowd with only two hundred pennyworth, equivalent to thirty to thirty-five dollars. Recognizing the insufficiency of this amount, Philip expressed concern, while Andrew may have been alarmed at the magnitude of the need and lack of resources. However, Jesus turned this seemingly inadequate provision into an extraordinary miracle, ensuring that everyone had the opportunity to receive nourishment.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2609108107739047,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.27,
             "commentatorTierSimilarities": [
-                24.07,
-                40.59,
-                35.34
+                26.22,
+                36.43,
+                37.35
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "With only two hundred denarii, equivalent to between thirty and thirty-five dollars, the disciples were concerned about the insufficiency of bread to feed the crowd. As the number of men alone amounted to five thousand, each person would only receive a meager portion. Andrew intended to alarm Christ by emphasizing their financial limitations. However, Jesus, with His great power and compassion, performed the miraculous feeding of the multitude, ensuring that everyone had the opportunity to partake, even if it was just a little.",
-            "wordCount": 84,
-            "quoteTokenProportion": 43.94,
-            "qualityScore": 1.3627704702994072,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.66,
+            "bht": "The disciples faced a daunting task as they only had two hundred pennyworth for feeding the large crowd. This amount, equivalent to thirty to thirty-five dollars, would not be enough. Philip recognized the insufficiency, while Andrew may have been alarmed by the magnitude of the need. However, Jesus took this seemingly inadequate provision and transformed it into an extraordinary miracle, ensuring that everyone had the opportunity to receive nourishment.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2311673930908096,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.28,
             "commentatorTierSimilarities": [
-                22.52,
-                41.31,
-                36.16
+                24.43,
+                39.11,
+                36.47
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:18:11",
+    "timestamp": "12-25-2023 20:33:10",
     "verseRef": "Luke 11:31",
     "bestBHT": {
-        "bht": "At the last day, when all rise from the dead, the queen of the south, representing the Gentiles, will stand in judgment with the men of this generation, representing the Jews. Her conduct will serve as evidence against them and aggravate their condemnation for rejecting the opportunity to hear the wisdom of God and receive salvation. So, the sign given to this generation is more significant than what attracted the queen of the south.",
-        "wordCount": 74,
-        "quoteTokenProportion": 46.15,
-        "qualityScore": 1.4611401824691748,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+        "bht": "Someone greater than Solomon and the queen of the South will rise up in judgment with the men of this generation. This more that will rise is something beyond what has been seen before, surpassing both the wisdom of Solomon and the fame of the queen. This generation had the opportunity to hear not just natural or moral wisdom, but also spiritual and heavenly wisdom from Jesus himself, making their condemnation even greater.",
+        "wordCount": 73,
+        "quoteTokenProportion": 59.62,
+        "qualityScore": 1.6161255942174961,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.08,
         "commentatorTierSimilarities": [
-            22.08,
-            36.41,
-            41.51
+            32.04,
+            27.58,
+            40.38
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -27,9 +27,9 @@
             "With the men of this generation (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b4\u03c1\u03c9\u03bd \u03c4\u03b7\u03c2 \u03b3\u03b5\u03bd\u03b5\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03b7\u03c2). Here Matthew 12:42 has simply \"with this generation,\" which see. "
         ],
         "John Gill": [
-            "The sense is, that at the last day, when all shall rise from the dead, both Jews and Gentiles, this Heathen queen shall rise together with the men of the present generation among the Jews, stand in judgment with them, and against them.\" ",
-            " ... her conduct would be brought as an evidence against them, and be improved as an aggravation of their condemnation.\" ",
-            "She came to hear only a mere man, but they might have heard him who is the wisdom of God, and the only wise God, and our Saviour."
+            "She shall rise up in the judgment with the men of this generation, and condemn them.",
+            "Her conduct would be brought as an evidence against them, and be improved as an aggravation of their condemnation.",
+            "She came to hear only natural or moral wisdom, but they might have heard spiritual and heavenly wisdom, with which eternal happiness is connected; she came to hear only a mere man, but they might have heard him who is the wisdom of God, and the only wise God, and our Saviour."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -49,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "At the last day, when all rise from the dead, the queen of the south, representing the Gentiles, will stand in judgment with the men of this generation, representing the Jews. Her conduct, coming to hear a mere man, will serve as evidence against them and aggravate their condemnation. They had the opportunity to hear the wisdom of God and receive salvation, but they rejected it. So, the sign given to this generation is more significant than what attracted the queen of the south.",
-            "wordCount": 84,
-            "quoteTokenProportion": 47.46,
-            "qualityScore": 1.3146174317453017,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "bht": "In Luke 11:31, Jesus mentions that someone greater than Solomon and the queen of the South will rise up in the judgment with the men of this generation and condemn them. This more that will rise up is something greater than anything seen before, as it surpasses both the wisdom of Solomon and the fame of the queen of the South. This generation had the opportunity to hear not just natural or moral wisdom, but also spiritual and heavenly wisdom from Jesus himself, who is the wisdom of God. The queen of the South's conduct will serve as evidence against them, further aggravating their condemnation.",
+            "wordCount": 105,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.4594568727397246,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.87,
             "commentatorTierSimilarities": [
-                20.68,
-                32.45,
-                46.87
+                27.16,
+                30.82,
+                42.02
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "At the last day, when all rise from the dead, the queen of the south, representing the Gentiles, will stand in judgment with the men of this generation, representing the Jews. Her conduct will serve as evidence against them and aggravate their condemnation for rejecting the opportunity to hear the wisdom of God and receive salvation. So, the sign given to this generation is more significant than what attracted the queen of the south.",
-            "wordCount": 74,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.4611401824691748,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "bht": "In this passage, Jesus speaks of someone greater than Solomon and the queen of the South who will rise up in judgment with the men of this generation. This more that will rise is something beyond what has been seen before, surpassing both the wisdom of Solomon and the fame of the queen. This generation had the opportunity to hear not just natural or moral wisdom, but also spiritual and heavenly wisdom from Jesus himself, making their condemnation even greater.",
+            "wordCount": 80,
+            "quoteTokenProportion": 58.18,
+            "qualityScore": 1.6157584306704953,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.07,
             "commentatorTierSimilarities": [
-                22.08,
-                36.41,
-                41.51
+                33.73,
+                27.1,
+                39.17
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "At the last day, both Jews and Gentiles will rise from the dead, and the queen of the south will stand in judgment with the men of this generation. Her conduct, coming to hear a mere man, will be evidence against them, aggravating their condemnation. They had the opportunity to hear the wisdom of God and receive salvation, but rejected it. Thus, the sign given to this generation is far greater than what attracted the queen of the south.",
-            "wordCount": 79,
-            "quoteTokenProportion": 46.43,
-            "qualityScore": 1.3439447965332205,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.03,
+            "bht": "Someone greater than Solomon and the queen of the South will rise up in judgment with the men of this generation. This more that will rise is something beyond what has been seen before, surpassing both the wisdom of Solomon and the fame of the queen. This generation had the opportunity to hear not just natural or moral wisdom, but also spiritual and heavenly wisdom from Jesus himself, making their condemnation even greater.",
+            "wordCount": 73,
+            "quoteTokenProportion": 59.62,
+            "qualityScore": 1.6161255942174961,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
             "commentatorTierSimilarities": [
-                21.35,
-                31.97,
-                46.68
+                32.04,
+                27.58,
+                40.38
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In the future resurrection, the queen of the south, alongside the men of this generation, will stand in judgment. Her actions of seeking wisdom from a mere man will be brought as evidence against them, intensifying their condemnation. While she sought wisdom from Solomon, they had the opportunity to listen to the wisdom of God and embrace salvation. Hence, the sign given to this generation surpasses what enticed the queen of the south.",
-            "wordCount": 73,
-            "quoteTokenProportion": 42.0,
-            "qualityScore": 1.3262089261560763,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.44,
+            "bht": "In Luke 11:31, it is said that she shall rise up in the judgment with the men of this generation, and condemn them. Her conduct would be brought as an evidence against them, and be improved as an aggravation of their condemnation. The sign given to this generation is something greater than what attracted the queen of the south, who came to hear only natural or moral wisdom from Solomon. In contrast, this generation had the opportunity to hear spiritual and heavenly wisdom from Jesus, who is the wisdom of God and our Savior.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5072346249048523,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
             "commentatorTierSimilarities": [
-                26.2,
-                32.07,
-                41.73
+                22.96,
+                26.56,
+                50.48
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the future resurrection, the queen of the south, representing the Gentiles, will rise from the dead and stand in judgment alongside the men of this generation, representing the Jews. Her actions of seeking wisdom from a mere man will serve as evidence against them, exacerbating their condemnation. While she sought wisdom from Solomon, they had the chance to hear and heed the wisdom of God, but they rejected it. Therefore, the sign given to this generation holds greater significance than what attracted the queen of the south.",
-            "wordCount": 88,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 1.310830086276097,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.93,
+            "bht": "In this passage, it is said that she shall rise up in the judgment with the men of this generation, and condemn them. The sign given to this generation is greater than what attracted the queen of the south, who came to hear only natural or moral wisdom from Solomon. This generation had the opportunity to hear spiritual and heavenly wisdom from Jesus, who is the wisdom of God and our Savior.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.6296267282896508,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
             "commentatorTierSimilarities": [
-                22.96,
-                31.98,
-                45.06
+                28.32,
+                27.57,
+                44.1
             ],
             "generationAttempt": 5
         }

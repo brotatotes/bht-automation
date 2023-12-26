@@ -1,54 +1,54 @@
 {
-    "timestamp": "12-19-2023 16:18:41",
+    "timestamp": "12-25-2023 20:33:27",
     "verseRef": "Luke 11:37",
     "bestBHT": {
-        "bht": "While reproving the generation, Jesus accepted an invitation to dine with a Pharisee for breakfast. This meal held significance as the morning repast after prayers in the synagogue. Despite knowing that his neglect of ceremonial washing would cause offense, Jesus declined to observe it, emphasizing spiritual purity over outward cleanliness. He willingly went with the Pharisee and immediately sat down, demonstrating that God values inner righteousness above religious rituals and external appearances. This incident teaches us the importance of true purity and the hypocrisy of substituting outward forms for genuine worship.",
-        "wordCount": 91,
-        "quoteTokenProportion": 30.14,
-        "qualityScore": 1.3582140032494974,
-        "qualityScoreNormalizedComparedToV2BHTs": 36.5,
+        "bht": "The meal mentioned here is not a dinner but rather a morning meal known as dine, after morning prayers in the synagogue. Jesus intentionally disregarded outward ceremonies to correct people's superstitions and valued spiritual righteousness over external cleanness. Despite knowing the Pharisee's evil design, Jesus did not decline the ordinary invitation, using it as an opportunity to do good. He sat down without any formalities, displaying his affable nature and willingness to engage with all sorts of people.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.4392879912559855,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.2,
         "commentatorTierSimilarities": [
-            24.36,
-            20.39,
-            55.25
+            22.64,
+            30.2,
+            47.16
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "This meal, as also that in John xxi. 12, 15, was not what we now understand by dinner, an afternoon meal, but the first meal of the day, the breakfast or dejeuner in the prime of the morning.",
-            "We may retain dine (indeed we have no other fitting word) provided we remember this.",
-            "We may retain dine (indeed we have no other fitting word) provided we remember this."
+            "This meal, as also that in John xxi. 12, 15, was not what we now understand by dinner...\" (37)",
+            "We may retain dine (indeed we have no other fitting word) provided we remember this.\" (37)",
+            "...the first meal of the day, the breakfast or dejeuner in the prime of the morning.\" (37)"
         ],
         "Albert Barnes": [
-            "While he was addressing the people, and particularly while he was reproving that generation and declaring its crimes.",
-            "He knew that it might afford him an opportunity to do good.",
-            "Reclined at the table."
+            "He went in - Though he knew the evil design of the Pharisee, yet he did not decline the invitation. He knew that it might afford him an opportunity to do good.",
+            "These two things are to be observed in regard to our Saviour\u2019s conduct in such matters.",
+            "Sat down - Reclined at the table."
         ],
         "Marvin Vincent": [
-            "Besought [\u03b5\u03c1\u03c9\u03c4\u03b1] . Too strong. Better, as Rev., asketh. The present tense.\" ",
-            "Dine [\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03c3\u03b7] . See on dinner, Matthew 22:4. The morning meal, immediately after the return from morning prayers in the synagogue.",
-            "Washed [\u03b5\u03b2\u03b1\u03c0\u03c4\u03b9\u03c3\u03b8\u03b7] . See on Mark 7:4."
+            "Besought (asketh). The present tense.",
+            "Dine. The morning meal, immediately after the return from morning prayers in the synagogue.",
+            "Washed. See on Mark 7:4."
         ],
         "John Calvin": [
-            "God had prescribed in his Law certain kinds of washings, that by means of them he might train his people usefully to the consideration of true purity.",
-            "This fault was accompanied by wicked confidence; for they cared little about the spiritual worship of God, and thought that they had perfectly discharged their duty, when the figure was substituted in the place of God.",
-            "Christ is fully aware that his neglect of this ceremony will give offense, but he declines to observe it, in order to show that God sets very little value on outward cleanness, but demands the spiritual righteousness of the heart."
+            "Christ, in order to correct the superstition of the people, intentionally disregarded outward ceremonies of human invention.\" ",
+            "God sets very little value on outward cleanness, but demands the spiritual righteousness of the heart.",
+            "They cared little about the spiritual worship of God, and thought that they had perfectly discharged their duty, when the figure was substituted in the place of God."
         ],
         "Philip Schaff": [
-            "While he had been speaking, i.e., the foregoing. A reference to some other time is barely possible, certainly not natural.",
+            "A reference to some other time is barely possible, certainly not natural.",
             "\u2018Besought\u2019 is too strong; it was an ordinary invitation.",
             "The meal was not the principal repast of the day, but a morning one."
         ],
         "Archibald T. Robertson": [
-            "No time in the aorist infinitive.",
-            "Request, not question.",
-            "The verb is from \u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd (breakfast)."
+            "\u03b5\u03bd with the articular infinitive (aorist active infinitive) but it does not mean 'after he had spoken' as Plummer argues, but simply 'in the speaking,' no time in the aorist infinitive.\" ",
+            "Note \u03bf\u03c0\u03c9\u03c2 rather than the common \u03b9\u03bd\u03b1. Aorist active subjunctive rather than present, for a single meal.\" ",
+            "Second aorist active indicative of \u03b1\u03bd\u03b1\u03c0\u03b9\u03c0\u03c4\u03c9, old verb, to recline, to fall back on the sofa or lounge."
         ],
         "John Gill": [
-            "Christ, who was always affable and free with all sorts of men, readily accepted of the invitation.",
-            "Whatever were the intentions of the Pharisee, Christ...at once went along with him to his house.",
-            "He immediately sat down without any ceremony."
+            "who was an overmatch for them before the people",
+            "Christ, who was always affable and free with all sorts of men",
+            "he immediately sat down without any ceremony"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus, while speaking to the people and reproving their generation, accepted an invitation to dine at the house of a Pharisee. This meal was not a typical dinner, but rather the first meal of the day, in the morning after prayers. Though Jesus knew that his neglect of the ceremonial washing would cause offense, he declined to observe it, emphasizing the importance of spiritual purity over outward cleanness. Despite the intentions of the Pharisee, Jesus readily went with him to his house and immediately sat down without any ceremony. This incident serves as a reminder that God values inner righteousness of the heart more than religious rituals and external appearances.",
-            "wordCount": 110,
-            "quoteTokenProportion": 39.51,
-            "qualityScore": 1.4134742804030633,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.34,
+            "bht": "The meal described in this verse is not what we now understand as dinner; rather, it refers to the morning meal immediately after returning from morning prayers in the synagogue. The use of the word besought implies a simple, ordinary invitation. Jesus intentionally disregarded the outward ceremonies of human invention in order to correct the superstitions of the people. He valued spiritual righteousness of the heart over outward cleanness. Despite knowing the evil design of the Pharisee, Jesus did not decline the invitation because he saw it as an opportunity to do good. He sat down and immediately without any ceremony, displaying his affable and free nature.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.4014096381000232,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.94,
             "commentatorTierSimilarities": [
-                20.66,
-                23.51,
-                55.83
+                23.12,
+                31.75,
+                45.13
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "While reproving the generation, Jesus accepted an invitation to dine with a Pharisee for breakfast. This meal held significance as the morning repast after prayers in the synagogue. Despite knowing that his neglect of ceremonial washing would cause offense, Jesus declined to observe it, emphasizing spiritual purity over outward cleanliness. He willingly went with the Pharisee and immediately sat down, demonstrating that God values inner righteousness above religious rituals and external appearances. This incident teaches us the importance of true purity and the hypocrisy of substituting outward forms for genuine worship.",
-            "wordCount": 91,
-            "quoteTokenProportion": 30.14,
-            "qualityScore": 1.3582140032494974,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.5,
+            "bht": "The meal mentioned in this passage is not a dinner but rather a morning meal, known as dine, that took place after morning prayers in the synagogue. Jesus disregarded outward ceremonies and emphasized the importance of spiritual righteousness over external cleanliness. Despite being aware of the Pharisee's evil intentions, Jesus accepted the invitation, showcasing his affable nature. He immediately sat down without any formalities, showing his willingness to engage with all sorts of people.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.3868855768550759,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.46,
             "commentatorTierSimilarities": [
-                24.36,
-                20.39,
-                55.25
+                25.09,
+                28.76,
+                46.15
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "During His reproof of the generation, Jesus accepted an invitation to dine with a Pharisee for breakfast, after morning prayers. Though aware that His neglect of ceremonial washing would cause offense, Jesus declined to observe it, highlighting the importance of spiritual purity over outward cleanliness. Despite their intentions, Jesus willingly went to the Pharisee's house and immediately sat down, showing that God values inner righteousness more than religious rituals and external appearances. This incident serves as a reminder of the significance of true purity and the emptiness of replacing genuine worship with mere symbols.",
-            "wordCount": 95,
-            "quoteTokenProportion": 29.73,
-            "qualityScore": 1.3436768714339746,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.02,
+            "bht": "The meal mentioned here is not a dinner but rather a morning meal known as dine, after morning prayers in the synagogue. Jesus intentionally disregarded outward ceremonies to correct people's superstitions and valued spiritual righteousness over external cleanness. Despite knowing the Pharisee's evil design, Jesus did not decline the ordinary invitation, using it as an opportunity to do good. He sat down without any formalities, displaying his affable nature and willingness to engage with all sorts of people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4392879912559855,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.2,
             "commentatorTierSimilarities": [
-                21.84,
-                18.73,
-                59.42
+                22.64,
+                30.2,
+                47.16
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "While reproving the generation, Jesus accepted a breakfast invitation from a Pharisee. This morning meal, following synagogue prayers, held significance. Jesus, aware that His omission of ceremonial washing would offend, declined to observe it, emphasizing spiritual purity over outward cleanliness. Despite the Pharisee's intentions, Jesus willingly went to his house and promptly sat down, demonstrating that God esteems inner righteousness more than religious rituals and external appearances. This incident underscores the importance of genuine purity and the futility of substituting symbolic acts for sincere worship.",
+            "bht": "The meal described in this account is not the typical dinner we understand today, but rather a morning meal immediately following prayers in the synagogue. Jesus intentionally ignored outward customs and valued spiritual righteousness over external cleanliness, rebuking the people's superstitions. Despite his knowledge of the Pharisee's evil intentions, Jesus accepted the ordinary invitation, using it as an opportunity to do good. He sat down without ceremony, showcasing his affable nature, and demonstrating his willingness to engage with people from all walks of life.",
             "wordCount": 86,
-            "quoteTokenProportion": 24.29,
-            "qualityScore": 1.334582041863667,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.72,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.3606461689661997,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.58,
             "commentatorTierSimilarities": [
-                23.63,
-                20.58,
-                55.79
+                24.19,
+                29.06,
+                46.75
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus, while reproving the generation, accepted a breakfast invitation from a Pharisee. This morning meal, after synagogue prayers, held significance. Though aware that His omission of ceremonial washing would offend, Jesus declined to observe it, emphasizing spiritual purity over outward cleanliness. Despite the Pharisee's intentions, Jesus willingly went to his house and sat down without ceremony, illustrating that God treasures inner righteousness over religious rituals and superficial appearances. This incident highlights the importance of genuine purity and warns against substituting symbols for true worship.",
-            "wordCount": 85,
-            "quoteTokenProportion": 27.14,
-            "qualityScore": 1.3492603321620327,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.21,
+            "bht": "The morning meal described in this account, referred to as dine, was not the typical dinner we know today. Jesus intentionally disregarded outward customs and valued spiritual righteousness over external cleanliness, challenging the people's superstitions. Despite being aware of the Pharisee's evil intentions, Jesus accepted the ordinary invitation as an opportunity for good. He sat down without ceremony, displaying his affable nature and willingness to engage with people from all walks of life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.3824093072807981,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.31,
             "commentatorTierSimilarities": [
-                23.71,
-                21.14,
-                55.14
+                21.41,
+                32.31,
+                46.28
             ],
             "generationAttempt": 5
         }

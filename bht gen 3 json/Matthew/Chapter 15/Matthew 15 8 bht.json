@@ -1,42 +1,42 @@
 {
-    "timestamp": "12-19-2023 23:48:30",
+    "timestamp": "12-25-2023 20:31:55",
     "verseRef": "Matthew 15:8",
     "bestBHT": {
-        "bht": "In this portion of Isaiah, the religious leaders are rebuked for prioritizing man-made traditions over the true worship of God. Their external acts of piety lack genuine devotion and love for Him. By equating their own commandments with God's, they render their worship meaningless. This exposes the shallow nature of their rituals and reveals their lack of true faith. It serves as a reminder that authentic worship requires a heart that is close to God, not just outward displays of devotion.",
-        "wordCount": 83,
-        "quoteTokenProportion": 38.33,
-        "qualityScore": 1.4458839917988535,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+        "bht": "The quote from Isaiah warns about the punishment of nominal Israel and the salvation of the true Israel of God. It asserts the perpetual relevance of God's threats and promises in the Church. The religious leaders' worship was vain because they elevated the commandments of men to the level of divine requirements, contradicting the observance of God's commandments. This exposes their superficial and self-serving nature, highlighting the need for sincere devotion and a heart that is close to God in worship.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.5134666325888408,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.67,
         "commentatorTierSimilarities": [
-            24.0,
-            15.48,
-            60.51
+            30.65,
+            20.15,
+            49.2
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The portion of Isaiah from which this citation is made (ch, xxiv.\u2014xxxv.) sets forth, in alternate threatenings and promises, the punishment of the mere nominal Israel, and the salvation of the true Israel of God.",
-            "Its threats and promises are for all times of the Church;\u2014the particular event then foretold being but one fulfilment of those deeper and more general declarations of God.",
-            "Shall be ever having their successive illustrations in His dealings with men."
+            "Its threats and promises are for all times of the Church.",
+            "The particular event then foretold being but one fulfilment of those deeper and more general declarations of God, which shall be ever having their successive illustrations in His dealings with men."
         ],
         "Jamieson-Fausset-Brown": [
             "By putting the commandments of men on a level with the divine requirements, their whole worship was rendered vain\u2014a principle of deep moment in the service of God.",
-            "The drivelling nature of their multitudinous observances is here pointedly exposed, in contrast with the manly observance of 'the commandment of God'.",
+            "The drivelling nature of their multitudinous observances is here pointedly exposed, in contrast with the manly observance of 'the commandment of God.'",
             "It is implied that He had but given a specimen of the hideous treatment which the divine law received, and the grasping disposition which, under the mask of piety, was manifested by the ecclesiastics of that day."
         ],
         "Marvin Vincent": [
             "Is far [\u03b1\u03c0\u03b5\u03c7\u03b5\u03b9] . Lit., holds off from me."
         ],
         "Philip Schaff": [
-            "Their heart is far from me.\" ",
-            "Applicable first to the contemporaries of Isaiah, but descriptive of the unbelieving Jews in all ages.",
-            "Peculiarly 'apt' at that time."
+            "This people, etc. The briefer form is now the established reading. Early copyists inserted the full form.",
+            "Their heart is far from me. In the Hebrew: \u2018Their heart they have removed far from me.\u2019",
+            "Applicable first to the contemporaries of Isaiah, but descriptive of the unbelieving Jews in all ages, and, as our Lord declares, peculiarly \u2018apt \u2018at that time."
         ],
         "John Gill": [
             "They approached the ordinances of God, and drew nigh to him, and attended him in outward worship; they prayed unto him publicly, and constantly, in the streets, in the synagogues, and temple, and with much seeming devotion and sanctity.",
-            "But their heart is far from me; they had no true love to God, nor faith in him, nor fear of him; they were not at all concerned for his presence with them, or for communion with him, or for his honour and glory.",
-            "They made religion a tool to their secular purposes, supposing gain to be godliness; sought the applause of men, and contented themselves with bodily exercise; having no regard to internal religion, powerful godliness."
+            "They owned him to be their creator and preserver; they made their boast of him, and of their knowledge of him, as the one only living, and true God, and as the God of Israel; they brought their sacrifices of praise and thanksgiving, even the fruit of their lips, unto him, for their many peculiar mercies, privileges, and favours, as a nation, church, and people, and with much seeming sincerity and affection.",
+            "They had no true love to God, nor faith in him, nor fear of him; they were not at all concerned for his presence with them, or for communion with him, or for his honour and glory; their hearts were in the world, and after their covetousness."
         ],
         "John Wesley": [
             "Their heart is far from me \u2014 And without this all outward worship is mere mockery of God. Isaiah 29:13."
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Matthew 15:8, Jesus quotes from Isaiah to confront the religious leaders who prioritize man-made traditions over the true worship of God. The passage from Isaiah speaks not only to the immediate context of Jesus' time but also to the timeless nature of the Church. It exposes the shallow nature of their rituals and the insincerity of their worship, which lacks love, faith, and genuine devotion to God. Their external displays of piety are empty when their hearts are far from Him. This serves as a reminder that true worship requires an intimate relationship with God, rather than mere adherence to outward rituals.",
-            "wordCount": 103,
-            "quoteTokenProportion": 39.44,
-            "qualityScore": 1.4569706711429213,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
+            "bht": "The passage in Matthew 15:8 cites the portion of Isaiah that speaks of the punishment of nominal Israel and the salvation of the true Israel of God. It conveys the threats and promises that are applicable to all times of the Church. By equating the commandments of men with God's requirements, the religious leaders rendered their worship empty and revealed the superficiality of their countless observances. This exemplified their disregard for the divine law and their self-seeking nature. It is clear that true worship requires a heart that is close to God and not solely focused on outward rituals. Isaiah aptly describes this when he says, Their heart they have removed far from me.",
+            "wordCount": 115,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.5470921892259957,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.78,
             "commentatorTierSimilarities": [
-                22.65,
-                20.96,
-                56.39
+                27.44,
+                25.89,
+                46.67
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The portion of Isaiah quoted in Matthew 15:8 exposes the shallow nature of the religious leaders' rituals and the insincerity of their worship. By putting man-made traditions on the same level as God's commandments, their worship becomes empty and meaningless. Their outward displays of piety do not reflect a genuine love, faith, or fear of God. True worship requires a heart that is close to God, not just outward acts of devotion. This verse serves as a reminder to prioritize an authentic and intimate relationship with God over religious rituals.",
-            "wordCount": 91,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 1.5073316408766488,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "bht": "The citation from Isaiah highlights the punishment of nominal Israel and the salvation of the true Israel of God. It emphasizes that God's threats and promises are relevant throughout the history of the Church. By regarding the commandments of men as equal to God's requirements, the religious leaders rendered their worship worthless, exposing their shallow observances. This reveals their lack of love, faith, and fear for God, as their hearts were fixated on the world and their own desires. True worship demands a heart that is sincerely close to God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4875064310110344,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.8,
             "commentatorTierSimilarities": [
-                25.19,
-                15.89,
-                58.92
+                28.79,
+                19.75,
+                51.46
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The religious leaders in this passage render their worship vain by elevating man-made traditions to the same level as God's commandments. Their multitude of observances is exposed as shallow and devoid of true devotion to God. Their external acts of piety lack genuine love, faith, and fear of Him. The heart behind their worship is far from God, highlighting the necessity of cultivating a sincere and intimate relationship with Him. This serves as a crucial reminder that true worship goes beyond outward rituals and requires a genuine connection with the Lord.",
-            "wordCount": 93,
-            "quoteTokenProportion": 29.69,
-            "qualityScore": 1.4726321847456454,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+            "bht": "The quote from Isaiah warns about the punishment of nominal Israel and the salvation of the true Israel of God. It asserts the perpetual relevance of God's threats and promises in the Church. The religious leaders' worship was vain because they elevated the commandments of men to the level of divine requirements, contradicting the observance of God's commandments. This exposes their superficial and self-serving nature, highlighting the need for sincere devotion and a heart that is close to God in worship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.5134666325888408,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
             "commentatorTierSimilarities": [
-                25.72,
-                14.17,
-                60.11
+                30.65,
+                20.15,
+                49.2
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this portion of Isaiah, the religious leaders are rebuked for prioritizing man-made traditions over the true worship of God. Their external acts of piety lack genuine devotion and love for Him. By equating their own commandments with God's, they render their worship meaningless. This exposes the shallow nature of their rituals and reveals their lack of true faith. It serves as a reminder that authentic worship requires a heart that is close to God, not just outward displays of devotion.",
-            "wordCount": 83,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.4458839917988535,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "bht": "The citation from Isaiah reveals the punishment of nominal Israel alongside the salvation of the true Israel of God. It emphasizes the perpetual application of God's threats and promises in the Church. The religious leaders' worship was rendered futile as they elevated the commandments of men, exposing the emptiness of their numerous observances. Their lack of genuine love, faith, and fear for God meant their hearts were far from Him, highlighting the importance of heartfelt devotion and a close relationship with God in true worship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.5091055670103202,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
             "commentatorTierSimilarities": [
-                24.0,
-                15.48,
-                60.51
+                30.06,
+                20.33,
+                49.6
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The religious leaders in Matthew 15:8 are rebuked for prioritizing man-made traditions over the true worship of God. Their multitude of observances is exposed as shallow and devoid of genuine devotion. By elevating their own commandments to the same level as God's, their worship becomes empty and meaningless. This passage serves as a reminder that true worship requires a heart that is close to God, rather than mere adherence to outward rituals. It emphasizes the importance of an intimate and sincere relationship with Him.",
-            "wordCount": 85,
-            "quoteTokenProportion": 41.27,
-            "qualityScore": 1.3645903924092235,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "bht": "The citation from Isaiah warns about the punishment of nominal Israel and the salvation of the true Israel of God. It highlights the enduring relevance of God's threats and promises in the Church. The religious leaders' worship was in vain as they placed the commandments of men on par with divine requirements, exposing their shallow adherence to countless observances. This highlights the need for sincere worship, where the heart is close to God, rather than being consumed by worldly desires.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.507392749787379,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
             "commentatorTierSimilarities": [
-                27.63,
-                14.27,
-                58.11
+                31.49,
+                21.46,
+                47.05
             ],
             "generationAttempt": 5
         }

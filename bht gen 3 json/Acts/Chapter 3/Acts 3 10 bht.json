@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:25:18",
+    "timestamp": "12-25-2023 20:33:42",
     "verseRef": "Acts 3:10",
     "bestBHT": {
-        "bht": "As the people saw the man who had been healed, they recognized him as the beggar who used to sit and ask for alms. This was a clear and undeniable fact to them. Their recognition of him was not just a passing thought, but rather a growing realization. This realization filled them with wonder and amazement at what had happened to him, as it was something extraordinary and beyond their expectations.",
-        "wordCount": 71,
-        "quoteTokenProportion": 54.0,
-        "qualityScore": 1.4705891841513736,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.24,
+        "bht": "They recognized him as the beggar who sat daily asking for alms, and they were filled with awe and amazement at what had happened to him.",
+        "wordCount": 26,
+        "quoteTokenProportion": 56.52,
+        "qualityScore": 1.9446029293202427,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.0,
         "commentatorTierSimilarities": [
-            31.03,
+            31.87,
             0.0,
-            68.97
+            68.13
         ],
         "generationAttempt": 1
     },
@@ -29,9 +29,9 @@
             "At that which had happened (\u03c4\u03c9 \u03c3\u03c5\u03bc\u03b2\u03b5\u03b2\u03b7\u03ba\u03bf\u03c4). Perfect active participle of \u03c3\u03c5\u03bc\u03b2\u03b1\u03b9\u03bd\u03c9."
         ],
         "John Gill": [
-            "they knew him to be that beggar that sat daily and asked alms",
+            "They knew him to be that beggar that sat daily and asked alms.",
             "It was a clear and indisputable point with them.",
-            "they were all filled with wonder and amazement at that which had happened unto him"
+            "They were all filled with wonder and amazement at that which had happened unto him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "As the people saw the man who had been healed, they recognized him as the beggar who used to sit and ask for alms. This was a clear and undeniable fact to them. Their recognition of him was not just a passing thought, but rather a growing realization. This realization filled them with wonder and amazement at what had happened to him, as it was something extraordinary and beyond their expectations.",
-            "wordCount": 71,
-            "quoteTokenProportion": 54.0,
-            "qualityScore": 1.4705891841513736,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.24,
+            "bht": "They recognized him as the beggar who sat daily asking for alms, and they were filled with awe and amazement at what had happened to him.",
+            "wordCount": 26,
+            "quoteTokenProportion": 56.52,
+            "qualityScore": 1.9446029293202427,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
             "commentatorTierSimilarities": [
-                31.03,
+                31.87,
                 0.0,
-                68.97
+                68.13
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When they saw the formerly crippled man walking and leaping and praising God, the people recognized him as the beggar who sat at the Beautiful Gate daily. Their astonishment grew as they realized that a miraculous healing had taken place. The crowd was filled with wonder and amazement at the transformation that had occurred before their eyes.",
-            "wordCount": 57,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.3648113716166077,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "bht": "They took knowledge of him, knowing him to be the beggar who sat daily seeking alms. Filled with wonder and amazement, they marveled at the miraculous event that had taken place.",
+            "wordCount": 31,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6826861425336967,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.29,
             "commentatorTierSimilarities": [
-                32.97,
+                34.23,
                 0.0,
-                67.03
+                65.77
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "As the people saw the beggar who used to sit at the Beautiful Gate daily, asking for alms, their recognition of him grew. They were filled with wonder and amazement at the miraculous healing that had taken place before their eyes. The transformation of this man caused astonishment among the crowd, as they realized the incredible change that had occurred.",
-            "wordCount": 60,
-            "quoteTokenProportion": 40.43,
-            "qualityScore": 1.3308530749508747,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.59,
+            "bht": "Recognizing him as the beggar who regularly sought alms, they were filled with amazement and wonder at the miraculous event that had occurred.",
+            "wordCount": 23,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.710036699994895,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
             "commentatorTierSimilarities": [
-                31.89,
+                35.97,
                 0.0,
-                68.11
+                64.03
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When the people saw the beggar who used to sit at the Beautiful Gate daily, asking for alms, they recognized him and were filled with wonder and amazement at the miraculous healing that had taken place. The transformation of this man caused astonishment among the crowd, as they realized the incredible change that had occurred before their eyes.",
-            "wordCount": 58,
-            "quoteTokenProportion": 42.55,
-            "qualityScore": 1.2737672275873582,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.7,
+            "bht": "Recognizing him as the beggar who sat daily seeking alms, they were filled with wonder and amazement at what had happened to him.",
+            "wordCount": 23,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.9387338998579051,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.8,
             "commentatorTierSimilarities": [
-                33.21,
+                32.84,
                 0.0,
-                66.79
+                67.16
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "As the people set their eyes upon the beggar who was accustomed to occupying the Beautiful Gate, beseeching for alms, they immediately knew and truly recognized him. The crowd was filled with awe and astonishment, overwhelmed by the incredible healing that had transpired. This remarkable transformation left them in a state of wonder and amazement as they witnessed the undeniable power of God at work.",
-            "wordCount": 65,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.2785645226019087,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.86,
+            "bht": "They immediately recognized him as the beggar who used to sit for alms, and were filled with astonishment and awe at the incredible transformation that had occurred.",
+            "wordCount": 27,
+            "quoteTokenProportion": 56.0,
+            "qualityScore": 1.5621467424103788,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
             "commentatorTierSimilarities": [
-                33.48,
+                33.39,
                 0.0,
-                66.52
+                66.61
             ],
             "generationAttempt": 5
         }

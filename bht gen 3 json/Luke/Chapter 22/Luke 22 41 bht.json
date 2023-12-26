@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:23:01",
+    "timestamp": "12-25-2023 20:33:34",
     "verseRef": "Luke 22:41",
     "bestBHT": {
-        "bht": "Jesus, feeling an inward urgency, was torn away from his disciples and positioned himself at a distance of about a stone's throw. Even though he stayed close enough to be within earshot, he kneeled down and persisted in prayer. This intentional act of withdrawing and engaging in intense prayer underscores the intimate relationship between Jesus and the Father, emphasizing the immense weight and importance of the events that were about to unfold.",
-        "wordCount": 73,
-        "quoteTokenProportion": 42.11,
-        "qualityScore": 1.2561804845759406,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+        "bht": "He was torn away as by an inward urgency and began to pray. He withdrew himself about a stone's throw, not so far as to be out of hearing. Kneeling down, he kept on praying fervently.",
+        "wordCount": 37,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 1.7808068674479969,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.55,
         "commentatorTierSimilarities": [
-            27.25,
-            29.29,
-            43.46
+            34.1,
+            30.81,
+            35.09
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Marvin Vincent": [
             "Was withdrawn [\u03b1\u03c0\u03b5\u03c3\u03c0\u03b1\u03c3\u03b8\u03b7] . The Vulgate has avulsus est, 'he was torn away,' as by an inward urgency.",
             "Godet adopts this view, and so, apparently, Wyc., he was taken away.",
-            "Meyer inclines to it; De Wette decidedly rejects it."
+            "Prayed. Imperfect, began to pray."
         ],
         "Philip Schaff": [
             "Withdrew himself, lit, \u2018was himself withdrawn.\u2019 Drawn by internal anguish, some suppose.",
@@ -31,8 +31,8 @@
             "Prayed (\u03c0\u03c1\u03bf\u03c3\u03b7\u03c5\u03c7\u03b5\u03c4\u03bf). Imperfect middle, was praying, kept on praying."
         ],
         "John Gill": [
-            "And he was withdrawn from them,.... That is, from the three disciples, Peter, James, and John, whom he took along with him.\" ",
-            "Leaving the rest at some further distance; and from these he removed, about a stone's cast; fifty or sixty feet from the place where they were.\" ",
+            "He was withdrawn from them... and kneeled down and prayed.\" ",
+            "From these he removed, about a stone's cast; fifty, or sixty feet from the place where they were.",
             "And kneeled down and prayed; the following prayer."
         ]
     },
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, it is noted that Jesus was withdrawn from the disciples, suggesting that he was taken away by an inward urgency. He went about a stone's throw away from them, close enough to still be within hearing distance. Kneeling down, Jesus kept praying, as indicated by the use of the imperfect middle tense. Here, Jesus withdraws from the disciples and enters into an intense time of prayer, demonstrating his deep connection with the Father and the weightiness of the impending events.",
-            "wordCount": 84,
-            "quoteTokenProportion": 42.19,
-            "qualityScore": 1.293379998832791,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.35,
+            "bht": "He was torn away, as if urgently compelled, and began to pray. He withdrew himself at a distance about a stone's throw, not too far to be out of hearing, but still separate from them. Then, he kneeled down and continued to pray with great persistence.",
+            "wordCount": 47,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 1.5958824432504306,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.41,
             "commentatorTierSimilarities": [
-                27.89,
-                33.6,
-                38.52
+                32.9,
+                25.66,
+                41.44
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus was torn away from the disciples due to an inward urgency, withdrawing himself about a stone's throw away. Although he remained within earshot, he knelt down and continued to pray persistently. This act of withdrawing and engaging in fervent prayer highlights the profound connection between Jesus and the Father, illustrating the gravity and significance of the forthcoming events.",
-            "wordCount": 60,
-            "quoteTokenProportion": 38.3,
-            "qualityScore": 1.178527950821869,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.53,
+            "bht": "He was torn away as by an inward urgency and began to pray. He withdrew himself about a stone's throw, not so far as to be out of hearing. Kneeling down, he kept on praying fervently.",
+            "wordCount": 37,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.7808068674479969,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
             "commentatorTierSimilarities": [
-                28.2,
-                30.53,
-                41.27
+                34.1,
+                30.81,
+                35.09
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus, feeling an inward urgency, was torn away from his disciples and positioned himself at a distance of about a stone's throw. Even though he stayed close enough to be within earshot, he kneeled down and persisted in prayer. This intentional act of withdrawing and engaging in intense prayer underscores the intimate relationship between Jesus and the Father, emphasizing the immense weight and importance of the events that were about to unfold.",
-            "wordCount": 73,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.2561804845759406,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+            "bht": "In his time of agonizing prayer, Jesus was torn away and withdrawn from his disciples, leaving them slightly farther than a stone's throw away. With knees on the ground, he began to fervently pray, persistently seeking solace and guidance from his heavenly Father. The intensity and urgency of this moment is palpable, as Jesus wrestles with his impending destiny.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.1779460743324548,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.51,
             "commentatorTierSimilarities": [
-                27.25,
-                29.29,
-                43.46
+                30.12,
+                27.83,
+                42.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus was withdrawn from the disciples, as if torn away by an inward urgency. He moved to a distance of about a stone's throw, close enough to still be within hearing range. Kneeling down, Jesus prayerfully persisted, demonstrating the depth of his connection to the Father. This intentional act of withdrawal and focused prayer reveals the intensity and gravity of the upcoming events.",
-            "wordCount": 64,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.1817406714837437,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.64,
+            "bht": "Withdrawn from the disciples, Jesus, with a sense of inner urgency, was torn away from them. Positioned about a stone's throw distance, he knelt down and commenced his prayer, fervently seeking solace and guidance as the anguish within him intensified. In this critical moment, Jesus displayed his unwavering devotion and connection to his heavenly Father, persistently and urgently entreating divine assistance.",
+            "wordCount": 62,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.2413474612478526,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.62,
             "commentatorTierSimilarities": [
-                27.13,
-                35.0,
-                37.87
+                30.69,
+                27.29,
+                42.02
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus, withdrawn and seemingly torn away by an inward urgency, positioned himself about a stone's throw away from the disciples, still within earshot. As he kneeled down, Jesus entered into a state of persistent prayer, continuously seeking communion with the Father. This deliberate act of withdrawal and deep engagement in fervent prayer accentuates the profound connection between Jesus and God, emphasizing the weightiness and significance of the impending events.",
-            "wordCount": 70,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.1930257055645506,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.01,
+            "bht": "Torn away from his disciples by an inner urgency, Jesus withdrew and positioned himself at a distance of about a stone's throw. Kneeling down, he began praying fervently, persistently seeking solace and guidance. This powerful moment captures Jesus' unwavering devotion and deep connection with his heavenly Father as he urgently implores for divine intervention in the face of impending turmoil.",
+            "wordCount": 61,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2855355412870135,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
             "commentatorTierSimilarities": [
-                28.29,
-                29.3,
-                42.41
+                33.28,
+                27.05,
+                39.67
             ],
             "generationAttempt": 5
         }

@@ -1,22 +1,22 @@
 {
-    "timestamp": "12-19-2023 16:23:35",
+    "timestamp": "12-25-2023 20:33:37",
     "verseRef": "Luke 23:32",
     "bestBHT": {
-        "bht": "Jesus, accompanied by two malefactors, was led to his crucifixion. This deliberate association aimed to intensify the shame and humiliation inflicted upon him. By being led with these evildoers, it was conveyed that Jesus was equally deserving of death. His crucifixion on the cross, traditionally reserved for the lowest and basest of men, underscored the immense suffering and degradation he willingly endured for humanity.",
-        "wordCount": 64,
-        "quoteTokenProportion": 38.78,
-        "qualityScore": 1.1379402453910585,
-        "qualityScoreNormalizedComparedToV2BHTs": 29.18,
+        "bht": "Jesus, along with two malefactors, was led to be put to death. Even though Jesus was innocent, being grouped with these evildoers deepened the shame He bore on the cross. It conveyed the false notion that He was just as guilty and deserving of death as they were. The crucifixion, a punishment reserved for the lowest and most contemptible individuals, magnified the disgrace Jesus endured, underscoring the magnitude of His suffering.",
+        "wordCount": 71,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 1.2347626625954937,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.4,
         "commentatorTierSimilarities": [
-            20.18,
-            16.78,
-            63.04
+            19.82,
+            16.52,
+            63.66
         ],
         "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Two others, malefactors.\" ",
+            "Two others, malefactors.",
             "The deep damnation of his taking off.",
             "Let her who would be rid of him, devise His speedy taking off."
         ],
@@ -27,14 +27,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Were led (\u0088gonto). Imperfect passive of \u03b1\u03b3\u03c9, were being led.\" ",
-            "Malefactors (\u03ba\u03b1\u03ba\u03bf\u03c5\u03c1\u03b3\u03bf). Evil (\u03ba\u03b1\u03ba\u03bf\u03bd), doers (work, \u03b5\u03c1\u03b3\u03bf\u03bd).",
-            "To be put to death (\u03b1\u03bd\u03b1\u03b9\u03c1\u03b5\u03b8\u03b7\u03bd\u03b1). First aorist passive infinitive of \u03b1\u03bd\u03b1\u03b9\u03c1\u03b5\u03c9, old verb, to take up, to take away, to kill."
+            "Were led. Imperfect passive of \u03b1\u03b3\u03c9, were being led.\" ",
+            "Malefactors. Evil (\u03ba\u03b1\u03ba\u03bf\u03bd), doers (work, \u03b5\u03c1\u03b3\u03bf\u03bd).\" ",
+            "To be put to death. First aorist passive infinitive of \u03b1\u03bd\u03b1\u03b9\u03c1\u03b5\u03c9, old verb, to take up, to take away, to kill."
         ],
         "John Gill": [
             "Not that Christ was one, though indeed he was looked upon and treated as one by the Jews.",
             "For the greater ignominy and reproach of Christ, that it might be thought he was equally a malefactor, and as deserving of death as they.",
-            "the death of the cross, which was the death the Romans put slaves, thieves, and robbers, and the worst and basest of men to."
+            "The death of the cross, which was the death the Romans put slaves, thieves, and robbers, and the worst and basest of men to."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -54,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 23:32, we see that Jesus was led with two malefactors, both considered evildoers in the eyes of the Jews. This association was intentional, aimed at increasing the shame and reproach of Christ, as if he were no different from these criminals. The fact that Jesus was led with them to be put to death on the cross further emphasized the lowly and despised nature of his crucifixion, reserved for slaves, thieves, robbers, and the most despicable individuals according to the Romans. This detail, unique to Luke's account, highlights the depth of the humiliation and suffering endured by Jesus.",
-            "wordCount": 100,
-            "quoteTokenProportion": 41.67,
-            "qualityScore": 1.1108144540290665,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.28,
+            "bht": "In Luke 23:32, two malefactors were led with Jesus to be put to death. This is significant because while Jesus was innocent, He was grouped with these evildoers and treated as one of them. The inclusion of these malefactors emphasizes the deep shame and ignominy that Jesus endured on the cross, as He was wrongly perceived and treated as deserving of death. It is important to note that Jesus' crucifixion was a death reserved for the lowest and vilest of individuals, highlighting the extent of the humiliation He faced.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.1759229901084054,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.44,
             "commentatorTierSimilarities": [
-                11.17,
-                23.97,
-                64.87
+                13.28,
+                20.51,
+                66.22
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, Jesus is led with two malefactors who were seen as evildoers by the Jews. By associating Jesus with these criminals, his humiliation and disgrace are magnified. The fact that Jesus was led with them to be put to death on the cross further highlights the depths of his suffering, as this form of execution was typically reserved for the lowest and most contemptible individuals in Roman society. This detail underscores the immense shame that Jesus endured for the sake of humanity.",
+            "bht": "In this passage, two malefactors were led along with Jesus to be put to death. Though Jesus was innocent, He was unjustly associated with these evildoers, highlighting the utter shame and dishonor He endured on the cross. By being grouped with these criminals, Jesus was subjected to the deepest ignominy, giving the impression that He, too, deserved death. It is crucial to recognize that the crucifixion, the most degrading form of execution, was typically reserved for slaves, thieves, and the most wretched of individuals.",
             "wordCount": 84,
-            "quoteTokenProportion": 42.37,
-            "qualityScore": 1.0952273718870131,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.76,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.162840279158553,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.01,
             "commentatorTierSimilarities": [
-                17.73,
-                19.17,
-                63.1
+                17.82,
+                14.82,
+                67.36
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus, accompanied by two malefactors, was led to his crucifixion. This deliberate association with evildoers aimed to intensify the shame and humiliation inflicted upon Jesus. Not only was he treated as if he were no different from these criminals, but he was also condemned to the ignominious death of the cross. This method of execution reserved for slaves, thieves, and the basest of men further underscored the immense suffering and degradation that Jesus willingly endured for the sake of humanity.",
-            "wordCount": 80,
-            "quoteTokenProportion": 41.67,
-            "qualityScore": 1.125697099120613,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.77,
+            "bht": "In this account, Jesus was led alongside two malefactors to be put to death. While Jesus was innocent, being associated with these evildoers added to the depth of shame He faced on the cross. It conveyed the false perception that Jesus was equally guilty and deserving of death. The crucifixion, a means of execution reserved for slaves, thieves, and the most despicable individuals, further emphasized the extent of the disgrace Jesus endured in His crucifixion.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.1939283936161424,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.04,
             "commentatorTierSimilarities": [
-                19.13,
-                15.15,
-                65.72
+                17.42,
+                16.28,
+                66.29
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus, accompanied by two malefactors, was led to his crucifixion. This deliberate association aimed to intensify the shame and humiliation inflicted upon him. By being led with these evildoers, it was conveyed that Jesus was equally deserving of death. His crucifixion on the cross, traditionally reserved for the lowest and basest of men, underscored the immense suffering and degradation he willingly endured for humanity.",
-            "wordCount": 64,
-            "quoteTokenProportion": 38.78,
-            "qualityScore": 1.1379402453910585,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.18,
+            "bht": "Jesus, along with two malefactors, was led to be put to death. Even though Jesus was innocent, being grouped with these evildoers deepened the shame He bore on the cross. It conveyed the false notion that He was just as guilty and deserving of death as they were. The crucifixion, a punishment reserved for the lowest and most contemptible individuals, magnified the disgrace Jesus endured, underscoring the magnitude of His suffering.",
+            "wordCount": 71,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.2347626625954937,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.4,
             "commentatorTierSimilarities": [
-                20.18,
-                16.78,
-                63.04
+                19.82,
+                16.52,
+                63.66
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus was led to his crucifixion with two malefactors, purposely aligning him with evildoers to increase his shame and disgrace. This association aimed to portray Jesus as equally deserving of death as these criminals. His crucifixion on the cross, a form of execution reserved for slaves, thieves, and the worst of men, magnified the depths of his suffering and degradation. This detail reflects the immense humility and sacrifice that Jesus willingly embraced for the redemption of humanity.",
-            "wordCount": 77,
-            "quoteTokenProportion": 29.63,
-            "qualityScore": 1.1322953559133375,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.99,
+            "bht": "In Luke 23:32, Jesus was led to be put to death alongside two malefactors, igniting intense shame upon Him on the cross. This association falsely portrayed Jesus as equally deserving of death, amplifying the depths of His humiliation. His crucifixion stood as the ultimate degradation, typically reserved for the vilest criminals and lowest societal outcasts. This stark contrast between Jesus, the sinless Son of God, and the malefactors underscores the tremendous sacrifice He willingly embraced to rescue humanity from its sin.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.1412111307947,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.29,
             "commentatorTierSimilarities": [
-                17.0,
-                16.86,
-                66.14
+                18.55,
+                18.62,
+                62.83
             ],
             "generationAttempt": 5
         }

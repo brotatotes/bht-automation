@@ -2,7 +2,7 @@ from bht.bht_common import *
 import statistics
 import json
 
-TEST_SCRIPT = True
+TEST_SCRIPT = False
 
 # Second batch
 # verses_and_scores = [("Matthew 15:19","2.0613756095195400","1.4036264456208000"),
@@ -936,7 +936,7 @@ for vr, v2, v3 in verses_and_scores:
     v3_scores[vr] = v3
 
     if v3_current - 2 >= -0.001:
-        print(f"Skipping {i}/{total} {vr} because v3 is good enough. v2={round(v2, 2)} v3={round(v3, 2)}")
+        print(f"Skipping {i}/{total} {vr} because v3 is good enough. v2={round(v2, 3)} v3={round(v3_current, 3)}")
         continue
 
     verses_to_run.append(vr)
@@ -955,7 +955,7 @@ for vr in verse_refs:
 
     v3_new_score = float(json_result["bestBHT"]["qualityScore"])
 
-    print(f"v2={round(v2_scores[vr], 2)} v3={round(v3_scores[vr], 2)} v3_new={round(v3_new_score, 2)} Improvement={round(v3_new_score-v3, 2)}")
+    print(f"{vr} v2={round(v2_scores[vr], 3)} v3={round(v3_scores[vr], 3)} v3_new={round(v3_new_score, 3)} Improvement={round(v3_new_score-v3, 3)}")
 
     if (v3_new_score - v3_scores[vr]) > 0.01:
         

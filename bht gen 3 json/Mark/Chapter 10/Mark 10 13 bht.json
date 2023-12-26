@@ -1,22 +1,22 @@
 {
-    "timestamp": "12-22-2023 23:25:59",
+    "timestamp": "12-25-2023 20:32:43",
     "verseRef": "Mark 10:13",
     "bestBHT": {
-        "bht": "The disciples, engrossed in their important conversation, reprimanded those who brought the young children to Jesus. However, Jesus recognized the simple yet profound gesture and allowed the children to come to Him. It was not a matter of baptism or salvation, but a natural act seeking His blessings and prayers. This incident highlights Jesus' tender nature and follows fittingly after His teachings on the sanctity of married life.",
-        "wordCount": 68,
-        "quoteTokenProportion": 38.89,
-        "qualityScore": 1.450811331289814,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+        "bht": "As Jesus journeyed, people brought young children to him, seeking his touch and prayer. Even though the disciples, engrossed in deep conversation, interrupted to reproach those who brought the children, Jesus did not intend to teach them; his purpose was simply to touch them and pray over them. This incident follows suitably after Jesus emphasized the sanctity of marriage, highlighting the significance of children within the family. The act of bringing children to Jesus was a genuine and instinctive response, demonstrating the natural inclination to seek Jesus' blessings.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.559911032499675,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.21,
         "commentatorTierSimilarities": [
-            38.02,
-            21.93,
-            40.04
+            36.37,
+            28.4,
+            35.23
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Our Lord was not to teach them, but only to touch, and pray over them.",
+            "Our Lord was not to teach them, but only to touch, and pray over them.\" ",
             "This simple, seemingly superstitious application of those that brought them.",
             "The disciples, interrupted in their converse on high and important subjects, despise and reprove."
         ],
@@ -29,14 +29,13 @@
         ],
         "Archibald T. Robertson": [
             "This incident follows with singular fitness after the Lord's assertion of the sanctity of married life\" (Swete).",
-            " ",
-            "They were brought to Jesus for his blessing and prayers (Matthew).",
+            "These children (\u03c0\u03b1\u03b9\u03b4\u03b9\u03b1, Mark and Matthew; \u03b2\u03c1\u03b5\u03c6\u03b7 in Luke) were of various ages.",
             "There was, of course, no question of baptism or salvation involved, but a most natural thing to do."
         ],
         "John Gill": [
-            "And they brought young children to him... that he should touch them.",
-            "His disciples rebuked those that brought [the children].",
-            "His disciples rebuked those that brought [the children]."
+            "And they brought young children to him... that he should touch them...\" ",
+            "...brought their children in their arms, or hands...",
+            "...his disciples rebuked those that brought [them]"
         ],
         "John Wesley": [
             "Matthew 19:13."
@@ -59,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The incident in Mark 10:13 demonstrates the tender nature of Jesus' interactions with children. The disciples, however, interrupted their conversation on important matters and despised those who brought the children to Jesus. Nevertheless, Jesus saw value in their actions and allowed the children to approach him. There was no question of baptism or salvation involved, but rather a natural desire for Jesus' blessing and prayers. The parallel account in Matthew 19:13 further emphasizes that the purpose of bringing the children to Jesus was for him to touch them.",
-            "wordCount": 86,
-            "quoteTokenProportion": 40.68,
-            "qualityScore": 1.5216993999084591,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "bht": "As Jesus continued on his way, people brought young children to him. They desired his touch and prayer over their children, recognizing the significance of his presence. However, the disciples, engaged in a deep conversation, interrupted to despise and reprove those who brought the children, perhaps considering it a simple and superstitious act. This incident is fittingly placed after Jesus affirmed the sanctity of marriage, showcasing the importance of children within the context of family life. The act of bringing children to Jesus was natural and sincere, without any implications of baptism or salvation. Jesus acknowledged the children's presence and blessed them, exemplifying his love and care for all, regardless of age or status.",
+            "wordCount": 115,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.3808082434481808,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.25,
             "commentatorTierSimilarities": [
-                30.41,
-                27.11,
-                42.48
+                38.81,
+                21.48,
+                39.71
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples, engrossed in their important conversation, reprimanded those who brought the young children to Jesus. However, Jesus recognized the simple yet profound gesture and allowed the children to come to Him. It was not a matter of baptism or salvation, but a natural act seeking His blessings and prayers. This incident highlights Jesus' tender nature and follows fittingly after His teachings on the sanctity of married life.",
-            "wordCount": 68,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.450811331289814,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "bht": "As Jesus journeyed, people brought young children to him, seeking his touch and prayer. Even though the disciples, engrossed in deep conversation, interrupted to reproach those who brought the children, Jesus did not intend to teach them; his purpose was simply to touch them and pray over them. This incident follows suitably after Jesus emphasized the sanctity of marriage, highlighting the significance of children within the family. The act of bringing children to Jesus was a genuine and instinctive response, demonstrating the natural inclination to seek Jesus' blessings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.559911032499675,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
             "commentatorTierSimilarities": [
-                38.02,
-                21.93,
-                40.04
+                36.37,
+                28.4,
+                35.23
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples interrupted their conversation and despised those who brought children to Jesus, viewing it as a seemingly superstitious act. However, Jesus recognized the intention behind their actions and allowed the children to approach Him. It was not a matter of baptism or salvation, but a simple and natural desire for Jesus' blessings and prayers. This incident showcases Jesus' compassionate nature and serves as a fitting follow-up to His teachings on the sanctity of married life.",
-            "wordCount": 77,
-            "quoteTokenProportion": 38.6,
-            "qualityScore": 1.3840176505049377,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.36,
+            "bht": "As Jesus continued on his way, people brought young children to him, desiring his touch and prayer over them. Even though the disciples were preoccupied with important matters, they interrupted to criticize and dismiss those who brought the children, perceiving it as a superstitious act. However, the act of bringing children to Jesus was a sincere and natural response, without any implications of baptism or salvation. Jesus acknowledged the children and their significance, emphasizing his love and care for all, regardless of age or status.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4994807835569632,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
             "commentatorTierSimilarities": [
-                39.47,
-                21.0,
-                39.53
+                38.76,
+                24.52,
+                36.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples, engrossed in their important conversation, rebuked those who brought young children to Jesus, dismissing it as a seemingly superstitious act. However, Jesus understood the significance behind their intentions and allowed the children to approach Him. The incident had no connection to baptism or salvation, but was a natural and heartfelt gesture seeking Jesus' blessings and prayers. This compassionate response exemplifies Jesus' tender nature and serves as a relevant continuation from His teachings on the sanctity of married life.",
+            "bht": "As Jesus made his way, people brought young children to him, seeking his touch and prayer. Despite being engaged in important discussions, the disciples interjected to criticize and rebuke those who brought the children, perhaps perceiving their actions as simple and superstitious. However, the act of bringing children to Jesus was a natural response, without any implications of salvation or baptism. Jesus recognized the children's presence, demonstrating his love and care for all, regardless of age or social status.",
             "wordCount": 80,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.3793949377034753,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.4361752388296944,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
             "commentatorTierSimilarities": [
-                36.29,
-                23.14,
-                40.57
+                36.86,
+                24.68,
+                38.46
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples, preoccupied with their discussion, despised and reproved those who brought the young children to Jesus, considering the act as a seemingly superstitious one. Nevertheless, Jesus recognized the significance of their actions and allowed the children to approach Him. The purpose was not about baptism or salvation, but a natural desire to receive Jesus' blessing and prayers. This incident beautifully showcases the compassionate nature of Jesus and resonates with the preceding teachings on the sanctity of married life.",
-            "wordCount": 79,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.3778392010937954,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+            "bht": "People brought young children to Jesus as he journeyed, hoping for his touch and prayer. However, the disciples, immersed in a weighty discussion, interrupted to express disdain and reprove those who brought the children, seemingly considering it a naive and superstitious action. Nevertheless, the act of bringing the children to Jesus was a genuine and instinctive response, devoid of any connection to baptism or salvation. Jesus, recognizing the importance of children, welcomed them and bestowed his blessings upon them, showcasing his boundless love and care for all, irrespective of age or status.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.4410478069253676,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
             "commentatorTierSimilarities": [
-                39.36,
-                22.62,
-                38.02
+                39.3,
+                22.35,
+                38.35
             ],
             "generationAttempt": 5
         }

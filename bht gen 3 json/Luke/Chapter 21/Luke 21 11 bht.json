@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:22:33",
+    "timestamp": "12-25-2023 20:33:35",
     "verseRef": "Luke 21:11",
     "bestBHT": {
-        "bht": "Do not be terrified; these things must happen first before the end. Jesus' warning highlights the inevitability of the events to come. The verses mention earthquakes, famines, pestilences, and fearful sights, which serve as harbingers of the approaching end. The commentary underscores the linguistic wordplay for famines and pestilences, and emphasizes the rare and alarming nature of the sights that will be witnessed. Amidst these trials, Jesus urges his followers to stand firm in their faith, remaining prepared for what lies ahead.",
-        "wordCount": 82,
-        "quoteTokenProportion": 33.33,
-        "qualityScore": 1.3076429332948762,
-        "qualityScoreNormalizedComparedToV2BHTs": 34.82,
+        "bht": "Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. Josephus elaborates on these signs, mentioning great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.",
+        "wordCount": 64,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.6631149993794416,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.64,
         "commentatorTierSimilarities": [
-            36.19,
+            41.62,
             0.0,
-            63.81
+            58.38
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -25,9 +25,9 @@
             "\tmust come before all is over."
         ],
         "Marvin Vincent": [
-            "Earthquakes. See on Matthew 13:8.",
-            "Famines and pestilences [\u03bb\u03b9\u03bc\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03bb\u03bf\u03b9\u03bc\u03bf\u03b9]. Some texts reverse the order of the words. A paronomasia or combination of like-sounding words: limoi, loimoi.",
-            "Fearful sights [\u03c6\u03bf\u03b2\u03b7\u03c4\u03c1\u03b1]. Only here in New Testament, and rare in classical Greek. In Septuagint, Isaiah 19:17. Not confined to sights, but fearful things. Rev., better, terrors."
+            "Earthquakes.",
+            "Famines and pestilences.",
+            "Fearful sights... terrors."
         ],
         "Archibald T. Robertson": [
             "Famines and pestilences (\u03bb\u03bf\u03b9\u03bc\u03bf \u03ba\u03b1 \u03bb\u03b9\u03bc\u03bf). Play on the two words pronounced just alike in the Koine (itacism).",
@@ -35,9 +35,9 @@
             "This rare word \u03c6\u03bf\u03b2\u03b7\u03b8\u03c1\u03b1 is only here in the N.T. It is from \u03c6\u03bf\u03b2\u03b5\u03c9, to frighten, and occurs only in the plural as here."
         ],
         "John Gill": [
-            "And great earthquakes shall be in divers places, and famines and pestilences... and fearful sights; or 'terrible things'; whether heard, or seen...",
-            "...flaming sword, or a comet like one, hanging over Jerusalem, and armies in the air engaged against each other...",
-            "...very long and cold; and so the Persic version, 'and winter, and cold, shall be protracted'."
+            "And great earthquakes shall be in divers places, and famines and pestilences...",
+            "Fearful sights...terrible things...dreadful thunderings, and lightnings...",
+            "Great signs shall there be from heaven...comets and blazing stars, a flaming sword..."
         ],
         "John Wesley": [
             "Fearful sights and signs from heaven \u2014 Of which Josephus gives a circumstantial account."
@@ -60,67 +60,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 21:11, Jesus warns of the events to come, saying Do not be terrified; these things must happen first before the end. The verse references earthquakes, famines, pestilences, and fearful sights, which will signal the approaching end times. These terrors and signs from heaven will bring great upheaval and devastation. The commentary suggests a paronomasia, or play on words, using similar-sounding phrases for famines and pestilences, and emphasizes the rare and fearful nature of the sights to be witnessed. It is clear that Jesus wants his followers to be prepared for these challenging times, trusting in their faith.",
-            "wordCount": 99,
-            "quoteTokenProportion": 35.21,
-            "qualityScore": 1.4425902897100595,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.31,
+            "bht": "Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. These events are not to terrify us, but rather serve as signs and warnings. Josephus further elaborates on these signs, mentioning great earthquakes, fearful sights and signs from heaven, and even comets and blazing stars.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6244149739527378,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
             "commentatorTierSimilarities": [
-                35.55,
+                40.26,
                 0.0,
-                64.45
+                59.74
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Do not be terrified, these things must happen first before the end. Jesus warns of the impending calamities - earthquakes, famines, pestilences, and fearful sights. The commentary reinforces the gravity of these events, highlighting the paronomasia of similar-sounding phrases for famines and pestilences. It underscores the rarity and fear-inducing nature of the sights to be witnessed. Jesus urges his followers to remain firm in their faith, prepared for the tribulations that will precede the culmination of these events.",
-            "wordCount": 79,
-            "quoteTokenProportion": 32.73,
-            "qualityScore": 1.16916000551099,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.22,
+            "bht": "Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. These events are not to terrify us, but rather serve as signs and warnings. Josephus further describes great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6205477986291155,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
             "commentatorTierSimilarities": [
-                34.45,
+                40.55,
                 0.0,
-                65.55
+                59.45
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus cautions against being terrified, as these events are necessary before the end. The passage mentions earthquakes, famines, pestilences, and fearful sights, signaling the approaching culmination. The commentary explains the play on words for famines and pestilences, as well as the rare and unsettling nature of the sights to be witnessed. Jesus encourages his followers to remain steadfast in their faith, prepared for the coming trials.",
-            "wordCount": 66,
-            "quoteTokenProportion": 34.69,
-            "qualityScore": 1.3163706443593228,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.11,
+            "bht": "Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. These events are not to terrify us, but rather serve as signs and warnings. Josephus further elaborates on the signs, mentioning great earthquakes, and fearful sights and signs from heaven, including comets and blazing stars.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6154575107725058,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
             "commentatorTierSimilarities": [
-                37.3,
+                40.19,
                 0.0,
-                62.7
+                59.81
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Do not be terrified; these things must happen first before the end. Jesus' warning highlights the inevitability of the events to come. The verses mention earthquakes, famines, pestilences, and fearful sights, which serve as harbingers of the approaching end. The commentary underscores the linguistic wordplay for famines and pestilences, and emphasizes the rare and alarming nature of the sights that will be witnessed. Amidst these trials, Jesus urges his followers to stand firm in their faith, remaining prepared for what lies ahead.",
-            "wordCount": 82,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.3076429332948762,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.82,
+            "bht": "Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These events are not meant to terrify, but rather to serve as signs and warnings. Josephus provides further details, mentioning great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.",
+            "wordCount": 49,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6145428796530716,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
             "commentatorTierSimilarities": [
-                36.19,
+                33.02,
                 0.0,
-                63.81
+                66.98
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus warns, Do not be terrified; these things must happen first before the end. The verse refers to earthquakes, famines, pestilences, and fearful sights, which serve as signs of the approaching culmination. The commentary highlights the play on words for famines and pestilences and emphasizes the rare and unsettling nature of the sights to be witnessed. Despite these trials, Jesus urges followers to stay strong in their faith, prepared for what is to come.",
-            "wordCount": 74,
-            "quoteTokenProportion": 35.19,
-            "qualityScore": 1.3828955720791278,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.32,
+            "bht": "Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. Josephus elaborates on these signs, mentioning great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.",
+            "wordCount": 64,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.6631149993794416,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
             "commentatorTierSimilarities": [
-                37.92,
+                41.62,
                 0.0,
-                62.08
+                58.38
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:45:56",
+    "timestamp": "12-25-2023 20:31:53",
     "verseRef": "Matthew 10:12",
     "bestBHT": {
-        "bht": "When entering a house, one should extend the usual civilities as a sign of respect. As you enter, simultaneously offer your salutations, which act as an opening to a conversation and a test of the house's worthiness. The act of saluting is a way to make trial and see if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart from them immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
-        "wordCount": 86,
-        "quoteTokenProportion": 41.38,
-        "qualityScore": 1.3005995108508306,
-        "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+        "bht": "Upon entering a house, greet it with the usual civilities, simultaneously as you enter. Departure should be the same, offering your salutation as you go out. The worthiness of the house doesn't matter; conform to proper social customs and show immediate recognition of expected hospitality. Greeting the inhabitants, especially the master, is an opening to conversation, extending wishes of peace and blessings for prosperity in all aspects of life.",
+        "wordCount": 70,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.3982117106981216,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.83,
         "commentatorTierSimilarities": [
-            25.0,
-            28.64,
-            46.36
+            26.52,
+            36.39,
+            37.09
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -25,23 +25,23 @@
         ],
         "Marvin Vincent": [
             "The Greek indicates more distinctly the simultaneousness of the entrance and the salutation: as ye are entering.",
-            "Rev., as ye enter.",
-            "So of the departure, as ye are going forth."
+            "So of the departure, as ye are going forth.",
+            "Rev., as ye enter."
         ],
         "John Calvin": [
-            "The act of saluting is a kind of opening to a conversation.",
-            "Make trial, when you first enter, whether your entertainers will cheerfully submit to hear you.",
+            "Salute it. As they could not distinguish the devout worshippers of God from despisers, he enjoins them to address in a friendly manner any family which they may have occasion to meet.\" ",
+            "The act of saluting is a kind of opening to a conversation.\" ",
             "If any shall reject, depart from them immediately, and, so far as lies in your power, withdraw your salutation."
         ],
         "Philip Schaff": [
-            "The house\u2019 they might enter, whether it was the house of one really worthy was to be tested.\" ",
-            "Conformity to proper social customs, without official pride, with an immediate and friendly recognition of the expected hospitality.\" ",
+            "The house. \u2018The house\u2019 they might enter, whether it was the house of one really worthy was to be tested.",
+            "Conformity to proper social customs, without official pride, with an immediate and friendly recognition of the expected hospitality.",
             "Irrespective of the worthiness or unworthiness of the host."
         ],
         "John Gill": [
-            "Peace be to this house.\" ",
-            "A very just and proper explanation of saluting.\" ",
-            "By which is meant all kind of happiness and prosperity."
+            "Salute it; meaning the inhabitants of it; or, as the Persic version reads, those of the household, especially the master of the family.",
+            "Peace be to this house, as in Luke 10:5 and so read the Vulgate Latin, and Munster's Hebrew Gospel; and is a very just, and proper explanation of saluting",
+            "By which is meant all kind of happiness, and prosperity, temporal, spiritual, and eternal."
         ],
         "John Wesley": [
             "Salute it \u2014 In the usual Jewish form, \"Peace (that is, all blessings) be to this house."
@@ -64,67 +64,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When entering a house, it is important to show the customary greetings as a sign of respect. As soon as you enter, extend your salutations, as it should be done simultaneously. These salutations act as an opening to a conversation and serve as a test to see if the house is worthy of your stay. It is irrelevant whether the host is deserving or not, as it is about conforming to social customs and showing friendliness. The salutation of Peace be to this house implies a desire for happiness and prosperity for the household. However, if they reject you, withdraw your salutation and depart from them immediately.",
-            "wordCount": 107,
-            "quoteTokenProportion": 43.28,
-            "qualityScore": 1.2909637429798209,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.27,
+            "bht": "When you enter a house, greet it with the usual civilities. The Greek emphasizes that the greeting should be given simultaneously as you enter. As for the departure, do the same by offering your salutation as you are leaving. It doesn't matter if the house is worthy or not; the point is to conform to proper social customs and show immediate and friendly recognition of expected hospitality. The act of saluting is a kind of opening to a conversation, so greet the inhabitants, especially the master of the household, with words of peace and blessings, encompassing happiness and prosperity in all aspects of life.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4460805782179618,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
             "commentatorTierSimilarities": [
-                24.07,
-                35.43,
-                40.5
+                26.79,
+                34.39,
+                38.82
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When entering a house, one should extend the usual civilities as a sign of respect. As you enter, simultaneously offer your salutations, which act as an opening to a conversation and a test of the house's worthiness. The act of saluting is a way to make trial and see if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart from them immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
-            "wordCount": 86,
-            "quoteTokenProportion": 41.38,
-            "qualityScore": 1.3005995108508306,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "bht": "When you enter a house, greet it with the usual civilities. The Greek emphasizes that this greeting should be given simultaneously as you are entering. The departure should be the same\u2014offering your salutation as you are leaving. The worthiness of the house does not matter; the focus is on conforming to social customs and showing immediate recognition of expected hospitality. Greeting the inhabitants, especially the master, in this way is an opening to conversation, extending wishes of peace and blessings for happiness and prosperity in all aspects of life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.3842105992503586,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.37,
             "commentatorTierSimilarities": [
-                25.0,
-                28.64,
-                46.36
+                29.01,
+                32.72,
+                38.27
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When entering a house, it is customary to extend salutations as a sign of respect. The salutations should be offered simultaneously upon entering. This serves as a test to determine if the house is worthy of your stay. The act of saluting is a way to make trial and see if your entertainers will willingly listen to you. If they reject you, withdraw your salutation and depart from them immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
-            "wordCount": 87,
-            "quoteTokenProportion": 41.82,
-            "qualityScore": 1.2644422213718003,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+            "bht": "When entering a house, greet it with the usual civilities as you are simultaneously entering. Offer the same salutation when departing. The worthiness of the house is not a concern; rather, conform to social customs and extend immediate recognition of expected hospitality. Greeting the inhabitants, particularly the master, is a way to begin a conversation while wishing them peace and blessings for prosperity in all aspects of life.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.335691096757544,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.75,
             "commentatorTierSimilarities": [
-                26.01,
-                29.97,
-                44.02
+                23.78,
+                36.49,
+                39.73
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When entering a house, it is customary to show the usual civilities by extending salutations. These salutations should be offered simultaneously upon entering. It is a way to make trial and test the worthiness of the house. The act of saluting serves as an opening to a conversation, determining if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
-            "wordCount": 83,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.2331975759201992,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.35,
+            "bht": "Upon entering a house, it is important to greet it with the usual civilities, simultaneously at the moment of entry. Likewise, when departing, offer your salutation. Whether the house is worthy or not is irrelevant; the focus is on adhering to proper social customs and promptly acknowledging expected hospitality. The act of saluting serves as an opening for conversation, as you extend wishes of peace and blessings to the inhabitants, particularly the master of the household, encompassing all forms of temporal and eternal prosperity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.345493960847298,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.08,
             "commentatorTierSimilarities": [
-                24.81,
-                30.13,
-                45.06
+                23.72,
+                35.75,
+                40.52
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When entering a house, it is customary to show respect by extending salutations. These salutations should be offered simultaneously upon entering, as a way to make trial and test the worthiness of the house. The act of saluting serves as an opening to a conversation, determining if your entertainers will willingly listen to you. If they reject, withdraw your salutation and depart immediately. The salutation Peace be to this house expresses a desire for happiness and prosperity for the household.",
-            "wordCount": 80,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.2848361111069955,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.06,
+            "bht": "Upon entering a house, greet it with the usual civilities, simultaneously as you enter. Departure should be the same, offering your salutation as you go out. The worthiness of the house doesn't matter; conform to proper social customs and show immediate recognition of expected hospitality. Greeting the inhabitants, especially the master, is an opening to conversation, extending wishes of peace and blessings for prosperity in all aspects of life.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.3982117106981216,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.83,
             "commentatorTierSimilarities": [
-                24.14,
-                30.24,
-                45.62
+                26.52,
+                36.39,
+                37.09
             ],
             "generationAttempt": 5
         }

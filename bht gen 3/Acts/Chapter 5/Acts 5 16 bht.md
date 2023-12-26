@@ -1,16 +1,14 @@
 # Acts 5:16 Commentary Help Text
 
 ## BHT:
-No one ventured to publicly profess their discipleship after what had taken place, yet the number of believers steadily increased. Drawn by the fame of Peter's miracles, individuals afflicted with unclean spirits and sickness sought healing. Without exception, one by one, they were cured, serving as compelling confirmation of the Gospel preached by the apostles. These remarkable healings not only validated the message but also provoked opposition from their adversaries.
+After the unconverted witnessed such remarkable acts, they were reluctant to openly declare their discipleship, yet their numbers continued to grow. People were continuously gathering, both from the surrounding cities and from Jerusalem itself, bringing their infirmities and troubled spirits to be healed. This influx of individuals who sought healing served as a testament to the power of the apostles' message regarding the Gospel.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "Of the unconverted none ventured, after what had taken place, to profess discipleship but yet their number continually increased."
-2. "None ventured, after what had taken place, to profess discipleship."
-3. "Their number continually increased."
 
 ### Albert Barnes:
-1. "Attracted by the fame of Peter's miracles, as the people formerly had been by the miracles of the Lord Jesus."
+1. "Attracted by the fame of Peter’s miracles, as the people formerly had been by the miracles of the Lord Jesus."
 2. "Called 'unclean' because they prompted to sin and impurity of life."
 3. "Of these persons it is expressly affirmed that they were healed."
 
@@ -20,47 +18,46 @@ No one ventured to publicly profess their discipleship after what had taken plac
 
 
 ### Archibald T. Robertson:
-1. "Imperfect middle, kept on coming."
-2. "Old adverb, strengthened form of περ, only here in the N.T."
-3. "Were healed one at a time, repetition."
+1. "Came together (συνηρχετο). Imperfect middle, kept on coming."
+2. "Round about (περιξ). Old adverb, strengthened form of περ, only here in the N.T."
+3. "Vexed (οχλουμενους). Present passive participle of οχλεω, to excite a mob (οχλος) against one, to trouble, annoy."
 
 ### John Gill:
 1. "The fame of the apostles' miracles spread in the cities round about Jerusalem; those that were at some distance as well as near, and large numbers of people came from thence."
-2. "Bringing sick folks, and them which were vexed with unclean spirits; with devils, by whom they were not only possessed, but greatly harassed and afflicted."
-3. "None went without a cure, which served greatly to confirm the Gospel preached by the apostles, and to irritate and provoke their enemies."
+2. "Along with those of the city of Jerusalem, who brought out their infirm persons into the streets to be cured."
+3. "None went without a cure, which served greatly to confirm the Gospel preached by the apostles."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:26:26
+- Timestamp: 12-25-2023 20:33:57
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 71
-- BHT Commentary Usage: 38.33%
-- BHT Quality Score: 1.4855640012358418
+- BHT Word Count: 64
+- BHT Commentary Usage: 37.25%
+- BHT Quality Score: 1.6373940066894057
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['adversaries', 'afflicted', 'after', 'also', 'and', 'apostles', 'as', 'believers', 'but', 'by', 'compelling', 'confirmation', 'cured', 'discipleship', 'drawn', 'exception', 'fame', 'from', 'gospel', 'had', 'healing', 'healings', 'increased', 'individuals', 'message', 'miracles', 'no', 'not', 'number', 'of', 'one', 'only', 'opposition', 'peter', 'place', 'preached', 'profess', 'provoked', 'publicly', 'remarkable', 's', 'serving', 'sickness', 'sought', 'spirits', 'steadily', 'taken', 'the', 'their', 'these', 'they', 'to', 'unclean', 'validated', 'ventured', 'were', 'what', 'with', 'without', 'yet']
-- ChatGPT injected words (significant words only) (37):
-	['adversaries', 'afflicted', 'apostles', 'believers', 'compelling', 'confirmation', 'cured', 'discipleship', 'drawn', 'exception', 'fame', 'gospel', 'healing', 'healings', 'increased', 'individuals', 'message', 'miracles', 'number', 'opposition', 'peter', 'place', 'preached', 'profess', 'provoked', 'publicly', 'remarkable', 's', 'serving', 'sickness', 'sought', 'spirits', 'steadily', 'taken', 'unclean', 'validated', 'ventured']
+- ChatGPT injected words (51):
+	['a', 'acts', 'after', 'and', 'apostles', 'as', 'be', 'both', 'bringing', 'cities', 'continued', 'continuously', 'declare', 'discipleship', 'from', 'gathering', 'gospel', 'grow', 'healed', 'healing', 'individuals', 'infirmities', 'influx', 'itself', 'jerusalem', 'message', 'numbers', 'of', 'openly', 'people', 'power', 'regarding', 'reluctant', 'remarkable', 'served', 'sought', 'spirits', 'such', 'surrounding', 'testament', 'the', 'their', 'they', 'this', 'to', 'troubled', 'unconverted', 'were', 'who', 'witnessed', 'yet']
+- ChatGPT injected words (significant words only) (32):
+	['acts', 'apostles', 'bringing', 'cities', 'continued', 'continuously', 'declare', 'discipleship', 'gathering', 'gospel', 'grow', 'healed', 'healing', 'individuals', 'infirmities', 'influx', 'jerusalem', 'message', 'numbers', 'openly', 'people', 'power', 'reluctant', 'remarkable', 'served', 'sought', 'spirits', 'surrounding', 'testament', 'troubled', 'unconverted', 'witnessed']
 
 ### Logs
-- Attempt 1 BHT: After the miraculous events that had occurred, no one dared to openly declare their discipleship. However, despite this fear, the number of believers continued to grow. People from far and wide were drawn to the fame of Peter's miracles, just as they had been drawn to the miracles of Jesus. These individuals, who were plagued by unclean spirits and sickness, came seeking healing from the apostles. And without fail, each one who came was healed, gradually spreading the message of the Gospel and provoking their adversaries.
-- 🔄 Acts 5:16 (attempt 1, 87 words, 38.1% quotes quality score: 1.4795298119821565, V2 normalized quality score: 40.54, commentator tiers 1-3: 26.9%, 26.91%, 46.19%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: After the miraculous healing of the sick and those troubled by unclean spirits, the number of disciples increased as news spread about the apostles' ability to bring healing. People from both nearby and distant cities were drawn to Jerusalem, bringing their infirmities to be cured. No one went without a cure, which greatly strengthened the message of the Gospel preached by the apostles.
+- 🔄 Acts 5:16 (attempt 1, 63 words, 38.78% quotes quality score: 1.5283577232272068, V2 normalized quality score: 42.16, commentator tiers 1-3: 22.32%, 18.03%, 59.65%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: After the miraculous events, none had the courage to openly profess their discipleship, yet the number of believers continued to increase. Drawn by the fame of Peter's miracles, people from near and far sought healing for their afflictions. Plagued by unclean spirits and sickness, these individuals were not left without a cure, which served to validate the Gospel preached by the apostles. This astounding work of healing both confirmed the message and aroused opposition from their enemies.
-- 🔄 Acts 5:16 (attempt 2, 78 words, 33.33% quotes quality score: 1.4434548911268754, V2 normalized quality score: 39.34, commentator tiers 1-3: 21.92%, 23.66%, 54.42%) 
+- Attempt 2 BHT: After the unconverted witnessed such remarkable acts, they were reluctant to openly declare their discipleship, yet their numbers continued to grow. People were continuously gathering, both from the surrounding cities and from Jerusalem itself, bringing their infirmities and troubled spirits to be healed. This influx of individuals who sought healing served as a testament to the power of the apostles' message regarding the Gospel.
+- 🔄 Acts 5:16 (attempt 2, 64 words, 37.25% quotes quality score: 1.6373940066894057, V2 normalized quality score: 45.79, commentator tiers 1-3: 29.53%, 25.1%, 45.37%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: After witnessing the extraordinary events, people refrained from openly professing their discipleship, yet the ranks of believers steadily grew. Attracted by the renowned miracles performed by Peter, individuals plagued by unclean spirits and sickness sought healing. With unwavering persistence, one after another, they were healed, solidifying the authenticity of the Gospel proclaimed by the apostles. These remarkable healings served as a confirmation of the message and provoked opposition from their adversaries.
-- 🔄 Acts 5:16 (attempt 3, 71 words, 28.57% quotes quality score: 1.4429308889849186, V2 normalized quality score: 39.32, commentator tiers 1-3: 23.99%, 26.21%, 49.8%) 
+- Attempt 3 BHT: Upon witnessing the astounding miracles performed by the apostles, those who had not yet converted were apprehensive about openly professing their discipleship. Nevertheless, their ranks steadily grew, as people kept coming together from near and far, seeking relief from their afflictions. The influx of individuals afflicted with physical ailments and troubled spirits served to further reinforce the veracity of the Gospel preached by the apostles, as no one departed without experiencing a cure.
+- 🔄 Acts 5:16 (attempt 3, 73 words, 40.0% quotes quality score: 1.6116635698232624, V2 normalized quality score: 44.93, commentator tiers 1-3: 32.19%, 20.76%, 47.05%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: No one dared to openly declare their discipleship, but believers continuously multiplied in number. Drawn by the reputation of Peter's miracles, individuals plagued by unclean spirits and sickness sought healing. With unwavering persistence, they were healed one by one, providing powerful evidence for the Gospel preached by the apostles. These miraculous healings confirmed the message and provoked the opposition of their enemies.
-- 🔄 Acts 5:16 (attempt 4, 63 words, 29.41% quotes quality score: 1.4565136664302574, V2 normalized quality score: 39.77, commentator tiers 1-3: 23.99%, 25.35%, 50.66%) 
+- Attempt 4 BHT: After witnessing the marvels performed by the apostles, those who had not yet embraced their teachings hesitated to openly profess their discipleship. However, their ranks continued to increase, as people continuously assembled from both nearby and distant cities seeking relief. The multitude of individuals afflicted with physical infirmities and vexed spirits served as undeniable evidence, confirming the truth of the Gospel proclaimed by the apostles.
+- 🔄 Acts 5:16 (attempt 4, 65 words, 32.69% quotes quality score: 1.4496582272368346, V2 normalized quality score: 39.54, commentator tiers 1-3: 32.0%, 18.88%, 49.13%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: No one ventured to publicly profess their discipleship after what had taken place, yet the number of believers steadily increased. Drawn by the fame of Peter's miracles, individuals afflicted with unclean spirits and sickness sought healing. Without exception, one by one, they were cured, serving as compelling confirmation of the Gospel preached by the apostles. These remarkable healings not only validated the message but also provoked opposition from their adversaries.
-- 🔄 Acts 5:16 (attempt 5, 71 words, 38.33% quotes quality score: 1.4855640012358418, V2 normalized quality score: 40.74, commentator tiers 1-3: 29.04%, 24.19%, 46.76%) 
+- Attempt 5 BHT: The unconverted, wary after witnessing the astonishing events, were hesitant to openly declare themselves as followers, yet their numbers grew steadily. Continuously, individuals gathered from the surrounding cities as well as from Jerusalem, bringing their ailments and distressed spirits, seeking solace and healing. The abundance of people who were afflicted found respite, consequently providing powerful validation for the apostles' preaching of the Gospel.
+- 🔄 Acts 5:16 (attempt 5, 63 words, 27.45% quotes quality score: 1.4524681228113003, V2 normalized quality score: 39.64, commentator tiers 1-3: 30.35%, 21.09%, 48.55%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 5:16 bht prompt v0.8 (71 words, 38.33% quotes)
-- quality score: 1.4855640012358418, V2 normalized quality score: 40.74, commentator tiers 1-3: 29.04%, 24.19%, 46.76%)
+- ✅ Acts 5:16 bht prompt v0.8 (64 words, 37.25% quotes)
+- quality score: 1.6373940066894057, V2 normalized quality score: 45.79, commentator tiers 1-3: 29.53%, 25.1%, 45.37%)

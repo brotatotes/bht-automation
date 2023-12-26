@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:20:08",
+    "timestamp": "12-25-2023 20:32:17",
     "verseRef": "Mark 1:9",
     "bestBHT": {
-        "bht": "Jesus of Nazareth, who had been dwelling in Nazareth since his infancy, came to the Jordan River to be baptized by John. As he emerged from the water, Jesus witnessed the heavens splitting apart, providing a more vivid depiction than in the other Gospels. This significant moment represented the descent of the heavenly aeon Christ upon Jesus, emphasizing the distinction between the historical Jesus and the theological Christ. It marked the beginning of Jesus' ministry, propelling him towards his divine destiny. (77 words)",
-        "wordCount": 82,
-        "quoteTokenProportion": 40.32,
-        "qualityScore": 1.2577127813776403,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.16,
+        "bht": "The introduction to the Gospel of Mark expresses uncertainty about its author being an eyewitness, instead offering a summary of commonly known accounts. Jesus' baptism is described with vivid imagery of the heavens parting as he emerges from the water. Some view the dove descending upon him as a representation of the heavenly Christ joining the earthly Jesus. Mark's repeated use of straightway emphasizes the immediacy throughout his Gospel. This event is unique to Mark and not mentioned in the other Gospels.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.4290265601749033,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.86,
         "commentatorTierSimilarities": [
-            33.68,
-            22.54,
-            43.78
+            41.07,
+            19.86,
+            39.07
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "From Nasareth is contained here only.",
+            "The commencement of this Gospel has no marks of an eye-witness: it is the compendium of generally current accounts.",
             "The words with which this account is introduced, express indefiniteness as to time.",
-            "The commencement of this Gospel has no marks of an eye-witness: it is the compendium of generally current accounts."
+            "From Nasareth is contained here only."
         ],
         "Philip Schaff": [
             "Mark 1:9. From Nazareth. Peculiar to Mark.",
@@ -27,14 +27,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Rent asunder (\u03c3\u03c7\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2). Split like a garment, present passive participle.",
             "Jesus saw the heavens parting as he came up out of the water, a more vivid picture than the 'opened' in Matthew 3:16 and Luke 3:21.",
-            "The Cerinthian Gnostics took the dove to mean the heavenly aeon Christ that here descended upon the man Jesus and remained with him till the Cross when it left him, a sort of forecast of the modern distinction between the Jesus of history and the theological Christ."
+            "The Cerinthian Gnostics took the dove to mean the heavenly aeon Christ that here descended upon the man Jesus and remained with him till the Cross when it left him, a sort of forecast of the modern distinction between the Jesus of history and the theological Christ.",
+            "Mark is as fond of 'straightway' (\u03b5\u03c5\u03b8\u03c5\u03c2) as Matthew is of 'then' (\u03c4\u03bf\u03c4\u03b5)."
         ],
         "John Gill": [
-            "Some for one thing, and some another.\" ",
+            "Whilst John was preaching and baptizing in the wilderness, and had large crowds of people flocking to him, to see his person, hear his doctrine, and to be baptized by him.",
             "Jesus came from Nazareth of Galilee; the place where he had been brought up, and lived, and dwelt in from his infancy, to this time.",
-            "Was baptized of John in Jordan; which was the reason of his coming from Nazareth to him."
+            "and was baptized of John in Jordan; which was the reason of his coming from Nazareth to him."
         ],
         "John Wesley": [
             "Matthew 3:13; Luke 3:21."
@@ -57,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus of Nazareth, who had been brought up in Galilee, came to John the Baptist at the Jordan River to be baptized. As he emerged from the water, Jesus saw the heavens splitting apart, a more vivid image than the other Gospels provide. This visual representation signified the descent of the heavenly aeon Christ upon Jesus, distinguishing between the historical Jesus and the theological Christ. This moment marked the beginning of Jesus' ministry, as he prepared to fulfill his divine purpose. (55 words)",
-            "wordCount": 82,
-            "quoteTokenProportion": 36.07,
-            "qualityScore": 1.2380079240738278,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.51,
+            "bht": "The Gospel of Mark starts off with an introduction that is not from an eyewitness but rather a summary of commonly known accounts. It is unclear when this event took place, but it is exclusively mentioned in Mark and not in the other Gospels. As Jesus emerges from the water, he sees the heavens parting, which creates a vivid image of a divine experience. Some interpreted the descent of the dove as the heavenly aeon Christ descending upon Jesus, while others saw it as a portrayal of the distinction between the historical Jesus and the theological Christ. Mark frequently uses the word straightway to emphasize the immediacy of events.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.3949914183424554,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.73,
             "commentatorTierSimilarities": [
-                34.83,
-                20.57,
-                44.6
+                44.45,
+                18.82,
+                36.73
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus of Nazareth, who came from Galilee and had been living in Nazareth since his infancy, traveled to the Jordan River to be baptized by John. The splitting of the heavens as Jesus emerged from the water was a powerful and unforgettable sight. This event symbolized the descent of the heavenly aeon Christ upon Jesus, a precursor to the distinction made between the Jesus of history and the theological Christ. It marked the beginning of Jesus' ministry, setting him on the path to fulfill his divine calling. (78 words)",
-            "wordCount": 88,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.1874984446569405,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.83,
+            "bht": "The introduction to the Gospel of Mark expresses uncertainty about its author being an eyewitness, instead offering a summary of commonly known accounts. Jesus' baptism is described with vivid imagery of the heavens parting as he emerges from the water. Some view the dove descending upon him as a representation of the heavenly Christ joining the earthly Jesus. Mark's repeated use of straightway emphasizes the immediacy throughout his Gospel. This event is unique to Mark and not mentioned in the other Gospels.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4290265601749033,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
             "commentatorTierSimilarities": [
-                36.29,
-                19.07,
-                44.64
+                41.07,
+                19.86,
+                39.07
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus of Nazareth, the one who had been living in Nazareth all his life, made his way to the Jordan River to be baptized by John. As he emerged from the water, Jesus witnessed the heavens splitting apart, providing a vivid and remarkable sight. This event symbolized the descent of the heavenly aeon Christ onto Jesus, foreshadowing the later distinction between the historical Jesus and the theological Christ. It marked the initiation of Jesus' ministry and set him on the path to fulfill his divine purpose. (76 words)",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.1,
-            "qualityScore": 1.2053689244512524,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.42,
+            "bht": "The introduction of the Gospel of Mark is not from an eyewitness but a compilation of commonly known accounts, leaving the timing of the events indefinite. Jesus' baptism is depicted with vibrant imagery of the heavens parting. Some interpret the descent of the dove as the heavenly Christ joining Jesus, foreshadowing the distinction between the historical Jesus and the theological Christ. Mark's frequent use of straightway underscores the immediacy of events. This account is unique to Mark and does not appear in the other Gospels.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.3529417810145543,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.33,
             "commentatorTierSimilarities": [
-                34.59,
-                21.37,
-                44.05
+                46.04,
+                19.51,
+                34.45
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus of Nazareth, who had been dwelling in Nazareth since his infancy, came to the Jordan River to be baptized by John. As he emerged from the water, Jesus witnessed the heavens splitting apart, providing a more vivid depiction than in the other Gospels. This significant moment represented the descent of the heavenly aeon Christ upon Jesus, emphasizing the distinction between the historical Jesus and the theological Christ. It marked the beginning of Jesus' ministry, propelling him towards his divine destiny. (77 words)",
-            "wordCount": 82,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.2577127813776403,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.16,
+            "bht": "The introduction of Mark's Gospel does not have the characteristics of an eyewitness account and instead serves as a summary of widely known stories. The timing of the events remains unspecified. As Jesus emerges from the water, the heavens are depicted as parting, creating a visually striking scene. The descent of the dove has been interpreted in different ways, with some seeing it as a representation of the divine Christ uniting with the human Jesus. Mark frequently employs the word straightway to emphasize the immediacy of the narrative.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.1795330090057163,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.56,
             "commentatorTierSimilarities": [
-                33.68,
-                22.54,
-                43.78
+                50.01,
+                15.76,
+                34.23
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus of Nazareth, who had been dwelling in Nazareth since his infancy, journeyed to the Jordan River to be baptized by John the Baptist. As he emerged from the water, Jesus witnessed the heavens parting, providing a more vibrant and memorable scene than in other Gospels. This extraordinary event symbolized the descent of the heavenly aeon Christ onto Jesus, alluding to the distinction between the historical Jesus and the theological Christ. It marked the initiation of Jesus' ministry and revealed his divine purpose. (80 words)",
-            "wordCount": 84,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.1970021035430662,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.14,
+            "bht": "The introduction to the Gospel of Mark provides a summary of commonly known accounts rather than an eyewitness perspective. The exact timing of the events remains unclear. As Jesus emerges from the water, the heavens dramatically part, offering a vivid image compared to the other Gospels. Some interpret the dove descending upon Jesus as the heavenly Christ uniting with the earthly Jesus. Mark's frequent use of the word straightway emphasizes the immediacy of events. This baptism story is unique to Mark and is not found in the other Gospels.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.280865420652635,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.93,
             "commentatorTierSimilarities": [
-                34.33,
-                20.32,
-                45.36
+                44.3,
+                18.71,
+                36.99
             ],
             "generationAttempt": 5
         }

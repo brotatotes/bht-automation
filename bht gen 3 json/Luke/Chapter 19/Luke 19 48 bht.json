@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:22:07",
+    "timestamp": "12-25-2023 20:33:35",
     "verseRef": "Luke 19:48",
     "bestBHT": {
-        "bht": "At the end of the section describing Jesus' journey to Jerusalem, the people were very attentive, hanging upon His words. They eagerly stuck by Him, ready to catch every word that dropped from His lips. This scene resonates with the hymn that asks, Did Christ o'er sinners weep? And shall our cheeks be dry? The religious leaders, on the other hand, were at a loss, fearing the people and unable to find an opportunity to seize Him or bring about their wicked plan.",
-        "wordCount": 84,
-        "quoteTokenProportion": 39.71,
-        "qualityScore": 1.4815597517461956,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.6,
+        "bht": "At the end of Jesus' last journey to Jerusalem, the people were very attentive, hanging upon His words. They displayed an anxious desire, a fixed attention, a cleaving to Him, and an unwillingness to 'leave' Him, so that they might hear His words. The Sanhedrin were unsure of how to seize Him and feared the people's potential rescue. Jesus's deep feelings over sinners serve as a warning, showing that they are in danger. It is right for us to have similar lively affections in our religious experiences.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.6147615884289803,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.03,
         "commentatorTierSimilarities": [
-            19.07,
-            42.79,
-            38.15
+            18.45,
+            46.37,
+            35.18
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -23,9 +23,9 @@
             "\thim\u2014hung upon His words."
         ],
         "Albert Barnes": [
-            "'Did Christ o'er sinners weep? And shall our cheeks be dry? Let floods of penitential grief. Burst forth from every eye.\" ",
-            "The Son of God in tears. Angels with wonder see! Be thou astonished, O my soul; He shed those tears for thee.",
-            "He wept that we might weep; Each sin demands a tear: In heaven alone no sin is found. And there\u2019s no weeping there."
+            "Very attentive - literally, 'hung upon him' to hear him. The word denotes an anxious desire, a fixed attention, a cleaving to him, and an unwillingness to 'leave' him, so that they might hear his words.",
+            "When the Lord Jesus weeps over sinners, it is the fullest proof that they are in danger.",
+            "Deep feeling, gushing emotions, lively affections, are proper in religion. If the Saviour wept, it is not improper for us to weep - it is right."
         ],
         "Marvin Vincent": [
             "Were very attentive [\u03b5\u03be\u03b5\u03ba\u03c1\u03b5\u03bc\u03b1\u03c4\u03bf] . Only here in New Testament. ",
@@ -34,13 +34,13 @@
             "- 8. Compare Matthew 21:23-32; Mark 11:27-33."
         ],
         "Archibald T. Robertson": [
-            "They kept on not finding.",
+            "They kept on not finding.\" ",
             "What they might do.",
-            "Hung upon him."
+            "The whole nation hanging upon the words of Jesus as if in suspense in mid-air."
         ],
         "John Gill": [
             "They could not find an opportunity of seizing him, nor any advantage against him; they knew not what steps to take, nor how to bring about their wicked design of destroying him.",
-            "There were great crowds always about him, that hung upon him, as the word rendered 'attentive' signifies; they heard him with great eagerness and diligence, and were ready to catch every word that dropped from his lips.",
+            "They heard him with great eagerness and diligence, and were ready to catch every word that dropped from his lips.",
             "The sanhedrim were at a loss what method to make use of to gain their point; and they feared the people, should they seize him publicly, lest they should rise and rescue him, and cause a tumult and disturbance."
         ]
     },
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "At the end of a long section describing Jesus' journey to Jerusalem, the people were very attentive to hear him, as if they were hanging upon his every word. The words used to describe this attentiveness convey the image of the people being not only focused on Jesus but also sticking by him. This scene is reminiscent of the Son of God weeping for sinners, as captured in the hymn: Did Christ o'er sinners weep? And shall our cheeks be dry? Let floods of penitential grief burst forth from every eye. It is clear that the crowds had a great eagerness and diligence in listening to Jesus, ready to catch every word that dropped from his lips. The religious leaders, on the other hand, were at a loss and feared the people. They couldn't find an opportunity to seize Jesus or find any advantage against him, leaving them in a state of confusion and uncertainty about how to proceed with their wicked plan to destroy him.",
-            "wordCount": 168,
-            "quoteTokenProportion": 38.6,
-            "qualityScore": 1.4885102668118615,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "bht": "At the end of a long section describing Jesus' last journey to Jerusalem, the people in Luke 19:48 were very attentive to hear him. They hung upon His words, displaying an anxious desire, fixed attention, and cleaving to Him. The whole nation seemed to be in suspense, hanging upon the words of Jesus as if in mid-air. The Sanhedrin were at a loss of what steps to take to seize Him and bring about their wicked design of destroying Him, fearing the people would rise and cause a tumult if they seized Him publicly. Jesus's deep feelings and gushing emotions over sinners serve as a warning that they are in danger, and it is right for us to have similar lively affections in our own religious experiences.",
+            "wordCount": 128,
+            "quoteTokenProportion": 39.77,
+            "qualityScore": 1.69761412134351,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.79,
             "commentatorTierSimilarities": [
-                15.39,
-                44.9,
-                39.71
+                21.16,
+                40.31,
+                38.53
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "At the end of the section describing Jesus' journey to Jerusalem, the people were very attentive, hanging upon His words. Their great eagerness and diligence in listening to Him is evident as they stuck by Him, ready to catch every word. This scene brings to mind the hymn that asks, Did Christ o'er sinners weep? And shall our cheeks be dry? The religious leaders, in contrast, were at a loss, fearing the people and unable to find an opportunity to seize Him or plot against Him.",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.4523712932045973,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.63,
+            "bht": "At the end of Jesus' last journey to Jerusalem, people were very attentive, hanging upon His words. They displayed an anxious desire, fixed attention, and cleaving to Him, as if in suspense in mid-air. The Sanhedrin were unsure of how to seize Him and feared the people's potential rescue and subsequent tumult. Jesus's deep feelings and gushing emotions over sinners serve as a warning. It is right for us to have similar lively affections in our religious experiences.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5129868003188975,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
             "commentatorTierSimilarities": [
-                19.45,
-                39.82,
-                40.73
+                19.73,
+                44.41,
+                35.86
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "At the end of the section describing Jesus' journey to Jerusalem, the people were very attentive, hanging upon His words. Their great eagerness and diligence in listening to Him is evident as they stuck by Him, ready to catch every word. This scene brings to mind the hymn that asks, Did Christ o'er sinners weep? And shall our cheeks be dry? The religious leaders, in contrast, were at a loss, fearing the people and unable to find an opportunity to seize Him or plot against Him.",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.4523712932045973,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.63,
+            "bht": "At the end of Jesus' last journey to Jerusalem, people were very attentive, hanging upon His words. They hung upon Him, displaying an anxious desire and fixed attention. The Sanhedrin were unsure of how to seize Him and feared the people's potential rescue. Jesus's deep feelings over sinners serve as a warning. It is right for us to have similar lively affections in our religious experiences.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4857364213742588,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
             "commentatorTierSimilarities": [
-                19.45,
-                39.82,
-                40.73
+                21.75,
+                45.3,
+                32.95
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "At the end of the section describing Jesus' journey to Jerusalem, the people were very attentive, hanging upon His words. They eagerly stuck by Him, ready to catch every word that dropped from His lips. This scene resonates with the hymn that asks, Did Christ o'er sinners weep? And shall our cheeks be dry? The religious leaders, on the other hand, were at a loss, fearing the people and unable to find an opportunity to seize Him or bring about their wicked plan.",
-            "wordCount": 84,
-            "quoteTokenProportion": 39.71,
-            "qualityScore": 1.4815597517461956,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.6,
+            "bht": "At the end of Jesus' last journey to Jerusalem, the people were very attentive, hanging upon His words. They hung upon Him, displaying an anxious desire and fixed attention, unwilling to leave Him. The Sanhedrin were unsure of how to seize Him and feared the people's potential rescue. Jesus's deep feelings over sinners serve as a warning. It is right for us to have similar lively affections in our religious experiences.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.506613354448342,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
             "commentatorTierSimilarities": [
-                19.07,
-                42.79,
-                38.15
+                19.47,
+                46.07,
+                34.47
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "At the end of the section describing Jesus' journey to Jerusalem, the people were very attentive, hanging upon Him and sticking by Him. Their eagerness and diligence in listening to Jesus were remarkable, as they were ready to catch every word that dropped from His lips. This intense devotion brings to mind the hymn that asks, Did Christ o'er sinners weep? And shall our cheeks be dry? Meanwhile, the religious leaders struggled to find an opportunity to seize Jesus and feared the people's potential resistance in causing a tumultuous disturbance.",
-            "wordCount": 92,
-            "quoteTokenProportion": 35.21,
-            "qualityScore": 1.4659018357854265,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.08,
+            "bht": "At the end of Jesus' last journey to Jerusalem, the people were very attentive, hanging upon His words. They displayed an anxious desire, a fixed attention, a cleaving to Him, and an unwillingness to 'leave' Him, so that they might hear His words. The Sanhedrin were unsure of how to seize Him and feared the people's potential rescue. Jesus's deep feelings over sinners serve as a warning, showing that they are in danger. It is right for us to have similar lively affections in our religious experiences.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.6147615884289803,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
             "commentatorTierSimilarities": [
-                19.79,
-                40.63,
-                39.58
+                18.45,
+                46.37,
+                35.18
             ],
             "generationAttempt": 5
         }

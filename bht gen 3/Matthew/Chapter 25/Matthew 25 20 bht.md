@@ -1,27 +1,27 @@
 # Matthew 25:20 Commentary Help Text
 
 ## BHT:
-The faithful servant recognizes that his gain is not his own, but a result of what he has been entrusted with. This underscores the truth that apart from Christ, we are incapable of achieving anything. The servant's readiness to give an account of both what he had received and how he had gained reflects the responsibility and diligence expected of us in using and increasing our spiritual gifts. Let us not grow weary in doing good, as Christ sees and values our labor. One day, we will have to reckon with Him and the true worth of our work will be revealed.
+The faithful servant in this verse recognizes that his achievements are not his own, acknowledging that without Me, can do nothing. Their joy and eagerness on the day of reckoning manifest the concept of boldness in the day of judgment. By utilizing their talents and spiritual gifts, they bring glory to God and demonstrate their usefulness in His service. True ministers of the Gospel humbly surrender their gifts to Christ, knowing that He is the source. Christ, as the searcher of hearts, will surely acknowledge the faithful servants' impact in His interest.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The faithful servant does not take the praise to himself—thou deliveredst unto me is his confession—and beside them the enabling cause of his gain..." (quote #1)
-2. "...without Me, can do nothing" (quote #2)
-3. "...on the joy and alacrity of these faithful servants in the day of reckoning..." (quote #3)
+1. "The faithful servant does not take the praise to himself"
+2. "Without Me, can do nothing"
+3. "On the joy and alacrity of these faithful servants in the day of reckoning"
 
 ### Jamieson-Fausset-Brown:
-1. "How beautifully does this illustrate what the beloved disciple says of 'boldness in the day of judgment,' and his desire that 'when He shall appear we may have confidence, and not be ashamed before Him at His coming!'"
-2. N/A
-3. N/A
+1. "How beautifully does this illustrate what the beloved disciple says of 'boldness in the day of judgment'".
+2. "His desire that 'when He shall appear we may have confidence, and not be ashamed before Him at His coming!'"
+3. "Boldness in the day of judgment and confidence at His coming."
 
 ### Albert Barnes:
 1. I have gained - Gained by trading or by honest industry, Matthew 25:16.
 
 
 ### John Calvin:
-1. "The life of the godly is justly compared to trading, for they ought naturally to exchange and barter with each other, in order to maintain intercourse."
-2. "That we may not become weary in doing well, Christ declares that the labor of those who are faithfully employed in their calling will not be useless."
-3. "Let us therefore learn to call ourselves daily to account, before the Lord come, and make a reckoning with us."
+1. "Those who employ usefully whatever God has committed to them are said to be engaged in trading."
+2. "The gain which Christ mentions is general usefulness, which illustrates the glory of God."
+3. "Faithful servants, whose discharge of duty shall meet with his approbation, will share with himself a blessed abundance of all good things."
 
 ### Philip Schaff:
 1. Matthew 25:20. I have gained. In addition to and through the talents entrusted. Spiritual gifts are the means of increasing spirituality, yet human effort and responsibility enters.
@@ -29,51 +29,52 @@ The faithful servant recognizes that his gain is not his own, but a result of wh
 
 
 ### John Gill:
-1. "He came freely and cheerfully, with a holy confidence and intrepidity of mind, and gave in his account very readily, both of what he had received, and of what he had gained."
-2. "True ministers of the Gospel frankly own, that what gifts they have are delivered to them by Christ; and such are willing that he should have all returned to him, principal and increase."
-3. "Christ will not be ignorant of what they have been doing, and of what use they have been of; but the sense is, that as all will be manifest to Christ the searcher of hearts, with whom they have to do, so the account will stand fair and open."
+1. "True ministers of the Gospel frankly own, that what gifts they have are delivered to them by Christ; and such are willing that he should have all returned to him, principal and increase."
+2. "Christ will not be ignorant of what they have been doing, and of what use they have been of; but the sense is, that as all will be manifest to Christ the searcher of hearts, with whom they have to do, so the account will stand fair and open."
+3. "It will be seen and known by all, that such and such faithful ministers of Christ have behaved in this agreeable manner, and have been thus and thus serviceable in his interest."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:53:04
+- Timestamp: 12-25-2023 20:32:12
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 103
-- BHT Commentary Usage: 50.0%
-- BHT Quality Score: 1.3178191738552996
+- BHT Word Count: 92
+- BHT Commentary Usage: 38.1%
+- BHT Quality Score: 1.5450835796331335
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (74):
-	['a', 'account', 'achieving', 'an', 'and', 'anything', 'apart', 'are', 'as', 'be', 'been', 'both', 'but', 'christ', 'day', 'diligence', 'doing', 'entrusted', 'expected', 'faithful', 'from', 'gain', 'gained', 'gifts', 'give', 'good', 'grow', 'had', 'has', 'have', 'he', 'him', 'his', 'how', 'in', 'incapable', 'increasing', 'is', 'labor', 'let', 'not', 'of', 'one', 'our', 'own', 'readiness', 'received', 'reckon', 'recognizes', 'reflects', 'responsibility', 'result', 'revealed', 's', 'sees', 'servant', 'spiritual', 'that', 'the', 'this', 'to', 'true', 'truth', 'underscores', 'us', 'using', 'values', 'we', 'weary', 'what', 'will', 'with', 'work', 'worth']
-- ChatGPT injected words (significant words only) (37):
-	['account', 'achieving', 'apart', 'christ', 'day', 'diligence', 'entrusted', 'expected', 'faithful', 'gain', 'gained', 'gifts', 'good', 'grow', 'incapable', 'increasing', 'labor', 'let', 'readiness', 'received', 'reckon', 'recognizes', 'reflects', 'responsibility', 'result', 'revealed', 's', 'sees', 'servant', 'spiritual', 'true', 'truth', 'underscores', 'values', 'weary', 'work', 'worth']
+- ChatGPT injected words (63):
+	['achievements', 'acknowledge', 'acknowledging', 'and', 'are', 'as', 'boldness', 'bring', 'by', 'can', 'christ', 'concept', 'day', 'demonstrate', 'do', 'eagerness', 'faithful', 'gifts', 'glory', 'god', 'gospel', 'he', 'hearts', 'his', 'humbly', 'impact', 'in', 'interest', 'is', 'joy', 'judgment', 'knowing', 'manifest', 'me', 'ministers', 'not', 'nothing', 'of', 'on', 'own', 'reckoning', 'recognizes', 'searcher', 'servant', 'servants', 'service', 'source', 'spiritual', 'surely', 'surrender', 'talents', 'that', 'the', 'their', 'they', 'this', 'to', 'true', 'usefulness', 'utilizing', 'verse', 'will', 'without']
+- ChatGPT injected words (significant words only) (39):
+	['achievements', 'acknowledge', 'acknowledging', 'boldness', 'bring', 'christ', 'concept', 'day', 'demonstrate', 'eagerness', 'faithful', 'gifts', 'glory', 'god', 'gospel', 'hearts', 'humbly', 'impact', 'interest', 'joy', 'judgment', 'knowing', 'manifest', 'ministers', 'reckoning', 'recognizes', 'searcher', 'servant', 'servants', 'service', 'source', 'spiritual', 'surely', 'surrender', 'talents', 'true', 'usefulness', 'utilizing', 'verse']
 
 ### Logs
-- Attempt 1 BHT: The faithful servant in Matthew 25:20 acknowledges that his gain is not of his own doing, but rather a result of what he has been entrusted with. This verse emphasizes that apart from Christ, we can do nothing, highlighting the importance of relying on Him and His enabling grace. The joy and eagerness displayed by these faithful servants in the day of reckoning reflect the boldness and confidence that the beloved disciple desires for believers when Christ appears again. The servant's readiness to give an account of both what he had received and how he had gained speaks to the diligence and responsibility expected of us in using and increasing the spiritual gifts entrusted to us. Let us not grow weary in doing good, for Christ sees and values our labor, and one day we will have to reckon with Him. Therefore, may we live our lives in a manner that reflects a cheerful and confident boldness, acknowledging that all our gifts, both in their original form and in their increase, are ultimately from Christ.
-- 🔄 Matthew 25:20 (attempt 1, 175 words, 44.04% quotes quality score: 1.509258018404324, V2 normalized quality score: 41.53, commentator tiers 1-3: 29.45%, 24.25%, 46.3%) 
+- Attempt 1 BHT: The faithful servant in Matthew 25:20 does not take credit for himself but acknowledges that without God, he can do nothing. This verse also highlights the joy and readiness of these faithful servants on the day of reckoning, illustrating the beloved disciple's concept of boldness in the day of judgment. It emphasizes the desire for confidence and not being ashamed before Christ's coming. The gain mentioned here is achieved through the talents entrusted and human effort, signifying that spiritual gifts are a means of increasing spirituality. As faithful servants engage in useful work, it glorifies God and results in an abundance of good things. These true ministers recognize that their gifts are from Christ and willingly return all to Him. Ultimately, Christ, as the searcher of hearts, will see and know their faithfulness and the positive impact they have had in His interest.
+- 🔄 Matthew 25:20 (attempt 1, 144 words, 40.59% quotes quality score: 1.5547333640434764, V2 normalized quality score: 43.04, commentator tiers 1-3: 34.3%, 20.59%, 45.12%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The faithful servant in Matthew 25:20 humbly confesses that his gain is not his own, recognizing the enabling cause of his success. This highlights the truth that without Christ, we are incapable of accomplishing anything. The joy and readiness displayed by these faithful servants on the day of reckoning reflect the beloved disciple's desire for believers to have confidence and boldness when Christ appears. It reminds us of the importance of diligently using and increasing the spiritual gifts entrusted to us. Let us not grow weary in our labor, as Christ values and will manifest the true worth of our work.
-- 🔄 Matthew 25:20 (attempt 2, 101 words, 36.99% quotes quality score: 1.4523298201251487, V2 normalized quality score: 39.63, commentator tiers 1-3: 32.5%, 26.21%, 41.3%) 
+- Attempt 2 BHT: The faithful servant in this passage recognizes that his accomplishments are not his own, but a result of the work of God. It is a reminder that without God, we are powerless. This passage also highlights the joy and eagerness of these faithful servants on the day of reckoning, symbolizing the concept of confidence and boldness in the day of judgment. They faithfully use the talents entrusted to them, resulting in spiritual growth and bringing glory to God. The gain mentioned is a reflection of their usefulness in the service of Christ.
+- 🔄 Matthew 25:20 (attempt 2, 92 words, 38.98% quotes quality score: 1.3900279445244963, V2 normalized quality score: 37.56, commentator tiers 1-3: 38.41%, 13.33%, 48.27%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: The faithful servant humbly acknowledges that his gain is not his own, but the result of what he has been entrusted with. This highlights the truth that without Christ, we can do nothing. The joy and readiness displayed by these faithful servants on the day of reckoning reflect the desired confidence and boldness in the face of Christ's return. This verse reminds us of the importance of diligently using and increasing the spiritual gifts we have been given. Let us not grow weary in our labor, as Christ values and will fully reveal our work's true worth.
-- 🔄 Matthew 25:20 (attempt 3, 99 words, 42.25% quotes quality score: 1.4050801794913397, V2 normalized quality score: 38.06, commentator tiers 1-3: 33.41%, 23.53%, 43.06%) 
-	- BHT WAS OVER 80 WORDS! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: The faithful servant in this verse humbly recognizes that his achievements are not his own, acknowledging that without Me, can do nothing. Their joy and enthusiasm on the day of reckoning exemplify the desired boldness in the day of judgment expressed by the beloved disciple. These faithful servants utilize their talents and spiritual gifts, resulting in growth and honoring God. Their gains represent their usefulness in God's service, demonstrating their commitment to faithfully and productively fulfill their calling.
+- 🔄 Matthew 25:20 (attempt 3, 79 words, 34.48% quotes quality score: 1.5450473175250754, V2 normalized quality score: 42.72, commentator tiers 1-3: 40.54%, 14.59%, 44.87%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The faithful servant recognizes that his gain is not his own, but a result of what he has been entrusted with. This underscores the truth that apart from Christ, we are incapable of achieving anything. The servant's readiness to give an account of both what he had received and how he had gained reflects the responsibility and diligence expected of us in using and increasing our spiritual gifts. Let us not grow weary in doing good, as Christ sees and values our labor. One day, we will have to reckon with Him and the true worth of our work will be revealed.
-- 🔄 Matthew 25:20 (attempt 4, 103 words, 50.0% quotes quality score: 1.3178191738552996, V2 normalized quality score: 35.16, commentator tiers 1-3: 28.36%, 25.93%, 45.71%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 5 BHT: The faithful servant in Matthew 25:20 acknowledges that his gain is not his own, but the result of what he has been entrusted with. This verse emphasizes the importance of relying on Christ, as without Him, we are incapable of accomplishing anything. The readiness and joy displayed by the faithful servants on the day of reckoning reflect the desired confidence and boldness when Christ returns. This verse highlights the responsibility of diligently using and increasing the spiritual gifts entrusted to us. Let us not grow weary in our labor, as Christ values and will reveal the true worth of our work.
-- 🔄 Matthew 25:20 (attempt 5, 100 words, 42.86% quotes quality score: 1.457574371554348, V2 normalized quality score: 39.81, commentator tiers 1-3: 32.06%, 26.32%, 41.63%) 
+- Attempt 4 BHT: The faithful servant in Matthew 25:20 understands that his achievements are not self-merited, acknowledging that without Me, can do nothing. Their joy and alacrity on the day of reckoning illustrate the concept of boldness in the day of judgment. The gain mentioned in this passage shows the result of utilizing talents and spiritual gifts, reflecting the glory of God. True ministers of the Gospel openly recognize that their gifts are from Christ and willingly surrender all to Him. Ultimately, Christ, as the searcher of hearts, knows and acknowledges the faithful servants' fruitfulness in His purpose.
+- 🔄 Matthew 25:20 (attempt 4, 95 words, 32.31% quotes quality score: 1.5704869710928864, V2 normalized quality score: 43.56, commentator tiers 1-3: 36.84%, 18.19%, 44.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 5 BHT: The faithful servant in this verse recognizes that his achievements are not his own, acknowledging that without Me, can do nothing. Their joy and eagerness on the day of reckoning manifest the concept of boldness in the day of judgment. By utilizing their talents and spiritual gifts, they bring glory to God and demonstrate their usefulness in His service. True ministers of the Gospel humbly surrender their gifts to Christ, knowing that He is the source. Christ, as the searcher of hearts, will surely acknowledge the faithful servants' impact in His interest.
+- 🔄 Matthew 25:20 (attempt 5, 92 words, 38.1% quotes quality score: 1.5450835796331335, V2 normalized quality score: 42.72, commentator tiers 1-3: 38.24%, 14.14%, 47.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- ✅ Matthew 25:20 bht prompt v0.8 (103 words, 50.0% quotes)
-- quality score: 1.3178191738552996, V2 normalized quality score: 35.16, commentator tiers 1-3: 28.36%, 25.93%, 45.71%)
+- ✅ Matthew 25:20 bht prompt v0.8 (92 words, 38.1% quotes)
+- quality score: 1.5450835796331335, V2 normalized quality score: 42.72, commentator tiers 1-3: 38.24%, 14.14%, 47.62%)

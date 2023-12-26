@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-19-2023 16:17:15",
+    "timestamp": "12-25-2023 20:33:10",
     "verseRef": "Luke 9:47",
     "bestBHT": {
-        "bht": "Jesus took hold of a little child and set them by his side, offering the disciples a lesson in humility. By embracing childlike innocence and humility, one can enter God's kingdom. Although Jesus didn't hear the disciples' words, as the omniscient God, he was privy to their ambition, vanity, and reasoning. This incident serves as a reminder to approach the kingdom of God with a humble and teachable spirit.",
-        "wordCount": 71,
+        "bht": "Jesus, having laid hold of a little child, took him to himself and set him by his side. The child, slipped down by the side of Jesus, served as an object lesson for the disciples in humility, which they sorely needed. In this act of taking the child to himself and placing him in their midst, Jesus demonstrated his omniscience and discernment of their ambitions and vanity. This emphasized the significance of embracing humility and fostering a childlike faith in the disciples' journey of following him.",
+        "wordCount": 86,
         "quoteTokenProportion": 36.54,
-        "qualityScore": 1.1106512580098917,
-        "qualityScoreNormalizedComparedToV2BHTs": 28.27,
+        "qualityScore": 1.5455126175558083,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.73,
         "commentatorTierSimilarities": [
-            45.15,
+            52.83,
             0.0,
-            54.85
+            47.17
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "He took a little child [\u03b5\u03c0\u03b9\u03bb\u03b1\u03b2\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c0\u03b1\u03b9\u03b4\u03b9\u03bf\u03c5] . Strictly, having laid hold of.",
-            "By him [\u03c0\u03b1\u03c1 \u03b5\u03b1\u03c5\u03c4\u03c9] . Lit., by himself.",
+            "He took a little child, strictly, having laid hold of.",
+            "By him, lit., by himself.",
             "Mark alone records the taking him in his arms."
         ],
         "Archibald T. Robertson": [
-            "Took a little child to himself (indirect middle).",
-            "Set him by his side.",
+            "Took a little child...Taking a little child to himself (indirect middle).\" ",
+            "Set him by his side.\" ",
             "Now the little child was slipped down by the side of Jesus as he gave the disciples an object lesson in humility which they sorely needed."
         ],
         "John Gill": [
-            "Not by any words he had heard; for the dispute was on the road, as they came along behind him; but as the omniscient God, who is the discerner of the thoughts and intents of the heart, he was privy to all their ambition, and the vanity of their minds, and to all their reasonings and debates.",
-            "Though he was before them, and out of the reach of hearing of them.",
-            "Jesus sitting in the midst of them; so, that the child he set by him, was in the middle of them and before them."
+            "As the omniscient God, who is the discerner of the thoughts and intents of the heart, he was privy to all their ambition, and the vanity of their minds.\" ",
+            "Jesus sitting in the midst of them; so, that the child he set by him, was in the middle of them and before them.",
+            "He took a child and set him by him."
         ],
         "John Wesley": [
             "Matthew 18:2; Mark 9:37."
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "As Jesus and his disciples were walking along, he took hold of a little child and set the child by his side, while the child slipped down by the side of Jesus. In this moment, Jesus offered the disciples an important lesson in humility. His actions symbolized the need to embrace childlike humility and innocence in order to enter the kingdom of God. Jesus, being omniscient, was aware of the ambition and vanity that plagued their hearts, even without hearing their words. This incident emphasizes the importance of approaching God's kingdom with a humble and teachable spirit.",
-            "wordCount": 98,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.0630142540437117,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.69,
+            "bht": "Jesus, aware of the disciples' ambition and vanity, took hold of a little child and set him by his side. This act of taking the child to himself and setting him in the midst of the disciples was a powerful object lesson in humility. The child symbolized the humble nature that Jesus desired his disciples to embrace. By placing the child in their midst, Jesus highlighted the importance of humility and childlike faith in their journey of following him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4941836949839677,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
             "commentatorTierSimilarities": [
-                45.05,
+                50.63,
                 0.0,
-                54.95
+                49.37
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus took hold of a little child and set them by his side, offering the disciples a lesson in humility. By embracing childlike innocence and humility, one can enter God's kingdom. Although Jesus didn't hear the disciples' words, as the omniscient God, he was privy to their ambition, vanity, and reasoning. This incident serves as a reminder to approach the kingdom of God with a humble and teachable spirit.",
-            "wordCount": 71,
-            "quoteTokenProportion": 36.54,
-            "qualityScore": 1.1106512580098917,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.27,
+            "bht": "Jesus, by himself and strictly, took a little child and set him by his side. The child, slipped down by the side of Jesus, served as an object lesson in humility for the disciples, who were in need of humbling themselves. Jesus' action revealed his omniscience and discernment of their hearts, while also emphasizing the significance of embracing humility and childlike faith. Placing the child in their midst, Jesus highlighted the necessity of humility in their journey of following him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4940376149726808,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
             "commentatorTierSimilarities": [
-                45.15,
+                50.65,
                 0.0,
-                54.85
+                49.35
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus, in an act of teaching, took hold of a little child and placed them beside himself. This served as a demonstration of humility, reminding the disciples of the importance of embracing childlike innocence. While Jesus may not have heard their words, as the omniscient God, he was aware of their ambition, vanity, reasoning, and debates. This incident emphasizes the need to approach God's kingdom with a teachable and humble spirit.",
-            "wordCount": 72,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.0061769737720472,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.8,
+            "bht": "Jesus, taking a little child to himself and setting him by his side, provided the disciples with a powerful lesson in humility. Being aware of their ambition and vanity, Jesus used the child as a symbol of humility, displaying his discernment of their thoughts and intentions. By placing the child in their midst, Jesus emphasized the importance of embracing humility and having a childlike faith in their relationship with him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.4834047741873555,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.67,
             "commentatorTierSimilarities": [
-                45.48,
+                50.96,
                 0.0,
-                54.52
+                49.04
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus took a little child and set them by his side, teaching the disciples about humility. As the omniscient God, Jesus discerned their ambition, vanity, reasoning, and debates, even without hearing their words. This incident highlights the importance of approaching God's kingdom with a humble and teachable spirit. Embracing childlike innocence and humility is key to entering the kingdom of God.",
-            "wordCount": 62,
-            "quoteTokenProportion": 35.42,
-            "qualityScore": 1.0137020969451584,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.05,
+            "bht": "Jesus, having laid hold of a little child, took him to himself and set him by his side. The child, slipped down by the side of Jesus, served as an object lesson for the disciples in humility, which they sorely needed. In this act of taking the child to himself and placing him in their midst, Jesus demonstrated his omniscience and discernment of their ambitions and vanity. This emphasized the significance of embracing humility and fostering a childlike faith in the disciples' journey of following him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5455126175558083,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.73,
             "commentatorTierSimilarities": [
-                42.52,
+                52.83,
                 0.0,
-                57.48
+                47.17
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus took hold of a little child and set them by his side, presenting the disciples with a meaningful lesson in humility. By embracing childlike innocence and humility, one can enter the kingdom of God. Although Jesus did not hear the disciples' words, as the omniscient God, he knew their ambition, vanity, reasoning, and debates. This incident reminds us to approach God's kingdom with a humble and teachable spirit, acknowledging the importance of embracing the qualities of a child.",
-            "wordCount": 80,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.0800060270193066,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.25,
+            "bht": "Jesus, by himself, took a little child and set him by his side\u2014slipping him down by the side as an object lesson in humility. Aware of their ambitions and vanity, Jesus displayed his discernment of their thoughts and intentions. Putting the child in their midst, he emphasized the importance of embracing humility and having a childlike faith. This act highlighted Jesus' omniscience and the necessity of humility in following him, as shown in Matthew 18:2 and Mark 9:37.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3527956919724877,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.32,
             "commentatorTierSimilarities": [
-                46.71,
+                42.65,
                 0.0,
-                53.29
+                57.35
             ],
             "generationAttempt": 5
         }

@@ -1,63 +1,62 @@
 # Matthew 2:5 Commentary Help Text
 
 ## BHT:
-The wise men's citation of the prophetic declaration in Micah 5:2 carries immense weight, serving as an involuntary testimony from the highest tribunal and ultimately leading to Jesus' condemnation. Although their paraphrase deviates from the Hebrew text and Septuagint, its significance remains unaltered. Interestingly, kings are often referred to as shepherds, and the term pastor derives from this concept. Moreover, the widespread knowledge that the Messiah would be born in Bethlehem of Judea strengthens the gravity of their unwavering affirmation.
+The testimony from the highest tribunal, as written by the prophet, condemned Jesus to die. Kings are depicted as shepherds in both the correct translation and the term pastor. Their immediate response, based on the well-known prophecy in Micah 5:2, confirms Bethlehem as the birthplace of Jesus.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "A prompt and involuntary testimony from the highest tribunal."
-2. "Which yet at length condemned Him to die."
-3. "Thus it is written by the prophet."
+1. "A prompt and involuntary testimony from the highest tribunal; which yet at length condemned Him to die."
+2. "For thus it is written by the prophet."
 
 ### Philip Schaff:
 1. "They speak of the prophetic declaration as decisive."
-2. "It has been written and still remains on record."
+2. "It is written and still remains on record."
 3. "As the prophecy was well known the name is not given."
 
 ### Archibald T. Robertson:
-1. "So they quote Micah 5:2, 'a free paraphrase' Alford calls it, for it is not precisely like the Hebrew text or like the Septuagint." 
-2. "Homer calls kings 'the shepherds of the people'." 
+1. "Shall be shepherd (ποιμανε). The Authorized Version had 'shall rule,' but 'shepherd' is correct."
+2. "Homer calls kings 'the shepherds of the people'" (Vincent).
 3. "Our word pastor means shepherd."
 
 ### John Gill:
 1. "They answer without any hesitation, it being a generally received notion, and a thing well known among them."
-2. "In Bethlehem of Judea."
-3. "Thus it is written by the prophet."
+2. "In Bethlehem of Judea; and give their reason for it."
+3. "Thus it is written by the prophet, that is, the prophet Micah, in whose prophecy, Micah 5:2 it stands."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:42:21
+- Timestamp: 12-25-2023 20:31:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 28.57%
-- BHT Quality Score: 1.325946044110056
+- BHT Word Count: 47
+- BHT Commentary Usage: 35.14%
+- BHT Quality Score: 1.505148235570095
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['affirmation', 'although', 'an', 'and', 'are', 'as', 'be', 'bethlehem', 'born', 'carries', 'citation', 'concept', 'condemnation', 'declaration', 'derives', 'deviates', 'from', 'gravity', 'hebrew', 'highest', 'immense', 'in', 'interestingly', 'involuntary', 'its', 'jesus', 'judea', 'kings', 'knowledge', 'leading', 'men', 'messiah', 'micah', 'moreover', 'of', 'often', 'paraphrase', 'pastor', 'prophetic', 'referred', 'remains', 's', 'septuagint', 'serving', 'shepherds', 'significance', 'strengthens', 'term', 'testimony', 'text', 'that', 'the', 'their', 'this', 'to', 'tribunal', 'ultimately', 'unaltered', 'unwavering', 'weight', 'widespread', 'wise', 'would']
-- ChatGPT injected words (significant words only) (45):
-	['affirmation', 'bethlehem', 'born', 'carries', 'citation', 'concept', 'condemnation', 'declaration', 'derives', 'deviates', 'gravity', 'hebrew', 'highest', 'immense', 'interestingly', 'involuntary', 'jesus', 'judea', 'kings', 'knowledge', 'leading', 'men', 'messiah', 'micah', 'paraphrase', 'pastor', 'prophetic', 'referred', 'remains', 's', 'septuagint', 'serving', 'shepherds', 'significance', 'strengthens', 'term', 'testimony', 'text', 'tribunal', 'ultimately', 'unaltered', 'unwavering', 'weight', 'widespread', 'wise']
+- ChatGPT injected words (37):
+	['and', 'are', 'as', 'based', 'bethlehem', 'birthplace', 'both', 'by', 'condemned', 'confirms', 'correct', 'depicted', 'die', 'from', 'highest', 'immediate', 'in', 'jesus', 'kings', 'known', 'micah', 'of', 'on', 'pastor', 'prophecy', 'prophet', 'response', 'shepherds', 'term', 'testimony', 'the', 'their', 'to', 'translation', 'tribunal', 'well', 'written']
+- ChatGPT injected words (significant words only) (24):
+	['based', 'bethlehem', 'birthplace', 'condemned', 'confirms', 'correct', 'depicted', 'die', 'highest', 'immediate', 'jesus', 'kings', 'known', 'micah', 'pastor', 'prophecy', 'prophet', 'response', 'shepherds', 'term', 'testimony', 'translation', 'tribunal', 'written']
 
 ### Logs
-- Attempt 1 BHT: The wise men who sought the newborn King referred to Micah 5:2, citing it as a prompt and involuntary testimony from the highest tribunal, ultimately leading to His condemnation and death. Despite not precisely matching the original Hebrew or Septuagint, their free paraphrase of the verse carried weight. Interestingly, the kings were known as shepherds of the people, and the word pastor derives from the term shepherd. It was widely recognized that the Messiah would be born in Bethlehem of Judea, and this prophetic declaration held undeniable authority.
-- 🔄 Matthew 2:5 (attempt 1, 87 words, 28.99% quotes quality score: 1.4047660605325618, V2 normalized quality score: 38.05, commentator tiers 1-3: 39.74%, 29.79%, 30.47%) 
+- Attempt 1 BHT: The commentary on Matthew 2:5 highlights the significant testimony and condemnation of Jesus by the highest tribunal, as written by the prophet. The commentators note the correct translation of shepherd instead of rule, emphasizing the role of kings as shepherds of the people. The mention of pastor as deriving from the word shepherd further reinforces this idea. The certainty and widespread knowledge of the prophecy are evident in their swift response, which directly references the prophecy in Micah 5:2 that pinpointed Bethlehem as the birthplace of the Messiah.
+- 🔄 Matthew 2:5 (attempt 1, 86 words, 24.56% quotes quality score: 1.418982188618856, V2 normalized quality score: 38.52, commentator tiers 1-3: 41.83%, 27.97%, 30.2%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The wise men powerfully testified to the prophetic declaration of Micah 5:2, acknowledging its influence on the trial and ultimate condemnation of Jesus. While their quote may not precisely match the original Hebrew text or Septuagint, it still carried weight. Interestingly, the kings were referred to as shepherds, a parallel to the meaning of the word pastor. The widespread knowledge of the Messiah's birthplace in Bethlehem of Judea added further credence to their affirmation.
-- 🔄 Matthew 2:5 (attempt 2, 74 words, 31.03% quotes quality score: 1.2696839483191584, V2 normalized quality score: 33.56, commentator tiers 1-3: 36.85%, 29.87%, 33.28%) 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: They acknowledge the authoritative testimony written by the prophet, which condemns Jesus to die. By using the correct translation of 'shepherd,' they draw parallels between kings and shepherds, who guide and care for the people. The mention of 'pastor' highlights this connection. Their immediate response shows their familiarity with the prophecy in Micah 5:2, affirming that Bethlehem is the birthplace of the Messiah.
+- 🔄 Matthew 2:5 (attempt 2, 62 words, 34.69% quotes quality score: 1.4480282073491566, V2 normalized quality score: 39.49, commentator tiers 1-3: 37.67%, 29.77%, 32.56%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The wise men bore compelling witness to the prophetic declaration found in Micah 5:2, affirming its influence on the trial and eventual condemnation of Jesus. Although their paraphrase of the verse did not precisely align with the original Hebrew or Septuagint, its significance remained intact. Notably, the kings were often likened to shepherds, with the word pastor drawing its meaning from this association. The collective awareness of the Messiah's birth in Bethlehem of Judea lent further weight to their affirmation.
-- 🔄 Matthew 2:5 (attempt 3, 80 words, 29.03% quotes quality score: 1.2262880958953684, V2 normalized quality score: 32.12, commentator tiers 1-3: 36.98%, 27.52%, 35.5%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The proclamation of the wise men stands as an involuntary and prompt testimony from the highest tribunal, underscoring its role in the condemnation of Jesus. Though their paraphrase of Micah 5:2 diverged from the original Hebrew and Septuagint, its authority remained undiminished. Notably, the kings were often referred to as shepherds, a connection that echoes the significance of the word pastor. This widely held understanding of the Messiah's birth in Bethlehem of Judea further reinforced their unequivocal response.
-- 🔄 Matthew 2:5 (attempt 4, 78 words, 28.81% quotes quality score: 1.2564879660376251, V2 normalized quality score: 33.12, commentator tiers 1-3: 38.46%, 26.57%, 34.97%) 
+- Attempt 3 BHT: The prophecy written by the prophet serves as a decisive and involuntary testimony, leading to Jesus' condemnation. The translation of 'shepherd' instead of 'rule' emphasizes the role of kings as shepherds, caring for the people. They refer to Homer's description of kings as 'the shepherds of the people' to reinforce this idea. The word 'pastor' meaning shepherd adds further significance. Their swift response, referring to the well-known prophecy in Micah 5:2, confirms that Jesus should be born in Bethlehem.
+- 🔄 Matthew 2:5 (attempt 3, 80 words, 30.36% quotes quality score: 1.4465596229024367, V2 normalized quality score: 39.44, commentator tiers 1-3: 41.44%, 28.03%, 30.53%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The wise men's citation of the prophetic declaration in Micah 5:2 carries immense weight, serving as an involuntary testimony from the highest tribunal and ultimately leading to Jesus' condemnation. Although their paraphrase deviates from the Hebrew text and Septuagint, its significance remains unaltered. Interestingly, kings are often referred to as shepherds, and the term pastor derives from this concept. Moreover, the widespread knowledge that the Messiah would be born in Bethlehem of Judea strengthens the gravity of their unwavering affirmation.
-- 🔄 Matthew 2:5 (attempt 5, 80 words, 28.57% quotes quality score: 1.325946044110056, V2 normalized quality score: 35.43, commentator tiers 1-3: 38.92%, 30.4%, 30.68%) 
+- Attempt 4 BHT: The prophecy, written by the prophet, serves as an involuntary testimony, condemning Jesus to die. The correct translation of 'shepherd' instead of 'rule' highlights the role of kings as shepherds, in line with Homer's description. The word 'pastor' further supports this idea. Their prompt response, referencing the well-known prophecy in Micah 5:2, confirms Bethlehem as the birthplace of Jesus.
+- 🔄 Matthew 2:5 (attempt 4, 60 words, 26.09% quotes quality score: 1.4496057293483948, V2 normalized quality score: 39.54, commentator tiers 1-3: 40.31%, 28.89%, 30.8%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 2:5 bht prompt v0.8 (80 words, 28.57% quotes)
-- quality score: 1.325946044110056, V2 normalized quality score: 35.43, commentator tiers 1-3: 38.92%, 30.4%, 30.68%)
+- Attempt 5 BHT: The testimony from the highest tribunal, as written by the prophet, condemned Jesus to die. Kings are depicted as shepherds in both the correct translation and the term pastor. Their immediate response, based on the well-known prophecy in Micah 5:2, confirms Bethlehem as the birthplace of Jesus.
+- 🔄 Matthew 2:5 (attempt 5, 47 words, 35.14% quotes quality score: 1.505148235570095, V2 normalized quality score: 41.39, commentator tiers 1-3: 40.21%, 26.16%, 33.62%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 2:5 bht prompt v0.8 (47 words, 35.14% quotes)
+- quality score: 1.505148235570095, V2 normalized quality score: 41.39, commentator tiers 1-3: 40.21%, 26.16%, 33.62%)

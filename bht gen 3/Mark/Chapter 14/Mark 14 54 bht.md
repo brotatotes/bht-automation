@@ -1,18 +1,18 @@
 # Mark 14:54 Commentary Help Text
 
 ## BHT:
-In a quadrangular interior court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. This reveals that Jesus didn't strictly adhere to His own teaching of turning the other cheek in this situation. As Peter followed Jesus from a distance, he sat with the officers and warmed himself at the firelight, inadvertently making himself more visible than he believed. Jesus' refusal to incriminate Himself and Peter's actions reflect the complexity of human behavior in challenging circumstances.
+Peter's curiosity about the end result of Jesus' trial led him into the palace, where he joined the servants. The light of the fire, shining on Peter's face, attracted the attention of a maid, exposing his connection to Jesus. Peter's attempt to conceal his allegiance proved futile, as the firelight revealed his true identity. This incident highlights Peter's inner struggle - torn between his desire to be close to Jesus and his fear of openly aligning himself with Him. The fire's light brought Peter out of hiding, making him more visible than he had anticipated.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "An oriental house is usually built around a quadrangular interior court."
-2. "Our Lord saw the attempt to draw Him into self-crimination, and resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses."
-3. "From our Lord's procedure here, by the way, it is evident enough that His own precept in the Sermon on the Mount—that when smitten on the one cheek we are to turn to the smiter the other also—is not to be taken to the letter."
+1. "His wishing to 'see the end,' or issue of these proceedings, was what led him into the palace, for he evidently feared the worst."
+2. "These two minute statements throw an interesting light on each other."
+3. "He speaks of His public teaching as now a past thing—as now all over."
 
 ### Marvin Vincent:
-1. "Palace [αυλην] . Rather, court, as Rev., the quadrangle round which the chambers were built."
-2. "Sat with [ην συγκαθημενος] . The verb With the participle denoting continuousness. What occurred after occurred while he was sitting."
-3. "At the fire [προς το φως] . Fwv is never used of the fire itself, but of the light of the fire; and this is the point to which the evangelist directs attention: that the firelight, Shining on Peter's face, Called forth the challenge of the maid (verse 66)."
+1. "The verb With the participle denoting continuousness. What occurred after occurred while he was sitting."
+2. "Fwv is never used of the fire itself, but of the light of the fire; and this is the point to which the evangelist directs attention."
+3. "The firelight, Shining on Peter's face, Called forth the challenge of the maid."
 
 ### Philip Schaff:
 1. Mark 14:54. Warmed himself in the light of the Are. Lit, ‘in the light’ (comp. Luke 22:55-56). The open fire in the court gave light, and Peter was recognized by the light of the fire (Mark 14:67), comp, also John 18:15-16; John 18:18.
@@ -20,49 +20,51 @@ In a quadrangular interior court, Jesus resented the attempt to draw Him into se
 
 
 ### Archibald T. Robertson:
-1. "Peter had followed him afar off...not bold enough to take an open stand with Christ as the Beloved Disciple did, and yet unable to remain away with the other disciples."
-2. "Peter making himself at home with the officers...in his restless weary mood."
+1. "Possibly Mark did not care to dwell on the picture of Peter furtively following at a distance, not bold enough to take an open stand with Christ as the Beloved Disciple did, and yet unable to remain away with the other disciples."
+2. "Probably he did now one, now the other, in his restless weary mood."
 3. "Fire has light as well as heat and it shone in Peter's face. He was not hidden as much as he supposed he was."
 
 ### John Gill:
-1. "And Peter followed him afar off... and warmed himself at the fire."
+1. "Peter followed him afar off... keeping at some distance, that they might not be observed, and exposed to danger." 
+2. "And he sat with the servants; as if he was one of them, and had no concern with Jesus."
+3. "So we read of אור של גיהנם, 'the fire of hell'; and fire was the אור, or 'light', created on the first day."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:29:00
+- Timestamp: 12-25-2023 20:32:51
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
+- BHT Word Count: 99
 - BHT Commentary Usage: 33.33%
-- BHT Quality Score: 1.4525888759287389
+- BHT Quality Score: 1.5370105015472313
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'accused', 'actions', 'adhere', 'and', 'as', 'asserting', 'at', 'attempt', 'behavior', 'believed', 'challenging', 'cheek', 'circumstances', 'complexity', 'court', 'crimination', 'didn', 'distance', 'draw', 'firelight', 'followed', 'from', 'he', 'him', 'himself', 'his', 'human', 'in', 'inadvertently', 'incriminate', 'interior', 'into', 'jesus', 'making', 'more', 'of', 'officers', 'other', 'own', 'peter', 'quadrangular', 'reflect', 'refusal', 'resented', 'reveals', 'rights', 's', 'sat', 'self', 'situation', 'strictly', 't', 'teaching', 'than', 'that', 'the', 'this', 'to', 'turning', 'visible', 'warmed', 'with']
-- ChatGPT injected words (significant words only) (42):
-	['accused', 'actions', 'adhere', 'asserting', 'attempt', 'behavior', 'believed', 'challenging', 'cheek', 'circumstances', 'complexity', 'court', 'crimination', 'didn', 'distance', 'draw', 'firelight', 'followed', 'human', 'inadvertently', 'incriminate', 'interior', 'jesus', 'making', 'officers', 'peter', 'quadrangular', 'reflect', 'refusal', 'resented', 'reveals', 'rights', 's', 'sat', 'self', 'situation', 'strictly', 't', 'teaching', 'turning', 'visible', 'warmed']
+- ChatGPT injected words (66):
+	['a', 'about', 'aligning', 'allegiance', 'and', 'anticipated', 'as', 'attempt', 'attention', 'attracted', 'be', 'between', 'brought', 'close', 'conceal', 'connection', 'curiosity', 'desire', 'end', 'exposing', 'face', 'fear', 'fire', 'firelight', 'futile', 'had', 'he', 'hiding', 'highlights', 'him', 'himself', 'his', 'identity', 'incident', 'inner', 'into', 'jesus', 'joined', 'led', 'light', 'maid', 'making', 'more', 'of', 'on', 'openly', 'out', 'palace', 'peter', 'proved', 'result', 'revealed', 's', 'servants', 'shining', 'struggle', 'than', 'the', 'this', 'to', 'torn', 'trial', 'true', 'visible', 'where', 'with']
+- ChatGPT injected words (significant words only) (44):
+	['aligning', 'allegiance', 'anticipated', 'attempt', 'attention', 'attracted', 'brought', 'close', 'conceal', 'connection', 'curiosity', 'desire', 'end', 'exposing', 'face', 'fear', 'fire', 'firelight', 'futile', 'hiding', 'highlights', 'identity', 'incident', 'inner', 'jesus', 'joined', 'led', 'light', 'maid', 'making', 'openly', 'palace', 'peter', 'proved', 'result', 'revealed', 's', 'servants', 'shining', 'struggle', 'torn', 'trial', 'true', 'visible']
 
 ### Logs
-- Attempt 1 BHT: In Mark 14:54, the setting is described as an oriental house built around a quadrangular interior court. Jesus, being accused, asserts His rights and resents the attempt to draw Him into self-crimination. This passage also reveals that Jesus did not take His own precept of turning the other cheek literally in this situation. As Peter followed Jesus afar off, he sat with the officers and warmed himself at the firelight, which shone on his face, making him more visible than he realized.
-- 🔄 Mark 14:54 (attempt 1, 82 words, 45.59% quotes quality score: 1.451628797944881, V2 normalized quality score: 39.61, commentator tiers 1-3: 36.71%, 25.78%, 37.51%) 
+- Attempt 1 BHT: In Mark 14:54, Peter's curiosity about the outcome of Jesus' trial led him into the palace where Jesus was being questioned. As he sat with the servants, the firelight shining on his face caught the attention of a maid, leading her to challenge Peter about his association with Jesus. This moment reveals Peter's internal struggle - wanting to be close to Jesus but also reluctant to openly stand by Him. However, despite Peter's attempt to hide, the light of the fire exposed him more than he realized.
+- 🔄 Mark 14:54 (attempt 1, 88 words, 40.32% quotes quality score: 1.5650975610493147, V2 normalized quality score: 43.38, commentator tiers 1-3: 33.4%, 30.33%, 36.27%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: In a quadrangular interior court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. This reveals that Jesus didn't strictly adhere to His own teaching of turning the other cheek in this situation. As Peter followed Jesus from a distance, he sat with the officers and warmed himself at the firelight, inadvertently making himself more visible than he believed. Jesus' refusal to incriminate Himself and Peter's actions reflect the complexity of human behavior in challenging circumstances.
-- 🔄 Mark 14:54 (attempt 2, 85 words, 33.33% quotes quality score: 1.4525888759287389, V2 normalized quality score: 39.64, commentator tiers 1-3: 36.37%, 29.74%, 33.89%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Peter's desire to see the end of Jesus' trial brought him into the palace, showing his concern for the outcome. While sitting with the servants, the light of the fire shone on Peter's face, attracting the attention of a maid who challenged his association with Jesus. This moment reflects Peter's struggle - wanting to be close to Jesus but also hesitant to openly stand with Him. However, despite Peter's efforts to hide, the firelight exposed him more than he realized.
+- 🔄 Mark 14:54 (attempt 2, 83 words, 36.84% quotes quality score: 1.4487771765291788, V2 normalized quality score: 39.51, commentator tiers 1-3: 35.2%, 28.99%, 35.82%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In the quadrangular court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. This shows that His teaching to turn the other cheek should not be taken literally in every circumstance. As Peter followed Jesus from afar, he sat with the officers, seeking warmth from the firelight that illuminated his face. Unbeknownst to him, the light revealed his presence, highlighting the complexity of his actions and the challenges faced in difficult times.
-- 🔄 Mark 14:54 (attempt 3, 79 words, 32.76% quotes quality score: 1.3884872630280016, V2 normalized quality score: 37.51, commentator tiers 1-3: 34.5%, 28.07%, 37.43%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In the quadrangular court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. Our Lord's response highlights the importance of competent witnesses in bringing charges against an accused party. Meanwhile, Peter, following Jesus from a distance, sat with the officers and found warmth by the firelight. Unbeknownst to him, the firelight revealed his presence and led to the maid challenging him. This scene demonstrates the significance of light and how even when Peter thought he was hidden, he was actually visible.
-- 🔄 Mark 14:54 (attempt 4, 89 words, 34.85% quotes quality score: 1.3911550428543449, V2 normalized quality score: 37.6, commentator tiers 1-3: 36.04%, 23.37%, 40.59%) 
+- Attempt 3 BHT: Peter's curiosity about the outcome of Jesus' trial led him to enter the palace, where he hoped to see the end of the proceedings. He sat among the servants, possibly trying to blend in, but the firelight illuminated his face, catching the attention of a maid. Peter, torn between wanting to be close to Jesus and fearing the consequences, found himself exposed in the light of the fire. His struggle to hide was in vain, as the light revealed more than he had anticipated.
+- 🔄 Mark 14:54 (attempt 3, 85 words, 37.29% quotes quality score: 1.5225926090849837, V2 normalized quality score: 41.97, commentator tiers 1-3: 37.22%, 24.55%, 38.23%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In the quadrangular court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. Our Lord's response highlights the importance of competent witnesses in bringing charges. Meanwhile, Peter, following Jesus from a distance, found warmth in the firelight. Unbeknownst to him, the light exposed his presence, resulting in a maid challenging him. This scene showcases the significance of light and how it revealed Peter's true position, despite his attempt to remain hidden.
-- 🔄 Mark 14:54 (attempt 5, 80 words, 27.59% quotes quality score: 1.3287977601048628, V2 normalized quality score: 35.53, commentator tiers 1-3: 37.84%, 23.06%, 39.1%) 
+- Attempt 4 BHT: Peter's desire to witness the outcome of Jesus' trial led him into the palace, where he sat among the servants. The firelight, shining on his face, drew attention to him, exposing his association with Jesus. Peter's attempt to hide his allegiance was in vain, as the light of the fire revealed more than he intended. This moment showcases Peter's conflicted feelings - torn between wanting to be near Jesus and his fear of being identified as a follower.
+- 🔄 Mark 14:54 (attempt 4, 80 words, 37.93% quotes quality score: 1.5338102410432988, V2 normalized quality score: 42.34, commentator tiers 1-3: 37.01%, 26.86%, 36.13%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 14:54 bht prompt v0.8 (85 words, 33.33% quotes)
-- quality score: 1.4525888759287389, V2 normalized quality score: 39.64, commentator tiers 1-3: 36.37%, 29.74%, 33.89%)
+- Attempt 5 BHT: Peter's curiosity about the end result of Jesus' trial led him into the palace, where he joined the servants. The light of the fire, shining on Peter's face, attracted the attention of a maid, exposing his connection to Jesus. Peter's attempt to conceal his allegiance proved futile, as the firelight revealed his true identity. This incident highlights Peter's inner struggle - torn between his desire to be close to Jesus and his fear of openly aligning himself with Him. The fire's light brought Peter out of hiding, making him more visible than he had anticipated.
+- 🔄 Mark 14:54 (attempt 5, 99 words, 33.33% quotes quality score: 1.5370105015472313, V2 normalized quality score: 42.45, commentator tiers 1-3: 38.8%, 28.91%, 32.29%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 14:54 bht prompt v0.8 (99 words, 33.33% quotes)
+- quality score: 1.5370105015472313, V2 normalized quality score: 42.45, commentator tiers 1-3: 38.8%, 28.91%, 32.29%)

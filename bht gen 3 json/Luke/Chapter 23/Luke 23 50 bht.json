@@ -1,32 +1,32 @@
 {
-    "timestamp": "12-19-2023 16:23:37",
+    "timestamp": "12-25-2023 20:33:36",
     "verseRef": "Luke 23:50",
     "bestBHT": {
-        "bht": "A man named Joseph, referred to as a councillor, is described using different terms in the Gospel accounts: rich, honorable, good, and just. These descriptions illustrate his authority, integrity, moral character, and righteousness. Joseph's goodness encompasses acts of kindness, while his justice reflects his righteous way of life. The variations in the Gospels emphasize the unique perspectives and details each author brings to the portrayal of Joseph's character.",
-        "wordCount": 70,
-        "quoteTokenProportion": 26.42,
-        "qualityScore": 1.3864097885830415,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.44,
+        "bht": "Joseph, referred to as good and just by Luke, was a counselor who held an esteemed position within the Sanhedrin, as mentioned in later verses. Matthew calls him rich, while Mark describes him as honorable. Joseph's character is portrayed as virtuous, kind-hearted, and righteous. This depiction bears resemblance to Joseph, Mary's husband, who is also commended for righteousness in Matthew 1:19.",
+        "wordCount": 63,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.7113721537793583,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.25,
         "commentatorTierSimilarities": [
-            47.17,
-            24.75,
-            28.07
+            43.82,
+            22.69,
+            33.49
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Marvin Vincent": [
             "Councillor. See on Mark 14:43. Matt. calls him rich; Mark, honorable; Luke, good and just."
         ],
         "Philip Schaff": [
+            "A councillor. A member of the Sanhedrin, as the next verse plainly shows.",
             "Good, in moral character.",
-            "And just. In the Old Testament sense.",
-            "\u2018Good\u2019 is more than \u2018just\u2019 (comp. Romans 5:7), but the former always includes the latter."
+            "And just. In the Old Testament sense. \u2018Good\u2019 is more than \u2018just\u2019 (comp. Romans 5:7), but the former always includes the latter."
         ],
         "John Gill": [
-            "And behold, there was a man named Joseph,....a counsellor",
-            "and he was a good man, and a just",
-            "he was kind and beneficent in his temper, and just, and righteous in his life and actions"
+            "And behold, there was a man named Joseph,.... a counsellor; Mark says, he was an 'honourable' one; he was either one of the council of the high priest, or a member of the great sanhedrim.",
+            "And he was a good man, and a just; he was kind and beneficent in his temper, and just, and righteous in his life and actions.",
+            "A like character is given of Joseph the husband of Mary, the mother of our Lord, Matthew 1:19."
         ],
         "John Wesley": [
             "Matthew 27:57; Mark 15:43; John 19:38."
@@ -49,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Here, a man named Joseph is described as a councillor, which means someone with authority and integrity. The different Gospel accounts use various words to describe him, such as rich, honorable, good, and just. These qualities of being good and just are significant because they highlight his moral character and righteousness. Joseph's goodness and justice extend beyond just being morally upright; they encompass acts of kindness and his righteous way of life. Additionally, the variations in how the different Gospels describe Joseph demonstrate the unique perspectives and details each author brings to the story.",
-            "wordCount": 95,
-            "quoteTokenProportion": 35.71,
-            "qualityScore": 1.3320303673486245,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.63,
+            "bht": "There was a man named Joseph, a counselor, described as rich by Matthew, honorable by Mark, and good and just by Luke. Joseph's moral character and righteousness are highlighted, as he was known for being kind and beneficent in his temper and living a life of justice and righteousness. He was a member of the Sanhedrin, the council of the high priest or the great Sanhedrin, which demonstrates his significance and influence. This description of Joseph echoes the portrayal of another Joseph, the husband of Mary, in Matthew 1:19.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.5727428656697784,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
             "commentatorTierSimilarities": [
-                46.45,
-                26.51,
-                27.03
+                38.72,
+                22.06,
+                39.21
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Here, a man named Joseph is described as a councillor, which means someone with authority and integrity. The different Gospel accounts use various words to describe him, such as rich, honorable, good, and just. These qualities of being good and just highlight his moral character and righteousness. Joseph's goodness and justice encompass acts of kindness and his righteous way of life. The variations in how the different Gospels describe Joseph demonstrate the unique perspectives and details each author brings to the story.",
-            "wordCount": 83,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.3536190613117705,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.35,
+            "bht": "Joseph, referred to as good and just by Luke, was a counselor who held an esteemed position within the Sanhedrin, as mentioned in later verses. Matthew calls him rich, while Mark describes him as honorable. Joseph's character is portrayed as virtuous, kind-hearted, and righteous. This depiction bears resemblance to Joseph, Mary's husband, who is also commended for righteousness in Matthew 1:19.",
+            "wordCount": 63,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.7113721537793583,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.25,
             "commentatorTierSimilarities": [
-                46.39,
-                25.63,
-                27.98
+                43.82,
+                22.69,
+                33.49
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "A man named Joseph, referred to as a councillor, is described using different terms in the Gospel accounts: rich, honorable, good, and just. These descriptions illustrate his authority, integrity, moral character, and righteousness. Joseph's goodness encompasses acts of kindness, while his justice reflects his righteous way of life. The variations in the Gospels emphasize the unique perspectives and details each author brings to the portrayal of Joseph's character.",
-            "wordCount": 70,
-            "quoteTokenProportion": 26.42,
-            "qualityScore": 1.3864097885830415,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.44,
+            "bht": "Joseph, a member of the Sanhedrin, is described as a counselor by Luke, rich by Matthew, and honorable by Mark. Luke emphasizes that Joseph is not only good, but also just, exemplifying an Old Testament sense of righteousness. This echoes the depiction of Joseph, the husband of Mary, in Matthew 1:19. Joseph's virtuous character, kindness, and commitment to justice are evident, showcasing his significance and influence within the council.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7073992042754869,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.11,
             "commentatorTierSimilarities": [
-                47.17,
-                24.75,
-                28.07
+                43.58,
+                20.8,
+                35.62
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Joseph, a councillor, is described using various terms in the Gospel accounts: rich, honorable, good, and just. These descriptions highlight his authority, integrity, moral character, and righteousness. Joseph's goodness includes acts of kindness, while his justice reflects his righteous way of life. The differences in how the Gospels depict Joseph demonstrate the diverse perspectives and details that each author brings to the narrative.",
-            "wordCount": 64,
-            "quoteTokenProportion": 30.77,
-            "qualityScore": 1.3511031546604146,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.27,
+            "bht": "Joseph, known as a counselor, is described as rich by Matthew, honorable by Mark, and good and just by Luke. His moral character is highlighted, as he is characterized as a kind and beneficent person in temperament, while also living a life of righteousness and justice. It is worth noting that the term good conveys a broader meaning that encompasses being just. Thus, Joseph's reputation and character align with that of Joseph, the husband of Mary, as portrayed in Matthew 1:19.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.5046113381232893,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
             "commentatorTierSimilarities": [
-                48.17,
-                24.34,
-                27.48
+                45.33,
+                22.29,
+                32.37
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Joseph, referred to as a councillor, is described in the Gospel accounts as rich, honorable, good, and just. These different descriptions emphasize his authority, integrity, moral character, and righteousness. Joseph's goodness encompasses acts of kindness, while his justice reflects his righteous way of life. The variations in how the Gospels depict Joseph highlight the distinct perspectives and unique details each author brings to the story.",
-            "wordCount": 66,
-            "quoteTokenProportion": 26.92,
-            "qualityScore": 1.3742337241679337,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.04,
+            "bht": "Joseph, a counselor, is described by Matthew as rich, by Mark as honorable, and by Luke as good and just. These qualities attribute a sense of moral character to Joseph. He is depicted as kind, beneficent, righteous, and just in his actions. Joseph's role as a member of the Sanhedrin further underscores his importance and influence. This characterization parallels the portrayal of another Joseph, the husband of Mary, in Matthew 1:19.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.4286586729783004,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
             "commentatorTierSimilarities": [
-                49.71,
-                23.97,
-                26.32
+                38.39,
+                27.19,
+                34.43
             ],
             "generationAttempt": 5
         }

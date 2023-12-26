@@ -1,46 +1,47 @@
 {
-    "timestamp": "12-19-2023 16:35:34",
+    "timestamp": "12-25-2023 20:34:18",
     "verseRef": "Acts 23:18",
     "bestBHT": {
-        "bht": "It is possible that Paul's nephew, who was potentially studying in Jerusalem like Paul himself, discovered the conspiracy and wasted no time in reporting it. Paul, as a Roman citizen, was under military custody, with a soldier responsible for his safekeeping. This form of custody was more confining but provided better protection. The centurion, displaying his honorable nature, respected the information given by the young man and allowed him to speak with Paul. This act demonstrated the centurion's benevolence and willingness to assist, even towards a prisoner.",
-        "wordCount": 89,
-        "quoteTokenProportion": 37.31,
-        "qualityScore": 1.3927262489490966,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+        "bht": "Prompted by information potentially acquired during his education, Paul's nephew acted promptly upon discovering the conspiracy against his uncle. As a Roman citizen, Paul was held in military custody, which was a better alternative to the grim conditions of public jail. Though he was bound to a soldier, there was still some allowance for him to meet with his friends. The young nephew, displaying commendable integrity, approached the captain with the important details, thereby ensuring his uncle's safety.",
+        "wordCount": 80,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.4884962718859018,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.84,
         "commentatorTierSimilarities": [
-            37.4,
-            13.74,
-            48.86
+            36.55,
+            20.08,
+            43.37
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Paul's sister's son\u2014 If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted.",
-            "(See on Acts 9:30).",
-            "conspiracy on which he so promptly acted."
+            "Paul's sister's son\u2014...he may have got at the schools those hints of the conspiracy on which he so promptly acted.",
+            "If he was at this time residing at Jerusalem for his education, like Paul himself...",
+            "...those hints of the conspiracy on which he so promptly acted."
         ],
         "Albert Barnes": [
             "And prayed me - And asked me."
         ],
         "Marvin Vincent": [
             "Paul, as a Roman citizen, was held in custodia militaris, 'military custody.'",
-            "Custodia libera (free custody), confined to men of high rank.",
-            "Custodia militaris (military custody). The accused was placed in charge of a soldier, who was responsible with his life for the prisoner's safe-keeping."
+            "Custodia publica (public custody); confinement in the public jail. This was the worst kind, the common jails being wretched dungeons.",
+            "The accused was placed in charge of a soldier, who was responsible with his life for the prisoner's safe-keeping, and whose left hand was secured by a chain to the prisoner's right."
         ],
         "Philip Schaff": [
-            "The \u2018prisoner;\u2019 the Greek word signifies \u2018one bound.\u2019",
-            "We may well believe that at this time he little thought how long that name (of the prisoner) would be used of him, first by others and then by himself, until it became as a title of honour in which he seemed to glory almost more than in that of apostle.",
-            "Comp. Ephesians 3:1; Ephesians 4:1; Philem. Acts 23:1; Acts 23:91."
+            "We may well believe that at this time he little thought how long that name (of the prisoner) would be used of him, first by others and then by himself, until it became as a title of honour in which he seemed to glory almost more than in that of the apostle.\" ",
+            "As a Roman citizen he was in custodia militaris.",
+            "Paul was fastened by a chain to the arm of a soldier."
         ],
         "Archibald T. Robertson": [
-            "Bound to a soldier, but not with two chains... in military custody. This was better than custodia publica, but more confining.\" ",
-            "Who hath something to say to thee."
+            "Bound to a soldier, but not with two chains, and with some freedom to see his friends.\" ",
+            "In military custody, better than public custody, but more confining.\" ",
+            "Who hath something to say to thee, same idiom as in verse... but [with a different word]."
         ],
         "John Gill": [
-            "Without curiously inquiring into the thing, or examining the young man about it; which showed him to be a man of a good disposition, and ready to do a kind office, even to a prisoner.",
-            "The honour and modesty of the centurion, he did not seek by any methods to get the secret out, either of Paul or the young man; but readily undertakes the affair, honourably performs it.",
-            "Tells him the young man had something to say to him, he could not tell what, and then departs."
+            "which showed him to be a man of a good disposition, and ready to do a kind office, even to a prisoner",
+            "the honour and modesty of the centurion, he did not seek by any methods to get the secret out, either of Paul or the young man",
+            "readily undertakes the affair, honourably performs it, acquaints the captain with the circumstances of it, tells him the young man had something to say to him, he could not tell what, and then departs"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -60,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Paul's nephew, who perhaps attended the same schools as Paul, had learned of a conspiracy against his uncle and wasted no time in warning the authorities. Paul, being a Roman citizen, was under military custody, meaning he was bound to a soldier who was responsible for his safekeeping. This form of custody was more confining than public custody, but it ensured his protection. The centurion, without prying into the matter, took the young man's report seriously and allowed him to speak with Paul. The centurion's honorable handling of the situation demonstrates his good disposition and readiness to assist, even to a prisoner.",
-            "wordCount": 105,
-            "quoteTokenProportion": 39.19,
-            "qualityScore": 1.444061978911738,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "bht": "When Paul's nephew discovered the plot against his uncle's life, he wasted no time in revealing the conspiracy. It is likely that he had received some information about it during his education in Jerusalem. As a Roman citizen, Paul was held in military custody, which was better than being confined in a wretched public jail. He was bound to a soldier but had some freedom to see his friends. The nephew, a kind and trustworthy individual, went to the captain and informed him about the situation. The captain listened and allowed him to speak with Paul, showing great respect and honor.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.46227503238882,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
             "commentatorTierSimilarities": [
-                37.5,
-                10.63,
-                51.87
+                36.94,
+                19.58,
+                43.48
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul's nephew, possibly studying in Jerusalem alongside Paul, discovered a conspiracy against his uncle and promptly reported it. As a Roman citizen, Paul was in military custody, bound to a soldier responsible for his safety. This form of custody, though confining, offered better protection. The centurion, respecting the young man's information, did not pry, but allowed him to speak with Paul. The centurion's honorable response displayed his kindness and willingness to assist, even towards a prisoner.",
-            "wordCount": 79,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.3775782672609895,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "bht": "Paul's nephew, possibly educated in Jerusalem, acted swiftly upon acquiring knowledge of the conspiracy against his uncle's life. As a Roman citizen, Paul experienced military custody, which was better than the miserable conditions of public jail. Chained to a soldier for security, he still retained some freedom to meet with acquaintances. Displaying both honor and modesty, the nephew approached the captain to disclose the situation, demonstrating a genuine concern for Paul's safety. The captain listened attentively, allowing the young man to deliver his message to Paul.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.4803993695576179,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.57,
             "commentatorTierSimilarities": [
-                37.51,
-                13.25,
-                49.24
+                35.67,
+                18.42,
+                45.91
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul's nephew, potentially in Jerusalem for his education like Paul himself, may have gained knowledge of the conspiracy and immediately informed the authorities. Being a Roman citizen, Paul was held in military custody, bound to a soldier responsible for his well-being. This type of custody, while restrictive, provided greater security. The centurion, refraining from prying, treated the young man's report seriously and permitted him to speak with Paul. The centurion's honorable conduct displayed his benevolent disposition, willing to offer assistance to a prisoner.",
-            "wordCount": 87,
-            "quoteTokenProportion": 29.69,
-            "qualityScore": 1.3809488561298515,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+            "bht": "Paul's nephew, potentially influenced by his schooling in Jerusalem, swiftly acted upon learning about the plot against his uncle's life. Since Paul was a Roman citizen, he was held in military custody rather than the harsh public jail. Though still bound to a soldier, he had some freedom to see his friends. Remarkably, the nephew approached the captain with integrity, informing him about the circumstances. The captain demonstrated respect by allowing the young man to convey his message to Paul, highlighting the centurion's honor and wisdom.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4782290274981764,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.49,
             "commentatorTierSimilarities": [
-                39.66,
-                12.76,
-                47.58
+                35.08,
+                19.07,
+                45.85
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul's nephew, possibly residing in Jerusalem for education like Paul, may have learned of the conspiracy and acted promptly. As a Roman citizen, Paul was in military custody, being bound to a soldier who ensured his safety. This form of custody, although restrictive, offered better protection. The centurion, without prying, respected the young man's report and allowed him to speak with Paul. The centurion's honorable response revealed his kind disposition and willingness to assist even a prisoner.",
+            "bht": "Prompted by information potentially acquired during his education, Paul's nephew acted promptly upon discovering the conspiracy against his uncle. As a Roman citizen, Paul was held in military custody, which was a better alternative to the grim conditions of public jail. Though he was bound to a soldier, there was still some allowance for him to meet with his friends. The young nephew, displaying commendable integrity, approached the captain with the important details, thereby ensuring his uncle's safety.",
             "wordCount": 80,
-            "quoteTokenProportion": 32.79,
-            "qualityScore": 1.3923040340686628,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4884962718859018,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
             "commentatorTierSimilarities": [
-                37.49,
-                13.61,
-                48.9
+                36.55,
+                20.08,
+                43.37
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "It is possible that Paul's nephew, who was potentially studying in Jerusalem like Paul himself, discovered the conspiracy and wasted no time in reporting it. Paul, as a Roman citizen, was under military custody, with a soldier responsible for his safekeeping. This form of custody was more confining but provided better protection. The centurion, displaying his honorable nature, respected the information given by the young man and allowed him to speak with Paul. This act demonstrated the centurion's benevolence and willingness to assist, even towards a prisoner.",
-            "wordCount": 89,
-            "quoteTokenProportion": 37.31,
-            "qualityScore": 1.3927262489490966,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+            "bht": "Informed perhaps by his studies in Jerusalem, Paul's nephew swiftly responded to the conspiracy he had discovered against his uncle. Being a Roman citizen, Paul was held in military custody rather than the dismal conditions of public jail. Although he was bound to a soldier, he had a certain degree of freedom to interact with his friends. The nephew, demonstrating honorable and upright conduct, approached the captain, providing valuable information regarding the situation, thereby ensuring his uncle's well-being.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.483794783101898,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.68,
             "commentatorTierSimilarities": [
-                37.4,
-                13.74,
-                48.86
+                38.01,
+                20.22,
+                41.77
             ],
             "generationAttempt": 5
         }

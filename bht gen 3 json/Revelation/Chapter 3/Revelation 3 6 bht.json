@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 21:40:06",
+    "timestamp": "12-25-2023 20:34:27",
     "verseRef": "Revelation 3:6",
     "bestBHT": {
-        "bht": "The church is addressed by someone who is holy and true, possessing the key of David. For those who overcome, there is a promise to become pillars in God's temple. This promise is given to all who are victorious. The invitation is for those with ears to hear.",
-        "wordCount": 49,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 0.8687660046343205,
-        "qualityScoreNormalizedComparedToV2BHTs": 20.23,
+        "bht": "He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.",
+        "wordCount": 94,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.0672031526596886,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.83,
         "commentatorTierSimilarities": [
-            2.72,
-            49.96,
-            47.32
+            1.23,
+            69.74,
+            29.03
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -23,8 +23,8 @@
         ],
         "Albert Barnes": [
             "He here addresses the church as one who is holy and true; as he who has the key of David, and who can shut and no one can open, and open and no one can shut.",
-            "A general promise, in view of the circumstances in Philadelphia, to all who should overcome. They would be made a pillar in the temple of God, and go no more out. They would have written on themselves the name of his God, and the name of the holy city - showing that they were inhabitants of the heavenly world.",
-            "One solitary pillar has been often noticed, as reminding beholders of the remarkable words in the Apocalypse - \u2018Him that overcometh I will make a pillar in the temple of my God\u2019"
+            "A declaration that he would constrain some who professed that they were Jews, but who were of the synagogue of Satan, to come and humble themselves before them.",
+            "They would be made a pillar in the temple of God, and go no more out. They would have written on themselves the name of his God, and the name of the holy city - showing that they were inhabitants of the heavenly world."
         ],
         "Philip Schaff": [
             "Revelation 3:6. The usual call, with which the four last Epistles close.",
@@ -52,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse speaks of a church that is addressed by someone who is holy and true, possessing the key of David and the power to open and shut. For those who overcome, there is a promise of being made a pillar in the temple of God, belonging to the heavenly world, with the names of God and the holy city written on them as a sign of their heavenly citizenship. This promise is a general one, given to all who are victorious. The verse concludes with an invitation for those with ears to hear.",
+            "bht": "He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.",
             "wordCount": 94,
-            "quoteTokenProportion": 44.83,
-            "qualityScore": 0.9909736549397345,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.29,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.0672031526596886,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.83,
             "commentatorTierSimilarities": [
-                6.94,
-                57.25,
-                35.81
+                1.23,
+                69.74,
+                29.03
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The church is addressed by someone holy and true, with the power to open and shut. If they overcome, they will become pillars in God's temple, bearing the names of God and the holy city as inhabitants of the heavenly world. This is a promise to all who are victorious. Those with ears should listen.",
-            "wordCount": 56,
-            "quoteTokenProportion": 48.84,
-            "qualityScore": 0.919450154273501,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.92,
+            "bht": "He addresses the church as one who is holy and true, with the key of David to open and shut. Those who claim to be Jews but belong to Satan's synagogue will be humbled. Those who overcome will become pillars in God's temple, bearing the names of God and the holy city, indicating their heavenly citizenship. This call to hear is a recurring theme in the final Epistles of Revelation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.0239305549542477,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.39,
             "commentatorTierSimilarities": [
-                7.35,
-                51.59,
-                41.06
+                -0.28,
+                73.96,
+                26.32
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The church is addressed by someone who is holy and true and possesses the key of David. For those who overcome, there is a promise of becoming pillars in God's temple, with the names of God and the holy city written on them. This promise is given to all who are victorious. The verse ends with an invitation for those with ears to hear.",
-            "wordCount": 65,
-            "quoteTokenProportion": 47.73,
-            "qualityScore": 0.9255836852360946,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.12,
+            "bht": "He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.0672031526596886,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.83,
             "commentatorTierSimilarities": [
-                1.78,
-                60.76,
-                37.46
+                1.23,
+                69.74,
+                29.03
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The church is addressed by someone who is holy and true, possessing the power to open and shut. The promise to the victorious is to become pillars in God's temple, bearing the names of God and the holy city. It is a general promise for all who overcome. The invitation is for those with ears to hear.",
-            "wordCount": 58,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 0.9008998863904893,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.3,
+            "bht": "He addresses the church as one who is holy and true, with the key of David to open and shut. Those who claim to be Jews but belong to Satan's synagogue will be humbled. Those who overcome will become pillars in God's temple, bearing the names of God and the holy city, indicating their heavenly citizenship. This call to hear is a recurring theme in the final Epistles of Revelation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.0239305549542477,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.39,
             "commentatorTierSimilarities": [
-                3.73,
-                53.84,
-                42.44
+                -0.28,
+                73.96,
+                26.32
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The church is addressed by someone who is holy and true, possessing the key of David. For those who overcome, there is a promise to become pillars in God's temple. This promise is given to all who are victorious. The invitation is for those with ears to hear.",
-            "wordCount": 49,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 0.8687660046343205,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.23,
+            "bht": "He addresses the church as one who is holy and true; he has the key of David, and can open and shut as he pleases. He declares that he will bring those who profess to be Jews but are of Satan's synagogue to humble themselves. Those who overcome will be made a pillar in God's temple, with the name of God and the holy city written on them, signifying their citizenship in the heavenly world. This call to hear is a common theme in the closing statements of the four last Epistles.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.0672031526596886,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.83,
             "commentatorTierSimilarities": [
-                2.72,
-                49.96,
-                47.32
+                1.23,
+                69.74,
+                29.03
             ],
             "generationAttempt": 5
         }

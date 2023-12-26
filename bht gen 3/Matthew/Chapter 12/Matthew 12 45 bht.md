@@ -1,7 +1,7 @@
 # Matthew 12:45 Commentary Help Text
 
 ## BHT:
-Falling from God's grace can lead to a worse state than before, as Satan's cruelty intensifies upon our return to him. We must beware of the internal lusts and corruptions of the heart, which can make us more wicked than ever. Yet, despite the fierceness of Satan's attacks, the sons of God find security through the invincible power of the Holy Spirit. This serves as a timeless warning against apostasy and its consequences.
+When we turn away from God's grace, we subject ourselves to the dangerous consequences highlighted by Christ in His warning. The man who expelled a demon failed to fill the void with righteousness, which allowed the enemy to return stronger than before, accompanied by other evil spirits. This process of deterioration, exemplified by the wicked generation, led to a state far worse than the initial condition. Let us not underestimate the devil's knowledge and experience, but trust in the invincible power of the Holy Spirit to safeguard God's children.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
@@ -10,58 +10,58 @@ Falling from God's grace can lead to a worse state than before, as Satan's cruel
 3. "Whatever may be the fierceness or violence of Satan’s attacks, they ought not to intimidate the sons of God, whom the invincible power of the Holy Spirit preserves in safety."
 
 ### Philip Schaff:
-1. "And the last state of that man is worse than the first."
-2. "The emptying, sweeping, and garnishing at their return (Pharisaism, a seeming reformation, but really an invitation to evil influences)."
-3. "The house 'empty, swept, and garnished: swept and garnished by the decencies of civilization and discoveries of secular knowledge, but empty of living and earnest faith."
+1. "Seven other spirits, etc. To be understood indefinitely, of a more complete and terrible possession; there being no resistance to their entrance."
+2. "The last state of that man is worse than the first. ... Thus shall it be also unto this wicked generation."
+3. "A process of deterioration, with occasional vicissitudes and fluctuations, but resulting in a state far worse than any that had gone before it."
 
 ### John Gill:
-1. "Or else the various corruptions of a man's heart, the swarms of internal lusts which are there stirred up by Satan; more wicked than himself."
-2. "And the last state of that man is worse than the first: he becomes more wicked than ever he was, before he made pretensions to religion."
-3. "This parable fitly suited them... returns to the Jews, and fills them with more malice, blasphemy, and blindness, than ever, which issued in their utter ruin and destruction."
+1. "More wicked than himself, as these are more pernicious to man, than the devil himself."
+2. "He becomes more wicked than ever he was, before he made pretensions to religion; as such apostates generally are more extravagant in sinning, and are seldom or ever recovered by repentance, and their last end is eternal damnation."
+3. "The Scribes and Pharisees... filled them with more malice, blasphemy, and blindness, than ever, which issued in their utter ruin and destruction."
 
 ### John Wesley:
-1. "Seven other spirits — That is, a great many; a certain number being put for an uncertain: More wicked than himself." 
-2. "Whence it appears, that there are degrees of wickedness among the devils themselves."
+1. "Seven other spirits — That is, a great many; a certain number being put for an uncertain." 
+2. "More wicked than himself - Whence it appears, that there are degrees of wickedness among the devils themselves."
 3. "So shall it be to this wicked generation — Yea, and to apostates in all ages."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:47:14
+- Timestamp: 12-25-2023 20:31:53
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 43.86%
-- BHT Quality Score: 1.0336024340643735
+- BHT Word Count: 92
+- BHT Commentary Usage: 31.43%
+- BHT Quality Score: 1.2906771937539163
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'against', 'and', 'apostasy', 'as', 'attacks', 'before', 'beware', 'can', 'consequences', 'corruptions', 'cruelty', 'despite', 'ever', 'falling', 'fierceness', 'find', 'from', 'god', 'grace', 'heart', 'him', 'holy', 'intensifies', 'internal', 'invincible', 'its', 'lead', 'lusts', 'make', 'more', 'must', 'of', 'our', 'power', 'return', 's', 'satan', 'security', 'serves', 'sons', 'spirit', 'state', 'than', 'the', 'this', 'through', 'timeless', 'to', 'upon', 'us', 'warning', 'we', 'which', 'wicked', 'worse', 'yet']
-- ChatGPT injected words (significant words only) (32):
-	['apostasy', 'attacks', 'beware', 'consequences', 'corruptions', 'cruelty', 'despite', 'falling', 'fierceness', 'find', 'god', 'grace', 'heart', 'holy', 'intensifies', 'internal', 'invincible', 'lead', 'lusts', 'power', 'return', 's', 'satan', 'security', 'serves', 'sons', 'spirit', 'state', 'timeless', 'warning', 'wicked', 'worse']
+- ChatGPT injected words (70):
+	['a', 'accompanied', 'allowed', 'and', 'away', 'before', 'but', 'by', 'children', 'christ', 'condition', 'consequences', 'dangerous', 'demon', 'deterioration', 'devil', 'enemy', 'evil', 'exemplified', 'expelled', 'experience', 'failed', 'far', 'fill', 'from', 'generation', 'god', 'grace', 'highlighted', 'his', 'holy', 'in', 'initial', 'invincible', 'knowledge', 'led', 'let', 'man', 'not', 'of', 'other', 'ourselves', 'power', 'process', 'return', 'righteousness', 's', 'safeguard', 'spirit', 'spirits', 'state', 'stronger', 'subject', 'than', 'the', 'this', 'to', 'trust', 'turn', 'underestimate', 'us', 'void', 'warning', 'we', 'when', 'which', 'who', 'wicked', 'with', 'worse']
+- ChatGPT injected words (significant words only) (48):
+	['accompanied', 'allowed', 'away', 'children', 'christ', 'condition', 'consequences', 'dangerous', 'demon', 'deterioration', 'devil', 'enemy', 'evil', 'exemplified', 'expelled', 'experience', 'failed', 'far', 'fill', 'generation', 'god', 'grace', 'highlighted', 'holy', 'initial', 'invincible', 'knowledge', 'led', 'let', 'man', 'power', 'process', 'return', 'righteousness', 's', 'safeguard', 'spirit', 'spirits', 'state', 'stronger', 'subject', 'trust', 'turn', 'underestimate', 'void', 'warning', 'wicked', 'worse']
 
 ### Logs
-- Attempt 1 BHT: When reading Matthew 12:45, we are warned about the dangers of falling from God's grace. If we are not careful, our state after falling can be worse than before. This passage emphasizes that Satan, who is experienced in his ability to reach us, treats us with greater cruelty if we become subject to him again. While the fierceness of Satan's attacks may be intimidating, we can find comfort knowing that the sons of God are preserved in safety by the invincible power of the Holy Spirit. It is important to be aware of the internal lusts and corruptions of the heart that Satan can stir up, as they can make us more wicked than ever before. Ultimately, this parable serves as a warning to all generations about the consequences of apostasy and our need for constant vigilance in our faith.
-- 🔄 Matthew 12:45 (attempt 1, 141 words, 43.62% quotes quality score: 0.956313457496663, V2 normalized quality score: 23.14, commentator tiers 1-3: 0.0%, 30.27%, 69.73%) 
+- Attempt 1 BHT: When Christ speaks of the man in the verse, he highlights the danger of falling from God's grace. If we turn away, the enemy will not only return, but with a stronger grip. Our resistance will be futile against the complete and terrible possession that follows. This deterioration process, as seen in the fate of the wicked generation, leads to a state far worse than before. Therefore, we must not underestimate the devil's tactics, for he knows all the approaches to reach us. Nonetheless, the invincible power of the Holy Spirit preserves the sons of God from ultimate destruction.
+- 🔄 Matthew 12:45 (attempt 1, 101 words, 38.16% quotes quality score: 1.177324942784491, V2 normalized quality score: 30.49, commentator tiers 1-3: 0.0%, 49.6%, 50.4%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: We are warned of the dangers of falling from God's grace and the potential consequences of apostasy. If we are not careful, our state after falling can be worse than before. Satan treats those who have fallen with greater cruelty, using their internal lusts and corruptions of the heart to make them even more wicked. However, we find comfort in knowing that the sons of God are preserved by the invincible power of the Holy Spirit despite the fierceness of Satan's attacks.
-- 🔄 Matthew 12:45 (attempt 2, 84 words, 46.03% quotes quality score: 1.0095213209718346, V2 normalized quality score: 24.91, commentator tiers 1-3: 0.0%, 33.23%, 66.77%) 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Christ's cautionary words serve as a reminder that falling from God's grace leads to an even more perilous state. The man's eviction of the demon paves the way for its return, along with an influx of other spirits. This process of deterioration, experienced by the wicked generation, results in a state far worse than before. It is crucial to acknowledge that the devil's knowledge and experience make our defenses feeble. Nonetheless, the sons of God are protected by the invincible power of the Holy Spirit, despite the fierceness of Satan's attacks.
+- 🔄 Matthew 12:45 (attempt 2, 96 words, 36.11% quotes quality score: 1.2746029529561, V2 normalized quality score: 33.72, commentator tiers 1-3: 0.0%, 50.24%, 49.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Falling from God's grace can have dire consequences, making our state worse than before. Satan, experienced in reaching us, treats us with greater cruelty if we become subject to him again. We must beware of the internal lusts and corruptions of the heart that Satan stirs up, leading us to become more wicked than ever before. Despite the fierceness of Satan's attacks, the sons of God find security in the invincible power of the Holy Spirit. This serves as a warning to all generations about the dangers of apostasy.
-- 🔄 Matthew 12:45 (attempt 3, 91 words, 41.79% quotes quality score: 1.0126591176108557, V2 normalized quality score: 25.01, commentator tiers 1-3: 0.0%, 30.01%, 69.99%) 
+- Attempt 3 BHT: Christ's warning is clear: if we turn away from His grace, the devil's power over us will only increase. The man in the parable had cast out a demon, but by not filling his life with righteousness, he left an empty space for the enemy to return stronger than before, accompanied by many other evil spirits. The process of deterioration that followed was devastating, ultimately leading to a state far worse than what was initially experienced. The lesson is clear: we must remain vigilant in our faith and not underestimate the enemy's tactics.
+- 🔄 Matthew 12:45 (attempt 3, 96 words, 44.74% quotes quality score: 1.2165097706412624, V2 normalized quality score: 31.79, commentator tiers 1-3: 0.0%, 48.28%, 51.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Falling from God's grace can result in a state worse than before, as Satan treats us with greater cruelty if we become subject to him again. We must be wary of the internal lusts and corruptions of the heart, as they can make us more wicked than ever. Despite Satan's fierce attacks, the sons of God find safety through the invincible power of the Holy Spirit. This passage serves as a warning to all generations about the consequences of apostasy.
-- 🔄 Matthew 12:45 (attempt 4, 82 words, 45.16% quotes quality score: 0.9821430228363763, V2 normalized quality score: 24.0, commentator tiers 1-3: 0.0%, 26.77%, 73.23%) 
+- Attempt 4 BHT: Christ's warning in this passage emphasizes the dangers of turning away from God's grace. The man who expelled a demon but failed to replace the void with righteousness experienced a more severe possession, as other evil spirits filled him. This process of deterioration, exemplified by the wicked generation, led to a state far worse than before. The lesson is clear: we should not underestimate the devil's knowledge and experience in his attempts to reach us. However, the invincible power of the Holy Spirit ensures the safety of God's children.
+- 🔄 Matthew 12:45 (attempt 4, 93 words, 34.72% quotes quality score: 1.2475114004006138, V2 normalized quality score: 32.82, commentator tiers 1-3: 0.0%, 50.07%, 49.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: Falling from God's grace can lead to a worse state than before, as Satan's cruelty intensifies upon our return to him. We must beware of the internal lusts and corruptions of the heart, which can make us more wicked than ever. Yet, despite the fierceness of Satan's attacks, the sons of God find security through the invincible power of the Holy Spirit. This serves as a timeless warning against apostasy and its consequences.
-- 🔄 Matthew 12:45 (attempt 5, 76 words, 43.86% quotes quality score: 1.0336024340643735, V2 normalized quality score: 25.71, commentator tiers 1-3: 0.0%, 30.86%, 69.14%) 
+- Attempt 5 BHT: When we turn away from God's grace, we subject ourselves to the dangerous consequences highlighted by Christ in His warning. The man who expelled a demon failed to fill the void with righteousness, which allowed the enemy to return stronger than before, accompanied by other evil spirits. This process of deterioration, exemplified by the wicked generation, led to a state far worse than the initial condition. Let us not underestimate the devil's knowledge and experience, but trust in the invincible power of the Holy Spirit to safeguard God's children.
+- 🔄 Matthew 12:45 (attempt 5, 92 words, 31.43% quotes quality score: 1.2906771937539163, V2 normalized quality score: 34.26, commentator tiers 1-3: 0.0%, 48.7%, 51.3%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 12:45 bht prompt v0.8 (76 words, 43.86% quotes)
-- quality score: 1.0336024340643735, V2 normalized quality score: 25.71, commentator tiers 1-3: 0.0%, 30.86%, 69.14%)
+- ✅ Matthew 12:45 bht prompt v0.8 (92 words, 31.43% quotes)
+- quality score: 1.2906771937539163, V2 normalized quality score: 34.26, commentator tiers 1-3: 0.0%, 48.7%, 51.3%)

@@ -1,40 +1,41 @@
 {
-    "timestamp": "12-22-2023 23:21:25",
+    "timestamp": "12-25-2023 20:32:24",
     "verseRef": "Mark 3:22",
     "bestBHT": {
-        "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These learned and cunning men, seeking to oppose Him, made their way to Galilee to observe and find fault. Unfortunately, their influence led even the common people to doubt His works. It is concerning how easily a person of knowledge can dismiss clear evidence of God's work, explaining it away without acknowledging His involvement.",
-        "wordCount": 90,
-        "quoteTokenProportion": 41.1,
-        "qualityScore": 1.436936199338577,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.12,
+        "bht": "They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation aimed to entrap and oppose Him, claiming He exercised Satanic power. The charge implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.",
+        "wordCount": 72,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.7256014917943339,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.72,
         "commentatorTierSimilarities": [
-            28.13,
-            37.0,
-            34.87
+            32.05,
+            31.78,
+            36.16
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The scribes which came down from Jerusalem...\" ",
-            "He hath Beelzebub... If He was possessed by Beelzebub, the prince of mons, He would thus have authority over the inferior evil spirits."
+            "He hath Beelzebub. This addition is most important.",
+            "If He was possessed by Beelzebub, the prince of mons, He would thus have authority over the inferior evil spirits.",
+            "He would thus have authority over the inferior evil spirits."
         ],
         "Marvin Vincent": [
-            "Beelzebub. See on Matthew 10:25.\" ",
+            "Beelzebub. See on Matthew 10:25.",
             "And. Not connecting two parts of one accusation, but two accusations, as is evident from the two otiv, which are equivalent to quotation marks."
         ],
         "Philip Schaff": [
-            "Mark thus defines the parties, while Matthew (Matthew 12:23) states the occasion of the accusation.",
-            "The purpose of their coming was doubtless to entrap and oppose Him.",
-            "Mark...states with greatest definiteness that they charged Him, not only with exercising Satanic power, but with being Himself possessed by an evil spirit."
+            "The purpose of their coming was doubtless to entrap and oppose Him.\" ",
+            "They charged Him, not only with exercising Satanic power, but with being Himself possessed by an evil spirit.",
+            "Mark, however, both here and in Mark 3:20, states with greatest definiteness that they charged Him."
         ],
         "John Gill": [
-            "These were they, who having heard much of the doctrine and miracles of Christ, came down from Jerusalem, which lay in the upper, and higher part of the land of Israel, into Galilee, a low country, to make their observations upon him and take every advantage they could against him, being men, in their way, letter learned, and artful, and cunning.",
-            "Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them.",
-            "For so they reckoned Beelzebub to be."
+            "He hath Beelzebub: or, as the Syriac and Persic versions render it, 'Beelzebub is in him'.\" ",
+            "Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them.\" ",
+            "And by the prince of devils casteth he out devils; for so they reckoned Beelzebub to be."
         ],
         "John Wesley": [
-            "The common people now began to drink in the poison, from these learned, good, honourable men!",
+            "He hath Beelzebub - at command, is in league with him: And by the prince of the devils casteth he out devils.\" ",
             "How easily may a man of learning elude the strongest proof of a work of God!",
             "How readily can he account for every incident without ever taking God into the question."
         ]
@@ -56,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. This accusation was made in an attempt to oppose and entrap Him. The scribes, being learned and cunning, came to Galilee specifically to observe and find fault with Him. Sadly, their influence and reputation caused even the common people to doubt and question the works and teachings of Jesus. It is astounding to see how easily a person of learning can dismiss the undeniable evidence of God's work and explain it away without acknowledging His involvement. The power of knowledge and influence can be a dangerous force, leading people away from acknowledging the true work of God.",
-            "wordCount": 133,
-            "quoteTokenProportion": 38.64,
-            "qualityScore": 1.4083895074313735,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.17,
+            "bht": "They accused Him of being possessed by Beelzebub, the prince of demons, suggesting that He had authority over other evil spirits. This accusation was meant to entrap and oppose Him. They not only claimed that He exercised Satanic power but also that He Himself was possessed by an evil spirit. The charge was definite, as Mark emphasized in both this passage and a previous one. The accusation implied a confederacy and familiarity between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.6435997193154739,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
             "commentatorTierSimilarities": [
-                28.18,
-                38.31,
-                33.51
+                32.61,
+                34.99,
+                32.4
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The scribes from Jerusalem accused Him of being possessed by Beelzebub, implying that His authority over evil spirits was due to his own possession. These cunning and learned men came to Galilee with the purpose of finding fault and opposing Him. Unfortunately, their influence caused even the common people to doubt His works. It is alarming to witness how easily someone with knowledge can dismiss the evidence of God's work, explaining it away without acknowledging His involvement. The power of influence can veer people away from recognizing the true work of God.",
-            "wordCount": 93,
-            "quoteTokenProportion": 35.82,
-            "qualityScore": 1.3248176117674288,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
+            "bht": "They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation was meant to entrap and oppose Him. They not only claimed that He exercised Satanic power but also that He Himself was possessed by an evil spirit. The charge was definite, as Mark emphasized that they charged Him. The accusation implied a confederacy and familiarity between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.6645076420022829,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
             "commentatorTierSimilarities": [
-                27.33,
-                35.6,
-                37.06
+                31.59,
+                37.77,
+                30.64
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These learned and cunning men, seeking to oppose Him, made their way to Galilee to observe and find fault. Unfortunately, their influence led even the common people to doubt His works. It is concerning how easily a person of knowledge can dismiss clear evidence of God's work, explaining it away without acknowledging His involvement.",
-            "wordCount": 90,
-            "quoteTokenProportion": 41.1,
-            "qualityScore": 1.436936199338577,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.12,
+            "bht": "They accused Him of being possessed by Beelzebub, suggesting authority over evil spirits. This charge aimed to entrap and oppose Him, claiming He exercised Satanic power. The accusation was definite, as Mark emphasized that they charged Him. It implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. This highlights how easily a person of knowledge can explain away God's work, failing to acknowledge His involvement.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6880177741386997,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
             "commentatorTierSimilarities": [
-                28.13,
-                37.0,
-                34.87
+                31.49,
+                35.91,
+                32.6
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The scribes from Jerusalem accused Him of being possessed by Beelzebub, implying that His authority over evil spirits was due to his own possession. These cunning and learned men sought to find fault with Him, even causing doubt among the common people. It is alarming how easily someone with knowledge can dismiss God's work, explaining it away without acknowledging His involvement. The power of influence can divert people from recognizing the true work of God.",
-            "wordCount": 76,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.3392052337083142,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.87,
+            "bht": "They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation was meant to entrap and oppose Him. The charge was definite, as Mark emphasized that they charged Him. The accusation implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. This highlights how easily a person of knowledge can explain away God's work, failing to acknowledge His involvement.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.625322441379093,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
             "commentatorTierSimilarities": [
-                28.65,
-                32.87,
-                38.47
+                32.55,
+                36.55,
+                30.9
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These cunning and learned men came to Galilee specifically to observe and find fault with Him. Sadly, their influence and reputation caused even the common people to doubt and question the works and teachings of Jesus. It is astounding to see how easily a person of learning can dismiss the undeniable evidence of God's work and explain it away without acknowledging His involvement. The power of knowledge and influence can be a dangerous force, leading people away from acknowledging the true work of God.",
-            "wordCount": 120,
-            "quoteTokenProportion": 37.8,
-            "qualityScore": 1.3640464380065338,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.7,
+            "bht": "They accused Him of being possessed by Beelzebub, suggesting that He had authority over other evil spirits. This accusation aimed to entrap and oppose Him, claiming He exercised Satanic power. The charge implied a confederacy between Jesus and Beelzebub, attributing His ability to cast out demons to the prince of demons. Such a response demonstrates how easily a person of knowledge can explain away the work of God without acknowledging His involvement.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7256014917943339,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
             "commentatorTierSimilarities": [
-                27.42,
-                34.13,
-                38.45
+                32.05,
+                31.78,
+                36.16
             ],
             "generationAttempt": 5
         }

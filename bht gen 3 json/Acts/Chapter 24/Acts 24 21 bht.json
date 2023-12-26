@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:36:06",
+    "timestamp": "12-25-2023 20:34:27",
     "verseRef": "Acts 24:21",
     "bestBHT": {
-        "bht": "Paul's statement about the resurrection caused division among the Pharisees, exposing their inconsistency in supporting and accusing him. This declaration aligned with the hearts of many in Israel, demonstrating the remarkable plan of God to present the gospel, even to the reprobate, making them inexcusable. The preaching of the gospel holds value to God, whether it brings life or death to people.",
-        "wordCount": 63,
-        "quoteTokenProportion": 35.42,
-        "qualityScore": 1.2174816285266497,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.82,
+        "bht": "Paul defends himself, pointing out the Pharisees' inconsistency in accusing him despite their previous support. He draws attention to the main issue, the resurrection, which he knows resonates with many in the Sanhedrin and the nation. Paul emphasizes his respect for the temple, explaining how he came to worship and was engaged in holy service when they encountered him there. The fact that Felix granted Paul an audience is attributed to his wife's influence. Through the gospel, even the reprobate are given an opportunity to be made inexcusable.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.229444540918669,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.22,
         "commentatorTierSimilarities": [
-            13.7,
-            41.99,
-            44.31
+            13.23,
+            53.92,
+            32.85
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -23,28 +23,28 @@
         ],
         "Albert Barnes": [
             "Except it be for this one voice - For this one expression or declaration.",
-            "But against this supposition we may urge the following considerations:",
+            "Paul wished to fix their attention on the main thing which he had said before the council.",
             "If they were prepared to witness against him for holding and teaching the resurrection of the dead as a false or evil doctrine, he called on them to do it."
         ],
         "John Calvin": [
-            "Now, the wonderful counsel of God is worth noting in this place, who will have the gospel offered sometimes to the reprobate; not that they may profit thereby, but rather that they may be made inexcusable.",
-            "It had been better for Felix and Drusilla never to have heard anything concerning Christ; because they did not escape without punishment for refusing the grace of salvation which was offered to them, or for neglecting the same with loathsomeness.",
-            "Nevertheless, the preaching of the gospel (what success soever it have) is a good and sweet savor to God; whether it quicken or kill men."
+            "For Felix would neither have desired to hear Paul, neither would he have vouchsafed to speak to him, unless it had been for his wife\u2019s sake.",
+            "Seeing he was cited unto the judgment-seat to answer for himself, it stood him upon to answer concerning the crimes which were objected to him, that he might afterward frankly and freely profess the faith of Christ.",
+            "Now, the wonderful counsel of God is worth the noting in this place, who will have the gospel offered sometimes to the reprobate; not that they may profit thereby, but rather that they may be made inexcusable."
         ],
         "Philip Schaff": [
             "Paul well knew that many in the Sanhedrim, and the majority in the nation, would sympathise with him here.",
             "These words of his, he was aware, had been the occasion of a violent dissension in the great council; but he knew, with reference to his views and teaching on this all-important doctrine, the heart of the people of Israel was on his side.",
-            "They have charged me with profaning the temple. But the fact is, I came from a distance to Jerusalem to worship in the temple; and to bring alms of charity, and also offerings of piety, as a Nazarite; and they themselves found me in the temple, engaged in a holy service, proving my respect for the temple; and they who accuse me of profaning it were guilty of profanation, in abetting those who seized me when there employed in a religious act, of which they prevented the completion."
+            "They have charged me with profaning the temple. But the fact is, I came from a distance to Jerusalem to worship in the temple...and they themselves found me in the temple, engaged in a holy service, proving my respect for the temple."
         ],
         "Archibald T. Robertson": [
-            "Except it be (\u03b5). Literally, 'than,' but after interrogative \u03c4 = \u03c4 \u03b1\u03bb\u03bb\u03bf 'what else than.'",
-            "The normal Greek idiom with the attributive use of \u03bf\u03c5\u03c4\u03bf\u03c2 calls for the article before \u03bc\u03b9\u03b1\u03c2, though some inscriptions show it as here (Robertson, Grammar, p. 702).",
+            "Except it be...what else than.",
+            "Reduplicated aorist as is usual with this verb in the LXX.",
             "Concerning (around, about)."
         ],
         "John Gill": [
-            "Except it be for this one voice,.... Sentence or expression following, which declares his faith about the resurrection...",
-            "that I cried, standing among them; whereby they were thrown into confusion and division among themselves",
-            "touching the resurrection of the dead I am called in question by you this day"
+            "Except it be for this one voice...touching the resurrection of the dead I am called in question by you this day.\" ",
+            "Sentence or expression following, which declares his faith about the resurrection.",
+            "Whereby they were thrown into confusion and division among themselves."
         ],
         "John Wesley": [
             "Unless they think me blamable for this one word \u2014 Which nevertheless was the real truth. Acts 23:6."
@@ -67,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Concerning the verse, it is stated, Except it be for this one voice... The commentary highlights the significance of this statement, emphasizing that Paul's declaration about the resurrection caused a division among the Pharisees. Paul understood that his belief in the resurrection aligned with the hearts of many people in Israel. Additionally, the third-tier commentary mentions the remarkable plan of God, where even the reprobate may encounter the gospel, not for their benefit, but to make them inexcusable. It is important to note that the preaching of the gospel holds value to God, regardless of the response it elicits.",
-            "wordCount": 101,
-            "quoteTokenProportion": 39.71,
-            "qualityScore": 1.2423839993963726,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.65,
+            "bht": "Paul defends himself before the Pharisees, highlighting their inconsistency in accusing him while befriending him. He calls their attention to the main point he made about the resurrection, knowing that many in the Sanhedrin and the nation sympathized with him on this. Paul emphasizes his respect for the temple, reminding them that he came to worship and was engaged in holy service when they found him there. The fact that Felix granted Paul an audience could be attributed to his wife's influence. Through the gospel, even the reprobate are offered a chance to be made inexcusable. Paul's defense throws the Pharisees into confusion and division among themselves, for this one voice about the resurrection was his firm truth.",
+            "wordCount": 120,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.3150235869355167,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.07,
             "commentatorTierSimilarities": [
-                19.37,
-                39.1,
-                41.53
+                14.13,
+                50.25,
+                35.62
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul's statement about the resurrection created dissension among the Pharisees, exposing their inconsistency. His belief aligned with the hearts of the people of Israel. This highlights God's extraordinary plan to offer the gospel even to the reprobate, making them inexcusable. Regardless of the response it elicits, the preaching of the gospel is precious to God.",
-            "wordCount": 57,
-            "quoteTokenProportion": 31.71,
-            "qualityScore": 1.1197621591296032,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.58,
+            "bht": "Paul defends himself, pointing out the Pharisees' inconsistency in accusing him despite their previous support. He draws attention to the main issue, the resurrection, which he knows resonates with many in the Sanhedrin and the nation. Paul emphasizes his respect for the temple, explaining how he came to worship and was engaged in holy service when they encountered him there. The fact that Felix granted Paul an audience is attributed to his wife's influence. Through the gospel, even the reprobate are given an opportunity to be made inexcusable.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.229444540918669,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.22,
             "commentatorTierSimilarities": [
-                13.22,
-                41.9,
-                44.88
+                13.23,
+                53.92,
+                32.85
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul's declaration about the resurrection caused division among the Pharisees, highlighting their inconsistency in supporting him while accusing him. The commentary notes that Paul's faith on this essential doctrine resonated with the people of Israel. The third-tier commentary emphasizes God's purpose in offering the gospel to the reprobate, making them inexcusable. It also mentions that the preaching of the gospel holds value to God, regardless of its outcome.",
-            "wordCount": 72,
-            "quoteTokenProportion": 34.62,
-            "qualityScore": 1.2527724500354853,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.0,
+            "bht": "Paul defends himself, highlighting the Pharisees' inconsistency in accusing him while previously supporting him. He emphasizes the main issue of the resurrection, knowing it resonates with many in the Sanhedrin and the nation. Paul affirms his reverence for the temple, stating that he came to worship and was engaged in holy service when they found him there. Felix's willingness to hear Paul may be influenced by his wife. Through the gospel, even the reprobate have a chance to be made inexcusable. Paul's defense confounds and divides the Pharisees.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.2161420965209913,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.78,
             "commentatorTierSimilarities": [
-                17.59,
-                41.27,
-                41.14
+                15.09,
+                50.84,
+                34.07
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul's statement on the resurrection led to division among the Pharisees, revealing their inconsistency in supporting him. It is mentioned that the people of Israel sympathized with Paul's belief in the resurrection. The third-tier commentary highlights God's plan to present the gospel even to the reprobate, ensuring their inexcusability. The preaching of the gospel holds value to God, irrespective of its impact on individuals.",
-            "wordCount": 68,
-            "quoteTokenProportion": 32.61,
-            "qualityScore": 1.19602302564339,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.11,
+            "bht": "Paul defends himself, exposing the Pharisees' inconsistency in accusing him while previously supporting him. He underscores the central issue of the resurrection, resonating with many in the Sanhedrin and the nation. Paul affirms his reverence for the temple, recounting his worship and engagement in holy service when they found him there. Felix's interest in Paul may be influenced by his wife. Through the gospel, even the reprobate are presented with an opportunity to be made inexcusable. Paul's defense perplexes and divides the Pharisees.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.1585990610067403,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.87,
             "commentatorTierSimilarities": [
-                17.49,
-                39.28,
-                43.23
+                14.78,
+                51.86,
+                33.37
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul's statement about the resurrection caused division among the Pharisees, exposing their inconsistency in supporting and accusing him. This declaration aligned with the hearts of many in Israel, demonstrating the remarkable plan of God to present the gospel, even to the reprobate, making them inexcusable. The preaching of the gospel holds value to God, whether it brings life or death to people.",
-            "wordCount": 63,
-            "quoteTokenProportion": 35.42,
-            "qualityScore": 1.2174816285266497,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.82,
+            "bht": "Paul defends himself, exposing the Pharisees' inconsistency in accusing him while previously supporting him. He highlights the central issue of the resurrection, which resonates with many in the Sanhedrin and the nation. Paul affirms his reverence for the temple, recounting his worship and engagement in holy service when they found him there. Felix's interest in Paul may be influenced by his wife. Through the gospel, even the reprobate are offered a chance to be made inexcusable. Paul's defense perplexes and divides the Pharisees.\n",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.1424311452505063,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.33,
             "commentatorTierSimilarities": [
-                13.7,
-                41.99,
-                44.31
+                13.88,
+                52.77,
+                33.35
             ],
             "generationAttempt": 5
         }

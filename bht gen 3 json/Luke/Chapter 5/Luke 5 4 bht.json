@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:15:12",
+    "timestamp": "12-25-2023 20:32:58",
     "verseRef": "Luke 5:4",
     "bestBHT": {
-        "bht": "When Jesus directs Peter to launch out into the deep and the other fishermen to let down their nets, he acknowledges Peter's leadership as the steersman and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to bless abundantly. Going into the deep signifies their reliance on Jesus and the unknown territory they are called to venture into. This encounter invites them to trust in Jesus' remarkable provision.",
-        "wordCount": 78,
-        "quoteTokenProportion": 36.36,
-        "qualityScore": 1.313046123723148,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+        "bht": "Jesus addressed Peter alone, instructing him to launch out into the deep, while the whole crew was told to let down their nets for a draught. This act of faith and obedience went beyond the surface, impressing Simon Peter and revealing Jesus' purpose of being a fisher of men. The request to go into deeper waters challenged Simon Peter to trust in Jesus' leading and have greater confidence in Him.",
+        "wordCount": 70,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.6211176039519206,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.24,
         "commentatorTierSimilarities": [
-            29.13,
-            38.21,
-            32.66
+            30.7,
+            39.77,
+            29.53
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Launch out is, in the original, singular, as addressed to Peter alone, who was the steersman of his ship.",
+            "Launch out is, in the original, singular, as addressed to Peter alone.",
             "Let down is plural, as addressed to the fishermen in the ship collectively.",
-            "So below also, I will let down, of the director,\u2014when they had this done, of the doers,\u2014of the act."
+            "When they had this done, of the doers, of the act."
         ],
         "Jamieson-Fausset-Brown": [
             "4. for a draught\u2014munificent",
@@ -31,23 +31,23 @@
         ],
         "Marvin Vincent": [
             "Launch out. Rev., put out. The singular number, addressed to Peter as master of the craft.",
-            "Let down [\u03c7\u03b1\u03bb\u03b1\u03c3\u03b1\u03c4\u03b5] . The plural, addressed to the whole of the boat 's crew.",
+            "Let down [\u03c7\u03b1\u03bb\u03b1\u03c3\u03b1\u03c4\u03b5]. The plural, addressed to the whole of the boat's crew.",
             "Metaphorically, to be indulgent, to pardon."
         ],
         "Philip Schaff": [
-            "Simon. Evidently the steersman of the boat.",
-            "Put out into the deep, i.e., the deep water. Luke always uses proper nautical phrases. Addressed in the singular, to Simon.",
-            "Let down your nets. Addressed to all the fishermen in the boat. Our Lord first makes a slight request of Simon, then after His discourse a greater one, calling for more confidence in Himself."
+            "Put out into the deep, i.e., the deep water. Luke always uses proper nautical phrases.\" ",
+            "Addressed in the singular, to Simon.",
+            "Our Lord first makes a slight request of Simon, then after His discourse a greater one, calling for more confidence in Himself."
         ],
         "Archibald T. Robertson": [
-            "He ceased speaking.",
-            "Put out into the deep.",
-            "For a catch, This purpose was the startling thing that stirred up Simon."
+            "He ceased speaking (aorist middle indicative and present active participle, regular Greek idiom).",
+            "The same double compound verb as in verse Luke 5:3, only here second aorist active imperative second person singular.",
+            "This purpose was the startling thing that stirred up Simon."
         ],
         "John Gill": [
-            "He said unto Simon, launch out into the deep...",
-            "...put it off further into deep water, more convenient for fishing...",
-            "...let down your nets for a draught; of fishes..."
+            "Now when he had left speaking.\" ",
+            "He said unto Simon, launch out into the deep.\" ",
+            "Let down your nets for a draught."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -67,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When Jesus instructs Peter to launch out into the deep and the other fishermen to let down their nets, he is not only giving them a command, but also revealing his power and authority as the master of both the boat and the fish. By addressing Peter in the singular and the others in the plural, Jesus acknowledges Peter's role as the steersman and leader of the crew. The purpose of this request was to not only provide an abundant catch of fish, but also to demonstrate Jesus' ability to bless and provide beyond what they could imagine. Furthermore, Jesus' call for them to go out into the deep sea shows that he is calling them to venture into unknown and possibly risky territory, relying on his guidance and power. In this encounter, Jesus invites the fishermen to trust in him and his ability to provide in remarkable ways.",
-            "wordCount": 150,
-            "quoteTokenProportion": 42.53,
-            "qualityScore": 1.5786314018931744,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "bht": "Jesus instructed Peter alone to launch out into the deep, while addressing the whole crew to let down their nets for a draught. Putting aside their exhaustion from a fruitless night of fishing, they obeyed. This act of faith and obedience to Jesus' command went beyond the surface, impressing Simon Peter and revealing Jesus' purpose of not only being an itinerant preacher but also a fisher of men. The request to go into deeper waters challenged Simon Peter to trust in Jesus' leading and have greater confidence in Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.534671412875301,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
             "commentatorTierSimilarities": [
-                25.91,
-                40.8,
-                33.29
+                31.31,
+                39.8,
+                28.89
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When Jesus directs Peter to launch out into the deep and the other fishermen to let down their nets, he acknowledges Peter's leadership as the steersman and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to bless abundantly. Going into the deep signifies their reliance on Jesus and the unknown territory they are called to venture into. This encounter invites them to trust in Jesus' remarkable provision.",
-            "wordCount": 78,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.313046123723148,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+            "bht": "Jesus instructed Peter alone to launch out into the deep, while addressing the whole crew to let down their nets for a draught. This act of faith and obedience went beyond the surface, impressing Simon Peter and revealing Jesus' purpose of being a fisher of men. The request to go into deeper waters challenged Simon Peter to trust in Jesus' leading and have greater confidence in Him.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.6027259399607594,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
             "commentatorTierSimilarities": [
-                29.13,
-                38.21,
-                32.66
+                29.17,
+                40.79,
+                30.04
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus' command to Peter to launch out into the deep and to the rest of the fishermen to let down their nets demonstrates his recognition of Peter's role as the boat's master and the collective effort of the crew. By addressing them individually and collectively, Jesus showcases his authority and ability to provide generously. Going into the deep represents their reliance on Jesus and their willingness to venture into unfamiliar territory. This interaction encourages them to trust in Jesus' extraordinary provision.",
-            "wordCount": 83,
-            "quoteTokenProportion": 28.3,
-            "qualityScore": 1.2688480617553382,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.53,
+            "bht": "Jesus addressed Peter alone, instructing him to launch out into the deep, while the whole crew was told to let down their nets for a draught. This act of faith and obedience went beyond the surface, impressing Simon Peter and revealing Jesus' purpose of being a fisher of men. The request to go into deeper waters challenged Simon Peter to trust in Jesus' leading and have greater confidence in Him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6211176039519206,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
             "commentatorTierSimilarities": [
-                29.82,
-                39.4,
-                30.79
+                30.7,
+                39.77,
+                29.53
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus' instruction to Peter to launch out into the deep and to the other fishermen to let down their nets highlights his acknowledgement of Peter's leadership and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to provide abundantly. Venturing into the deep signifies their dependence on Jesus and their willingness to explore unknown territory. This encounter invites them to put their trust in Jesus' exceptional provision.",
-            "wordCount": 77,
-            "quoteTokenProportion": 31.37,
-            "qualityScore": 1.273098044198169,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.67,
+            "bht": "Jesus addressed Peter alone, instructing him to launch out into the deep, while the whole crew was told to let down their nets for a draught. This act of faith and obedience went beyond the surface, impressing Simon Peter and revealing Jesus' purpose of being a fisher of men. The request to go into deeper waters challenged Simon Peter to trust in Jesus' leading and have greater confidence in Him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6211176039519206,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
             "commentatorTierSimilarities": [
-                27.93,
-                36.92,
-                35.16
+                30.7,
+                39.77,
+                29.53
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus' command to Peter to launch out into the deep and to the other fishermen to let down their nets demonstrates his acknowledgment of Peter's leadership and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to provide abundantly. Going into the deep represents their reliance on Jesus and their willingness to venture into unfamiliar territory. This encounter invites them to trust in Jesus' remarkable provision.",
-            "wordCount": 76,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 1.273702337461433,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.69,
+            "bht": "Jesus specifically told Peter, in the singular, to launch out into the deep, while addressing the entire crew, in the plural, to let down their nets for a draught. This act of obedience demonstrated their trust in Jesus and revealed His purpose as the fisher of men. The invitation to go deeper challenged Simon Peter to place greater confidence in Jesus and follow His leading, going beyond their comfort zone to experience His abundant blessings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.5506545001234886,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
             "commentatorTierSimilarities": [
-                27.89,
-                37.99,
-                34.12
+                34.73,
+                37.84,
+                27.43
             ],
             "generationAttempt": 5
         }

@@ -1,13 +1,13 @@
 # Acts 23:20 Commentary Help Text
 
 ## BHT:
-Paul's nephew, who may have been studying in Jerusalem, obtained inside information about the conspiracy against his uncle. It is suggested that the conspirators might have belonged to the Zealots, reflecting the prevailing sentiment against Paul in Jerusalem. By using the singular form, the nephew displays deference to Lysias' authority and implies that the conspirators' plans were not entirely baseless. Though the exact source of the young man's intelligence remains uncertain, it is likely that he learned it from a mentor or teacher. This knowledge indicates that the plot was not as closely guarded as one might assume.
+It is suggested that Paul's nephew may have gotten hints of the conspiracy against Paul from the schools he was attending in Jerusalem for his education. The conspirators may have been representatives of the Jewish sentiment towards Paul in Jerusalem, and they may have belonged to the Zealots. The use of the singular by the young man may indicate his deference to Lysias' authority and modifies the scheming of the conspirators. Though it is not clear how the young man obtained this information, it is speculated that he may have learned it from one of his Jewish teachers. Ultimately, it is implied that the Jews, referring to the Jewish sanhedrin, had agreed to desire Paul's downfall, and this young man, possibly a student under one of the council's leaders or doctors, came to know of their plans.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Paul's sister's son...may have got at the schools those hints of the conspiracy on which he so promptly acted."
-2. "If he was at this time residing at Jerusalem for his education, like Paul himself."
-3. "He may have got at the schools those hints of the conspiracy on which he so promptly acted."
+1. "Paul's sister's son—(See on Acts 9:30)." 
+2. "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted."
+3. "he may have got at the schools those hints of the conspiracy on which he so promptly acted."
 
 ### Albert Barnes:
 1. "In what way this young man had received intelligence of this, we can only conjecture."
@@ -16,52 +16,50 @@ Paul's nephew, who may have been studying in Jerusalem, obtained inside informat
 
 ### Archibald T. Robertson:
 1. "The conspirators may have belonged to the Zealots, but clearly they represented the state of Jewish feeling toward Paul in Jerusalem."
-2. "The singular is used by the youth out of deference to the authority of Lysias and so modifies a bit the scheming of the conspirators, not 'absurd' as Page holds."
-3. "Already this form in Luke 22:5 which see. See also John 9:22; Acts 24:9."
+2. "To bring down (οπως καταγαγηις). Very words of the conspirators in verse Acts 23:15 as if the young man overheard."
+3. "The singular is used by the youth out of deference to the authority of Lysias and so modifies a bit the scheming of the conspirators, not 'absurd' as Page holds."
 
 ### John Gill:
 1. "The Jews have agreed to desire thee." 
-2. "By the Jews are meant, the Jewish sanhedrim, for the young man had not only intelligence of the conspiracy, and lying in wait of the forty men or more."
+2. "By the Jews are meant, the Jewish sanhedrim."
 3. "This young man might be a student under the president of the council, or one of the doctors, whereby he came at the knowledge of these things."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:35:30
+- Timestamp: 12-25-2023 20:34:25
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 39.73%
-- BHT Quality Score: 1.3987160327219887
+- BHT Word Count: 140
+- BHT Commentary Usage: 37.97%
+- BHT Quality Score: 1.732630791604529
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (73):
-	['a', 'about', 'against', 'and', 'as', 'assume', 'authority', 'baseless', 'been', 'belonged', 'by', 'closely', 'conspiracy', 'conspirators', 'deference', 'displays', 'entirely', 'exact', 'form', 'from', 'guarded', 'have', 'he', 'his', 'implies', 'in', 'indicates', 'information', 'inside', 'intelligence', 'is', 'it', 'jerusalem', 'knowledge', 'learned', 'likely', 'lysias', 'man', 'may', 'mentor', 'might', 'nephew', 'not', 'obtained', 'of', 'one', 'or', 'paul', 'plans', 'plot', 'prevailing', 'reflecting', 'remains', 's', 'sentiment', 'singular', 'source', 'studying', 'suggested', 'teacher', 'that', 'the', 'this', 'though', 'to', 'uncertain', 'uncle', 'using', 'was', 'were', 'who', 'young', 'zealots']
-- ChatGPT injected words (significant words only) (44):
-	['assume', 'authority', 'baseless', 'belonged', 'closely', 'conspiracy', 'conspirators', 'deference', 'displays', 'entirely', 'exact', 'form', 'guarded', 'implies', 'indicates', 'information', 'inside', 'intelligence', 'jerusalem', 'knowledge', 'learned', 'likely', 'lysias', 'man', 'mentor', 'nephew', 'obtained', 'paul', 'plans', 'plot', 'prevailing', 'reflecting', 'remains', 's', 'sentiment', 'singular', 'source', 'studying', 'suggested', 'teacher', 'uncertain', 'uncle', 'young', 'zealots']
+- ChatGPT injected words (79):
+	['a', 'against', 'agreed', 'and', 'attending', 'authority', 'been', 'belonged', 'by', 'came', 'clear', 'conspiracy', 'conspirators', 'council', 'deference', 'desire', 'doctors', 'downfall', 'education', 'for', 'from', 'gotten', 'had', 'have', 'he', 'hints', 'his', 'how', 'implied', 'in', 'indicate', 'information', 'is', 'it', 'jerusalem', 'jewish', 'jews', 'know', 'leaders', 'learned', 'lysias', 'man', 'may', 'modifies', 'nephew', 'not', 'obtained', 'of', 'one', 'or', 'paul', 'plans', 'possibly', 'referring', 'representatives', 's', 'sanhedrin', 'scheming', 'schools', 'sentiment', 'singular', 'speculated', 'student', 'suggested', 'teachers', 'that', 'the', 'their', 'they', 'this', 'though', 'to', 'towards', 'ultimately', 'under', 'use', 'was', 'young', 'zealots']
+- ChatGPT injected words (significant words only) (49):
+	['agreed', 'attending', 'authority', 'belonged', 'came', 'clear', 'conspiracy', 'conspirators', 'council', 'deference', 'desire', 'doctors', 'downfall', 'education', 'gotten', 'hints', 'implied', 'indicate', 'information', 'jerusalem', 'jewish', 'jews', 'know', 'leaders', 'learned', 'lysias', 'man', 'modifies', 'nephew', 'obtained', 'paul', 'plans', 'possibly', 'referring', 'representatives', 's', 'sanhedrin', 'scheming', 'schools', 'sentiment', 'singular', 'speculated', 'student', 'suggested', 'teachers', 'ultimately', 'use', 'young', 'zealots']
 
 ### Logs
-- Attempt 1 BHT: A possible response:
-
-Paul's sister's son, who may have been educated in Jerusalem, could have learned about the conspiracy against Paul through his connections in the schools. The conspirators, possibly representing the prevailing Jewish sentiment towards Paul, may have belonged to the Zealots. The use of the singular form by the young man shows deference to the authority of Lysias and suggests that the conspirators' plans were not entirely absurd. It is unclear exactly how the young man received this information, but it is possible that he learned it from a teacher or mentor. The fact that he had knowledge of the plot indicates that it was not a closely guarded secret among the forty men.
-- 🔄 Acts 23:20 (attempt 1, 118 words, 40.51% quotes quality score: 1.5830603080918548, V2 normalized quality score: 43.98, commentator tiers 1-3: 39.04%, 37.83%, 23.13%) 
+- Attempt 1 BHT: It is suggested that Paul's nephew may have gotten hints of the conspiracy against Paul from the schools he was attending in Jerusalem for his education. The conspirators may have been representatives of the Jewish sentiment towards Paul in Jerusalem, and they may have belonged to the Zealots. The use of the singular by the young man may indicate his deference to Lysias' authority and modifies the scheming of the conspirators. Though it is not clear how the young man obtained this information, it is speculated that he may have learned it from one of his Jewish teachers. Ultimately, it is implied that the Jews, referring to the Jewish sanhedrin, had agreed to desire Paul's downfall, and this young man, possibly a student under one of the council's leaders or doctors, came to know of their plans.
+- 🔄 Acts 23:20 (attempt 1, 140 words, 37.97% quotes quality score: 1.732630791604529, V2 normalized quality score: 48.95, commentator tiers 1-3: 43.71%, 28.9%, 27.39%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Paul's nephew, who may have been studying in Jerusalem, obtained inside information about the conspiracy against his uncle. It is suggested that the conspirators might have belonged to the Zealots, reflecting the prevailing sentiment against Paul in Jerusalem. By using the singular form, the nephew displays deference to Lysias' authority and implies that the conspirators' plans were not entirely baseless. Though the exact source of the young man's intelligence remains uncertain, it is likely that he learned it from a mentor or teacher. This knowledge indicates that the plot was not as closely guarded as one might assume.
-- 🔄 Acts 23:20 (attempt 2, 100 words, 39.73% quotes quality score: 1.3987160327219887, V2 normalized quality score: 37.85, commentator tiers 1-3: 42.49%, 37.31%, 20.2%) 
+- Attempt 2 BHT: Paul's nephew, who may have received hints of the conspiracy against Paul during his education in Jerusalem, brings news of the plan to his uncle. It is suggested that the conspirators represented the Jewish sentiment towards Paul, with a possible association with the Zealots. The young man's use of the singular form and deference to Lysias' authority modifies the conspirators' scheme. Although the details of the young man's knowledge are unclear, it is speculated that he learned of the plot from his Jewish teachers. Ultimately, the Jews, referring to the Jewish sanhedrin, had agreed to desire Paul's downfall, and this young man, likely a student under one of the council's leaders or doctors, became aware of their intentions.
+- 🔄 Acts 23:20 (attempt 2, 123 words, 35.44% quotes quality score: 1.5656282765552239, V2 normalized quality score: 43.4, commentator tiers 1-3: 45.65%, 27.01%, 27.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Paul's nephew, possibly educated in Jerusalem like his uncle, might have received information about the conspiracy targeting Paul during his time at school. This suggests a reflection of the prevailing Jewish sentiment against Paul in Jerusalem. The nephew's use of the singular form demonstrates deference to Lysias' authority and slightly modifies the plans of the conspirators. While the specific means by which the young man gained this knowledge remains uncertain, it is plausible that it was through his association with a Jewish teacher or leader. The fact that he was aware of the plot suggests that it was not closely guarded by the forty men involved.
-- 🔄 Acts 23:20 (attempt 3, 108 words, 35.53% quotes quality score: 1.4985858691033311, V2 normalized quality score: 41.17, commentator tiers 1-3: 41.32%, 31.34%, 27.34%) 
+- Attempt 3 BHT: Paul's nephew, possibly obtaining hints of the conspiracy against his uncle through his education in Jerusalem, brings forth this vital information. The conspirators may have represented the prevailing Jewish sentiment towards Paul, potentially being affiliated with the Zealots. The young man's use of the singular, out of deference to Lysias' authority, modifies the scheme of the plotters. Although the specific source of the young man's knowledge is uncertain, it is conjectured that he learned about the plot from his Jewish teachers. Ultimately, it is implied that the Jews, referring to the Jewish sanhedrin, had reached a consensus to desire Paul's downfall, and this young man, possibly a student under one of the council's leaders or doctors, became privy to their intentions.
+- 🔄 Acts 23:20 (attempt 3, 126 words, 34.52% quotes quality score: 1.5309402583229073, V2 normalized quality score: 42.25, commentator tiers 1-3: 45.06%, 26.66%, 28.28%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Paul's nephew, equipped with knowledge of the conspiracy against his uncle, may have received this information while studying in Jerusalem. The conspirators, possibly linked to the Zealots, represented the prevailing Jewish sentiment towards Paul in Jerusalem. By using the singular form, the nephew showed deference to Lysias' authority, which influenced the conspirators' plans. The exact means by which the young man obtained this information is unknown, but it is plausible that he gained it through his association with a Jewish teacher or leader. The fact that he had access to this plot implies that it was not closely guarded amongst the group of forty men.
-- 🔄 Acts 23:20 (attempt 4, 106 words, 37.84% quotes quality score: 1.5015543443514723, V2 normalized quality score: 41.27, commentator tiers 1-3: 39.98%, 30.96%, 29.05%) 
+- Attempt 4 BHT: Paul's nephew, who may have obtained information about the conspiracy against Paul through his education in Jerusalem, comes forward to reveal the plot. The conspirators likely represented the prevailing sentiment of the Jewish people towards Paul, potentially being associated with the Zealots. The young man's deference to Lysias' authority is evident in his use of the singular form, which slightly modifies the plan of the conspirators. Although the exact source of his knowledge remains uncertain, it is speculated that he learned about the plot from his Jewish teachers. Ultimately, it is implied that the Jewish sanhedrin had reached an agreement to oppose Paul, and this young man, possibly a student under one of the council's leaders or doctors, learned of their intentions.
+- 🔄 Acts 23:20 (attempt 4, 125 words, 35.71% quotes quality score: 1.5760883912699823, V2 normalized quality score: 43.75, commentator tiers 1-3: 46.79%, 27.05%, 26.16%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Possessing inside information about the conspiracy against Paul, his nephew, who may have received an education in Jerusalem, reveals the prevailing Jewish sentiment towards his uncle in the city. The conspirators, possibly affiliated with the Zealots, represent the anger and opposition Paul faced. The use of the singular form by the young man demonstrates his deference to Lysias, which modifies the plans of the conspirators. While it remains uncertain how the nephew obtained this knowledge, it is plausible he learned it from a teacher or mentor. The fact that he was aware of the plot suggests it was not closely guarded.
-- 🔄 Acts 23:20 (attempt 5, 101 words, 37.33% quotes quality score: 1.3583542402719673, V2 normalized quality score: 36.51, commentator tiers 1-3: 44.88%, 32.4%, 22.72%) 
+- Attempt 5 BHT: Paul's nephew, potentially informed of the conspiracy against his uncle during his education in Jerusalem, reveals the plan. The conspirators are believed to represent the Jewish sentiment towards Paul, possibly linked to the Zealots. The young man's deference to Lysias' authority alters the strategy of the plotters. Although the source of the young man's knowledge is unclear, it is speculated that he obtained the information from his Jewish teachers. Ultimately, the Jews, referring to the Jewish sanhedrim, had agreed on Paul's downfall, and this young man, potentially a student of a council leader or doctor, became aware of their intentions.
+- 🔄 Acts 23:20 (attempt 5, 104 words, 33.33% quotes quality score: 1.4919579356051895, V2 normalized quality score: 40.95, commentator tiers 1-3: 44.3%, 26.23%, 29.47%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 23:20 bht prompt v0.8 (100 words, 39.73% quotes)
-- quality score: 1.3987160327219887, V2 normalized quality score: 37.85, commentator tiers 1-3: 42.49%, 37.31%, 20.2%)
+- ✅ Acts 23:20 bht prompt v0.8 (140 words, 37.97% quotes)
+- quality score: 1.732630791604529, V2 normalized quality score: 48.95, commentator tiers 1-3: 43.71%, 28.9%, 27.39%)

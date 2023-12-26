@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:53:07",
+    "timestamp": "12-25-2023 20:32:15",
     "verseRef": "Matthew 25:33",
     "bestBHT": {
-        "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, signifying their innocence and virtue. On the left side, the wicked will be placed, symbolizing their condemnation and dishonor. The sheep on the right will receive affection and respect, as they are raised to glory. Conversely, the goats on the left will bear disaffection and disgrace, destined for misery. This separation foreshadows the future destiny of each group.",
-        "wordCount": 84,
-        "quoteTokenProportion": 37.74,
-        "qualityScore": 1.3810448334938603,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+        "bht": "In this scene of judgment, Jesus separates the sheep and goats, placing the sheep on his right hand, a position of honor, and the goats on his left, symbolizing dishonor. The sheep, representing the righteous, are compared to innocence and harmlessness, while the goats signify the wicked. This separation illustrates the division between believers and non-believers, echoing the parables of the Tares and the Net. The Greek reader is presented with a vivid image of a row starting at the judge's right hand. What is evident is that one's faith and actions significantly impact their eternal destiny.",
+        "wordCount": 100,
+        "quoteTokenProportion": 29.23,
+        "qualityScore": 1.4276449112808516,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.81,
         "commentatorTierSimilarities": [
-            19.42,
-            35.52,
-            45.06
+            26.2,
+            42.89,
+            30.91
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -27,22 +27,22 @@
         "Albert Barnes": [
             "By 'the sheep' are denoted, here, the righteous. The name is given to them because the sheep is an emblem of innocence and harmlessness.",
             "The right hand is the place of honor, and denotes the situation of those who are honored, or those who are virtuous.",
-            "The left hand. This was the place of dishonor, denoting condemnation."
+            "The goats - The wicked. See Ezekiel 34:17."
         ],
         "Marvin Vincent": [
             "Goats [\u03b5\u03c1\u03b9\u03c6\u03b9\u03b1] . Diminutive. Lit., kidlings.",
-            "The sheep and goats are represented as having previously pastured together.",
-            "On the right [\u03b5\u03ba \u03b4\u03b5\u03be\u03b9\u03c9\u03bd] . Lit., from the right side or parts."
+            "The sheep and goats are represented as having previously pastured together. Compare the parables of the Tares and the Net.",
+            "On the right [\u03b5\u03ba \u03b4\u03b5\u03be\u03b9\u03c9\u03bd] . Lit., from the right side or parts. The picture to the Greek reader is that of a row, beginning at the judge 's right hand."
         ],
         "Philip Schaff": [
             "The sheep on his right hand, the place of preference.",
-            "The pre-millenial view refers \u2018the sheep\u2019 to the unconscious Christians among the heathen, hinted at in Romans 2:7; Romans 2:10, including the \u2018other sheep,\u2019 \u2018not of this fold.\u2019",
+            "The pre-millenial view refers \u2018the sheep\u2019 to the unconscious Christians among the heathen.",
             "But how unlikely that, in this great picture, believers should be excluded, when the term \u2018sheep\u2019 is appropriated to them so often."
         ],
         "John Gill": [
-            "These Christ will set on his right hand, as a token of his affection for them, and a mark of respect and honour shown them, and as a pledge of that exaltation and glory he will be about to raise them to.",
-            "But the goats on the left... these he will place at his left hand, in token of his disaffection for them, as a brand of disgrace upon them, and as an intimation of that dishonour, and miserable condition they will quickly be in.",
-            "These different situations plainly pre-signify how things will go with each, that one will be acquitted, and made happy, the other will be condemned, and become miserable."
+            "The sheep the Father gave unto Christ, and made his care and charge, whom he, as the good shepherd, laid down his life for.",
+            "These Christ will set on his right hand, as a token of his affection for them, and a mark of respect and honour shown them.",
+            "These he will place at his left hand, in token of his disaffection for them, as a brand of disgrace upon them, and as an intimation of that dishonour, and miserable condition they will quickly be in."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -62,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked, like a shepherd dividing sheep from goats. The righteous will be placed on his right side, the position of honor, symbolizing their innocence and virtue. On the left side, the wicked will be placed, representing their condemnation and dishonor. The sheep on the right will be shown affection and respect, as they are raised to glory. Conversely, the goats on the left will be displayed with disaffection and disgrace, destined for misery. This separation serves as a prophetic indication of the future fate of each group, with the righteous being acquitted and made happy, while the wicked are condemned and left miserable.",
-            "wordCount": 119,
-            "quoteTokenProportion": 36.23,
-            "qualityScore": 1.5364470678981008,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "bht": "In Matthew 25:33, Jesus separates the sheep and the goats, placing the sheep on his right hand, a position of honor, and the goats on his left, a position of dishonor. The sheep are seen as innocent and harmless, representing the righteous, while the goats symbolize the wicked. The distinction between the two groups reminds us of the parables of the Tares and the Net, highlighting the separation of believers and non-believers. This portrayal of the judgment is a powerful image for the Greek reader, as it depicts a row beginning at the judge\u2019s right hand. Ultimately, this verse underscores the importance of one's faith and actions in determining their eternal destiny.",
+            "wordCount": 114,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.4993528226120403,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
             "commentatorTierSimilarities": [
-                18.49,
-                36.17,
-                45.34
+                24.39,
+                42.07,
+                33.54
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, symbolizing their innocence and virtue. On the left side, the wicked will be placed, representing their condemnation and dishonor. The sheep on the right will be shown affection and respect, as they are raised to glory. Conversely, the goats on the left will be displayed with disaffection and disgrace, destined for misery. This separation serves as a prophetic indication of the future fate of each group.",
-            "wordCount": 92,
-            "quoteTokenProportion": 38.6,
-            "qualityScore": 1.3616265212635117,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.62,
+            "bht": "In this depiction of judgment, Jesus separates the sheep and goats, placing the sheep on his right hand, a position of honor, and the goats on his left, a position of dishonor. The sheep represent the innocent and righteous, while the goats symbolize the wicked. This portrayal emphasizes the separation between believers and non-believers, as shown in the parables of the Tares and the Net. The Greek reader would understand the imagery of a row starting at the judge's right hand. This verse underscores the significance of faith and deeds in determining one's eternal destiny.",
+            "wordCount": 98,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.530245590979694,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
             "commentatorTierSimilarities": [
-                17.71,
-                36.28,
-                46.0
+                25.79,
+                42.03,
+                32.18
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, signifying their innocence and virtue. On the left side, the wicked will be placed, symbolizing their condemnation and dishonor. The sheep on the right will receive affection and respect, as they are raised to glory. Conversely, the goats on the left will bear disaffection and disgrace, destined for misery. This separation foreshadows the future destiny of each group.",
-            "wordCount": 84,
-            "quoteTokenProportion": 37.74,
-            "qualityScore": 1.3810448334938603,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+            "bht": "Jesus, in Matthew 25:33, distinguishes the sheep and goats, positioning the sheep on his right hand, denoting honor, and the goats on his left, implying dishonor. The sheep symbolize the righteous, likened to innocence and harmlessness, while the goats represent the wicked. This separation parallels the parables of the Tares and the Net, emphasizing the division between believers and non-believers. To the Greek reader, this imagery signifies a line beginning at the judge's right hand. This verse serves as a reminder of the essential role faith and actions play in determining one's eternal fate.",
+            "wordCount": 96,
+            "quoteTokenProportion": 22.58,
+            "qualityScore": 1.510775895837023,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
             "commentatorTierSimilarities": [
-                19.42,
-                35.52,
-                45.06
+                25.58,
+                42.43,
+                31.98
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, the position of honor, symbolizing their innocence and virtue. On the left side, the wicked will be placed, representing their condemnation and dishonor. This division serves as a prophetic indication of the future fate of each group. The righteous, depicted as sheep, will receive affection and respect, while the wicked, portrayed as goats, will bear disaffection and disgrace, destined for misery.",
-            "wordCount": 87,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.3048963806423046,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.73,
+            "bht": "In this scene of judgment, Jesus separates the sheep and goats, placing the sheep on his right hand, a position of honor, and the goats on his left, symbolizing dishonor. The sheep, representing the righteous, are compared to innocence and harmlessness, while the goats signify the wicked. This separation illustrates the division between believers and non-believers, echoing the parables of the Tares and the Net. The Greek reader is presented with a vivid image of a row starting at the judge's right hand. What is evident is that one's faith and actions significantly impact their eternal destiny.",
+            "wordCount": 100,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.4276449112808516,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.81,
             "commentatorTierSimilarities": [
-                16.15,
-                37.84,
-                46.0
+                26.2,
+                42.89,
+                30.91
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In Matthew 25:33, when the Son of Man comes in his glory, he will separate the righteous from the wicked. The righteous will be placed on his right side, symbolizing their innocence and virtue, while the wicked will be on the left side, signifying their condemnation and dishonor. This division illustrates the future destiny of each group. The righteous, depicted as sheep, will receive affection and respect, destined for glory. On the other hand, the wicked, depicted as goats, will experience disaffection and disgrace, facing a miserable fate.",
-            "wordCount": 87,
-            "quoteTokenProportion": 35.71,
-            "qualityScore": 1.278593715544071,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.86,
+            "bht": "In this portrayal of judgment, Jesus distinguishes between the sheep and the goats, positioning the sheep on his right hand as a mark of honor, and placing the goats on his left as a sign of dishonor. The sheep symbolize the righteous, characterized by innocence and harmlessness, while the goats represent the wicked. This separation parallels the idea of believers and non-believers brought forth in the parables of the Tares and the Net. The Greek reader would understand this as a row starting from the judge's right hand. Overall, this verse emphasizes the significance of faith and actions in shaping one's eternal destiny.",
+            "wordCount": 106,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 1.4810677521661764,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
             "commentatorTierSimilarities": [
-                17.44,
-                36.38,
-                46.18
+                26.01,
+                41.75,
+                32.24
             ],
             "generationAttempt": 5
         }

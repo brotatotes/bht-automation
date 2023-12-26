@@ -1,19 +1,16 @@
 # Mark 12:14 Commentary Help Text
 
 ## BHT:
-The Pharisees and Herodians were trying to trap Jesus with a cunning question. They praised His integrity and accused Him, saying He did not care about anyone's opinion and taught God's truth faithfully. They then asked if it was lawful to pay tribute to Caesar. This sharp question aimed to force Jesus into a straightforward answer, but He saw through their flattery and recognized their hidden agenda. He understood they sought to engage Him in a deceptive conversation, hoping to corner Him into making a definitive statement on tribute payment.
+The Pharisees and Herodians sought to trap Jesus by asking Him whether it was lawful to give tribute to Caesar or not. Their question aimed to elicit a definitive response from Him. Mark emphasizes the unique nature of this inquiry, which showcased the Pharisees and Herodians' attempt to corner Jesus. Acknowledging Jesus's truthfulness and impartiality, they hoped to manipulate His answer. However, Jesus, committed to teaching the way of God in truth, responded with wisdom, revealing their ulterior motives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1.  14.] Must we give, or must we not give? the originality of the report is shewn by these words. They wish to drive our Lord to an absolute affirmation or negation.
 
 ### Jamieson-Fausset-Brown:
-1. "we know that thou art true,
-	and carest for no man; for thou regardest not the person of men, but teachest the way of God in truth" 
-2. "By such flattery—though they
- 	said only the truth—they hoped to throw Him off His guard."
-3. "Is it lawful to give tribute
-	to Cæsar, or not?"
+1. "we know that thou art true, and carest for no man; for thou regardest not the person of men, but teachest the way of God in truth."
+2. "Is it lawful to give tribute to Cæsar, or not?"
+3. "It was the civil poll tax paid by all enrolled in the 'census.'"
 
 ### Marvin Vincent:
 1. Tribute. See on Matthew 22:19. 
@@ -22,50 +19,54 @@ Shall we give, etc. A touch peculiar to Mark.
 
 
 ### Archibald T. Robertson:
-1. "Shall we give or shall we not give? Mark alone repeats the question in this sharp form." 
-2. "The deliberative subjunctive, aorist tense active voice." 
+1. "Mark alone repeats the question in this sharp form."
+2. "The deliberative subjunctive, aorist tense active voice."
 3. "For the discussion of the palaver and flattery of this group of theological students see on Matthew 22:16-22."
 
 ### John Gill:
-1. "We know that thou art true; an honest, sincere, and upright man, and carest for no man, for thou regardest not the person of men; no, not Caesar himself..."
-2. "...teachest the way of God in truth; instructest men in the word, will, and worship of God, with all integrity and faithfulness..."
-3. "...is it lawful to give tribute to Caesar or not?"
+1. "We know that thou art true; an honest, sincere, and upright man,
+and carest for no man, for thou regardest not the person of men; no, not Caesar himself." 
+2. "But teachest the way of God in truth; instructest men in the word, will, and worship of God, with all integrity and faithfulness." 
+3. "Is it lawful to give tribute to Caesar or not?"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:27:28
+- Timestamp: 12-25-2023 20:32:47
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 36.23%
-- BHT Quality Score: 1.2912699821189224
+- BHT Word Count: 80
+- BHT Commentary Usage: 36.07%
+- BHT Quality Score: 1.3046083527658539
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (69):
-	['a', 'about', 'accused', 'agenda', 'aimed', 'and', 'answer', 'anyone', 'asked', 'but', 'caesar', 'care', 'conversation', 'corner', 'cunning', 'deceptive', 'definitive', 'did', 'engage', 'faithfully', 'flattery', 'force', 'god', 'he', 'herodians', 'hidden', 'him', 'his', 'hoping', 'if', 'in', 'integrity', 'into', 'it', 'jesus', 'lawful', 'making', 'not', 'on', 'opinion', 'pay', 'payment', 'pharisees', 'praised', 'question', 'recognized', 's', 'saw', 'saying', 'sharp', 'sought', 'statement', 'straightforward', 'taught', 'the', 'their', 'then', 'they', 'this', 'through', 'to', 'trap', 'tribute', 'truth', 'trying', 'understood', 'was', 'were', 'with']
-- ChatGPT injected words (significant words only) (44):
-	['accused', 'agenda', 'aimed', 'answer', 'asked', 'caesar', 'care', 'conversation', 'corner', 'cunning', 'deceptive', 'definitive', 'engage', 'faithfully', 'flattery', 'force', 'god', 'herodians', 'hidden', 'hoping', 'integrity', 'jesus', 'lawful', 'making', 'opinion', 'pay', 'payment', 'pharisees', 'praised', 'question', 'recognized', 's', 'saw', 'saying', 'sharp', 'sought', 'statement', 'straightforward', 'taught', 'trap', 'tribute', 'truth', 'trying', 'understood']
+- ChatGPT injected words (61):
+	['a', 'acknowledging', 'aimed', 'and', 'answer', 'asking', 'attempt', 'by', 'caesar', 'committed', 'corner', 'definitive', 'elicit', 'emphasizes', 'from', 'give', 'god', 'herodians', 'him', 'his', 'hoped', 'however', 'impartiality', 'in', 'inquiry', 'it', 'jesus', 'lawful', 'manipulate', 'mark', 'motives', 'nature', 'not', 'of', 'or', 'pharisees', 'question', 'responded', 'response', 'revealing', 's', 'showcased', 'sought', 'teaching', 'the', 'their', 'they', 'this', 'to', 'trap', 'tribute', 'truth', 'truthfulness', 'ulterior', 'unique', 'was', 'way', 'whether', 'which', 'wisdom', 'with']
+- ChatGPT injected words (significant words only) (39):
+	['acknowledging', 'aimed', 'answer', 'asking', 'attempt', 'caesar', 'committed', 'corner', 'definitive', 'elicit', 'emphasizes', 'god', 'herodians', 'hoped', 'impartiality', 'inquiry', 'jesus', 'lawful', 'manipulate', 'mark', 'motives', 'nature', 'pharisees', 'question', 'responded', 'response', 'revealing', 's', 'showcased', 'sought', 'teaching', 'trap', 'tribute', 'truth', 'truthfulness', 'ulterior', 'unique', 'way', 'wisdom']
 
 ### Logs
-- Attempt 1 BHT: The Pharisees and Herodians approached Jesus, hoping to trap Him with a trick question. They showered Him with flattering words, acknowledging that He was true, unbiased, and taught the way of God with integrity. The question they posed was whether it was lawful to give tribute to Caesar. Mark emphasizes the sharpness of their question. These theological students were attempting to engage Jesus in a palaver and flattery, but Jesus saw through their deceitful motives. He understood that their question was meant to corner Him into giving a definitive answer, either affirming or denying the payment of tribute.
-- 🔄 Mark 12:14 (attempt 1, 98 words, 34.85% quotes quality score: 1.3344953497697531, V2 normalized quality score: 35.72, commentator tiers 1-3: 41.63%, 0.0%, 58.37%) 
+- Attempt 1 BHT: The Pharisees and Herodians approached Jesus with a cunning question, a clear attempt to trap Him. They hoped to force Him into a definitive answer regarding the payment of tribute to Caesar. In their flattery, they acknowledged His truthfulness and disregard for the opinions of men. Mark alone records this question in its sharp form, highlighting the deliberative nature of the discourse. Ultimately, their question exposed their desire to undermine Jesus, but He, being true to His teachings and the way of God, responded with wisdom and insight.
+- 🔄 Mark 12:14 (attempt 1, 88 words, 32.79% quotes quality score: 1.2672746190176847, V2 normalized quality score: 33.48, commentator tiers 1-3: 45.15%, 0.0%, 54.85%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The Pharisees and Herodians were trying to trap Jesus with a cunning question. They praised His integrity and accused Him, saying He did not care about anyone's opinion and taught God's truth faithfully. They then asked if it was lawful to pay tribute to Caesar. This sharp question aimed to force Jesus into a straightforward answer, but He saw through their flattery and recognized their hidden agenda. He understood they sought to engage Him in a deceptive conversation, hoping to corner Him into making a definitive statement on tribute payment.
-- 🔄 Mark 12:14 (attempt 2, 92 words, 36.23% quotes quality score: 1.2912699821189224, V2 normalized quality score: 34.28, commentator tiers 1-3: 34.48%, 0.0%, 65.52%) 
+- Attempt 2 BHT: The Pharisees and Herodians sought to trap Jesus by asking Him whether it was lawful to give tribute to Caesar or not. Their question aimed to elicit a definitive response from Him. Mark emphasizes the unique nature of this inquiry, which showcased the Pharisees and Herodians' attempt to corner Jesus. Acknowledging Jesus's truthfulness and impartiality, they hoped to manipulate His answer. However, Jesus, committed to teaching the way of God in truth, responded with wisdom, revealing their ulterior motives.
+- 🔄 Mark 12:14 (attempt 2, 80 words, 36.07% quotes quality score: 1.3046083527658539, V2 normalized quality score: 34.72, commentator tiers 1-3: 48.87%, 0.0%, 51.13%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The cunning question posed by the Pharisees and Herodians was a devised scheme to trap Jesus. In their attempt to corner Him, they acknowledged His truthfulness and disregard for the opinions of men. Mark's account highlights the deliberate and precise nature of their question. Jesus, knowing their ulterior motives, responded with wisdom, staying faithful to His mission of teaching the way of God with integrity. His insightful answer exposed their hidden agenda, thwarting their attempts to manipulate Him.
+- 🔄 Mark 12:14 (attempt 3, 79 words, 24.56% quotes quality score: 1.1460735918075131, V2 normalized quality score: 29.45, commentator tiers 1-3: 46.47%, 0.0%, 53.53%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The Pharisees and Herodians craftily approached Jesus, seeking to ensnare Him with a question: Is it lawful to give tribute to Caesar, or not? Their intention was to force Jesus into an unequivocal response regarding the payment of tribute. Mark's account emphasizes the unique nature of this question, exposing the underlying motives of the Pharisees and Herodians. Jesus, being aware of their deceit, responded with wisdom and integrity, upholding His commitment to teaching the way of God in truth. His astute answer revealed their hidden agenda and thwarted their attempts to trap Him.
+- 🔄 Mark 12:14 (attempt 4, 94 words, 32.31% quotes quality score: 1.289357987374998, V2 normalized quality score: 34.21, commentator tiers 1-3: 44.22%, 0.0%, 55.78%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The Pharisees and Herodians sought to trap Jesus by using flattery and posing a question about whether it was lawful to give tribute to Caesar. They acknowledged Jesus' truthfulness and impartiality in teaching the ways of God. Their cunning question aimed to force a definite answer from Him. However, Jesus saw through their deceitful intentions and understood their deceptive motives. He recognized that they were trying to manipulate Him into making a clear statement on tribute payment.
-- 🔄 Mark 12:14 (attempt 3, 77 words, 40.68% quotes quality score: 1.270496521252854, V2 normalized quality score: 33.59, commentator tiers 1-3: 39.62%, 0.0%, 60.38%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Pharisees and Herodians approached Jesus with a devious question, attempting to trap Him into giving a clear answer about whether it was lawful to give tribute to Caesar. They utilized flattery, acknowledging that Jesus was truthful and impartial in teaching God's ways. Their intention was to corner Him into making a definitive statement. However, Jesus perceived their ulterior motives and saw through their artifice. He understood that their question was a ploy to manipulate Him into revealing His stance on the matter of tribute payment.
-- 🔄 Mark 12:14 (attempt 4, 87 words, 35.48% quotes quality score: 1.1838557120896822, V2 normalized quality score: 30.71, commentator tiers 1-3: 40.03%, 0.0%, 59.97%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Pharisees and Herodians used flattery to deceive Jesus, recognizing His truthfulness and impartial teaching of God's ways. They aimed to trap Him with an ambiguous question on whether it was lawful to pay tribute to Caesar. By doing so, they hoped to elicit a definitive response from Him. However, Jesus saw through their deceptive motives and understood their hidden agenda. He recognized their attempt to corner Him into making a clear statement on the issue of tribute payment.
-- 🔄 Mark 12:14 (attempt 5, 80 words, 38.71% quotes quality score: 1.1832259779781833, V2 normalized quality score: 30.69, commentator tiers 1-3: 38.01%, 0.0%, 61.99%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 12:14 bht prompt v0.8 (92 words, 36.23% quotes)
-- quality score: 1.2912699821189224, V2 normalized quality score: 34.28, commentator tiers 1-3: 34.48%, 0.0%, 65.52%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The Pharisees and Herodians cunningly approached Jesus, posing a question about paying tribute to Caesar. This was an attempt to trap Him and force Him into a definitive answer. Mark highlights the distinctiveness of this question, exposing the ulterior motives of the Pharisees and Herodians. Jesus, perceiving their deceit, provided a wise and truthful response, staying faithful to His mission of teaching God's ways. His astute reply laid bare their hidden agenda and thwarted their efforts to ensnare Him.
+- 🔄 Mark 12:14 (attempt 5, 80 words, 23.21% quotes quality score: 1.168309004129787, V2 normalized quality score: 30.19, commentator tiers 1-3: 44.08%, 0.0%, 55.92%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Mark 12:14 bht prompt v0.8 (80 words, 36.07% quotes)
+- quality score: 1.3046083527658539, V2 normalized quality score: 34.72, commentator tiers 1-3: 48.87%, 0.0%, 51.13%)

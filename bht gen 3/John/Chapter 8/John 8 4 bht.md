@@ -1,70 +1,69 @@
 # John 8:4 Commentary Help Text
 
 ## BHT:
-Confronted with a woman caught in adultery, Jesus faces a situation set up to ensnare Him. The Pharisees hope to discredit Him with this question, but Jesus sees through their deceit. He discerns that their intention is not truly concerned with upholding the Law, but rather to accuse Him. Instead of giving a direct answer, Jesus reveals their hypocrisy and outsmarts them. This event sheds light on the need for compassion, forgiveness, and transformation, transcending the mere technicalities of the Law.
+The temptation for Jesus in this situation was difficult to comprehend. Some argue that Jesus refrained from making a decision because it was a civil matter that did not align with His teachings. The cunning hypocrites were outmatched as the woman had been caught in the act, and her own consciousness of shame was evident. This made further evidence or witnesses unnecessary. The guilt of the woman was revealed through her countenance alone.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The difficulty is even greater than the last, to say, in what sense this was a temptation, to lead to His accusation."
-2. "What reason had any of His sayings—who came to fulfil the Law, not to destroy it—given them to expect such mildness in this case?"
+2. "The principal solutions of it have been, (1) that the command of the law had fallen into disuse from the frequency of the crime, and to re-assert it would be contrary to the known mildness of Jesus."
 3. "Since Jesus seems to avoid every kind of decision on the question put to Him, it follows that He found in it no reference to the great subjects of His teaching, but treated it as a purely civil or political matter, with which in His ministry He had no concern."
 
 ### Jamieson-Fausset-Brown:
-1. "Moses . . . commanded . . . should be stoned—simply put to death (Deuteronomy 22:22), but in aggravated cases, at least in later times, this was probably by stoning (Ezekiel 16:40)." 
-2. "but what sayest thou—hoping, whatever He might answer, to put Him in the wrong."
+1. "Moses . . . commanded . . . should be stoned—simply put to
+	death." 
+2. "If He said,
+	Stone her, that would seem a stepping out of His province; if He
+	forbade it, that would hold Him up as a relaxer of the public morals." 
 3. "But these cunning hypocrites were overmatched."
 
 ### Philip Schaff:
-1. "Not only was the sin grievous: the point is that there was no possibility of denying it."
-2. "No process of proof was necessary: there was no need to summon witnesses."
-3. "We may even well believe that the very countenance of the woman would betray her own consciousness of her shame."
+1. "No process of proof was necessary: there was no need to summon witnesses."
+2. "The point is that there was no possibility of denying it."
+3. "The very countenance of the woman would betray her own consciousness of her shame."
 
 ### Archibald T. Robertson:
-1. "Hath been taken...caught and still guilty."
-2. "In adultery...herself suffering adultery."
-3. "In the very act...caught in the act of theft, then extended to any crime in which one is caught."
+1. "Hath been taken... caught and still guilty." 
+2. "In adultery... herself suffering adultery" 
+3. "In the very act... caught in the act of theft"
 
 ### John Gill:
-1. "They say unto him, Master... the better to cover their ill design."
-2. "this woman was taken in adultery... it is an unlawful use of another's property."
-3. "in the very act; or 'in the theft itself', for adultery is a theft."
+1. "They applied to him in a handsome and respectful manner, the better to cover their ill design."
+2. "Adultery is a theft; it is an unlawful use of another's property."
+3. "In the case of a wife suspected of adultery, they admitted a single witness as valid."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:08:13
+- Timestamp: 12-25-2023 20:33:59
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 35.0%
-- BHT Quality Score: 1.4341321947380326
+- BHT Word Count: 73
+- BHT Commentary Usage: 50.88%
+- BHT Quality Score: 1.480181766283417
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'accuse', 'adultery', 'and', 'answer', 'but', 'caught', 'compassion', 'concerned', 'confronted', 'deceit', 'direct', 'discerns', 'discredit', 'ensnare', 'event', 'faces', 'for', 'forgiveness', 'giving', 'he', 'him', 'hope', 'hypocrisy', 'in', 'instead', 'intention', 'is', 'jesus', 'law', 'light', 'mere', 'need', 'not', 'of', 'on', 'outsmarts', 'pharisees', 'question', 'rather', 'reveals', 'sees', 'set', 'sheds', 'situation', 'technicalities', 'that', 'the', 'their', 'them', 'this', 'through', 'to', 'transcending', 'transformation', 'truly', 'up', 'upholding', 'with', 'woman']
-- ChatGPT injected words (significant words only) (39):
-	['accuse', 'adultery', 'answer', 'caught', 'compassion', 'concerned', 'confronted', 'deceit', 'direct', 'discerns', 'discredit', 'ensnare', 'event', 'faces', 'forgiveness', 'giving', 'hope', 'hypocrisy', 'instead', 'intention', 'jesus', 'law', 'light', 'mere', 'need', 'outsmarts', 'pharisees', 'question', 'reveals', 'sees', 'set', 'sheds', 'situation', 'technicalities', 'transcending', 'transformation', 'truly', 'upholding', 'woman']
+- ChatGPT injected words (57):
+	['a', 'act', 'align', 'alone', 'and', 'argue', 'as', 'because', 'been', 'caught', 'civil', 'comprehend', 'consciousness', 'countenance', 'cunning', 'decision', 'did', 'difficult', 'evidence', 'evident', 'for', 'from', 'further', 'guilt', 'had', 'her', 'his', 'hypocrites', 'in', 'it', 'jesus', 'made', 'making', 'matter', 'not', 'of', 'or', 'outmatched', 'own', 'refrained', 'revealed', 'shame', 'situation', 'some', 'teachings', 'temptation', 'that', 'the', 'this', 'through', 'to', 'unnecessary', 'was', 'were', 'with', 'witnesses', 'woman']
+- ChatGPT injected words (significant words only) (28):
+	['act', 'align', 'argue', 'caught', 'civil', 'comprehend', 'consciousness', 'countenance', 'cunning', 'decision', 'difficult', 'evidence', 'evident', 'guilt', 'hypocrites', 'jesus', 'making', 'matter', 'outmatched', 'refrained', 'revealed', 'shame', 'situation', 'teachings', 'temptation', 'unnecessary', 'witnesses', 'woman']
 
 ### Logs
-- Attempt 1 BHT: In John 8:4, Jesus is faced with a challenging situation that is meant to trap Him. The Pharisees present a woman caught in the act of adultery and ask Him what should be done. However, Jesus avoids answering directly because He perceives that they are not truly concerned about upholding the Law but rather seeking to accuse Him. The Mosaic Law prescribed death for adultery, usually by stoning, but Jesus's response goes beyond legal technicalities. He exposes the hypocrisy of the Pharisees and demonstrates His divine wisdom by outsmarting them in their plot. The woman's guilt is undeniable, but Jesus's approach reveals the deeper issue at hand – the need for mercy, forgiveness, and transformation.
-- 🔄 John 8:4 (attempt 1, 116 words, 36.59% quotes quality score: 1.4472774655549576, V2 normalized quality score: 39.46, commentator tiers 1-3: 34.36%, 29.18%, 36.46%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this challenging scenario, Jesus finds Himself faced with a dilemma designed to entrap Him. The Pharisees present a woman caught in the act of adultery and seek His judgment. Yet Jesus, perceiving their ulterior motives, sidesteps their question. He recognizes that their concern is not for upholding the Law, but rather to ensnare Him. Instead, He astutely exposes their hypocrisy and demonstrates His divine wisdom by circumventing their plot. This incident highlights the need for mercy, forgiveness, and transformation, going beyond legal technicalities to address the deeper issue at hand.
-- 🔄 John 8:4 (attempt 2, 91 words, 32.39% quotes quality score: 1.3316165243223854, V2 normalized quality score: 35.62, commentator tiers 1-3: 33.12%, 29.19%, 37.69%) 
+- Attempt 1 BHT: The difficulty lies in understanding the sense in which this situation was a temptation for Jesus. Some suggest that Jesus avoided making a decision on the matter because it was a civil issue that did not pertain to the subjects of His teaching. If He condoned the stoning, He would be seen as stepping out of His role; if He forbade it, He would be viewed as a relaxer of public morals. However, the cunning hypocrites were overmatched; the woman had been caught in the act, and she herself was conscious of her shame. Therefore, there was no need for further proof or witnesses. The woman's countenance alone betrayed her guilt.
+- 🔄 John 8:4 (attempt 1, 112 words, 46.84% quotes quality score: 1.4672869517385068, V2 normalized quality score: 40.13, commentator tiers 1-3: 29.01%, 41.62%, 29.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In John 8:4, the Pharisees attempt to trap Jesus by presenting a woman caught in the act of adultery. However, Jesus sees through their ill intentions and avoids directly answering their question. He recognizes that they are not genuinely concerned about upholding the Law but are aiming to accuse Him. Jesus outwits them, revealing their cunning and hypocrisy. This encounter highlights the need for mercy, forgiveness, and transformation, emphasizing the deeper issues beyond the mere technicalities of the Law.
-- 🔄 John 8:4 (attempt 3, 78 words, 36.07% quotes quality score: 1.369000073473448, V2 normalized quality score: 36.86, commentator tiers 1-3: 33.64%, 30.76%, 35.61%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: In this dilemma, the Pharisees set a trap for Jesus by presenting a woman caught in adultery. However, Jesus astutely recognizes their ulterior motives and evades their question. He discerns that their concern is not in alignment with His teachings and purpose. By avoiding a direct response, Jesus exposes their hypocrisy and cunning intentions. This incident serves as a reminder of the necessity for grace, forgiveness, and transformation, demonstrating that the profound issues at hand extend beyond legal technicalities.
-- 🔄 John 8:4 (attempt 4, 79 words, 31.67% quotes quality score: 1.2990210986797988, V2 normalized quality score: 34.54, commentator tiers 1-3: 32.39%, 30.5%, 37.11%) 
+- Attempt 2 BHT: The temptation laid in the dilemma that the situation presented to Jesus. Some argue that He refrained from making a decision because it was a purely civil matter unrelated to His teachings. If He supported stoning, it would be seen as an overstep; if He opposed it, it would be perceived as a relaxation of moral standards. Yet, these cunning hypocrites were outmatched; the woman had been caught red-handed, making further evidence unnecessary. Her own expression revealed her guilt.
+- 🔄 John 8:4 (attempt 2, 80 words, 41.94% quotes quality score: 1.4024169735338243, V2 normalized quality score: 37.97, commentator tiers 1-3: 30.41%, 36.59%, 33.0%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Confronted with a woman caught in adultery, Jesus faces a situation set up to ensnare Him. The Pharisees hope to discredit Him with this question, but Jesus sees through their deceit. He discerns that their intention is not truly concerned with upholding the Law, but rather to accuse Him. Instead of giving a direct answer, Jesus reveals their hypocrisy and outsmarts them. This event sheds light on the need for compassion, forgiveness, and transformation, transcending the mere technicalities of the Law.
-- 🔄 John 8:4 (attempt 5, 81 words, 35.0% quotes quality score: 1.4341321947380326, V2 normalized quality score: 39.03, commentator tiers 1-3: 33.67%, 29.94%, 36.39%) 
+- Attempt 3 BHT: The difficulty lies in understanding the sense in which this situation was a temptation for Jesus. Some suggest that Jesus avoided making a decision on the matter because it was a civil issue that did not pertain to the subjects of His teaching. However, the cunning hypocrites were overmatched; the woman had been caught in the act, and she herself was conscious of her shame. Therefore, there was no need for further proof or witnesses. The woman's countenance alone betrayed her guilt.
+- 🔄 John 8:4 (attempt 3, 83 words, 49.21% quotes quality score: 1.481950327469406, V2 normalized quality score: 40.62, commentator tiers 1-3: 27.42%, 45.05%, 27.53%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 8:4 bht prompt v0.8 (81 words, 35.0% quotes)
-- quality score: 1.4341321947380326, V2 normalized quality score: 39.03, commentator tiers 1-3: 33.67%, 29.94%, 36.39%)
+- Attempt 4 BHT: The difficulty lies in understanding the sense in which this situation was a temptation for Jesus. Some suggest that Jesus avoided making a decision on the matter because it was a civil issue unrelated to His teachings. However, the cunning hypocrites were overmatched; the woman had been caught in the act, and she herself was conscious of her shame. Therefore, there was no need for further proof or witnesses. The woman's countenance alone betrayed her guilt.
+- 🔄 John 8:4 (attempt 4, 77 words, 48.33% quotes quality score: 1.508303290475526, V2 normalized quality score: 41.49, commentator tiers 1-3: 26.81%, 44.91%, 28.27%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The temptation for Jesus in this situation was difficult to comprehend. Some argue that Jesus refrained from making a decision because it was a civil matter that did not align with His teachings. The cunning hypocrites were outmatched as the woman had been caught in the act, and her own consciousness of shame was evident. This made further evidence or witnesses unnecessary. The guilt of the woman was revealed through her countenance alone.
+- 🔄 John 8:4 (attempt 5, 73 words, 50.88% quotes quality score: 1.480181766283417, V2 normalized quality score: 40.56, commentator tiers 1-3: 25.73%, 46.64%, 27.63%)
+- ✅ John 8:4 bht prompt v0.8 (73 words, 50.88% quotes)
+- quality score: 1.480181766283417, V2 normalized quality score: 40.56, commentator tiers 1-3: 25.73%, 46.64%, 27.63%)

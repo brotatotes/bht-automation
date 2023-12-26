@@ -1,7 +1,7 @@
 # Matthew 15:25 Commentary Help Text
 
 ## BHT:
-The Canaanite woman approached Jesus in the house, seeking his help with great reverence. Her faith was evident as she worshiped him and made her plea. She believed in the kindness of the Messiah and held on firmly to her hope, not allowing discouragement to deter her. She acknowledged Jesus as Lord, recognizing his sovereignty and power. Her persistent and fervent prayers reflected her deep love and sympathy for her daughter, making the case her own. She pushed through all obstacles, growing in faith and importunity.
+The Canaanite woman came into the house where Jesus was and worshiped Him, pleading for His help. Her faith was evident as she firmly believed that her only source of help was Christ Himself. She held on to her previous sentiment of faith, refusing to let anything shake her hope. Her unwavering determination and humble worship demonstrated her acknowledgment of Jesus as Lord, recognizing His sovereignty and power to assist her in her time of need.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -20,19 +20,19 @@ For the exposition, see on :-; :-.
 
 
 ### John Calvin:
-1. "There is no reason to doubt that she was animated by the conviction which she entertained as to the kindness of the Messiah."
-2. "She adhered firmly to that previous sentiment of faith... and admitted nothing that was opposed to her hope."
+1. "She adhered firmly to that previous sentiment of faith... and admitted nothing that was opposed to her hope."
+2. "The reason was, that she adhered firmly to that previous sentiment of faith which I have mentioned, and admitted nothing that was opposed to her hope."
 3. "This is the sure test of faith, that we do not suffer that general commencement of our salvation, which is founded on the word of God, to be in any way torn from us."
 
 ### Philip Schaff:
 1. "Her faith was more manifest, as the Lord gave her opportunity."
 2. "Lord. Reverential address."
-3. "Help me. A touch of nature in the mother's prayer!"
+3. "Help me. A touch of nature in the mother's prayer! Maternal love remains even in heathenism; often leading to Christ."
 
 ### John Gill:
-1. "She pushes on, through all discouragements; her faith grows stronger, and her importunity greater."
+1. "She pushes on, through all discouragements; her faith grows stronger, and her importunity greater: she had called Christ Lord, and the son of David before, but now she worships him as God."
 2. "The object she prays unto is the Lord, by which she owns his sovereignty, dominion, and power."
-3. "Though it was her daughter, and not she herself, that was so miserably afflicted; yet such was her sympathy, love, and affection to her, that she makes the case her own, and calls helping her daughter, helping herself."
+3. "The request she makes is for 'help', signifying that her case required it; that it was such, that she could not help herself, nor any creature help her, only he, which she firmly believed."
 
 ### John Wesley:
 1. Then came she — Into the house where he now was.
@@ -41,38 +41,35 @@ For the exposition, see on :-; :-.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:48:37
+- Timestamp: 12-25-2023 20:31:51
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 31.67%
-- BHT Quality Score: 1.3223316214126744
+- BHT Word Count: 76
+- BHT Commentary Usage: 35.85%
+- BHT Quality Score: 1.5426266453100594
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['acknowledged', 'all', 'allowing', 'and', 'approached', 'as', 'believed', 'canaanite', 'case', 'daughter', 'deep', 'deter', 'discouragement', 'evident', 'faith', 'fervent', 'firmly', 'for', 'great', 'growing', 'held', 'help', 'her', 'him', 'his', 'hope', 'house', 'importunity', 'in', 'jesus', 'kindness', 'lord', 'love', 'made', 'making', 'messiah', 'not', 'obstacles', 'of', 'on', 'own', 'persistent', 'plea', 'power', 'prayers', 'pushed', 'recognizing', 'reflected', 'reverence', 'seeking', 'she', 'sovereignty', 'sympathy', 'the', 'through', 'to', 'was', 'with', 'woman', 'worshiped']
-- ChatGPT injected words (significant words only) (41):
-	['acknowledged', 'allowing', 'approached', 'believed', 'canaanite', 'case', 'daughter', 'deep', 'deter', 'discouragement', 'evident', 'faith', 'fervent', 'firmly', 'great', 'growing', 'held', 'help', 'hope', 'house', 'importunity', 'jesus', 'kindness', 'lord', 'love', 'making', 'messiah', 'obstacles', 'persistent', 'plea', 'power', 'prayers', 'pushed', 'recognizing', 'reflected', 'reverence', 'seeking', 'sovereignty', 'sympathy', 'woman', 'worshiped']
+- ChatGPT injected words (53):
+	['acknowledgment', 'and', 'anything', 'as', 'assist', 'believed', 'came', 'canaanite', 'christ', 'demonstrated', 'determination', 'evident', 'faith', 'firmly', 'for', 'held', 'help', 'her', 'him', 'himself', 'his', 'hope', 'house', 'humble', 'in', 'into', 'jesus', 'let', 'lord', 'need', 'of', 'on', 'only', 'pleading', 'power', 'previous', 'recognizing', 'refusing', 'sentiment', 'shake', 'she', 'source', 'sovereignty', 'that', 'the', 'time', 'to', 'unwavering', 'was', 'where', 'woman', 'worship', 'worshiped']
+- ChatGPT injected words (significant words only) (34):
+	['acknowledgment', 'assist', 'believed', 'came', 'canaanite', 'christ', 'demonstrated', 'determination', 'evident', 'faith', 'firmly', 'held', 'help', 'hope', 'house', 'humble', 'jesus', 'let', 'lord', 'need', 'pleading', 'power', 'previous', 'recognizing', 'refusing', 'sentiment', 'shake', 'source', 'sovereignty', 'time', 'unwavering', 'woman', 'worship', 'worshiped']
 
 ### Logs
-- Attempt 1 BHT: The Canaanite woman approached Jesus in the house, seeking his help with great reverence. Her faith was evident as she worshiped him and made her plea. She believed in the kindness of the Messiah and held on firmly to her hope, not allowing discouragement to deter her. She acknowledged Jesus as Lord, recognizing his sovereignty and power. Her persistent and fervent prayers reflected her deep love and sympathy for her daughter, making the case her own. She pushed through all obstacles, growing in faith and importunity.
-- 🔄 Matthew 15:25 (attempt 1, 86 words, 31.67% quotes quality score: 1.3223316214126744, V2 normalized quality score: 35.31, commentator tiers 1-3: 19.94%, 37.05%, 43.01%) 
+- Attempt 1 BHT: The Canaanite woman came into the house where Jesus was, demonstrating her faith and reverence by worshiping Him and pleading for His help. Her faith was evident as she clung to her previous sentiment of faith and refused to waver in her hope. She persevered in her request, showing the sure test of faith. She worshiped Him as Lord, acknowledging His sovereignty, and she sought His help, recognizing her own inability and the power of Christ to assist her.
+- 🔄 Matthew 15:25 (attempt 1, 79 words, 32.65% quotes quality score: 1.5004180110192658, V2 normalized quality score: 41.23, commentator tiers 1-3: 21.06%, 36.06%, 42.88%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: The Canaanite woman came into the house where Jesus was and worshiped Him, pleading for His help. Her faith was evident as she firmly believed that her only source of help was Christ Himself. She held on to her previous sentiment of faith, refusing to let anything shake her hope. Her unwavering determination and humble worship demonstrated her acknowledgment of Jesus as Lord, recognizing His sovereignty and power to assist her in her time of need.
+- 🔄 Matthew 15:25 (attempt 2, 76 words, 35.85% quotes quality score: 1.5426266453100594, V2 normalized quality score: 42.63, commentator tiers 1-3: 21.34%, 34.96%, 43.7%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The Canaanite woman came into the house where Jesus was, demonstrating her faith and reverence by worshiping Him and pleading for His help. Her faith was evident as she adhered firmly to her previous sentiment of faith and did not allow anything to oppose her hope. She pushed on through discouragements, growing stronger in faith and greater in importunity. She worshiped Jesus as Lord, acknowledging His sovereignty, and she sought His help, recognizing her own inability and believing that He was the only one who could assist her.
+- 🔄 Matthew 15:25 (attempt 3, 88 words, 44.26% quotes quality score: 1.4891709838512504, V2 normalized quality score: 40.86, commentator tiers 1-3: 20.66%, 34.64%, 44.7%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The Canaanite woman came into the house where Jesus was, approaching him with reverence and worship. Her faith in the kindness of the Messiah drove her to persistently seek his help. Despite obstacles and discouragement, she held firmly to her hope, not letting anything oppose it. Her heartfelt prayers reflected her deep love and sympathy for her daughter, as she recognized Jesus as Lord and acknowledged his sovereignty and power. Her unwavering faith and unwavering persistence exemplify her determination to receive the help she sought.
-- 🔄 Matthew 15:25 (attempt 2, 85 words, 30.51% quotes quality score: 1.2552887541002353, V2 normalized quality score: 33.08, commentator tiers 1-3: 18.59%, 36.37%, 45.04%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: The Canaanite woman came into the house where Jesus was and worshiped Him, pleading for His help. She showed unwavering faith by clinging to her previous sentiment and excluding anything that opposed her hope. Her persistence in the face of discouragement strengthened her faith and increased her urgency. Worshiping Jesus as Lord, she acknowledged His sovereignty, while requesting His help, recognizing her own inability.
+- 🔄 Matthew 15:25 (attempt 4, 64 words, 38.78% quotes quality score: 1.4621725617393202, V2 normalized quality score: 39.96, commentator tiers 1-3: 21.68%, 35.98%, 42.34%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The Canaanite woman approached Jesus with reverence, seeking his help in the house where he was. Her persistent faith in the kindness of the Messiah remained unshaken, even in the face of discouragement. She firmly held onto her hope, not allowing anything to undermine it. With heartfelt prayers, she expressed her deep love and sympathy for her daughter. By acknowledging Jesus as Lord and recognizing his sovereign power, she displayed unwavering faith and determination to receive the help she sought.
-- 🔄 Matthew 15:25 (attempt 3, 80 words, 34.48% quotes quality score: 1.2752917612621655, V2 normalized quality score: 33.75, commentator tiers 1-3: 21.08%, 36.07%, 42.85%) 
+- Attempt 5 BHT: The Canaanite woman entered the house where Jesus was and worshiped Him, seeking His help. Her unwavering faith and firm adherence to her previous sentiment were evident in her persistent approach. She excluded anything that opposed her hope, demonstrating the sure test of faith. As she worshiped Him as Lord and the son of David, she recognized His sovereignty and power. By requesting His help, she acknowledged her own inability and believed that only Jesus could provide assistance.
+- 🔄 Matthew 15:25 (attempt 5, 78 words, 35.19% quotes quality score: 1.377646567735297, V2 normalized quality score: 37.15, commentator tiers 1-3: 21.33%, 34.04%, 44.63%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Canaanite woman came to the house where Jesus was and worshiped him, earnestly seeking his help. Her unwavering faith in the Messiah's kindness fueled her persistence. Despite discouragement, she clung steadfastly to her hope, refusing to let anything hinder it. Her heartfelt prayers revealed the depth of her love and compassion for her daughter. Recognizing Jesus as Lord, she acknowledged his sovereignty and power. With unwavering faith and unwavering persistence, she pressed on until she received the help she sought.
-- 🔄 Matthew 15:25 (attempt 4, 82 words, 31.58% quotes quality score: 1.2181153437908439, V2 normalized quality score: 31.85, commentator tiers 1-3: 19.43%, 35.71%, 44.86%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Canaanite woman approached Jesus in the house, worshiping him and pleading for his help. Her unshakable faith in the kindness of the Messiah propelled her to persistently seek his aid, despite facing discouragement. She clung firmly to her hope, refusing to let anything undermine it. Through her heartfelt prayers, she demonstrated her deep love and empathy for her daughter. Recognizing Jesus as Lord, she acknowledged his sovereignty and power. With unwavering faith and determination, she pushed forward until her plea was answered.
-- 🔄 Matthew 15:25 (attempt 5, 83 words, 28.33% quotes quality score: 1.256199547534505, V2 normalized quality score: 33.11, commentator tiers 1-3: 19.64%, 36.16%, 44.2%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 15:25 bht prompt v0.8 (86 words, 31.67% quotes)
-- quality score: 1.3223316214126744, V2 normalized quality score: 35.31, commentator tiers 1-3: 19.94%, 37.05%, 43.01%)
+- ✅ Matthew 15:25 bht prompt v0.8 (76 words, 35.85% quotes)
+- quality score: 1.5426266453100594, V2 normalized quality score: 42.63, commentator tiers 1-3: 21.34%, 34.96%, 43.7%)

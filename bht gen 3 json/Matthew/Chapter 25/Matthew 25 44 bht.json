@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:53:03",
+    "timestamp": "12-25-2023 20:32:07",
     "verseRef": "Matthew 25:44",
     "bestBHT": {
-        "bht": "The self-righteous plea of ignorance is exposed as those who fail to see Christ in the needy will find their excuses worthless on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished for their disregard. Christ warns that those despised by society are esteemed by Him as much as His own. These nominal Christians profess Christ as Lord, yet their neglect of the needy reveals their true heart.",
-        "wordCount": 79,
-        "quoteTokenProportion": 46.55,
-        "qualityScore": 1.0998557913538187,
-        "qualityScoreNormalizedComparedToV2BHTs": 27.91,
+        "bht": "The self-righteous plea of ignorance is a deceitful fancy that many entertain, thinking they would do good to Christ had they seen Him. However, they fail to recognize Him in the person of His followers and thus continue to despise the poor. Their vain excuses will be of no use on the day of retribution, as they will realize, too late, that those they now despise are esteemed by Christ. These nominal Christians make a profession of Christ but have never truly seen Him in such circumstances.",
+        "wordCount": 88,
+        "quoteTokenProportion": 52.31,
+        "qualityScore": 1.238020865773887,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.51,
         "commentatorTierSimilarities": [
-            0.54,
-            50.72,
-            48.74
+            0.29,
+            54.49,
+            45.22
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,7 +21,7 @@
         "John Calvin": [
             "The same kind of striking delineation which Christ had formerly employed is now repeated, in order to inform the reprobate, that their vain excuses, by which they now deceive themselves, will be of no avail to them at the last day.",
             "For whence comes the great cruelty of their pride towards the poor, but because they think that they will not be punished for despising them?",
-            "To destroy this self-complacency, our Lord gives them warning, that they will one day feel\u2014but when it will be too late\u2014what they do not now deign to consider, that those who are now so greatly despised are not less esteemed by Christ than his own members."
+            "[...] they will one day feel\u2014but when it will be too late\u2014what they do not now deign to consider, that those who are now so greatly despised are not less esteemed by Christ than his own members."
         ],
         "Philip Schaff": [
             "A self-righteous plea of ignorance, implying that they would have done such good works, had they seen Him.",
@@ -54,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The passage highlights the self-righteous plea of ignorance from those who fail to recognize Christ in the needy. It warns that their deceitful fancy will be of no avail on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished. Christ warns them that those despised by society are esteemed by Him as much as his own people. These individuals are nominal Christians who profess Christ as Lord but fail to actively demonstrate love and care for those in need. Their attempt to justify themselves will persist even on the day of judgment.",
-            "wordCount": 103,
-            "quoteTokenProportion": 44.29,
-            "qualityScore": 1.1374238076162388,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.16,
+            "bht": "The deceitful fancy of those who fail to see Christ in the person of His followers continues until the day of retribution. Their self-righteous plea of ignorance will be of no avail, for their vain excuses will not save them. The great cruelty of their pride towards the poor stems from their belief that they will not be punished for despising them. But they will one day feel, too late, the worth and importance of those they now despise, as Christ holds them in the same esteem as His own members. These nominal Christians have made a profession of Christ but have failed to truly see Him. Their attempt to justify themselves will persist, but the day of reckoning approaches.",
+            "wordCount": 121,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.0980018809650973,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.85,
             "commentatorTierSimilarities": [
-                3.75,
-                52.47,
-                43.78
+                -1.56,
+                53.64,
+                47.93
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The verse exposes the self-righteous plea of ignorance by those who fail to recognize Christ in the needy. Their deceitful fancy will be futile on the day of retribution when their cruelty towards the poor will be confronted. These nominal Christians claim to know and see Christ yet ignore their responsibility to provide for Him. They will attempt to justify themselves even on the day of judgment, but their neglect of the needy reveals their true heart.",
-            "wordCount": 78,
-            "quoteTokenProportion": 41.82,
-            "qualityScore": 1.1776436478764283,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.5,
+            "bht": "The self-righteous plea of ignorance is a deceitful fancy that many entertain, thinking they would do good to Christ had they seen Him. However, they fail to recognize Him in the person of His followers and thus continue to despise the poor. Their vain excuses will be of no use on the day of retribution, as they will realize, too late, that those they now despise are esteemed by Christ. These nominal Christians make a profession of Christ but have never truly seen Him in such circumstances.",
+            "wordCount": 88,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.238020865773887,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.51,
             "commentatorTierSimilarities": [
-                2.38,
-                53.24,
-                44.39
+                0.29,
+                54.49,
+                45.22
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The self-righteous plea of ignorance is exposed as those who fail to see Christ in the needy will find their excuses worthless on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished for their disregard. Christ warns that those despised by society are esteemed by Him as much as His own. These nominal Christians profess Christ as Lord, yet their neglect of the needy reveals their true heart.",
-            "wordCount": 79,
-            "quoteTokenProportion": 46.55,
-            "qualityScore": 1.0998557913538187,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.91,
+            "bht": "The deceitful fancy of those who fail to see Christ in His followers continues until the day of retribution. Their self-righteous plea of ignorance will be of no avail, for their vain excuses will not save them. The great cruelty of their pride towards the poor stems from their belief that they will not be punished for despising them. They are nominal Christians, who make a profession of Christ without truly seeing Him. But the day will come when their attempts to justify themselves will hold no power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.1157811532672044,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.44,
             "commentatorTierSimilarities": [
-                0.54,
-                50.72,
-                48.74
+                -1.48,
+                54.45,
+                47.02
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The verse sheds light on the self-righteous plea of ignorance by those who fail to recognize Christ in the needy. Their deceitful fancy will be of no avail on the day of retribution. Their cruelty towards the poor stems from the belief that they will not be punished. They claim to know and see Christ but neglect to provide for Him. These nominal Christians will attempt to justify themselves even on the day of judgment, but their neglect of the needy reveals their true heart.",
+            "bht": "The deceitful fancy of those who fail to see Christ in His followers persists until the day of retribution. Their self-righteous plea of ignorance will be worthless, as their vain excuses hold no meaning. Their prideful cruelty towards the poor stems from their belief that they will not be held accountable for despising them. These nominal Christians make a profession of Christ, yet they do not truly see Him. However, their attempts to justify themselves will be rendered futile on the approaching day of reckoning.",
             "wordCount": 86,
-            "quoteTokenProportion": 43.1,
-            "qualityScore": 1.1574731740427353,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.83,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.133711686063454,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.04,
             "commentatorTierSimilarities": [
-                3.23,
-                53.79,
-                42.97
+                2.29,
+                53.09,
+                44.62
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The self-righteous plea of ignorance is exposed as those who fail to see Christ in the needy will find their excuses worthless on the day of retribution. Their pride towards the poor stems from the belief that they will not be punished. Christ warns that those despised are esteemed by Him as much as His own. These nominal Christians profess Christ as Lord yet neglect the needy, revealing their true heart. They will attempt to justify themselves on judgment day, but their neglect speaks volumes.",
-            "wordCount": 86,
-            "quoteTokenProportion": 45.16,
-            "qualityScore": 1.0941861491422777,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.73,
+            "bht": "The deceitful fancy of those who fail to see Christ in His followers continues until the day of retribution. Their self-righteous plea of ignorance will be of no avail; their vain excuses hold no power. Their prideful cruelty towards the poor comes from their belief they won't be punished for despising them. These nominal Christians profess Christ, but don't truly see Him. Yet, their attempts to justify themselves persist. However, the day is approaching when their pleas will hold no weight.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.0183530160725707,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.2,
             "commentatorTierSimilarities": [
-                -0.31,
-                52.08,
-                48.22
+                -0.84,
+                53.95,
+                46.89
             ],
             "generationAttempt": 5
         }

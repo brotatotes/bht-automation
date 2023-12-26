@@ -1,7 +1,7 @@
 # John 2:9 Commentary Help Text
 
 ## BHT:
-The tablemaster remained unaware of the miracle, while the servants knew the source of the water-turned-wine. While Jesus participated in social life, this does not equate to approval of modern liquor trade. Love's law teaches Christians to willingly give up stumbling blocks for others. The impartial judgment of the tablemaster showed no collusion between Jesus and those at the feast. The water's transformation into wine indicates a complete change in properties. The governor of the feast called the bridegroom, demonstrating the bridegroom's role in arranging the event.
+The servants who served the wine at the wedding knew the source of the water but not the power that turned it into wine. Unlike John the Baptist, Jesus participated in the social life of the time and faced criticism for it. The law of love, as taught by Paul, encourages Christians to willingly give up anything that may cause others to stumble into sin. The governor of the feast commended the bridegroom after tasting the wine, confirming the authenticity of the miracle.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -11,19 +11,19 @@ The tablemaster remained unaware of the miracle, while the servants knew the sou
 
 
 ### Albert Barnes:
-1. "His judgment was not biased by any favor, or any lack of favor, toward Jesus."
-2. "Had he known what was done, he would have been less likely to have judged impartially."
+1. "Had he known what was done, he would have been less likely to have judged impartially."
+2. "This was real wine, and of so fine a body and flavor as to surpass that which had been provided for the occasion."
 3. "Everything in this miracle shows that there was no collusion or understanding between Jesus and any of the persons at the feast."
 
 ### Archibald T. Robertson:
-1. "The tablemaster knew nothing of the miracle, 'whence it was'... The servants knew the source of the water, but not the power that made the wine."
-2. "Unlike the Baptist Jesus mingled in the social life of the time, was even abused for it... But this fact does not mean that today Jesus would approve the modern liquor trade with its damnable influences."
-3. "The law of love... teaches modern Christians to be willing gladly to give up what they see causes so many to stumble into sin."
+1. "The servants knew the source of the water, but not the power that made the wine."
+2. "Unlike the Baptist Jesus mingled in the social life of the time, was even abused for it."
+3. "The law of love expounded by Paul teaches modern Christians to be willing gladly to give up what they see causes so many to stumble into sin."
 
 ### John Gill:
-1. "this water, that was turned into wine, ceased to be what it was before, and became what it was not: it had no more the properties, the colour, and taste of water, but of wine"
-2. "But the servants which drew the water knew; they knew from whence they had it, out of the water pots"
-3. "the governor of the feast called the bridegroom to him"
+1. "This water, that was turned into wine, ceased to be what it was before, and became what it was not: it had no more the properties, the colour, and taste of water, but of wine; of which the whole company were judges."
+2. "the servants which drew the water knew; they knew from whence they had it, out of the water pots; and they knew that they filled them with water; and that that liquor, which the ruler of the feast had in his hands, and commended as most excellent wine, was drawn out of them; and that there was no juggle, nor deceit in the case"
+3. "upon tasting of it, the governor of the feast called the bridegroom to him"
 
 ### John Wesley:
 1. The governor of the feast — The bridegroom generally procured some friend to order all things at the entertainment.
@@ -32,39 +32,43 @@ The tablemaster remained unaware of the miracle, while the servants knew the sou
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:04:19
+- Timestamp: 12-25-2023 20:33:44
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 30.16%
-- BHT Quality Score: 1.2354115315043979
+- BHT Word Count: 83
+- BHT Commentary Usage: 36.21%
+- BHT Quality Score: 1.4576635438243262
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'and', 'approval', 'arranging', 'at', 'between', 'blocks', 'bridegroom', 'called', 'change', 'christians', 'collusion', 'complete', 'demonstrating', 'does', 'equate', 'event', 'feast', 'for', 'give', 'governor', 'impartial', 'in', 'indicates', 'into', 'jesus', 'judgment', 'knew', 'law', 'life', 'liquor', 'love', 'miracle', 'modern', 'no', 'not', 'of', 'others', 'participated', 'properties', 'remained', 'role', 's', 'servants', 'showed', 'social', 'source', 'stumbling', 'tablemaster', 'teaches', 'the', 'this', 'those', 'to', 'trade', 'transformation', 'turned', 'unaware', 'up', 'water', 'while', 'willingly', 'wine']
-- ChatGPT injected words (significant words only) (44):
-	['approval', 'arranging', 'blocks', 'bridegroom', 'called', 'change', 'christians', 'collusion', 'complete', 'demonstrating', 'equate', 'event', 'feast', 'governor', 'impartial', 'indicates', 'jesus', 'judgment', 'knew', 'law', 'life', 'liquor', 'love', 'miracle', 'modern', 'participated', 'properties', 'remained', 'role', 's', 'servants', 'showed', 'social', 'source', 'stumbling', 'tablemaster', 'teaches', 'trade', 'transformation', 'turned', 'unaware', 'water', 'willingly', 'wine']
+- ChatGPT injected words (58):
+	['after', 'and', 'anything', 'as', 'at', 'authenticity', 'baptist', 'bridegroom', 'but', 'by', 'cause', 'christians', 'commended', 'confirming', 'criticism', 'encourages', 'faced', 'feast', 'for', 'give', 'governor', 'in', 'into', 'it', 'jesus', 'john', 'knew', 'law', 'life', 'love', 'may', 'miracle', 'not', 'of', 'others', 'participated', 'paul', 'power', 'servants', 'served', 'sin', 'social', 'source', 'stumble', 'tasting', 'taught', 'that', 'the', 'time', 'to', 'turned', 'unlike', 'up', 'water', 'wedding', 'who', 'willingly', 'wine']
+- ChatGPT injected words (significant words only) (37):
+	['authenticity', 'baptist', 'bridegroom', 'cause', 'christians', 'commended', 'confirming', 'criticism', 'encourages', 'faced', 'feast', 'governor', 'jesus', 'john', 'knew', 'law', 'life', 'love', 'miracle', 'participated', 'paul', 'power', 'servants', 'served', 'sin', 'social', 'source', 'stumble', 'tasting', 'taught', 'time', 'turned', 'unlike', 'water', 'wedding', 'willingly', 'wine']
 
 ### Logs
-- Attempt 1 BHT: The tablemaster, unlike the servants, was unaware of the miracle that had taken place, remaining ignorant of the source of the wine. While Jesus engaged in the social life of his time, his actions should not be interpreted as a blanket endorsement of modern-day alcohol consumption. Rather, the law of love teaches Christians to be willing to sacrifice personal liberties for the sake of their brothers and sisters. It is evident that there was no collusion between Jesus and any of the individuals involved in the feast, as demonstrated by the impartial judgment of the tablemaster. The water used for the miracle transformed into wine, completely changing its properties and characteristics. Ultimately, the governor of the feast called the bridegroom to him, highlighting the role of the bridegroom in overseeing and orchestrating the event.
-- 🔄 John 2:9 (attempt 1, 135 words, 33.33% quotes quality score: 1.289890865981512, V2 normalized quality score: 34.23, commentator tiers 1-3: 24.53%, 36.93%, 38.54%) 
+- Attempt 1 BHT: The servants at the wedding knew that the wine they served had once been water, but they were unaware of the power that had transformed it. Unlike John the Baptist, Jesus participated in the social life of the time, even though he was criticized for it. The law of love, as taught by Paul, encourages Christians to give up anything that may cause others to stumble into sin. The governor of the feast, who tasted the wine, called the bridegroom to commend him. The whole company at the wedding witnessed the transformation of the water into wine and knew that there was no trickery involved.
+- 🔄 John 2:9 (attempt 1, 105 words, 45.71% quotes quality score: 1.4587962045953873, V2 normalized quality score: 39.85, commentator tiers 1-3: 25.5%, 28.6%, 45.9%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The tablemaster remained unaware of the miracle, while the servants knew the source of the water-turned-wine. While Jesus participated in social life, this does not equate to approval of modern liquor trade. Love's law teaches Christians to willingly give up stumbling blocks for others. The impartial judgment of the tablemaster showed no collusion between Jesus and those at the feast. The water's transformation into wine indicates a complete change in properties. The governor of the feast called the bridegroom, demonstrating the bridegroom's role in arranging the event.
-- 🔄 John 2:9 (attempt 2, 92 words, 30.16% quotes quality score: 1.2354115315043979, V2 normalized quality score: 32.42, commentator tiers 1-3: 23.8%, 33.71%, 42.49%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The servants who drew the water at the wedding knew its source but not the power that transformed it into wine. Jesus, unlike John the Baptist, engaged in social activity, even at the risk of criticism. The law of love as taught by Paul encourages believers to willingly give up stumbling blocks. The governor of the feast, after tasting the wine, praised the bridegroom. The partygoers witnessed the water turning into wine, confirming there was no deception involved.
+- 🔄 John 2:9 (attempt 2, 78 words, 35.59% quotes quality score: 1.4333046769189122, V2 normalized quality score: 39.0, commentator tiers 1-3: 28.06%, 29.66%, 42.28%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The servants at the wedding were aware of the water's origin but not of the transformative power that changed it into wine. Jesus, in contrast to John the Baptist, immersed himself in social life despite facing criticism. The law of love, as explained by Paul, encourages believers to willingly relinquish whatever may cause others to stumble. The governor of the feast called the bridegroom after tasting the wine, and the guests witnessed the miraculous conversion of water to wine, assuring them that no deceit was involved.
+- 🔄 John 2:9 (attempt 3, 87 words, 34.38% quotes quality score: 1.4146090862443326, V2 normalized quality score: 38.38, commentator tiers 1-3: 29.6%, 26.81%, 43.59%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The tablemaster was unaware of the miracle, whereas the servants knew the source of the water-turned-wine. Jesus's social engagement does not endorse the modern liquor trade's harmful effects. Love's law requires Christians to willingly give up stumbling blocks. The impartial judgment of the tablemaster reveals no collusion with Jesus. The water's transformation into wine implies a complete change in properties. The governor of the feast summoned the bridegroom, highlighting his role in the event's arrangements.
-- 🔄 John 2:9 (attempt 3, 82 words, 25.86% quotes quality score: 1.216266343903074, V2 normalized quality score: 31.78, commentator tiers 1-3: 24.33%, 36.58%, 39.09%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The servants who served the wine at the wedding were aware that it had once been water, but they did not know the power that had transformed it. Jesus, in contrast to John the Baptist, embraced social interaction, despite facing criticism for it. The law of love, as taught by Paul, urges Christians to willingly forgo anything that might cause others to stumble. The governor of the feast commended the bridegroom after tasting the wine, confirming the genuineness of the miracle.
+- 🔄 John 2:9 (attempt 4, 81 words, 38.33% quotes quality score: 1.3925267843471203, V2 normalized quality score: 37.64, commentator tiers 1-3: 28.53%, 27.29%, 44.18%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The tablemaster remained unaware of the miracle, while the servants knew the source of the water-turned-wine. Jesus's involvement in social life does not imply approval of the modern liquor trade's destructive influence. Love's law calls on Christians to willingly relinquish stumbling blocks. The impartial judgment of the tablemaster indicates no secret collaboration with Jesus took place. The water's transformation into wine denotes a complete change of properties. The governor of the feast summoned the bridegroom, underscoring his role in the event's coordination.
-- 🔄 John 2:9 (attempt 4, 89 words, 20.63% quotes quality score: 1.1618355977598354, V2 normalized quality score: 29.97, commentator tiers 1-3: 25.69%, 33.17%, 41.14%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The servants who served the wine at the wedding knew the source of the water but not the power that turned it into wine. Unlike John the Baptist, Jesus participated in the social life of the time and faced criticism for it. The law of love, as taught by Paul, encourages Christians to willingly give up anything that may cause others to stumble into sin. The governor of the feast commended the bridegroom after tasting the wine, confirming the authenticity of the miracle.
+- 🔄 John 2:9 (attempt 5, 83 words, 36.21% quotes quality score: 1.4576635438243262, V2 normalized quality score: 39.81, commentator tiers 1-3: 29.98%, 27.86%, 42.15%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The tablemaster, unaware of the miracle, contrasted with the servants who knew the source of the water-turned-wine. Jesus's participation in social life does not endorse the modern liquor trade's detrimental impacts. The law of love compels Christians to willingly sacrifice stumbling blocks. The tablemaster's impartial judgment indicated the absence of collusion between Jesus and the feast attendees. The water's transformation into wine demonstrated a complete alteration of its properties. The governor of the feast summoned the bridegroom, highlighting his responsibility for the event's organization and management.
-- 🔄 John 2:9 (attempt 5, 93 words, 23.44% quotes quality score: 1.1781662535140638, V2 normalized quality score: 30.52, commentator tiers 1-3: 22.97%, 36.27%, 40.75%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 2:9 bht prompt v0.8 (92 words, 30.16% quotes)
-- quality score: 1.2354115315043979, V2 normalized quality score: 32.42, commentator tiers 1-3: 23.8%, 33.71%, 42.49%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ John 2:9 bht prompt v0.8 (83 words, 36.21% quotes)
+- quality score: 1.4576635438243262, V2 normalized quality score: 39.81, commentator tiers 1-3: 29.98%, 27.86%, 42.15%)

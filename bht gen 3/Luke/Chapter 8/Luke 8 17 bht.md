@@ -1,7 +1,7 @@
 # Luke 8:17 Commentary Help Text
 
 ## BHT:
-Nothing will stay concealed or hidden without eventually being made known and manifest. Whether it is whispered in secret or kept hidden, it will eventually be proclaimed openly. There is no point in trying to keep things hidden for long, as the truth will always come to light. This serves as a reminder that everything will be revealed and known. It is a call to live with honesty and integrity, knowing that secrets cannot be hidden forever.
+Nothing is secret that shall not be made manifest. Whatever was then wrapped up in parables and dark sayings will be made known to others hereafter. Nothing can remain concealed indefinitely, as everything hidden will eventually be brought to light and made known. With this understanding, it is imperative not to try to conceal anything, as nothing can be hidden for long. Strive to live in transparency, for all secrets will be revealed.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -16,12 +16,12 @@ Nothing will stay concealed or hidden without eventually being made known and ma
 ### Archibald T. Robertson:
 1. "That shall not be known." 
 2. "Peculiar to Luke." 
-3. "See on Mark 4:22 for discussion of κρυπτον and αποκρυφον."
+3. "The strong double negative ου μη."
 
 ### John Gill:
-1. "For nothing is secret that shall not be made manifest." 
-2. "Neither any thing hid, that shall not be made known, and come abroad." 
-3. "What had been whispered to them, in the most secret and silent manner, was to come abroad not only in Judea, but in all the world, and to be published upon the house tops."
+1. "Whatever was then wrapped up in parables and dark sayings...should be made manifest by them to others hereafter." 
+2. "...what had been whispered to them, in the most secret and silent manner, was to come abroad not only in Judea, but in all the world, and to be published upon the house tops."
+3. "...nothing is secret that shall not be made manifest...neither anything hid, that shall not be made known, and come abroad."
 
 ### John Wesley:
 1. For nothing is hid — Strive not to conceal it at all; for you can conceal nothing long. Matthew 10:26; Mark 4:22; Luke 12:2.
@@ -30,37 +30,33 @@ Nothing will stay concealed or hidden without eventually being made known and ma
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:28
+- Timestamp: 12-25-2023 20:33:04
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
+- BHT Word Count: 73
 - BHT Commentary Usage: 50.0%
-- BHT Quality Score: 1.2708784328004188
+- BHT Quality Score: 1.3989784460063275
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'always', 'and', 'as', 'be', 'being', 'call', 'cannot', 'come', 'concealed', 'eventually', 'everything', 'for', 'forever', 'hidden', 'honesty', 'in', 'integrity', 'is', 'it', 'keep', 'kept', 'knowing', 'known', 'light', 'live', 'long', 'made', 'manifest', 'no', 'nothing', 'openly', 'or', 'point', 'proclaimed', 'reminder', 'revealed', 'secret', 'secrets', 'serves', 'stay', 'that', 'the', 'there', 'things', 'this', 'to', 'truth', 'trying', 'whether', 'whispered', 'will', 'with', 'without']
-- ChatGPT injected words (significant words only) (27):
-	['come', 'concealed', 'eventually', 'forever', 'hidden', 'honesty', 'integrity', 'kept', 'knowing', 'known', 'light', 'live', 'long', 'manifest', 'openly', 'point', 'proclaimed', 'reminder', 'revealed', 'secret', 'secrets', 'serves', 'stay', 'things', 'truth', 'trying', 'whispered']
+- ChatGPT injected words (50):
+	['all', 'and', 'anything', 'as', 'be', 'brought', 'can', 'conceal', 'concealed', 'dark', 'eventually', 'everything', 'for', 'hereafter', 'hidden', 'imperative', 'in', 'indefinitely', 'is', 'it', 'known', 'light', 'live', 'long', 'made', 'manifest', 'not', 'nothing', 'others', 'parables', 'remain', 'revealed', 'sayings', 'secret', 'secrets', 'shall', 'strive', 'that', 'then', 'this', 'to', 'transparency', 'try', 'understanding', 'up', 'was', 'whatever', 'will', 'with', 'wrapped']
+- ChatGPT injected words (significant words only) (25):
+	['brought', 'conceal', 'concealed', 'dark', 'eventually', 'hidden', 'imperative', 'indefinitely', 'known', 'light', 'live', 'long', 'manifest', 'parables', 'remain', 'revealed', 'sayings', 'secret', 'secrets', 'shall', 'strive', 'transparency', 'try', 'understanding', 'wrapped']
 
 ### Logs
-- Attempt 1 BHT: Nothing can remain hidden forever, for eventually everything that is concealed will be brought to light. The truth cannot be suppressed indefinitely, as even the most secret and whispered rumors will be proclaimed openly for all to hear. There is no point in trying to hide or keep something hidden, for it will inevitably be known and made manifest. This warning serves as a reminder that all will be revealed, and one should strive to live with integrity and honesty.
-- 🔄 Luke 8:17 (attempt 1, 80 words, 49.15% quotes quality score: 1.2706737664606922, V2 normalized quality score: 33.59, commentator tiers 1-3: 27.24%, 0.0%, 72.76%) 
+- Attempt 1 BHT: Whatever was previously hidden and concealed in parables and secret teachings will eventually be revealed and made known to all. Nothing that is currently kept secret will stay hidden forever, as it will eventually be brought to light and made manifest. This truth, that nothing can remain secret, is emphasized by the double negative used in the original Greek. Therefore, it is important to strive not to conceal anything, as eventually, all secrets will be exposed.
+- 🔄 Luke 8:17 (attempt 1, 76 words, 44.0% quotes quality score: 1.4905498880863233, V2 normalized quality score: 40.9, commentator tiers 1-3: 30.62%, 0.0%, 69.38%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Nothing is secret that shall not be made manifest. Neither anything hid will remain unknown, for what has been whispered in secrecy will be proclaimed openly. The truth cannot be concealed indefinitely and will eventually come to light. It serves as a reminder that all things will be revealed, and nothing can remain hidden forever. Therefore, it is important to live with integrity and honesty, knowing that the truth will always prevail.
-- 🔄 Luke 8:17 (attempt 2, 72 words, 48.15% quotes quality score: 1.3825085976955969, V2 normalized quality score: 37.31, commentator tiers 1-3: 30.1%, 0.0%, 69.9%) 
+- Attempt 2 BHT: Nothing that is currently kept secret will stay hidden forever, as it will eventually be brought to light and made manifest. This truth, that nothing can remain secret, is emphasized by the double negative used in the original Greek. Therefore, it is important to strive not to conceal anything, as eventually, all secrets will be exposed.
+- 🔄 Luke 8:17 (attempt 2, 56 words, 47.62% quotes quality score: 1.480883030927247, V2 normalized quality score: 40.58, commentator tiers 1-3: 32.18%, 0.0%, 67.82%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Nothing will stay concealed or hidden without eventually being made known and manifest. Whether it is whispered in secret or kept hidden, it will eventually be proclaimed openly. There is no point in trying to keep things hidden for long, as the truth will always come to light. This serves as a reminder that everything will be revealed and known. It is a call to live with honesty and integrity, knowing that secrets cannot be hidden forever.
-- 🔄 Luke 8:17 (attempt 3, 77 words, 50.0% quotes quality score: 1.2708784328004188, V2 normalized quality score: 33.6, commentator tiers 1-3: 27.24%, 0.0%, 72.76%)
-- Attempt 4 BHT: Nothing can remain hidden forever, for what is secret will eventually be made manifest. This truth is emphasized in Luke 8:17, as well as in parallel passages such as Mark 4:22. Even things that are whispered or hidden away will ultimately be brought into the light and made known to all. Therefore, there is no use in trying to conceal anything, for nothing can remain hidden indefinitely. It is a reminder to be truthful and transparent, knowing that God sees and knows all things, and His truth will ultimately prevail.
-- 🔄 Luke 8:17 (attempt 4, 88 words, 48.33% quotes quality score: 1.3724000391719215, V2 normalized quality score: 36.98, commentator tiers 1-3: 33.95%, 0.0%, 66.05%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Nothing can remain hidden forever, for what is secret will eventually be made manifest. This truth is emphasized in the verse, as well as in parallel passages. Even things that are whispered or hidden away will ultimately be brought into the light and made known to all. Therefore, there is no use in trying to conceal anything, for nothing can remain hidden indefinitely. It is a reminder to be truthful and transparent, knowing that God sees and knows all things, and His truth will ultimately prevail.
-- 🔄 Luke 8:17 (attempt 5, 86 words, 48.28% quotes quality score: 1.2754365021963903, V2 normalized quality score: 33.75, commentator tiers 1-3: 31.74%, 0.0%, 68.26%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Luke 8:17 bht prompt v0.8 (77 words, 50.0% quotes)
-- quality score: 1.2708784328004188, V2 normalized quality score: 33.6, commentator tiers 1-3: 27.24%, 0.0%, 72.76%)
+- Attempt 3 BHT: Nothing is secret that shall not be made manifest. Whatever was then wrapped up in parables and dark sayings will be made known to others hereafter. Nothing can remain concealed indefinitely, as everything hidden will eventually be brought to light and made known. With this understanding, it is imperative not to try to conceal anything, as nothing can be hidden for long. Strive to live in transparency, for all secrets will be revealed.
+- 🔄 Luke 8:17 (attempt 3, 73 words, 50.0% quotes quality score: 1.3989784460063275, V2 normalized quality score: 37.86, commentator tiers 1-3: 29.61%, 0.0%, 70.39%)
+- Attempt 4 BHT: Whatever was once concealed in parables and hidden sayings will eventually be made known and declared. Even the most secret and whispered teachings will be published and spread throughout the world. Nothing can remain hidden forever; everything will ultimately come to light and be made manifest. Therefore, strive not to conceal anything, for even the things we think are hidden will eventually be revealed.
+- 🔄 Luke 8:17 (attempt 4, 64 words, 47.83% quotes quality score: 1.3291242314881115, V2 normalized quality score: 35.54, commentator tiers 1-3: 24.93%, 0.0%, 75.07%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Nothing that is hidden will remain undisclosed; everything that is concealed will eventually be brought to light and made known. This includes all teachings that were once communicated through parables or in secret. Even the most covert and whispered information will not escape being proclaimed and spread throughout the world. Therefore, do not attempt to conceal anything, as it is futile to keep secrets for an extended period. Instead, be aware that all hidden matters will eventually be publicly revealed.
+- 🔄 Luke 8:17 (attempt 5, 80 words, 49.18% quotes quality score: 1.3077189002897878, V2 normalized quality score: 34.82, commentator tiers 1-3: 26.65%, 0.0%, 73.35%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 8:17 bht prompt v0.8 (73 words, 50.0% quotes)
+- quality score: 1.3989784460063275, V2 normalized quality score: 37.86, commentator tiers 1-3: 29.61%, 0.0%, 70.39%)

@@ -1,23 +1,23 @@
 # Luke 6:31 Commentary Help Text
 
 ## BHT:
-Treat others as you would like to be treated, for this is the essence of the Golden Rule. By applying this principle, we are called to embody justice and benevolence towards others, reciprocating the care and kindness we would desire for ourselves. This teaching reflects the core values emphasized in both natural and divine laws, serving as a guiding standard for our interactions with others. Additionally, another scripture echoes the same sentiment, reminding us of the significance of treating others in the same manner.
+Treat others as you would like them to treat you. This Golden Rule is a significant principle found in both natural and divine teachings, serving as the essence of the law and prophets. With the use of likewise in Luke's account, it connects to preceding verses and encompasses a general form of precepts. This universal principle emphasizes empathy, kindness, and reciprocity in our interactions with others, echoing the wisdom shared in Matthew's account as well.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
 1. "The Golden Rule is inserted here out of its connection."
 2. "It includes in general form the precepts of Luke 6:29-30, as well as of Luke 6:27-28."
-3. "Some suppose the Golden Rule is inserted here out of its connection, but it includes in general form the precepts of Luke 6:29-30, as well as of Luke 6:27-28."
+3. "Some suppose the Golden Rule is inserted here out of its connection."
 
 ### Archibald T. Robertson:
-1. "As ye would (καθως θελετε)."
+1. "As ye would (καθως θελετε)." 
 2. "Luke has 'likewise' (ομοιως) where Matthew has ουτως."
 3. "See on Matthew for discussion of the saying."
 
 ### John Gill:
-1. "A golden rule this, agreeably to the light of nature, and divine revelation, and is the sum and substance of the law and prophets;"
-2. "In matters of justice and beneficence were they in your case, and you in theirs;"
-3. "Do ye also to them likewise"
+1. "And as ye would that men should do to you,.... In matters of justice and beneficence were they in your case, and you in theirs;"
+2. "do ye also to them likewise: a golden rule this, agreeably to the light of nature, and divine revelation,"
+3. "and is the sum and substance of the law and prophets;"
 
 ### John Wesley:
 1.  Matthew 7:12.
@@ -26,40 +26,43 @@ Treat others as you would like to be treated, for this is the essence of the Gol
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:15:46
+- Timestamp: 12-25-2023 20:33:04
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 40.98%
-- BHT Quality Score: 0.9748073925261587
+- BHT Word Count: 77
+- BHT Commentary Usage: 33.33%
+- BHT Quality Score: 1.1918891082054768
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'additionally', 'and', 'another', 'applying', 'are', 'as', 'be', 'benevolence', 'both', 'by', 'called', 'care', 'core', 'desire', 'divine', 'echoes', 'embody', 'emphasized', 'essence', 'for', 'golden', 'guiding', 'in', 'interactions', 'is', 'justice', 'kindness', 'laws', 'like', 'manner', 'natural', 'of', 'others', 'our', 'ourselves', 'principle', 'reciprocating', 'reflects', 'reminding', 'rule', 'same', 'scripture', 'sentiment', 'serving', 'significance', 'standard', 'teaching', 'the', 'this', 'to', 'towards', 'treat', 'treated', 'treating', 'us', 'values', 'we', 'with', 'would', 'you']
+- ChatGPT injected words (54):
+	['a', 'account', 'and', 'as', 'both', 'connects', 'divine', 'echoing', 'empathy', 'emphasizes', 'encompasses', 'essence', 'form', 'found', 'general', 'golden', 'in', 'interactions', 'is', 'it', 'kindness', 'law', 'like', 'likewise', 'luke', 'matthew', 'natural', 'of', 'others', 'our', 'preceding', 'precepts', 'principle', 'prophets', 'reciprocity', 'rule', 's', 'serving', 'shared', 'significant', 'teachings', 'the', 'them', 'this', 'to', 'treat', 'universal', 'use', 'verses', 'well', 'wisdom', 'with', 'would', 'you']
 - ChatGPT injected words (significant words only) (36):
-	['additionally', 'applying', 'benevolence', 'called', 'care', 'core', 'desire', 'divine', 'echoes', 'embody', 'emphasized', 'essence', 'golden', 'guiding', 'interactions', 'justice', 'kindness', 'laws', 'like', 'manner', 'natural', 'principle', 'reciprocating', 'reflects', 'reminding', 'rule', 'scripture', 'sentiment', 'serving', 'significance', 'standard', 'teaching', 'treat', 'treated', 'treating', 'values']
+	['account', 'connects', 'divine', 'echoing', 'empathy', 'emphasizes', 'encompasses', 'essence', 'form', 'found', 'general', 'golden', 'interactions', 'kindness', 'law', 'like', 'likewise', 'luke', 'matthew', 'natural', 'preceding', 'precepts', 'principle', 'prophets', 'reciprocity', 'rule', 's', 'serving', 'shared', 'significant', 'teachings', 'treat', 'universal', 'use', 'verses', 'wisdom']
 
 ### Logs
-- Attempt 1 BHT: Treat others as you would like to be treated. This teaching, known as the Golden Rule, is found in Luke 6:31. The emphasis on likewise in Luke's account reflects the idea of reciprocity and mutual respect. It is important to note that this saying is not isolated, but rather encompasses the broader principles outlined in the surrounding verses. The Golden Rule is a guiding principle that encapsulates the essence of both natural and divine laws, as well as the teachings of the law and the prophets. Ultimately, it calls for justice, benevolence, and treating others with the same kindness that we would expect for ourselves. This teaching is also found in Matthew 7:12.
-- 🔄 Luke 6:31 (attempt 1, 112 words, 36.99% quotes quality score: 1.2697794050897804, V2 normalized quality score: 33.56, commentator tiers 1-3: 23.16%, 46.39%, 30.45%) 
+- Attempt 1 BHT: Treat others exactly how you would want to be treated. This Golden Rule is emphasized in Luke 6:31, as the verse states, As ye would. It is important to note that Luke uses likewise instead of thus like in Matthew's version of the saying. This teaching encompasses the preceding verses in Luke 6:29-30 and also includes what is mentioned in Luke 6:27-28. It is believed by some that the Golden Rule is inserted here to provide a general form of the precepts. Ultimately, this rule encapsulates the essence of the law and prophets, as it is a fundamental principle of both natural and divine understanding, echoing the sentiment expressed in Matthew 7:12.
+- 🔄 Luke 6:31 (attempt 1, 109 words, 33.33% quotes quality score: 1.541344804505679, V2 normalized quality score: 42.59, commentator tiers 1-3: 26.54%, 45.61%, 27.85%) 
 	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Treat others as you would want them to treat you. This Golden Rule is highlighted in the various commentaries, affirming that it is a fundamental principle derived from both natural understanding and divine revelation, capturing the essence of the law and prophets. The use of likewise instead of thus in Luke's account suggests its connection to preceding verses, encompassing a general form of precepts. This universal principle emphasizes the importance of empathy and kindness in our interactions with others, reflecting the teachings of both Matthew and Luke.
+- 🔄 Luke 6:31 (attempt 2, 88 words, 34.92% quotes quality score: 1.2911352114340378, V2 normalized quality score: 34.27, commentator tiers 1-3: 25.32%, 43.79%, 30.89%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Treat others as you would like them to treat you. This Golden Rule is a significant principle found in both natural and divine teachings, serving as the essence of the law and prophets. With the use of likewise in Luke's account, it connects to preceding verses and encompasses a general form of precepts. This universal principle emphasizes empathy, kindness, and reciprocity in our interactions with others, echoing the wisdom shared in Matthew's account as well.
+- 🔄 Luke 6:31 (attempt 3, 77 words, 33.33% quotes quality score: 1.1918891082054768, V2 normalized quality score: 30.97, commentator tiers 1-3: 22.91%, 45.22%, 31.88%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Treat others as you would like to be treated. This teaching, known as the Golden Rule, is a golden standard that encompasses the principles of justice and beneficence. It reflects both natural and divine laws, summarizing the essence of the law and the prophets. By applying this rule, we are called to extend justice and kindness to others, both in matters of reciprocity and in general acts of goodness. This principle is further reinforced in another scripture passage.
-- 🔄 Luke 6:31 (attempt 2, 78 words, 38.89% quotes quality score: 1.0181808228980562, V2 normalized quality score: 25.2, commentator tiers 1-3: 15.48%, 49.74%, 34.78%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Treat others as you would like to be treated, for this is the essence of the Golden Rule. By applying this principle, we are called to embody justice and benevolence towards others, reciprocating the care and kindness we would desire for ourselves. This teaching reflects the core values emphasized in both natural and divine laws, serving as a guiding standard for our interactions with others. Additionally, another scripture echoes the same sentiment, reminding us of the significance of treating others in the same manner.
-- 🔄 Luke 6:31 (attempt 3, 84 words, 40.98% quotes quality score: 0.9748073925261587, V2 normalized quality score: 23.76, commentator tiers 1-3: 18.33%, 46.5%, 35.17%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As ye would. Luke's account of the Golden Rule emphasizes reciprocity and mutual respect. This timeless teaching calls for treating others as we would like to be treated. It encompasses the principles of justice and benevolence, reflecting both natural and divine laws. This rule serves as a guiding standard for how we should interact with others, embodying the essence of the law and the prophets. It reminds us to extend kindness and fairness to others, for it is in doing so that we truly live out this golden rule.
-- 🔄 Luke 6:31 (attempt 4, 90 words, 38.71% quotes quality score: 1.028972550432124, V2 normalized quality score: 25.56, commentator tiers 1-3: 19.64%, 47.99%, 32.37%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: Treat others as you would want them to treat you, following the Golden Rule. This principle, rooted in both natural and divine understanding, encapsulates the essence of the law and prophets. Luke's use of likewise indicates its connection to prior verses, representing a general expression of precepts. By embracing empathy, kindness, and reciprocity in our interactions, we reflect the teachings echoed in Matthew's scriptures.
+- 🔄 Luke 6:31 (attempt 4, 66 words, 32.08% quotes quality score: 1.1782121794977949, V2 normalized quality score: 30.52, commentator tiers 1-3: 20.97%, 44.69%, 34.34%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Treating others as we would like to be treated is the essence of the Golden Rule. This principle emphasizes reciprocity and mutual respect. It is a guiding standard for how we should interact with others, embodying justice and benevolence. This teaching reflects both natural and divine laws and encompasses the principles outlined in the surrounding verses. By extending kindness and fairness to others, we live out this golden standard that is relevant across cultures and time.
-- 🔄 Luke 6:31 (attempt 5, 76 words, 40.35% quotes quality score: 0.9278103565381213, V2 normalized quality score: 22.19, commentator tiers 1-3: 13.97%, 53.67%, 32.35%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 6:31 bht prompt v0.8 (84 words, 40.98% quotes)
-- quality score: 0.9748073925261587, V2 normalized quality score: 23.76, commentator tiers 1-3: 18.33%, 46.5%, 35.17%)
+- Attempt 5 BHT: Treat others as you would want them to treat you. This Golden Rule is a universal principle derived from both natural and divine revelation, encapsulating the core of the law and prophets. Luke's use of likewise links it to preceding verses, encompassing general precepts. It emphasizes the importance of empathy and kindness in our interactions, mirroring the teachings found in Matthew. By practicing this principle, we embody a fundamental truth that transcends religious and cultural boundaries.
+- 🔄 Luke 6:31 (attempt 5, 77 words, 32.79% quotes quality score: 1.1380486952740758, V2 normalized quality score: 29.18, commentator tiers 1-3: 20.99%, 46.02%, 32.99%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 6:31 bht prompt v0.8 (77 words, 33.33% quotes)
+- quality score: 1.1918891082054768, V2 normalized quality score: 30.97, commentator tiers 1-3: 22.91%, 45.22%, 31.88%)

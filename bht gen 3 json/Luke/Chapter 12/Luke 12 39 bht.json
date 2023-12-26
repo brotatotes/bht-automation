@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 16:19:01",
+    "timestamp": "12-25-2023 20:33:33",
     "verseRef": "Luke 12:39",
     "bestBHT": {
-        "bht": "In the analogy given, Jesus likens His coming to that of a thief, underscoring the unexpected nature of His arrival and the necessity of constant watchfulness. The servants mentioned in the analogy symbolize those entrusted with the Lord's house and household collectively. Loins girded signifies being prepared and ready for action. The comparison to a thief emphasizes the need for unwavering vigilance, as the owner of the house would have been watchful to prevent his house from being broken into if he had known the hour of the thief's arrival.",
-        "wordCount": 92,
-        "quoteTokenProportion": 35.0,
-        "qualityScore": 1.4872088879323102,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+        "bht": "Christ compares His return to that of a thief coming unexpectedly and urges His followers to be in readiness and watchful. The relationship between the master of the house and the thief serves as a metaphor for the anticipation of His arrival. Just as a homeowner would be cautious and prepared for a thief, believers are called to be alert and vigilant. This parable emphasizes the necessity of constant readiness for the second coming of Christ, ensuring that we are not caught off guard.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.6119806576697195,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.94,
         "commentatorTierSimilarities": [
-            26.25,
-            25.72,
-            48.03
+            25.81,
+            31.38,
+            42.8
         ],
         "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Nothing can be more exact and rigid than the connexion as it now stands.",
             "Our Lord transfers, to shew the unexpected nature of his coming, and the necessity of watchfulness, the relation between Himself and the servants, to that between the thief and the master of the house.",
-            "For the purposes of this verse, they represent the master of the house\u2014collectively, as put in charge with the Lord\u2019s house and household."
+            "For the purposes of this verse, they represent the master of the house\u2014collectively, as put in charge with the Lord\u2019s house and household.",
+            "He is represented by the thief\u2014Rev. xvi. 15; iii. 3."
         ],
         "Jamieson-Fausset-Brown": [
-            "loins . . . girded\u2014to fasten up the long outer garment, always done before travel and work (2 Kings 4:29; Acts 12:8). The meaning is, Be in readiness.",
-            "lights, &amp;c.\u2014(See on Acts 12:8- :).",
-            "Be in readiness."
+            "Be in readiness.",
+            "loins . . . girded\u2014to fasten up the long outer garment, always done before travel and work.",
+            "lights, &amp;c.\u2014(See on Acts 12:8- :)."
         ],
         "Marvin Vincent": [
             "What hour [\u03c0\u03bf\u03b9\u03b1 \u03c9\u03c1\u03b1] . See on Matthew 24:42. ",
@@ -35,14 +35,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "The Master returning from a wedding is replaced by a thief whose study it is to come to the house he means to plunder at an unexpected time.",
-            "Apodosis of second-class condition, determined as unfulfilled, made plain by use of \u03b1\u03bd with aorist indicative.",
-            "He would have watched, though he did not allow."
+            "The Master returning from a wedding is replaced by a thief whose study it is to come to the house he means to plunder at an unexpected time\" (Bruce).",
+            "He would have watched (\u03b5\u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03b7\u03c3\u03b5\u03bd \u03b1\u03bd). Apodosis of second-class condition, determined as unfulfilled\" (Commentary).",
+            "The parallel in Matthew 24:43-51 with Luke 12:39-46 does not have the interruption by Peter\" (Commentary)."
         ],
         "John Gill": [
-            "That if the good man of the house had known what hour the thief would come... he would have watched and not have suffered his house to be broken through.\" ",
-            "And so in like manner, could it be known in what time Christ would come... every thoughtful, prudent man that should know it, would be upon his guard.",
-            "Though the precise time could not be known, yet inasmuch as the thing itself is certain, it became all the servants of Christ to be watching for it."
+            "Only take notice of this one thing, and it may be of some use to direct you in your conduct how to behave during the absence of your Lord, until the time he shall come again.",
+            "If the owner, or master of the house, whose the goods in the house are, could by any means know what time of the night the thief would come to break into his house, in order to plunder it, and carry off his goods...",
+            "Every thoughtful, prudent man that should know it, would be upon his guard, that he might not be surprised with it; and though the precise time could not be known, yet inasmuch as the thing itself is certain, it became all the servants of Christ to be watching for it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -62,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The connection in Luke 12:39 is exact and rigid, as our Lord uses the relation between Himself and servants to describe the unexpected nature of His coming and the necessity of watchfulness. The servants here represent the master of the house, emphasizing the collective responsibility of being in charge. The phrase loins girded signifies being in readiness before travel or work. Just as the thief comes at an unexpected time to plunder, the Master's return from a wedding is unexpected. If the good man of the house had known when the thief would come, he would have watched and not allowed his house to be broken through, which illustrates the need for vigilance.",
-            "wordCount": 113,
-            "quoteTokenProportion": 40.79,
-            "qualityScore": 1.4850142644718314,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "bht": "The verse reminds us of the unexpected nature of Christ's return and the necessity of watchfulness. The relationship between the servants and the master of the house is likened to that of a thief and the owner. It emphasizes the need for readiness and preparedness, with one's loins girded and lights burning. Just as a master would be on guard against a thief breaking into his house, every servant of Christ should be watchful and alert for His return. It is a call to be vigilant and not be caught unaware when He comes again.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.5593810493213989,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
             "commentatorTierSimilarities": [
-                27.42,
-                25.13,
-                47.45
+                25.84,
+                27.24,
+                46.92
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In Luke 12:39, Jesus compares His coming to that of a thief, emphasizing the unexpected nature of His return and the need for constant watchfulness. The servants mentioned in the verse symbolize those entrusted with the Lord's house and household. In order to be ready, they are instructed to have their loins girded, which was a practice done before travel or work. The image of the thief underscores the importance of remaining vigilant, as the master of the house would have watched if he had known.",
-            "wordCount": 86,
-            "quoteTokenProportion": 41.27,
-            "qualityScore": 1.6143472185102368,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "bht": "The unexpected nature of Christ's return is highlighted through the analogy of a thief and the master of the house. It underlines the importance of being prepared and watchful, with loins girded and lights burning. Just as a house owner would be on guard against a thief, followers of Christ are urged to be vigilant and alert for His coming. This serves as a reminder to be ready, so as not to be caught off guard when He returns.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.5837499405652893,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.0,
             "commentatorTierSimilarities": [
-                24.95,
-                28.46,
-                46.59
+                25.23,
+                29.66,
+                45.11
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The connection in this passage is precise and revealing, as Jesus compares Himself to a thief, highlighting the unexpectedness of His coming and the necessity of watchfulness. The servants mentioned here represent those responsible for the Lord's house and the household. The instruction to have their loins girded implies being prepared. The imagery of a thief emphasizes the need for constant vigilance; had the owner known the hour, he would have watched to prevent his house from being broken through.",
-            "wordCount": 81,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.5043842938493088,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "bht": "Christ's return is compared to the arrival of a thief, emphasizing its unexpected nature and the need for readiness. The relationship between the servants and the master of the house is used to illustrate vigilance and watchfulness. Just as a house owner would take precautions against a thief, followers of Christ should be alert, with their loins girded and lights burning. This serves as a reminder to be prepared so as not to be caught off guard when He comes again.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.5516179860526407,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
             "commentatorTierSimilarities": [
-                26.33,
-                24.82,
-                48.85
+                24.34,
+                27.98,
+                47.68
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The connection in this passage is exact and rigid, as Jesus uses the analogy of a thief to describe the unexpectedness of His coming and the importance of watchfulness. The servants referred to here represent those entrusted with the responsibility of the Lord's house and household. The instruction to have their loins girded signifies the need for readiness. The image of a thief underscores the need for constant vigilance, as the owner would have watched if he had known when the thief would come to prevent his house from being broken into.",
-            "wordCount": 93,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.5404530821673965,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "bht": "The analogy of a thief breaking into a house highlights the unexpected nature of Christ's return and the need for constant vigilance. Like a master of the house would be on guard against a thief, followers of Christ are called to be watchful and prepared. This means being ready at all times, with our loins girded and lights burning. The uncertainty of the exact hour should motivate us to actively anticipate His coming, ensuring that we are not caught off guard.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.5227711534686026,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
             "commentatorTierSimilarities": [
-                25.76,
-                27.19,
-                47.05
+                25.68,
+                27.01,
+                47.31
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In the analogy given, Jesus likens His coming to that of a thief, underscoring the unexpected nature of His arrival and the necessity of constant watchfulness. The servants mentioned in the analogy symbolize those entrusted with the Lord's house and household collectively. Loins girded signifies being prepared and ready for action. The comparison to a thief emphasizes the need for unwavering vigilance, as the owner of the house would have been watchful to prevent his house from being broken into if he had known the hour of the thief's arrival.",
-            "wordCount": 92,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.4872088879323102,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+            "bht": "Christ compares His return to that of a thief coming unexpectedly and urges His followers to be in readiness and watchful. The relationship between the master of the house and the thief serves as a metaphor for the anticipation of His arrival. Just as a homeowner would be cautious and prepared for a thief, believers are called to be alert and vigilant. This parable emphasizes the necessity of constant readiness for the second coming of Christ, ensuring that we are not caught off guard.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.6119806576697195,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.94,
             "commentatorTierSimilarities": [
-                26.25,
-                25.72,
-                48.03
+                25.81,
+                31.38,
+                42.8
             ],
             "generationAttempt": 5
         }

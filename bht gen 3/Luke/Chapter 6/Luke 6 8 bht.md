@@ -1,12 +1,13 @@
 # Luke 6:8 Commentary Help Text
 
 ## BHT:
-Jesus, being well aware of the spies' thoughts and intentions, had the ability to read their intellectual processes. He worked openly, where all could see, and as a man stepped forward, there was an obvious moment of excitement. Jesus discerned their insidious designs, even if they were not explicitly expressed in words. He responded not only to their spoken words but also to the unspoken thoughts behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.
+Jesus, being all-knowing, was aware of the spies' thoughts and could read their intellectual processes effortlessly. While they tried to maintain secrecy, Jesus saw their malicious intentions and schemes. He purposefully worked openly and created a moment of excitement when a man stepped forward before everyone. Even though the spies may have spoken candidly, Christ discerned their hidden thoughts and designs. He stood up in the midst of the synagogue and among the people, making himself visible to all.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
-1. "He knew their thoughts - their dark, malicious designs - by the question, which they proposed to him..." 
-2. "...whether it was better to do good than to do evil on that day, implying that to “omit” to do “good” was, in fact, doing 'evil.'"
+1. "He knew their thoughts - their dark, malicious designs..."
+2. "Jesus asked them whether they would not release a 'sheep' on the Sabbath-day if it was fallen into a pit..."
+3. "To 'omit' to do 'good' was, in fact, doing 'evil.'"
 
 ### Marvin Vincent:
 1. He knew [ηδει] . Imperfect. He was all along aware. 
@@ -16,51 +17,52 @@ Thoughts [διαλογισμους] . See on James 2:4; Matthew 14:19.
 ### John Calvin:
 1. "But both may be true, that they spoke plainly, and yet that Christ discerned their secret thoughts."
 2. "Christ was aware of their insidious designs, though not expressed in words."
-3. "Christ replies not to their secret thoughts, but to express words."
 
 ### Archibald T. Robertson:
 1. "Jesus, in contrast to these spies, read their intellectual processes like an open book." 
-2. "Christ worked right out in the open where all could see." 
+2. "Christ worked right out in the open where all could see."
 3. "It was a moment of excitement when the man stepped forth there before them all."
 
 ### John Gill:
-1. "But he knew their thoughts....he knew what they designed." 
-2. "Rise up, and stand forth in the midst."
-3. "He rose up from his seat, and stood up in the midst of the synagogue, and of the people."
+1. "Being the omniscient God; though they had said nothing of their intentions, he knew what they designed."
+2. "He rose up from his seat, and stood up in the midst of the synagogue, and of the people, that he might be seen of all."
+
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:15:38
+- Timestamp: 12-25-2023 20:33:00
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 45.59%
-- BHT Quality Score: 1.326998996268324
+- BHT Word Count: 80
+- BHT Commentary Usage: 39.34%
+- BHT Quality Score: 1.468710601556856
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'ability', 'all', 'also', 'an', 'and', 'as', 'authority', 'aware', 'behind', 'being', 'but', 'called', 'could', 'designs', 'discerned', 'even', 'excitement', 'explicitly', 'expressed', 'forth', 'forward', 'had', 'he', 'if', 'in', 'insidious', 'intellectual', 'intentions', 'jesus', 'making', 'man', 'midst', 'moment', 'not', 'obvious', 'of', 'only', 'openly', 'people', 'powerful', 'processes', 'read', 'responded', 'rise', 'see', 'spies', 'spoken', 'stand', 'statement', 'stepped', 'synagogue', 'the', 'their', 'them', 'there', 'they', 'thoughts', 'to', 'unspoken', 'up', 'was', 'well', 'were', 'where', 'with', 'words', 'worked']
+- ChatGPT injected words (61):
+	['a', 'all', 'among', 'and', 'aware', 'before', 'being', 'candidly', 'christ', 'could', 'created', 'designs', 'discerned', 'effortlessly', 'even', 'everyone', 'excitement', 'forward', 'have', 'he', 'hidden', 'himself', 'in', 'intellectual', 'intentions', 'jesus', 'knowing', 'maintain', 'making', 'malicious', 'man', 'may', 'midst', 'moment', 'of', 'openly', 'people', 'processes', 'purposefully', 'read', 'saw', 'schemes', 'secrecy', 'spies', 'spoken', 'stepped', 'stood', 'synagogue', 'the', 'their', 'they', 'though', 'thoughts', 'to', 'tried', 'up', 'visible', 'was', 'when', 'while', 'worked']
 - ChatGPT injected words (significant words only) (37):
-	['ability', 'authority', 'aware', 'called', 'designs', 'discerned', 'excitement', 'explicitly', 'expressed', 'forth', 'forward', 'insidious', 'intellectual', 'intentions', 'jesus', 'making', 'man', 'midst', 'moment', 'obvious', 'openly', 'people', 'powerful', 'processes', 'read', 'responded', 'rise', 'spies', 'spoken', 'stand', 'statement', 'stepped', 'synagogue', 'thoughts', 'unspoken', 'words', 'worked']
+	['aware', 'candidly', 'christ', 'created', 'designs', 'discerned', 'effortlessly', 'excitement', 'forward', 'hidden', 'intellectual', 'intentions', 'jesus', 'knowing', 'maintain', 'making', 'malicious', 'man', 'midst', 'moment', 'openly', 'people', 'processes', 'purposefully', 'read', 'saw', 'schemes', 'secrecy', 'spies', 'spoken', 'stepped', 'stood', 'synagogue', 'thoughts', 'tried', 'visible', 'worked']
 
 ### Logs
-- Attempt 1 BHT: Jesus, in contrast to those who were watching Him closely, was fully aware of their thoughts and intentions. He had the ability to read their intellectual processes like an open book. As He worked openly in front of everyone, a man stepped forward, creating a moment of excitement. Although the spies' dark designs were not explicitly spoken, Jesus discerned their insidious thoughts. He responded not only to their words but also to the unspoken intent behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.
-- 🔄 Luke 6:8 (attempt 1, 102 words, 37.5% quotes quality score: 1.3486958434270644, V2 normalized quality score: 36.19, commentator tiers 1-3: 31.6%, 33.24%, 35.16%) 
+- Attempt 1 BHT: Jesus, in contrast to the spies who were trying to catch him, knew their thoughts and malicious designs. He was all along aware of their intellectual processes and read them like an open book. Working right out in the open where all could see, Jesus created an exciting moment when a man stepped forth before everyone. Though the spies may have spoken plainly, Christ discerned their secret thoughts and was aware of their insidious designs, even though they had not expressed them in words. Being the omniscient God, Jesus understood what they were planning, and he rose up from his seat to be seen by all in the midst of the synagogue and the people.
+- 🔄 Luke 6:8 (attempt 1, 115 words, 46.84% quotes quality score: 1.574389492098538, V2 normalized quality score: 43.69, commentator tiers 1-3: 28.94%, 29.37%, 41.69%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Jesus, in contrast to the spies who were observing Him, was fully aware of their thoughts and intentions. He had the ability to read their intellectual processes like an open book. Working openly in front of everyone, Jesus's response not only addressed their spoken words but also the unspoken intent behind them. He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.
-- 🔄 Luke 6:8 (attempt 2, 76 words, 39.66% quotes quality score: 1.3146292696468582, V2 normalized quality score: 35.05, commentator tiers 1-3: 30.56%, 32.19%, 37.25%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus, being well aware of the spies' thoughts and intentions, had the ability to read their intellectual processes. He worked openly, where all could see, and as a man stepped forward, there was an obvious moment of excitement. Jesus discerned their insidious designs, even if they were not explicitly expressed in words. He responded not only to their spoken words but also to the unspoken thoughts behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.
-- 🔄 Luke 6:8 (attempt 3, 93 words, 45.59% quotes quality score: 1.326998996268324, V2 normalized quality score: 35.47, commentator tiers 1-3: 29.82%, 30.38%, 39.8%) 
+- Attempt 2 BHT: Jesus, unlike the spies, knew their thoughts and read their intellectual processes with precision. He worked openly, allowing everyone to witness the exciting moment when a man stepped forth. Even though the spies may have spoken plainly, Christ discerned their secret intentions and insidious designs. Being omniscient, Jesus was aware of their plans, even though they had not expressed them in words. He rose from his seat, standing in the midst of the synagogue and people, ensuring that he was seen by all.
+- 🔄 Luke 6:8 (attempt 2, 83 words, 40.0% quotes quality score: 1.430958170639564, V2 normalized quality score: 38.92, commentator tiers 1-3: 27.97%, 26.91%, 45.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus, well aware of the spies' thoughts, could read their intellectual processes. Working openly where all could see, a moment of excitement arose when a man boldly stepped forth. Despite their insidious designs not being voiced, Jesus discerned their intent. His response addressed not only their explicit words but also the unspoken thoughts behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.
-- 🔄 Luke 6:8 (attempt 4, 80 words, 39.34% quotes quality score: 1.2903538534405306, V2 normalized quality score: 34.25, commentator tiers 1-3: 32.53%, 28.75%, 38.72%) 
+- Attempt 3 BHT: Jesus, being all-knowing, was aware of the spies' thoughts and could read their intellectual processes effortlessly. While they tried to maintain secrecy, Jesus saw their malicious intentions and schemes. He purposefully worked openly and created a moment of excitement when a man stepped forward before everyone. Even though the spies may have spoken candidly, Christ discerned their hidden thoughts and designs. He stood up in the midst of the synagogue and among the people, making himself visible to all.
+- 🔄 Luke 6:8 (attempt 3, 80 words, 39.34% quotes quality score: 1.468710601556856, V2 normalized quality score: 40.18, commentator tiers 1-3: 28.58%, 30.02%, 41.4%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus, fully aware of the spies' thoughts and intentions, read their intellectual processes like an open book. Working openly for everyone to see, a man's bold step forward created an exciting moment. Although unexpressed, Jesus discerned their dark and malicious designs. His response went beyond their words, taking into account the unspoken evil behind them. With authority, He called the man to rise up and stand forth, making a powerful statement amidst the synagogue and the people.
-- 🔄 Luke 6:8 (attempt 5, 78 words, 29.69% quotes quality score: 1.3114136517247297, V2 normalized quality score: 34.95, commentator tiers 1-3: 29.28%, 38.26%, 32.47%) 
+- Attempt 4 BHT: Jesus, in stark contrast to the spies, had a deep understanding of their thoughts and was able to easily decipher their intellectual processes. He worked in plain sight, where everyone could witness the thrilling moment when a man boldly stepped forward. Despite the spies speaking openly, Jesus could perceive their hidden motives and sinister plans. Being all-knowing, he rose from his seat, positioned himself in the center of the synagogue, and stood before the people, ensuring that he captured the attention of all who were present.
+- 🔄 Luke 6:8 (attempt 4, 87 words, 35.38% quotes quality score: 1.3392476981644834, V2 normalized quality score: 35.87, commentator tiers 1-3: 31.13%, 29.52%, 39.35%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 6:8 bht prompt v0.8 (93 words, 45.59% quotes)
-- quality score: 1.326998996268324, V2 normalized quality score: 35.47, commentator tiers 1-3: 29.82%, 30.38%, 39.8%)
+- Attempt 5 BHT: Jesus, unlike the spies, knew their thoughts and read their intellectual processes with precision. He worked openly, allowing everyone to witness the exciting moment when a man stepped forth. Even though the spies may have spoken plainly, Christ discerned their secret intentions and insidious designs. Being omniscient, Jesus was aware of their plans, even though they had not expressed them in words. He rose from his seat, standing in the midst of the synagogue and people, ensuring that he was seen by all.
+- 🔄 Luke 6:8 (attempt 5, 83 words, 40.0% quotes quality score: 1.430958170639564, V2 normalized quality score: 38.92, commentator tiers 1-3: 27.97%, 26.91%, 45.11%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 6:8 bht prompt v0.8 (80 words, 39.34% quotes)
+- quality score: 1.468710601556856, V2 normalized quality score: 40.18, commentator tiers 1-3: 28.58%, 30.02%, 41.4%)

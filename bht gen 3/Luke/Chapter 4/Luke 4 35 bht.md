@@ -1,7 +1,7 @@
 # Luke 4:35 Commentary Help Text
 
 ## BHT:
-When Jesus encountered the possessed man, the evil spirits exhibited their power through convulsions and fits. However, Jesus, a physician, carefully noted the absence of bodily harm inflicted on the man. By commanding the spirits to be muzzled, Jesus showcased His authority over them. His ability to subdue the forces of darkness without causing physical injury reveals not only His power but also His compassion for those who suffer under the influence of evil.
+In the face of a man possessed by an unclean spirit, Jesus exercised his authority by rebuking the spirit and commanding it to come out without causing bodily harm. Notably, Luke, a physician, carefully observed this detail and emphasized that Jesus did not injure the man in any way while freeing him from the grip of the spirit. This demonstrates Jesus' compassion and skill in dealing with those tormented by evil spirits, showcasing his ability to confront darkness while preserving physical well-being.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -18,7 +18,7 @@ thrown him, &amp;c.—See
 ### Marvin Vincent:
 1. "Hold thy peace [φιμωθητι] . Lit., be muzzled or gagged." 
 2. "Had thrown [ριψαν] . Used in connection with disease by Luke only, and only here. In medical language, of convulsions, fits, etc." 
-3. "Hurt him not [μηδεν βλαψαν αυτον] . Lit., in no possible way."
+3. "Hurt him not [μηδεν βλαψαν αυτον] . Lit., in no possible way. Mark omits this detail, which a physician would be careful to note."
 
 ### Archibald T. Robertson:
 1. "First aorist (effective) participle of ριπτω, an old verb with violent meaning, to fling, throw, hurl off or down."
@@ -26,44 +26,51 @@ thrown him, &amp;c.—See
 3. "Βλαπτω, to injure, or hurt, occurs in the N.T. only here and in Mark 16:18, though a very common verb in the old Greek."
 
 ### John Gill:
-1. "Saying, hold thy peace, or 'be thou muzzled', as the word signifies."
+1. "Hold thy peace, or 'be thou muzzled', as the word signifies." 
+2. "He came out of him, and hurt him not; though he sadly convulsed him, and put him to great pain, yet he did not wound him in any part of his body, or take away the use of any of his limbs." 
+3. "All which was desired and intended by him, but was hindered by Christ."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:14:57
+- Timestamp: 12-25-2023 20:32:57
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 42.86%
-- BHT Quality Score: 1.3096346569690995
+- BHT Word Count: 83
+- BHT Commentary Usage: 38.71%
+- BHT Quality Score: 1.508141479808569
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['a', 'ability', 'absence', 'also', 'and', 'authority', 'be', 'bodily', 'but', 'by', 'carefully', 'causing', 'commanding', 'compassion', 'convulsions', 'darkness', 'encountered', 'evil', 'exhibited', 'fits', 'for', 'forces', 'harm', 'his', 'however', 'inflicted', 'influence', 'injury', 'jesus', 'man', 'muzzled', 'not', 'noted', 'of', 'on', 'only', 'over', 'physical', 'physician', 'possessed', 'power', 'reveals', 'showcased', 'spirits', 'subdue', 'suffer', 'the', 'their', 'them', 'those', 'through', 'to', 'under', 'when', 'who', 'without']
-- ChatGPT injected words (significant words only) (32):
-	['ability', 'absence', 'authority', 'bodily', 'carefully', 'causing', 'commanding', 'compassion', 'convulsions', 'darkness', 'encountered', 'evil', 'exhibited', 'fits', 'forces', 'harm', 'inflicted', 'influence', 'injury', 'jesus', 'man', 'muzzled', 'noted', 'physical', 'physician', 'possessed', 'power', 'reveals', 'showcased', 'spirits', 'subdue', 'suffer']
+- ChatGPT injected words (62):
+	['a', 'ability', 'an', 'and', 'any', 'authority', 'being', 'bodily', 'by', 'carefully', 'causing', 'come', 'commanding', 'compassion', 'confront', 'darkness', 'dealing', 'demonstrates', 'detail', 'did', 'emphasized', 'evil', 'exercised', 'face', 'freeing', 'from', 'grip', 'harm', 'him', 'his', 'in', 'injure', 'it', 'jesus', 'luke', 'man', 'not', 'notably', 'observed', 'of', 'out', 'physical', 'physician', 'possessed', 'preserving', 'rebuking', 'showcasing', 'skill', 'spirit', 'spirits', 'that', 'the', 'this', 'those', 'to', 'tormented', 'unclean', 'way', 'well', 'while', 'with', 'without']
+- ChatGPT injected words (significant words only) (38):
+	['ability', 'authority', 'bodily', 'carefully', 'causing', 'come', 'commanding', 'compassion', 'confront', 'darkness', 'dealing', 'demonstrates', 'detail', 'emphasized', 'evil', 'exercised', 'face', 'freeing', 'grip', 'harm', 'injure', 'jesus', 'luke', 'man', 'notably', 'observed', 'physical', 'physician', 'possessed', 'preserving', 'rebuking', 'showcasing', 'skill', 'spirit', 'spirits', 'tormented', 'unclean', 'way']
 
 ### Logs
-- Attempt 1 BHT: When Jesus encountered the demon-possessed man, the power of the evil spirits was strong, causing convulsions and fits. However, Jesus rebuked them and commanded them to be muzzled, without causing any bodily harm to the man. Luke, being a physician, attentively notes this detail. The verb thrown emphasizes the violent nature of the convulsions, highlighting the supernatural aspect of the situation. This episode showcases Jesus' authority and power over evil forces, as He commanded the demons to be silent and subdued.
-- 🔄 Luke 4:35 (attempt 1, 82 words, 30.91% quotes quality score: 1.349063351570027, V2 normalized quality score: 36.2, commentator tiers 1-3: 49.94%, 0.0%, 50.06%) 
+- Attempt 1 BHT: When faced with a man possessed by an unclean spirit, Jesus displayed his power and authority by rebuking the spirit and commanding it to come out of the man. The man convulsed and experienced great pain, but Jesus did not physically harm him. Instead, Jesus demonstrated his control over the situation without causing any bodily injury. This detail, carefully noted by Luke as a physician, highlights the compassion and skill of Jesus in dealing with those who are tormented by evil spirits.
+- 🔄 Luke 4:35 (attempt 1, 82 words, 40.32% quotes quality score: 1.4945123193681715, V2 normalized quality score: 41.04, commentator tiers 1-3: 42.7%, 0.0%, 57.3%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: When faced with a man possessed by evil spirits, Jesus demonstrated His authority and power by commanding the spirits to be muzzled. Luke, being a physician, carefully noted that the man experienced convulsions and fits, emphasizing the forcefulness of the supernatural encounter. Jesus's command to hold thy peace showcased His ability to subdue and control the spiritual forces at work without causing any harm to the man. This event highlights Jesus's divine authority over evil and reveals His compassion for those who are oppressed.
-- 🔄 Luke 4:35 (attempt 2, 86 words, 33.33% quotes quality score: 1.3304811962679954, V2 normalized quality score: 35.58, commentator tiers 1-3: 39.56%, 0.0%, 60.44%) 
+- Attempt 2 BHT: When faced with a possessed man, Jesus demonstrated his power and authority by rebuking the unclean spirit and commanding it to come out without inflicting bodily harm. Luke, a physician, carefully noted this important detail, highlighting Jesus' compassion and skill in dealing with those tormented by evil spirits. Despite convulsions and great pain, Jesus showed control over the situation, ensuring that the man's physical well-being was preserved. This momentous event showcases Jesus' ability to confront spiritual darkness while treating those in need with gentleness and care.
+- 🔄 Luke 4:35 (attempt 2, 88 words, 28.57% quotes quality score: 1.4016445850631094, V2 normalized quality score: 37.95, commentator tiers 1-3: 42.76%, 0.0%, 57.24%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: When Jesus encountered the possessed man, the evil spirits exhibited their power through convulsions and fits. However, Jesus, a physician, took note of the absence of bodily harm inflicted on the man. By commanding the spirits to be muzzled, Jesus showed His authority over them. His ability to subdue the forces of darkness without causing physical injury reveals not only His power but also His compassion for those who suffer under the influence of evil.
-- 🔄 Luke 4:35 (attempt 3, 75 words, 42.86% quotes quality score: 1.305051041910123, V2 normalized quality score: 34.74, commentator tiers 1-3: 57.19%, 0.0%, 42.81%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: When Jesus encountered the possessed man, the evil spirits exhibited their power through convulsions and fits. However, Jesus, a physician, carefully noted the absence of bodily harm inflicted on the man. By commanding the spirits to be muzzled, Jesus showcased His authority over them. His ability to subdue the forces of darkness without causing physical injury reveals not only His power but also His compassion for those who suffer under the influence of evil.
-- 🔄 Luke 4:35 (attempt 4, 74 words, 42.86% quotes quality score: 1.3096346569690995, V2 normalized quality score: 34.89, commentator tiers 1-3: 56.82%, 0.0%, 43.18%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: When faced with the possessed man, Jesus demonstrated His authority by commanding the evil spirits to be muzzled. Luke, being a physician, clearly observed that the man experienced convulsions and fits, underscoring the intensity of the supernatural encounter. Jesus’s instruction to hold thy peace showcased His power to subdue the spiritual forces at work without causing harm. This incident highlights Jesus's divine dominion over evil and reflects His compassion for those oppressed.
-- 🔄 Luke 4:35 (attempt 5, 74 words, 30.51% quotes quality score: 1.346147300245603, V2 normalized quality score: 36.1, commentator tiers 1-3: 41.0%, 0.0%, 59.0%) 
+- Attempt 3 BHT: In the presence of a man possessed by an unclean spirit, Jesus exercised his authority by rebuking the spirit and commanding it to come out without causing any bodily harm. Luke, a physician, carefully noted this crucial detail, emphasizing that Jesus did not injure the man in any way while freeing him from the grip of the spirit. Jesus demonstrated both his power over the forces of darkness and his compassion for those who suffered, skillfully navigating the delicate balance between confronting evil and preserving physical well-being.
+- 🔄 Luke 4:35 (attempt 3, 88 words, 41.79% quotes quality score: 1.4944019710516034, V2 normalized quality score: 41.03, commentator tiers 1-3: 44.52%, 0.0%, 55.48%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Luke 4:35 bht prompt v0.8 (74 words, 42.86% quotes)
-- quality score: 1.3096346569690995, V2 normalized quality score: 34.89, commentator tiers 1-3: 56.82%, 0.0%, 43.18%)
+- Attempt 4 BHT: When confronted with a man possessed by an unclean spirit, Jesus, displaying his power and authority, rebuked the spirit without causing any bodily harm. This notable detail, carefully observed by Luke as a physician, highlights the compassion and skill of Jesus in dealing with those tormented by evil spirits. Despite the convulsions and great pain experienced by the man, Jesus maintained control over the situation, ensuring the preservation of his physical well-being. This event serves as a testament to Jesus' ability to confront spiritual darkness while demonstrating care and gentleness towards those in need.
+- 🔄 Luke 4:35 (attempt 4, 95 words, 30.43% quotes quality score: 1.30778296958526, V2 normalized quality score: 34.83, commentator tiers 1-3: 42.38%, 0.0%, 57.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: In the face of a man possessed by an unclean spirit, Jesus exercised his authority by rebuking the spirit and commanding it to come out without causing bodily harm. Notably, Luke, a physician, carefully observed this detail and emphasized that Jesus did not injure the man in any way while freeing him from the grip of the spirit. This demonstrates Jesus' compassion and skill in dealing with those tormented by evil spirits, showcasing his ability to confront darkness while preserving physical well-being.
+- 🔄 Luke 4:35 (attempt 5, 83 words, 38.71% quotes quality score: 1.508141479808569, V2 normalized quality score: 41.49, commentator tiers 1-3: 45.08%, 0.0%, 54.92%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 4:35 bht prompt v0.8 (83 words, 38.71% quotes)
+- quality score: 1.508141479808569, V2 normalized quality score: 41.49, commentator tiers 1-3: 45.08%, 0.0%, 54.92%)

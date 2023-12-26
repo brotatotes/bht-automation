@@ -1,27 +1,27 @@
 {
-    "timestamp": "12-19-2023 23:46:58",
+    "timestamp": "12-25-2023 20:31:56",
     "verseRef": "Matthew 12:23",
     "bestBHT": {
-        "bht": "The people were amazed and almost beside themselves with excitement when they witnessed this remarkable miracle. They asked one another, Is this the Son of David? Can it possibly be? They did not directly assert it for fear of the wrath of the ecclesiastics who were hostile towards Jesus. Nevertheless, they acknowledged the power of God and were led to consider more attentively the glory of Christ. While not all of them profited as much as they should have, they were certainly moved to faith by this extraordinary demonstration of divine power.",
-        "wordCount": 92,
-        "quoteTokenProportion": 50.77,
-        "qualityScore": 1.4823561313721376,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.63,
+        "bht": "The people's astonishment at witnessing this remarkable miracle caused them to question, Is not this the Son of David? In their hearts, they held the belief that Jesus could indeed be the awaited Messiah. Even though they expected a negative answer due to the hostility of the religious leaders, they couldn't deny the power of God displayed through this extraordinary work. This momentary acknowledgement of Christ's glory was a significant step towards faith, as they recognized that Jesus was more than a man - He was the promised Messiah.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.79352679379776,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.98,
         "commentatorTierSimilarities": [
-            33.91,
-            24.36,
-            41.73
+            27.18,
+            26.59,
+            46.23
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "23. Is not this] This, form of question is properly a doubtful denial, involving in fact a surmise in the affirmative. \u2018Surely this is not\u2026?\u2019 the son of David] see ch. ix. 27, and note."
         ],
         "Jamieson-Fausset-Brown": [
-            "Is this the Son of David? Can it possibly be?\" ",
-            "The people thus indicating their secret impression that this must be He; yet saving themselves from the wrath of the ecclesiastics.",
-            "A direct assertion of it [being the Son of David] would have brought wrath upon them."
+            "Is this the Son of David?\"\u2014The people thus indicating their secret impression that this must be He.",
+            "...expect rather a negative answer, the meaning is, 'Can it possibly be?'",
+            "...saving themselves from the wrath of the ecclesiastics, which a direct assertion of it would have brought upon them."
         ],
         "John Calvin": [
             "And certainly there is not one of us, who does not see in this narrative, as in a mirror, an unwonted power of God: and hence it follows, that a diabolical venom must have seized the minds of the scribes, who were not ashamed to slander so remarkable a work of God.",
@@ -34,14 +34,14 @@
             "We must not attribute to the multitude any strong spiritual conviction."
         ],
         "Archibald T. Robertson": [
-            "Is this the Son of David? The form of the question expects the answer 'no,' but they put it so because of the Pharisaic hostility towards Jesus.",
-            "The multitudes 'were amazed' or 'stood out of themselves,' imperfect tense, vividly portraying the situation.",
-            "They were almost beside themselves with excitement."
+            "The multitudes 'were amazed' or 'stood out of themselves' (\u03b5\u03be\u03b9\u03c3\u03c4\u03b1\u03bd\u03c4\u03bf), imperfect tense, vividly portraying the situation.",
+            "They were almost beside themselves with excitement.",
+            "The form of the question expects the answer 'no,' but they put it so because of the Pharisaic hostility towards Jesus."
         ],
         "John Gill": [
-            "it was such an instance of divine power, and so glaring a proof, that the person who wrought it was more than a man, and must be the Messiah.",
+            "It was such an instance of divine power, and so glaring a proof, that the person who wrought it was more than a man, and must be the Messiah.",
             "This question they put, not as doubting of it, but as inclining, at least, to believe it, if not as expressing their certainty of it.",
-            "for from his miracles they rightly concluded who he was; though the Jews since, in order to deprive Jesus of this true characteristic of the Messiah, deny that miracles are to be performed by him."
+            "For from his miracles they rightly concluded who he was; though the Jews since, in order to deprive Jesus of this true characteristic of the Messiah, deny that miracles are to be performed by him."
         ],
         "John Wesley": [
             "Is not this the son of David \u2014 That is, the Messiah."
@@ -64,67 +64,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The people were amazed and almost beside themselves with excitement when they witnessed this remarkable miracle. They asked one another, Is this the Son of David? Can it possibly be? They did not directly assert it for fear of the wrath of the ecclesiastics who were hostile towards Jesus. Nevertheless, they acknowledged the power of God and were led to consider more attentively the glory of Christ. While not all of them profited as much as they should have, they were certainly moved to faith by this extraordinary demonstration of divine power.",
-            "wordCount": 92,
-            "quoteTokenProportion": 50.77,
-            "qualityScore": 1.4823561313721376,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.63,
+            "bht": "The people were in awe and wonder, almost beside themselves with excitement, as they witnessed the astonishing miracle. They asked in a form of question that hinted at their secret belief that this could indeed be the Son of David, the long-awaited Messiah. Though they expected a negative answer due to the Pharisaic hostility towards Jesus, they couldn't help but acknowledge the power of God displayed in this extraordinary work. It is true that not all of them were deeply convicted, as some merely hoped for a negative answer, but even this momentary acknowledgment of Christ's glory was a significant step towards faith. This miracle was a glaring proof of divine power and a clear indication that Jesus was more than a man, but the promised Messiah.",
+            "wordCount": 130,
+            "quoteTokenProportion": 39.77,
+            "qualityScore": 1.7850386071091608,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
             "commentatorTierSimilarities": [
-                33.91,
-                24.36,
-                41.73
+                29.08,
+                28.1,
+                42.83
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The people were amazed and almost beside themselves with excitement when they witnessed this remarkable miracle. They asked one another, Is this the Son of David? Can it possibly be? They did not directly assert it for fear of the wrath of the ecclesiastics who were hostile towards Jesus. Nevertheless, they acknowledged the power of God and were led to consider more attentively the glory of Christ.",
-            "wordCount": 67,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.4722568439402839,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "bht": "The people's astonishment at witnessing this remarkable miracle caused them to question, Is not this the Son of David? In their hearts, they held the belief that Jesus could indeed be the awaited Messiah. Even though they expected a negative answer due to the hostility of the religious leaders, they couldn't deny the power of God displayed through this extraordinary work. This momentary acknowledgement of Christ's glory was a significant step towards faith, as they recognized that Jesus was more than a man - He was the promised Messiah.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.79352679379776,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
             "commentatorTierSimilarities": [
-                36.62,
-                22.99,
-                40.39
+                27.18,
+                26.59,
+                46.23
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The people, amazed and almost beside themselves with excitement, questioned, Is this the Son of David? Can it possibly be? They dared not assert it outright, given the Pharisaic hostility towards Jesus, but their form of the question indicated their secret impression and hopeful expectations. The effect of the remarkable miracle was astonishment. Although there might not have been a strong spiritual conviction among the multitude, they were moved to consider more attentively the glory of Christ. By acknowledging the power of God in this display of divine power, they were led, as it were by the hand, to faith in Jesus as the Messiah.",
-            "wordCount": 105,
-            "quoteTokenProportion": 41.89,
-            "qualityScore": 1.6201313467216885,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "bht": "As the people witnessed the astonishing miracle, they were amazed and almost beside themselves with excitement. Secretly, they questioned whether Jesus could be the Son of David, the long-awaited Messiah. Though they expected a negative answer due to the hostility of the religious leaders, they couldn't help but recognize the power of God at work. This acknowledgement of Christ's divine glory was a significant step towards faith, as they began to see that Jesus was not merely a man, but the promised Messiah.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6394020135907537,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.85,
             "commentatorTierSimilarities": [
-                31.08,
-                33.18,
-                35.74
+                27.44,
+                24.5,
+                48.06
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The people, almost beside themselves with excitement, asked, Is this the Son of David? Can it possibly be? Although not directly asserting it, their question indicated their secret impression and hopeful expectations. The effect of the remarkable miracle was astonishment, leading the multitude to consider more attentively the glory of Christ. By acknowledging the power of God in this display, they were led, as it were by the hand, to faith in Jesus as the Messiah.",
-            "wordCount": 76,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.5777912536097105,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "bht": "The people, amazed and almost beside themselves with excitement, questioned whether Jesus could be the Son of David. Despite expecting a negative answer due to the hostility of the religious leaders, they couldn't deny the power of God displayed in this remarkable miracle. This acknowledgment, though not a strong spiritual conviction, was a significant step towards faith. It was a clear indication that Jesus, through His divine power, is more than a man - He is the promised Messiah, the Son of David.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7533194045453802,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
             "commentatorTierSimilarities": [
-                34.47,
-                27.63,
-                37.9
+                26.99,
+                28.43,
+                44.59
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The people, almost beside themselves with excitement, asked, Is this the Son of David? Can it possibly be? Although not directly asserting it, their question indicated their secret impression and hopeful expectations. The effect of the remarkable miracle was astonishment, leading the multitude to consider more attentively the glory of Christ. By acknowledging the power of God in this display, they were led, as it were by the hand, to faith in Jesus as the Messiah.",
-            "wordCount": 76,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.5777912536097105,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "bht": "The people's astonishment at witnessing the extraordinary miracle led them to question if Jesus could possibly be the Son of David, the awaited Messiah. Despite expecting a negative answer to protect themselves from the wrath of the religious leaders, they couldn't deny the power of God displayed in this remarkable work. Though not deeply convicted, their momentary acknowledgement of Christ's glory was a significant step towards faith. This miracle was a glaring proof of divine power and a clear indication that Jesus was more than a man - He was the promised Messiah.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.679287394908382,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
             "commentatorTierSimilarities": [
-                34.47,
-                27.63,
-                37.9
+                24.15,
+                28.93,
+                46.92
             ],
             "generationAttempt": 5
         }

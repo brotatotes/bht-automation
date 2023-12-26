@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:18:24",
+    "timestamp": "12-25-2023 20:33:15",
     "verseRef": "Luke 12:7",
     "bestBHT": {
-        "bht": "Every individual is precious and known to God. We are called to confess in Him and acknowledge His presence in our lives. Just as every hair on our heads is numbered and accounted for by God, His providence is meticulous and constant. Even the smallest details are under His care. Our worth to Him exceeds that of countless sparrows, highlighting His infinite love and concern for us. (Matthew 10:30)",
-        "wordCount": 68,
-        "quoteTokenProportion": 42.86,
-        "qualityScore": 1.251944173309029,
-        "qualityScoreNormalizedComparedToV2BHTs": 32.97,
+        "bht": "Jesus urges believers to openly confess their faith in Him. This act of confessing in Jesus is linked to the idea in Matthew 10:32. The commentators highlight God's meticulous care, as seen in His knowledge of every hair on our heads and His keeping account of even the smallest details. This demonstrates the immense value God places on His people, affirming the significance of boldly declaring our allegiance to Him.",
+        "wordCount": 70,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.2940411111989243,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.37,
         "commentatorTierSimilarities": [
-            42.39,
+            60.4,
             0.0,
-            57.61
+            39.6
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -22,9 +22,9 @@
             "Numbered (\u03b7\u03c1\u03b9\u03b8\u03bc\u03b7\u03bd\u03c4\u03b1). Perfect passive indicative. Periphrastic form in Matthew 10:30 which see for details about sparrows, etc. "
         ],
         "John Gill": [
-            "Not only the several members of their bodies, or the more substantial parts of them, were written in the book of his purposes, according to which they were fashioned in time, but the more minute parts, and less to be regarded, were all told over, and kept in account.",
-            "Even the very hairs of their head, and not one of them could fall to the ground...without the knowledge and will of God; so careful is the providence of God, of all his people.",
-            "If the hairs of their heads are as much regarded as sparrows, their persons and their lives must be of more account, than an infinite number of them."
+            "Not only their persons had passed under the hands of him that telleth them, who is the 'Palmoni', or 'wonderful numberer', as in the margin of Daniel 8:13 and not only the several members of their bodies, or the more substantial parts of them, were written in the book of his purposes, according to which they were fashioned in time, but the more minute parts, and less to be regarded, were all told over, and kept in account.",
+            "Even the very hairs of their head, and not one of them could fall to the ground, any more than a sparrow; or be plucked off by men, without the knowledge and will of God; so careful is the providence of God, of all his people.",
+            "For if the hairs of their heads are as much regarded as sparrows, their persons and their lives must be of more account, than an infinite number of them, nor are they to be mentioned with them."
         ],
         "John Wesley": [
             "Matthew 10:30."
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Every individual is precious and known to God. We are called to confess in Him and acknowledge His presence in our lives. Just as every hair on our heads is numbered and accounted for by God, His providence is meticulous and constant. Even the smallest details are under His care. Our worth to Him exceeds that of countless sparrows, highlighting His infinite love and concern for us. (Matthew 10:30)",
-            "wordCount": 68,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.251944173309029,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.97,
+            "bht": "In Luke 12:7, Jesus encourages his followers to boldly confess in Him. The first-tier commentary points to Matthew 10:32, which elaborates on the idea of confessing in Jesus. The commentators also draw attention to the meticulous care of God, who not only numbers every hair on our heads but also keeps account of even the most minute parts of our being. This illustrates the profound extent of God's providential care for His people, as explained in Matthew 10:30. Therefore, we can take comfort in knowing that we are deeply valued and cherished by God, and we should confidently proclaim our faith in Him.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.338042137559011,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
             "commentatorTierSimilarities": [
-                42.39,
+                49.83,
                 0.0,
-                57.61
+                50.17
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Every individual is valued and recognized by God. We are called to confess in Him and acknowledge His presence in our lives. Just as every hair on our heads is numbered and accounted for by God, His providence is meticulous and constant. Even the most minute aspects are under His watchful care. Our worth to Him surpasses that of countless sparrows, highlighting His immeasurable love and concern for us. (Matthew 10:30)",
-            "wordCount": 70,
-            "quoteTokenProportion": 43.14,
-            "qualityScore": 1.1724487753904935,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.33,
+            "bht": "In this verse, Jesus urges believers to boldly confess their faith in Him. This act of confessing in Jesus is further explained in the first-tier commentaries, which direct us to Matthew 10:32. The commentators also emphasize God's meticulous care and providence, as seen in His knowledge and keeping account of even the smallest details, such as the number of hairs on our heads. This remarkable attention to detail highlights the immense value that God places on His people, as mentioned in Matthew 10:30. Thus, we are encouraged to rest assured that God deeply cares for us and should boldly declare our faith in Him.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.4241219805074579,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.69,
             "commentatorTierSimilarities": [
-                40.09,
+                53.21,
                 0.0,
-                59.91
+                46.79
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "We are urged to confess in God and recognize His presence in our lives. Each and every one of us is significant and known by Him. Just as every hair on our heads is carefully numbered and accounted for by God, His providence is thorough and unwavering. Even the smallest details are under His watchful eye. Our value to Him surpasses that of countless sparrows, illustrating His boundless love and care for us. (Matthew 10:30)",
-            "wordCount": 74,
-            "quoteTokenProportion": 44.23,
-            "qualityScore": 1.2454245531136938,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.75,
+            "bht": "In this passage, Jesus exhorts believers to openly declare their faith in Him. The first-tier insight links this instruction to Matthew 10:32, which emphasizes the significance of confessing in Jesus. The commentators go further, illustrating the extraordinary care that God exerts over His people, not only counting the number of hairs on their heads but also minutely accounting for every aspect of their existence. This meticulous attention underscores the immense value God places on His followers, reinforcing the importance of confidently professing our allegiance to Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.1591055553733363,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.88,
             "commentatorTierSimilarities": [
-                43.53,
+                49.07,
                 0.0,
-                56.47
+                50.93
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "We are called to confess and acknowledge God in our lives, recognizing His presence and significance. Each individual is precious and known by Him. Just as every hair on our heads is numbered and accounted for, God's providence is meticulous and constant. Even the minutest details are under His watchful care. Our worth to Him exceeds that of countless sparrows, showcasing His infinite love and concern for us. (Matthew 10:30)",
+            "bht": "Jesus urges believers to openly confess their faith in Him. This act of confessing in Jesus is linked to the idea in Matthew 10:32. The commentators highlight God's meticulous care, as seen in His knowledge of every hair on our heads and His keeping account of even the smallest details. This demonstrates the immense value God places on His people, affirming the significance of boldly declaring our allegiance to Him.",
             "wordCount": 70,
-            "quoteTokenProportion": 40.74,
-            "qualityScore": 1.2236194996797227,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.03,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.2940411111989243,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.37,
             "commentatorTierSimilarities": [
-                42.93,
+                60.4,
                 0.0,
-                57.07
+                39.6
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Every person is instructed to confess in God and acknowledge His presence in their lives. Everyone is valued and recognized by Him. Just as God has taken the time to number and account for every single hair on our heads, His providence is both thorough and unchanging. He pays attention to even the tiniest details. Our worth to Him surpasses that of countless sparrows, displaying His immeasurable love and concern for us. (Matthew 10:30)",
-            "wordCount": 73,
-            "quoteTokenProportion": 41.82,
-            "qualityScore": 1.2081424447357734,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.51,
+            "bht": "Jesus encourages believers to confidently confess in Him. This is reinforced by the connection with Matthew 10:32. The commentators emphasize God's meticulous care, counting the hairs on our heads and keeping account of every intricate detail. This demonstrates the great value He places on His people, highlighting the importance of boldly declaring our faith in Him.",
+            "wordCount": 56,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.279237639218228,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.88,
             "commentatorTierSimilarities": [
-                39.91,
+                56.58,
                 0.0,
-                60.09
+                43.42
             ],
             "generationAttempt": 5
         }

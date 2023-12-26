@@ -1,7 +1,7 @@
 # Mark 13:5 Commentary Help Text
 
 ## BHT:
-Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as pertinent today as they were centuries ago. It serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets, like the claim of a prominent English psychologist who asserts frequent trips to Mars and communication with its alleged inhabitants.
+Take heed lest any man deceive you. This warning runs through the whole discussion, highlighting the success that charlatans have had in winning over the easily influenced with their senseless beliefs. Despite the clear words of Jesus, people have persistently sought to interpret this portrayal of calamities to fit their own circumstances in various time periods. Jesus, in response to his disciples, began a thorough explanation that likely surpassed their initial expectations.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -18,47 +18,45 @@ Take heed that no man lead you astray, Jesus warned His disciples as He began to
 3. "Mark repeats this word several times (Mark 13:9; Mark 13:23; Mark 13:33)."
 
 ### Archibald T. Robertson:
-1. "Take heed that no man lead you astray." 
-2. "It is pertinent today after so many centuries." 
-3. "Only this morning as I am writing a prominent English psychologist has challenged the world to a radio communication with Mars asserting that he has made frequent trips to Mars and communicated with its alleged inhabitants."
+1. "Take heed that no man lead you astray... This warning runs through the whole discussion." 
+2. "It is amazing the success that these charlatans have through the ages in winning the empty-pated to their hare-brained views." 
+3. "All through the ages in spite of the words of Jesus men have sought to apply the picture here drawn to the particular calamity in their time."
 
 ### John Gill:
-1. "And Jesus answering them... began to say." 
-2. "Take heed lest any man deceive you."
+1. "And Jesus answering them... began to say... take heed lest any man deceive you."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:27:27
+- Timestamp: 12-25-2023 20:32:42
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 37.7%
-- BHT Quality Score: 1.4353932148489814
+- BHT Word Count: 72
+- BHT Commentary Usage: 34.48%
+- BHT Quality Score: 1.6733877785709135
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'ago', 'alleged', 'and', 'are', 'as', 'asserts', 'astray', 'be', 'began', 'cautious', 'centuries', 'claim', 'communication', 'deceptive', 'discerning', 'disciples', 'end', 'english', 'explain', 'false', 'frequent', 'full', 'he', 'heed', 'his', 'in', 'inhabitants', 'it', 'its', 'jesus', 'lead', 'like', 'man', 'mars', 'no', 'of', 'pertinent', 'prominent', 'prophets', 'psychologist', 'reminder', 'serves', 'signs', 'take', 'teachings', 'that', 'the', 'these', 'they', 'times', 'to', 'today', 'trips', 'warned', 'were', 'who', 'with', 'words', 'world', 'you']
+- ChatGPT injected words (58):
+	['a', 'any', 'began', 'beliefs', 'calamities', 'charlatans', 'circumstances', 'clear', 'deceive', 'despite', 'disciples', 'discussion', 'easily', 'expectations', 'explanation', 'fit', 'had', 'have', 'heed', 'highlighting', 'his', 'in', 'influenced', 'initial', 'interpret', 'jesus', 'lest', 'likely', 'man', 'of', 'over', 'own', 'people', 'periods', 'persistently', 'portrayal', 'response', 'runs', 'senseless', 'sought', 'success', 'surpassed', 'take', 'that', 'the', 'their', 'this', 'thorough', 'through', 'time', 'to', 'various', 'warning', 'whole', 'winning', 'with', 'words', 'you']
 - ChatGPT injected words (significant words only) (38):
-	['ago', 'alleged', 'asserts', 'astray', 'began', 'cautious', 'centuries', 'claim', 'communication', 'deceptive', 'discerning', 'disciples', 'end', 'english', 'explain', 'false', 'frequent', 'heed', 'inhabitants', 'jesus', 'lead', 'like', 'man', 'mars', 'pertinent', 'prominent', 'prophets', 'psychologist', 'reminder', 'serves', 'signs', 'teachings', 'times', 'today', 'trips', 'warned', 'words', 'world']
+	['began', 'beliefs', 'calamities', 'charlatans', 'circumstances', 'clear', 'deceive', 'despite', 'disciples', 'discussion', 'easily', 'expectations', 'explanation', 'fit', 'heed', 'highlighting', 'influenced', 'initial', 'interpret', 'jesus', 'lest', 'likely', 'man', 'people', 'periods', 'persistently', 'portrayal', 'response', 'runs', 'senseless', 'sought', 'success', 'surpassed', 'thorough', 'time', 'warning', 'winning', 'words']
 
 ### Logs
-- Attempt 1 BHT: Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as relevant today as they were centuries ago. In fact, it was just this morning that I came across a news article about a prominent English psychologist claiming to have communicated with the inhabitants of Mars. This serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets.
-- 🔄 Mark 13:5 (attempt 1, 82 words, 42.42% quotes quality score: 1.2682114076431574, V2 normalized quality score: 33.51, commentator tiers 1-3: 34.99%, 28.83%, 36.17%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: Beware of falling victim to the cunning of deceivers, for throughout history false prophets have been successful in swaying the gullible with their foolish ideas. It is worth noting that individuals often attempt to apply the apocalyptic imagery in this passage to specific events in their own time, despite Jesus' general warning about deception. Jesus responded to his disciples' curiosity by providing a comprehensive explanation that likely exceeded their expectations.
+- 🔄 Mark 13:5 (attempt 1, 70 words, 34.48% quotes quality score: 1.5212001344115906, V2 normalized quality score: 41.92, commentator tiers 1-3: 30.33%, 24.86%, 44.81%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 2 BHT: Beware of falling victim to the cunning of deceivers, for throughout history false prophets have been successful in swaying the gullible with their foolish ideas. It is worth noting that individuals often attempt to apply the apocalyptic imagery here to specific events in their own time, despite Jesus' general warning about deception. Jesus responded to his disciples' curiosity by providing a comprehensive explanation that likely exceeded their expectations.
+- 🔄 Mark 13:5 (attempt 2, 68 words, 35.09% quotes quality score: 1.499568913589723, V2 normalized quality score: 41.2, commentator tiers 1-3: 31.04%, 23.24%, 45.72%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as pertinent today as they were centuries ago. It serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets, like the claim of a prominent English psychologist who asserts frequent trips to Mars and communication with its alleged inhabitants.
-- 🔄 Mark 13:5 (attempt 2, 74 words, 37.7% quotes quality score: 1.4353932148489814, V2 normalized quality score: 39.07, commentator tiers 1-3: 33.13%, 30.58%, 36.29%) 
+- Attempt 3 BHT: Take heed lest any man deceive you. This warning runs through the whole discussion, highlighting the success that charlatans have had in winning over the easily influenced with their senseless beliefs. Despite the clear words of Jesus, people have persistently sought to interpret this portrayal of calamities to fit their own circumstances in various time periods. Jesus, in response to his disciples, began a thorough explanation that likely surpassed their initial expectations.
+- 🔄 Mark 13:5 (attempt 3, 72 words, 34.48% quotes quality score: 1.6733877785709135, V2 normalized quality score: 46.98, commentator tiers 1-3: 30.13%, 21.15%, 48.72%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Take heed that no man lead you astray, Jesus warned His disciples as He began to explain the signs of the end times. These words are as pertinent today as they were centuries ago. It serves as a reminder to be cautious and discerning in a world full of deceptive teachings and false prophets, like the claim of a prominent English psychologist who asserts frequent trips to Mars and communication with its alleged inhabitants.
-- 🔄 Mark 13:5 (attempt 3, 74 words, 37.7% quotes quality score: 1.4353932148489814, V2 normalized quality score: 39.07, commentator tiers 1-3: 33.13%, 30.58%, 36.29%) 
+- Attempt 4 BHT: Take heed that no man lead you astray. This warning runs through the whole discussion, emphasizing the success that these charlatans have had throughout history in convincing the naive to adopt their foolish viewpoints. It is astounding how individuals, in spite of the words of Jesus, have sought to apply the imagery presented here to the specific calamities of their own time. Jesus, answering them, began to provide a comprehensive explanation that likely exceeded their expectations.
+- 🔄 Mark 13:5 (attempt 4, 76 words, 38.98% quotes quality score: 1.600394308297455, V2 normalized quality score: 44.56, commentator tiers 1-3: 31.74%, 19.93%, 48.33%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Take heed that no man lead you astray, Jesus cautioned his disciples as he commenced his explanation of the signs of the end times. This admonition remains relevant today, serving as a timely reminder to be vigilant and discerning in a world rife with misleading teachings and false prophets. A recent example highlights this necessity, with a notable English psychologist confidently proclaiming his ability to communicate with the purported inhabitants of Mars. The need to guard against deception and remain rooted in truth persists, making Jesus' words a timeless guide for believers.
-- 🔄 Mark 13:5 (attempt 4, 92 words, 25.35% quotes quality score: 1.269281543692329, V2 normalized quality score: 33.55, commentator tiers 1-3: 35.38%, 30.38%, 34.24%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Beware of falling victim to the cunning and deception of others, as warned by Jesus himself. Throughout history, these charlatans have achieved remarkable success in swaying ignorant individuals with their nonsensical beliefs. It is astonishing how, disregarding the words of Jesus, people persistently attempt to interpret the depicted scenario to fit the calamities of their own era. Jesus responded to his disciples' inquiry by initiating a detailed explanation that surpassed their initial expectations.
+- 🔄 Mark 13:5 (attempt 5, 73 words, 35.59% quotes quality score: 1.5097081447132776, V2 normalized quality score: 41.54, commentator tiers 1-3: 31.21%, 24.53%, 44.26%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Take heed that no man lead you astray, Jesus warned his disciples as he began to explain the signs of the end times. This cautionary message holds true today, as it did centuries ago. It reminds us to be wary and discerning in a world where false teachings and deceptive figures abound. For instance, a prominent English psychologist recently made extravagant claims about communicating with the inhabitants of Mars, highlighting the importance of staying grounded in truth amidst unscrupulous influences.
-- 🔄 Mark 13:5 (attempt 5, 80 words, 33.33% quotes quality score: 1.1791132250936678, V2 normalized quality score: 30.55, commentator tiers 1-3: 36.81%, 24.64%, 38.54%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 13:5 bht prompt v0.8 (74 words, 37.7% quotes)
-- quality score: 1.4353932148489814, V2 normalized quality score: 39.07, commentator tiers 1-3: 33.13%, 30.58%, 36.29%)
+- ✅ Mark 13:5 bht prompt v0.8 (72 words, 34.48% quotes)
+- quality score: 1.6733877785709135, V2 normalized quality score: 46.98, commentator tiers 1-3: 30.13%, 21.15%, 48.72%)

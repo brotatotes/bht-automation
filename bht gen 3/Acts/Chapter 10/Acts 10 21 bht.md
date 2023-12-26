@@ -1,7 +1,7 @@
 # Acts 10:21 Commentary Help Text
 
 ## BHT:
-He who is being sought after, I am. This statement was made without any prior communication regarding the men or their errand. The sudden encounter between Peter and the strangers, and their immediate recognition of him, points to a supernatural connection. Although Peter was yet to learn the details of their purpose, his swift response exemplifies his trust in the prompting of the Spirit. This event serves as a reminder for us to abandon self-assurance and conform our minds to the authority and standards of God.
+Peter, without any prior communication, seems to have instinctively known that he was the one whom the strangers were seeking. His sudden appearance and direct address must have startled them, causing them to realize that Peter had received some supernatural communication. However, he was still ignorant of the specifics of their errand and would have to learn them through normal means. This is a powerful reminder that we should not judge what God calls pure to be common. True wisdom lies in submitting to the authority of God, regardless of our own understanding or opinions.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -11,13 +11,13 @@ He who is being sought after, I am. This statement was made without any prior co
 
 
 ### John Calvin:
-1. "Abandoning all vain confidence, and correcting our stubbornness, the authority of God doth so pull us unto it, and doth so possess our minds."
-2. "We count nothing right but that which it prescribeth."
-3. "That which God calleth pure, judge not thou to be common."
+1. "That which God calleth pure, judge not thou to be common."
+2. "This is to be wise indeed, when as abandoning all vain confidence, and correcting our stubbornness, the authority of God doth so pull us unto it."
+3. "We count nothing right but that which it [the authority of God] prescribeth."
 
 ### Philip Schaff:
 1. "This coming down the outside stair, and suddenly standing face to face with the strangers, with whom he was presently to make such intimate acquaintance, is one of the most vivid passages of the narrative."
-2. "They saw in a moment the man whom they were seeking: they perceived that some supernatural communication had been made to him; and renewed strength must have been given instantaneously to their conviction that they were engaged in no common transaction."
+2. "They must have been much startled by this sudden address. They saw in a moment the man whom they were seeking: they perceived that some supernatural communication had been made to him; and renewed strength must have been given instantaneously to their conviction that they were engaged in no common transaction."
 3. "He was entirely ignorant as yet of the details of their errand: and these he was to learn, not supernaturally, but by the usual methods of information."
 
 ### Archibald T. Robertson:
@@ -25,48 +25,43 @@ He who is being sought after, I am. This statement was made without any prior co
 
 
 ### John Gill:
-1. "Behold, I am he whom ye seek; without being called by any of the family he came down, and without being informed in that way who the men were inquiring for; it being suggested to him by the Spirit of God, he declared himself to be the person they were seeking after." 
-2. "What is the cause wherefore ye are come? for that was not intimated to him by the Spirit; it was only told him there were three men seeking him, and he was bid to go with them, without any scruple or hesitation; but what they came for, or he was to go with them about, was not suggested."
-3. "Without being called by any of the family he came down, and without being informed in that way who the men were inquiring for."
+1. "The following clause, which were sent unto him from Cornelius, is not in Beza's most ancient copy, nor in the Alexandrian copy, nor in the Vulgate Latin, Syriac, Arabic, and Ethiopic versions."
+2. "Without being called by any of the family he came down, and without being informed in that way who the men were inquiring for; it being suggested to him by the Spirit of God, he declared himself to be the person they were seeking after."
+3. "What is the cause wherefore ye are come? for that was not intimated to him by the Spirit; it was only told him there were three men seeking him, and he was bid to go with them, without any scruple or hesitation; but what they came for, or he was to go with them about, was not suggested."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:29:15
+- Timestamp: 12-25-2023 20:34:05
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 46.15%
-- BHT Quality Score: 1.1906967937709294
+- BHT Word Count: 95
+- BHT Commentary Usage: 49.32%
+- BHT Quality Score: 1.375664744414247
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'abandon', 'after', 'although', 'am', 'and', 'any', 'as', 'assurance', 'authority', 'being', 'between', 'communication', 'conform', 'connection', 'details', 'encounter', 'errand', 'event', 'exemplifies', 'for', 'god', 'he', 'him', 'his', 'i', 'immediate', 'in', 'is', 'learn', 'made', 'men', 'minds', 'of', 'or', 'our', 'peter', 'points', 'prior', 'prompting', 'purpose', 'recognition', 'regarding', 'reminder', 'response', 'self', 'serves', 'sought', 'spirit', 'standards', 'statement', 'strangers', 'sudden', 'supernatural', 'swift', 'the', 'their', 'this', 'to', 'trust', 'us', 'was', 'who', 'without', 'yet']
-- ChatGPT injected words (significant words only) (35):
-	['abandon', 'assurance', 'authority', 'communication', 'conform', 'connection', 'details', 'encounter', 'errand', 'event', 'exemplifies', 'god', 'immediate', 'learn', 'men', 'minds', 'peter', 'points', 'prior', 'prompting', 'purpose', 'recognition', 'reminder', 'response', 'self', 'serves', 'sought', 'spirit', 'standards', 'statement', 'strangers', 'sudden', 'supernatural', 'swift', 'trust']
+- ChatGPT injected words (73):
+	['a', 'address', 'and', 'any', 'appearance', 'authority', 'be', 'calls', 'causing', 'common', 'communication', 'direct', 'errand', 'god', 'had', 'have', 'he', 'his', 'however', 'ignorant', 'in', 'instinctively', 'is', 'judge', 'known', 'learn', 'lies', 'means', 'must', 'normal', 'not', 'of', 'one', 'opinions', 'or', 'our', 'own', 'peter', 'powerful', 'prior', 'pure', 'realize', 'received', 'regardless', 'reminder', 'seeking', 'seems', 'should', 'some', 'specifics', 'startled', 'still', 'strangers', 'submitting', 'sudden', 'supernatural', 'that', 'the', 'their', 'them', 'this', 'through', 'to', 'true', 'understanding', 'was', 'we', 'were', 'what', 'whom', 'wisdom', 'without', 'would']
+- ChatGPT injected words (significant words only) (37):
+	['address', 'appearance', 'authority', 'calls', 'causing', 'common', 'communication', 'direct', 'errand', 'god', 'ignorant', 'instinctively', 'judge', 'known', 'learn', 'lies', 'means', 'normal', 'opinions', 'peter', 'powerful', 'prior', 'pure', 'realize', 'received', 'regardless', 'reminder', 'seeking', 'specifics', 'startled', 'strangers', 'submitting', 'sudden', 'supernatural', 'true', 'understanding', 'wisdom']
 
 ### Logs
-- Attempt 1 BHT: He who is being sought after, I am. This statement was made by Peter without any prior knowledge of the men or their purpose. The sudden encounter between Peter and the strangers, along with their immediate recognition of him, indicated to them that some supernatural communication had taken place. The details of their errand were not revealed to Peter at that moment, as he was yet to learn them through conventional means. Through this event, God's authority compels us to abandon our self-assurance and conform our minds to His will. We must recognize and adhere to His pure standards, not judging what He deems as common. Peter's obedience in immediately responding to the strangers' request, despite the lack of information, demonstrates his trust in the prompting of the Spirit.
-- 🔄 Acts 10:21 (attempt 1, 132 words, 44.09% quotes quality score: 1.2705472141101177, V2 normalized quality score: 33.59, commentator tiers 1-3: 26.78%, 40.83%, 32.39%) 
+- Attempt 1 BHT: Peter, without any prior communication, seems to have instinctively known that he was the one whom the strangers were seeking. His sudden appearance and direct address must have startled them, causing them to realize that Peter had received some supernatural communication. However, he was still ignorant of the specifics of their errand and would have to learn them through normal means. This is a powerful reminder that we should not judge what God calls pure to be common. True wisdom lies in submitting to the authority of God, regardless of our own understanding or opinions.
+- 🔄 Acts 10:21 (attempt 1, 95 words, 49.32% quotes quality score: 1.375664744414247, V2 normalized quality score: 37.08, commentator tiers 1-3: 20.53%, 45.68%, 33.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: He who is being sought after, I am. This statement was made without prior knowledge of the men or their purpose. The sudden encounter and immediate recognition suggest a supernatural communication. The details of their errand were not revealed at that moment; Peter would learn them through conventional means. God's authority compels us to abandon self-assurance and conform our minds to His will. We must recognize and adhere to His standards, not judging what He deems as common. Peter's obedience demonstrates trust in the Spirit's prompting.
-- 🔄 Acts 10:21 (attempt 2, 90 words, 45.33% quotes quality score: 1.10779416849349, V2 normalized quality score: 28.18, commentator tiers 1-3: 30.17%, 35.16%, 34.67%) 
+- Attempt 2 BHT: Without any communication, Peter instinctively knew that he was the one the strangers were looking for. Startled, the strangers realized that Peter had received a supernatural message. Although unaware of the details of their request, Peter would have to learn through ordinary means. This reminds us not to deem common what God declares pure. True wisdom lies in submitting to God's authority, forsaking our own confidence and following what He prescribes.
+- 🔄 Acts 10:21 (attempt 2, 72 words, 44.07% quotes quality score: 1.2487976652502366, V2 normalized quality score: 32.87, commentator tiers 1-3: 25.82%, 38.54%, 35.64%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Without any communication, Peter instinctively knew that he was the one the strangers were looking for. Startled, the strangers realized that Peter had received a supernatural message. Although unaware of the details of their request, Peter would have to learn through ordinary means. This reminds us not to deem common what God declares pure. True wisdom lies in submitting to God's authority, forsaking our own confidence, and following what He prescribes.
+- 🔄 Acts 10:21 (attempt 3, 72 words, 44.07% quotes quality score: 1.2487976652502366, V2 normalized quality score: 32.87, commentator tiers 1-3: 25.82%, 38.54%, 35.64%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Without any prior communication, Peter immediately understood that he was the one whom the strangers were seeking. This sudden address startled them and confirmed that Peter had received a supernatural message. Although he was still unaware of the specifics of their request, Peter would have to learn through ordinary means. This serves as a powerful reminder not to judge as common what God has declared pure. True wisdom lies in submitting to God's authority and following His prescriptions, relinquishing our own confidence.
+- 🔄 Acts 10:21 (attempt 4, 83 words, 44.12% quotes quality score: 1.295845293188279, V2 normalized quality score: 34.43, commentator tiers 1-3: 22.7%, 43.01%, 34.29%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: He who is being sought after, I am. This statement was made without any prior communication regarding the men or their errand. The sudden encounter between Peter and the strangers, and their immediate recognition of him, points to a supernatural connection. Although Peter was yet to learn the details of their purpose, his swift response exemplifies his trust in the prompting of the Spirit. This event serves as a reminder for us to abandon self-assurance and conform our minds to the authority and standards of God.
-- 🔄 Acts 10:21 (attempt 3, 87 words, 46.15% quotes quality score: 1.1906967937709294, V2 normalized quality score: 30.93, commentator tiers 1-3: 29.33%, 38.78%, 31.89%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Peter instantly knew he was the one the strangers sought, without being informed. Their sudden encounter confirmed a supernatural communication, strengthening their conviction about the extraordinary nature of their mission. Although Peter was still unaware of the details, he would learn through the usual methods. This reminds us not to judge as common what God declares pure. True wisdom lies in surrendering to God's authority, abandoning vain confidence, and following His prescribed path.
+- 🔄 Acts 10:21 (attempt 5, 74 words, 37.1% quotes quality score: 1.267547978451074, V2 normalized quality score: 33.49, commentator tiers 1-3: 21.79%, 44.8%, 33.41%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: He who is being sought after, I am. This statement was made without any prior communication regarding the men or their errand. The sudden encounter between Peter and the strangers, and their immediate recognition of him, points to a supernatural connection. Although Peter was yet to learn the details of their purpose, his swift response exemplifies his trust in the prompting of the Spirit. This event serves as a reminder for us to abandon self-assurance and conform our minds to the authority and standards of God.
-- 🔄 Acts 10:21 (attempt 4, 87 words, 46.15% quotes quality score: 1.1906967937709294, V2 normalized quality score: 30.93, commentator tiers 1-3: 29.33%, 38.78%, 31.89%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Without prior knowledge, Peter stated, He who is being sought after, I am. The sudden encounter between Peter and the strangers, and their immediate recognition of him, suggests a supernatural communication. Though Peter was unaware of the details of their errand, he obediently responded, exemplifying trust in the Spirit's prompting. This event challenges us to relinquish self-assurance and align our minds with God's authority and standards, avoiding judgment of what He deems as common.
-
-Note: The response is 75 words long and contains 51% of words from the provided quotes.
-- 🔄 Acts 10:21 (attempt 5, 91 words, 37.14% quotes quality score: 1.0898861510393967, V2 normalized quality score: 27.58, commentator tiers 1-3: 27.01%, 40.54%, 32.46%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 10:21 bht prompt v0.8 (87 words, 46.15% quotes)
-- quality score: 1.1906967937709294, V2 normalized quality score: 30.93, commentator tiers 1-3: 29.33%, 38.78%, 31.89%)
+- ✅ Acts 10:21 bht prompt v0.8 (95 words, 49.32% quotes)
+- quality score: 1.375664744414247, V2 normalized quality score: 37.08, commentator tiers 1-3: 20.53%, 45.68%, 33.79%)

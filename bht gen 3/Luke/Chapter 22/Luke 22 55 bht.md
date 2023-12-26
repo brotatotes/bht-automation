@@ -1,7 +1,7 @@
 # Luke 22:55 Commentary Help Text
 
 ## BHT:
-A fire was kindled all around in the hall or court, creating a bright and blazing fire for everyone to gather around. It is noted that all had taken seats around the fire, with Peter sitting among them, as if he was one of them. We can infer that the fire was made due to the coldness of the night, with the intention of providing warmth and preventing Peter from being easily noticed.
+He might have been loitering about, for it being cold in the night time, the servants and officers of the high priest made a fire in the middle of the hall. All had taken seats around the fire, kindling it around so that it blazed all over. Peter, restless during the night hours, sat down among them, as if he was one of them, all gathered together, sitting by the fire that had been set in full blaze.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -12,49 +12,45 @@ Hall. Or court. See on Mark 14:54.
 ### Philip Schaff:
 1. "Kindled. Lit., ‘kindled around;’ a large bright fire was made, we infer."
 2. "All of the Evangelists but Matthew mention the fire, but Mark does not speak of its being kindled."
-3. "Sat down. So Matthew and Mark; out John speaks of his standing."
+3. "During the night hours, Peter was no doubt restless."
 
 ### Archibald T. Robertson:
 1. "Kindle around, make a good fire that blazes all over."
 2. "Note συν- (together), all had taken seats around the fire."
-3. "Imperfect tense, he was sitting, and note μεσος, nominative predicate adjective with the genitive, like John 1:26, good Greek idiom."
+3. "He was sitting, and note μεσος, nominative predicate adjective with the genitive, like John 1:26, good Greek idiom."
 
 ### John Gill:
-1. "It being cold in the night time, though it was at the passover, and the beginning of harvest, the servants and officers of the high priest made a fire in the middle of the hall..."
-2. "Peter sat down among them; for the same purpose, and as if he was one of them..."
-3. "And which he might do, not only to warm himself, but to prevent his being taken notice of..."
+1. "It being cold in the night time... the servants and officers of the high priest made a fire in the middle of the hall." 
+2. "Peter sat down among them; for the same purpose, and as if he was one of them."
+3. "He might have been, had he been loitering about."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:23:08
+- Timestamp: 12-25-2023 20:33:35
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 56.86%
-- BHT Quality Score: 1.4445845384994678
+- BHT Word Count: 78
+- BHT Commentary Usage: 57.41%
+- BHT Quality Score: 1.6978834540749237
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (51):
-	['a', 'all', 'among', 'and', 'around', 'as', 'being', 'blazing', 'bright', 'can', 'coldness', 'court', 'creating', 'due', 'easily', 'everyone', 'fire', 'for', 'from', 'gather', 'had', 'hall', 'he', 'if', 'in', 'infer', 'intention', 'is', 'it', 'kindled', 'made', 'night', 'noted', 'noticed', 'of', 'one', 'or', 'peter', 'preventing', 'providing', 'seats', 'sitting', 'taken', 'that', 'the', 'them', 'to', 'warmth', 'was', 'we', 'with']
-- ChatGPT injected words (significant words only) (22):
-	['blazing', 'bright', 'coldness', 'court', 'creating', 'easily', 'fire', 'gather', 'hall', 'infer', 'intention', 'kindled', 'night', 'noted', 'noticed', 'peter', 'preventing', 'providing', 'seats', 'sitting', 'taken', 'warmth']
+- ChatGPT injected words (54):
+	['a', 'about', 'all', 'among', 'and', 'around', 'as', 'been', 'being', 'blaze', 'blazed', 'by', 'cold', 'down', 'during', 'fire', 'for', 'full', 'gathered', 'had', 'hall', 'have', 'he', 'high', 'hours', 'if', 'in', 'it', 'kindling', 'loitering', 'made', 'middle', 'might', 'night', 'of', 'officers', 'one', 'over', 'peter', 'priest', 'restless', 'sat', 'seats', 'servants', 'set', 'sitting', 'so', 'taken', 'that', 'the', 'them', 'time', 'together', 'was']
+- ChatGPT injected words (significant words only) (23):
+	['blaze', 'blazed', 'cold', 'fire', 'gathered', 'hall', 'high', 'hours', 'kindling', 'loitering', 'middle', 'night', 'officers', 'peter', 'priest', 'restless', 'sat', 'seats', 'servants', 'set', 'sitting', 'taken', 'time']
 
 ### Logs
-- Attempt 1 BHT: As the scene is set, we see that a fire was kindled all around in the hall or court, creating a bright and blazing fire for everyone to gather around. It is noted that all had taken seats around the fire, with Peter sitting among them, as if he was one of them. We can infer that the fire was made due to the coldness of the night, with the intention of providing warmth and preventing Peter from being easily noticed.
-- 🔄 Luke 22:55 (attempt 1, 81 words, 55.56% quotes quality score: 1.41113834722629, V2 normalized quality score: 38.26, commentator tiers 1-3: 27.31%, 36.83%, 35.86%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 2 BHT: As the scene is set, a fire was kindled all around in the hall or court, providing warmth in the cold night. Peter sat among the others, trying to blend in and not draw attention to himself. The fire not only served the practical purpose of keeping them warm, but also helped Peter in his attempt to go unnoticed.
-- 🔄 Luke 22:55 (attempt 2, 59 words, 47.83% quotes quality score: 1.2496027840011064, V2 normalized quality score: 32.89, commentator tiers 1-3: 22.27%, 32.94%, 44.79%) 
+- Attempt 1 BHT: All those around him kindled a fire and gathered together to warm themselves, surrounding the blaze. Peter, too, sat among them, unnoticed, as if he belonged there. It was a cold night, and the servants and officers of the high priest made a fire in the middle of the hall, providing relief from the chill. Restless in his own thoughts, Peter found solace in the warmth of the fire, blending in with the others.
+- 🔄 Luke 22:55 (attempt 1, 74 words, 50.0% quotes quality score: 1.4359627941816664, V2 normalized quality score: 39.09, commentator tiers 1-3: 26.45%, 35.44%, 38.11%)
+- Attempt 2 BHT: He might have been loitering about, for it being cold in the night time, the servants and officers of the high priest made a fire in the middle of the hall. All had taken seats around the fire, kindling it around so that it blazed all over. Peter, restless during the night hours, sat down among them, as if he was one of them, all gathered together, sitting by the fire that had been set in full blaze.
+- 🔄 Luke 22:55 (attempt 2, 78 words, 57.41% quotes quality score: 1.6978834540749237, V2 normalized quality score: 47.8, commentator tiers 1-3: 27.72%, 33.36%, 38.92%)
+- Attempt 3 BHT: As the night grew cold, the servants and officers of the high priests made a bright fire that blazed all around, providing warmth and light. It was in the midst of this fire that Peter found his place, sitting among them as if he was one of their own. Perhaps fueled by restlessness, Peter sought comfort and camouflage in the presence of those gathered around the fire.
+- 🔄 Luke 22:55 (attempt 3, 67 words, 48.98% quotes quality score: 1.3685983570794626, V2 normalized quality score: 36.85, commentator tiers 1-3: 22.12%, 35.47%, 42.41%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: A fire was kindled all around in the hall or court, providing warmth for those gathered. Peter purposefully sat among them, trying to blend in and avoid being noticed. The fire served the practical purpose of keeping them warm, but it also played a role in Peter's effort to remain inconspicuous.
-- 🔄 Luke 22:55 (attempt 3, 52 words, 41.86% quotes quality score: 1.195004375617494, V2 normalized quality score: 31.08, commentator tiers 1-3: 24.23%, 30.82%, 44.94%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: A fire was kindled all around in the hall or court, creating a bright and blazing fire for everyone to gather around. It is noted that all had taken seats around the fire, with Peter sitting among them, as if he was one of them. We can infer that the fire was made due to the coldness of the night, with the intention of providing warmth and preventing Peter from being easily noticed.
-- 🔄 Luke 22:55 (attempt 4, 73 words, 56.86% quotes quality score: 1.4445845384994678, V2 normalized quality score: 39.38, commentator tiers 1-3: 27.79%, 36.72%, 35.5%)
-- Attempt 5 BHT: The scene unfolds with the disciples gathered around a fire, a fire that blazed all around them, providing warmth and comfort on a cold night. They sat together, united, drawn by the same source of light and heat. Among them was Peter, sitting as if he belonged, as if he was one of them. Perhaps he sought both warmth and camouflage, not wanting to draw attention to himself. The fire, kindled by the servants and officers of the high priest, served a dual purpose, shielding Peter's identity while offering respite from the chill of the evening.
-- 🔄 Luke 22:55 (attempt 5, 97 words, 40.3% quotes quality score: 1.100958400035862, V2 normalized quality score: 27.95, commentator tiers 1-3: 20.47%, 32.43%, 47.1%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 22:55 bht prompt v0.8 (73 words, 56.86% quotes)
-- quality score: 1.4445845384994678, V2 normalized quality score: 39.38, commentator tiers 1-3: 27.79%, 36.72%, 35.5%)
+- Attempt 4 BHT: As the night grew cold, the servants and officers of the high priests made a fire that blazed all around, kindling it to keep warm. Peter found his place in the middle, sitting among them as if he was one of their own. Seeking comfort and camouflage, he sat down, feeling restless after the events unfolding before him.
+- 🔄 Luke 22:55 (attempt 4, 58 words, 52.0% quotes quality score: 1.2116917519164212, V2 normalized quality score: 31.63, commentator tiers 1-3: 22.87%, 30.07%, 47.06%)
+- Attempt 5 BHT: All around, they kindled a fire, making a good fire that blazed brightly in the hall. They had all taken seats together around the fire, and Peter, feeling restless in the cold night, sat down among them, as if he was one of them.
+- 🔄 Luke 22:55 (attempt 5, 44 words, 55.88% quotes quality score: 1.6844727425338948, V2 normalized quality score: 47.35, commentator tiers 1-3: 29.22%, 37.52%, 33.26%)
+- ✅ Luke 22:55 bht prompt v0.8 (78 words, 57.41% quotes)
+- quality score: 1.6978834540749237, V2 normalized quality score: 47.8, commentator tiers 1-3: 27.72%, 33.36%, 38.92%)

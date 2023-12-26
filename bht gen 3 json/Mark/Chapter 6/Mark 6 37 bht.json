@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:23:31",
+    "timestamp": "12-25-2023 20:32:22",
     "verseRef": "Mark 6:37",
     "bestBHT": {
-        "bht": "Mark's distinct account reveals his independence from John's gospel, evident in the unique details of the dividing of the fishes and the collection of fragments. Jesus challenges His disciples' faith by pointing out that two hundred pennyworth of bread would be insufficient for the crowd's needs, setting the stage for the forthcoming miracle. The mention of two hundred pence carries symbolic significance, representing the value and worth of this transformative event. Jesus' instruction to provide food reflects His compassion and ability to abundantly meet the needs of the multitude.",
-        "wordCount": 92,
-        "quoteTokenProportion": 25.0,
-        "qualityScore": 1.1084301940724628,
-        "qualityScoreNormalizedComparedToV2BHTs": 28.2,
+        "bht": "Mark's account of the feeding of the multitude reveals his unique perspective with the inclusion of specific details like the dividing of the fishes and the gathering of fragments. Jesus' command to the disciples, Give ye them to eat, showcases his distinct approach. The disciples' question about buying two hundred pennyworth of bread serves as a test of their faith and a setup for the forthcoming miracle. This mention of two hundred pennyworth symbolizes the significant cost required to satisfy the hunger of the crowd.",
+        "wordCount": 86,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.1466955112641264,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.47,
         "commentatorTierSimilarities": [
-            39.14,
+            44.76,
             0.0,
-            60.86
+            55.24
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This verse is to me rather a decisive proof that (see above) Mark had not seen John\u2019s account.",
             "That generalization was in the account which he used.",
-            "The dividing of the fishes, and the taking up fragments from the fishes, are both peculiar and characteristic of Mark."
+            "The dividing of the fishes, and (ver. 43) the taking up fragments from the fishes, are both peculiar and characteristic of Mark."
         ],
         "Jamieson-Fausset-Brown": [
             "They need not depart.",
@@ -30,7 +30,7 @@
         ],
         "John Gill": [
             "This he said to try their faith, and make way for the following miracle.",
-            "Shall we lay out the two hundred pence, which is all we have in hand, to buy bread for this multitude?",
+            "Shall we go and buy two hundred pennyworth of bread, and give them to eat?...is it proper we should? is it thy will that so it should be?",
             "A virgin's dowry, upon marriage, was 'two hundred pence'; and so was a widow's; and one that was divorced, if she insisted on it, and could make good her claim."
         ]
     },
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, Mark describes Jesus' response to his disciples' suggestion to send the crowd away to buy food. Mark's unique account of the dividing of the fishes and the taking up fragments adds to the distinctive nature of his narrative. By stating that two hundred pennyworth of bread would not be sufficient for everyone, Jesus challenges his disciples' faith and opens the way for the subsequent miracle. The mention of two hundred pence is significant as it represents a dowry, signifying the value and worth of this event. Jesus' instruction to give the crowd something to eat shows his concern for their needs and his ability to provide for them abundantly.",
-            "wordCount": 113,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.2188307634218898,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.87,
+            "bht": "When faced with the challenge of feeding the multitude, Jesus responded, Give ye them to eat. Mark's account of this event, which includes the unique details of the dividing of the fishes and the taking up of fragments, shows that he had a distinct perspective not found in other gospels. Jesus' question, Shall we go and buy two hundred pennyworth of bread, was not a literal demand, but rather a test of the disciples' faith and an opportunity for the forthcoming miracle to occur. It is worth noting that the mention of two hundred pennyworth of bread may carry symbolic significance, representing the high cost required to satisfy the hunger of the crowd.",
+            "wordCount": 114,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.136071983280131,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.12,
             "commentatorTierSimilarities": [
-                42.23,
+                44.76,
                 0.0,
-                57.77
+                55.24
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this account, Mark demonstrates his independence from John's gospel by presenting the scene in his own unique way. Jesus challenges His disciples' faith by stating that two hundred pennyworth of bread would not be sufficient for everyone, setting the stage for the miraculous feeding of the multitude. The mention of two hundred pence carries symbolic significance, representing the value and worth of this transformative event. Jesus' instruction to provide food for the crowd reflects His compassion and ability to abundantly meet their needs.",
-            "wordCount": 85,
+            "bht": "Jesus' unique command to Give ye them to eat in Mark's Gospel reveals his distinctive perspective on the event of feeding the multitude. The author's attention to the details of the dividing of the fishes and the taking up of fragments further emphasizes his distinct account. Through the disciples' question about purchasing two hundred pennyworth of bread, Jesus tested their faith and prepared the way for the miraculous feeding. This particular mention of two hundred pennyworth may symbolize the extensive cost required to meet the profound hunger of the crowd.",
+            "wordCount": 92,
             "quoteTokenProportion": 30.16,
-            "qualityScore": 1.0604659365606062,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.6,
+            "qualityScore": 1.0901470974011458,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.59,
             "commentatorTierSimilarities": [
-                37.64,
+                49.56,
                 0.0,
-                62.36
+                50.44
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "This account in Mark showcases the author's distinctive narrative style, as seen in the specific details of the dividing of the fishes and the collection of fragments. Jesus challenges His disciples' faith by highlighting the insufficiency of two hundred pennyworth of bread for the crowd. This question serves to test their reliance on Him and pave the way for the forthcoming miracle. The mention of two hundred pence emphasizes the symbolic significance of this event, representing its value and significance. Jesus' command to provide food displays His care and ability to abundantly provide for the multitude.",
-            "wordCount": 97,
-            "quoteTokenProportion": 25.0,
-            "qualityScore": 1.0931747647876962,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.69,
+            "bht": "Mark's account of the feeding of the multitude stands out with its unique details, such as the dividing of the fishes and the taking up of fragments. Jesus' instruction to the disciples, Give ye them to eat, reveals his distinct perspective. The disciples' question about buying two hundred pennyworth of bread was not a literal demand, but rather a test of their faith and an opportunity for a miracle to unfold. The mention of two hundred pennyworth signifies the significant cost needed to satisfy the hunger of the crowd.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.1287783529378603,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.88,
             "commentatorTierSimilarities": [
-                39.83,
+                46.02,
                 0.0,
-                60.17
+                53.98
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Mark's distinct account reveals his independence from John's gospel, evident in the unique details of the dividing of the fishes and the collection of fragments. Jesus challenges His disciples' faith by pointing out that two hundred pennyworth of bread would be insufficient for the crowd's needs, setting the stage for the forthcoming miracle. The mention of two hundred pence carries symbolic significance, representing the value and worth of this transformative event. Jesus' instruction to provide food reflects His compassion and ability to abundantly meet the needs of the multitude.",
-            "wordCount": 92,
-            "quoteTokenProportion": 25.0,
-            "qualityScore": 1.1084301940724628,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.2,
+            "bht": "In the account of the feeding of the multitude, Mark's unique perspective is evident through the mentioning of the dividing of the fishes and the gathering of fragments. Jesus' command to the disciples, Give ye them to eat, demonstrates his distinctive approach. The disciples' question about buying two hundred pennyworth of bread serves as a test of their faith and a setting for the forthcoming miracle. The reference to two hundred pennyworth symbolizes the immense cost required to meet the hunger of the crowd.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.1399963753743139,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.25,
             "commentatorTierSimilarities": [
-                39.14,
+                43.98,
                 0.0,
-                60.86
+                56.02
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Mark's unique account of this event highlights his independence from John's gospel. The specific details of the dividing of the fishes and the collection of fragments reflect Mark's distinctive narrative style. Jesus challenges His disciples' faith by stating that two hundred pennyworth of bread would not be enough for the crowd, preparing the way for the subsequent miraculous feeding. The mention of two hundred pence signifies the significance of this event, representing its value. Jesus' command to provide food demonstrates His care for the people and His ability to abundantly meet their needs.",
-            "wordCount": 96,
-            "quoteTokenProportion": 27.27,
-            "qualityScore": 1.0322330468581233,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.67,
+            "bht": "Mark's account of the feeding of the multitude reveals his unique perspective with the inclusion of specific details like the dividing of the fishes and the gathering of fragments. Jesus' command to the disciples, Give ye them to eat, showcases his distinct approach. The disciples' question about buying two hundred pennyworth of bread serves as a test of their faith and a setup for the forthcoming miracle. This mention of two hundred pennyworth symbolizes the significant cost required to satisfy the hunger of the crowd.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.1466955112641264,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.47,
             "commentatorTierSimilarities": [
-                45.53,
+                44.76,
                 0.0,
-                54.47
+                55.24
             ],
             "generationAttempt": 5
         }

@@ -1,22 +1,22 @@
 # Luke 5:14 Commentary Help Text
 
 ## BHT:
-After healing the man with leprosy, Jesus commanded him not to disclose the miracle, but rather go directly to the priest and follow the prescribed cleansing process. This instruction was given with authority, resembling military orders or medical advice. The man's compliance with the instructions would serve as a testimony to the priests, validating the miraculous healing. The use of the pronoun them indicates that this testimony was not limited to a particular group, but intended for general witnesses. Similar instructions are found in Mark and Matthew, suggesting their shared source.
+Jesus, using strong, military-like language, commanded the healed leper not to tell anyone he might encounter about the miracle. Instead, Jesus instructed him to go directly to the priests and present himself as a testimony. This direct command emphasized the importance of following through with the instructions. Though the antecedent for them is not clear, the purpose of this command was to provide evidence of the man's healing. The man was to fulfill the requirements outlined in Leviticus 14 and offer the prescribed sacrifices to the priests as a testimony.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "He charged [παρηγγειλεν] . A strong word, often, of military orders. Aristotle uses it of a physician: to prescribe."
-2. "No one [μηδενι] . The conditional negative: no one that he might chance to meet."
+1. "He charged [παρηγγειλεν]. A strong word, often, of military orders."
+2. "No one [μηδενι]. The conditional negative: no one that he might chance to meet."
 3. "Go, shew thyself. A lively change from the narrative to direct address."
 
 ### Archibald T. Robertson:
-1. "To tell no man...Here in the direct form he follows Mark 1:43; Matthew 8:4. See discussion there about the direction to go to the priest to receive a certificate showing his cleansing, like our release from quarantine."
-2. "The use of αυτοις (them) here is 'according to sense,' as we say, for it has no antecedent in the context, just to people in general."
-3. "But this identical phrase with absence of direct reference occurs in Mark and Matthew, pretty good proof of the use of one by the other. Both Matthew 8:4; Luke 5:14 follow Mark 1:44."
+1. "To tell no man (μηδεν ειπειν). This is an indirect command after the verb 'charged' (παρηγγειλεν)."
+2. "But Luke changes (constructio variata) to the direct quotation, a common idiom in Greek and often in Luke."
+3. "For a testimony unto them (εις μαρτυριον αυτοις). The use of αυτοις (them) here is 'according to sense,' as we say, for it has no antecedent in the context, just to people in general."
 
 ### John Gill:
-1. "And he charged him to tell no man.... but go show thyself to the priest." 
-2. "To the priests: and offer for thy cleansing, according as Moses has commanded, for a testimony unto them."
+1. "And he charged him to tell no man... but go show thyself to the priest." 
+2. "To the priests: and offer for thy cleansing, according as Moses has commanded, for a testimony unto them." 
 3. "For a testimony unto them."
 
 ### John Wesley:
@@ -26,39 +26,39 @@ After healing the man with leprosy, Jesus commanded him not to disclose the mira
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:15:17
+- Timestamp: 12-25-2023 20:33:04
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 33.82%
-- BHT Quality Score: 1.096271996093424
+- BHT Word Count: 91
+- BHT Commentary Usage: 38.71%
+- BHT Quality Score: 1.132532526317529
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'advice', 'after', 'and', 'are', 'as', 'authority', 'but', 'cleansing', 'commanded', 'compliance', 'directly', 'disclose', 'follow', 'for', 'found', 'general', 'given', 'go', 'group', 'healing', 'him', 'in', 'indicates', 'instruction', 'instructions', 'intended', 'jesus', 'leprosy', 'limited', 'man', 'mark', 'matthew', 'medical', 'military', 'miracle', 'miraculous', 'not', 'of', 'or', 'orders', 'particular', 'prescribed', 'priest', 'priests', 'process', 'pronoun', 'rather', 'resembling', 's', 'serve', 'shared', 'similar', 'source', 'suggesting', 'testimony', 'that', 'the', 'their', 'them', 'this', 'to', 'use', 'validating', 'was', 'with', 'witnesses', 'would']
-- ChatGPT injected words (significant words only) (45):
-	['advice', 'authority', 'cleansing', 'commanded', 'compliance', 'directly', 'disclose', 'follow', 'found', 'general', 'given', 'group', 'healing', 'indicates', 'instruction', 'instructions', 'intended', 'jesus', 'leprosy', 'limited', 'man', 'mark', 'matthew', 'medical', 'military', 'miracle', 'miraculous', 'orders', 'particular', 'prescribed', 'priest', 'priests', 'process', 'pronoun', 'resembling', 's', 'serve', 'shared', 'similar', 'source', 'suggesting', 'testimony', 'use', 'validating', 'witnesses']
+- ChatGPT injected words (62):
+	['a', 'about', 'and', 'antecedent', 'anyone', 'as', 'clear', 'command', 'commanded', 'direct', 'directly', 'emphasized', 'encounter', 'evidence', 'following', 'for', 'fulfill', 'go', 'he', 'healed', 'healing', 'him', 'himself', 'importance', 'in', 'instead', 'instructed', 'instructions', 'is', 'jesus', 'language', 'leper', 'leviticus', 'like', 'man', 'might', 'military', 'miracle', 'not', 'of', 'offer', 'outlined', 'prescribed', 'present', 'priests', 'provide', 'purpose', 'requirements', 's', 'sacrifices', 'strong', 'tell', 'testimony', 'the', 'them', 'this', 'though', 'through', 'to', 'using', 'was', 'with']
+- ChatGPT injected words (significant words only) (38):
+	['antecedent', 'clear', 'command', 'commanded', 'direct', 'directly', 'emphasized', 'encounter', 'evidence', 'following', 'fulfill', 'healed', 'healing', 'importance', 'instead', 'instructed', 'instructions', 'jesus', 'language', 'leper', 'leviticus', 'like', 'man', 'military', 'miracle', 'offer', 'outlined', 'prescribed', 'present', 'priests', 'provide', 'purpose', 'requirements', 's', 'sacrifices', 'strong', 'tell', 'testimony']
 
 ### Logs
-- Attempt 1 BHT: After Jesus healed the man with leprosy, He sternly instructed him to not tell anyone but to go and show himself to the priest. This command was given with great authority, like military orders or a prescription from a physician. The man was to go immediately and demonstrate his cleansing before the priests, just as the law of Moses commanded. This act would serve as a testimony to them, validating the miraculous healing that had taken place. The use of the pronoun them indicates that this testimony was not just for a specific group, but for anyone who needed to witness the power of God. The similar instructions given in Mark and Matthew confirm the interdependence of these accounts.
-- 🔄 Luke 5:14 (attempt 1, 119 words, 39.24% quotes quality score: 1.0881272825705626, V2 normalized quality score: 27.52, commentator tiers 1-3: 42.68%, 0.0%, 57.32%) 
+- Attempt 1 BHT: After Jesus healed the leper, he gave the man a strong, direct order, telling him not to speak of the healing to anyone he might happen upon. Instead, Jesus instructed the man to go and present himself to the priests as a testimony. This change from narrative to direct address adds emphasis to Jesus' command. The purpose of this command was to provide evidence to the people, although there is no clear antecedent for the use of them in the context. The man was to follow the requirements set forth by Moses in Leviticus 14 and offer the necessary cleansing sacrifices to the priests as a testimony of his healing.
+- 🔄 Luke 5:14 (attempt 1, 109 words, 39.71% quotes quality score: 1.2522461708252313, V2 normalized quality score: 32.98, commentator tiers 1-3: 44.89%, 0.0%, 55.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: After healing the man with leprosy, Jesus charged him with a strong word, instructing him not to tell anyone about the miracle but to go and present himself to the priest as a testimony according to the law of Moses. This direct address to the man indicated a sense of urgency and importance. The use of the pronoun them in the phrase a testimony unto them suggests that the testimony was not limited to a specific group but intended for all to witness the power of God. This instruction is echoed by both Mark and Matthew, demonstrating the interconnectedness of these accounts.
-- 🔄 Luke 5:14 (attempt 2, 102 words, 38.81% quotes quality score: 1.1069169869358526, V2 normalized quality score: 28.15, commentator tiers 1-3: 54.43%, 0.0%, 45.57%) 
+- Attempt 2 BHT: Jesus, using strong, military-like language, commanded the healed leper not to tell anyone he might encounter about the miracle. Instead, Jesus instructed him to go directly to the priests and present himself as a testimony. This direct command emphasized the importance of following through with the instructions. Though the antecedent for them is not clear, the purpose of this command was to provide evidence of the man's healing. The man was to fulfill the requirements outlined in Leviticus 14 and offer the prescribed sacrifices to the priests as a testimony.
+- 🔄 Luke 5:14 (attempt 2, 91 words, 38.71% quotes quality score: 1.132532526317529, V2 normalized quality score: 29.0, commentator tiers 1-3: 40.05%, 0.0%, 59.95%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: After healing the man with leprosy, Jesus strictly commanded him not to share the miracle, but rather to go straight to the priest and offer the prescribed cleansing sacrifices as a testimony. The forceful language used in this command conveyed a sense of urgency and importance. By following this directive, the man would be fulfilling the requirements outlined in the Law of Moses, serving as a testimony to the priests and showcasing the miraculous healing that had taken place. This instruction is echoed in the accounts of Mark and Matthew, underscoring their interconnectedness.
-- 🔄 Luke 5:14 (attempt 3, 93 words, 35.38% quotes quality score: 1.0202262245232936, V2 normalized quality score: 25.27, commentator tiers 1-3: 42.3%, 0.0%, 57.7%) 
+- Attempt 3 BHT: After Jesus healed the leper, he gave the man a direct command, using strong language akin to military orders. Jesus instructed the man to refrain from speaking of the healing to anyone he might meet, but rather to go and present himself to the priests as a testimony. This change to direct address highlights the importance of the command. The purpose of this instruction was to provide evidence, though the specific audience for the testimony is not clear. The man was to follow the guidelines outlined in Leviticus 14 and offer the appropriate sacrifices to the priests as evidence of his cleansing.
+- 🔄 Luke 5:14 (attempt 3, 101 words, 38.1% quotes quality score: 1.111875149402677, V2 normalized quality score: 28.31, commentator tiers 1-3: 42.45%, 0.0%, 57.55%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus charged the man He healed of leprosy not to reveal the miracle but to go directly to the priest and present himself as a testimony. This command was given with authority, compared to military or medical orders. The man was to follow the ceremonial requirements of the Law of Moses, offering the prescribed sacrifices. By doing so, he would serve as a testimony to the priests and demonstrate the power of God's healing. This instruction is found in the parallel accounts of Mark and Matthew, highlighting their shared source.
-- 🔄 Luke 5:14 (attempt 4, 91 words, 34.38% quotes quality score: 1.0461350025558087, V2 normalized quality score: 26.13, commentator tiers 1-3: 39.46%, 0.0%, 60.54%) 
+- Attempt 4 BHT: After healing the leper, Jesus issued a strong, military-like command to the man, instructing him not to tell anyone he might happen upon about the miracle. Instead, Jesus directed him to go and present himself to the priests, a change from the narrative to direct address that emphasizes the significance of the command. The purpose behind this instruction was to provide testimony. The man was to comply with the requirements set out by Moses, offering the appropriate sacrifices to the priests as evidence of his healing.
+- 🔄 Luke 5:14 (attempt 4, 87 words, 41.67% quotes quality score: 1.1267421165060014, V2 normalized quality score: 28.81, commentator tiers 1-3: 41.61%, 0.0%, 58.39%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: After healing the man with leprosy, Jesus commanded him not to disclose the miracle, but rather go directly to the priest and follow the prescribed cleansing process. This instruction was given with authority, resembling military orders or medical advice. The man's compliance with the instructions would serve as a testimony to the priests, validating the miraculous healing. The use of the pronoun them indicates that this testimony was not limited to a particular group, but intended for general witnesses. Similar instructions are found in Mark and Matthew, suggesting their shared source.
-- 🔄 Luke 5:14 (attempt 5, 92 words, 33.82% quotes quality score: 1.096271996093424, V2 normalized quality score: 27.79, commentator tiers 1-3: 45.9%, 0.0%, 54.1%) 
+- Attempt 5 BHT: After healing the leper, Jesus strictly charged the man, using forceful military-like language, not to speak of the miraculous healing to anyone he might encounter. Instead, Jesus commanded him to go directly to the priests and show himself, serving as a testimony. This change from the narrative to direct address highlights the importance of the command. The purpose of this instruction was to provide evidence, although the specific audience for this testimony is not specified. The man was to follow the required steps outlined in Leviticus 14 and offer the necessary sacrifices to the priests as proof of his cleansing.
+- 🔄 Luke 5:14 (attempt 5, 100 words, 35.82% quotes quality score: 1.121889288608563, V2 normalized quality score: 28.65, commentator tiers 1-3: 42.55%, 0.0%, 57.45%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 5:14 bht prompt v0.8 (92 words, 33.82% quotes)
-- quality score: 1.096271996093424, V2 normalized quality score: 27.79, commentator tiers 1-3: 45.9%, 0.0%, 54.1%)
+- ✅ Luke 5:14 bht prompt v0.8 (91 words, 38.71% quotes)
+- quality score: 1.132532526317529, V2 normalized quality score: 29.0, commentator tiers 1-3: 40.05%, 0.0%, 59.95%)

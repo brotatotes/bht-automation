@@ -1,7 +1,7 @@
 # Mark 6:26 Commentary Help Text
 
 ## BHT:
-Caught between his conscience and the repercussions of a foolish promise, Herod's internal struggle in this narrative exposes the dangers of prioritizing societal expectations over moral convictions. His remorse for John the Baptist clashes with his reluctance to be seen as unsteady. This cautionary tale serves as a sobering reminder of how easily one's principles can be compromised under the influence of false shame. It urges us to remain steadfast in our convictions, guarding against the snare of sacrificing integrity for the sake of reputation.
+With his conscience burdened by John's preaching, Herod's regret was palpable as he found himself ensnared by his own rash actions. The false shame that drove him to fulfill a foolish promise reveals the fatal trap of prioritizing reputation over moral scruples. This cautionary tale serves as a reminder that yielding to the worst crimes while struggling to keep a thoughtless oath is characteristic of those lacking principles but troubled by their conscience. Herod's sorry reaction exposes the conflict between his own convictions and the environment that stifled them.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -14,8 +14,8 @@ Caught between his conscience and the repercussions of a foolish promise, Herod'
 
 
 ### John Calvin:
-1. "And yet he has not the courage to give a refusal to a dancing girl, lest he should incur the reproach of unsteadiness; as if it were more dishonorable to retract a rash and foolish promise than to persist in a heinous crime."
-2. "No inward feelings of religion constrained Herod to do this, but the mere love of power drove him headlong; for he reckoned that he would sink in the estimation of those who were present, if he did not fulfill his engagement."
+1. "No inward feelings of religion constrained Herod to do this, but the mere love of power drove him headlong; for he reckoned that he would sink in the estimation of those who were present, if he did not fulfill his engagement."
+2. "Though Herod had kept before his eyes the sacredness of an oath alone, and not the dread of the opinion of men, he committed a more heinous offense in fulfilling a foolish promise than if he had violated his oath."
 3. "Hence it follows, that monastic vows, which are attended by open impiety, do not bind the conscience any more than the enchantments of magicians; for it is not the will of God that his sacred name shall give support to what is sinful."
 
 ### Philip Schaff:
@@ -29,7 +29,7 @@ Caught between his conscience and the repercussions of a foolish promise, Herod'
 
 ### John Gill:
 1. "And the king was exceeding sorry..."
-2. "yet for his oath's sake, [and] for their sakes which sat with him..."
+2. "as Matthew adds, 'at meat'..." 
 3. "He would not reject her; deny her her request, or send her away without granting it..."
 
 ### John Wesley:
@@ -39,41 +39,40 @@ Caught between his conscience and the repercussions of a foolish promise, Herod'
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:23:33
+- Timestamp: 12-25-2023 20:32:31
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 33.33%
-- BHT Quality Score: 1.3405314386176208
+- BHT Word Count: 92
+- BHT Commentary Usage: 35.21%
+- BHT Quality Score: 1.5734921167304465
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'against', 'and', 'as', 'baptist', 'be', 'between', 'can', 'caught', 'cautionary', 'clashes', 'compromised', 'conscience', 'convictions', 'dangers', 'easily', 'expectations', 'exposes', 'false', 'foolish', 'for', 'guarding', 'herod', 'his', 'how', 'in', 'influence', 'integrity', 'internal', 'it', 'john', 'moral', 'narrative', 'of', 'one', 'our', 'over', 'principles', 'prioritizing', 'promise', 'reluctance', 'remain', 'reminder', 'remorse', 'repercussions', 'reputation', 's', 'sacrificing', 'sake', 'seen', 'serves', 'shame', 'snare', 'sobering', 'societal', 'steadfast', 'struggle', 'tale', 'the', 'this', 'to', 'under', 'unsteady', 'urges', 'us', 'with']
-- ChatGPT injected words (significant words only) (44):
-	['baptist', 'caught', 'cautionary', 'clashes', 'compromised', 'conscience', 'convictions', 'dangers', 'easily', 'expectations', 'exposes', 'false', 'foolish', 'guarding', 'herod', 'influence', 'integrity', 'internal', 'john', 'moral', 'narrative', 'principles', 'prioritizing', 'promise', 'reluctance', 'remain', 'reminder', 'remorse', 'repercussions', 'reputation', 's', 'sacrificing', 'sake', 'seen', 'serves', 'shame', 'snare', 'sobering', 'societal', 'steadfast', 'struggle', 'tale', 'unsteady', 'urges']
+- ChatGPT injected words (71):
+	['a', 'actions', 'and', 'as', 'between', 'burdened', 'but', 'by', 'cautionary', 'characteristic', 'conflict', 'conscience', 'convictions', 'crimes', 'drove', 'ensnared', 'environment', 'exposes', 'false', 'fatal', 'foolish', 'found', 'fulfill', 'he', 'herod', 'him', 'himself', 'his', 'is', 'john', 'keep', 'lacking', 'moral', 'oath', 'of', 'over', 'own', 'palpable', 'preaching', 'principles', 'prioritizing', 'promise', 'rash', 'reaction', 'regret', 'reminder', 'reputation', 'reveals', 's', 'scruples', 'serves', 'shame', 'sorry', 'stifled', 'struggling', 'tale', 'that', 'the', 'their', 'them', 'this', 'those', 'thoughtless', 'to', 'trap', 'troubled', 'was', 'while', 'with', 'worst', 'yielding']
+- ChatGPT injected words (significant words only) (46):
+	['actions', 'burdened', 'cautionary', 'characteristic', 'conflict', 'conscience', 'convictions', 'crimes', 'drove', 'ensnared', 'environment', 'exposes', 'false', 'fatal', 'foolish', 'found', 'fulfill', 'herod', 'john', 'lacking', 'moral', 'oath', 'palpable', 'preaching', 'principles', 'prioritizing', 'promise', 'rash', 'reaction', 'regret', 'reminder', 'reputation', 'reveals', 's', 'scruples', 'serves', 'shame', 'sorry', 'stifled', 'struggling', 'tale', 'thoughtless', 'trap', 'troubled', 'worst', 'yielding']
 
 ### Logs
-- Attempt 1 BHT: In Mark 6:26, we see the internal struggle of Herod between his conscience and the pressure of his surroundings. Although Herod felt remorse in his heart for John the Baptist, he found himself trapped in a situation where he had to break a rash oath made to a dancing girl. This reveals how easily men of no principles but troubled conscience will prioritize the breaking of a careless promise over committing grave sins. Sadly, false shame often leads people into fatal snares, as they fear being seen as troubled by religious or moral scruples. This story serves as a cautionary tale, reminding us of the dangers of succumbing to societal expectations and ignoring the convictions of our conscience.
-- 🔄 Mark 6:26 (attempt 1, 117 words, 36.78% quotes quality score: 1.4555770656950209, V2 normalized quality score: 39.74, commentator tiers 1-3: 51.98%, 10.73%, 37.3%) 
+- Attempt 1 BHT: The verse shows how Herod, who had been influenced by John's preaching in the past, found himself trapped by his own foolishness when he rashly made a promise and was then stuck between his conscience and the pressure of his surroundings. This is a cautionary tale about the danger of giving in to the opinions of others and the consequences of not standing firm in one's convictions. Herod's sorry reaction reflects his internal struggle, as he was torn between wanting to save face in front of the guests and being aware of his own folly.
+- 🔄 Mark 6:26 (attempt 1, 98 words, 43.28% quotes quality score: 1.448344139305302, V2 normalized quality score: 39.5, commentator tiers 1-3: 52.26%, 13.92%, 33.82%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Caught between his conscience and the pressure of his surroundings, Herod's foolishness in making a rash promise led to his deep regret. Influenced by John's preaching in the past, he found himself trapped, unable to reject the request. This cautionary tale serves as a reminder of the danger of succumbing to the opinions of others and the importance of standing firm in one's convictions. Herod's sorry reaction reflects his internal struggle, torn between preserving his reputation and acknowledging his own mistakes.
+- 🔄 Mark 6:26 (attempt 2, 85 words, 27.12% quotes quality score: 1.4265726228042745, V2 normalized quality score: 38.78, commentator tiers 1-3: 52.05%, 15.69%, 32.27%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Herod, influenced by John's preaching and burdened by conscience, found himself ensnared by his own rash actions. His false shame drove him to fulfill a foolish promise, disregarding the warning of his conscience. This warns of the fatal trap that many fall into, valuing appearances over true morality. Caught between conscience and environment, Herod's sorry reaction reveals the struggle of one torn between saving face and acknowledging his own mistakes. The language used in Mark's account emphasizes the depth of Herod's regret compared to Matthew's.
+- 🔄 Mark 6:26 (attempt 3, 90 words, 29.23% quotes quality score: 1.5131300371082073, V2 normalized quality score: 41.65, commentator tiers 1-3: 49.73%, 20.24%, 30.03%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this passage, we witness Herod's inner struggle between his conscience and the pressure to fulfill an ill-advised promise. His remorse for John the Baptist clashes with the desire to maintain his reputation, ultimately leading him to break his oath. This story serves as a reminder of the dangers of allowing external influences to override our moral convictions. It is a cautionary tale, exposing the folly of prioritizing societal expectations over the true principles of righteousness.
-- 🔄 Mark 6:26 (attempt 2, 78 words, 30.65% quotes quality score: 1.2800281577486174, V2 normalized quality score: 33.9, commentator tiers 1-3: 50.58%, 7.63%, 41.79%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: In this account, we witness the turmoil within Herod as he grapples with his guilty conscience and the pressure to uphold a foolish promise. The clash between his feelings for John the Baptist and the desire to save face in the eyes of others becomes a snare for him. It sheds light on the danger of allowing false shame to trap us in compromising situations. This episode serves as a stark reminder of the consequences when we prioritize societal expectations over our moral convictions.
-- 🔄 Mark 6:26 (attempt 3, 84 words, 38.1% quotes quality score: 1.311408109926657, V2 normalized quality score: 34.95, commentator tiers 1-3: 51.02%, 7.89%, 41.08%) 
+- Attempt 4 BHT: Influenced by John's preaching and burdened by conscience, Herod's own rashness led to his regrettable actions. Faced with the choice of upholding his promise or following his convictions, Herod succumbed to false shame and fulfilled the foolish oath he had made. This cautionary tale serves as a reminder of the dangers of prioritizing appearances over righteousness. Caught between conscience and environment, Herod's sorry reaction reflects the struggle he faced between preserving his reputation and acknowledging his mistakes.
+- 🔄 Mark 6:26 (attempt 4, 80 words, 29.31% quotes quality score: 1.4214505435411446, V2 normalized quality score: 38.61, commentator tiers 1-3: 52.94%, 8.96%, 38.09%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: With his conscience burdened by John's preaching, Herod's regret was palpable as he found himself ensnared by his own rash actions. The false shame that drove him to fulfill a foolish promise reveals the fatal trap of prioritizing reputation over moral scruples. This cautionary tale serves as a reminder that yielding to the worst crimes while struggling to keep a thoughtless oath is characteristic of those lacking principles but troubled by their conscience. Herod's sorry reaction exposes the conflict between his own convictions and the environment that stifled them.
+- 🔄 Mark 6:26 (attempt 5, 92 words, 35.21% quotes quality score: 1.5734921167304465, V2 normalized quality score: 43.66, commentator tiers 1-3: 57.37%, 8.45%, 34.18%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Caught between his conscience and the repercussions of a foolish promise, Herod's internal struggle in this narrative exposes the dangers of prioritizing societal expectations over moral convictions. His remorse for John the Baptist clashes with his reluctance to be seen as unsteady. This cautionary tale serves as a sobering reminder of how easily one's principles can be compromised under the influence of false shame. It urges us to remain steadfast in our convictions, guarding against the snare of sacrificing integrity for the sake of reputation.
-- 🔄 Mark 6:26 (attempt 4, 87 words, 33.33% quotes quality score: 1.3405314386176208, V2 normalized quality score: 35.92, commentator tiers 1-3: 51.85%, 6.55%, 41.6%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In Mark 6:26, we witness the struggle of Herod as he wrestles with his conscience and the pressure to fulfill a rash promise. This treacherous situation highlights the perils of allowing false shame and societal expectations to outweigh moral values. Herod's remorse for John the Baptist is contrasted with his fear of being seen as unsteady, illustrating the tragic consequences of prioritizing reputation over righteousness. This powerful narrative serves as a timeless reminder of the need to courageously adhere to our convictions, avoiding the fatal snares of compromise.
-- 🔄 Mark 6:26 (attempt 5, 88 words, 25.76% quotes quality score: 1.4894757720819676, V2 normalized quality score: 40.87, commentator tiers 1-3: 46.28%, 17.85%, 35.88%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 6:26 bht prompt v0.8 (87 words, 33.33% quotes)
-- quality score: 1.3405314386176208, V2 normalized quality score: 35.92, commentator tiers 1-3: 51.85%, 6.55%, 41.6%)
+- ✅ Mark 6:26 bht prompt v0.8 (92 words, 35.21% quotes)
+- quality score: 1.5734921167304465, V2 normalized quality score: 43.66, commentator tiers 1-3: 57.37%, 8.45%, 34.18%)

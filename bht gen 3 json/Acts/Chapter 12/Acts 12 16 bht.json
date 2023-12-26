@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:29:57",
+    "timestamp": "12-25-2023 20:34:06",
     "verseRef": "Acts 12:16",
     "bestBHT": {
-        "bht": "Peter's relentless perseverance is evident as he continues knocking on the door, fully aware of the dangers that could arise from any delay. The astonishment of the group is apparent when they finally hear the knocking and rush to the courtyard to confirm the source. Witnessing Peter's miraculous rescue leaves them in awe, struggling to comprehend how he was delivered from prison. Their amazement stems from not only the occurrence but also the manner in which it took place.",
-        "wordCount": 81,
-        "quoteTokenProportion": 40.32,
-        "qualityScore": 1.0916580917593224,
-        "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+        "bht": "Peter, who was in prison, continued knocking at the door while everyone inside was in awe. They all heard the persistent knocking and rushed out to see what was happening. When they opened the door, they were astonished to see Peter standing there. They could hardly believe their own eyes. It was amazing to them that he had been rescued from prison, especially considering the strong guard that was in place. Peter's determination and the miraculous nature of his release left them in awe and wonder.",
+        "wordCount": 87,
+        "quoteTokenProportion": 48.33,
+        "qualityScore": 1.380546333774933,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.25,
         "commentatorTierSimilarities": [
-            23.8,
-            35.73,
-            40.47
+            18.35,
+            34.38,
+            47.27
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -20,19 +20,19 @@
             "\tbeing dangerous."
         ],
         "Albert Barnes": [
-            "They were amazed that he had been rescued.",
-            "They were now convinced that it was Peter.",
-            "They were of course ignorant of the manner in which it was done."
+            "Were astonished.",
+            "They were convinced that it was Peter.",
+            "They were amazed that he had been rescued."
         ],
         "Archibald T. Robertson": [
-            "Continued knocking... Now all heard the knocking.",
-            "When they had opened... The whole group rushed out to the courtyard this time to make sure.",
-            "They were amazed... The frequent second aorist active (intransitive) indicative of \u03b5\u03be\u03b9\u03c3\u03c4\u03b7\u03bc."
+            "Continued knocking. Now all heard the knocking.",
+            "When they had opened. The whole group rushed out to the courtyard this time to make sure.",
+            "They were amazed. The frequent second aorist active (intransitive) indicative of \u03b5\u03be\u03b9\u03c3\u03c4\u03b7\u03bc."
         ],
         "John Gill": [
-            "But Peter continued knocking....",
-            "and when they had opened the door, and saw him, they were astonished...",
-            "it was amazing to them, how it should be, that he should be delivered out of prison..."
+            "But Peter continued knocking.... That they might come to him, and let him in; beginning to be impatient, and being very desirous of seeing his friends...\" ",
+            "when they had opened the door, and saw him, they were astonished: they could hardly believe their own eyes...",
+            "it was amazing to them, how it should be, that he should be delivered out of prison, when they knew there was such a strong guard about him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -52,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Acts 12:16, Peter remained persistent in knocking on the door, being aware of the danger of delay. The whole group was astonished when they finally heard the knocking and rushed out to the courtyard to verify it. They were amazed at Peter's miraculous rescue, unable to comprehend how he had been delivered from prison.",
-            "wordCount": 55,
-            "quoteTokenProportion": 45.45,
-            "qualityScore": 1.3423701696547987,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "bht": "Peter, who was in prison, continued knocking at the door while everyone inside was in awe. They all heard the persistent knocking and rushed out to see what was happening. When they opened the door, they were astonished to see Peter standing there. They could hardly believe their own eyes. It was amazing to them that he had been rescued from prison, especially considering the strong guard that was in place. Peter's determination and the miraculous nature of his release left them in awe and wonder.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.380546333774933,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.25,
             "commentatorTierSimilarities": [
-                24.0,
-                36.32,
-                39.67
+                18.35,
+                34.38,
+                47.27
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Peter's persistence in Acts 12:16 is evident as he continued knocking despite the danger of delay. The astonishment among the group was palpable when they finally heard the knocking and hastily went to the courtyard to confirm what was happening. Their amazement stemmed from witnessing Peter's miraculous rescue, leaving them bewildered as to how he had been delivered from prison.",
-            "wordCount": 61,
-            "quoteTokenProportion": 39.58,
-            "qualityScore": 1.3009594891435434,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.6,
+            "bht": "Peter's continued knocking at the door while in prison left everyone amazed and eager to see what was happening. When they finally opened the door, their astonishment grew as they saw Peter standing before them. It was truly incredible to witness his release, especially given the strong guard that surrounded him. The resiliency of Peter and the miraculous nature of his rescue left them in awe and wonder.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.3166619945191063,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.12,
             "commentatorTierSimilarities": [
-                27.91,
-                33.41,
-                38.68
+                20.89,
+                30.0,
+                49.11
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this passage, Peter's unwavering determination is highlighted as he persistently continues knocking on the door despite the potential risks. The astonishment of the group quickly spreads as they hear the knocking and rush to see what is happening. Witnessing Peter's miraculous rescue, they are left amazed, struggling to comprehend how he could have been delivered from imprisonment.",
-            "wordCount": 60,
-            "quoteTokenProportion": 39.58,
-            "qualityScore": 1.1113048777185144,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.29,
+            "bht": "Peter's persistent knocking at the door while he was in prison was a testament to his determination and urgency to see his friends. The astonishment of those inside grew as they heard the knocking and rushed to open the door, barely believing their own eyes when they saw Peter standing before them. The miraculous nature of Peter's rescue left them amazed, considering the secure guard that surrounded him. It was truly a remarkable event that filled them with wonder and gratitude.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2370468798505299,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
             "commentatorTierSimilarities": [
-                32.08,
-                25.05,
-                42.87
+                16.7,
+                33.0,
+                50.29
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Peter's relentless perseverance is emphasized as he remains resolute in knocking on the door, fully aware of the potential perils that could arise from any delay in his actions. The astonishment of the entire group is evident as they finally hear the distinctive knocking sound, prompting them to hastily gather in the courtyard to verify the astonishing turn of events. The miraculous nature of Peter's liberation leaves them in awe and amazement, unable to grasp the extraordinary way in which he was delivered from his captivity.",
-            "wordCount": 88,
-            "quoteTokenProportion": 29.03,
-            "qualityScore": 0.9453846920905875,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.78,
+            "bht": "Peter's insistent knocking at the door of the prison displayed his impatience and eagerness to be reunited with his friends. The astonishment of those inside grew as they all heard the knocking and rushed to open the door, unable to believe their own eyes when they saw Peter standing before them. The miraculous deliverance of Peter, despite the presence of a strong guard, left them in awe. The whole event was nothing short of amazing, leaving them filled with wonder and amazement.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.1664820271099476,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.13,
             "commentatorTierSimilarities": [
-                32.65,
-                25.1,
-                42.26
+                19.42,
+                28.48,
+                52.11
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Peter's relentless perseverance is evident as he continues knocking on the door, fully aware of the dangers that could arise from any delay. The astonishment of the group is apparent when they finally hear the knocking and rush to the courtyard to confirm the source. Witnessing Peter's miraculous rescue leaves them in awe, struggling to comprehend how he was delivered from prison. Their amazement stems from not only the occurrence but also the manner in which it took place.",
+            "bht": "Peter's fervent knocking at the prison door reflected his urgency and desire to see his friends. The astonishment among those inside escalated as they collectively heard the persistent knocking and hurriedly opened the door. Their eyes beheld Peter, and they were astounded, finding it difficult to comprehend his sudden presence. The extraordinary deliverance of Peter, despite the heavily guarded circumstances, left them in awe. The entire incident was truly astonishing, fostering a sense of wonder and amazement among those witnesses.",
             "wordCount": 81,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.0916580917593224,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.1977112778329075,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.17,
             "commentatorTierSimilarities": [
-                23.8,
-                35.73,
-                40.47
+                19.76,
+                32.46,
+                47.78
             ],
             "generationAttempt": 5
         }

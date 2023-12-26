@@ -1,66 +1,66 @@
 # Luke 12:45 Commentary Help Text
 
 ## BHT:
-The servant, confident of the delay in the master's return, abandons his servant role and mistreats those who remain faithful. He plans to deceive the master and resumes his act of fidelity when the master appears. This parable cautions against the danger of complacency and unfaithfulness, emphasizing the importance of genuine actions that align with professed faith. Mere profession without corresponding deeds is inadequate, and those who fall away from their faith can become harsh persecutors of the faithful.
+Confident in his master's delay, the servant abandons his role and tyrannizes the faithful servants who refuse to partake in his wrongdoings. He indulges in his master's bountiful provisions, fully intending to pretend to be faithful once his master returns. Yet, the servant's focus on the delay reveals his true motives of exploiting his master's absence. This serves as a reminder that mere profession of faith is insufficient; true devotion is demonstrated through obedience to God's will.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "In the confidence that his Lord's return will not be speedy, he throws off the role of servant and plays the master..." 
-2. "Maltreating those faithful servants who refuse to join him, seizing on and revelling in the fulness of his master's board..."
-3. "...intending, when he has got his fill, to resume the mask of fidelity ere his master appear."
+1. "In the confidence that his Lord's return will not be speedy, he throws off the role of servant and plays the master." 
+2. "Maltreating those faithful servants who refuse to join him." 
+3. "Seizing on and revelling in the fulness of his master's board intending, when he has got his fill, to resume the mask of fidelity ere his master appear."
 
 ### Marvin Vincent:
 1. Delayeth. The emphatic word, since the thought of the lord 's delay and of the postponement of the reckoning is uppermost in the servant 's thought.
 
 
 ### Archibald T. Robertson:
-1. "Shall say, Delayeth, Shall begin. The menservants and the maidservants." (26 words)
-2. "Shall say, Delayeth, Shall begin." (6 words)
-3. "The menservants and the maidservants." (6 words)
+1. "Shall say... delayeth... shall begin." 
+2. "The menservants and the maidservants."
+3. "Παιδισκη is a diminutive of παις for a young female slave and occurs in the papyri, originally just a damsel."
 
 ### John Gill:
-1. "because he tarried longer than was expected, supposed him to be slack concerning his promise"
-2. "he calls Christ his Lord; but it is not saying Lord, Lord, that will be of any avail, but doing the will of God"
-3. "professors of religion, when they turn apostates, are the most violent persecutors of the saints"
+1. "Though a wicked servant, he calls Christ his Lord; but it is not saying Lord, Lord, that will be of any avail, but doing the will of God." 
+2. "He had a notion of the coming of Christ, though he did not desire it; and because he tarried longer than was expected, supposed him to be slack concerning his promise." 
+3. "As professors of religion, when they turn apostates, are the most violent persecutors of the saints; so such persecutors of Christ's faithful followers are commonly drunkards and debauchees."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:19:02
+- Timestamp: 12-25-2023 20:33:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 34.48%
-- BHT Quality Score: 1.43774484987686
+- BHT Word Count: 82
+- BHT Commentary Usage: 34.55%
+- BHT Quality Score: 1.634219904173484
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['abandons', 'act', 'actions', 'against', 'align', 'and', 'appears', 'away', 'become', 'can', 'cautions', 'complacency', 'confident', 'corresponding', 'danger', 'deceive', 'deeds', 'delay', 'emphasizing', 'faith', 'faithful', 'fall', 'fidelity', 'from', 'genuine', 'harsh', 'he', 'his', 'importance', 'in', 'inadequate', 'is', 'master', 'mere', 'mistreats', 'of', 'parable', 'persecutors', 'plans', 'professed', 'profession', 'remain', 'resumes', 'return', 'role', 's', 'servant', 'that', 'the', 'their', 'this', 'those', 'to', 'unfaithfulness', 'when', 'who', 'with', 'without']
-- ChatGPT injected words (significant words only) (38):
-	['abandons', 'act', 'actions', 'align', 'appears', 'away', 'cautions', 'complacency', 'confident', 'corresponding', 'danger', 'deceive', 'deeds', 'delay', 'emphasizing', 'faith', 'faithful', 'fall', 'fidelity', 'genuine', 'harsh', 'importance', 'inadequate', 'master', 'mere', 'mistreats', 'parable', 'persecutors', 'plans', 'professed', 'profession', 'remain', 'resumes', 'return', 'role', 's', 'servant', 'unfaithfulness']
+- ChatGPT injected words (55):
+	['a', 'abandons', 'absence', 'and', 'as', 'be', 'bountiful', 'confident', 'delay', 'demonstrated', 'devotion', 'exploiting', 'faith', 'faithful', 'focus', 'fully', 'god', 'he', 'his', 'in', 'indulges', 'insufficient', 'intending', 'is', 'master', 'mere', 'motives', 'obedience', 'of', 'on', 'once', 'partake', 'pretend', 'profession', 'provisions', 'refuse', 'reminder', 'returns', 'reveals', 'role', 's', 'servant', 'servants', 'serves', 'that', 'the', 'this', 'through', 'to', 'true', 'tyrannizes', 'who', 'will', 'wrongdoings', 'yet']
+- ChatGPT injected words (significant words only) (36):
+	['abandons', 'absence', 'bountiful', 'confident', 'delay', 'demonstrated', 'devotion', 'exploiting', 'faith', 'faithful', 'focus', 'fully', 'god', 'indulges', 'insufficient', 'intending', 'master', 'mere', 'motives', 'obedience', 'partake', 'pretend', 'profession', 'provisions', 'refuse', 'reminder', 'returns', 'reveals', 'role', 's', 'servant', 'servants', 'serves', 'true', 'tyrannizes', 'wrongdoings']
 
 ### Logs
-- Attempt 1 BHT: In Luke 12:45, the servant embodies a dangerous attitude of arrogance and complacency, assuming that his master's return will be delayed and abusing his position of authority. The servant maltreats those who remain faithful and plans to deceive his master upon his return. This parable highlights the danger of adopting a mindset that excuses unfaithfulness and disregards the imminence of the master's return. The delay of the master's arrival becomes the servant's justification for his actions, but in reality, it only reveals his true character. The emphasis on delay reflects the servant's misguided perception and his intention to resume his facade of loyalty later. Ultimately, this passage reminds us that mere profession of faith without corresponding actions is inadequate and that those who abandon their faith can become fierce persecutors of the faithful.
-- 🔄 Luke 12:45 (attempt 1, 137 words, 31.33% quotes quality score: 1.5398756023460072, V2 normalized quality score: 42.54, commentator tiers 1-3: 55.09%, 0.0%, 44.91%) 
+- Attempt 1 BHT: The servant in this verse confidently assumes that his master's return will be delayed and therefore acts recklessly, mistreating the faithful servants who refuse to join him. He indulges in the abundance that his master provides, fully intending to pretend to be faithful once his master appears. However, the emphasis on the delay in the servant's mind shows that his true motives lie in taking advantage of his master's absence. This passage warns that simply professing belief in the Lord is not enough and that true faith is demonstrated by doing the will of God.
+- 🔄 Luke 12:45 (attempt 1, 98 words, 34.92% quotes quality score: 1.6215530560455167, V2 normalized quality score: 45.26, commentator tiers 1-3: 44.04%, 0.0%, 55.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: The servant in this verse displays an attitude of arrogance and complacency, assuming that his master's return will be delayed, mistreating faithful servants, and intending to deceive his master. This parable highlights the danger of adopting a mindset that excuses unfaithfulness and disregards the imminent return of the master. The delay becomes the servant's justification for his actions, but it only reveals his true character. Mere profession of faith without corresponding actions is insufficient, and those who abandon their faith can become fierce persecutors of the faithful.
-- 🔄 Luke 12:45 (attempt 2, 89 words, 38.1% quotes quality score: 1.5087425210394596, V2 normalized quality score: 41.51, commentator tiers 1-3: 52.17%, 0.0%, 47.83%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The servant, confident in the delay of his master's return, abandons his role as servant and behaves as if he were the master, mistreating the faithful servants who refuse to join him. He intends to resume his act of fidelity before his master arrives, only desiring to revel in abundance first. This parable underscores the danger of assuming the master's return will be postponed and justifies unfaithfulness. It emphasizes the importance of genuine faith expressed through actions, as mere profession without deeds is insufficient.
-- 🔄 Luke 12:45 (attempt 3, 86 words, 36.07% quotes quality score: 1.4291161573521785, V2 normalized quality score: 38.86, commentator tiers 1-3: 56.11%, 0.0%, 43.89%) 
+- Attempt 2 BHT: In this scenario, the servant's confidence in his master's delayed return leads him to act out of character, mistreating the faithful servants who refuse to participate. He takes pleasure in his master's provisions, fully intending to feign loyalty when his master finally appears. However, the servant's preoccupation with the delay indicates that his true intentions lie in exploiting his master's absence. This warns that mere profession of faith is insufficient, as true devotion is manifested through obedience to God's will.
+- 🔄 Luke 12:45 (attempt 2, 86 words, 30.51% quotes quality score: 1.548943103411227, V2 normalized quality score: 42.84, commentator tiers 1-3: 48.68%, 0.0%, 51.32%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The servant in this verse disregards his role and assumes the position of the master with the misguided belief that the master's return will be delayed. He mistreats the faithful servants who refuse to join him and plans to deceive his master before his arrival. This parable warns against adopting a mindset of unfaithfulness and complacency, emphasizing the need for genuine actions to accompany professions of faith. Those who abandon their faith may even become persecutors of the faithful.
-- 🔄 Luke 12:45 (attempt 4, 80 words, 39.66% quotes quality score: 1.4239236307253416, V2 normalized quality score: 38.69, commentator tiers 1-3: 51.99%, 0.0%, 48.01%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The servant, confident of the delay in the master's return, abandons his servant role and mistreats those who remain faithful. He plans to deceive the master and resumes his act of fidelity when the master appears. This parable cautions against the danger of complacency and unfaithfulness, emphasizing the importance of genuine actions that align with professed faith. Mere profession without corresponding deeds is inadequate, and those who fall away from their faith can become harsh persecutors of the faithful.
-- 🔄 Luke 12:45 (attempt 5, 80 words, 34.48% quotes quality score: 1.43774484987686, V2 normalized quality score: 39.15, commentator tiers 1-3: 58.57%, 0.0%, 41.43%) 
+- Attempt 3 BHT: Confident in his master's delay, the servant abandons his role and tyrannizes the faithful servants who refuse to partake in his wrongdoings. He indulges in his master's bountiful provisions, fully intending to pretend to be faithful once his master returns. Yet, the servant's focus on the delay reveals his true motives of exploiting his master's absence. This serves as a reminder that mere profession of faith is insufficient; true devotion is demonstrated through obedience to God's will.
+- 🔄 Luke 12:45 (attempt 3, 82 words, 34.55% quotes quality score: 1.634219904173484, V2 normalized quality score: 45.68, commentator tiers 1-3: 48.66%, 0.0%, 51.34%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 12:45 bht prompt v0.8 (80 words, 34.48% quotes)
-- quality score: 1.43774484987686, V2 normalized quality score: 39.15, commentator tiers 1-3: 58.57%, 0.0%, 41.43%)
+- Attempt 4 BHT: Confident in the delay of his master's return, the servant assumes a position of authority and mistreats the loyal servants. He indulges in his master's provisions with the intention of pretending to be faithful when his master finally appears. Yet, the servant's focus on the delay signifies his true motives of exploiting his master's absence. This cautionary tale emphasizes that simply professing belief is inadequate; true devotion is revealed through the sincere obedience to God's will.
+- 🔄 Luke 12:45 (attempt 4, 81 words, 32.73% quotes quality score: 1.5784039988414995, V2 normalized quality score: 43.82, commentator tiers 1-3: 50.36%, 0.0%, 49.64%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Confident in the delay of his master's return, the servant abandons his role and mistreats the faithful servants who refuse to comply. Indulging in his master's provisions, he plans to feign loyalty upon the master's arrival. Yet, the servant's emphasis on the delay reveals his true intentions of taking advantage of his master's absence. This serves as a reminder that mere profession of faith is insufficient, as genuine devotion is displayed through obedience to God's will.
+- 🔄 Luke 12:45 (attempt 5, 82 words, 32.73% quotes quality score: 1.5904775747481756, V2 normalized quality score: 44.23, commentator tiers 1-3: 51.22%, 0.0%, 48.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 12:45 bht prompt v0.8 (82 words, 34.55% quotes)
+- quality score: 1.634219904173484, V2 normalized quality score: 45.68, commentator tiers 1-3: 48.66%, 0.0%, 51.34%)

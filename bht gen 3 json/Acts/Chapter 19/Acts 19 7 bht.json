@@ -1,30 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:33:19",
+    "timestamp": "12-25-2023 20:34:10",
     "verseRef": "Acts 19:7",
     "bestBHT": {
-        "bht": "When the people heard the explanation of the gospel, they were baptized in the name of the Lord Jesus, signifying their entrance into the fullness of the new economy. Notably, Paul himself did not baptize them, but rather someone else. This episode demonstrates how certain groups of believers, like these men in Ephesus, were won over by the preaching of Paul and his disciples. It appears to be the starting point of a Gospel church in Ephesus.",
-        "wordCount": 77,
-        "quoteTokenProportion": 48.28,
-        "qualityScore": 1.0536925222983606,
-        "qualityScoreNormalizedComparedToV2BHTs": 26.38,
+        "bht": "They were baptized in the name of the Lord Jesus, into the whole fullness of the new economy. When they heard this, they were baptized, fully embracing the teachings of the new faith. This episode serves as an example of how groups of men who were won over by the preaching of Paul and his school were attached to an imperfect form of Christianity. This was part of a larger movement happening in other centers of the faith. These new believers in Ephesus may have even become some of the first members of a Gospel church in the area.",
+        "wordCount": 99,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.3588463366388166,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.52,
         "commentatorTierSimilarities": [
-            21.43,
-            39.4,
-            39.16
+            42.05,
+            25.3,
+            32.65
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "When they heard this\u2014not",
-            "\tthe mere words reported in Acts 19:4,",
-            "\tbut the subject expounded according to the tenor of those",
-            "\twords.\" ",
-            "they were baptized\u2014not",
-            "\thowever by Paul himself (1 Corinthians 1:14).",
-            "in the name of the Lord",
-            "\tJesus\u2014into the whole fulness of the new economy, as now opened",
-            "\tup to their believing minds."
+            "They were baptized...in the name of the Lord Jesus\u2014into the whole fulness of the new economy.\" ",
+            "When they heard this...they were baptized.\" ",
+            "They were baptized...into the whole fulness of the new economy."
         ],
         "Albert Barnes": [
             "And all the men - The whole number."
@@ -35,9 +29,9 @@
             "What happened at Ephesus in the case of Apollos and this little solitary group of followers of the Baptist, was simply an instance of what was taking place constantly in other centres of the new faith."
         ],
         "John Gill": [
-            "And all the men were about twelve.",
-            "The historian might be at a certainty about it.",
-            "These seem to be the first materials of a Gospel church at Ephesus."
+            "The historian might be at a certainty about it...",
+            "These seem to be the first materials of a Gospel church at Ephesus...",
+            "...very likely were some of the elders of it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -57,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When the people in Acts 19:7 heard the explanation of the gospel, they responded by being baptized in the name of the Lord Jesus. This baptism marked their entrance into the fullness of the new economy. It is interesting to note that Paul himself did not baptize them, but rather someone else. This episode demonstrates how certain groups of believers, such as these men in Ephesus, were won over by the preaching of Paul and his disciples. In fact, this incident seems to be the beginning of the formation of a Gospel church in Ephesus.",
-            "wordCount": 94,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 0.9901425502274114,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.27,
+            "bht": "They were baptized in the name of the Lord Jesus, into the whole fullness of the new economy. When they heard this, they were baptized, fully embracing the teachings of the new faith. This episode serves as an example of how groups of men who were attached to an imperfect form of Christianity were won over by the preaching and influence of Paul and his school. This was part of a larger movement happening in other centers of the faith. These new believers in Ephesus may have even become some of the first members of a Gospel church in the area.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.3452502035109655,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.07,
             "commentatorTierSimilarities": [
-                23.02,
-                40.39,
-                36.59
+                42.29,
+                25.0,
+                32.72
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When the people heard the explanation of the gospel, they responded by being baptized in the name of the Lord Jesus. This marked their entrance into the fullness of the new economy. Notably, someone other than Paul baptized them. This episode shows how groups of believers, like these men in Ephesus, were won over by the preaching of Paul and his disciples. It seems to be the beginning of a Gospel church in Ephesus.",
-            "wordCount": 74,
-            "quoteTokenProportion": 49.06,
-            "qualityScore": 0.9994129043517866,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.57,
+            "bht": "They were baptized in the name of the Lord Jesus, into the whole fullness of the new economy. When they heard this, they were baptized, fully embracing the teachings of the new faith. This episode serves as an example of how groups of men who were won over by the preaching of Paul and his school were attached to an imperfect form of Christianity. This was part of a larger movement happening in other centers of the faith. These new believers in Ephesus may have even become some of the first members of a Gospel church in the area.",
+            "wordCount": 99,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.3588463366388166,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.52,
             "commentatorTierSimilarities": [
-                25.32,
-                34.84,
-                39.85
+                42.05,
+                25.3,
+                32.65
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When the people heard the explanation of the gospel, they were baptized in the name of the Lord Jesus, signifying their entrance into the fullness of the new economy. Notably, Paul himself did not baptize them, but rather someone else. This episode demonstrates how certain groups of believers, like these men in Ephesus, were won over by the preaching of Paul and his disciples. It appears to be the starting point of a Gospel church in Ephesus.",
-            "wordCount": 77,
-            "quoteTokenProportion": 48.28,
-            "qualityScore": 1.0536925222983606,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.38,
+            "bht": "When the people heard the teachings of the Lord Jesus, they were baptized into the new economy, fully embracing the faith. This episode demonstrates how men who were attached to an imperfect form of Christianity were won over by the preaching of Paul and his school. This was part of a larger movement happening in various centers of the faith. These new believers in Ephesus may have even become some of the earliest members of a Gospel church in the area.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.2586909874724284,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.19,
             "commentatorTierSimilarities": [
-                21.43,
-                39.4,
-                39.16
+                35.03,
+                28.92,
+                36.05
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When the people in Acts 19:7 heard this, they were baptized in the name of the Lord Jesus, embracing the fullness of the new economy. Interestingly, someone other than Paul administered their baptism. This episode illustrates how Paul and his disciples successfully influenced various groups of believers, like these men in Ephesus. It seems to be the initial step in the establishment of a Gospel church in Ephesus.",
-            "wordCount": 67,
-            "quoteTokenProportion": 43.14,
-            "qualityScore": 1.0096301862683585,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.91,
+            "bht": "They were baptized in the name of the Lord Jesus, fully immersing themselves in the new economy. When they heard the teachings, they wholeheartedly accepted and were baptized. This episode illustrates how men who were previously attached to an imperfect form of Christianity were converted by Paul and his school. This was a common occurrence in other centers of the faith, where individuals were moved by the message. These believers in Ephesus likely became some of the earliest members of a Gospel church in the region.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.3161925458480717,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.11,
             "commentatorTierSimilarities": [
-                24.44,
-                39.64,
-                35.92
+                40.47,
+                26.92,
+                32.61
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When the people heard the explanation of the gospel, they responded by being baptized in the name of the Lord Jesus, entering into the fullness of the new economy. Notably, Paul did not baptize them himself, but another individual did. This incident reveals how believers, like these men in Ephesus, were converted through the preaching of Paul and his disciples. It marks the beginning of the formation of a Gospel church in Ephesus.",
-            "wordCount": 73,
-            "quoteTokenProportion": 45.28,
-            "qualityScore": 1.029825127581653,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.59,
+            "bht": "Those who heard the teachings were baptized in the name of the Lord Jesus, immersing themselves fully in the new economy. This demonstrates how individuals who were previously associated with an imperfect form of Christianity were won over by Paul's preaching. Similar conversions were happening in other places as well. It is possible that these new believers in Ephesus became the foundation of a Gospel church in the area, potentially even serving as elders.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.2558616168995127,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.1,
             "commentatorTierSimilarities": [
-                22.0,
-                39.12,
-                38.89
+                35.43,
+                29.28,
+                35.29
             ],
             "generationAttempt": 5
         }

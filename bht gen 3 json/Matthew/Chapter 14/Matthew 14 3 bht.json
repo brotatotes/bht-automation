@@ -1,43 +1,43 @@
 {
-    "timestamp": "12-19-2023 23:48:06",
+    "timestamp": "12-25-2023 20:31:57",
     "verseRef": "Matthew 14:3",
     "bestBHT": {
-        "bht": "In the chapter, we encounter the imprisonment of John the Baptist after he denounced the incestuous relationship between Herod Antipas and Herodias, his niece and sister-in-law. John fearlessly fulfills his duty as a prophet, despite the possible repercussions from the tyrant. The fortress where John was held captive offered a grand vista of the Dead Sea, the Jordan River, and Jerusalem. This event serves as a poignant reminder of the moral courage that believers should exhibit in their unwavering commitment to God.",
-        "wordCount": 84,
-        "quoteTokenProportion": 30.16,
-        "qualityScore": 1.3191957449924363,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+        "bht": "John the Baptist found himself imprisoned in the fortress of Machaerus, a detached citadel with underground dungeons that served as a chilling reminder of his unwavering commitment to righteousness. His fearless reproof of Herod Antipas and Herodias' immoral relationship placed him in this dank and gloomy prison. The fortress, perched high on a hill, offered panoramic views of the Dead Sea, the Jordan River, and Jerusalem, serving as a poignant backdrop to John's steadfast resistance against the depravity of earthly rulers.",
+        "wordCount": 82,
+        "quoteTokenProportion": 24.19,
+        "qualityScore": 1.7257603974860036,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.72,
         "commentatorTierSimilarities": [
-            29.4,
-            31.28,
-            39.32
+            41.85,
+            32.45,
+            25.7
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Put him in prison [\u03b5\u03bd \u03c6\u03c5\u03bb\u03b1\u03ba\u03b7 \u03b1\u03c0\u03b5\u03b8\u03b5\u03c4\u03bf] . Lit., \"put him away or aside\" [\u03b1\u03c0\u03bf].\" ",
-            "As we clamber over them to examine the interior, we notice how small this keep is: exactly one hundred yards in diameter.",
+            "Put him in prison [\u03b5\u03bd \u03c6\u03c5\u03bb\u03b1\u03ba\u03b7 \u03b1\u03c0\u03b5\u03b8\u03b5\u03c4\u03bf] . Lit., 'put him away or aside' [\u03b1\u03c0\u03bf].",
+            "In the detached citadel, probably in one of the underground dungeons, remains of which may still be seen, was the prison of John.",
             "As we look down into its hot darkness, we shudder in realizing that this terrible keep had, for nigh ten months, been the prison of that son of the free wilderness, the bold herald of the coming kingdom, the humble, earnest, self - denying John the Baptist."
         ],
         "John Calvin": [
-            "John condemns the rape still more than the incest; for it was by violence or by stratagem that Herod had deprived his brother of his lawful wife.",
-            "Hence we learn with what unshaken fortitude the servants of God ought to be armed when they have to do with princes.",
-            "But as a prophet of God ought not to overlook so shocking a crime, John steps forward, though a disagreeable and unwelcome adviser, and, rather than fail in his duty, scruples not to incur the frown of the tyrant."
+            "The true state of the fact, however, is pointed out by the Evangelists: Herod was offended at the holy man, because he had been reproved by him.",
+            "To return to the Evangelists, they tell us that John was thrown into prison, because he had reproved Herod\u2019s crime with greater freedom than the ferocity of the tyrant would endure.",
+            "Hence we learn with what unshaken fortitude the servants of God ought to be armed when they have to do with princes; for in almost every court hypocrisy and servile flattery are prevalent."
         ],
         "Philip Schaff": [
-            "For the sake of Herodias, his brother Philip\u2019s wife.",
-            "Herod Antipas was first married to a daughter of Aretas, king of Arabia.",
-            "Becoming enamored of Herodias, his niece and sister-in-law, he married her secretly, while her husband was still living, repudiating his own legal wife."
+            "For Herod had laid hold on John... This imprisonment took place not long after our Lord began His ministry.\" ",
+            "Herod Antipas was first married to a daughter of Aretas, king of Arabia... Becoming enamored of Herodias, his niece and sister-in-law, he married her secretly, while her husband was still living, repudiating his own legal wife.",
+            "Aretas made war against him in consequence, and having defeated him was prevented by the Romans from dethroning him."
         ],
         "Archibald T. Robertson": [
-            "This Herodias was the unlawful wife of Herod Antipas. She was herself a descendant of Herod the Great and had married Herod Philip of Rome, not Philip the Tetrarch.",
-            "It was a nasty mess equal to any of our modern divorces.",
+            "This Herodias was the unlawful wife of Herod Antipas. [...] It was a nasty mess equal to any of our modern divorces.\" ",
+            "Because of her Herod Antipas had put John in the prison at Machaerus.\" ",
             "On a high hill an impregnable fortress had been built... 'The windows commanded a wide and grand prospect, including the Dead Sea, the course of the Jordan, and Jerusalem'."
         ],
         "John Gill": [
-            "For Herod had laid hold on John, and bound him; laid him in chains, as if he was a malefactor.\" ",
-            "This Herodias was the daughter of Aristobulus, son to Herod the Great, and brother to Philip, and to this Herod; so that she was niece to them both.\" ",
+            "For Herod had laid hold on John... and put him in prison, in the castle of Machaerus.",
+            "This Herodias was the daughter of Aristobulus, son to Herod the Great, and brother to Philip.",
             "The case was this, Herod being sent for to Rome, called at his brother Philip's by the way, where he fell into an amorous intrigue with his wife, and agreed, upon his return, to take her with him and marry her."
         ],
         "John Wesley": [
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Matthew 14:3, we see Herod Antipas, prompted by his unlawful wife, Herodias, imprisoning John the Baptist. This fortress where John was held captive was perched on a high hill, offering a commanding view of the Dead Sea, the Jordan River, and Jerusalem. Even though Herodias was the niece and sister-in-law of Herod Antipas, John boldly censures their incestuous relationship, demonstrating the unwavering fortitude that servants of God should possess in the face of corrupt rulers. Despite the disagreeable nature of his counsel, John fulfills his duty as a prophet, unafraid of incurring the tyrant's displeasure. The imprisonment of John, as if he were a criminal, serves as a testament to the audacity of Herod's actions. Ultimately, we are reminded of the moral courage and faithful witness that followers of God should display in all circumstances.",
-            "wordCount": 139,
-            "quoteTokenProportion": 27.17,
-            "qualityScore": 1.3788166294968969,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.19,
+            "bht": "John the Baptist found himself in a dismal situation, confined in a dark and underground dungeon in the fortress of Machaerus. Herod Antipas, influenced by his unlawful wife Herodias, had imprisoned John because of his outspoken reproach of their immoral relationship. Standing in that prison, John's fearless commitment to righteousness in the face of a vicious and immoral ruler is evident. It serves as a reminder that God's servants must remain steadfast and unyielding when confronted with dishonesty and flattery in the courts of earthly rulers. This prison was a physical manifestation of the clash between righteousness and the corrupt desires of a ruler, with windows showcasing a vast landscape that included the Dead Sea, the Jordan river, and Jerusalem.",
+            "wordCount": 122,
+            "quoteTokenProportion": 26.83,
+            "qualityScore": 1.6134790696169028,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
             "commentatorTierSimilarities": [
-                29.36,
-                32.77,
-                37.87
+                37.08,
+                34.1,
+                28.82
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In the chapter, we encounter the imprisonment of John the Baptist after he denounced the incestuous relationship between Herod Antipas and Herodias, his niece and sister-in-law. John fearlessly fulfills his duty as a prophet, despite the possible repercussions from the tyrant. The fortress where John was held captive offered a grand vista of the Dead Sea, the Jordan River, and Jerusalem. This event serves as a poignant reminder of the moral courage that believers should exhibit in their unwavering commitment to God.",
-            "wordCount": 84,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 1.3191957449924363,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "bht": "John the Baptist was imprisoned in the castle of Machaerus, a menacing underground dungeon where he spent nearly ten months. Herod Antipas, swayed by his unlawful relationship with Herodias, had thrown John into the prison for openly condemning their immoral union. John's unwavering dedication to righteousness shines through as he fearlessly stood against the wickedness of a tyrant. This harrowing prison serves as a stark reminder that God's servants must remain resolute in the face of deceit and flattery in the courts of earthly powers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.712654658744721,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
             "commentatorTierSimilarities": [
-                29.4,
-                31.28,
-                39.32
+                36.28,
+                37.67,
+                26.05
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Imprisoned in a small fortress for denouncing the incestuous relationship between Herod Antipas and Herodias, his niece and sister-in-law, John the Baptist demonstrates unwavering moral courage. Despite the discomfort caused by his rebuke, he faithfully fulfills his prophetic duties, unafraid of incurring the tyrant's wrath. From his prison, John would have had a striking viewpoint of the Dead Sea, the Jordan River, and Jerusalem. His resolute stance serves as a powerful reminder of the unwavering commitment believers must have to God's truth.",
-            "wordCount": 86,
-            "quoteTokenProportion": 26.15,
-            "qualityScore": 1.315267233666579,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.08,
+            "bht": "Imprisoned in the fortified citadel of Machaerus, John the Baptist endured a grueling incarceration for almost ten months. Herod Antipas, swayed by his unlawful relationship with Herodias, silenced John's prophetic voice by confining him. This prison, with its underground dungeons and commanding view, symbolized the clash between righteousness and the corrupt desires of a ruler. John's unwavering commitment to truth and justice in the face of a tyrannical regime stands as a poignant example for all believers navigating treacherous paths.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.5932573376604562,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
             "commentatorTierSimilarities": [
-                32.38,
-                29.57,
-                38.05
+                38.77,
+                36.54,
+                24.7
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In a small fortress, John the Baptist was imprisoned for bravely condemning the incestuous relationship between Herod Antipas and Herodias, his niece and sister-in-law. Despite the uncomfortable position he found himself in, John fearlessly carried out his prophetic duties and addressed this disturbing situation. As he was held captive, John would have had a spectacular view of the Dead Sea, the Jordan River, and Jerusalem. This incident serves as a powerful reminder of the unwavering moral courage that believers should possess and their commitment to upholding God's truth.",
-            "wordCount": 91,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 1.313790857066639,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.03,
+            "bht": "John the Baptist found himself imprisoned in the fortress of Machaerus, a detached citadel with underground dungeons that served as a chilling reminder of his unwavering commitment to righteousness. His fearless reproof of Herod Antipas and Herodias' immoral relationship placed him in this dank and gloomy prison. The fortress, perched high on a hill, offered panoramic views of the Dead Sea, the Jordan River, and Jerusalem, serving as a poignant backdrop to John's steadfast resistance against the depravity of earthly rulers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.7257603974860036,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
             "commentatorTierSimilarities": [
-                28.65,
-                30.55,
-                40.8
+                41.85,
+                32.45,
+                25.7
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "John the Baptist's imprisonment in a small fortress was a result of his courageous condemnation of the illicit relationship between Herod Antipas and Herodias. Despite the discomfort and potential consequences, John faithfully fulfilled his prophetic duty by speaking the truth. From his prison, he had a remarkable view of the surrounding areas, including the Dead Sea, the Jordan River, and Jerusalem. This event serves as a reminder of the unwavering moral fortitude that believers should exhibit and their commitment to upholding God's commands.",
+            "bht": "John the Baptist was imprisoned in the castle of Machaerus, a terrifying underground dungeon where he remained for nearly ten months. Herod Antipas, under the influence of his unlawful wife Herodias, confined John for speaking out against their immoral relationship. This prison, located in a towering fortress on a high hill, offered a commanding view of the Dead Sea, the Jordan River, and Jerusalem. John's unwavering dedication to righteousness in the face of a corrupt ruler serves as a powerful example for all believers.",
             "wordCount": 85,
-            "quoteTokenProportion": 27.69,
-            "qualityScore": 1.190252057858746,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.6632616359960093,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
             "commentatorTierSimilarities": [
-                35.4,
-                23.26,
-                41.33
+                36.44,
+                35.1,
+                28.46
             ],
             "generationAttempt": 5
         }

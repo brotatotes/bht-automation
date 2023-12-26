@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 23:46:13",
+    "timestamp": "12-25-2023 20:31:48",
     "verseRef": "Matthew 11:4",
     "bestBHT": {
-        "bht": "The disciples were given a symbolic message to deliver to John the Baptist, asking him to interpret what they had witnessed. They were tasked with recounting the preaching of the Gospel to the poor and the miracles they had personally seen, including the healing of various ailments. These tangible demonstrations of Jesus\u2019 power serve as proof of his identity as the Messiah, portraying him as a spiritual physician who offers deliverance and salvation to sinners. Through this message, the disciples encouraged humility and invited others to have confidence in Jesus' grace.",
-        "wordCount": 91,
-        "quoteTokenProportion": 33.87,
-        "qualityScore": 1.443954263573721,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+        "bht": "The symbolic message Jesus sends is not for the disciples' understanding, but for John's interpretation. He quotes Isaiah to demonstrate the fulfillment of prophecies about his reign, teaching humility and addressing any offense from the despised nature of his followers. The disciples are instructed to share the preached doctrines to the poor and witnessed miracles as a stronger proof to John that Jesus is the Messiah, surpassing any mere assertion.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 1.7987068081014417,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.15,
         "commentatorTierSimilarities": [
-            38.94,
-            25.69,
-            35.37
+            39.65,
+            28.97,
+            31.39
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "John Calvin": [
-            "He speaks, no doubt, of spiritual deliverance from all diseases and remedies; but under outward symbols, as has been already mentioned, Christ shows that he came as a spiritual physician to cure souls.\" ",
+            "He notices more particularly one passage from the 35th, and another from the 61st, chapter of Isaiah, for the purpose of informing John\u2019s disciples, that what the Prophets declared respecting the reign of Christ was accomplished and fulfilled.",
             "This passage is purposely quoted by Christ, partly to teach all his followers the first lesson of humility, and partly to remove the offense which the flesh and sense might be apt to raise against his despicable flock.",
-            "As Christ here guards his Gospel against contempt, he likewise reminds us who they are that are qualified to appreciate the grace of salvation which it offers to them; and in this manner, kindly inviting wretched sinners to the hope of salvation, raises them to full confidence."
+            "Hence it follows, that it is no new occurrence, or one that ought to disturb our minds, if the Gospel is despised by all the great, who, puffed up with their wealth, have no room to spare for the grace of God."
         ],
         "Philip Schaff": [
             "Matthew 11:4. Go and tell John, etc. Our Lord sends a message to John, but does not instruct his disciples.",
@@ -28,14 +28,14 @@
             "The things which ye do hear and see (\u03b1 \u03b1\u03ba\u03bf\u03c5\u03b5\u03c4\u03b5 \u03ba\u03b1 \u03b2\u03bb\u03b5\u03c0\u03b5\u03c4\u03b5). This symbolical message was for John to interpret, not for them. "
         ],
         "John Gill": [
-            "He bids them go, and show John again, those things which ye do hear and see.",
+            "Go, and show John again, those things which ye do hear and see.",
             "Relate to him the doctrines which they had heard preached by him to the poor; and the miracles which they had seen with their own eyes.",
             "There were at that time about Christ, that had infirmities, plagues, and evil spirits, and that were blind, and he instantly cured them in their presence."
         ],
         "John Wesley": [
-            "Go and tell John the things that ye hear and see.\" ",
-            "Which are a stronger proof of my being the Messiah.",
-            "Than any bare assertion can be."
+            "Go and tell John the things that ye hear and see \u2014 Which are a stronger proof of my being the Messiah, than any bare assertion can be.",
+            "...a stronger proof of my being the Messiah, than any bare assertion can be.",
+            "than any bare assertion can be."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -55,67 +55,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples of Jesus were sent to deliver a symbolic message to John the Baptist, asking him to interpret what they had heard and seen. Jesus instructs them to go and tell John the things that they had witnessed \u2013 the preaching of the Gospel to the poor and the miracles they had personally observed, including the healing of infirmities, plagues, evil spirits, and blindness. By referring to these tangible demonstrations, Jesus showcases his power as a spiritual physician who has come to cure souls. Through this message, he both encourages humility and invites sinners to have full confidence in the salvation offered through his grace.",
-            "wordCount": 105,
-            "quoteTokenProportion": 35.62,
-            "qualityScore": 1.5155155746674558,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "bht": "The message that Jesus sends to John the Baptist in Matthew 11:4 is not intended for the disciples' understanding, but for John to interpret. Jesus quotes passages from Isaiah to highlight that the prophecies about the reign of Christ are being fulfilled. This serves to teach humility to his followers and to address any offense that may arise from the despised nature of his followers. Jesus instructs the disciples to share the doctrines preached to the poor and the miracles witnessed, such as the healing of various ailments. These experiences serve as a stronger proof to John that Jesus is indeed the Messiah, surpassing any mere assertion.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6203356103957054,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.22,
             "commentatorTierSimilarities": [
-                41.26,
-                23.39,
-                35.35
+                36.05,
+                30.09,
+                33.86
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples of Jesus were instructed to relay a symbolic message to John the Baptist, asking him to interpret what they had witnessed. They were to convey the preaching of the Gospel to the poor and the miracles they had personally seen, such as the healing of infirmities, plagues, evil spirits, and blindness. This served as a powerful proof of Jesus being the Messiah and highlighted his role as a spiritual physician, curing souls through his grace and inviting sinners to find hope and salvation in him.",
-            "wordCount": 87,
-            "quoteTokenProportion": 29.82,
-            "qualityScore": 1.4239536922750393,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.69,
+            "bht": "The symbolic message Jesus sends is not for the disciples' understanding, but for John's interpretation. He quotes Isaiah to demonstrate the fulfillment of prophecies about his reign, teaching humility and addressing any offense from the despised nature of his followers. The disciples are instructed to share the preached doctrines to the poor and witnessed miracles as a stronger proof to John that Jesus is the Messiah, surpassing any mere assertion.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.7987068081014417,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
             "commentatorTierSimilarities": [
-                39.92,
-                21.73,
-                38.35
+                39.65,
+                28.97,
+                31.39
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples of Jesus were sent with a symbolic message for John the Baptist, telling him to interpret what they had witnessed. They were to describe the preaching of the Gospel to the poor and the miracles they had seen, which included healing various afflictions. These tangible demonstrations of Jesus' power as a spiritual physician underscored his role as the Messiah. By relaying these experiences, the disciples invited sinners to find confidence and hope in the salvation offered through Jesus' grace.",
-            "wordCount": 81,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.4434847563000481,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "bht": "The message Jesus sends to John is meant for interpretation, not understanding by the disciples. It quotes Isaiah to show the fulfillment of prophecies about his reign and to teach humility. The disciples are instructed to share the preached doctrines to the poor and witnessed miracles, which serve as a stronger proof of Jesus being the Messiah, surpassing any bare assertion.",
+            "wordCount": 61,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.74894070952077,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.49,
             "commentatorTierSimilarities": [
-                39.81,
-                25.05,
-                35.14
+                38.38,
+                28.99,
+                32.63
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples were given a symbolic message to deliver to John the Baptist, asking him to interpret what they had witnessed. They were tasked with recounting the preaching of the Gospel to the poor and the miracles they had personally seen, including the healing of various ailments. These tangible demonstrations of Jesus\u2019 power serve as proof of his identity as the Messiah, portraying him as a spiritual physician who offers deliverance and salvation to sinners. Through this message, the disciples encouraged humility and invited others to have confidence in Jesus' grace.",
-            "wordCount": 91,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 1.443954263573721,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "bht": "The symbolic message that Jesus sends to John the Baptist is meant for his interpretation and not for the disciples' understanding. It quotes passages from Isaiah to demonstrate the fulfillment of prophecies about the reign of Christ. This message serves to teach humility to Jesus' followers and to address any offense that may arise from the despised nature of his flock. The disciples are instructed to share the preached doctrines to the poor and the witnessed miracles as a stronger proof to John that Jesus is indeed the long-awaited Messiah, surpassing any bare assertion.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.701609685779825,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
             "commentatorTierSimilarities": [
-                38.94,
-                25.69,
-                35.37
+                38.06,
+                28.87,
+                33.07
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples were sent with a symbolic message for John the Baptist, recounting what they had witnessed. They were to describe the preaching of the Gospel to the poor and the miracles they had seen, including healing various afflictions. These demonstrations of Jesus' power as a spiritual physician showed that he was the Messiah and offered hope and salvation to sinners. By delivering this message, the disciples encouraged humility and invited others to have confidence in the grace of Jesus' salvation.",
-            "wordCount": 81,
-            "quoteTokenProportion": 39.29,
-            "qualityScore": 1.4364055910782716,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+            "bht": "The symbolic message Jesus sends to John is intended for his interpretation, not the disciples' understanding. It quotes passages from Isaiah to show the fulfillment of prophecies about Christ's reign. This conveys humility to Jesus' followers and addresses any offense from the despised nature of his flock. The disciples are instructed to share the preached doctrines to the poor and witnessed miracles as a stronger proof to John that Jesus is the Messiah, surpassing any bare assertion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6271440804328174,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.44,
             "commentatorTierSimilarities": [
-                39.76,
-                24.37,
-                35.87
+                36.71,
+                29.33,
+                33.96
             ],
             "generationAttempt": 5
         }

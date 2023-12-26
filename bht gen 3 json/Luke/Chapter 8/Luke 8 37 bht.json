@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:16:45",
+    "timestamp": "12-25-2023 20:33:06",
     "verseRef": "Luke 8:37",
     "bestBHT": {
-        "bht": "The people were taken with fear, the same word used to describe the fever and the fear experienced by Jesus and Paul. They chose to keep their fear instead of accepting Christ, valuing their swine more than Him and their countrymen's well-being. Due to their ingratitude, Jesus did not stay long in that place, his presence being rejected. This rejection is evident in other accounts as well.",
-        "wordCount": 69,
-        "quoteTokenProportion": 50.94,
-        "qualityScore": 1.0538118560607357,
-        "qualityScoreNormalizedComparedToV2BHTs": 26.38,
+        "bht": "In this account, the people were gripped by fear akin to a fever, using the same word as another instance referring to Jesus and Paul. They seemed to prioritize the presence of demons and their physical well-being over Jesus himself, leading Jesus to move on swiftly due to their ingratitude and preference for swine.",
+        "wordCount": 55,
+        "quoteTokenProportion": 54.55,
+        "qualityScore": 1.4714000717279347,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.27,
         "commentatorTierSimilarities": [
-            51.06,
+            62.23,
             0.0,
-            48.94
+            37.77
         ],
         "generationAttempt": 3
     },
@@ -19,7 +19,6 @@
             "They were taken [\u03c3\u03c5\u03bd\u03b5\u03b9\u03c7\u03bf\u03bd\u03c4\u03bf] . See on ch. Luke 4:38. The same word as of the fever."
         ],
         "Archibald T. Robertson": [
-            "Were holden with great fear.\" ",
             "Imperfect passive of \u03c3\u03c5\u03bd\u03b5\u03c7\u03c9 with the instrumental case of \u03c6\u03bf\u03b2\u03bf\u03c2.\" ",
             "See a similar use of this vigorous verb in Luke 12:50 of Jesus and in Philippians 1:23 of Paul."
         ],
@@ -49,67 +48,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The people in the verse were taken with great fear and were holden by it, just like how Jesus had taken hold of Peter's mother-in-law's fever in Luke 4:38. The verb used here is the same one used to describe Jesus and Paul being taken by fear in Luke 12:50 and Philippians 1:23. It seems that these people were not willing to let go of their fear and choose Christ, as they preferred to keep the demons among them rather than have Jesus continue with them. It's notable that Jesus didn't stay long in this place, perhaps because of the people's refusal to accept him, as seen in Matthew 9:1 and Mark 5:18.",
-            "wordCount": 115,
-            "quoteTokenProportion": 49.32,
-            "qualityScore": 1.5342614577433493,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "bht": "The people in this verse were taken by fear, using the same word as a fever. The commentaries note that this verb is used to describe Jesus in Luke 12:50 and Paul in Philippians 1:23. It seems that the people in this verse were afraid and possibly desired that the demons would stay with them rather than Jesus. They prioritized their swine and bodily health over Christ, causing him to not stay for long in that place.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4958001818491842,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.08,
             "commentatorTierSimilarities": [
-                49.03,
+                60.1,
                 0.0,
-                50.97
+                39.9
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The people in the passage were taken with great fear, a similar use of this verb referring to Jesus and Paul in other contexts. They chose to hold on to their fear, refusing to accept Christ and preferring the presence of demons instead. As a result, Jesus did not stay long in that place, having just landed and not straying far from the seashore. This unwillingness of the people to embrace Jesus is evident in other biblical accounts as well.",
-            "wordCount": 80,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.0569910065213897,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.49,
+            "bht": "The people in this account were gripped by fear that was comparable to a fever. It is interesting to note that this verb is used to describe Jesus in another passage and Paul in another letter, highlighting the intensity of their emotional state. These individuals seemed to prioritize the presence of the demons over Jesus, exhibiting their preference for swine and physical well-being. As a result, Jesus did not stay in that place for long, as their lack of gratitude and appreciation led him to move on quickly.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.0876390535525196,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.51,
             "commentatorTierSimilarities": [
-                39.1,
+                53.57,
                 0.0,
-                60.9
+                46.43
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The people were taken with fear, the same word used to describe the fever and the fear experienced by Jesus and Paul. They chose to keep their fear instead of accepting Christ, valuing their swine more than Him and their countrymen's well-being. Due to their ingratitude, Jesus did not stay long in that place, his presence being rejected. This rejection is evident in other accounts as well.",
-            "wordCount": 69,
-            "quoteTokenProportion": 50.94,
-            "qualityScore": 1.0538118560607357,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.38,
+            "bht": "In this account, the people were gripped by fear akin to a fever, using the same word as another instance referring to Jesus and Paul. They seemed to prioritize the presence of demons and their physical well-being over Jesus himself, leading Jesus to move on swiftly due to their ingratitude and preference for swine.",
+            "wordCount": 55,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.4714000717279347,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.27,
             "commentatorTierSimilarities": [
-                51.06,
+                62.23,
                 0.0,
-                48.94
+                37.77
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The people in Luke 8:37 were taken by great fear and were paralyzed by it. The word used here is the same word used to describe a fever earlier in Luke. They were so terrified that they chose to keep the demons with them rather than have Christ stay. This shows that they had no desire to remain with Jesus, and preferred their own possessions over his presence. They didn't appreciate Jesus' power and weren't grateful for his healing. Jesus had only been in this place for a short time and hadn't gone far from the seashore. (Matthew 9:1; Mark 5:18)",
-            "wordCount": 101,
-            "quoteTokenProportion": 45.71,
-            "qualityScore": 1.2675274878308302,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.49,
+            "bht": "The people in this verse were taken, or \u03c3\u03c5\u03bd\u03b5\u03b9\u03c7\u03bf\u03bd\u03c4\u03bf, just as they were with the fever in another passage. This shows a similar use of the word in reference to Jesus and Paul in other situations. The people in this verse chose to keep the devils among them rather than have Christ with them. They did not want Jesus to stay because they valued their swine more than him and did not appreciate his presence. He had only just arrived and had not traveled far from the seashore.",
+            "wordCount": 88,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 1.2679463582059953,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.5,
             "commentatorTierSimilarities": [
-                41.82,
+                49.56,
                 0.0,
-                58.18
+                50.44
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The people in this passage were seized by great fear, paralyzed by it. They didn't appreciate Jesus' power and preferred their own possessions over his presence. They chose to keep the demons with them instead of having Christ stay. This shows their ingratitude and lack of desire to remain with Jesus. He had only been there briefly, not going far from the seashore, but they were more concerned with their swine than with his healing power.",
-            "wordCount": 77,
-            "quoteTokenProportion": 45.76,
-            "qualityScore": 1.0030960380959506,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.7,
+            "bht": "The people in this account experienced being taken, just like when they were afflicted with a fever. Jesus and Paul can be compared to this use of the word. Rather than having Christ stay with them, they preferred to keep the demons. This shows their lack of gratitude and their preference for their swine over Christ. It is important to note that Jesus had just arrived and had not ventured far from the seashore.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0970204281814753,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.82,
             "commentatorTierSimilarities": [
-                40.05,
+                49.48,
                 0.0,
-                59.95
+                50.52
             ],
             "generationAttempt": 5
         }

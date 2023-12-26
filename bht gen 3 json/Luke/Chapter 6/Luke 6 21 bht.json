@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:15:33",
+    "timestamp": "12-25-2023 20:33:03",
     "verseRef": "Luke 6:21",
     "bestBHT": {
-        "bht": "Blessed are those who weep audibly now, for they shall laugh with a charming liveliness, expressing the comfort that awaits them in the future. This hunger and weeping will eventually be filled, and they will be satisfied with spiritual joy and pleasure, finding consolation and comfort in the blessings that lie ahead.",
-        "wordCount": 52,
-        "quoteTokenProportion": 40.0,
-        "qualityScore": 1.4481849119478711,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+        "bht": "Blessed are those who weep audibly now, for they shall laugh. The word laugh expresses what in Matthew is called being comforted. This term sharpens the contrast between present sufferings and future blessings. It is like spiritual fodder or food, filling us with righteousness and life. These words are terse but profound. Thus, those who mourn are blessed, for they shall be filled with spiritual joy and pleasure, comforted by the consolations of the Spirit.",
+        "wordCount": 75,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.4907522441744092,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.91,
         "commentatorTierSimilarities": [
-            23.57,
-            8.81,
-            67.63
+            30.42,
+            16.3,
+            53.29
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -31,13 +31,13 @@
         ],
         "Archibald T. Robertson": [
             "This sharpens the contrast between present sufferings and the future blessings.",
-            "Luke here omits 'and thirst after righteousness.'",
+            "It was used for giving fodder (\u03c7\u03bf\u03c1\u03c4\u03bf\u03c2) to animals, but here it is spiritual fodder or food.",
             "Luke's words are terse."
         ],
         "John Gill": [
-            "Blessed are ye that hunger now... for ye shall be filled.\" ",
-            "Blessed are ye that weep now... for ye shall laugh.\" ",
-            "Be filled with spiritual joy and pleasure, and be comforted with the consolations of the Spirit."
+            "Blessed are ye that hunger now...for ye shall be filled: with righteousness and life.",
+            "Blessed are ye that weep now...for ye shall laugh; be filled with spiritual joy and pleasure.",
+            "Be comforted with the consolations of the Spirit."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -57,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Blessed are those who weep audibly now, for they shall laugh with a charming liveliness, expressing the comfort that awaits them in the future. Luke's sharp words emphasize the contrast between present sufferings and future blessings, as he omits the part about thirsting after righteousness. This hunger and weeping will eventually be filled, and they will be filled with spiritual joy and pleasure, finding comfort in the consolations of the Spirit.",
-            "wordCount": 72,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.5660130628731799,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "bht": "Blessed are those who weep audibly now, for they shall laugh. How charming is this word, laugh, which expresses being comforted! It sharpens the contrast between present sufferings and the future blessings. It is like giving spiritual fodder or food, filling us with righteousness and life. These words are terse but carry profound meaning. So, blessed are those who mourn, for they shall be filled with spiritual joy and pleasure, and be comforted with the consolations of the Spirit.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.3857874249752022,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.42,
             "commentatorTierSimilarities": [
-                26.86,
-                18.0,
-                55.14
+                31.3,
+                9.37,
+                59.33
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Blessed are those who weep audibly now, for they shall laugh with a charming liveliness, expressing the comfort that awaits them in the future. This hunger and weeping will eventually be filled, and they will be filled with spiritual joy and pleasure, finding comfort in the consolations of the Spirit.",
-            "wordCount": 50,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 1.404708714747669,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "bht": "Blessed are those who weep audibly now, for they shall laugh. How charming is this word, laugh, which expresses what in Matthew is called being comforted! It sharpens the contrast between present sufferings and the future blessings. It is like giving spiritual fodder or food, filling us with righteousness and life. These words are terse but carry profound meaning. So, blessed are those who mourn, for they shall be filled with spiritual joy and pleasure, and be comforted with the consolations of the Spirit.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.4683117728716968,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.16,
             "commentatorTierSimilarities": [
-                22.68,
-                5.2,
-                72.11
+                30.82,
+                14.74,
+                54.44
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Blessed are those who weep audibly now, for they shall laugh with a charming liveliness, expressing the comfort that awaits them in the future. This hunger and weeping will eventually be filled, and they will be filled with spiritual joy and pleasure as they are comforted by the consolations of the Spirit.",
-            "wordCount": 52,
-            "quoteTokenProportion": 47.5,
-            "qualityScore": 1.4371494380151124,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "bht": "Blessed are those who weep audibly now, for they shall laugh. How charming is this word, laugh, which expresses what in Matthew is called being comforted! It sharpens the contrast between present sufferings and the future blessings. These words are terse but carry profound meaning. So, blessed are those who mourn, for they shall be filled with spiritual joy and pleasure, and be comforted with the consolations of the Spirit.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.4884878429983528,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
             "commentatorTierSimilarities": [
-                23.45,
-                5.19,
-                71.36
+                31.74,
+                15.01,
+                53.25
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Blessed are those who weep audibly now, for they shall laugh with a charming liveliness, expressing the comfort that awaits them in the future. This hunger and weeping will eventually be filled, and they will be satisfied with spiritual joy and pleasure, finding consolation and comfort in the blessings that lie ahead.",
-            "wordCount": 52,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.4481849119478711,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+            "bht": "Blessed are those who weep audibly now, for they shall laugh. This word, laugh, expresses what in Matthew is called being comforted. The contrast between present sufferings and future blessings is sharpened by this term. It is like giving spiritual fodder, filling us with righteousness and life. These words are terse but hold significant meaning. So, those who mourn are blessed, for they shall be filled with spiritual joy, pleasure, and the consolations of the Spirit.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.445190354424565,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.4,
             "commentatorTierSimilarities": [
-                23.57,
-                8.81,
-                67.63
+                30.18,
+                15.23,
+                54.59
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Blessed are those who weep audibly now, for they shall laugh with a charming liveliness, expressing the comfort that awaits them in the future. This hunger and weeping will eventually be filled, and they will be filled with spiritual joy and pleasure, finding comfort in the consolations of the Spirit.",
-            "wordCount": 50,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 1.404708714747669,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "bht": "Blessed are those who weep audibly now, for they shall laugh. The word laugh expresses what in Matthew is called being comforted. This term sharpens the contrast between present sufferings and future blessings. It is like spiritual fodder or food, filling us with righteousness and life. These words are terse but profound. Thus, those who mourn are blessed, for they shall be filled with spiritual joy and pleasure, comforted by the consolations of the Spirit.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.4907522441744092,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.91,
             "commentatorTierSimilarities": [
-                22.68,
-                5.2,
-                72.11
+                30.42,
+                16.3,
+                53.29
             ],
             "generationAttempt": 5
         }

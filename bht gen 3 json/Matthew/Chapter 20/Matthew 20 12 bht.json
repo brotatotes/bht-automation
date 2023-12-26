@@ -1,32 +1,32 @@
 {
-    "timestamp": "12-19-2023 23:50:22",
+    "timestamp": "12-25-2023 20:31:58",
     "verseRef": "Matthew 20:12",
     "bestBHT": {
-        "bht": "The workers, who endured the burden and scorching heat during a dry, east wind, express their dissatisfaction as others are made equal to them. While their complaint seems justified, it is important to remember that salvation is not earned through works alone. God does not differentiate between those who have labored longer or faced greater trials. All who are faithful in Christ, regardless of their journey, will partake in the same glory and happiness.",
-        "wordCount": 74,
-        "quoteTokenProportion": 48.39,
-        "qualityScore": 1.3779416894271659,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+        "bht": "These laborers, who have worked only for a short period in the cool of the evening, dare to complain that we, who have endured the burden and heat of the day, are equal to them. This protest arises from a perceived injustice, as we have toiled for a full day, facing the scorching sirocco wind and its detrimental effects on the crops. Such grievances stem from the mistaken belief that salvation is earned through works, failing to acknowledge that God purifies hearts through faith, granting equal happiness to those who are equally holy.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.5325804074094582,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.3,
         "commentatorTierSimilarities": [
-            27.64,
-            24.71,
-            47.65
+            38.3,
+            28.41,
+            33.29
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "These last have wrought but one hour, and thou hast made them equal unto us.\" ",
-            "which have borne the burden and heat of the day.\" ",
+            "Which have borne the burden and heat of the day.\" ",
             "Who have wrought not only longer but during a more trying period of the day."
         ],
         "Albert Barnes": [
             "The burden means the heavy labor, the severe toil.",
             "We have continued at that toil in the heat of the day.",
-            "The others had worked only a little while, and that in the cool of the evening."
+            "The others had worked only a little while, and that in the cool of the evening, and when it was far more pleasant and much less fatiguing."
         ],
         "Marvin Vincent": [
-            "Heat [\u03ba\u03b1\u03c5\u03c3\u03c9\u03bd\u03b1] . Rev., the scorching heat. The word is from kaiw, to burn. It refers to the dry, scorching heat born by the east wind.",
+            "The wind blows from the Arabian desert, parching, dry, exciting the blood, and causing restlessness and sleeplessness.",
             "During harvest the corn cannot be winnowed if the east wind blows, for it would carry away both chaff and corn.",
             "In Pharaoh 's dream (Genesis 41:6) the ears are blasted by it : Jonah's gourd is withered by it (Jonah 4:8), and the vine in Ezekiel's parable of the Babylonian captivity is blighted by it (Ezekiel 17:10)."
         ],
@@ -35,17 +35,18 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Equal unto us. It was a regular protest against the supposed injustice of the householder.",
+            "Equal unto us... It was a regular protest against the supposed injustice of the householder.",
             "A whole day's work on the part of these sweat-stained men who had stood also the sirocco, the hot, dry, dust-laden east wind.",
             "They seemed to have a good case."
         ],
         "John Gill": [
-            "This is grudged by the Jews... There is that obtains his world (or the world to come for himself) \u05d1\u05e9\u05e2\u05d4 \u05d0\u05d7\u05ea, 'in one hour'; and there is that obtains it in many years.",
-            "The ceremonial law was a burden to the Jewish people... The law was a fiery law, and the dispensation of it was a hot and scorching one; it was uncomfortable working under the flashes of a mount, that burned with fire.",
-            "It rather seems that others will be made equal with them, who have not endured what they have done; for all the dead in Christ... will share in that glory; even the innumerable company, chosen, redeemed, and called, out of every nation, tongue, and people."
+            "It is grudged by the Jews... that there is that obtains his world (or the world to come for himself) in one hour.",
+            "The ceremonial law was a burden to the Jewish people... It was a yoke, and a yoke of bondage to them.",
+            "This may also be applied to such Christians, who are called to more severe service or sufferings for Christ, than others are... and who, it might be thought, will have a greater degree of glory and happiness hereafter."
         ],
         "John Wesley": [
-            "God hath put no difference between us (Jews) and them (Gentiles), purifying their hearts by faith.",
+            "God hath put no difference between us and them, purifying their hearts by faith.",
+            "Those who were equally holy here, whenever they were called, will be equally happy hereafter.",
             "Those who were equally holy here, whenever they were called, will be equally happy hereafter."
         ]
     },
@@ -66,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "These workers who have borne the burden and heat of the day, during a scorching east wind, express their discontent, believing it to be unjust that those who have worked shorter and easier hours be made equal to them. Their complaint seems well-founded, as they have endured a whole day's work under the intense heat and toiled heavily. However, this grudging attitude towards those who obtain salvation or glory in a short amount of time is a flawed perspective. In God's eyes, there is no difference or distinction between those who have labored long and endured hardships and those who have entered the fold later or with less tribulation.",
-            "wordCount": 112,
-            "quoteTokenProportion": 43.04,
-            "qualityScore": 1.5040533240358518,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "bht": "These last have only worked for a short period, while we have borne the burden and heat of the day, enduring the harsh wind that brings restlessness and withers the crops. It is understandable that we would feel a sense of injustice, for we have toiled for a whole day, sweat-stained and weary. This complaint exposes the belief that salvation is earned through works, highlighting the burden that the Jews felt under the ceremonial law. However, it is important to remember that God does not differentiate between us, but purifies our hearts through faith. Thus, those who are equally holy in God's eyes will also be equally happy in the world to come.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.2952352301498298,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.41,
             "commentatorTierSimilarities": [
-                33.93,
-                27.06,
-                39.01
+                27.71,
+                22.71,
+                49.58
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "These workers, who have endured the burden and scorching heat throughout the entire day, feel discontented that those who have only worked for a short while are being treated as equals. While their frustration seems valid considering the intensity of their labor, the idea that salvation should be solely based on works is flawed. Whether one has labored longer or come to faith later, God does not differentiate. All those who are faithful in Christ will share in the same ultimate happiness.",
-            "wordCount": 82,
-            "quoteTokenProportion": 47.83,
-            "qualityScore": 1.34969185053809,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.22,
+            "bht": "These last have only worked for a short period, while we have borne the burden and heat of the day, enduring the harsh wind that brings restlessness and withers the crops. It is understandable that we would feel a sense of injustice, for we have toiled for a whole day, sweat-stained and weary. This complaint exposes the belief that salvation is earned through works, highlighting the burden that the Jews felt under the ceremonial law. However, it is important to remember that God does not differentiate between us, but purifies our hearts through faith. Thus, those who are equally holy in God's eyes will also be equally happy in the world to come.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.2952352301498298,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.41,
             "commentatorTierSimilarities": [
-                25.97,
-                26.45,
-                47.58
+                27.71,
+                22.71,
+                49.58
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "These workers, who have endured the burden and heat of the day during a scorching east wind, express their discontent in regards to those who have worked shorter hours. While their complaint seems well-founded, it is important to remember that salvation is not based solely on works. In God's eyes, there is no distinction between those who have toiled long and those who have not. All who are in Christ will share in the same glory and happiness.",
-            "wordCount": 80,
-            "quoteTokenProportion": 45.76,
-            "qualityScore": 1.3634375238021128,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "bht": "These laborers, who have worked only for a short period in the cool of the evening, dare to complain that we, who have endured the burden and heat of the day, are equal to them. This protest arises from a perceived injustice, as we have toiled for a full day, facing the scorching sirocco wind and its detrimental effects on the crops. Such grievances stem from the mistaken belief that salvation is earned through works, failing to acknowledge that God purifies hearts through faith, granting equal happiness to those who are equally holy.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5325804074094582,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
             "commentatorTierSimilarities": [
-                27.19,
-                26.16,
-                46.66
+                38.3,
+                28.41,
+                33.29
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "These workers, who have borne the burden and heat of the day during a scorching east wind, complain about others being made equal to them. They feel justified in their frustration, having toiled all day under intense heat. However, it is crucial to realize that salvation is not solely reliant on works. In God's eyes, there is no distinction between those who have labored longer and those who have not. All who are faithful in Christ will ultimately share in the same joy and happiness.",
-            "wordCount": 86,
-            "quoteTokenProportion": 48.48,
-            "qualityScore": 1.3449250928975798,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.06,
+            "bht": "These laborers, who endured the burden and heat of the day, are understandably frustrated that those who worked for a short time in the cool evening are considered equal. Their complaint highlights the perception of injustice and the belief that salvation is earned through works. The scorching sirocco wind symbolizes the difficulties faced by those who labored longer. However, it is important to recognize that God does not differentiate between us based on the duration or intensity of our service. Instead, He purifies our hearts through faith, ensuring equal happiness for all the righteous.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.302712059062065,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
             "commentatorTierSimilarities": [
-                30.02,
-                27.59,
-                42.38
+                33.8,
+                28.47,
+                37.73
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The workers, who endured the burden and scorching heat during a dry, east wind, express their dissatisfaction as others are made equal to them. While their complaint seems justified, it is important to remember that salvation is not earned through works alone. God does not differentiate between those who have labored longer or faced greater trials. All who are faithful in Christ, regardless of their journey, will partake in the same glory and happiness.",
-            "wordCount": 74,
-            "quoteTokenProportion": 48.39,
-            "qualityScore": 1.3779416894271659,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+            "bht": "The laborers who toiled in the heat of the day express their discontent, as they are made equal to those who worked only briefly. They feel justified in their complaint, having endured a whole day's work and the scorching east wind. This protest reveals the belief that salvation is obtained through works, a burden felt by the Jews under the ceremonial law. However, it is important to remember that God does not differentiate between us, for He purifies our hearts by faith, ensuring equal happiness for all the righteous.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.4323634389168247,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
             "commentatorTierSimilarities": [
-                27.64,
-                24.71,
-                47.65
+                33.32,
+                27.09,
+                39.59
             ],
             "generationAttempt": 5
         }

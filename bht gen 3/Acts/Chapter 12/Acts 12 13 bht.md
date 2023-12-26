@@ -1,7 +1,7 @@
 # Acts 12:13 Commentary Help Text
 
 ## BHT:
-Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to discern the identity of the voice she recognized. Her swift response and joyful haste indicated she was more than a menial servant—she was a devoted disciple. God, who remembers the names of the lowly and forgets mighty conquerors, cherished Rhoda's name as a testimony to her faithfulness. As she stood at the threshold, listening intently, she exemplified the importance of distinguishing between friend and foe, as fear kept the door closed due to the persecution of the Jews.
+As Peter stood outside and knocked at the door, a young girl named Rhoda came to listen and identify the voice on the other side. The fact that she promptly recognized Peter's voice, her joyful haste, and the mention of her name suggest that she was one of the disciples gathered for prayer. This moment of anticipation and fear at the closed door, opened just enough for Rhoda to hear Peter's knock, added to the anxious atmosphere among the believers.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -11,14 +11,14 @@ Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to di
 
 
 ### Albert Barnes:
-1. "The house was entered through such a porch or vestibule, and it was the door opening into this which is here intended." 
+1. "At the door of the gate - Rather the door of the vestibule, or principal entrance into the house."
 2. "A damsel - A girl."
 3. "Named Rhoda - This is a Greek name signifying a rose."
 
 ### Marvin Vincent:
-1. "The narrative implies that she was more than a mere menial, if a servant at all." 
-2. "Her prompt recognition of Peter's voice, and her joyful haste, as well as the record of her name, indicate that she was one of the disciples gathered for prayer."
-3. "God, who leaves in oblivion names of mighty conquerors, treasures up that of a poor girl, for his church in all ages"
+1. "Her prompt recognition of Peter's voice, and her joyful haste, as well as the record of her name, indicate that she was one of the disciples gathered for prayer."
+2. "The Jews frequently gave their female children the names of plants and flowers..."
+3. "God, who leaves in oblivion names of mighty conquerors, treasures up that of a poor girl, for his church in all ages."
 
 ### Philip Schaff:
 1. "Peter’s knock startled and alarmed the anxious, troubled assembly. It suggested fresh arrests and new cares and anxieties."
@@ -26,14 +26,14 @@ Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to di
 3. "The names of plants and flowers were favourite names for the daughters of Israel. So Susannah signifies ‘a lily,’ Esther ‘a myrtle,’ Tamar ‘a palm.’"
 
 ### Archibald T. Robertson:
-1. "Genitive absolute with aorist active participle of κρουω, common verb to knock or knock at. So from the outside (Luke 13:25)." 
-2. "To answer (υπακουσα). To listen under before opening. First aorist active infinitive of υπακουω, common verb to obey, to hearken."
-3. "A maid (παιδισκη). Portress as in John 18:17. A diminutive of παις, a female slave (so on an ostracon of second century A.D., Deissmann, Light from the Ancient East, p. 200)."
+1. "When he knocked at the door of the gate... from the outside." 
+2. "To answer... to listen under before opening." 
+3. "A maid... a diminutive of παις, a female slave."
 
 ### John Gill:
-1. "The door was kept shut, for fear of the Jews, lest they should be disturbed."
-2. "She came out to the door, and listened, to try if she could know who it was, a friend or a foe, before she opened."
-3. "The Jewish women often had their names, in the Hebrew tongue, from flowers and trees."
+1. "The door was kept shut, for fear of the Jews, lest they should be disturbed." 
+2. "here Peter stood and knocked." 
+3. "a damsel came to hearken; hearing a knocking, she came out to the door, and listened, to try if she could know who it was, a friend or a foe, before she opened."
 
 ### John Wesley:
 1. The gate — At some distance from the house; to hearken - If any knocked.
@@ -42,39 +42,39 @@ Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to di
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:30:05
+- Timestamp: 12-25-2023 20:34:11
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 25.4%
-- BHT Quality Score: 1.450600001707473
+- BHT Word Count: 82
+- BHT Commentary Usage: 37.5%
+- BHT Quality Score: 1.5936250852306517
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'amidst', 'and', 'as', 'at', 'between', 'cherished', 'closed', 'conquerors', 'devoted', 'discern', 'disciple', 'distinguishing', 'door', 'due', 'exemplified', 'faithfulness', 'fear', 'fervent', 'foe', 'forgets', 'friend', 'god', 'haste', 'her', 'house', 'identity', 'importance', 'indicated', 'intently', 'jews', 'joyful', 'kept', 'listening', 'lowly', 'maid', 'menial', 'mighty', 'more', 'name', 'named', 'names', 'of', 'persecution', 'prayers', 'recognized', 'remembers', 'response', 'rhoda', 'rushed', 's', 'servant', 'she', 'stood', 'swift', 'testimony', 'than', 'the', 'threshold', 'to', 'voice', 'was', 'who']
-- ChatGPT injected words (significant words only) (47):
-	['amidst', 'cherished', 'closed', 'conquerors', 'devoted', 'discern', 'disciple', 'distinguishing', 'door', 'exemplified', 'faithfulness', 'fear', 'fervent', 'foe', 'forgets', 'friend', 'god', 'haste', 'house', 'identity', 'importance', 'indicated', 'intently', 'jews', 'joyful', 'kept', 'listening', 'lowly', 'maid', 'menial', 'mighty', 'named', 'names', 'persecution', 'prayers', 'recognized', 'remembers', 'response', 'rhoda', 'rushed', 's', 'servant', 'stood', 'swift', 'testimony', 'threshold', 'voice']
+- ChatGPT injected words (56):
+	['a', 'added', 'among', 'and', 'anticipation', 'anxious', 'as', 'at', 'atmosphere', 'believers', 'came', 'closed', 'disciples', 'door', 'enough', 'fact', 'fear', 'for', 'gathered', 'girl', 'haste', 'hear', 'her', 'identify', 'joyful', 'just', 'knock', 'knocked', 'listen', 'mention', 'moment', 'name', 'named', 'of', 'on', 'one', 'opened', 'other', 'outside', 'peter', 'prayer', 'promptly', 'recognized', 'rhoda', 's', 'she', 'side', 'stood', 'suggest', 'that', 'the', 'this', 'to', 'voice', 'was', 'young']
+- ChatGPT injected words (significant words only) (35):
+	['added', 'anticipation', 'anxious', 'atmosphere', 'believers', 'came', 'closed', 'disciples', 'door', 'fact', 'fear', 'gathered', 'girl', 'haste', 'hear', 'identify', 'joyful', 'knock', 'knocked', 'listen', 'mention', 'moment', 'named', 'opened', 'outside', 'peter', 'prayer', 'promptly', 'recognized', 'rhoda', 's', 'stood', 'suggest', 'voice', 'young']
 
 ### Logs
-- Attempt 1 BHT: Amidst the fervent prayers of the disciples gathered in a house, a maid named Rhoda scrambled to the door, eager to discern the identity of the visitor whose voice she recognized. Her swift response and sheer delight at hearing Peter's voice revealed that she was more than a lowly servant; she was a dedicated disciple. In a beautiful contrast to the forgettable names of mighty conquerors, Rhoda's name was treasured by God, an eternal testament to her faithfulness. As she stood at the threshold, listening intently, she demonstrated the urgent need to discern friend from foe, for the door was kept shut out of fear, a consequence of the Jews' relentless persecution.
-- 🔄 Acts 12:13 (attempt 1, 114 words, 27.27% quotes quality score: 1.4911785357045753, V2 normalized quality score: 40.92, commentator tiers 1-3: 34.44%, 32.32%, 33.24%) 
+- Attempt 1 BHT: As Peter stood outside the door, knocking to gain entrance, a young girl named Rhoda came to listen and discern who was on the other side. Promptly recognizing his voice, her joy was evident as she hurriedly reported to the gathered disciples. It is worth noting that her name, like many Jewish girls of the time, has a floral meaning - a rose. In the obscurity of history, God chose to remember the name of this poor girl, highlighting her significance within the church. The door, kept shut due to fear of the Jews, was opened just enough for Rhoda to hear. Peter's knock brought a moment of alarm and anxiety, anticipating possible arrests.
+- 🔄 Acts 12:13 (attempt 1, 114 words, 32.53% quotes quality score: 1.4737106285795827, V2 normalized quality score: 40.34, commentator tiers 1-3: 28.18%, 32.25%, 39.57%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to discern the identity of the voice she recognized. Her swift response and joyful haste indicated she was more than a menial servant—she was a devoted disciple. God, who remembers the names of the lowly and forgets mighty conquerors, cherished Rhoda's name as a testimony to her faithfulness. As she stood at the threshold, listening intently, she exemplified the importance of distinguishing between friend and foe, as fear kept the door closed due to the persecution of the Jews.
-- 🔄 Acts 12:13 (attempt 2, 95 words, 25.4% quotes quality score: 1.450600001707473, V2 normalized quality score: 39.58, commentator tiers 1-3: 32.88%, 34.68%, 32.44%) 
+- Attempt 2 BHT: As Peter stood outside the door, knocking, a young girl named Rhoda came to listen and discern who was on the other side. Recognizing his voice, she eagerly reported to the disciples gathered for prayer. Her name, like other Jewish girls, had a symbolic meaning - a rose. God chose to remember the name of this poor girl, highlighting her significance in the church. The door was kept shut out of fear, opening just enough for Rhoda to hear Peter's knock, causing alarm and anxiety.
+- 🔄 Acts 12:13 (attempt 2, 85 words, 34.38% quotes quality score: 1.508822444415484, V2 normalized quality score: 41.51, commentator tiers 1-3: 29.6%, 33.94%, 36.46%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In the midst of fervent prayer, a maid named Rhoda swiftly approached the door of the house, recognizing the voice outside. Her prompt response and joyful anticipation indicated that she was not just a mere servant, but rather a devoted disciple of Christ. God, who values the humble and whose memory transcends mighty conquerors, treasured Rhoda's name as a testament to her faithfulness. As she listened at the threshold, she exemplified the need to discern friend from foe, as fear of persecution kept the door closed.
-- 🔄 Acts 12:13 (attempt 3, 87 words, 30.77% quotes quality score: 1.4013576788510003, V2 normalized quality score: 37.94, commentator tiers 1-3: 34.34%, 33.73%, 31.93%) 
+- Attempt 3 BHT: As Peter knocked on the door, a young girl named Rhoda came to listen and recognize his voice. Her prompt recognition and joyful haste revealed her role as one of the disciples gathered for prayer. It is noteworthy that her name, like other Jewish girls, held a floral significance, signifying a rose. In the midst of history, God chose to preserve the name of a humble girl, underlining her importance in the church. The closed door, guarded out of fear, opened just enough for Rhoda to hear Peter's knock, evoking anxiety and anticipation.
+- 🔄 Acts 12:13 (attempt 3, 94 words, 29.41% quotes quality score: 1.4284487427634434, V2 normalized quality score: 38.84, commentator tiers 1-3: 30.12%, 36.08%, 33.8%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In the midst of fervent prayer, a maid named Rhoda hurried to the door of the house upon hearing a familiar voice. Her quick recognition and joyful eagerness revealed that she was more than a mere servant; she was a devoted disciple. God, who cherishes the names of the lowly instead of mighty conquerors, holds Rhoda's name in eternal remembrance as a testimony to her faithfulness. As she stood at the threshold, listening intently, she embodied the importance of discerning friend from foe in the face of persecution and fear.
-- 🔄 Acts 12:13 (attempt 4, 91 words, 28.12% quotes quality score: 1.3757128272589156, V2 normalized quality score: 37.09, commentator tiers 1-3: 36.6%, 31.74%, 31.66%) 
+- Attempt 4 BHT: As Peter stood outside the door, knocking to gain entrance, a young girl named Rhoda came to listen and discern who was on the other side. Promptly recognizing his voice, she hurriedly reported to the gathered disciples. The significance of her recognition, her joy, and the record of her name indicate that she was one of the disciples gathered for prayer. The closed door, kept shut out of fear, opened just enough for Rhoda to hear Peter's knock, evoking a sense of alarm and anxiety.
+- 🔄 Acts 12:13 (attempt 4, 86 words, 35.0% quotes quality score: 1.496479391644462, V2 normalized quality score: 41.1, commentator tiers 1-3: 27.33%, 30.01%, 42.66%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In the midst of fervent prayer, a maid named Rhoda hurried to the door, recognizing a familiar voice. Her immediate response and joyful haste indicated that she was more than a mere servant; she was a devoted disciple gathered for prayer. God, who preserves the names of the humble instead of mighty conquerors, treasures Rhoda's name as a reminder of her faithfulness throughout the ages. As she listened at the threshold, she demonstrated the necessity of discerning friend from foe in the midst of fear and persecution.
-- 🔄 Acts 12:13 (attempt 5, 88 words, 31.15% quotes quality score: 1.363298244441218, V2 normalized quality score: 36.67, commentator tiers 1-3: 38.97%, 31.7%, 29.32%) 
+- Attempt 5 BHT: As Peter stood outside and knocked at the door, a young girl named Rhoda came to listen and identify the voice on the other side. The fact that she promptly recognized Peter's voice, her joyful haste, and the mention of her name suggest that she was one of the disciples gathered for prayer. This moment of anticipation and fear at the closed door, opened just enough for Rhoda to hear Peter's knock, added to the anxious atmosphere among the believers.
+- 🔄 Acts 12:13 (attempt 5, 82 words, 37.5% quotes quality score: 1.5936250852306517, V2 normalized quality score: 44.33, commentator tiers 1-3: 25.92%, 32.15%, 41.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 12:13 bht prompt v0.8 (95 words, 25.4% quotes)
-- quality score: 1.450600001707473, V2 normalized quality score: 39.58, commentator tiers 1-3: 32.88%, 34.68%, 32.44%)
+- ✅ Acts 12:13 bht prompt v0.8 (82 words, 37.5% quotes)
+- quality score: 1.5936250852306517, V2 normalized quality score: 44.33, commentator tiers 1-3: 25.92%, 32.15%, 41.93%)

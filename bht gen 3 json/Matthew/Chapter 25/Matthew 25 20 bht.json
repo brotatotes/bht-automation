@@ -1,46 +1,46 @@
 {
-    "timestamp": "12-19-2023 23:53:04",
+    "timestamp": "12-25-2023 20:32:12",
     "verseRef": "Matthew 25:20",
     "bestBHT": {
-        "bht": "The faithful servant recognizes that his gain is not his own, but a result of what he has been entrusted with. This underscores the truth that apart from Christ, we are incapable of achieving anything. The servant's readiness to give an account of both what he had received and how he had gained reflects the responsibility and diligence expected of us in using and increasing our spiritual gifts. Let us not grow weary in doing good, as Christ sees and values our labor. One day, we will have to reckon with Him and the true worth of our work will be revealed.",
-        "wordCount": 103,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.3178191738552996,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.16,
+        "bht": "The faithful servant in this verse recognizes that his achievements are not his own, acknowledging that without Me, can do nothing. Their joy and eagerness on the day of reckoning manifest the concept of boldness in the day of judgment. By utilizing their talents and spiritual gifts, they bring glory to God and demonstrate their usefulness in His service. True ministers of the Gospel humbly surrender their gifts to Christ, knowing that He is the source. Christ, as the searcher of hearts, will surely acknowledge the faithful servants' impact in His interest.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.5450835796331335,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.72,
         "commentatorTierSimilarities": [
-            28.36,
-            25.93,
-            45.71
+            38.24,
+            14.14,
+            47.62
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The faithful servant does not take the praise to himself\u2014thou deliveredst unto me is his confession\u2014and beside them the enabling cause of his gain...\" (quote #1)",
-            "...without Me, can do nothing\" (quote #2)",
-            "...on the joy and alacrity of these faithful servants in the day of reckoning...\" (quote #3)"
+            "The faithful servant does not take the praise to himself",
+            "Without Me, can do nothing",
+            "On the joy and alacrity of these faithful servants in the day of reckoning"
         ],
         "Jamieson-Fausset-Brown": [
-            "How beautifully does this illustrate what the beloved disciple says of 'boldness in the day of judgment,' and his desire that 'when He shall appear we may have confidence, and not be ashamed before Him at His coming!'",
-            "N/A",
-            "N/A"
+            "How beautifully does this illustrate what the beloved disciple says of 'boldness in the day of judgment'\".",
+            "His desire that 'when He shall appear we may have confidence, and not be ashamed before Him at His coming!'",
+            "Boldness in the day of judgment and confidence at His coming."
         ],
         "Albert Barnes": [
             "I have gained - Gained by trading or by honest industry, Matthew 25:16."
         ],
         "John Calvin": [
-            "The life of the godly is justly compared to trading, for they ought naturally to exchange and barter with each other, in order to maintain intercourse.",
-            "That we may not become weary in doing well, Christ declares that the labor of those who are faithfully employed in their calling will not be useless.",
-            "Let us therefore learn to call ourselves daily to account, before the Lord come, and make a reckoning with us."
+            "Those who employ usefully whatever God has committed to them are said to be engaged in trading.",
+            "The gain which Christ mentions is general usefulness, which illustrates the glory of God.",
+            "Faithful servants, whose discharge of duty shall meet with his approbation, will share with himself a blessed abundance of all good things."
         ],
         "Philip Schaff": [
             "Matthew 25:20. I have gained. In addition to and through the talents entrusted. Spiritual gifts are the means of increasing spirituality, yet human effort and responsibility enters.",
             "\t"
         ],
         "John Gill": [
-            "He came freely and cheerfully, with a holy confidence and intrepidity of mind, and gave in his account very readily, both of what he had received, and of what he had gained.",
             "True ministers of the Gospel frankly own, that what gifts they have are delivered to them by Christ; and such are willing that he should have all returned to him, principal and increase.",
-            "Christ will not be ignorant of what they have been doing, and of what use they have been of; but the sense is, that as all will be manifest to Christ the searcher of hearts, with whom they have to do, so the account will stand fair and open."
+            "Christ will not be ignorant of what they have been doing, and of what use they have been of; but the sense is, that as all will be manifest to Christ the searcher of hearts, with whom they have to do, so the account will stand fair and open.",
+            "It will be seen and known by all, that such and such faithful ministers of Christ have behaved in this agreeable manner, and have been thus and thus serviceable in his interest."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -60,67 +60,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The faithful servant in Matthew 25:20 acknowledges that his gain is not of his own doing, but rather a result of what he has been entrusted with. This verse emphasizes that apart from Christ, we can do nothing, highlighting the importance of relying on Him and His enabling grace. The joy and eagerness displayed by these faithful servants in the day of reckoning reflect the boldness and confidence that the beloved disciple desires for believers when Christ appears again. The servant's readiness to give an account of both what he had received and how he had gained speaks to the diligence and responsibility expected of us in using and increasing the spiritual gifts entrusted to us. Let us not grow weary in doing good, for Christ sees and values our labor, and one day we will have to reckon with Him. Therefore, may we live our lives in a manner that reflects a cheerful and confident boldness, acknowledging that all our gifts, both in their original form and in their increase, are ultimately from Christ.",
-            "wordCount": 175,
-            "quoteTokenProportion": 44.04,
-            "qualityScore": 1.509258018404324,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.53,
+            "bht": "The faithful servant in Matthew 25:20 does not take credit for himself but acknowledges that without God, he can do nothing. This verse also highlights the joy and readiness of these faithful servants on the day of reckoning, illustrating the beloved disciple's concept of boldness in the day of judgment. It emphasizes the desire for confidence and not being ashamed before Christ's coming. The gain mentioned here is achieved through the talents entrusted and human effort, signifying that spiritual gifts are a means of increasing spirituality. As faithful servants engage in useful work, it glorifies God and results in an abundance of good things. These true ministers recognize that their gifts are from Christ and willingly return all to Him. Ultimately, Christ, as the searcher of hearts, will see and know their faithfulness and the positive impact they have had in His interest.",
+            "wordCount": 144,
+            "quoteTokenProportion": 40.59,
+            "qualityScore": 1.5547333640434764,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
             "commentatorTierSimilarities": [
-                29.45,
-                24.25,
-                46.3
+                34.3,
+                20.59,
+                45.12
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The faithful servant in Matthew 25:20 humbly confesses that his gain is not his own, recognizing the enabling cause of his success. This highlights the truth that without Christ, we are incapable of accomplishing anything. The joy and readiness displayed by these faithful servants on the day of reckoning reflect the beloved disciple's desire for believers to have confidence and boldness when Christ appears. It reminds us of the importance of diligently using and increasing the spiritual gifts entrusted to us. Let us not grow weary in our labor, as Christ values and will manifest the true worth of our work.",
-            "wordCount": 101,
-            "quoteTokenProportion": 36.99,
-            "qualityScore": 1.4523298201251487,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.63,
+            "bht": "The faithful servant in this passage recognizes that his accomplishments are not his own, but a result of the work of God. It is a reminder that without God, we are powerless. This passage also highlights the joy and eagerness of these faithful servants on the day of reckoning, symbolizing the concept of confidence and boldness in the day of judgment. They faithfully use the talents entrusted to them, resulting in spiritual growth and bringing glory to God. The gain mentioned is a reflection of their usefulness in the service of Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3900279445244963,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.56,
             "commentatorTierSimilarities": [
-                32.5,
-                26.21,
-                41.3
+                38.41,
+                13.33,
+                48.27
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The faithful servant humbly acknowledges that his gain is not his own, but the result of what he has been entrusted with. This highlights the truth that without Christ, we can do nothing. The joy and readiness displayed by these faithful servants on the day of reckoning reflect the desired confidence and boldness in the face of Christ's return. This verse reminds us of the importance of diligently using and increasing the spiritual gifts we have been given. Let us not grow weary in our labor, as Christ values and will fully reveal our work's true worth.",
-            "wordCount": 99,
-            "quoteTokenProportion": 42.25,
-            "qualityScore": 1.4050801794913397,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.06,
+            "bht": "The faithful servant in this verse humbly recognizes that his achievements are not his own, acknowledging that without Me, can do nothing. Their joy and enthusiasm on the day of reckoning exemplify the desired boldness in the day of judgment expressed by the beloved disciple. These faithful servants utilize their talents and spiritual gifts, resulting in growth and honoring God. Their gains represent their usefulness in God's service, demonstrating their commitment to faithfully and productively fulfill their calling.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5450473175250754,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.72,
             "commentatorTierSimilarities": [
-                33.41,
-                23.53,
-                43.06
+                40.54,
+                14.59,
+                44.87
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The faithful servant recognizes that his gain is not his own, but a result of what he has been entrusted with. This underscores the truth that apart from Christ, we are incapable of achieving anything. The servant's readiness to give an account of both what he had received and how he had gained reflects the responsibility and diligence expected of us in using and increasing our spiritual gifts. Let us not grow weary in doing good, as Christ sees and values our labor. One day, we will have to reckon with Him and the true worth of our work will be revealed.",
-            "wordCount": 103,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.3178191738552996,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.16,
+            "bht": "The faithful servant in Matthew 25:20 understands that his achievements are not self-merited, acknowledging that without Me, can do nothing. Their joy and alacrity on the day of reckoning illustrate the concept of boldness in the day of judgment. The gain mentioned in this passage shows the result of utilizing talents and spiritual gifts, reflecting the glory of God. True ministers of the Gospel openly recognize that their gifts are from Christ and willingly surrender all to Him. Ultimately, Christ, as the searcher of hearts, knows and acknowledges the faithful servants' fruitfulness in His purpose.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5704869710928864,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.56,
             "commentatorTierSimilarities": [
-                28.36,
-                25.93,
-                45.71
+                36.84,
+                18.19,
+                44.97
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The faithful servant in Matthew 25:20 acknowledges that his gain is not his own, but the result of what he has been entrusted with. This verse emphasizes the importance of relying on Christ, as without Him, we are incapable of accomplishing anything. The readiness and joy displayed by the faithful servants on the day of reckoning reflect the desired confidence and boldness when Christ returns. This verse highlights the responsibility of diligently using and increasing the spiritual gifts entrusted to us. Let us not grow weary in our labor, as Christ values and will reveal the true worth of our work.",
-            "wordCount": 100,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.457574371554348,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "bht": "The faithful servant in this verse recognizes that his achievements are not his own, acknowledging that without Me, can do nothing. Their joy and eagerness on the day of reckoning manifest the concept of boldness in the day of judgment. By utilizing their talents and spiritual gifts, they bring glory to God and demonstrate their usefulness in His service. True ministers of the Gospel humbly surrender their gifts to Christ, knowing that He is the source. Christ, as the searcher of hearts, will surely acknowledge the faithful servants' impact in His interest.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5450835796331335,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.72,
             "commentatorTierSimilarities": [
-                32.06,
-                26.32,
-                41.63
+                38.24,
+                14.14,
+                47.62
             ],
             "generationAttempt": 5
         }

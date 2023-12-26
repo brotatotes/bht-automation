@@ -1,19 +1,13 @@
 # Acts 19:7 Commentary Help Text
 
 ## BHT:
-When the people heard the explanation of the gospel, they were baptized in the name of the Lord Jesus, signifying their entrance into the fullness of the new economy. Notably, Paul himself did not baptize them, but rather someone else. This episode demonstrates how certain groups of believers, like these men in Ephesus, were won over by the preaching of Paul and his disciples. It appears to be the starting point of a Gospel church in Ephesus.
+They were baptized in the name of the Lord Jesus, into the whole fullness of the new economy. When they heard this, they were baptized, fully embracing the teachings of the new faith. This episode serves as an example of how groups of men who were won over by the preaching of Paul and his school were attached to an imperfect form of Christianity. This was part of a larger movement happening in other centers of the faith. These new believers in Ephesus may have even become some of the first members of a Gospel church in the area.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "When they heard this—not
-	the mere words reported in Acts 19:4,
-	but the subject expounded according to the tenor of those
-	words." 
-2. "they were baptized—not
-	however by Paul himself (1 Corinthians 1:14)."
-3. "in the name of the Lord
-	Jesus—into the whole fulness of the new economy, as now opened
-	up to their believing minds."
+1. "They were baptized...in the name of the Lord Jesus—into the whole fulness of the new economy." 
+2. "When they heard this...they were baptized." 
+3. "They were baptized...into the whole fulness of the new economy."
 
 ### Albert Barnes:
 1. And all the men - The whole number.
@@ -25,43 +19,45 @@ When the people heard the explanation of the gospel, they were baptized in the n
 3. "What happened at Ephesus in the case of Apollos and this little solitary group of followers of the Baptist, was simply an instance of what was taking place constantly in other centres of the new faith."
 
 ### John Gill:
-1. "And all the men were about twelve."
-2. "The historian might be at a certainty about it."
-3. "These seem to be the first materials of a Gospel church at Ephesus."
+1. "The historian might be at a certainty about it..."
+2. "These seem to be the first materials of a Gospel church at Ephesus..."
+3. "...very likely were some of the elders of it."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:33:19
+- Timestamp: 12-25-2023 20:34:10
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 48.28%
-- BHT Quality Score: 1.0536925222983606
+- BHT Word Count: 99
+- BHT Commentary Usage: 46.88%
+- BHT Quality Score: 1.3588463366388166
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'and', 'appears', 'baptize', 'baptized', 'be', 'believers', 'but', 'by', 'certain', 'church', 'demonstrates', 'did', 'disciples', 'economy', 'else', 'entrance', 'ephesus', 'episode', 'explanation', 'fullness', 'gospel', 'groups', 'heard', 'himself', 'his', 'how', 'in', 'into', 'it', 'jesus', 'like', 'lord', 'men', 'name', 'new', 'not', 'notably', 'of', 'over', 'paul', 'people', 'point', 'preaching', 'rather', 'signifying', 'someone', 'starting', 'the', 'their', 'them', 'these', 'they', 'this', 'to', 'were', 'when', 'won']
-- ChatGPT injected words (significant words only) (30):
-	['appears', 'baptize', 'baptized', 'believers', 'certain', 'church', 'demonstrates', 'disciples', 'economy', 'entrance', 'ephesus', 'episode', 'explanation', 'fullness', 'gospel', 'groups', 'heard', 'jesus', 'like', 'lord', 'men', 'new', 'notably', 'paul', 'people', 'point', 'preaching', 'signifying', 'starting', 'won']
+- ChatGPT injected words (64):
+	['a', 'an', 'and', 'area', 'as', 'attached', 'baptized', 'become', 'believers', 'by', 'centers', 'christianity', 'church', 'economy', 'embracing', 'ephesus', 'episode', 'even', 'example', 'faith', 'first', 'form', 'fullness', 'fully', 'gospel', 'groups', 'happening', 'have', 'heard', 'his', 'how', 'imperfect', 'in', 'into', 'jesus', 'larger', 'lord', 'may', 'members', 'men', 'movement', 'name', 'new', 'of', 'other', 'over', 'part', 'paul', 'preaching', 'school', 'serves', 'some', 'teachings', 'the', 'these', 'they', 'this', 'to', 'was', 'were', 'when', 'who', 'whole', 'won']
+- ChatGPT injected words (significant words only) (34):
+	['area', 'attached', 'baptized', 'believers', 'centers', 'christianity', 'church', 'economy', 'embracing', 'ephesus', 'episode', 'example', 'faith', 'form', 'fullness', 'fully', 'gospel', 'groups', 'happening', 'heard', 'imperfect', 'jesus', 'larger', 'lord', 'members', 'men', 'movement', 'new', 'paul', 'preaching', 'school', 'serves', 'teachings', 'won']
 
 ### Logs
-- Attempt 1 BHT: When the people in Acts 19:7 heard the explanation of the gospel, they responded by being baptized in the name of the Lord Jesus. This baptism marked their entrance into the fullness of the new economy. It is interesting to note that Paul himself did not baptize them, but rather someone else. This episode demonstrates how certain groups of believers, such as these men in Ephesus, were won over by the preaching of Paul and his disciples. In fact, this incident seems to be the beginning of the formation of a Gospel church in Ephesus.
-- 🔄 Acts 19:7 (attempt 1, 94 words, 50.0% quotes quality score: 0.9901425502274114, V2 normalized quality score: 24.27, commentator tiers 1-3: 23.02%, 40.39%, 36.59%) 
+- Attempt 1 BHT: They were baptized in the name of the Lord Jesus, into the whole fullness of the new economy. When they heard this, they were baptized, fully embracing the teachings of the new faith. This episode serves as an example of how groups of men who were attached to an imperfect form of Christianity were won over by the preaching and influence of Paul and his school. This was part of a larger movement happening in other centers of the faith. These new believers in Ephesus may have even become some of the first members of a Gospel church in the area.
+- 🔄 Acts 19:7 (attempt 1, 101 words, 46.15% quotes quality score: 1.3452502035109655, V2 normalized quality score: 36.07, commentator tiers 1-3: 42.29%, 25.0%, 32.72%) 
 	- BHT WAS OVER 80 WORDS! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: When the people heard the explanation of the gospel, they responded by being baptized in the name of the Lord Jesus. This marked their entrance into the fullness of the new economy. Notably, someone other than Paul baptized them. This episode shows how groups of believers, like these men in Ephesus, were won over by the preaching of Paul and his disciples. It seems to be the beginning of a Gospel church in Ephesus.
-- 🔄 Acts 19:7 (attempt 2, 74 words, 49.06% quotes quality score: 0.9994129043517866, V2 normalized quality score: 24.57, commentator tiers 1-3: 25.32%, 34.84%, 39.85%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When the people heard the explanation of the gospel, they were baptized in the name of the Lord Jesus, signifying their entrance into the fullness of the new economy. Notably, Paul himself did not baptize them, but rather someone else. This episode demonstrates how certain groups of believers, like these men in Ephesus, were won over by the preaching of Paul and his disciples. It appears to be the starting point of a Gospel church in Ephesus.
-- 🔄 Acts 19:7 (attempt 3, 77 words, 48.28% quotes quality score: 1.0536925222983606, V2 normalized quality score: 26.38, commentator tiers 1-3: 21.43%, 39.4%, 39.16%) 
+- Attempt 2 BHT: They were baptized in the name of the Lord Jesus, into the whole fullness of the new economy. When they heard this, they were baptized, fully embracing the teachings of the new faith. This episode serves as an example of how groups of men who were won over by the preaching of Paul and his school were attached to an imperfect form of Christianity. This was part of a larger movement happening in other centers of the faith. These new believers in Ephesus may have even become some of the first members of a Gospel church in the area.
+- 🔄 Acts 19:7 (attempt 2, 99 words, 46.88% quotes quality score: 1.3588463366388166, V2 normalized quality score: 36.52, commentator tiers 1-3: 42.05%, 25.3%, 32.65%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: When the people in Acts 19:7 heard this, they were baptized in the name of the Lord Jesus, embracing the fullness of the new economy. Interestingly, someone other than Paul administered their baptism. This episode illustrates how Paul and his disciples successfully influenced various groups of believers, like these men in Ephesus. It seems to be the initial step in the establishment of a Gospel church in Ephesus.
-- 🔄 Acts 19:7 (attempt 4, 67 words, 43.14% quotes quality score: 1.0096301862683585, V2 normalized quality score: 24.91, commentator tiers 1-3: 24.44%, 39.64%, 35.92%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: When the people heard the explanation of the gospel, they responded by being baptized in the name of the Lord Jesus, entering into the fullness of the new economy. Notably, Paul did not baptize them himself, but another individual did. This incident reveals how believers, like these men in Ephesus, were converted through the preaching of Paul and his disciples. It marks the beginning of the formation of a Gospel church in Ephesus.
-- 🔄 Acts 19:7 (attempt 5, 73 words, 45.28% quotes quality score: 1.029825127581653, V2 normalized quality score: 25.59, commentator tiers 1-3: 22.0%, 39.12%, 38.89%) 
+- Attempt 3 BHT: When the people heard the teachings of the Lord Jesus, they were baptized into the new economy, fully embracing the faith. This episode demonstrates how men who were attached to an imperfect form of Christianity were won over by the preaching of Paul and his school. This was part of a larger movement happening in various centers of the faith. These new believers in Ephesus may have even become some of the earliest members of a Gospel church in the area.
+- 🔄 Acts 19:7 (attempt 3, 81 words, 44.07% quotes quality score: 1.2586909874724284, V2 normalized quality score: 33.19, commentator tiers 1-3: 35.03%, 28.92%, 36.05%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 19:7 bht prompt v0.8 (77 words, 48.28% quotes)
-- quality score: 1.0536925222983606, V2 normalized quality score: 26.38, commentator tiers 1-3: 21.43%, 39.4%, 39.16%)
+- Attempt 4 BHT: They were baptized in the name of the Lord Jesus, fully immersing themselves in the new economy. When they heard the teachings, they wholeheartedly accepted and were baptized. This episode illustrates how men who were previously attached to an imperfect form of Christianity were converted by Paul and his school. This was a common occurrence in other centers of the faith, where individuals were moved by the message. These believers in Ephesus likely became some of the earliest members of a Gospel church in the region.
+- 🔄 Acts 19:7 (attempt 4, 86 words, 38.33% quotes quality score: 1.3161925458480717, V2 normalized quality score: 35.11, commentator tiers 1-3: 40.47%, 26.92%, 32.61%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Those who heard the teachings were baptized in the name of the Lord Jesus, immersing themselves fully in the new economy. This demonstrates how individuals who were previously associated with an imperfect form of Christianity were won over by Paul's preaching. Similar conversions were happening in other places as well. It is possible that these new believers in Ephesus became the foundation of a Gospel church in the area, potentially even serving as elders.
+- 🔄 Acts 19:7 (attempt 5, 75 words, 41.38% quotes quality score: 1.2558616168995127, V2 normalized quality score: 33.1, commentator tiers 1-3: 35.43%, 29.28%, 35.29%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 19:7 bht prompt v0.8 (99 words, 46.88% quotes)
+- quality score: 1.3588463366388166, V2 normalized quality score: 36.52, commentator tiers 1-3: 42.05%, 25.3%, 32.65%)

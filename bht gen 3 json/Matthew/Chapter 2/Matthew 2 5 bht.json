@@ -1,39 +1,38 @@
 {
-    "timestamp": "12-19-2023 23:42:21",
+    "timestamp": "12-25-2023 20:31:43",
     "verseRef": "Matthew 2:5",
     "bestBHT": {
-        "bht": "The wise men's citation of the prophetic declaration in Micah 5:2 carries immense weight, serving as an involuntary testimony from the highest tribunal and ultimately leading to Jesus' condemnation. Although their paraphrase deviates from the Hebrew text and Septuagint, its significance remains unaltered. Interestingly, kings are often referred to as shepherds, and the term pastor derives from this concept. Moreover, the widespread knowledge that the Messiah would be born in Bethlehem of Judea strengthens the gravity of their unwavering affirmation.",
-        "wordCount": 80,
-        "quoteTokenProportion": 28.57,
-        "qualityScore": 1.325946044110056,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.43,
+        "bht": "The testimony from the highest tribunal, as written by the prophet, condemned Jesus to die. Kings are depicted as shepherds in both the correct translation and the term pastor. Their immediate response, based on the well-known prophecy in Micah 5:2, confirms Bethlehem as the birthplace of Jesus.",
+        "wordCount": 47,
+        "quoteTokenProportion": 35.14,
+        "qualityScore": 1.505148235570095,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.39,
         "commentatorTierSimilarities": [
-            38.92,
-            30.4,
-            30.68
+            40.21,
+            26.16,
+            33.62
         ],
         "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "A prompt and involuntary testimony from the highest tribunal.",
-            "Which yet at length condemned Him to die.",
-            "Thus it is written by the prophet."
+            "A prompt and involuntary testimony from the highest tribunal; which yet at length condemned Him to die.",
+            "For thus it is written by the prophet."
         ],
         "Philip Schaff": [
             "They speak of the prophetic declaration as decisive.",
-            "It has been written and still remains on record.",
+            "It is written and still remains on record.",
             "As the prophecy was well known the name is not given."
         ],
         "Archibald T. Robertson": [
-            "So they quote Micah 5:2, 'a free paraphrase' Alford calls it, for it is not precisely like the Hebrew text or like the Septuagint.\" ",
-            "Homer calls kings 'the shepherds of the people'.\" ",
+            "Shall be shepherd (\u03c0\u03bf\u03b9\u03bc\u03b1\u03bd\u03b5). The Authorized Version had 'shall rule,' but 'shepherd' is correct.",
+            "Homer calls kings 'the shepherds of the people'\" (Vincent).",
             "Our word pastor means shepherd."
         ],
         "John Gill": [
             "They answer without any hesitation, it being a generally received notion, and a thing well known among them.",
-            "In Bethlehem of Judea.",
-            "Thus it is written by the prophet."
+            "In Bethlehem of Judea; and give their reason for it.",
+            "Thus it is written by the prophet, that is, the prophet Micah, in whose prophecy, Micah 5:2 it stands."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The wise men who sought the newborn King referred to Micah 5:2, citing it as a prompt and involuntary testimony from the highest tribunal, ultimately leading to His condemnation and death. Despite not precisely matching the original Hebrew or Septuagint, their free paraphrase of the verse carried weight. Interestingly, the kings were known as shepherds of the people, and the word pastor derives from the term shepherd. It was widely recognized that the Messiah would be born in Bethlehem of Judea, and this prophetic declaration held undeniable authority.",
-            "wordCount": 87,
-            "quoteTokenProportion": 28.99,
-            "qualityScore": 1.4047660605325618,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "bht": "The commentary on Matthew 2:5 highlights the significant testimony and condemnation of Jesus by the highest tribunal, as written by the prophet. The commentators note the correct translation of shepherd instead of rule, emphasizing the role of kings as shepherds of the people. The mention of pastor as deriving from the word shepherd further reinforces this idea. The certainty and widespread knowledge of the prophecy are evident in their swift response, which directly references the prophecy in Micah 5:2 that pinpointed Bethlehem as the birthplace of the Messiah.",
+            "wordCount": 86,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.418982188618856,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
             "commentatorTierSimilarities": [
-                39.74,
-                29.79,
-                30.47
+                41.83,
+                27.97,
+                30.2
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The wise men powerfully testified to the prophetic declaration of Micah 5:2, acknowledging its influence on the trial and ultimate condemnation of Jesus. While their quote may not precisely match the original Hebrew text or Septuagint, it still carried weight. Interestingly, the kings were referred to as shepherds, a parallel to the meaning of the word pastor. The widespread knowledge of the Messiah's birthplace in Bethlehem of Judea added further credence to their affirmation.",
-            "wordCount": 74,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.2696839483191584,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.56,
+            "bht": "They acknowledge the authoritative testimony written by the prophet, which condemns Jesus to die. By using the correct translation of 'shepherd,' they draw parallels between kings and shepherds, who guide and care for the people. The mention of 'pastor' highlights this connection. Their immediate response shows their familiarity with the prophecy in Micah 5:2, affirming that Bethlehem is the birthplace of the Messiah.",
+            "wordCount": 62,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.4480282073491566,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.49,
             "commentatorTierSimilarities": [
-                36.85,
-                29.87,
-                33.28
+                37.67,
+                29.77,
+                32.56
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The wise men bore compelling witness to the prophetic declaration found in Micah 5:2, affirming its influence on the trial and eventual condemnation of Jesus. Although their paraphrase of the verse did not precisely align with the original Hebrew or Septuagint, its significance remained intact. Notably, the kings were often likened to shepherds, with the word pastor drawing its meaning from this association. The collective awareness of the Messiah's birth in Bethlehem of Judea lent further weight to their affirmation.",
+            "bht": "The prophecy written by the prophet serves as a decisive and involuntary testimony, leading to Jesus' condemnation. The translation of 'shepherd' instead of 'rule' emphasizes the role of kings as shepherds, caring for the people. They refer to Homer's description of kings as 'the shepherds of the people' to reinforce this idea. The word 'pastor' meaning shepherd adds further significance. Their swift response, referring to the well-known prophecy in Micah 5:2, confirms that Jesus should be born in Bethlehem.",
             "wordCount": 80,
-            "quoteTokenProportion": 29.03,
-            "qualityScore": 1.2262880958953684,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.12,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.4465596229024367,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.44,
             "commentatorTierSimilarities": [
-                36.98,
-                27.52,
-                35.5
+                41.44,
+                28.03,
+                30.53
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The proclamation of the wise men stands as an involuntary and prompt testimony from the highest tribunal, underscoring its role in the condemnation of Jesus. Though their paraphrase of Micah 5:2 diverged from the original Hebrew and Septuagint, its authority remained undiminished. Notably, the kings were often referred to as shepherds, a connection that echoes the significance of the word pastor. This widely held understanding of the Messiah's birth in Bethlehem of Judea further reinforced their unequivocal response.",
-            "wordCount": 78,
-            "quoteTokenProportion": 28.81,
-            "qualityScore": 1.2564879660376251,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.12,
+            "bht": "The prophecy, written by the prophet, serves as an involuntary testimony, condemning Jesus to die. The correct translation of 'shepherd' instead of 'rule' highlights the role of kings as shepherds, in line with Homer's description. The word 'pastor' further supports this idea. Their prompt response, referencing the well-known prophecy in Micah 5:2, confirms Bethlehem as the birthplace of Jesus.",
+            "wordCount": 60,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.4496057293483948,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.54,
             "commentatorTierSimilarities": [
-                38.46,
-                26.57,
-                34.97
+                40.31,
+                28.89,
+                30.8
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The wise men's citation of the prophetic declaration in Micah 5:2 carries immense weight, serving as an involuntary testimony from the highest tribunal and ultimately leading to Jesus' condemnation. Although their paraphrase deviates from the Hebrew text and Septuagint, its significance remains unaltered. Interestingly, kings are often referred to as shepherds, and the term pastor derives from this concept. Moreover, the widespread knowledge that the Messiah would be born in Bethlehem of Judea strengthens the gravity of their unwavering affirmation.",
-            "wordCount": 80,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.325946044110056,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.43,
+            "bht": "The testimony from the highest tribunal, as written by the prophet, condemned Jesus to die. Kings are depicted as shepherds in both the correct translation and the term pastor. Their immediate response, based on the well-known prophecy in Micah 5:2, confirms Bethlehem as the birthplace of Jesus.",
+            "wordCount": 47,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.505148235570095,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.39,
             "commentatorTierSimilarities": [
-                38.92,
-                30.4,
-                30.68
+                40.21,
+                26.16,
+                33.62
             ],
             "generationAttempt": 5
         }

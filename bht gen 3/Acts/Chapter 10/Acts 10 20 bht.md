@@ -1,13 +1,13 @@
 # Acts 10:20 Commentary Help Text
 
 ## BHT:
-Through the Holy Spirit, the Church is led into all truth, demonstrated in the angel sent to Cornelius, highlighting divine arrangements. The urgency to obey God's command is emphasized with the imperative get thee down and go. This verse underscores the importance of unwavering obedience, without doubt or a divided mind. We are encouraged to attribute much to the Holy Spirit, and to unquestioningly follow His guidance.
+The Holy Spirit, shed down upon the Church, leads it into all truth. In divine arrangements, the Holy Spirit directs Cornelius to go without doubting, with a single-minded determination. This act of obedience reflects the truth of the Holy Spirit's personality and the need for us to trust and follow God's commands without hesitation. Let us, like Cornelius, set aside our doubts and uncertainties, and confidently obey the leading of the Holy Spirit in our lives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The Holy Spirit, shed down upon the Church to lead it into all the truth."
-2. "The angel sent to Cornelius."
-3. "Divine arrangements brought about their coming."
+1. "The Holy Spirit, shed down upon the Church to lead it into all the truth..."
+2. "The divine arrangements brought about, by the angel sent to Cornelius, their coming."
+3. "The Holy Spirit, had in His divine arrangements..."
 
 ### John Calvin:
 1. "The Lord will have us to attribute so much to him, that when we hear him we dispute no longer what we have need to do, but that we set down for a certainty, that that must be done which he commandeth."
@@ -15,8 +15,8 @@ Through the Holy Spirit, the Church is led into all truth, demonstrated in the a
 3. "Men’s consciences shall by no other means be quiet, that they safely do that which they do, than when being taught by the Word of God, they determine that they do nothing without his commandment and conduct."
 
 ### Philip Schaff:
-1. "Go with them. He knows not whither. But an intimation is given of some journey to be undertaken." 
-2. "I have sent them. A further point is here reached, of the highest doctrinal importance." 
+1. "He descended, doubtless, by an external stair, which would bring him at once to the outer gate, at which the messengers were standing." 
+2. "But an intimation is given of some journey to be undertaken. This is similar to the general method of other Divine communications recorded in the Acts of the Apostles." 
 3. "In other words, we have before us here the truth of the personality of the Holy Spirit."
 
 ### Archibald T. Robertson:
@@ -25,49 +25,43 @@ Through the Holy Spirit, the Church is led into all truth, demonstrated in the a
 3. "Nothing doubting (μηδεν διακρινομενος). Another compound of δια, old and common verb for a divided mind (δια like δυο, two)."
 
 ### John Gill:
-1. "Arise, therefore, and get thee down...and go with them." 
-2. "Doubting nothing...laying aside all such Jewish scruples." 
-3. "For I have sent them."
+1. "Arise, therefore, and get thee down,.... From the top of the house where he was." 
+2. "doubting nothing; whether it is right or wrong, lawful or unlawful, to go with them, because not Jews, but uncircumcised Gentiles, laying aside all such Jewish scruples."
+3. "for I have sent them: the Spirit of God is said to do what Cornelius did at his instigation and direction, signified by an angel he sent to him."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:29:13
+- Timestamp: 12-25-2023 20:34:06
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 38.89%
-- BHT Quality Score: 1.192826772608734
+- BHT Word Count: 79
+- BHT Commentary Usage: 33.96%
+- BHT Quality Score: 1.5295753146229871
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'all', 'and', 'angel', 'are', 'arrangements', 'attribute', 'church', 'command', 'cornelius', 'demonstrated', 'divided', 'divine', 'doubt', 'down', 'emphasized', 'encouraged', 'follow', 'get', 'go', 'god', 'guidance', 'highlighting', 'his', 'holy', 'imperative', 'importance', 'in', 'into', 'is', 'led', 'mind', 'much', 'obedience', 'obey', 'of', 'or', 's', 'sent', 'spirit', 'the', 'thee', 'this', 'through', 'to', 'truth', 'underscores', 'unquestioningly', 'unwavering', 'urgency', 'verse', 'we', 'with', 'without']
-- ChatGPT injected words (significant words only) (33):
-	['angel', 'arrangements', 'attribute', 'church', 'command', 'cornelius', 'demonstrated', 'divided', 'divine', 'doubt', 'emphasized', 'encouraged', 'follow', 'god', 'guidance', 'highlighting', 'holy', 'imperative', 'importance', 'led', 'mind', 'obedience', 'obey', 's', 'sent', 'spirit', 'thee', 'truth', 'underscores', 'unquestioningly', 'unwavering', 'urgency', 'verse']
+- ChatGPT injected words (53):
+	['a', 'act', 'all', 'and', 'arrangements', 'aside', 'church', 'commands', 'confidently', 'cornelius', 'determination', 'directs', 'divine', 'doubting', 'doubts', 'down', 'follow', 'for', 'go', 'god', 'hesitation', 'holy', 'in', 'into', 'it', 'leading', 'leads', 'let', 'like', 'lives', 'minded', 'need', 'obedience', 'obey', 'of', 'our', 'personality', 'reflects', 's', 'set', 'shed', 'single', 'spirit', 'the', 'this', 'to', 'trust', 'truth', 'uncertainties', 'upon', 'us', 'with', 'without']
+- ChatGPT injected words (significant words only) (35):
+	['act', 'arrangements', 'aside', 'church', 'commands', 'confidently', 'cornelius', 'determination', 'directs', 'divine', 'doubting', 'doubts', 'follow', 'god', 'hesitation', 'holy', 'leading', 'leads', 'let', 'like', 'lives', 'minded', 'need', 'obedience', 'obey', 'personality', 'reflects', 's', 'set', 'shed', 'single', 'spirit', 'trust', 'truth', 'uncertainties']
 
 ### Logs
-- Attempt 1 BHT: Through the Holy Spirit, the Church is guided into all truth, as seen in Acts 10:20 when the angel is sent to Cornelius and divine arrangements bring about their meeting. The urgency in the command is emphasized by the use of the imperatives get thee down and go. This verse teaches us to have unwavering obedience to God's commands without doubting or having divided minds. We are reminded of the importance of the personality of the Holy Spirit and how we must attribute so much to Him that we unquestioningly follow His guidance.
-- 🔄 Acts 10:20 (attempt 1, 93 words, 44.93% quotes quality score: 1.0782392384074218, V2 normalized quality score: 27.2, commentator tiers 1-3: 30.53%, 38.72%, 30.75%) 
+- Attempt 1 BHT: The Holy Spirit, sent by God, guides the Church and orchestrates divine arrangements. In the face of the angel's message, Cornelius is commanded to go, without hesitation or doubting, as the Spirit directs. This act of obedience reflects the personal nature of the Holy Spirit's communication. Although some may question or dispute God's command, true peace comes when we trust and obey what He commands. So, like Cornelius, let us arise, set aside our doubts, and follow the leading of the Holy Spirit, for He is the one who directs our steps.
+- 🔄 Acts 10:20 (attempt 1, 95 words, 37.31% quotes quality score: 1.410242220075971, V2 normalized quality score: 38.23, commentator tiers 1-3: 29.94%, 37.25%, 32.81%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Through the Holy Spirit, the Church is led into all truth, demonstrated in the angel sent to Cornelius, highlighting divine arrangements. The urgency to obey God's command is emphasized with the imperative get thee down and go. This verse underscores the importance of unwavering obedience, without doubt or a divided mind. We are encouraged to attribute much to the Holy Spirit, and to unquestioningly follow His guidance.
-- 🔄 Acts 10:20 (attempt 2, 68 words, 38.89% quotes quality score: 1.192826772608734, V2 normalized quality score: 31.0, commentator tiers 1-3: 32.38%, 38.57%, 29.05%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: Through the Holy Spirit, the Church is guided into all truth. The angel sent to Cornelius and the divine arrangements demonstrate the divine orchestration at play. The imperatives get thee down and go highlight the urgency and obedience required. We are reminded to have unwavering obedience, without doubting or having a divided mind. This verse emphasizes the importance of attributing much to the Holy Spirit and following His guidance without question.
-- 🔄 Acts 10:20 (attempt 3, 71 words, 39.62% quotes quality score: 1.1264603746963773, V2 normalized quality score: 28.8, commentator tiers 1-3: 37.39%, 35.93%, 26.68%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: Through the Holy Spirit, the Church is led into all truth, as seen in the angel sent to Cornelius and the divine arrangements that bring about their meeting. The imperative get thee down emphasizes the immediate action required, while the imperative go highlights the continuous nature of the journey. This verse teaches us the importance of unwavering obedience, without doubting or having a divided mind. We are reminded to attribute much to the Holy Spirit and to unquestioningly follow His guidance.
-- 🔄 Acts 10:20 (attempt 4, 81 words, 41.27% quotes quality score: 1.137327004898045, V2 normalized quality score: 29.16, commentator tiers 1-3: 32.18%, 40.64%, 27.18%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: The Holy Spirit, sent by God, guides the Church and orchestrates divine arrangements. Cornelius is commanded to go, without doubting, as the Spirit directs. This act of obedience reflects the personal nature of the Holy Spirit's communication. True peace comes when we trust and obey what He commands. So, like Cornelius, let us arise, set aside doubts, and follow the leading of the Holy Spirit, for He directs our steps.
+- 🔄 Acts 10:20 (attempt 2, 71 words, 33.96% quotes quality score: 1.406915182458617, V2 normalized quality score: 38.12, commentator tiers 1-3: 33.27%, 36.52%, 30.21%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The Holy Spirit, shed down upon the Church, leads it into all truth. Cornelius is commanded to go without doubting, as the Spirit directs, in divine arrangements orchestrated by God. This act of obedience reflects the personal nature of the Holy Spirit's communication. True peace comes when we trust and obey what He commands. So, like Cornelius, let us arise and follow the leading of the Holy Spirit, for He is the one who directs our steps.
+- 🔄 Acts 10:20 (attempt 3, 78 words, 44.07% quotes quality score: 1.4961253785193638, V2 normalized quality score: 41.09, commentator tiers 1-3: 33.67%, 37.54%, 28.79%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The Holy Spirit, shed down upon the Church to lead it into all the truth, had divine arrangements that brought about the coming of the messengers to Cornelius. Cornelius was commanded to go without doubting, without a divided mind, nothing doubting and go on. This act of obedience reflected the truth of the personality of the Holy Spirit and the certainty of following His commandments. So, like Cornelius, let us set aside our doubts, trust in God's commandments, and follow the direction of the Holy Spirit without hesitation.
+- 🔄 Acts 10:20 (attempt 4, 89 words, 41.38% quotes quality score: 1.5248768985814765, V2 normalized quality score: 42.04, commentator tiers 1-3: 31.64%, 36.76%, 31.6%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: By the Holy Spirit, the Church is directed into all truth, as exemplified when the angel is sent to Cornelius and divine arrangements dictate their encounter. The urgency is stressed through the imperatives get thee down and go, signifying the immediate and continuous obedience required. This passage emphasizes the significance of unwavering obedience, forsaking doubt and divided thoughts. We are reminded to wholeheartedly acknowledge the role of the Holy Spirit and faithfully follow His guidance without hesitation.
-- 🔄 Acts 10:20 (attempt 5, 77 words, 34.48% quotes quality score: 1.1128402554543704, V2 normalized quality score: 28.35, commentator tiers 1-3: 36.59%, 36.19%, 27.22%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Acts 10:20 bht prompt v0.8 (68 words, 38.89% quotes)
-- quality score: 1.192826772608734, V2 normalized quality score: 31.0, commentator tiers 1-3: 32.38%, 38.57%, 29.05%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The Holy Spirit, shed down upon the Church, leads it into all truth. In divine arrangements, the Holy Spirit directs Cornelius to go without doubting, with a single-minded determination. This act of obedience reflects the truth of the Holy Spirit's personality and the need for us to trust and follow God's commands without hesitation. Let us, like Cornelius, set aside our doubts and uncertainties, and confidently obey the leading of the Holy Spirit in our lives.
+- 🔄 Acts 10:20 (attempt 5, 79 words, 33.96% quotes quality score: 1.5295753146229871, V2 normalized quality score: 42.2, commentator tiers 1-3: 36.25%, 38.11%, 25.64%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 10:20 bht prompt v0.8 (79 words, 33.96% quotes)
+- quality score: 1.5295753146229871, V2 normalized quality score: 42.2, commentator tiers 1-3: 36.25%, 38.11%, 25.64%)

@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-19-2023 23:51:30",
+    "timestamp": "12-25-2023 20:31:51",
     "verseRef": "Matthew 22:37",
     "bestBHT": {
-        "bht": "To truly follow this commandment, one must love God with their whole being - reason, intellect, sentiment, passion, thought, and will. This love is not to be forced or insincere, but freely given. It is a reminder to the Jews of their devotion to the true God, distinguishing Him from idols. In Deuteronomy 6:5, the same commandment is reiterated, emphasizing the need for an unwavering love that encompasses every aspect of our lives.",
-        "wordCount": 71,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.2004448108394639,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.26,
+        "bht": "We are called to love the Lord our God with every aspect of our being\u2014heart, soul, and mind. This commandment encompasses the entirety of our affection, reason, intellect, sentiment, passion, thought, and will. It is a demand for supreme devotion, a recognition that our love for God should permeate every facet of our lives. This summary of the commandments helps us understand that God desires a sincere and perfect love that fills all our senses, illuminating our need for his grace in our pursuit of perfect love.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.48114341587636,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.59,
         "commentatorTierSimilarities": [
             0.0,
-            40.17,
-            59.83
+            50.62,
+            49.38
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "John Calvin": [
-            "That they may not hesitate, as usually happens in cases of uncertainty, the Jews are informed that the rule of life is prescribed to them by the true and only God.",
-            "And yet there is no reason to doubt that the Lord distinguishes himself from all idols, that the Jews may not be drawn aside from him, but may adhere to the pure worship of God himself.",
-            "Let us therefore learn, that the commencement of godliness is the love of God, because God disdains the forced services of men, and chooses to be worshipped freely and willingly."
+            "For, though it is divided into two tables, the first of which relates to the worship of God, and the second to charity, Moses properly and wisely draws up this summary, that the Jews may perceive what is the will of God in each of the commandments.",
+            "But as the wicked and sinful inclinations of the flesh draw us aside from what is right, Moses shows that our life will not be regulated aright till the love of God fill all our senses.",
+            "It now appears from this summary that, in the commandments of the Law, God does not look at what men can do, but at what they ought to do; since in this infirmity of the flesh it is impossible that perfect love can obtain dominion."
         ],
         "Philip Schaff": [
             "The whole is a demand for supreme affection.",
-            "The first [phrase] refers to 'the whole energy of the reason and the intellect; soul, 'the whole energy of sentiment and passion; mind, 'the whole energy of thought and will in its manifestation.'",
-            "To this Mark adds: 'with all thy strength,' which refers more especially to the manifestations of thought and will."
+            "The first refers to 'the whole energy of the reason and the intellect; soul, 'the whole energy of sentiment and passion; mind, 'the whole energy of thought and will in its manifestation.'",
+            "With all thy strength,' which refers more especially to the manifestations of thought and will."
         ],
         "John Gill": [
-            "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind; that is, with all the powers and faculties of the soul, the will, the understanding, and the affections.",
-            "Though the Jewish writers paraphrase and interpret it... 'with all thy strength,' with all thy 'mammon', or riches; or otherwise, 'with all thy might,' with every measure he measures unto thee, do thou measure unto him.",
+            "thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind; that is, with all the powers and faculties of the soul, the will, the understanding, and the affections; in the most sincere, upright, and perfect manner, without any dissimulation and hypocrisy.",
+            "and though this is now the case of man, yet his obligation to love the Lord in this manner is still the same; and when the Spirit of God does produce the grace and fruit of love in his soul, he does love the Lord sincerely.",
             "And certain it is, that as God is to be loved in the strongest manner we are capable of, and with all we have, and are; so always, at all times, under all dispensations of his providence, and upon all accounts, and for all he does towards, in, upon, and for us."
         ],
         "John Wesley": [
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "To truly follow the commandment in Matthew 22:37, one must give their whole being to loving God. This includes the full range of human capacities - reason, intellect, sentiment, passion, thought, and will. It is through this all-encompassing love that the Jews are reminded of their devotion to the one true God, distinct from idols and external influences. This love should not be forced or insincere, but freely given. In Deuteronomy 6:5, the same commandment is reiterated, emphasizing the need for an unwavering love for God that encompasses every aspect of our lives.",
-            "wordCount": 91,
-            "quoteTokenProportion": 45.59,
-            "qualityScore": 1.1524079293576115,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.66,
+            "bht": "We are called to love the Lord our God with every aspect of our being\u2014heart, soul, and mind. This commandment encompasses the entirety of our affection, reason, intellect, sentiment, passion, thought, and will. It is a demand for supreme devotion, a recognition that our devotion to God should permeate every facet of our lives. This summary of the commandments helps us understand that God desires not only outward obedience, but a sincere and perfect love that fills all our senses. Though we may falter in our pursuit of perfect love, our obligation to love the Lord in this manner remains the same. When the Spirit of God produces the grace and fruit of love in our souls, we will love the Lord sincerely and with all that we have and are.",
+            "wordCount": 132,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.3670668953955045,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.8,
             "commentatorTierSimilarities": [
                 0.0,
-                42.33,
-                57.67
+                44.71,
+                55.29
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "To truly follow this commandment, one must love God with their whole being - reason, intellect, sentiment, passion, thought, and will. This love is not to be forced or insincere, but freely given. It is a reminder to the Jews of their devotion to the true God, distinguishing Him from idols. In Deuteronomy 6:5, the same commandment is reiterated, emphasizing the need for an unwavering love that encompasses every aspect of our lives.",
-            "wordCount": 71,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.2004448108394639,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.26,
+            "bht": "We are called to love the Lord our God with every aspect of our being\u2014heart, soul, and mind. This commandment encompasses the entirety of our affection, reason, intellect, sentiment, passion, thought, and will. It is a demand for supreme devotion, a recognition that our love for God should permeate every facet of our lives. This summary of the commandments helps us understand that God desires a sincere and perfect love that fills all our senses, illuminating our need for his grace in our pursuit of perfect love.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.48114341587636,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
             "commentatorTierSimilarities": [
                 0.0,
-                40.17,
-                59.83
+                50.62,
+                49.38
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "To love the Lord your God with all your heart, soul, and mind means to offer Him your supreme affection and the entirety of your being. This encompasses the whole energy of your reason, intellect, sentiment, passion, thought, and will. It is a demand for complete devotion. The Jews are reminded that this rule of life is prescribed by the one true God, differentiating Him from idols and urging them to adhere to pure worship. The love of God is the foundation of godliness, a voluntary and willing offering of oneself to the Lord. It involves the love of God with all your powers, faculties, and even material possessions. It is an all-encompassing love that transcends time, circumstances, and everything God does for us. (Deuteronomy 6:5)",
-            "wordCount": 126,
-            "quoteTokenProportion": 35.53,
-            "qualityScore": 1.3380615956374364,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "bht": "We are commanded to love the Lord our God with our entire being\u2014heart, soul, and mind. This means offering the whole energy of our reasoning, intellect, sentiment, passion, thought, and will in complete devotion. It is a call for supreme affection, a recognition that our love for God should saturate every aspect of our lives. This summary of the commandments shows us that God desires a genuine and unwavering love that fills all our senses, acknowledging our dependency on His grace to fulfill this perfect love.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4700746207003348,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.22,
             "commentatorTierSimilarities": [
                 0.0,
-                49.02,
-                50.98
+                53.04,
+                46.96
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "To love the Lord your God with all your heart, soul, and mind requires offering Him supreme affection and the entirety of your being. This includes the whole energy of reason, intellect, sentiment, passion, thought, and will. It is a demand for complete devotion, distinguishing the true God from idols. The foundation of godliness is the voluntary and willing love of God, which involves all powers, faculties, and even material possessions. This all-encompassing love transcends time, circumstances, and everything God does for us. (Deuteronomy 6:5)",
-            "wordCount": 85,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 1.424816758445949,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "bht": "This verse commands us to love the Lord our God with all our heart, soul, and mind. It is a call to offer our whole being in complete devotion, using every faculty of our soul, including our will, understanding, and affections. Our love for God should be sincere, upright, and without hypocrisy. We are reminded that our love for God must be genuine and integrated into every aspect of our lives, reliant on His grace to fulfill this perfect love.",
+            "wordCount": 80,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.2533148048189517,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
             "commentatorTierSimilarities": [
                 0.0,
-                49.07,
-                50.93
+                40.93,
+                59.07
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "To love the Lord your God with all your heart, soul, and mind means to offer supreme affection, involving reason, sentiment, and thought. It is a demand for complete devotion. The true and only God prescribes this rule of life, distinguishing Himself from idols. The love of God is the foundation of godliness, a voluntary, willing offering of oneself to the Lord. This all-encompassing love includes the love of God with all powers, faculties, and material possessions, transcending time, circumstances, and everything He does for us. (Deuteronomy 6:5)",
-            "wordCount": 88,
-            "quoteTokenProportion": 32.76,
-            "qualityScore": 1.3428372375882727,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.99,
+            "bht": "We are directed to love the Lord our God with our entire being, involving our heart, soul, and mind. This instruction entails offering our whole self in wholehearted devotion, employing all aspects of our soul, including our will, understanding, and affections. Our love for God should be authentic, upright, and devoid of hypocrisy. This summary highlights the necessity of a genuine and all-encompassing love for God, that permeates every dimension of our existence, underscoring our dependence on His grace to realize this ideal love.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.207428367322986,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.49,
             "commentatorTierSimilarities": [
                 0.0,
-                46.28,
-                53.72
+                43.14,
+                56.86
             ],
             "generationAttempt": 5
         }

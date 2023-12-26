@@ -1,7 +1,7 @@
 # Luke 6:41 Commentary Help Text
 
 ## BHT:
-In this teaching, Jesus uses the analogy of a mote and a beam to show the importance of introspection and humility. The provided quotes stress the connection between this teaching and previous ones, emphasizing that not all sins are the same. They caution against being judgmental towards others while ignoring our own faults, which is considered a greater sin. This reminder prompts us to examine our own actions and attitudes before criticizing others.
+In this teaching, Jesus warns against the dangers of hypocrisy and judgmental attitudes. He uses the vivid imagery of a mote and beam to illustrate how easily people can overlook their own faults while harshly judging others. Jesus emphasizes self-reflection and humility, highlighting that no one is entirely free from sin. Instead of being quick to point out the faults of others, Jesus encourages His followers to approach others with mercy and grace, recognizing that we all fall short and require forgiveness.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -20,9 +20,9 @@ In this teaching, Jesus uses the analogy of a mote and a beam to show the import
 
 
 ### John Gill:
-1. "A lesser sin in comparison of others; for all sins are not alike..."
-2. "Some are not so severely to be animadverted upon as others..."
-3. "Greater sin...those who are inquisitive searchers into the faults of others, and severe animadverters on them; and yet are blind to their own iniquities."
+1. "A lesser sin in comparison of others; for all sins are not alike, as the Stoics asserted."
+2. "For no man is perfect, or wholly free from sin."
+3. "Meaning a greater sin, such are guilty of, who are inquisitive searchers into the faults of others, and severe animadverters on them; and yet are blind to their own iniquities, and take no notice of them."
 
 ### John Wesley:
 1.  Matthew 7:3.
@@ -31,45 +31,41 @@ In this teaching, Jesus uses the analogy of a mote and a beam to show the import
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:15:49
+- Timestamp: 12-25-2023 20:33:01
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 46.43%
-- BHT Quality Score: 1.3262203499109564
+- BHT Word Count: 83
+- BHT Commentary Usage: 39.39%
+- BHT Quality Score: 1.3371877214392516
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['a', 'actions', 'against', 'all', 'analogy', 'and', 'are', 'attitudes', 'beam', 'before', 'being', 'between', 'caution', 'connection', 'considered', 'criticizing', 'emphasizing', 'examine', 'faults', 'greater', 'humility', 'ignoring', 'importance', 'in', 'introspection', 'is', 'jesus', 'judgmental', 'mote', 'not', 'of', 'ones', 'others', 'our', 'own', 'previous', 'prompts', 'provided', 'quotes', 'reminder', 'same', 'show', 'sin', 'sins', 'stress', 'teaching', 'that', 'the', 'they', 'this', 'to', 'towards', 'us', 'uses', 'which', 'while']
-- ChatGPT injected words (significant words only) (30):
-	['actions', 'analogy', 'attitudes', 'beam', 'caution', 'connection', 'considered', 'criticizing', 'emphasizing', 'examine', 'faults', 'greater', 'humility', 'ignoring', 'importance', 'introspection', 'jesus', 'judgmental', 'mote', 'ones', 'previous', 'prompts', 'provided', 'quotes', 'reminder', 'sin', 'sins', 'stress', 'teaching', 'uses']
+- ChatGPT injected words (66):
+	['a', 'against', 'all', 'and', 'approach', 'attitudes', 'beam', 'being', 'can', 'dangers', 'easily', 'emphasizes', 'encourages', 'entirely', 'fall', 'faults', 'followers', 'forgiveness', 'free', 'from', 'grace', 'harshly', 'he', 'highlighting', 'his', 'how', 'humility', 'hypocrisy', 'illustrate', 'imagery', 'in', 'instead', 'is', 'jesus', 'judging', 'judgmental', 'mercy', 'mote', 'no', 'of', 'one', 'others', 'out', 'overlook', 'own', 'people', 'point', 'quick', 'recognizing', 'reflection', 'require', 'self', 'short', 'sin', 'teaching', 'that', 'the', 'their', 'this', 'to', 'uses', 'vivid', 'warns', 'we', 'while', 'with']
+- ChatGPT injected words (significant words only) (40):
+	['approach', 'attitudes', 'beam', 'dangers', 'easily', 'emphasizes', 'encourages', 'entirely', 'fall', 'faults', 'followers', 'forgiveness', 'free', 'grace', 'harshly', 'highlighting', 'humility', 'hypocrisy', 'illustrate', 'imagery', 'instead', 'jesus', 'judging', 'judgmental', 'mercy', 'mote', 'overlook', 'people', 'point', 'quick', 'recognizing', 'reflection', 'require', 'self', 'short', 'sin', 'teaching', 'uses', 'vivid', 'warns']
 
 ### Logs
-- Attempt 1 BHT: In Luke 6:41, Jesus uses the imagery of a mote and a beam to illustrate the importance of self-reflection and humility. The commentators note the connection between this verse and Matthew 7:3, highlighting the significance of understanding the words beholdest and considerset. They explain that mote represents a lesser sin, emphasizing that not all sins are equal. However, they caution against being inquisitive and judgmental towards others while being blind to one's own faults, which is a greater sin. The parabolic proverb of the mote and the beam serves as a reminder to carefully examine our own actions and attitudes before passing judgement on others.
-- 🔄 Luke 6:41 (attempt 1, 105 words, 36.99% quotes quality score: 1.5241407760480263, V2 normalized quality score: 42.02, commentator tiers 1-3: 43.47%, 0.0%, 56.53%) 
+- Attempt 1 BHT: In Luke 6:41, Jesus warns about the dangers of hypocrisy and judgmental attitudes. The commentators highlight the seamless connection between Luke 6:41 and Matthew 7:3, emphasizing that Jesus is addressing the same issue. Drawing on the parabolic proverb of the mote and beam from Matthew 7:3-5, Jesus uses vivid imagery to illustrate how easily people can overlook their own faults while harshly judging others. Jesus urges His followers to self-examination and humility, acknowledging that no one is perfect and all are susceptible to sin. Rather than being quick to point out the flaws of others, Jesus encourages a posture of self-reflection and mercy.
+- 🔄 Luke 6:41 (attempt 1, 101 words, 37.84% quotes quality score: 1.5107780436925955, V2 normalized quality score: 41.58, commentator tiers 1-3: 34.16%, 0.0%, 65.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this passage, Jesus urges us to look inward before judging others. The analogy of a mote and a beam emphasizes the importance of self-reflection and humility. The given commentaries emphasize the interconnectedness of the verse and the previous teachings of Jesus. They point out that not all sins are equal, and caution against being inquisitive and judgmental towards others while being blind to our own faults. This reminder encourages us to examine our own actions and attitudes before passing judgment on others.
-- 🔄 Luke 6:41 (attempt 2, 84 words, 38.98% quotes quality score: 1.3406397950254791, V2 normalized quality score: 35.92, commentator tiers 1-3: 38.04%, 0.0%, 61.96%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: In this passage, Jesus addresses the issue of hypocrisy and judgmental attitudes. He uses the imagery of a mote and a beam to illustrate how easily people overlook their own faults while harshly judging others. Jesus encourages His followers to practice self-reflection and humility, recognizing that no one is free from sin. Instead of focusing on the faults of others, Jesus urges a posture of mercy and self-examination. This teaching is a reminder to approach others with grace rather than a critical spirit.
+- 🔄 Luke 6:41 (attempt 2, 85 words, 37.1% quotes quality score: 1.2746656797573226, V2 normalized quality score: 33.73, commentator tiers 1-3: 28.41%, 0.0%, 71.59%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: In this teaching, Jesus uses the analogy of a mote and a beam to show the importance of introspection and humility. The provided quotes stress the connection between this teaching and previous ones, emphasizing that not all sins are the same. They caution against being judgmental towards others while ignoring our own faults, which is considered a greater sin. This reminder prompts us to examine our own actions and attitudes before criticizing others.
-- 🔄 Luke 6:41 (attempt 3, 73 words, 46.43% quotes quality score: 1.3262203499109564, V2 normalized quality score: 35.44, commentator tiers 1-3: 36.88%, 0.0%, 63.12%) 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: In this teaching, Jesus warns against the dangers of hypocrisy and judgmental attitudes. He uses the parabolic proverb of the mote and beam to vividly illustrate how easily people can overlook their own faults while harshly judging others. Jesus emphasizes the importance of self-reflection and humility, recognizing that nobody is free from sin. Rather than being quick to point out the flaws of others, Jesus encourages His followers to approach others with mercy and a posture of grace.
+- 🔄 Luke 6:41 (attempt 3, 79 words, 40.32% quotes quality score: 1.3251339253408765, V2 normalized quality score: 35.4, commentator tiers 1-3: 29.58%, 0.0%, 70.42%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this teaching, Jesus draws our attention to the importance of self-reflection and humility through the image of a mote and a beam. The commentaries stress the connection between this teaching and previous ones, highlighting that not all sins are equal. They warn against being judgmental towards others while turning a blind eye to our own faults, which is considered a greater sin. This reminder prompts us to carefully examine our own actions and attitudes before casting judgment on others.
-- 🔄 Luke 6:41 (attempt 4, 81 words, 41.94% quotes quality score: 1.366463648199415, V2 normalized quality score: 36.78, commentator tiers 1-3: 37.92%, 0.0%, 62.08%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 5 BHT: In this teaching, Jesus uses the analogy of a mote and a beam to emphasize the significance of self-reflection and humility. The provided quotes stress the connection between this teaching and previous ones, cautioning against being judgmental towards others while ignoring our own faults. They highlight that not all sins are equal, urging us to carefully examine our actions and attitudes before passing judgment. This poignant reminder calls us to cultivate a posture of humility and self-awareness in our interactions with others.
-- 🔄 Luke 6:41 (attempt 5, 84 words, 37.7% quotes quality score: 1.2989341627468445, V2 normalized quality score: 34.53, commentator tiers 1-3: 39.67%, 0.0%, 60.33%) 
+- Attempt 4 BHT: In this teaching, Jesus warns against the dangers of hypocrisy and judgmental attitudes. He uses the vivid imagery of a mote and beam to illustrate how easily people can overlook their own faults while harshly judging others. Jesus emphasizes self-reflection and humility, highlighting that no one is entirely free from sin. Instead of being quick to point out the faults of others, Jesus encourages His followers to approach others with mercy and grace, recognizing that we all fall short and require forgiveness.
+- 🔄 Luke 6:41 (attempt 4, 83 words, 39.39% quotes quality score: 1.3371877214392516, V2 normalized quality score: 35.8, commentator tiers 1-3: 29.2%, 0.0%, 70.8%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 6:41 bht prompt v0.8 (73 words, 46.43% quotes)
-- quality score: 1.3262203499109564, V2 normalized quality score: 35.44, commentator tiers 1-3: 36.88%, 0.0%, 63.12%)
+- Attempt 5 BHT: In this teaching, Jesus warns against hypocrisy and a judgmental attitude. He uses the vivid imagery of a mote and beam to illustrate how easily people overlook their own faults while harshly judging others. Jesus emphasizes self-reflection and humility, as nobody is entirely free from sin. He encourages His followers to approach others with mercy and grace, recognizing that we all fall short and require forgiveness. This teaching serves as a reminder to prioritize self-examination and compassion rather than being quick to criticize others.
+- 🔄 Luke 6:41 (attempt 5, 86 words, 38.24% quotes quality score: 1.204065670820938, V2 normalized quality score: 31.38, commentator tiers 1-3: 25.35%, 0.0%, 74.65%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 6:41 bht prompt v0.8 (83 words, 39.39% quotes)
+- quality score: 1.3371877214392516, V2 normalized quality score: 35.8, commentator tiers 1-3: 29.2%, 0.0%, 70.8%)

@@ -1,42 +1,43 @@
 {
-    "timestamp": "12-19-2023 16:18:52",
+    "timestamp": "12-25-2023 20:33:22",
     "verseRef": "Luke 12:25",
     "bestBHT": {
-        "bht": "Fretting about the things we lack will not bring us the least of what we desire, but it may worsen our plight. If we cannot add even a small measure to our age, why trouble ourselves with matters of greater consequence? Jesus emphasizes the importance of food and clothing, which are essential for sustaining and prolonging life. Instead of wasting our time and energy on worry, we should trust in God's provision and focus on what truly matters.",
-        "wordCount": 79,
-        "quoteTokenProportion": 44.44,
-        "qualityScore": 1.1789953344875448,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.55,
+        "bht": "Why worry about the things that are necessary for sustaining and prolonging life? Corroding solicitude will not bring you the least of the things ye fret about but may double the evil of wanting them. The original meaning of the word is time of life, age. Moreover, Christ is speaking of food and clothing, the object of which is to foster and prolong life. Just as you cannot add even the slightest measurement to your own stature, worrying will not add anything to your life. Trust in God's timing and care.",
+        "wordCount": 92,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.3587976926959775,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.52,
         "commentatorTierSimilarities": [
-            47.14,
+            58.71,
             0.0,
-            52.86
+            41.29
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "Corroding solicitude will not bring you the least of the things ye fret about.",
             "Though it may double the evil of wanting them.",
-            "If not the least, why vex yourselves about things of more consequence?"
+            "Why vex yourselves about things of more consequence?"
         ],
         "Marvin Vincent": [
-            "The original meaning of the word is time of life, age.\" (Luke 12:25)",
-            "A measure of time is sometimes represented by a measure of length.\" (Luke 12:25)",
-            "Christ is speaking of food and clothing, the object of which is to foster and prolong life.\" (Luke 12:25)"
+            "The original meaning of the word is time of life, age.\" ",
+            "But both the usage and the connection are in favor of the meaning age.\" ",
+            "Moreover, Christ is speaking of food and clothing, the object of which is to foster and prolong life."
         ],
         "Archibald T. Robertson": [
             "A cubit (\u03c0\u03b7\u03c7\u03c5\u03bd). Matthew 6:27 has \u03c0\u03b7\u03c7\u03c5\u03bd \u03b5\u03bd\u03b1 (one cubit, though \u03b5\u03bd\u03b1 is sometimes merely the indefinite article.",
             "Stature (\u03b7\u03bb\u03b9\u03ba\u03b9\u03b1\u03bd) as in Matthew, which see. "
         ],
         "John Gill": [
-            "And which of you with taking thought,.... In an anxious and distressing manner, for food and raiment, in order to preserve and continue life,",
-            "add to his stature one cubit?",
-            "The Persic version reads, 'to his stature and height', as if this referred to the height of stature; whereas it seems rather to regard the age of a man, and the continuance of his life.",
-            "this referred to the height of stature; whereas it seems rather to regard the age of a man, and the continuance of his life."
+            "In an anxious and distressing manner, for food and raiment, in order to preserve and continue life.\" ",
+            "Add to his stature one cubit?",
+            "It seems rather to regard the age of a man, and the continuance of his life."
         ],
         "John Wesley": [
-            "Which of you can add the least measure."
+            "Which of you can add the least measure...",
+            "To add one cubit to a thing (which is the phrase in the original)...",
+            "...was a kind of proverbial expression for making the least addition to it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -56,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Fretting about the things we lack will not bring us any closer to obtaining them; in fact, it may even worsen our situation. If we cannot even add a small measure to our time of life or our age, why waste our time and energy worrying about things of greater importance? Jesus specifically mentions food and clothing, which are necessary for sustaining and prolonging life. Instead of being consumed by anxiety, we should trust in God's provision and focus on the things that truly matter.",
-            "wordCount": 86,
-            "quoteTokenProportion": 43.28,
-            "qualityScore": 1.1693857099249472,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+            "bht": "Why worry about the things that are necessary for sustaining and prolonging life? Bothersome anxiety will not provide the things that you are concerned about, in fact, it may only worsen the effects of lacking them. Instead of needlessly vexing yourselves about things of greater significance, focus on the present moment and trust in God's provision. Remember, the term used here can be understood as age, emphasizing the importance of the duration and preservation of life. Just as you cannot add even the slightest measurement to your own stature, worrying will not add anything to your life. Trust in God's timing and care.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.1518781264489255,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.64,
             "commentatorTierSimilarities": [
-                50.54,
+                48.73,
                 0.0,
-                49.46
+                51.27
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Fretting about the things we lack will not bring us the least of what we desire, but it may worsen our plight. If we cannot add even a small measure to our age, why trouble ourselves with matters of greater consequence? Jesus emphasizes the importance of food and clothing, which are essential for sustaining and prolonging life. Instead of wasting our time and energy on worry, we should trust in God's provision and focus on what truly matters.",
-            "wordCount": 79,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.1789953344875448,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.55,
+            "bht": "Why worry about the things necessary for sustaining life? Anxious thoughts won't bring what you fret about, but may even worsen the effects of lacking them. Instead, focus on the present moment and trust in God's provision. The term used can be understood as age, emphasizing the preservation of life. Just as you can't add to your stature, worrying won't add anything to your life. Trust in God's timing and care.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.1648435193430586,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.07,
             "commentatorTierSimilarities": [
-                47.14,
+                50.62,
                 0.0,
-                52.86
+                49.38
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus reminds us that worrying about material possessions will not bring us any closer to obtaining them and may actually make things worse. He emphasizes the futility of trying to add even a small measure to our age or time of life. Instead, we should focus on the necessities like food and clothing that nurture and prolong our existence. Rather than being consumed by anxiety, we should trust in God's provision and prioritize the things that truly matter in life.",
-            "wordCount": 81,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.164813134010996,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.07,
+            "bht": "Why vex yourselves about things of more consequence? Corroding solicitude will not bring you the least of the things ye fret about, but may double the evil of wanting them. The object of food and clothing is to foster and prolong life, so why worry? Just as you cannot add even the least measure to your stature, worrying will not add anything to your life. Trust in God's timing and care.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.3308489996243473,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.59,
             "commentatorTierSimilarities": [
-                46.41,
+                61.13,
                 0.0,
-                53.59
+                38.87
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus highlights the pointlessness of being preoccupied with our unmet needs, as it will not bring us any closer to obtaining them and may even worsen our predicament. He calls attention to the inability to add even a small measure to our age or time of life. Instead, Jesus urges us to focus on the essentials such as food and clothing, which contribute to our well-being and longevity. Rather than succumbing to anxiety, we ought to trust in God's provision and concentrate on the things that truly hold significance.",
-            "wordCount": 91,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.161100859195154,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.95,
+            "bht": "Why vex yourselves about things of more consequence? Corroding solicitude will not bring you the least of the things ye fret about, but may double the evil of wanting them. The original meaning of the word is time of life, age. But both the usage and the connection are in favor of the meaning age. Moreover, Christ is speaking of food and clothing, the object of which is to foster and prolong life. Just as you cannot add even the slightest measurement to your own stature, worrying will not add anything to your life. Trust in God's timing and care.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.4308007183484552,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.92,
             "commentatorTierSimilarities": [
-                48.26,
+                64.08,
                 0.0,
-                51.74
+                35.92
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus teaches us the futility of constantly worrying about our material needs, as it will not bring us any closer to obtaining them and may even exacerbate our lack. He emphasizes that not even a small measure can be added to our age or time of life. Jesus highlights the importance of basic necessities like food and clothing, which contribute to our sustenance and well-being. Instead of being consumed by anxiety, we should trust in God's provision and focus on the things that truly matter in life.",
-            "wordCount": 89,
-            "quoteTokenProportion": 42.65,
-            "qualityScore": 1.1134250486100443,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.37,
+            "bht": "Why worry about the things that are necessary for sustaining and prolonging life? Corroding solicitude will not bring you the least of the things ye fret about but may double the evil of wanting them. The original meaning of the word is time of life, age. Moreover, Christ is speaking of food and clothing, the object of which is to foster and prolong life. Just as you cannot add even the slightest measurement to your own stature, worrying will not add anything to your life. Trust in God's timing and care.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3587976926959775,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.52,
             "commentatorTierSimilarities": [
-                47.76,
+                58.71,
                 0.0,
-                52.24
+                41.29
             ],
             "generationAttempt": 5
         }

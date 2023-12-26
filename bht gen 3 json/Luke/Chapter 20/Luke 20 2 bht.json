@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:22:00",
+    "timestamp": "12-25-2023 20:33:24",
     "verseRef": "Luke 20:2",
     "bestBHT": {
-        "bht": "The religious leaders approached Jesus and asked Him explicitly about His authority, particularly in regards to the clearing of the temple. Luke adds these words to what Mark and Matthew have written, which helps to bring clarity to their request. The Greek manuscripts have no punctuation, but it is evident that the question pertains to the authority behind Jesus' actions. The religious leaders, perhaps feeling threatened by the impact of Jesus' actions on the buyers and sellers in the temple, were determined to ascertain whether His authority came from God or man.",
-        "wordCount": 92,
-        "quoteTokenProportion": 40.62,
-        "qualityScore": 1.0459563705422434,
-        "qualityScoreNormalizedComparedToV2BHTs": 26.12,
+        "bht": "The religious leaders confront Jesus, demanding, Tell us by what authority do you do these things? Luke adds these words to what Mark and Matthew have, emphasizing their curiosity about Jesus' actions, particularly his clearing of the temple. Their question encompasses not only Jesus' preaching and working of miracles, but also his authority to challenge the established order. The Greek manuscripts have no punctuation, leaving room for interpretation of whether they were questioning if God or man granted Jesus this authority.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.1189865078378611,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.55,
         "commentatorTierSimilarities": [
-            35.15,
+            23.96,
             0.0,
-            64.85
+            76.04
         ],
         "generationAttempt": 1
     },
@@ -23,14 +23,14 @@
             "\tthe clearing of the temple."
         ],
         "Archibald T. Robertson": [
-            "Tell us.\" ",
-            "Luke adds these words to what Mark and Matthew have.\" ",
-            "The Greek manuscripts have no punctuation."
+            "Tell us.\"  (Commentary quote 1)",
+            "Luke adds these words to what Mark and Matthew have.\"  (Commentary quote 2)",
+            "The Greek manuscripts have no punctuation.\"  (Commentary quote 3)"
         ],
         "John Gill": [
-            "Tell us by what authority doest thou these things?",
-            "The buyers and sellers out of the temple, which especially affected them, they losing their rents thereby.",
-            "God or man?"
+            "Tell us by what authority doest thou these things?\".",
+            "This thing...all these things...not only preaching, but working miracles; and particularly driving the buyers and sellers out of the temple, which especially affected them, they losing their rents thereby\".",
+            "Or who is he that gave thee this authority? God or man?\"."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -50,67 +50,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The religious leaders approached Jesus and asked Him explicitly about His authority, particularly in regards to the clearing of the temple. Luke adds these words to what Mark and Matthew have written, which helps to bring clarity to their request. The Greek manuscripts have no punctuation, but it is evident that the question pertains to the authority behind Jesus' actions. The religious leaders, perhaps feeling threatened by the impact of Jesus' actions on the buyers and sellers in the temple, were determined to ascertain whether His authority came from God or man.",
-            "wordCount": 92,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.0459563705422434,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.12,
+            "bht": "The religious leaders confront Jesus, demanding, Tell us by what authority do you do these things? Luke adds these words to what Mark and Matthew have, emphasizing their curiosity about Jesus' actions, particularly his clearing of the temple. Their question encompasses not only Jesus' preaching and working of miracles, but also his authority to challenge the established order. The Greek manuscripts have no punctuation, leaving room for interpretation of whether they were questioning if God or man granted Jesus this authority.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.1189865078378611,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.55,
             "commentatorTierSimilarities": [
-                35.15,
+                23.96,
                 0.0,
-                64.85
+                76.04
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Approaching Jesus, the religious leaders directly questioned His authority, specifically referring to the clearing of the temple. Luke's addition of these words provides further clarification. The absence of punctuation in the Greek manuscripts does not detract from the clear premise of their inquiry. The religious leaders, likely unsettled by the impact of Jesus' actions on the temple's commerce, were determined to discern whether His authority came from God or man.",
-            "wordCount": 72,
-            "quoteTokenProportion": 31.37,
-            "qualityScore": 0.9629562000251422,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.36,
+            "bht": "The religious leaders come to Jesus and demand an explanation, asking Him to reveal the authority behind His actions. This question is specifically directed towards the significance of Jesus' words and deeds, including His act of clearing the temple. Luke adds this additional detail to emphasize their curiosity. The absence of punctuation in the Greek manuscripts allows for different interpretations regarding whether they question if God or man has granted Jesus this authority.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 0.9863208641470205,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.14,
             "commentatorTierSimilarities": [
-                47.0,
+                36.19,
                 0.0,
-                53.0
+                63.81
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Approaching Jesus, the religious leaders explicitly asked Him about the authority behind His actions, particularly in relation to the clearing of the temple. Luke's additional words help to provide a more precise understanding of their inquiry, as the Greek manuscripts lack punctuation. Their question sought to discern whether Jesus' authority was from God or man, possibly driven by their concern for their own interests as the buyers and sellers in the temple.",
-            "wordCount": 73,
-            "quoteTokenProportion": 35.71,
-            "qualityScore": 0.9554159041516772,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.11,
+            "bht": "The religious leaders approach Jesus, seeking clarification about His authority. Their inquiry is focused on Jesus' deeds, including the clearing of the temple, asking Him to shed light on the source of His power. Luke adds this aspect to the narrative, further highlighting the curiosity surrounding Jesus' actions. The absence of punctuation in the Greek manuscripts leaves room for interpretation regarding whether the leaders are questioning if Jesus' authority comes from God or man.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 0.9163320664892689,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.81,
             "commentatorTierSimilarities": [
-                28.57,
+                28.42,
                 0.0,
-                71.43
+                71.58
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The religious leaders approached Jesus and explicitly inquired about the authority behind His actions, specifically mentioning the clearing of the temple. The addition of Luke's words offers further clarification, and although the Greek manuscripts lack punctuation, the essence of their question is clear. The religious leaders were likely motivated by their own loss of rents as buyers and sellers in the temple, seeking to ascertain whether Jesus' authority came from God or man.",
-            "wordCount": 74,
-            "quoteTokenProportion": 34.55,
-            "qualityScore": 1.0165389068495172,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.14,
+            "bht": "Approaching Jesus, the religious leaders seek answers, asking Him to disclose the authority behind His actions. Specifically, they are curious about the significance of Jesus' words and deeds, particularly the act of clearing the temple. Luke supplements this account by adding their inquiry, emphasizing their curiosity further. The absence of punctuation in the Greek manuscripts allows for varying interpretations regarding whether they question if Jesus' authority comes from God or man.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 0.9709635043614413,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.63,
             "commentatorTierSimilarities": [
-                31.36,
+                32.37,
                 0.0,
-                68.64
+                67.63
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Approaching Jesus, the religious leaders directed a straightforward question to Him, seeking clarification on the authority guiding His actions, particularly His act of clearing the temple. These additional words from Luke contribute to a sharper understanding of their inquiry, as the Greek manuscripts lack punctuation. Motivated, perhaps, by their financial interests as buyers and sellers, the religious leaders aimed to discern the origin of Jesus' authority, whether it derived from God or from man.",
-            "wordCount": 74,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 0.8973409559193338,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.18,
+            "bht": "The religious leaders confront Jesus, demanding an explanation, and ask him to reveal the authority behind his actions. This question is specifically directed towards the significance of Jesus' words and deeds, including his act of clearing the temple. Luke adds this additional detail to emphasize their curiosity. The absence of punctuation in the Greek manuscripts leaves room for different interpretations regarding whether they are questioning if God or man granted Jesus this authority.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 0.98390407865026,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.06,
             "commentatorTierSimilarities": [
-                26.29,
+                36.74,
                 0.0,
-                73.71
+                63.26
             ],
             "generationAttempt": 5
         }

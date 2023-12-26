@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:10:23",
+    "timestamp": "12-25-2023 20:34:01",
     "verseRef": "John 11:32",
     "bestBHT": {
-        "bht": "Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This reminds us that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.",
-        "wordCount": 80,
-        "quoteTokenProportion": 39.06,
-        "qualityScore": 1.4619519896816036,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+        "bht": "Mary's response to Jesus's arrival is characterized by her impassioned weeping and falling down at his feet. Her actions speak volumes about her profound grief, and her heartfelt cry reflects her belief that if Jesus had been present, her brother would still be alive. Her words are few but significant, conveying the depth of her sorrow and her unwavering trust in Jesus's power. In this moment, Mary honors Jesus beyond the ordinary customs of men, recognizing his authority and seeking solace in his presence.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6838289405568616,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.33,
         "commentatorTierSimilarities": [
-            21.75,
-            38.81,
-            39.43
+            22.32,
+            35.54,
+            42.14
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -25,23 +25,22 @@
         ],
         "John Calvin": [
             "From her falling down at his feet we learn that Christ was honored in that house beyond the ordinary custom of men.",
-            "As Christ had nothing about him, according to the flesh, that was royal or magnificent, it was for a different purpose that Mary fell down at his feet.",
-            "The power of Christ, which filled heaven and earth, ought not to have been limited to his bodily presence."
+            "Though she appears to speak of Christ respectfully, yet we have lately pointed out what is faulty in these words; for the power of Christ, which filled heaven and earth, ought not to have been limited to his bodily presence."
         ],
         "Philip Schaff": [
-            "Lord, if thou hadst been here, my brother had not died.\" ",
-            "Her first words are nearly the same as her sister\u2019s: there is only in the Greek a slight difference in the place of \u2018my\u2019 which gives a touching emphasis to the expression of personal loss.\" ",
-            "Mary\u2019s absorbing grief makes other words impossible: she falls at the feet of Jesus weeping."
+            "Lord, if thou hadst been here, my brother had not died.",
+            "There is only in the Greek a slight difference in the place of 'my' which gives a touching emphasis to the expression of personal loss.",
+            "Mary's absorbing grief makes other words impossible: she falls at the feet of Jesus weeping."
         ],
         "Archibald T. Robertson": [
-            "Fell down at his feet (\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03b4\u03b1\u03c2). Second aorist active of \u03c0\u03b9\u03c0\u03c4\u03c9, to fall.",
+            "Fell down at his feet (\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03b4\u03b1\u03c2). Second aorist active of \u03c0\u03b9\u03c0\u03c4\u03c9, to fall. Note unusual position of \u03b1\u03c5\u03c4\u03bf\u03c5.",
             "This impulsive act like Mary.",
-            "She said no more, only wept."
+            "But she said no more, only wept (verse John 11:33)."
         ],
         "John Gill": [
-            "It is blessed meeting Christ any where; and where he is preached, and his ordinances administered, let it be in what place it will, there may the presence of Christ be expected.",
-            "Martha had been here before, and had had some conversation with Christ to her great satisfaction, and she goes and calls her sister, that she might enjoy the same.",
-            "Lord, if thou hadst been here, my brother had not died; which were the same words Martha uttered upon her first meeting Jesus."
+            "It is blessed meeting Christ any where; and where he is preached, and his ordinances administered, let it be in what place it will, there may the presence of Christ be expected.\" ",
+            "Martha had been here before, and had had some conversation with Christ to her great satisfaction, and she goes and calls her sister, that she might enjoy the same: so souls that have met with Jesus under such a ministry, in such a place, invite others to go thither also.\" ",
+            "Saying unto him, Lord, if thou hadst been here, my brother had not died; which were the same words Martha uttered upon her first meeting Jesus."
         ],
         "John Wesley": [
             "She fell at his feet \u2014 This Martha had not done. So she makes amends for her slowness in coming."
@@ -64,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In John 11:32, Mary's grief is so overpowering that she falls at Jesus' feet, weeping. Her action is more impassioned and her words are fewer compared to her sister Martha. She echoes Martha's initial statement, emphasizing her personal loss. Mary's deep sorrow leaves her unable to say more, only to weep. This act of falling at Jesus' feet shows great honor and recognition of His power, which extends beyond His physical presence. Wherever Christ is preached, His presence can be expected.",
-            "wordCount": 83,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.6153458700768566,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+            "bht": "Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. While Mary's words are fewer, her actions speak volumes about her profound grief. It is evident that she has been deeply affected by the death of her brother and feels a personal loss. The powerful image of Mary falling at Jesus's feet is a demonstration of the extraordinary honor and reverence she holds for him. Her heartfelt cry captures her belief that if Jesus had been present, her brother would still be alive. Although Mary's words are brief, they convey the depth of her sorrow and her unwavering trust in Jesus's power.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.7387138695042479,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
             "commentatorTierSimilarities": [
-                24.09,
-                39.88,
-                36.03
+                23.74,
+                38.93,
+                37.32
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Mary's intense grief in this passage is revealed through her impassioned action of falling at Jesus' feet, weeping. Her words are fewer compared to her sister Martha, but carry a powerful message of personal loss. By falling at Jesus' feet, Mary honors Him and acknowledges His presence and power that extends beyond His physical presence. This story reminds us that wherever Christ is preached, we can expect His presence and find comfort in His words.",
-            "wordCount": 76,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 1.741988739282014,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "bht": "Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. Her profound grief is evident in her actions, as she demonstrates extraordinary honor and reverence for him. Her heartfelt cry captures her belief that if Jesus had been present, her brother would still be alive. Though her words are brief, they convey the depth of her sorrow and her unwavering trust in Jesus's power.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.630139009045656,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
             "commentatorTierSimilarities": [
-                21.09,
-                40.89,
-                38.02
+                22.96,
+                35.26,
+                41.78
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This serves as a reminder that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.",
-            "wordCount": 82,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.4613570791030528,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "bht": "Mary's response to Jesus's arrival is characterized by her impassioned weeping and falling down at his feet. Her actions speak volumes about her profound grief, and her heartfelt cry reflects her belief that if Jesus had been present, her brother would still be alive. Her words are few but significant, conveying the depth of her sorrow and her unwavering trust in Jesus's power. In this moment, Mary honors Jesus beyond the ordinary customs of men, recognizing his authority and seeking solace in his presence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6838289405568616,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.33,
             "commentatorTierSimilarities": [
-                21.96,
-                38.61,
-                39.43
+                22.32,
+                35.54,
+                42.14
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Mary's profound sorrow is expressed as she falls at Jesus' feet, weeping. Her act of prostrating herself before Him is a powerful display of honor and recognition of His power. It signifies that Jesus deserves reverence beyond what is customary for men. It reminds us that the presence of Christ can be expected wherever He is preached and His ordinances administered. In times of deep pain, encountering Jesus brings solace and the assurance of His healing and comforting presence.",
-            "wordCount": 80,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.3053218037774912,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "bht": "Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. Her actions demonstrate her profound grief and honor for Jesus. Her heartfelt cry reveals her belief that if Jesus had been present, her brother would still be alive. Though her words may be few, they convey the depth of her sorrow and unwavering trust in Jesus's power. Mary's act of falling at his feet signifies her recognition of Jesus's authority and her desire for solace in his presence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6587079854246998,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
             "commentatorTierSimilarities": [
-                16.71,
-                38.8,
-                44.49
+                21.68,
+                36.61,
+                41.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This reminds us that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.",
-            "wordCount": 80,
-            "quoteTokenProportion": 39.06,
-            "qualityScore": 1.4619519896816036,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "bht": "Mary's response to Jesus's arrival is marked by her impassioned weeping and falling down at his feet. Her actions demonstrate her profound grief and honor for Jesus. Her heartfelt cry reveals her belief that if Jesus had been present, her brother would still be alive. Though her words may be few, they convey the depth of her sorrow and unwavering trust in Jesus's power. Mary's act of falling at his feet signifies her recognition of Jesus's authority and her desire for solace in his presence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6587079854246998,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
             "commentatorTierSimilarities": [
-                21.75,
-                38.81,
-                39.43
+                21.68,
+                36.61,
+                41.71
             ],
             "generationAttempt": 5
         }

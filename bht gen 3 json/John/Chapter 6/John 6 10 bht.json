@@ -1,49 +1,49 @@
 {
-    "timestamp": "12-21-2023 03:06:51",
+    "timestamp": "12-25-2023 20:33:57",
     "verseRef": "John 6:10",
     "bestBHT": {
-        "bht": "As the multitude gathered, the men were arranged in companies, while the women and children were not numbered. They were instructed to sit down on the green grass, reclining as guests for the feast the Lord was about to provide. The disciples' obedient compliance, despite their lack of understanding, is commendable. It exemplifies true faith, trusting in God's power even in times of uncertainty. The abundance of grass was convenient for the gathering. About five thousand men, along with women and children, were present, making the forthcoming miracle all the more remarkable.",
-        "wordCount": 93,
-        "quoteTokenProportion": 36.36,
-        "qualityScore": 1.2226051742667996,
-        "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+        "bht": "The meticulous attention to detail in this account reveals the precise arrangement of the men and the serving of women and children among them. The people were instructed to sit down and recline on the green grass as they prepared for a meal. Despite their uncertainty, they obediently followed Jesus' command, demonstrating their faith. With just one loaf of bread, Jesus miraculously provided for the multitude of over a thousand people.",
+        "wordCount": 71,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.42278411653561,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.65,
         "commentatorTierSimilarities": [
-            19.36,
-            36.03,
-            44.61
+            22.44,
+            38.64,
+            38.92
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "And this is a particular touch of accuracy in the account of an eye-witness, which has not I think been noticed.",
-            "Why in the other accounts should mention be made only of the men in numbering them?",
-            "But here we see how it came to be so\u2014the men alone were arranged in companies, or alone arranged so that any account was taken of them."
+            "But here we see how it came to be so\u2014the men alone were arranged in companies, or alone arranged so that any account was taken of them: the women and children being served promiscuously.",
+            "And here again we have a point of minute truthfulness brought out."
         ],
         "Marvin Vincent": [
             "Sit down [\u03b1\u03bd\u03b1\u03c0\u03b5\u03c3\u03b5\u03b9\u03bd]. Literally, recline.",
-            "Hence a feeding-place, and so grass, provender.",
-            "The sense is merely that of our abstract pasture."
+            "Originally an enclosure. Thus Homer speaks of Peleus offering a sacrifice, aujlhv ejn cortw, in the enclosure of the court (\"Iliad,\" 11, 774).",
+            "The sense is merely that of our abstract pasture. Matthew and Mark mention the grass, Mark with the epithet green."
         ],
         "John Calvin": [
-            "The disciples were not sooner prepared to cherish the hope which their Master held out, and did not remember to ascribe to his power all that was proper, was a degree of stupidity worthy of blame.",
             "No small praise is due to their cheerful obedience in now complying with his injunction, though they know not what is his intention, or what advantage they will derive from what they are doing.",
-            "This is the trial of true faith, when God commands men to walk, as it were, in darkness. For this purpose let us learn not to be wise in ourselves, but, amidst great confusion, still to hope for a prosperous issue, when we follow the guidance of God."
+            "The same readiness to obey is manifested by the people; for, while they are uncertain about the result, they all sit down as soon as a single word of command has been pronounced.",
+            "And this is the trial of true faith, when God commands men to walk, as it were, in darkness."
         ],
         "Philip Schaff": [
-            "They are directed to sit down, partly for the sake of order and ease in the distribution of the food, but also because the Lord is preparing to set a feast before them, and they sit down with Him as His guests.",
-            "So Mark speaks of the 'green grass,' a minute but interesting coincidence. The circumstance is one that an eye-witness would naturally note, especially after relating the direction given that the multitude should sit down.",
+            "The people, a general word, including both men and women, is used here. They are directed to sit down, partly for the sake of order and ease in the distribution of the food, but also because the Lord is preparing to set a feast before them, and they sit down with Him as His guests.",
+            "The circumstance is one that an eye-witness would naturally note, especially after relating the direction given that the multitude should sit down.",
             "The 'men' are now singled out for special mention, probably because they, according to the custom of the East, sat down first. We may also suppose that the number of women and children would not be very large."
         ],
         "Archibald T. Robertson": [
             "Sit down (\u03b1\u03bd\u03b1\u03c0\u03b5\u03c3\u03b5\u03b9\u03bd). Literally, 'fall back,' lie down, recline.\" ",
-            "Much grass (\u03c7\u03bf\u03c1\u03c4\u03bf\u03c2 \u03c0\u03bf\u03bb\u03c5\u03c2). Old word for pasture, green grass (Mark 6:39) or hay (1 Corinthians 3:12).\" ",
+            "It was spring (John 6:4) and plenty of green grass on the hillside.",
             "The men (\u03bf \u03b1\u03bd\u03b4\u03c1\u03b5\u03c2). Word for men as distinct from women, expressly stated in Matthew 14:21."
         ],
         "John Gill": [
             "Christ, without reproving his disciples for their unbelief, ordered them directly to place the people upon the ground, and seat them in rows by hundreds and by fifties, in a rank and company, as persons about to take a meal.",
-            "Now there was much grass in the place; at the bottom of the mountain; and it was green, as one of the evangelists observes, it being the spring of the year, and was very commodious to sit down upon.",
-            "So the men sat down, in number about five thousand; besides women and children, Matthew 14:21, so that there was but one loaf for more than a thousand persons."
+            "He ordered them directly to place the people upon the ground, and seat them in rows by hundreds and by fifties, in a rank and company, as persons about to take a meal.",
+            "So that there was but one loaf for more than a thousand persons."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +63,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "As the multitude gathered, the disciples gathered the men in companies while the women and children were not numbered. They were directed to sit down on the grass and recline for the feast that the Lord was about to set before them. This act of sitting down signified their status as guests of the Lord. The disciples' obedient compliance with Jesus' instructions, even without knowing the purpose or benefit, is commendable. It exemplifies true faith, where we follow God's guidance even in times of uncertainty. Though the disciples did not fully comprehend, they trusted in God's power. The abundance of grass was ideal for the gathering, providing a comfortable place for the people to sit. There were about five thousand men present, not including the women and children, emphasizing the magnitude of the miracle that was about to take place.",
-            "wordCount": 142,
-            "quoteTokenProportion": 38.64,
-            "qualityScore": 1.264004099017881,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.37,
+            "bht": "The account of the feeding of the multitude in John 6:10 demonstrates the precise details observed by an eye-witness. The men were arranged separately from the women and children, ensuring that an accurate count could be taken. The people were directed to sit down and recline on the green grass, just as guests would at a banquet. Despite not knowing the outcome, the crowd obediently followed Jesus' command to sit, displaying their faith and trust in Him. Ultimately, more than a thousand people were fed with just one loaf of bread.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.4045485795428507,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.04,
             "commentatorTierSimilarities": [
-                17.08,
-                37.5,
-                45.42
+                21.95,
+                40.28,
+                37.77
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "As the multitude gathered, the men were arranged in companies, while the women and children were not numbered. They were instructed to sit down on the green grass, reclining as guests for the feast the Lord was about to provide. The disciples' obedient compliance, despite their lack of understanding, is commendable. It exemplifies true faith, trusting in God's power even in times of uncertainty. The abundance of grass was convenient for the gathering. About five thousand men, along with women and children, were present, making the forthcoming miracle all the more remarkable.",
-            "wordCount": 93,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.2226051742667996,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+            "bht": "The meticulous attention to detail in this account reveals the precise arrangement of the men and the serving of women and children among them. The people were instructed to sit down and recline on the green grass as they prepared for a meal. Despite their uncertainty, they obediently followed Jesus' command, demonstrating their faith. With just one loaf of bread, Jesus miraculously provided for the multitude of over a thousand people.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.42278411653561,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.65,
             "commentatorTierSimilarities": [
-                19.36,
-                36.03,
-                44.61
+                22.44,
+                38.64,
+                38.92
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The men were gathered in companies, while the women and children were not counted. They were directed to sit down on the green grass and recline like guests. The disciples' obedient compliance, despite not knowing the purpose, is commendable. It exemplifies true faith, following God's guidance even in uncertainty. The abundance of grass provided a comfortable gathering place. About five thousand men, not including women and children, were present, highlighting the magnitude of the forthcoming miracle.",
-            "wordCount": 77,
-            "quoteTokenProportion": 29.82,
-            "qualityScore": 1.1744862771681626,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.4,
+            "bht": "The notable accuracy of this eyewitness account is seen in the specific arrangement of the men and the mixed serving of women and children. The instruction to sit down and recline on the green grass reflects a customary practice. Despite their uncertainty, the people obediently complied, displaying remarkable faith. With only one loaf of bread, Jesus fed over a thousand individuals, demonstrating His divine provision and power.",
+            "wordCount": 67,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.3196374700364888,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.22,
             "commentatorTierSimilarities": [
-                24.01,
-                33.97,
-                42.02
+                28.42,
+                40.79,
+                30.79
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "As the multitude gathered, the men were arranged in companies or groups, while the women and children were not numbered. They were instructed to sit down on the grass and recline, signaling their status as guests for the feast the Lord would provide. The disciples' obedient compliance, even without knowledge of the outcome, is praiseworthy. It demonstrates true faith, trusting in God's guidance amidst uncertainty. The abundance of green grass provided a convenient seating area. Approximately five thousand men, not counting women and children, were present, magnifying the impending miracle.",
-            "wordCount": 91,
-            "quoteTokenProportion": 31.88,
-            "qualityScore": 1.191600632124015,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.96,
+            "bht": "The men and women were carefully arranged separately, with the women and children served promiscuously. The people were directed to sit down and recline on the green grass, following the customary practice. Their readiness to obey, even without knowing the outcome, is commendable. Jesus miraculously fed over a thousand people with just one loaf, illustrating His authority and ability to provide abundantly.",
+            "wordCount": 62,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.317175297202873,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
             "commentatorTierSimilarities": [
-                20.73,
-                36.07,
-                43.2
+                20.25,
+                39.04,
+                40.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The multitude was directed to sit down on the grass, with the men arranged in groups while the women and children were not counted. The disciples' obedient compliance, despite their lack of understanding, is commendable. It showcases true faith, following God's guidance even in uncertainty. The plentiful grass provided a comfortable seating area for the gathering. About five thousand men, excluding women and children, were present, underscoring the magnitude of the impending miracle.",
-            "wordCount": 74,
-            "quoteTokenProportion": 34.48,
-            "qualityScore": 1.1481047106932798,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.52,
+            "bht": "The observation of the eyewitness is evident in the arrangement of the men, the mixed serving of women and children, and the instruction to sit down and recline on the green grass. The people's obedience, even in uncertainty, demonstrates their faith. With only one loaf of bread, Jesus miraculously feeds over a thousand individuals. This account reveals the accuracy of the details and the power of Jesus to provide abundantly.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.2707320583301904,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.6,
             "commentatorTierSimilarities": [
-                21.96,
-                33.3,
-                44.74
+                29.26,
+                34.58,
+                36.16
             ],
             "generationAttempt": 5
         }

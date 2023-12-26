@@ -1,39 +1,38 @@
 {
-    "timestamp": "12-19-2023 23:48:42",
+    "timestamp": "12-25-2023 20:31:56",
     "verseRef": "Matthew 15:20",
     "bestBHT": {
-        "bht": "The things that defile a person extend beyond ceremonial impurity to encompass moral impurity as well. Striving for holiness is crucial, as actions that are inconsistent with holiness are considered common and profane. Such actions bring defilement to both the body and soul, resulting in guilt and exposing one to everlasting punishment. Conversely, eating with unwashed hands does not defile a person nor transgress any divine laws. Only through the blood of Christ can we be cleansed from the pollution and guilt of our actions, securing us from the punishment we rightfully deserve.",
-        "wordCount": 93,
-        "quoteTokenProportion": 42.65,
-        "qualityScore": 1.1197986269668252,
-        "qualityScoreNormalizedComparedToV2BHTs": 28.58,
+        "bht": "To eat with unwashed hands may seem insignificant, but as our Lord says, it is the things that defile a man. Ceremonial impurity is outweighed by moral impurity, yet we are slow to learn this. The term \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6, meaning to make common or profane, highlights the separation between the Jews and Gentiles. These things are filthy and bring defilement to the whole man. Neglecting to wash one's hands before a common meal does not contract filth to the soul or guilt to the conscience; only the blood of Christ can cleanse us from these evils.",
+        "wordCount": 96,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.3807236864226717,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.25,
         "commentatorTierSimilarities": [
-            18.45,
-            34.22,
-            47.33
+            26.0,
+            35.89,
+            38.11
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "These are the things which defile a man: but to eat with unwashen hands defileth not a man\u2014Thus does our Lord sum up this whole searching discourse.",
-            "THE WOMAN OF CANAAN AND HER DAUGHTER.",
-            "For the exposition, see on :-."
+            "These are the things which defile a man: but to eat with unwashed hands defileth not a man.\" ",
+            "Thus does our Lord sum up this whole searching discourse.",
+            "THE WOMAN OF CANAAN AND HER DAUGHTER."
         ],
         "John Calvin": [
-            "Instead of the verb pollute, the Greek term is \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6, make common.",
+            "And pollute the man.\" - Instead of the verb pollute, the Greek term is \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6, make common.",
             "Everything that was inconsistent with this holiness was called common, that is, profane.",
-            "[It] is a mode of speaking peculiar to the Hebrews."
+            "It is a Hebrew phrase; for, since God had set apart the Jews on the condition that they should separate themselves from all the pollutions of the Gentiles."
         ],
         "Philip Schaff": [
             "Ceremonial impurity is insignificant compared with moral impurity.",
-            "Yet Christians now are as slow to learn this as the disciples were.",
-            "These are the things which defile the man."
+            "Yet Christians now are as slow to learn this as the disciples were."
         ],
         "John Gill": [
-            "These are the things which defile a man... they bring a defilement on the whole man, both body and soul, fasten guilt upon him, and expose him to everlasting punishment.",
-            "To eat with unwashen hands defileth not a man... he contracts no filth to his soul hereby, nor any guilt to his conscience; nor does he break any law of God; nor is he liable to any penalty for such an omission.",
-            "The things before mentioned are in their nature evil... they render men loathsome and odious to the divine being; and expose them to shame and ruin; and it is only the blood of Christ can cleanse them from the pollution and guilt of them, and secure them from that punishment they deserve."
+            "These are filthy in themselves, and must pollute all in whom they are; they bring a defilement on the whole man, both body and soul, fasten guilt upon him, and expose him to everlasting punishment.",
+            "Should a man neglect to wash his hands before eating a common meal, this need give him no uneasiness; he contracts no filth to his soul hereby, nor any guilt to his conscience; nor does he break any law of God; nor is he liable to any penalty for such an omission.",
+            "The things before mentioned are in their nature evil: they are contrary to the law of God; they are abominable in his sight; they render men loathsome and odious to the divine being; and expose them to shame and ruin; and it is only the blood of Christ can cleanse them from the pollution and guilt of them, and secure them from that punishment they deserve."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "These are the things which defile a man, as our Lord summarizes in this discourse. Ceremonial impurity is insignificant compared with moral impurity, yet Christians are slow to learn this. Instead of polluting oneself, one should strive for holiness, for the things that are inconsistent with holiness are considered common and profane. These actions bring a defilement on the whole person, body, and soul, fastening guilt and exposing one to everlasting punishment. However, not eating with unwashed hands does not defile a person, as it does not contract filth to their soul or break any law of God. Only the blood of Christ can cleanse us from the pollution and guilt of our actions, securing us from the punishment we deserve.",
-            "wordCount": 121,
-            "quoteTokenProportion": 40.74,
-            "qualityScore": 1.2151615702729992,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.75,
+            "bht": "To eat with unwashed hands may appear insignificant, but as our Lord says, it is the things that defile a man. Ceremonial impurity pales in comparison to moral impurity, yet we are slow to learn this. The term used in Greek, \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6, means to make common, or profane. The Jews were separated from the Gentiles to avoid such pollution. These things are filthy in themselves and bring defilement to the whole man, body and soul. However, neglecting to wash one's hands before a common meal does not contract filth to the soul or guilt to the conscience; it does not break God's law or incur any penalty. Only the blood of Christ can cleanse us and secure us from the punishment we deserve for these evils.",
+            "wordCount": 128,
+            "quoteTokenProportion": 41.11,
+            "qualityScore": 1.2198932456555205,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.9,
             "commentatorTierSimilarities": [
-                17.59,
-                39.66,
-                42.75
+                22.66,
+                33.98,
+                43.37
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "These are the things which defile a man. Ceremonial impurity is insignificant compared with moral impurity. Instead of polluting oneself, strive for holiness, for the things that are inconsistent with holiness are considered common and profane. These actions bring defilement on body and soul, fastening guilt and exposing one to everlasting punishment. However, not eating with unwashed hands does not defile a person, as it does not contract filth to the soul or break any law of God. Only the blood of Christ can cleanse us from the pollution and guilt of our actions, securing us from the punishment we deserve.",
-            "wordCount": 101,
-            "quoteTokenProportion": 39.13,
-            "qualityScore": 1.2123377444860706,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.65,
+            "bht": "To eat with unwashed hands may seem insignificant, but as our Lord says, it is the things that defile a man. Ceremonial impurity is outweighed by moral impurity, yet we are slow to learn this. The term \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6, meaning to make common or profane, highlights the separation between the Jews and Gentiles. These things are filthy and bring defilement to the whole man. Neglecting to wash one's hands before a common meal does not contract filth to the soul or guilt to the conscience; only the blood of Christ can cleanse us from these evils.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.3807236864226717,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.25,
             "commentatorTierSimilarities": [
-                14.95,
-                43.49,
-                41.57
+                26.0,
+                35.89,
+                38.11
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The actions that defile a person go beyond ceremonial impurity and extend to moral impurity. Strive for holiness and avoid practices that are contrary to it, as they are considered common and profane. Such actions bring defilement to body and soul, guilt, and exposure to everlasting punishment. However, not eating with unwashed hands does not defile a person, nor does it break any divine laws. The blood of Christ is the only means to cleanse us from the pollution and guilt of our actions and secure us from deserving punishment.",
-            "wordCount": 90,
-            "quoteTokenProportion": 40.98,
-            "qualityScore": 1.0977335104920865,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.84,
+            "bht": "To eat with unwashed hands is deemed insignificant, for it is the things that defile a man, as our Lord asserts. The distinction between ceremonial and moral impurity is stark, yet our understanding is slow to progress. The term \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6 signifies making something common or profane, underscoring the separateness of the Jews from the Gentiles. These things are inherently filthy and manifest in defilement of both body and soul. Neglecting to wash hands before a common meal does not soil the soul or generate guilt; it is only the blood of Christ that can cleanse us from these iniquities.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.2389740119683736,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.54,
             "commentatorTierSimilarities": [
-                17.55,
-                34.04,
-                48.41
+                24.91,
+                33.94,
+                41.15
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The things that defile a person are not limited to ceremonial impurity but encompass moral impurity as well. Striving for holiness is important, as actions contrary to holiness are considered common and profane. These actions bring defilement to both body and soul, guilt, and the risk of everlasting punishment. However, the act of eating with unwashed hands does not defile a person nor break any divine laws. Only the blood of Christ can cleanse us from the pollution and guilt of our actions and protect us from the punishment we deserve.",
-            "wordCount": 91,
-            "quoteTokenProportion": 41.27,
-            "qualityScore": 1.0986599768024576,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.87,
+            "bht": "To eat with unwashed hands may seem insignificant, but according to our Lord, it is the things that defile a man. The difference between ceremonial and moral impurity is made clear, though we are slow to grasp it. The term \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6, meaning to make common or profane, emphasizes the separation between Jews and Gentiles. These things are inherently filthy, defiling the entire person, body and soul. However, failing to wash one's hands before a common meal does not bring guilt or soul filth; only through the blood of Christ can we be cleansed from such evils.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.3241085047199364,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.37,
             "commentatorTierSimilarities": [
-                15.54,
-                37.49,
-                46.97
+                27.35,
+                34.53,
+                38.12
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The things that defile a person extend beyond ceremonial impurity to encompass moral impurity as well. Striving for holiness is crucial, as actions that are inconsistent with holiness are considered common and profane. Such actions bring defilement to both the body and soul, resulting in guilt and exposing one to everlasting punishment. Conversely, eating with unwashed hands does not defile a person nor transgress any divine laws. Only through the blood of Christ can we be cleansed from the pollution and guilt of our actions, securing us from the punishment we rightfully deserve.",
-            "wordCount": 93,
-            "quoteTokenProportion": 42.65,
-            "qualityScore": 1.1197986269668252,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.58,
+            "bht": "To eat without washing hands is considered insignificant; what truly defiles a person are the impure things in their heart. This distinction between ceremonial and moral impurity is echoed in the separation of Jews from Gentiles, with the term \u03ba\u03bf\u03b9\u03bd\u03bf\u1fd6 highlighting the profane nature of certain practices. These impure things defile the entire person, body and soul, and only the blood of Christ can cleanse us from the guilt and punishment they deserve. Let us not underestimate the importance of inner purity over external rituals.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.2025958194429767,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.33,
             "commentatorTierSimilarities": [
-                18.45,
-                34.22,
-                47.33
+                20.19,
+                38.19,
+                41.62
             ],
             "generationAttempt": 5
         }

@@ -1,7 +1,7 @@
 # Luke 14:3 Commentary Help Text
 
 ## BHT:
-Jesus, perceiving the thoughts of those who questioned him, responded to their dilemma with a rhetorical inquiry. He knew that they were watching him closely, so he proposed the question to them in order to redirect the conversation. This unexpected question visibly caught them off guard and left them speechless. Jesus cleverly used this situation to demonstrate his careful consideration of the law and his willingness to provide a valid explanation for his actions. Their silence, however, revealed their ulterior motive of finding fault rather than upholding the law.
+Jesus, in response to the thoughts of the lawyers and Pharisees, presented a dilemma that left them silent and embarrassed. He knew that they were watching him and attempted to preemptively counter their accusations by proposing a question regarding the lawfulness of healing on the Sabbath. By doing so, Jesus revealed that he did not perform miracles on the Sabbath indiscriminately; he had a reason for his actions. It was clear that their intention was to find fault with him, but Jesus, indifferent to their opinions, focused on the compassion and need for healing in the situation at hand.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -9,28 +9,29 @@ Jesus, perceiving the thoughts of those who questioned him, responded to their d
 
 
 ### Albert Barnes:
-1. "To 'answer,' in the Scriptures, does not always imply, as among us, that anything had been said before. It means often merely to 'begin' or to take up a subject, or, as here, to remark on the case that was present."
-2. "He knew that they were watching him. If he healed the man at once, they would accuse him. He, therefore, proposed the question to them, and when it was asked, they could not say that it was not lawful."
+1. "To 'answer,' in the Scriptures, does not always imply, as among us, that anything had been said before."
+2. "It means often merely to 'begin' or to take up a subject, or, as here, to remark on the case that was present."
+3. "He knew that they were watching him. If he healed the man at once, they would accuse him. He, therefore, proposed the question to them, and when it was asked, they could not say that it was not lawful."
 
 ### John Calvin:
-1. "Is it lawful to cure on Sabbath?...Christ first puts the question to them, and he does so for the purpose of guarding against offense."
+1. "The law of the Sabbath goes no farther, than that men shall rest from their own works."
 2. "He intended to show by this example, that he did not inconsiderately perform miracles on Sabbath, because he was prepared to assign a reason for what he did."
-3. "They, on the other hand, make it evident by their silence, that their desire of finding fault is stronger than their zeal for the law."
+3. "Christ treats with utter indifference their opinion about his action, because it was evident that they intentionally sought out an occasion of offense."
 
 ### Philip Schaff:
-1. "This unexpected question evidently embarrassed them."
-2. "If they answered yes, the occasion of finding fault was taken away."
-3. "If no, they could be charged with want of compassion."
+1. "Answering, i.e., the thoughts of the Pharisees." 
+2. "This unexpected question evidently embarrassed them."
+3. "If they answered yes, the occasion of finding fault was taken away; if no, they could be charged with want of compassion."
 
 ### Archibald T. Robertson:
-1. "Jesus answered the thoughts of those mentioned in verse Luke 14:1."
+1. "Jesus answered the thoughts of those mentioned... Here 'lawyers and Pharisees' are treated as one class with one article."
 2. "The dilemma forestalled any question by them."
 3. "They became silent, more so than before."
 
 ### John Gill:
-1. "All the Oriental versions, for 'lawyers', read 'Scribes': these, with the Pharisees, were got together in a body, in their brother Pharisee's house, to watch the motions of Christ."
-2. "Knowing that these men were catching at every thing, to traduce him, [Jesus] was desirous of having their sentiments first."
-3. "[Jesus] knew full well, what was agreeable to the law of God, and what was not; and what also were the traditions of their elders, which they held, and which allowed of healing on the sabbath day, where life was in danger."
+1. "Who knew their designs upon him, and the thoughts of their hearts."
+2. "Christ had a compassionate regard to, and determined to cure."
+3. "Healing on the Sabbath day, where life was in danger."
 
 ### John Wesley:
 1. And Jesus answering, spake — Answering the thoughts which he saw rising in their hearts.
@@ -39,38 +40,36 @@ Jesus, perceiving the thoughts of those who questioned him, responded to their d
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:19:40
+- Timestamp: 12-25-2023 20:33:27
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 38.46%
-- BHT Quality Score: 1.3173719743048264
+- BHT Word Count: 99
+- BHT Commentary Usage: 42.42%
+- BHT Quality Score: 1.4433813049485074
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'actions', 'and', 'careful', 'caught', 'cleverly', 'closely', 'consideration', 'conversation', 'demonstrate', 'dilemma', 'explanation', 'fault', 'finding', 'for', 'guard', 'he', 'him', 'his', 'however', 'in', 'inquiry', 'jesus', 'knew', 'law', 'left', 'motive', 'of', 'off', 'order', 'perceiving', 'proposed', 'provide', 'question', 'questioned', 'rather', 'redirect', 'responded', 'revealed', 'rhetorical', 'silence', 'situation', 'so', 'speechless', 'than', 'that', 'the', 'their', 'them', 'they', 'this', 'those', 'thoughts', 'to', 'ulterior', 'unexpected', 'upholding', 'used', 'valid', 'visibly', 'watching', 'were', 'who', 'willingness', 'with']
-- ChatGPT injected words (significant words only) (40):
-	['actions', 'careful', 'caught', 'cleverly', 'closely', 'consideration', 'conversation', 'demonstrate', 'dilemma', 'explanation', 'fault', 'finding', 'guard', 'inquiry', 'jesus', 'knew', 'law', 'left', 'motive', 'order', 'perceiving', 'proposed', 'provide', 'question', 'questioned', 'redirect', 'responded', 'revealed', 'rhetorical', 'silence', 'situation', 'speechless', 'thoughts', 'ulterior', 'unexpected', 'upholding', 'valid', 'visibly', 'watching', 'willingness']
+- ChatGPT injected words (66):
+	['a', 'accusations', 'actions', 'and', 'at', 'attempted', 'but', 'by', 'clear', 'compassion', 'counter', 'did', 'dilemma', 'doing', 'embarrassed', 'fault', 'find', 'focused', 'for', 'had', 'hand', 'he', 'healing', 'him', 'his', 'in', 'indifferent', 'indiscriminately', 'intention', 'it', 'jesus', 'knew', 'lawfulness', 'lawyers', 'left', 'miracles', 'need', 'not', 'of', 'on', 'opinions', 'perform', 'pharisees', 'preemptively', 'presented', 'proposing', 'question', 'reason', 'regarding', 'response', 'revealed', 'sabbath', 'silent', 'situation', 'so', 'that', 'the', 'their', 'them', 'they', 'thoughts', 'to', 'was', 'watching', 'were', 'with']
+- ChatGPT injected words (significant words only) (38):
+	['accusations', 'actions', 'attempted', 'clear', 'compassion', 'counter', 'dilemma', 'embarrassed', 'fault', 'find', 'focused', 'hand', 'healing', 'indifferent', 'indiscriminately', 'intention', 'jesus', 'knew', 'lawfulness', 'lawyers', 'left', 'miracles', 'need', 'opinions', 'perform', 'pharisees', 'preemptively', 'presented', 'proposing', 'question', 'reason', 'response', 'revealed', 'sabbath', 'silent', 'situation', 'thoughts', 'watching']
 
 ### Logs
-- Attempt 1 BHT: Jesus, perceiving the thoughts of those who questioned him, responded to their dilemma with a rhetorical inquiry. He knew that they were watching him closely, so he proposed the question to them in order to redirect the conversation. This unexpected question visibly caught them off guard and left them speechless. Jesus cleverly used this situation to demonstrate his careful consideration of the law and his willingness to provide a valid explanation for his actions. Their silence, however, revealed their ulterior motive of finding fault rather than upholding the law.
-- 🔄 Luke 14:3 (attempt 1, 89 words, 38.46% quotes quality score: 1.3173719743048264, V2 normalized quality score: 35.15, commentator tiers 1-3: 14.77%, 41.88%, 43.34%) 
+- Attempt 1 BHT: Jesus, in response to the thoughts of the lawyers and Pharisees, presented a dilemma that left them silent and embarrassed. He knew that they were watching him and attempted to preemptively counter their accusations by proposing a question regarding the lawfulness of healing on the Sabbath. By doing so, Jesus revealed that he did not perform miracles on the Sabbath indiscriminately; he had a reason for his actions. It was clear that their intention was to find fault with him, but Jesus, indifferent to their opinions, focused on the compassion and need for healing in the situation at hand.
+- 🔄 Luke 14:3 (attempt 1, 99 words, 42.42% quotes quality score: 1.4433813049485074, V2 normalized quality score: 39.34, commentator tiers 1-3: 15.54%, 33.33%, 51.13%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Jesus, perceiving their thoughts, replied to their dilemma by posing a question of his own. He strategically knew that they were closely observing him and sought to preempt any accusations by bringing the matter to their attention. This unexpected inquiry left them visibly embarrassed and unable to answer. By doing so, Jesus aimed to demonstrate his careful adherence to the law and his readiness to justify his actions. However, their silence highlighted their true intentions of finding fault rather than displaying a genuine concern for the law.
-- 🔄 Luke 14:3 (attempt 2, 87 words, 35.94% quotes quality score: 1.2551511736770005, V2 normalized quality score: 33.08, commentator tiers 1-3: 13.35%, 38.52%, 48.13%) 
+- Attempt 2 BHT: Jesus strategically addressed the unspoken concerns of the lawyers and Pharisees, rendering them speechless. Knowing their intent to criticize him, he questioned the legality of healing on the Sabbath to expose their motives. Undeterred by their opinions, Jesus prioritized compassion, demonstrating that he did not recklessly perform miracles on the Sabbath but had valid reasons for his actions. He ignored their attempts to provoke him, instead focusing on the urgent need for healing in the present scenario.
+- 🔄 Luke 14:3 (attempt 2, 77 words, 32.14% quotes quality score: 1.2967261551238818, V2 normalized quality score: 34.46, commentator tiers 1-3: 13.89%, 31.79%, 54.32%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Jesus effectively responded to the silent thoughts and intentions of the lawyers and Pharisees by presenting them with a dilemma that left them embarrassed and speechless. Aware of their watchful eyes, Jesus posed a question about the lawfulness of healing on the Sabbath, preventing them from accusing him immediately. He demonstrated indifference towards their opinions, choosing to prioritize compassion and addressing the urgent need for healing rather than getting caught up in their attempts to find fault with him.
+- 🔄 Luke 14:3 (attempt 3, 79 words, 35.59% quotes quality score: 1.3513569396201919, V2 normalized quality score: 36.28, commentator tiers 1-3: 17.97%, 34.03%, 48.0%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Jesus, in answering the unspoken thoughts of the lawyers and Pharisees, presented them with a dilemma that left them silent and embarrassed. He knew they were watching him and by posing a question about the lawfulness of healing on the Sabbath, he took control of the situation. Jesus disregarded their attempts to provoke him and instead focused on the compassion and urgent need for healing in the case at hand. His actions revealed that he did not perform miracles on the Sabbath without reason.
+- 🔄 Luke 14:3 (attempt 4, 84 words, 38.98% quotes quality score: 1.3461298960041446, V2 normalized quality score: 36.1, commentator tiers 1-3: 16.44%, 32.19%, 51.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Recognizing the thoughts of those who challenged him, Jesus responded to their dilemma with a thought-provoking question. He was fully aware of their scrutiny and anticipated the accusations they might bring upon him. To counter this, he skillfully engaged them in dialogue, leaving them speechless and unsettled. Jesus sought to demonstrate his careful adherence to the law and his readiness to provide a valid explanation for his actions. Their astonished silence revealed their true motives of seeking fault rather than upholding the principles of compassion and justice.
-- 🔄 Luke 14:3 (attempt 3, 88 words, 33.85% quotes quality score: 1.247586948067918, V2 normalized quality score: 32.83, commentator tiers 1-3: 11.67%, 38.16%, 50.18%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Jesus, in addressing the thoughts of the lawyers and Pharisees, put them in a difficult position, leaving them speechless. Recognizing their intent to criticize him, Jesus skillfully posed a question about the lawfulness of healing on the Sabbath, preemptively removing their opportunity to accuse him. He prioritized compassion over their opinions, emphasizing the pressing need for healing and showcasing that his actions were not arbitrary. Despite their attempts to provoke him, Jesus remained focused on the purpose of his miracles.
+- 🔄 Luke 14:3 (attempt 5, 80 words, 33.33% quotes quality score: 1.2622554132563883, V2 normalized quality score: 33.31, commentator tiers 1-3: 13.33%, 31.77%, 54.9%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus, perceiving the thoughts of his challengers, countered their dilemma by posing a question of his own. He knew they were closely watching him, ready to accuse him of breaking the law. By initiating this unexpected dialogue, he effectively shifted the focus onto them and exposed their lack of compassion. Jesus aimed to demonstrate his meticulous observance of both God's law and the traditions of their elders. Their silence exposed their ulterior motive of finding fault rather than seeking understanding.
-- 🔄 Luke 14:3 (attempt 4, 81 words, 32.76% quotes quality score: 1.199921632279567, V2 normalized quality score: 31.24, commentator tiers 1-3: 11.7%, 35.62%, 52.68%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus, perceiving their thoughts, responded to their dilemma with a question of his own. He skillfully anticipated their accusations and sought to engage them in a dialogue, leaving them speechless and uneasy. His intention was to showcase his adherence to the law and his willingness to justify his actions. However, their silence exposed their true agenda of finding fault rather than prioritizing compassion and upholding the law.
-- 🔄 Luke 14:3 (attempt 5, 67 words, 34.04% quotes quality score: 1.22260428689018, V2 normalized quality score: 32.0, commentator tiers 1-3: 13.65%, 34.66%, 51.69%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 14:3 bht prompt v0.8 (89 words, 38.46% quotes)
-- quality score: 1.3173719743048264, V2 normalized quality score: 35.15, commentator tiers 1-3: 14.77%, 41.88%, 43.34%)
+- ✅ Luke 14:3 bht prompt v0.8 (99 words, 42.42% quotes)
+- quality score: 1.4433813049485074, V2 normalized quality score: 39.34, commentator tiers 1-3: 15.54%, 33.33%, 51.13%)

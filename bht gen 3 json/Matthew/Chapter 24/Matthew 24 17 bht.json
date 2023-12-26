@@ -1,51 +1,51 @@
 {
-    "timestamp": "12-19-2023 23:52:24",
+    "timestamp": "12-25-2023 20:31:58",
     "verseRef": "Matthew 24:17",
     "bestBHT": {
-        "bht": "When facing imminent calamity, there is no room for hesitation. In the city with its flat-roofed houses, the escape required urgency, utilizing the interconnected road of the roofs to flee from one house to another. However, the instruction was clear: do not pause to retrieve any personal belongings. This flight demanded extreme haste, leaving no time for selfish motives or convenience. The priority was to escape for one's life, forsaking any attachment to material possessions.",
-        "wordCount": 77,
-        "quoteTokenProportion": 34.43,
-        "qualityScore": 1.4755778114591926,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+        "bht": "In a time of impending calamity, the urgency to flee from one part of the city to another, using the road of the roofs, was crucial. Hesitation and the desire to secure belongings would risk lives and the opportunity to escape. This sudden desolation required extreme haste without being hindered by selfishness or convenience. The flight from the rooftop should be immediate, without even taking time to collect any items. The parallel is drawn to Lot's escape from Sodom, emphasizing the importance of swift action in times of crisis.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.4926346941899187,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.97,
         "commentatorTierSimilarities": [
-            31.33,
-            40.17,
-            28.5
+            34.66,
+            45.54,
+            19.8
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "A person might ran on the flat-roofed houses in Jerusalem from one part of the city to another.\" ",
+            "A person might ran on the flat-roofed houses in Jerusalem from one part of the city to another, and to the city gates.",
             "Perhaps however this is not meant, but that he should descend by the outer stairs instead of the inner, which would lose time."
         ],
         "Albert Barnes": [
-            "He who should be on the house-top when this calamity came upon the city 'should flee without delay; He should not even take time to secure any article of apparel from his house.\" ",
-            "So sudden would be the calamity, that by attempting to do this He would endanger his life.",
-            "The roofs of the houses in Eastern countries were made flat, so that they were favorable places for walking and retirement."
+            "He who should be on the house-top when this calamity came upon the city 'should flee without delay;'\" ",
+            "He should not even take time to secure any article of apparel from his house.",
+            "So sudden would be the calamity, that by attempting to do this He would endanger his life."
         ],
         "Marvin Vincent": [
-            "From roof to roof there might be a regular communication, called by the Rabbis 'the road of the roofs.'\" ",
-            "Thus a person could make his escape passing from roof to roof, till, at the last house, he would descend the stairs on the outside of the house, but within the exterior court.\" ",
-            "The urgency of the flight is enhanced by the fact that the stairs lead into this court. 'Though you must pass by the very door of your room, do not enter to take anything out. Escape for your life.'"
+            "From roof to roof there might be a regular communication, called by the Rabbis 'the road of the roofs.'",
+            "The urgency of the flight is enhanced by the fact that the stairs lead into this court.",
+            "Though you must pass by the very door of your room, do not enter to take anything out. Escape for your life."
         ],
         "Philip Schaff": [
-            "On the house-top. The flat roofs of eastern dwellings were a favorite place of resort.",
-            "What is distinctly forbidden is to go down to take the things out of his house.",
-            "Extreme haste is enjoined; and being hindered by motives of selfishness or convenience is prohibited."
+            "The flat roofs of eastern dwellings were a favorite place of resort.\" ",
+            "What is distinctly forbidden is to go down to take the things out of his house. Extreme haste is enjoined ; and being hindered by motives of selfishness or convenience is prohibited.",
+            "There is probably an allusion to the flight of Lot from Sodom."
         ],
         "Archibald T. Robertson": [
             "They could escape from roof to roof and so escape, 'the road of the roofs,' as the rabbis called it.",
             "There was need for haste."
         ],
         "John Gill": [
-            "Let him not come down to take anything out of his house.",
-            "They had two ways of going out of, and into their houses.",
-            "Let him not go into his house to take any of his goods, or money, or food along with him necessary for his sustenance in his flight."
+            "Let him not come down in the inner way, but by the stairs, or ladder, on the outside of the house.",
+            "They had two ways of going out of, and into their houses; the one they call d, \u05d3\u05e8\u05da \u05e4\u05ea\u05d7\u05d9\u05dd, 'the way of the doors'; the other, \u05d3\u05e8\u05da \u05d2\u05d2\u05d9\u05df, 'the way of the roof.'",
+            "Lest, whilst he is busy in taking care of these, he loses his life, or, at least, the opportunity of making his escape; so sudden is this desolation represented to be."
         ],
         "John Wesley": [
-            "Let not him that is on the house top come down to take any thing out of his house.",
-            "It may be remembered that their stairs used to be on the outside of their houses."
+            "Let not him that is on the house top come down to take any thing out of his house.\" ",
+            "Their stairs used to be on the outside of their houses."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -65,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In the midst of a calamity, urgency is of the utmost importance. The escape from the city required swift action, with no time to waste on personal possessions or securing goods. As the city was characterized by flat-roofed houses, individuals could navigate from roof to roof, using what was known as the road of the roofs according to the rabbis. However, the instruction was clear: do not come down to take anything out of the house. Even if passing by the very door of one's room, there was to be no entry or retrieval of belongings. Escape for one's life took precedence over all else. This rapid flight from danger mandated extreme haste, prohibiting any hindrance caused by motives of self-interest or convenience.",
-            "wordCount": 127,
-            "quoteTokenProportion": 39.56,
-            "qualityScore": 1.4996695333946861,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.21,
+            "bht": "In a time of impending calamity, the urgency to flee is of utmost importance. The people in Jerusalem were familiar with the road of the roofs, a means of escape from roof to roof. It was crucial not to be hindered by selfish desires or convenience when faced with imminent danger. They were instructed not to waste time securing any belongings, even if they were within reach. Extreme haste was enjoined, for the calamity would be swift and sudden. There is an allusion to Lot's flight from Sodom, where his wife's hesitation proved fatal. Thus, in times of crisis, focus solely on escape and do not let anything or anyone hinder your flight to safety.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.4500164546397978,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.56,
             "commentatorTierSimilarities": [
-                33.28,
-                35.06,
-                31.66
+                34.38,
+                44.17,
+                21.45
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When facing imminent calamity, there is no room for hesitation. In the city with its flat-roofed houses, the escape required urgency, utilizing the interconnected road of the roofs to flee from one house to another. However, the instruction was clear: do not pause to retrieve any personal belongings. This flight demanded extreme haste, leaving no time for selfish motives or convenience. The priority was to escape for one's life, forsaking any attachment to material possessions.",
-            "wordCount": 77,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.4755778114591926,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+            "bht": "In a time of impending calamity, the urgency to flee from one part of the city to another, using the road of the roofs, was crucial. Hesitation and the desire to secure belongings would risk lives and the opportunity to escape. This sudden desolation required extreme haste without being hindered by selfishness or convenience. The flight from the rooftop should be immediate, without even taking time to collect any items. The parallel is drawn to Lot's escape from Sodom, emphasizing the importance of swift action in times of crisis.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4926346941899187,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.97,
             "commentatorTierSimilarities": [
-                31.33,
-                40.17,
-                28.5
+                34.66,
+                45.54,
+                19.8
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In times of crisis, every second counts. With the interconnected road of the roofs in Jerusalem, it was possible to swiftly travel from one part of the city to another, avoiding the interior stairs and losing valuable time. Urgency was paramount; there was no time to spare for personal possessions. The command was clear: Escape for your life without entering the house or retrieving anything. The need for quick action and avoidance of selfishness is emphasized, leaving no room for hesitation or convenience.",
-            "wordCount": 83,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.3746687153140007,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.05,
+            "bht": "In the face of impending calamity, the people in Jerusalem were urged to flee urgently and without delay. They were familiar with the communication between roofs, known as the road of the roofs, which could be used as an escape route. Taking any time to secure belongings would endanger lives, as the calamity would be swift and sudden. This urgency is further emphasized by alluding to Lot's escape from Sodom, where hesitation led to dire consequences. In times of crisis, swift action and a singular focus on escaping are key.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.436082779443609,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.09,
             "commentatorTierSimilarities": [
-                34.86,
-                35.11,
-                30.03
+                38.36,
+                46.53,
+                15.1
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When faced with immediate danger, every moment matters. In Jerusalem, a person could traverse the flat-roofed houses, known as the road of the roofs, to quickly escape from one part of the city to another. The urgency of the situation demanded swift action, leaving no time for securing personal belongings or entering the house. The command was clear: escape without delay and prioritize life, disregarding any attachment to material possessions. Selfish motives and convenience must be set aside in order to ensure a successful escape.",
-            "wordCount": 86,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.4264303880322147,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.77,
+            "bht": "In times of impending disaster, haste and immediate action are paramount. The people of Jerusalem were instructed to quickly flee from one part of the city to another using the road of the roofs. They were warned against wasting time to secure any belongings, as the calamity would come suddenly. The urgency to escape is further underscored by the reference to Lot's flight from Sodom. In moments of crisis, there is no room for hesitation or delay; the priority is to ensure one's safety above all else.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.4248552070953329,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
             "commentatorTierSimilarities": [
-                34.07,
-                39.99,
-                25.94
+                36.05,
+                46.63,
+                17.32
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In times of crisis, speed is crucial. In Jerusalem, the flat-roofed houses provided a means of escape, with individuals able to move from roof to roof through the road of the roofs. The urgency of the situation required refraining from entering the house or taking any belongings. Swift action was essential for survival, prohibiting selfish motives or convenience. The command was clear: flee without delay and prioritize life over material possessions.",
-            "wordCount": 72,
-            "quoteTokenProportion": 29.82,
-            "qualityScore": 1.402376344515881,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+            "bht": "The urgency to flee from impending disaster was emphasized in Jerusalem, where the escape route consisted of the road of the roofs. People were specifically warned not to waste time securing their belongings, even if they were within reach. A swift response was crucial, as the calamity would strike suddenly and without warning. The reference to Lot's escape from Sodom serves as a reminder that in times of crisis, quick action and a singular focus on escape are of utmost importance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.3854393593304075,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.41,
             "commentatorTierSimilarities": [
-                33.18,
-                39.23,
-                27.59
+                38.01,
+                43.06,
+                18.93
             ],
             "generationAttempt": 5
         }

@@ -1,76 +1,76 @@
 # Luke 1:68 Commentary Help Text
 
 ## BHT:
-In this divine song, Zacharias exalts the Lord God of Israel who visited and redeemed His people. The word visited signifies God inspecting and examining them with the purpose of providing help. This redemption, rooted in a moral and spiritual foundation, extends far beyond mere political deliverance. God's act of choosing, redeeming, and delivering His people from sin, the curse of the law, and the clutches of their enemies deserves heartfelt praise and thanksgiving. Such redemption displays God's eternal love and His faithfulness to His chosen ones.
+Zacharias, with humility, focuses the noble song on God's glorious salvation rather than his own child. In the New Testament, God's visitation is an act of mercy, looking into the situation to offer help. Redemption, now spiritually and eternally freeing from sin, the law, and all enemies, is the result of this divine visitation. Through this act, God chooses His people, establishes a covenant of grace, and provides a Saviour. Let us joyfully praise God for His redemption, His perfections, and His marvelous works.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "There is not a word in this noble burst of divine song about his own child; like Elisabeth losing sight entirely of self, in the glory of a Greater than both."
-2. "Lord God of Israel—the ancient covenant God of the peculiar people."
-3. "visited and redeemed—that is, in order to redeem: returned after long absence, and broken His long silence."
+2. "In the Old Testament, God is said to 'visit' chiefly for judgment, in the New Testament for mercy."
+3. "But this Old Testament phraseology, used at first with a lower reference, is, when viewed in the light of a loftier and more comprehensive kingdom of God, equally adapted to express the most spiritual conceptions of the redemption that is in Christ Jesus."
 
 ### Albert Barnes:
 1. "God 'looked upon' the world - he saw it miserable - he came to relieve it, and brought salvation."
-2. "Men are sinners. They are bound over to just punishment by the law...but if anything can be done which will have the same 'good effect' as the punishment of the sinner...God may consistently release him."
-3. "The 'blood of Jesus'...constitutes such a ransom...It is what God is pleased to accept in the place of the eternal sufferings of the sinner."
+2. "Men are sinners... if anything can be done which will have the same 'good effect' as the punishment of the sinner, or which will be an 'equivalent' for it... God may consistently release him."
+3. "The 'blood of Jesus'... constitutes such a ransom. It is in their stead. It is for them. It is equivalent to their punishment."
 
 ### John Calvin:
-1. "God looked upon his people, that he might redeem them."
-2. "Even the holy fathers were made free from the yoke of sin and the tyranny of death, only through the grace of Christ."
+1. "The word ἐπεσκέψατο, he hath visited, contains an implied contrast: for the face of God had been turned away for a time from the unhappy children of Abraham."
+2. "This visitation of God, which Zacharias mentions, is declared to be the cause and origin of redemption."
 3. "The power and efficacy of that redemption, which was once exhibited in Christ, have been the same in all ages."
 
 ### Philip Schaff:
-1. "The past tenses throughout are used because the eye of prophecy regards these certain future events as having already taken place."
-2. "This sums up the benefits bestowed by the Messiah, regarding them from the priestly point of view."
-3. "It is very unlikely, that a priest would apply such a word to political deliverance alone."
+1. "For he hath visited, etc. The past tenses throughout are used because the eye of prophecy regards these certain future events as having already taken place."
+2. "Wrought redemption. This sums up the benefits bestowed by the Messiah, regarding them from the priestly point of view."
+3. "His people. Comp, the previous clause: 'the God of Israel.'"
 
 ### Archibald T. Robertson:
 1. "Hath visited (επεσκεψατο). An old Greek word with a Hebraic colouring to look into with a view to help."
-2. "The papyri have plenty of examples of the verb in the sense of inspecting, examining."
-3. "Redemption (λυτρωσιν) here originally referred to political redemption, but with a moral and spiritual basis."
+2. "Redemption (λυτρωσιν) here originally referred to political redemption, but with a moral and spiritual basis."
+3. "The papyri have plenty of examples of the verb in the sense of inspecting, examining."
 
 ### John Gill:
-1. "To bless God...is to praise and glorify him, on account of the perfections of his nature, and the works of his hands; and to give thanks unto him for all mercies, spiritual and temporal."
-2. "The act of 'visiting' them...may include God's look of love upon them from everlasting; his choice of them in Christ unto salvation; the appointment and provision of a Saviour for them; the covenant of grace made with them in Christ, the foundation and security of their salvation."
-3. "The 'redemption' of them...intends the spiritual and eternal redemption of them by the price of his blood, from the slavery of sin, the bondage of the law, and curse of it, and the captivity of Satan, and a deliverance out of the hands of every enemy."
+1. "To bless God, is not to invoke a blessing on him... but to praise and glorify him, on account of the perfections of his nature, and the works of his hands." 
+2. "The act of 'visiting' them... may include God's look of love upon them from everlasting; his choice of them in Christ unto salvation; the appointment and provision of a Saviour for them; the covenant of grace made with them in Christ."
+3. "The 'redemption'... intends the spiritual and eternal redemption of them by the price of his blood, from the slavery of sin, the bondage of the law, and curse of it, and the captivity of Satan, and a deliverance out of the hands of every enemy."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:13:41
+- Timestamp: 12-25-2023 20:33:07
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 24.19%
-- BHT Quality Score: 1.4831017943111475
+- BHT Word Count: 86
+- BHT Commentary Usage: 34.92%
+- BHT Quality Score: 1.726670320434736
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (62):
-	['a', 'act', 'and', 'beyond', 'choosing', 'chosen', 'clutches', 'curse', 'deliverance', 'delivering', 'deserves', 'displays', 'divine', 'enemies', 'eternal', 'exalts', 'examining', 'extends', 'faithfulness', 'far', 'foundation', 'from', 'god', 'heartfelt', 'help', 'his', 'in', 'inspecting', 'israel', 'law', 'lord', 'love', 'mere', 'moral', 'of', 'ones', 'people', 'political', 'praise', 'providing', 'purpose', 'redeemed', 'redeeming', 'redemption', 'rooted', 's', 'signifies', 'sin', 'song', 'spiritual', 'such', 'thanksgiving', 'the', 'their', 'them', 'this', 'to', 'visited', 'who', 'with', 'word', 'zacharias']
-- ChatGPT injected words (significant words only) (47):
-	['act', 'choosing', 'chosen', 'clutches', 'curse', 'deliverance', 'delivering', 'deserves', 'displays', 'divine', 'enemies', 'eternal', 'exalts', 'examining', 'extends', 'faithfulness', 'far', 'foundation', 'god', 'heartfelt', 'help', 'inspecting', 'israel', 'law', 'lord', 'love', 'mere', 'moral', 'ones', 'people', 'political', 'praise', 'providing', 'purpose', 'redeemed', 'redeeming', 'redemption', 'rooted', 's', 'signifies', 'sin', 'song', 'spiritual', 'thanksgiving', 'visited', 'word', 'zacharias']
+- ChatGPT injected words (63):
+	['a', 'act', 'all', 'an', 'and', 'child', 'chooses', 'covenant', 'divine', 'enemies', 'establishes', 'eternally', 'focuses', 'for', 'freeing', 'from', 'glorious', 'god', 'grace', 'help', 'his', 'humility', 'in', 'into', 'is', 'joyfully', 'law', 'let', 'looking', 'marvelous', 'mercy', 'new', 'noble', 'now', 'of', 'offer', 'on', 'own', 'people', 'perfections', 'praise', 'provides', 'rather', 'redemption', 'result', 's', 'salvation', 'saviour', 'sin', 'situation', 'song', 'spiritually', 'testament', 'than', 'the', 'this', 'through', 'to', 'us', 'visitation', 'with', 'works', 'zacharias']
+- ChatGPT injected words (significant words only) (41):
+	['act', 'child', 'chooses', 'covenant', 'divine', 'enemies', 'establishes', 'eternally', 'focuses', 'freeing', 'glorious', 'god', 'grace', 'help', 'humility', 'joyfully', 'law', 'let', 'looking', 'marvelous', 'mercy', 'new', 'noble', 'offer', 'people', 'perfections', 'praise', 'provides', 'redemption', 'result', 's', 'salvation', 'saviour', 'sin', 'situation', 'song', 'spiritually', 'testament', 'visitation', 'works', 'zacharias']
 
 ### Logs
-- Attempt 1 BHT: In this powerful verse, the focus is not on Zacharias's own child, but on the glory of God. The Lord God of Israel, the covenant God of His people, has visited and redeemed them. The word visited carries the meaning of inspecting and examining with a view to help. This redemption, originally referring to political redemption, has a moral and spiritual basis. God, looking upon His people, has provided them with a Saviour and delivered them from sin, the curse of the law, and the hands of their enemies. This act of redemption is a cause for blessing and praising God, who has shown His love and chosen His people from everlasting.
-- 🔄 Luke 1:68 (attempt 1, 113 words, 31.82% quotes quality score: 1.4547958247753348, V2 normalized quality score: 39.71, commentator tiers 1-3: 29.67%, 28.26%, 42.08%) 
+- Attempt 1 BHT: With utmost humility and selflessness, Zacharias, like Elisabeth, directs the focus of this beautiful hymn to God's glorious salvation rather than his own child. Unlike the concept of God's visitation mainly for judgment in the Old Testament, this verse portrays His visitation in the New Testament as an act of mercy. The Greek word used for visited carries the meaning of looking into a situation with the intention to provide help. Redemption, originally referring to political liberation, now encompasses moral and spiritual deliverance. This visitation by God is the very source of redemption, exhibiting its power and efficacy throughout history. Through this divine act, God not only looks upon His people with love, but also chooses them for salvation, establishes a covenant of grace, and provides a Saviour for them. The ultimate result of this redemption is a profound deliverance from sin, the law, and every enemy. Let us bless and praise God for His eternal redemption and for the perfections of His nature and works.
+- 🔄 Luke 1:68 (attempt 1, 168 words, 30.84% quotes quality score: 1.6726087745313651, V2 normalized quality score: 46.96, commentator tiers 1-3: 29.31%, 29.9%, 40.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this divine song, the focus is not on Zacharias's own child, but on the glory of God — the Lord God of Israel who visited and redeemed His people. The word visited implies inspecting and examining to provide help. This redemption, initially political, has a moral and spiritual foundation. God's act of looking upon, choosing, and delivering His people from sin and their enemies is a cause for praising and blessing Him. He has demonstrated His love and provided a Saviour for His chosen ones from everlasting.
-- 🔄 Luke 1:68 (attempt 2, 89 words, 33.87% quotes quality score: 1.3673640632222281, V2 normalized quality score: 36.81, commentator tiers 1-3: 33.39%, 26.45%, 40.16%) 
+- Attempt 2 BHT: With humility and selflessness, Zacharias directs the focus to God's glorious salvation. God's visitation in the New Testament is an act of mercy and help, looking into the situation to provide aid. Redemption, intended as spiritual and eternal liberation, delivers from sin, the law, and every enemy. Through this divine act, God chooses His people, establishes a covenant of grace, and provides a Saviour. Let us praise God for His redemption, His perfections, and the works of His hands.
+- 🔄 Luke 1:68 (attempt 2, 81 words, 30.51% quotes quality score: 1.6763882853382825, V2 normalized quality score: 47.08, commentator tiers 1-3: 25.42%, 33.15%, 41.43%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In this divine song, Zacharias shifts the focus away from his own child and instead praises the Lord God of Israel, the covenant God of His people. The word visited here conveys the idea of inspecting and examining with the intention of providing help. This redemption, originally pertaining to political deliverance, is rooted in a moral and spiritual basis. God's act of looking upon, choosing, and redeeming His people from sin, the curse of the law, and the clutches of their enemies is worthy of praise and thanksgiving.
-- 🔄 Luke 1:68 (attempt 3, 89 words, 25.0% quotes quality score: 1.4290942628075323, V2 normalized quality score: 38.86, commentator tiers 1-3: 32.19%, 28.11%, 39.7%) 
+- Attempt 3 BHT: With utmost humility, Zacharias turns the focus away from his own child and highlights God's glorious salvation. The concept of God's visitation in the New Testament reveals His mercy and intention to provide help. Redemption, referring to spiritual and eternal deliverance, liberates from sin, the law, and every enemy. Through this divine act, God chooses His people, establishes a covenant of grace, and provides a Saviour. Let us wholeheartedly praise God for His redemption, His perfections, and the wondrous works of His hands.
+- 🔄 Luke 1:68 (attempt 3, 85 words, 24.59% quotes quality score: 1.7200421401106014, V2 normalized quality score: 48.53, commentator tiers 1-3: 25.46%, 32.57%, 41.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this divine song, Zacharias exalts the Lord God of Israel who visited and redeemed His people. The word visited signifies God inspecting and examining them with the purpose of providing help. This redemption, rooted in a moral and spiritual foundation, extends far beyond mere political deliverance. God's act of choosing, redeeming, and delivering His people from sin, the curse of the law, and the clutches of their enemies deserves heartfelt praise and thanksgiving. Such redemption displays God's eternal love and His faithfulness to His chosen ones.
-- 🔄 Luke 1:68 (attempt 4, 89 words, 24.19% quotes quality score: 1.4831017943111475, V2 normalized quality score: 40.66, commentator tiers 1-3: 28.98%, 29.29%, 41.73%) 
+- Attempt 4 BHT: Zacharias, with humility, centers the noble song on God's glorious salvation rather than his own child. In the New Testament, God's visitation is an act of mercy and help, closely examining the situation to provide aid. The term redemption now encompasses spiritual liberation from sin, the law, and every enemy. Through this divine act, God chooses His people, establishes a covenant of grace, and provides a Saviour. Let us joyfully praise God for His redemption, His perfections, and the wondrous works of His hands.
+- 🔄 Luke 1:68 (attempt 4, 86 words, 32.31% quotes quality score: 1.719341105907589, V2 normalized quality score: 48.51, commentator tiers 1-3: 27.7%, 31.97%, 40.33%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In this powerful burst of divine song, Zacharias directs his focus away from his own child and instead praises the Lord God of Israel, the ancient covenant God of His people. The word visited conveys the idea of inspecting and examining, with the purpose of providing help. This redemption, initially referring to political deliverance, has a moral and spiritual foundation. God's act of looking upon, choosing, and redeeming His people from sin, the curse of the law, and their enemies is a cause for praise and thanksgiving.
-- 🔄 Luke 1:68 (attempt 5, 88 words, 25.81% quotes quality score: 1.4070001929630895, V2 normalized quality score: 38.13, commentator tiers 1-3: 33.48%, 27.87%, 38.65%) 
+- Attempt 5 BHT: Zacharias, with humility, focuses the noble song on God's glorious salvation rather than his own child. In the New Testament, God's visitation is an act of mercy, looking into the situation to offer help. Redemption, now spiritually and eternally freeing from sin, the law, and all enemies, is the result of this divine visitation. Through this act, God chooses His people, establishes a covenant of grace, and provides a Saviour. Let us joyfully praise God for His redemption, His perfections, and His marvelous works.
+- 🔄 Luke 1:68 (attempt 5, 86 words, 34.92% quotes quality score: 1.726670320434736, V2 normalized quality score: 48.75, commentator tiers 1-3: 27.36%, 32.89%, 39.75%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 1:68 bht prompt v0.8 (89 words, 24.19% quotes)
-- quality score: 1.4831017943111475, V2 normalized quality score: 40.66, commentator tiers 1-3: 28.98%, 29.29%, 41.73%)
+- ✅ Luke 1:68 bht prompt v0.8 (86 words, 34.92% quotes)
+- quality score: 1.726670320434736, V2 normalized quality score: 48.75, commentator tiers 1-3: 27.36%, 32.89%, 39.75%)

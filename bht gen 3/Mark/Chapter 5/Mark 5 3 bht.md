@@ -1,72 +1,73 @@
 # Mark 5:3 Commentary Help Text
 
 ## BHT:
-This description paints a vivid picture of a man living in the tombs, seeking refuge in unclean places haunted by dead men's bones. He had become so strong that no chains or handcuffs could restrain him. The horrifying portrayal of his condition underscores the distress and alarm that arise from being under the control of Satan. This man's extraordinary strength, surpassing his natural capacity, suggests the possibility of the devil's influence. It serves as a poignant reminder of the devastating consequences of being under the tyranny of evil forces.
+The description of the demon-possessed man is intensely graphic, illustrating his miserable state and heightening the glory of his subsequent cure. Living among tombs, without clothes or a settled home, he sought shelter in these unclean places. The tombs, being remote and solitary, attracted those who sought to flee from human interaction. Not even chains could restrain him, as he possessed supernatural strength that allowed him to snap them with ease. This vivid portrayal highlights the distressing condition of the demon-possessed man and emphasizes the power of the demonic influence.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "He ware no clothes, neither abode in any house."
-2. "These tombs were hewn out of the rocky caves of the locality."
-3. "Served for shelters and lurking places."
+1. "He ware no clothes, neither abode in any house." - Luke 8:27
+2. "These tombs were hewn out of the rocky caves of the locality, and served for shelters and lurking places." 
+3. "served for shelters and lurking places."
 
 ### Marvin Vincent:
-1. "The picture of the miserable man is fearful; and in drawing it, each evangelist has some touches which are peculiarly his own; but St. Mark's is the most eminently graphic of all..." 
-2. "The kata, down, gives the sense of a settled habitation. Compare our phrase settled down. So Tynd., his abiding." 
-3. "In unclean places, unclean because of the dead men's bones which were there... they would attract those who sought to flee from all fellowship of their kind."
+1. "The picture of the miserable man is fearful; and in drawing it, each evangelist has some touches which are peculiarly his own; but St. Mark's is the most eminently graphic of all, adding, as it does, many strokes Which wonderfully heighten the terribleness of the man's condition, and also magnify the glory of his cure."
+2. "Dwelling [κατοικησιν] . The kata, down, gives the sense of a settled habitation. Compare our phrase settled down. So Tynd., his abiding."
+3. "The tombs [τοις μνημασιν] . 'In unclean places, unclean because of the dead men's bones which were there. To those who did not on this account shun them, these tombs of the Jews would afford ample shelter, being either natural caves or recesses hewn by art out of the rock, often so large as to be supported with columns, and with cells upon their sides for the reception of the dead. Being, too, without the cities, and oftentimes in remote and solitary places, they would attract those who sought to flee from all fellowship of their kind.'"
 
 ### John Calvin:
-1. "We often perceive in madmen much greater strength than belongs to their natural capacity; and we are not at liberty to deny that, in such cases, the devil does his part when God permits him."
-2. "It was indeed a sad and shocking exhibition, but may serve to remind us how wretched and alarming it is to be placed under the tyranny of Satan."
-3. "Bodily agony, however violent or cruel, is not more to be dreaded than distress of mind."
+1. "We often perceive in madmen much greater strength than belongs to their natural capacity; and we are not at liberty to deny that, in such cases, the devil does his part when God permits him." (Commentary)
+2. "It may serve to remind us how wretched and alarming it is to be placed under the tyranny of Satan." (Commentary)
+3. "Bodily agony, however violent or cruel, is not more to be dreaded than distress of mind." (Commentary)
 
 ### Archibald T. Robertson:
 1. "No man could any more bind him, no, not with a chain." 
-2. "This demoniac snapped a handcuff as if a string."
-3. "Instrumental case αλυσε, a handcuff (α privative and λυω, to loosen)."
+2. "Instrumental case αλυσε, a handcuff (α privative and λυω, to loosen)." 
+3. "But this demoniac snapped a handcuff as if a string."
 
 ### John Gill:
-1. "the sign of a madman, that he goeth out in the night, and lodges among the tombs, and rends his garments, and loses what is given to him."
-2. "this could not be by his own natural strength."
-3. "not only cords were insufficient to hold, but even chains of iron; so strong was he through the possession."
+1. "Which is one of the characters of a madman among the Jews; who say it is the sign of a madman, that he goeth out in the night, and lodges among the tombs."
+2. "The same they say, in the same place, of an hypochondriac, and melancholy man; and of Kordiacus, which they give out is a demon that possesses, and has power over some sort of persons."
+3. "Not only cords were insufficient to hold, but even chains of iron; so strong was he through the possession; for this could not be by his own natural strength."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:22:17
+- Timestamp: 12-25-2023 20:32:32
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 92
-- BHT Commentary Usage: 32.35%
-- BHT Quality Score: 1.166778909434623
+- BHT Commentary Usage: 37.14%
+- BHT Quality Score: 1.2437247452245004
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'alarm', 'and', 'arise', 'as', 'become', 'being', 'bones', 'by', 'capacity', 'chains', 'condition', 'consequences', 'control', 'could', 'dead', 'description', 'devastating', 'devil', 'distress', 'evil', 'extraordinary', 'forces', 'from', 'had', 'handcuffs', 'haunted', 'he', 'him', 'his', 'horrifying', 'in', 'influence', 'it', 'living', 'man', 'men', 'natural', 'no', 'of', 'or', 'paints', 'picture', 'places', 'poignant', 'portrayal', 'possibility', 'refuge', 'reminder', 'restrain', 's', 'satan', 'seeking', 'serves', 'so', 'strength', 'strong', 'suggests', 'surpassing', 'that', 'the', 'this', 'tombs', 'tyranny', 'unclean', 'under', 'underscores', 'vivid']
-- ChatGPT injected words (significant words only) (46):
-	['alarm', 'arise', 'bones', 'capacity', 'chains', 'condition', 'consequences', 'control', 'dead', 'description', 'devastating', 'devil', 'distress', 'evil', 'extraordinary', 'forces', 'handcuffs', 'haunted', 'horrifying', 'influence', 'living', 'man', 'men', 'natural', 'paints', 'picture', 'places', 'poignant', 'portrayal', 'possibility', 'refuge', 'reminder', 'restrain', 's', 'satan', 'seeking', 'serves', 'strength', 'strong', 'suggests', 'surpassing', 'tombs', 'tyranny', 'unclean', 'underscores', 'vivid']
+- ChatGPT injected words (70):
+	['a', 'allowed', 'among', 'and', 'as', 'attracted', 'being', 'chains', 'clothes', 'condition', 'could', 'cure', 'demon', 'demonic', 'description', 'distressing', 'ease', 'emphasizes', 'even', 'flee', 'from', 'glory', 'graphic', 'he', 'heightening', 'highlights', 'him', 'his', 'home', 'human', 'illustrating', 'in', 'influence', 'intensely', 'interaction', 'is', 'living', 'man', 'miserable', 'not', 'of', 'or', 'places', 'portrayal', 'possessed', 'power', 'remote', 'restrain', 'settled', 'shelter', 'snap', 'solitary', 'sought', 'state', 'strength', 'subsequent', 'supernatural', 'that', 'the', 'them', 'these', 'this', 'those', 'to', 'tombs', 'unclean', 'vivid', 'who', 'with', 'without']
+- ChatGPT injected words (significant words only) (44):
+	['allowed', 'attracted', 'chains', 'clothes', 'condition', 'cure', 'demon', 'demonic', 'description', 'distressing', 'ease', 'emphasizes', 'flee', 'glory', 'graphic', 'heightening', 'highlights', 'home', 'human', 'illustrating', 'influence', 'intensely', 'interaction', 'living', 'man', 'miserable', 'places', 'portrayal', 'possessed', 'power', 'remote', 'restrain', 'settled', 'shelter', 'snap', 'solitary', 'sought', 'state', 'strength', 'subsequent', 'supernatural', 'tombs', 'unclean', 'vivid']
 
 ### Logs
-- Attempt 1 BHT: This verse describes a man who lived among the tombs, finding shelter in the unclean places where dead men's bones laid. He wore no clothes and had become so strong that no one could bind him, not even with handcuffs or chains. The vivid description of this miserable and tormented man highlights the terrifying reality of being under the tyranny of Satan. It serves as a reminder of the wretchedness and alarm that comes from being under his control. The image of a madman dwelling in the darkness, tearing his garments, and losing all sense of human connection is truly distressing. The commentator suggests that this extraordinary display of strength cannot be attributed solely to the man's natural capacity, but may involve the influence of the devil when permitted by God.
-- 🔄 Mark 5:3 (attempt 1, 133 words, 37.76% quotes quality score: 1.2769325912309235, V2 normalized quality score: 33.8, commentator tiers 1-3: 35.99%, 0.0%, 64.01%) 
+- Attempt 1 BHT: In Mark 5:3, the man possessed by demons is described as living in tombs, without clothes or a settled home. These tombs served as shelters and hiding places, which intensified the terribleness of his condition. Not even chains could hold him, as he had supernatural strength through the demonic possession. This account serves as a reminder of the wretchedness and alarming nature of being under the tyranny of Satan. It also highlights the physical and mental distress experienced by those under demonic influence. Ultimately, this passage portrays the hopeless state of the demon-possessed man and sets the stage for the miraculous deliverance to come.
+- 🔄 Mark 5:3 (attempt 1, 104 words, 36.84% quotes quality score: 1.2391057564972745, V2 normalized quality score: 32.54, commentator tiers 1-3: 36.03%, 0.0%, 63.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: This description paints a vivid picture of a man living in the tombs, seeking refuge in unclean places haunted by dead men's bones. He had become so strong that no chains or handcuffs could restrain him. The horrifying portrayal of his condition underscores the distress and alarm that arise from being under the control of Satan. This man's extraordinary strength, surpassing his natural capacity, suggests the possibility of the devil's influence. It serves as a poignant reminder of the devastating consequences of being under the tyranny of evil forces.
-- 🔄 Mark 5:3 (attempt 2, 92 words, 32.35% quotes quality score: 1.166778909434623, V2 normalized quality score: 30.14, commentator tiers 1-3: 33.21%, 0.0%, 66.79%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Living among the tombs and seeking shelter in unclean places, this man was stripped of his garments and possessed superhuman strength that even handcuffs and chains could not restrain. The graphic depiction of his wretchedness unveils the terrifying consequences of succumbing to the control of Satan. The astonishing display of power, beyond his natural capacity, suggests the involvement of demonic influence. It serves as a somber reminder of the profound misery and alarm that accompanies the dominion of evil.
-- 🔄 Mark 5:3 (attempt 3, 79 words, 28.81% quotes quality score: 1.1224229619989976, V2 normalized quality score: 28.66, commentator tiers 1-3: 29.96%, 0.0%, 70.04%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: This tormented man resided in the tombs, finding shelter in the unclean caves where dead men's bones were scattered. Stripped of clothing and possessing an inexplicable strength, no chain or handcuff could confine him. The vivid imagery used by St. Mark captures the raw and distressing reality of this individual's condition. It serves as a powerful reminder of the harrowing consequences of being under the dominion of Satan, highlighting the wretchedness and alarming nature of such existence.
-- 🔄 Mark 5:3 (attempt 4, 79 words, 31.75% quotes quality score: 1.2620393712440046, V2 normalized quality score: 33.31, commentator tiers 1-3: 42.48%, 0.0%, 57.52%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: This scene depicts a man who sought refuge among the tombs and rocky caves, forsaking clothing and any semblance of a proper dwelling. His pitiful state, described by St. Mark, conveys the sheer horror of his existence. The astonishing strength he possessed, demonstrated by effortlessly breaking handcuffs and defying chains, adds further weight to his woeful condition. Such a vivid and graphic portrayal serves as a distressing reminder of how calamitous and alarming it is to be ensnared by the powers of darkness.
-- 🔄 Mark 5:3 (attempt 5, 83 words, 29.23% quotes quality score: 1.2163621693899618, V2 normalized quality score: 31.79, commentator tiers 1-3: 39.27%, 0.0%, 60.73%) 
+	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 2 BHT: The description of the demon-possessed man's miserable condition is graphically depicted in the vivid account of Mark 5:3. Living in tombs, without clothing or a settled home, he sought shelter in these unclean places, where the dead were laid to rest. His supernatural strength was so great that not even chains could bind him, highlighting the power of the demonic possession. This portrayal reminds us of the wretchedness and alarming nature of being under the tyranny of Satan, as well as the physical and mental distress experienced by those affected.
+- 🔄 Mark 5:3 (attempt 2, 91 words, 39.19% quotes quality score: 1.2309880459843072, V2 normalized quality score: 32.27, commentator tiers 1-3: 34.53%, 0.0%, 65.47%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 5:3 bht prompt v0.8 (92 words, 32.35% quotes)
-- quality score: 1.166778909434623, V2 normalized quality score: 30.14, commentator tiers 1-3: 33.21%, 0.0%, 66.79%)
+- Attempt 3 BHT: The description of the demon-possessed man is intensely graphic, illustrating his miserable state and heightening the glory of his subsequent cure. Living among tombs, without clothes or a settled home, he sought shelter in these unclean places. The tombs, being remote and solitary, attracted those who sought to flee from human interaction. Not even chains could restrain him, as he possessed supernatural strength that allowed him to snap them with ease. This vivid portrayal highlights the distressing condition of the demon-possessed man and emphasizes the power of the demonic influence.
+- 🔄 Mark 5:3 (attempt 3, 92 words, 37.14% quotes quality score: 1.2437247452245004, V2 normalized quality score: 32.7, commentator tiers 1-3: 43.17%, 0.0%, 56.83%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The demon-possessed man's wretchedness is vividly depicted in Mark 5:3. He dwelled among tombs, lacking clothes and a settled home. Seeking shelter in these unclean places, he experienced distressing conditions. Even chains were no match for his supernatural strength, as he effortlessly snapped them. This portrayal serves as a powerful reminder of the alarming nature and tyranny of Satan, and the physical and mental anguish endured by those under demonic influence. The account sets the stage for the miraculous deliverance that awaits the tormented man.
+- 🔄 Mark 5:3 (attempt 4, 86 words, 30.43% quotes quality score: 1.146873735782434, V2 normalized quality score: 29.48, commentator tiers 1-3: 42.26%, 0.0%, 57.74%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The graphic depiction of the demon-possessed man's living conditions in the tombs, without clothes or a settled home, amplifies the horror of his situation. Seeking refuge in these unclean places, he possessed supernatural strength that could not be restrained even by chains. This serves to emphasize the desperate state of those under the tyranny of Satan. The intense physical and mental distress experienced by the man highlights the wretchedness of being under demonic influence.
+- 🔄 Mark 5:3 (attempt 5, 76 words, 35.59% quotes quality score: 1.2259650563219917, V2 normalized quality score: 32.11, commentator tiers 1-3: 32.21%, 0.0%, 67.79%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 5:3 bht prompt v0.8 (92 words, 37.14% quotes)
+- quality score: 1.2437247452245004, V2 normalized quality score: 32.7, commentator tiers 1-3: 43.17%, 0.0%, 56.83%)

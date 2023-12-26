@@ -1,26 +1,26 @@
 {
-    "timestamp": "12-19-2023 16:18:22",
+    "timestamp": "12-25-2023 20:33:16",
     "verseRef": "Luke 11:47",
     "bestBHT": {
-        "bht": "The religious leaders in this context deny any involvement in the killing of the prophets, claiming innocence if they had lived during that time. Ironically, they fail to see that their actions and character closely resemble those of their forefathers. By building tombs for the prophets, they attempt to show reverence, but their hypocrisy is revealed as they continue to persecute God's messengers. Their true nature ultimately exposes their insincerity and lack of remorse.",
+        "bht": "These individuals claim that if they had lived during the time of the prophets, they would not have taken part in the killing of them, yet they continue in the same spirit as their fathers by building and beautifying their tombs. They are as guilty as their ancestors, pretending to mourn the prophets they themselves reject. Their actions reveal their hypocrisy, as they both put the prophets to death and built extravagant monuments for them.",
         "wordCount": 75,
-        "quoteTokenProportion": 36.84,
-        "qualityScore": 1.3164421780187987,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.11,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 1.6056861203356725,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.73,
         "commentatorTierSimilarities": [
-            34.95,
+            34.8,
             0.0,
-            65.05
+            65.2
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
             "47.] See on Matthew, vv. 29\u201332."
         ],
         "Jamieson-Fausset-Brown": [
+            "Out of pretended respect and honor, they repaired and beautified the sepulchres of the prophets.",
             "If we had been in the days of our fathers, we should not have been partakers with them in the blood of the prophets.",
-            "They were witnesses to themselves that they were the children of them that killed the prophets.",
             "Convicting themselves daily of as exact a resemblance in spirit and character to the very classes over whose deeds they pretended to mourn, as child to parent."
         ],
         "Marvin Vincent": [
@@ -28,9 +28,9 @@
             "Tombs of the prophets. See on Matthew 23:29."
         ],
         "John Gill": [
-            "Woe unto you... for ye build the sepulchres of the prophets.\" ",
-            "...and your fathers killed them; the prophets.",
-            "...both had the same malignant spirit against the faithful servants and messengers of God; and which showed their great hypocrisy."
+            "Woe unto you,.... for ye build the sepulchres of the prophets; and your fathers killed them.\" ",
+            "The one put them to death, and the other erected stately monuments over them, or adorned them.",
+            "Both had the same malignant spirit against the faithful servants and messengers of God; and which showed their great hypocrisy."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -50,67 +50,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 11:47, the religious leaders claim that if they had lived in the time of their fathers, they would not have been guilty of killing the prophets. However, they fail to recognize that they are actually following in their forefathers' footsteps by rejecting and persecuting God's messengers. They are blind to the fact that they, too, are complicit in the bloodshed of the prophets. Their actions demonstrate a striking resemblance to the very people they claim to mourn, exposing their hypocrisy. By building tombs for the prophets, they attempt to appear righteous, but their true colors are revealed as they continue to persecute those who bring God's message.",
-            "wordCount": 110,
-            "quoteTokenProportion": 35.71,
-            "qualityScore": 1.5922292936434501,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.28,
+            "bht": "These individuals claim that if they had lived during the time of the prophets, they would not have taken part in the killing of them, yet they continue in the same spirit as their fathers by building and beautifying their tombs. They are as guilty as their ancestors, pretending to mourn the prophets they themselves reject. Their actions reveal their hypocrisy, as they both put the prophets to death and built extravagant monuments for them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 1.6056861203356725,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.73,
             "commentatorTierSimilarities": [
-                38.26,
+                34.8,
                 0.0,
-                61.74
+                65.2
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The religious leaders in this passage claim that they would not have been involved in the killing of the prophets if they had lived in their ancestors' time. However, their actions contradict their words, as they convict themselves by demonstrating a close resemblance in spirit to those who killed the prophets. Their hypocrisy is evident as they construct tombs for the prophets while continuing to persecute and reject God's messengers. Such behavior reveals their true character and exposes their insincerity in honoring the prophets.",
-            "wordCount": 85,
-            "quoteTokenProportion": 41.94,
-            "qualityScore": 1.6843208334488704,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.35,
+            "bht": "The religious leaders of the time claimed to honor and respect the prophets by beautifying their tombs, yet they conveniently ignored their forefathers' role in killing these prophets. In doing so, they condemned themselves by displaying the same spirit and character as the ones they claimed to mourn. Their actions were steeped in hypocrisy, as they both put the prophets to death and adorned their graves. This serves as a stern warning against empty gestures and false piety.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.44710968528585,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.46,
             "commentatorTierSimilarities": [
-                37.5,
+                34.38,
                 0.0,
-                62.5
+                65.62
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The religious leaders in this verse claim that they would not have participated in the bloodshed of the prophets if they had lived in their time. However, they fail to acknowledge their own complicity in persecuting God's messengers. Their words hold no weight as they convict themselves by exhibiting the same spirit and character as those who killed the prophets. While they build tombs for the prophets and feign mourning, their actions reveal their true nature and expose their hypocrisy.",
-            "wordCount": 81,
-            "quoteTokenProportion": 42.37,
-            "qualityScore": 1.6155420809135888,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "bht": "The religious leaders of the time were in the practice of building and beautifying the tombs of the prophets as a pretense of respect and honor. They claimed that if they had lived in the days of their forefathers, they would not have been accomplices in the bloodshed of the prophets. However, they were convicting themselves by exhibiting a striking similarity in spirit and character to the very people they pretended to mourn. Their actions were marked by hypocrisy, as they were both responsible for putting the prophets to death and adorning their sepulchers. This serves as a stark reminder of the dangers of performative gestures and insincere piety.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3897864005547254,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.55,
             "commentatorTierSimilarities": [
-                36.39,
+                36.04,
                 0.0,
-                63.61
+                63.96
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The religious leaders in this passage deny their involvement in the killing of the prophets, claiming innocence if they had lived during that time. However, their actions betray their words as they bear a striking resemblance, both in spirit and character, to their forefathers. They are blind to their own hypocrisy as they construct tombs for the prophets while continuing to persecute and reject God's messengers. Their pretense of honoring the prophets unravels when their true nature is exposed, exposing their insincerity.",
-            "wordCount": 83,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 1.5044275900665784,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "bht": "The religious leaders of the time built and beautified the tombs of the prophets to feign respect and honor. They claimed innocence, saying they would not have partaken in the prophets' bloodshed like their forefathers. However, their actions revealed their hypocrisy, as they resembled the very people they claimed to mourn. They put the prophets to death and adorned their graves. This serves as a powerful condemnation of empty gestures and insincere piety.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.4092698649098248,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
             "commentatorTierSimilarities": [
-                36.83,
+                34.64,
                 0.0,
-                63.17
+                65.36
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The religious leaders in this context deny any involvement in the killing of the prophets, claiming innocence if they had lived during that time. Ironically, they fail to see that their actions and character closely resemble those of their forefathers. By building tombs for the prophets, they attempt to show reverence, but their hypocrisy is revealed as they continue to persecute God's messengers. Their true nature ultimately exposes their insincerity and lack of remorse.",
-            "wordCount": 75,
-            "quoteTokenProportion": 36.84,
-            "qualityScore": 1.3164421780187987,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.11,
+            "bht": "The religious leaders of that time constructed and decorated the sepulchers of the prophets under the guise of respect and honor, while conveniently ignoring their role in their forefathers' killings. In doing so, they demonstrated a striking similarity in spirit and character to those they pretended to grieve, condemning themselves through their own actions. Their hypocrisy was evident in both putting the prophets to death and adorning their tombs. This serves as a stern warning against empty gestures and false piety.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3906239946539314,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.58,
             "commentatorTierSimilarities": [
-                34.95,
+                35.0,
                 0.0,
-                65.05
+                65.0
             ],
             "generationAttempt": 5
         }

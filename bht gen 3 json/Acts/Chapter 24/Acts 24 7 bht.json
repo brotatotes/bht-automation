@@ -1,44 +1,44 @@
 {
-    "timestamp": "12-19-2023 16:35:51",
+    "timestamp": "12-25-2023 20:34:27",
     "verseRef": "Acts 24:7",
     "bestBHT": {
-        "bht": "Tertullus falsely accuses Paul of being a threat to the public and claims the Sanhedrin intended to judge him according to their law. These words appear to be a later addition, made to prejudice Felix against Lysias and contradict the record. The Jews, disregarding justice, would have killed Paul if Lysias had not intervened. Lysias, fulfilling his duty, rescued Paul with force and haste. The Sanhedrin's bitterness towards Lysias is evident in their attempts to portray him as the oppressor, although historical facts disprove this portrayal.",
-        "wordCount": 87,
-        "quoteTokenProportion": 37.88,
-        "qualityScore": 1.4220033016135365,
-        "qualityScoreNormalizedComparedToV2BHTs": 38.62,
+        "bht": "The false accusation against the public officer was a calculated attempt to harm his reputation. However, instead of addressing the issue, the people turned on each other, putting the prisoner in grave danger. Thankfully, the officer fulfilled his duty and rescued him from their grasp. The Sanhedrim meeting was intended solely to judge the prisoner according to their own laws, but these additional words were likely added to prejudice Felix against Lysias. Yet, the account shows that Paul was released without violence once the Roman soldiers arrived, contradicting Tertullus' misrepresentation of the facts.",
+        "wordCount": 93,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.463918884291759,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.02,
         "commentatorTierSimilarities": [
-            38.83,
-            39.3,
-            21.87
+            42.39,
+            31.02,
+            26.59
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "A wilful falsehood and calumnious charge against a public officer.",
-            "He rescued him, as was his duty, 'by force' out of their hands.",
-            "He had commanded the Sanhedrim to meet for no other purpose than to 'judge him according to their law.'"
+            "a wilful falsehood and calumnious charge against a public officer.",
+            "only when, instead of doing so, they fell to disputing among themselves, and the prisoner was in danger of being 'pulled in pieces of them'...did he rescue him, as was his duty, 'by force' out of their hands.",
+            "He had commanded the Sanhedrim to meet for no other purpose than to 'judge him according to their law'."
         ],
         "Albert Barnes": [
             "Tertullus pretends that they would have judged Paul righteously if Lysias had not interposed...",
-            "...the truth was, that, without regard to law or justice...",
+            "The truth was, that, without regard to law or justice...",
             "...they would have murdered him on the spot."
         ],
         "Philip Schaff": [
-            "When the Roman soldiers came on the scene, the Jews evidently at once released Paul without further violence.",
             "The Sanhedrim council were extremely bitter against Claudius Lysias, and the intention evidently of their advocate\u2019s words here (if we admit them as genuine), was to insinuate that all was going on in order and in strict conformity to the law, until the commander in the castle of Antonia violently and oppressively interfered.",
-            "Tertullus misstates the facts."
+            "Tertullus misstates the facts. When the Roman soldiers came on the scene, the Jews evidently at once released Paul without further violence: \u2018When they saw the chief captain and the soldiers, they left beating of Paul\u2019 (chap. Acts 21:32).",
+            "Here again Tertullus misstates the facts."
         ],
         "Archibald T. Robertson": [
-            "This whole verse with some words at the end of verse Acts 24:6 and the beginning of verse Acts 24:8 in the Textus Receptus... is absent from Aleph A B H L P 61 (many other cursives) Sahidic Bohairic.\" ",
-            "It is beyond doubt a later addition to the incomplete report of the speech of Tertullus.\" ",
-            "The motive of the added words is clearly to prejudice Felix against Lysias and they contradict the record in Acts 24:21."
+            "It is beyond doubt a later addition to the incomplete report of the speech of Tertullus.",
+            "The motive of the added words is clearly to prejudice Felix against Lysias and they contradict the record in Acts 24:21.",
+            "More likely they are a clumsy attempt to complete the speech of Tertullus."
         ],
         "John Gill": [
-            "But the chief captain Lysias came upon us... with great violence took him away out of our hands.\" ",
-            "Suddenly, and at unawares, immediately, and with great haste, before they could execute their designs.",
-            "He came with an army, and rescued him."
+            "But the chief captain Lysias came upon us...suddenly, and with great haste, before they could execute their designs.\" ",
+            "...and with great violence took him away out of our hands; for he came with an army, and rescued him.\" ",
+            "Some copies add, 'and sent him to thee'; and so the Syriac version reads."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Tertullus, in his speech against Paul, falsely accuses him of being a threat to the public and claims that the Sanhedrin intended to judge him according to their law. However, these words seem to be a later addition, made to prejudice Felix against Lysias and contradict the record in Acts 24:21. The truth is that the Jews, disregarding justice and without regard to law, would have killed Paul if Lysias had not intervened. Lysias, as his duty, rescued Paul from their hands with force and haste. The Sanhedrin's bitterness towards Lysias is evident in their attempts to paint him as the oppressor in this situation. However, the historical facts prove otherwise.",
-            "wordCount": 111,
-            "quoteTokenProportion": 40.54,
-            "qualityScore": 1.3475910252368024,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.15,
+            "bht": "The false accusation made against the public officer was a deliberate attempt to slander and harm him. However, instead of addressing the issue at hand, the people turned to quarreling amongst themselves, placing the prisoner in great danger. Thankfully, the officer fulfilled his duty and rescued him from their clutches. The purpose of the Sanhedrim meeting was solely to judge the prisoner according to their own laws, as commanded. These additional words in Tertullus' speech, which seek to prejudice Felix against Lysias, are likely an awkward attempt to complete Tertullus' argument. In reality, the Jews released Paul without further violence once the Roman soldiers arrived on the scene, contradicting Tertullus' misrepresentation of the facts.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.437584407251273,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.14,
             "commentatorTierSimilarities": [
-                40.87,
-                39.11,
-                20.02
+                43.93,
+                30.93,
+                25.13
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Tertullus falsely accuses Paul of being a threat to the public and claims the Sanhedrin intended to judge him according to their law. These words seem to be a later addition, made to prejudice Felix against Lysias and contradict the record. The truth is that the Jews, disregarding justice, would have killed Paul if Lysias had not intervened. Lysias, as his duty, rescued Paul from their hands with force and haste. The Sanhedrin's bitterness towards Lysias is evident in their attempts to paint him as the oppressor. However, historical facts prove otherwise.",
+            "bht": "The false accusation against the public officer was a calculated attempt to harm his reputation. However, instead of addressing the issue, the people turned on each other, putting the prisoner in grave danger. Thankfully, the officer fulfilled his duty and rescued him from their grasp. The Sanhedrim meeting was intended solely to judge the prisoner according to their own laws, but these additional words were likely added to prejudice Felix against Lysias. Yet, the account shows that Paul was released without violence once the Roman soldiers arrived, contradicting Tertullus' misrepresentation of the facts.",
             "wordCount": 93,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.3343306964300607,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.463918884291759,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.02,
             "commentatorTierSimilarities": [
-                39.42,
-                39.74,
-                20.83
+                42.39,
+                31.02,
+                26.59
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Tertullus falsely accuses Paul of being a threat to the public and claims the Sanhedrin intended to judge him according to their law. These words appear to be a later addition, made to prejudice Felix against Lysias and contradict the record. The Jews, disregarding justice, would have killed Paul if Lysias had not intervened. Lysias, fulfilling his duty, rescued Paul with force and haste. The Sanhedrin's bitterness towards Lysias is evident in their attempts to portray him as the oppressor, although historical facts disprove this portrayal.",
-            "wordCount": 87,
-            "quoteTokenProportion": 37.88,
-            "qualityScore": 1.4220033016135365,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.62,
+            "bht": "The false accusation against the public officer was a deliberate attempt to slander him. However, instead of addressing the issue, the people began quarreling among themselves, putting the prisoner's life at risk. Fortunately, the officer fulfilled his duty and rescued him from their grasp. The Sanhedrin meeting was supposed to be for the purpose of judging the prisoner according to their own laws, but these additional words in Tertullus' speech are likely an attempt to prejudice Felix against Lysias. The truth is, Paul was released without further violence once the Roman soldiers arrived, disproving Tertullus' misrepresentation of the events.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.4421856612792654,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.3,
             "commentatorTierSimilarities": [
-                38.83,
-                39.3,
-                21.87
+                42.62,
+                32.66,
+                24.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Tertullus falsely accuses Paul of being a threat and claims the Sanhedrin intended to judge him. These words seem to be a later addition, made to prejudice Felix against Lysias and contradict the record. Disregarding justice, the Jews would have killed Paul if Lysias had not intervened. Lysias, fulfilling his duty, rescued Paul with force. The Sanhedrin's bitterness towards Lysias is evident in their attempts to portray him as the oppressor, though historical facts disprove this.",
-            "wordCount": 77,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.4135845136157017,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.34,
+            "bht": "The false accusation made against the officer was an intentional act of defamation. Instead of addressing the matter, the people turned on each other, endangering the prisoner. Thankfully, the officer fulfilled his duty and rescued him from their hands. The purpose of the Sanhedrin meeting was solely to judge the prisoner according to their laws. The additional words in Tertullus' speech likely aim to prejudice Felix against Lysias, contradicting the actual events. Once the Roman soldiers arrived, the Jews released Paul without further violence, disproving Tertullus' misrepresentation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.4378868678114403,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.15,
             "commentatorTierSimilarities": [
-                38.77,
-                40.61,
-                20.62
+                43.59,
+                32.94,
+                23.47
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Tertullus falsely accuses Paul of being a threat to the public and claims the Sanhedrin intended to judge him according to their law. These words seem to be a later addition, made to prejudice Felix against Lysias and contradict the record. The Jews would have killed Paul if Lysias had not intervened. Lysias, fulfilling his duty, rescued Paul with force and haste. The Sanhedrin's bitterness towards Lysias is evident in their attempts to portray him as the oppressor, but historical facts disprove this.",
-            "wordCount": 84,
-            "quoteTokenProportion": 41.27,
-            "qualityScore": 1.4050146329530993,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.06,
+            "bht": "The false accusation against the public officer was a deliberate attempt to defame him. Instead of addressing the issue, the people turned on each other, endangering the prisoner's life. Thankfully, the officer fulfilled his duty by rescuing him from their clutches. The Sanhedrin meeting was intended solely to judge the prisoner according to their laws. However, the additional words in Tertullus' speech seem to be a clumsy attempt to prejudice Felix against Lysias, contradicting the record of events. Once the Roman soldiers arrived, the Jews released Paul without further violence, refuting Tertullus' misrepresentation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.4347935231378597,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.05,
             "commentatorTierSimilarities": [
-                38.11,
-                39.2,
-                22.69
+                44.76,
+                32.73,
+                22.51
             ],
             "generationAttempt": 5
         }

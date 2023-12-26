@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 23:50:09",
+    "timestamp": "12-25-2023 20:31:41",
     "verseRef": "Matthew 20:6",
     "bestBHT": {
-        "bht": "The parable emphasizes that God's grace is available to all, even those who come late and have remained idle. It illustrates the different periods of time and ages of the world, highlighting that God's invitation is not limited by time or circumstance. Despite the lateness of the hour, the day still offers room for those who respond to God's call. It's a reminder that God's generosity extends to everyone, regardless of when they choose to come to Him.",
-        "wordCount": 83,
-        "quoteTokenProportion": 41.82,
-        "qualityScore": 1.2602162274576365,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.25,
+        "bht": "Laborers in this story were hired at various hours, including the eleventh hour. However, this timing was uncommon, as it was only one hour before the end of the working day. The question raised was why these individuals had been idle for the entire day. Nevertheless, there was still room for them to be employed. This parable sheds light on the problem of unemployment and highlights the possibility of finding opportunities even in the final moments of the day.",
+        "wordCount": 79,
+        "quoteTokenProportion": 48.28,
+        "qualityScore": 1.5927284590451825,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.3,
         "commentatorTierSimilarities": [
-            33.45,
-            33.24,
-            33.31
+            33.26,
+            40.07,
+            26.67
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "One hour before the close of the working day; a most unusual hour both for offering and engaging.",
+            "About the eleventh hour\u2014but one hour before the close of the working day; a most unusual hour both for offering and engaging.",
             "Why stand ye here all the day idle?\u2014Of course they had not been there, or not been disposed to offer themselves at the proper time.",
-            "Yet there was room, they also are engaged, and on similar terms with all the rest."
+            "Yet there was room."
         ],
         "Albert Barnes": [
             "The eleventh hour - About five o\u2019clock in the afternoon, or when there was but one working hour of the day left."
@@ -27,9 +27,9 @@
             "All the day idle (\u03bf\u03bb\u03b7\u03bd \u03c4\u03b7\u03bd \u03b7\u03bc\u03b5\u03c1\u03b1\u03bd \u03b1\u03c1\u03b3\u03bf). Extent of time (accusative) again. \u0391\u03c1\u03b3\u03bf is \u03b1 privative and \u03b5\u03c1\u03b3\u03bf\u03bd, work, no work. The problem of the unemployed. "
         ],
         "John Gill": [
-            "These different seasons of the husbandman's going out to hire labourers...may have regard either to the several periods of time, and ages of the world, as before the law, under the law, the times of the Messiah, and the last days.\" ",
-            "The state and condition of God's elect, by nature, as it is the same with others, it is the same with them all.",
-            "Why stand ye here all the day idle? for being about the eleventh hour, the day was far spent, it was almost gone."
+            "These different seasons of the husbandman's going out to hire laborers... may have regard either to the several periods of time, and ages of the world... or the various dispensations of the Gospel... or to the several stages of human life.\" ",
+            "For the state and condition of God's elect, by nature, as it is the same with others, it is the same with them all.\" ",
+            "Being about the eleventh hour, the day was far spent, it was almost gone, a small portion of it remained, but one hour."
         ],
         "John Wesley": [
             "About the eleventh hour \u2014 That is, very late; long after the rest were called."
@@ -52,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The parable in this verse teaches us about the generosity of God's grace and his willingness to include all who come to him, regardless of when they choose to do so. It shows that even those who come late in the day and have been idle all day can still find room in God's kingdom. This concept can apply to different periods of time and ages of the world, as well as to the state and condition of God's elect. Ultimately, God's invitation is open to all who respond, no matter the timing.",
-            "wordCount": 97,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.1201453982163423,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.59,
+            "bht": "The parable in this verse tells the story of laborers being hired at different hours of the day, including an eleventh hour hiring. Commentators note that this is unusual, as it is one hour before the end of the working day. Those idle for the day were asked why they had not offered themselves earlier. However, despite the lateness, there was still room for them. This parable speaks to the problem of the unemployed and highlights the availability of opportunity even in the final moments of the day.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5781984009402343,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.82,
             "commentatorTierSimilarities": [
-                36.62,
-                25.87,
-                37.51
+                34.74,
+                39.15,
+                26.11
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The parable emphasizes that God's grace is available to all, even those who come late and have remained idle. It illustrates the different periods of time and ages of the world, highlighting that God's invitation is not limited by time or circumstance. Despite the lateness of the hour, the day still offers room for those who respond to God's call. It's a reminder that God's generosity extends to everyone, regardless of when they choose to come to Him.",
-            "wordCount": 83,
-            "quoteTokenProportion": 41.82,
-            "qualityScore": 1.2602162274576365,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.25,
+            "bht": "In this passage, laborers are hired at different hours of the day, even at the eleventh hour when there was only one working hour left. The parable emphasizes the unusualness of this timing and questions why they were idle for so long. Despite the lateness, there was still room for them to be hired. This parable reflects on the issue of unemployment and highlights the opportunity that can still arise even in the final moments of the day.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.6038471781272108,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
             "commentatorTierSimilarities": [
-                33.45,
-                33.24,
-                33.31
+                34.46,
+                41.82,
+                23.72
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The parable in this passage challenges the notion of fairness by highlighting the generosity of God's grace. It invites us to consider the different seasons of the husbandman's labor, symbolizing the various periods of time in the world. The parable also speaks to the state and condition of God's elect, emphasizing that all are invited to partake in God's kingdom, regardless of when they respond. It serves as a reminder that God's invitation is open to everyone, no matter the timing or circumstances.",
-            "wordCount": 88,
-            "quoteTokenProportion": 37.29,
-            "qualityScore": 0.8608370892485401,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.97,
+            "bht": "Laborers in this story were hired at various hours, including the eleventh hour. However, this timing was uncommon, as it was only one hour before the end of the working day. The question raised was why these individuals had been idle for the entire day. Nevertheless, there was still room for them to be employed. This parable sheds light on the problem of unemployment and highlights the possibility of finding opportunities even in the final moments of the day.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.5927284590451825,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
             "commentatorTierSimilarities": [
-                28.15,
-                34.39,
-                37.46
+                33.26,
+                40.07,
+                26.67
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The parable teaches us that God's grace is not limited by time or circumstance. It challenges us to reconsider our understanding of fairness and emphasizes the inclusiveness of God's kingdom. Despite the lateness of the hour, there is still room for all who respond to God's call. The parable also highlights the different periods of time and ages of the world, reminding us that God's invitation extends to everyone, regardless of when they choose to come to Him.",
-            "wordCount": 82,
-            "quoteTokenProportion": 42.59,
-            "qualityScore": 0.9758891914049777,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.79,
+            "bht": "In this story, laborers were hired at different times, with the eleventh hour being particularly noteworthy. It was described as an unusual hour to offer and engage in work. The question was raised as to why these individuals had been idle for the entire day, indicating the problem of unemployment. However, despite their lateness, there was still room for them to be included. This parable highlights the availability of opportunities, even in the final moments of the day.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.4509407954301838,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
             "commentatorTierSimilarities": [
-                29.96,
-                36.2,
-                33.84
+                35.89,
+                40.01,
+                24.1
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This parable reminds us of God's graciousness and inclusivity. It challenges the idea of fairness by showing that God's invitation is open to all, regardless of when they respond. The different seasons of the husbandman's labor represent the various periods of time in the world, illustrating that God's grace extends throughout history. It emphasizes that even those who come late or have been idle can still find a place in God's kingdom. Ultimately, this parable teaches us about the limitless nature of God's love and mercy.",
-            "wordCount": 92,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.8152685858764446,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.45,
+            "bht": "The hiring of laborers at various times, including the eleventh hour, is the subject of this story. The eleventh hour is described as an unusual hour to offer and engage in work. The question is posed as to why these individuals had been idle the entire day. Yet, despite their lateness, there was still room for them to be included. This parable highlights the issue of unemployment and emphasizes the availability of opportunities, even in the final moments of the day.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5241490267265796,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.02,
             "commentatorTierSimilarities": [
-                37.19,
-                18.34,
-                44.47
+                34.31,
+                40.45,
+                25.24
             ],
             "generationAttempt": 5
         }

@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:35:30",
+    "timestamp": "12-25-2023 20:34:25",
     "verseRef": "Acts 23:20",
     "bestBHT": {
-        "bht": "Paul's nephew, who may have been studying in Jerusalem, obtained inside information about the conspiracy against his uncle. It is suggested that the conspirators might have belonged to the Zealots, reflecting the prevailing sentiment against Paul in Jerusalem. By using the singular form, the nephew displays deference to Lysias' authority and implies that the conspirators' plans were not entirely baseless. Though the exact source of the young man's intelligence remains uncertain, it is likely that he learned it from a mentor or teacher. This knowledge indicates that the plot was not as closely guarded as one might assume.",
-        "wordCount": 100,
-        "quoteTokenProportion": 39.73,
-        "qualityScore": 1.3987160327219887,
-        "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+        "bht": "It is suggested that Paul's nephew may have gotten hints of the conspiracy against Paul from the schools he was attending in Jerusalem for his education. The conspirators may have been representatives of the Jewish sentiment towards Paul in Jerusalem, and they may have belonged to the Zealots. The use of the singular by the young man may indicate his deference to Lysias' authority and modifies the scheming of the conspirators. Though it is not clear how the young man obtained this information, it is speculated that he may have learned it from one of his Jewish teachers. Ultimately, it is implied that the Jews, referring to the Jewish sanhedrin, had agreed to desire Paul's downfall, and this young man, possibly a student under one of the council's leaders or doctors, came to know of their plans.",
+        "wordCount": 140,
+        "quoteTokenProportion": 37.97,
+        "qualityScore": 1.732630791604529,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.95,
         "commentatorTierSimilarities": [
-            42.49,
-            37.31,
-            20.2
+            43.71,
+            28.9,
+            27.39
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Paul's sister's son...may have got at the schools those hints of the conspiracy on which he so promptly acted.",
-            "If he was at this time residing at Jerusalem for his education, like Paul himself.",
-            "He may have got at the schools those hints of the conspiracy on which he so promptly acted."
+            "Paul's sister's son\u2014(See on Acts 9:30).\" ",
+            "If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted.",
+            "he may have got at the schools those hints of the conspiracy on which he so promptly acted."
         ],
         "Albert Barnes": [
             "In what way this young man had received intelligence of this, we can only conjecture.",
@@ -27,12 +27,12 @@
         ],
         "Archibald T. Robertson": [
             "The conspirators may have belonged to the Zealots, but clearly they represented the state of Jewish feeling toward Paul in Jerusalem.",
-            "The singular is used by the youth out of deference to the authority of Lysias and so modifies a bit the scheming of the conspirators, not 'absurd' as Page holds.",
-            "Already this form in Luke 22:5 which see. See also John 9:22; Acts 24:9."
+            "To bring down (\u03bf\u03c0\u03c9\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b3\u03b1\u03b3\u03b7\u03b9\u03c2). Very words of the conspirators in verse Acts 23:15 as if the young man overheard.",
+            "The singular is used by the youth out of deference to the authority of Lysias and so modifies a bit the scheming of the conspirators, not 'absurd' as Page holds."
         ],
         "John Gill": [
             "The Jews have agreed to desire thee.\" ",
-            "By the Jews are meant, the Jewish sanhedrim, for the young man had not only intelligence of the conspiracy, and lying in wait of the forty men or more.",
+            "By the Jews are meant, the Jewish sanhedrim.",
             "This young man might be a student under the president of the council, or one of the doctors, whereby he came at the knowledge of these things."
         ]
     },
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "A possible response:\n\nPaul's sister's son, who may have been educated in Jerusalem, could have learned about the conspiracy against Paul through his connections in the schools. The conspirators, possibly representing the prevailing Jewish sentiment towards Paul, may have belonged to the Zealots. The use of the singular form by the young man shows deference to the authority of Lysias and suggests that the conspirators' plans were not entirely absurd. It is unclear exactly how the young man received this information, but it is possible that he learned it from a teacher or mentor. The fact that he had knowledge of the plot indicates that it was not a closely guarded secret among the forty men.",
-            "wordCount": 118,
-            "quoteTokenProportion": 40.51,
-            "qualityScore": 1.5830603080918548,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "bht": "It is suggested that Paul's nephew may have gotten hints of the conspiracy against Paul from the schools he was attending in Jerusalem for his education. The conspirators may have been representatives of the Jewish sentiment towards Paul in Jerusalem, and they may have belonged to the Zealots. The use of the singular by the young man may indicate his deference to Lysias' authority and modifies the scheming of the conspirators. Though it is not clear how the young man obtained this information, it is speculated that he may have learned it from one of his Jewish teachers. Ultimately, it is implied that the Jews, referring to the Jewish sanhedrin, had agreed to desire Paul's downfall, and this young man, possibly a student under one of the council's leaders or doctors, came to know of their plans.",
+            "wordCount": 140,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.732630791604529,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
             "commentatorTierSimilarities": [
-                39.04,
-                37.83,
-                23.13
+                43.71,
+                28.9,
+                27.39
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul's nephew, who may have been studying in Jerusalem, obtained inside information about the conspiracy against his uncle. It is suggested that the conspirators might have belonged to the Zealots, reflecting the prevailing sentiment against Paul in Jerusalem. By using the singular form, the nephew displays deference to Lysias' authority and implies that the conspirators' plans were not entirely baseless. Though the exact source of the young man's intelligence remains uncertain, it is likely that he learned it from a mentor or teacher. This knowledge indicates that the plot was not as closely guarded as one might assume.",
-            "wordCount": 100,
-            "quoteTokenProportion": 39.73,
-            "qualityScore": 1.3987160327219887,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "bht": "Paul's nephew, who may have received hints of the conspiracy against Paul during his education in Jerusalem, brings news of the plan to his uncle. It is suggested that the conspirators represented the Jewish sentiment towards Paul, with a possible association with the Zealots. The young man's use of the singular form and deference to Lysias' authority modifies the conspirators' scheme. Although the details of the young man's knowledge are unclear, it is speculated that he learned of the plot from his Jewish teachers. Ultimately, the Jews, referring to the Jewish sanhedrin, had agreed to desire Paul's downfall, and this young man, likely a student under one of the council's leaders or doctors, became aware of their intentions.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.5656282765552239,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.4,
             "commentatorTierSimilarities": [
-                42.49,
-                37.31,
-                20.2
+                45.65,
+                27.01,
+                27.34
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul's nephew, possibly educated in Jerusalem like his uncle, might have received information about the conspiracy targeting Paul during his time at school. This suggests a reflection of the prevailing Jewish sentiment against Paul in Jerusalem. The nephew's use of the singular form demonstrates deference to Lysias' authority and slightly modifies the plans of the conspirators. While the specific means by which the young man gained this knowledge remains uncertain, it is plausible that it was through his association with a Jewish teacher or leader. The fact that he was aware of the plot suggests that it was not closely guarded by the forty men involved.",
-            "wordCount": 108,
-            "quoteTokenProportion": 35.53,
-            "qualityScore": 1.4985858691033311,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.17,
+            "bht": "Paul's nephew, possibly obtaining hints of the conspiracy against his uncle through his education in Jerusalem, brings forth this vital information. The conspirators may have represented the prevailing Jewish sentiment towards Paul, potentially being affiliated with the Zealots. The young man's use of the singular, out of deference to Lysias' authority, modifies the scheme of the plotters. Although the specific source of the young man's knowledge is uncertain, it is conjectured that he learned about the plot from his Jewish teachers. Ultimately, it is implied that the Jews, referring to the Jewish sanhedrin, had reached a consensus to desire Paul's downfall, and this young man, possibly a student under one of the council's leaders or doctors, became privy to their intentions.",
+            "wordCount": 126,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.5309402583229073,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
             "commentatorTierSimilarities": [
-                41.32,
-                31.34,
-                27.34
+                45.06,
+                26.66,
+                28.28
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul's nephew, equipped with knowledge of the conspiracy against his uncle, may have received this information while studying in Jerusalem. The conspirators, possibly linked to the Zealots, represented the prevailing Jewish sentiment towards Paul in Jerusalem. By using the singular form, the nephew showed deference to Lysias' authority, which influenced the conspirators' plans. The exact means by which the young man obtained this information is unknown, but it is plausible that he gained it through his association with a Jewish teacher or leader. The fact that he had access to this plot implies that it was not closely guarded amongst the group of forty men.",
-            "wordCount": 106,
-            "quoteTokenProportion": 37.84,
-            "qualityScore": 1.5015543443514723,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "bht": "Paul's nephew, who may have obtained information about the conspiracy against Paul through his education in Jerusalem, comes forward to reveal the plot. The conspirators likely represented the prevailing sentiment of the Jewish people towards Paul, potentially being associated with the Zealots. The young man's deference to Lysias' authority is evident in his use of the singular form, which slightly modifies the plan of the conspirators. Although the exact source of his knowledge remains uncertain, it is speculated that he learned about the plot from his Jewish teachers. Ultimately, it is implied that the Jewish sanhedrin had reached an agreement to oppose Paul, and this young man, possibly a student under one of the council's leaders or doctors, learned of their intentions.",
+            "wordCount": 125,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.5760883912699823,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
             "commentatorTierSimilarities": [
-                39.98,
-                30.96,
-                29.05
+                46.79,
+                27.05,
+                26.16
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Possessing inside information about the conspiracy against Paul, his nephew, who may have received an education in Jerusalem, reveals the prevailing Jewish sentiment towards his uncle in the city. The conspirators, possibly affiliated with the Zealots, represent the anger and opposition Paul faced. The use of the singular form by the young man demonstrates his deference to Lysias, which modifies the plans of the conspirators. While it remains uncertain how the nephew obtained this knowledge, it is plausible he learned it from a teacher or mentor. The fact that he was aware of the plot suggests it was not closely guarded.",
-            "wordCount": 101,
-            "quoteTokenProportion": 37.33,
-            "qualityScore": 1.3583542402719673,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
+            "bht": "Paul's nephew, potentially informed of the conspiracy against his uncle during his education in Jerusalem, reveals the plan. The conspirators are believed to represent the Jewish sentiment towards Paul, possibly linked to the Zealots. The young man's deference to Lysias' authority alters the strategy of the plotters. Although the source of the young man's knowledge is unclear, it is speculated that he obtained the information from his Jewish teachers. Ultimately, the Jews, referring to the Jewish sanhedrim, had agreed on Paul's downfall, and this young man, potentially a student of a council leader or doctor, became aware of their intentions.",
+            "wordCount": 104,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4919579356051895,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.95,
             "commentatorTierSimilarities": [
-                44.88,
-                32.4,
-                22.72
+                44.3,
+                26.23,
+                29.47
             ],
             "generationAttempt": 5
         }

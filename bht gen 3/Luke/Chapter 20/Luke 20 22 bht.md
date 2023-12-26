@@ -1,7 +1,7 @@
 # Luke 20:22 Commentary Help Text
 
 ## BHT:
-The discussion centers around tribute, a form of payment. Luke uses the Greek term for tribute, while Matthew and Mark employ the Latin equivalent. The tribute mentioned could be an annual tax on land and houses. The question arises not about its legality for the Romans, but for the Jews who consider themselves Abraham's seed and the Lord's free people. The emphasis lies on the phrase for us, highlighting the tension surrounding the question of whether it is lawful to pay tribute to a heathen emperor.
+The debate revolves around whether it is lawful for the Jews, who consider themselves free and descendants of Abraham, to pay tribute, an annual tax brought as payment. Luke employs the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The question emphasizes the phrase for us, raising the issue of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly referring to the coin's depiction of Tiberius.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -9,7 +9,7 @@ The discussion centers around tribute, a form of payment. Luke uses the Greek te
 
 
 ### Marvin Vincent:
-1. "Tribute [φορον] . Something, therefore, which is brought in by way of payment."
+1. "Tribute [φορον] . From ferw, to bring. Something, therefore, which is brought in by way of payment."
 2. "Luke uses the Greek word instead of the Latin khnson, census, in Matthew and Mark."
 
 ### Philip Schaff:
@@ -18,9 +18,9 @@ The discussion centers around tribute, a form of payment. Luke uses the Greek te
 
 
 ### Archibald T. Robertson:
-1. "The picture on the coin may have been that of Tiberius."
-2. "Tribute (φορον). Old word for the annual tax on land, houses, etc."
-3. "Mark and Matthew have κηνσον, which see for this Latin word in Greek letters."
+1. "Tribute (φορον). Old word for the annual tax on land, houses, etc." 
+2. "Mark and Matthew have κηνσον, which see for this Latin word in Greek letters." 
+3. "The picture on the coin may have been that of Tiberius."
 
 ### John Gill:
 1. "The doubt pretended, was not whether it was lawful for the Romans to pay tribute to Caesar, but whether it was lawful for them who were Jews, were Abraham's seed, and, as they boasted, were never in bondage, but were the Lord's free people, to pay tribute to an Heathen emperor, or no."
@@ -30,45 +30,45 @@ The discussion centers around tribute, a form of payment. Luke uses the Greek te
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:22:12
+- Timestamp: 12-25-2023 20:33:33
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 34.92%
-- BHT Quality Score: 1.4240901196686777
+- BHT Word Count: 80
+- BHT Commentary Usage: 29.31%
+- BHT Quality Score: 1.5688797731532738
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'about', 'abraham', 'an', 'and', 'annual', 'arises', 'around', 'be', 'but', 'centers', 'consider', 'could', 'discussion', 'emperor', 'emphasis', 'employ', 'equivalent', 'for', 'form', 'free', 'greek', 'heathen', 'highlighting', 'houses', 'is', 'it', 'its', 'jews', 'land', 'latin', 'lawful', 'legality', 'lies', 'lord', 'luke', 'mark', 'matthew', 'mentioned', 'not', 'of', 'on', 'pay', 'payment', 'people', 'phrase', 'question', 'romans', 's', 'seed', 'surrounding', 'tax', 'tension', 'term', 'the', 'themselves', 'to', 'tribute', 'us', 'uses', 'whether', 'while', 'who']
+- ChatGPT injected words (58):
+	['abraham', 'an', 'and', 'annual', 'around', 'as', 'brought', 'coin', 'consider', 'debate', 'depiction', 'descendants', 'emphasizes', 'employs', 'equivalent', 'for', 'free', 'greek', 'head', 'is', 'issue', 'it', 'jews', 'latin', 'lawful', 'luke', 'mark', 'matthew', 'money', 'of', 'pay', 'payment', 'permissible', 'persic', 'phrase', 'possibly', 'question', 'raising', 'referring', 'revolves', 's', 'syriac', 'tax', 'the', 'them', 'themselves', 'this', 'tiberius', 'to', 'translate', 'tribute', 'us', 'use', 'versions', 'whether', 'while', 'who', 'word']
 - ChatGPT injected words (significant words only) (41):
-	['abraham', 'annual', 'arises', 'centers', 'consider', 'discussion', 'emperor', 'emphasis', 'employ', 'equivalent', 'form', 'free', 'greek', 'heathen', 'highlighting', 'houses', 'jews', 'land', 'latin', 'lawful', 'legality', 'lies', 'lord', 'luke', 'mark', 'matthew', 'mentioned', 'pay', 'payment', 'people', 'phrase', 'question', 'romans', 's', 'seed', 'surrounding', 'tax', 'tension', 'term', 'tribute', 'uses']
+	['abraham', 'annual', 'brought', 'coin', 'consider', 'debate', 'depiction', 'descendants', 'emphasizes', 'employs', 'equivalent', 'free', 'greek', 'head', 'issue', 'jews', 'latin', 'lawful', 'luke', 'mark', 'matthew', 'money', 'pay', 'payment', 'permissible', 'persic', 'phrase', 'possibly', 'question', 'raising', 'referring', 'revolves', 's', 'syriac', 'tax', 'tiberius', 'translate', 'tribute', 'use', 'versions', 'word']
 
 ### Logs
-- Attempt 1 BHT: The verse discusses the concept of tribute, which is a form of payment. Luke uses the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The tribute in question may have been an annual tax on land or houses. The question being raised is not whether it is lawful for the Romans to pay tribute, but whether it is lawful for the Jews, who consider themselves Abraham's seed and the Lord's free people, to pay tribute to a heathen emperor. The emphasis lies on the phrase for us.
-- 🔄 Luke 20:22 (attempt 1, 93 words, 39.34% quotes quality score: 1.505518822759014, V2 normalized quality score: 41.4, commentator tiers 1-3: 28.5%, 32.14%, 39.36%) 
+- Attempt 1 BHT: The verse speaks of tribute, referring to an annual tax brought as a form of payment. Luke uses the Greek word fortribute, while Matthew and Mark use the Latin equivalent. The debate in this passage centers on whether it is lawful for the Jews, who consider themselves free people and descendants of Abraham, to pay tribute to a non-Jewish ruler. The emphasis lies on the phrase for us, highlighting the question of whether it is permissible for them to pay this tax. The Syriac and Persic versions translate it as head money, perhaps referring to the coin's depiction of Tiberius.
+- 🔄 Luke 20:22 (attempt 1, 102 words, 28.99% quotes quality score: 1.5177750422299954, V2 normalized quality score: 41.81, commentator tiers 1-3: 27.06%, 33.59%, 39.35%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The verse revolves around the concept of tribute, which is a form of payment. Luke uses the Greek word for tribute, while Matthew and Mark use the Latin equivalent. Tribute could have been an annual tax on land or houses that the Jews, who consider themselves the Lord's free people, were questioning the lawfulness of paying to a heathen emperor. The emphasis rests on the phrase for us.
-- 🔄 Luke 20:22 (attempt 2, 69 words, 38.89% quotes quality score: 1.543265804411715, V2 normalized quality score: 42.66, commentator tiers 1-3: 29.98%, 34.95%, 35.07%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The discussion centers around tribute, a payment brought in as a form of tax. Luke uses the Greek word for tribute, while Matthew and Mark employ the Latin equivalent. It is suggested that the tribute mentioned could be an annual tax on land and houses. The question being posed is not whether it is lawful for the Romans to pay tribute, but rather if it is lawful for the Jews, who see themselves as Abraham's seed and the Lord's free people, to pay tribute to a heathen emperor. The crucial element lies in the phrase for us.
-- 🔄 Luke 20:22 (attempt 3, 99 words, 40.91% quotes quality score: 1.3920682129832262, V2 normalized quality score: 37.63, commentator tiers 1-3: 29.26%, 33.48%, 37.26%) 
+- Attempt 2 BHT: The debate centers on the Jewish people's obligation to pay tribute, an annual tax brought as payment. Luke employs the Greek word for tribute, while Matthew and Mark use the Latin equivalent. It questions whether it is lawful for the Jews, who consider themselves free and descendants of Abraham, to pay tribute to a non-Jewish ruler. The phrase for us carries emphasis, highlighting the question of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly alluding to the coin's depiction of Tiberius.
+- 🔄 Luke 20:22 (attempt 2, 94 words, 27.69% quotes quality score: 1.4745194643720276, V2 normalized quality score: 40.37, commentator tiers 1-3: 26.69%, 33.07%, 40.25%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The discussion centers around tribute, a form of payment. Luke uses the Greek term for tribute, while Matthew and Mark employ the Latin equivalent. The tribute mentioned could be an annual tax on land and houses. The question arises not about its legality for the Romans, but for the Jews who consider themselves Abraham's seed and the Lord's free people. The emphasis lies on the phrase for us, highlighting the tension surrounding the question of whether it is lawful to pay tribute to a heathen emperor.
-- 🔄 Luke 20:22 (attempt 4, 88 words, 34.92% quotes quality score: 1.4240901196686777, V2 normalized quality score: 38.69, commentator tiers 1-3: 27.77%, 32.72%, 39.52%) 
+- Attempt 3 BHT: The debate revolves around whether it is lawful for the Jews, who consider themselves free and descendants of Abraham, to pay tribute, an annual tax brought as payment. Luke employs the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The question emphasizes the phrase for us, raising the issue of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly referring to the coin's depiction of Tiberius.
+- 🔄 Luke 20:22 (attempt 3, 80 words, 29.31% quotes quality score: 1.5688797731532738, V2 normalized quality score: 43.51, commentator tiers 1-3: 26.71%, 34.57%, 38.72%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The debate centers around whether it is lawful for the Jews, who claim to be free people and descendants of Abraham, to pay tribute in the form of an annual tax. Luke uses the Greek word for tribute, while Matthew and Mark use the Latin equivalent. The question emphasizes the phrase for us, highlighting the issue of whether this tax is permissible. The Syriac and Persic versions translate it as head money, possibly alluding to the coin's depiction of Tiberius.
+- 🔄 Luke 20:22 (attempt 4, 81 words, 29.31% quotes quality score: 1.515386391764196, V2 normalized quality score: 41.73, commentator tiers 1-3: 26.65%, 34.19%, 39.15%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: The discussion revolves around tribute, a payment brought in as a form of tax. Luke uses the Greek word for tribute, and Matthew and Mark use the Latin equivalent. It may have been an annual tax on land or houses. The issue at hand is not the legality of Romans paying tribute but whether it is acceptable for Jews, who consider themselves the Lord's free people, to pay tribute to a heathen emperor. The phrase for us holds the weight of the question.
-- 🔄 Luke 20:22 (attempt 5, 84 words, 38.71% quotes quality score: 1.4007953854805515, V2 normalized quality score: 37.92, commentator tiers 1-3: 30.28%, 34.87%, 34.84%) 
+- Attempt 5 BHT: The dispute arises regarding the legality of the Jewish people, who identify themselves as descendants of Abraham and profess their freedom, paying tribute in the form of an annual tax. While Matthew and Mark utilize the Latin word tribute, Luke employs the Greek equivalent. The significance lies in the phrase for us, emphasizing the question of whether this tax is permissible for them. The Syriac and Persic versions translate it as head money, possibly referring to the coin's depiction of Tiberius.
+- 🔄 Luke 20:22 (attempt 5, 82 words, 31.15% quotes quality score: 1.5447857629829747, V2 normalized quality score: 42.71, commentator tiers 1-3: 26.96%, 34.51%, 38.53%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Luke 20:22 bht prompt v0.8 (88 words, 34.92% quotes)
-- quality score: 1.4240901196686777, V2 normalized quality score: 38.69, commentator tiers 1-3: 27.77%, 32.72%, 39.52%)
+- ✅ Luke 20:22 bht prompt v0.8 (80 words, 29.31% quotes)
+- quality score: 1.5688797731532738, V2 normalized quality score: 43.51, commentator tiers 1-3: 26.71%, 34.57%, 38.72%)

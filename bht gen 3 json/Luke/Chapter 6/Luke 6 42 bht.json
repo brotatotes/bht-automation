@@ -1,38 +1,39 @@
 {
-    "timestamp": "12-19-2023 16:15:57",
+    "timestamp": "12-25-2023 20:33:09",
     "verseRef": "Luke 6:42",
     "bestBHT": {
-        "bht": "Jesus exposes the hypocrisy of those who claim to be brothers, yet fail to see their own faults. He warns against the danger of self-complacency and incompetence, urging them to first remove the beam from their own eye before attempting to remove the speck from another's eye. This powerful imagery serves as a reminder to practice self-reflection and personal growth before reproving others. Ultimately, Jesus emphasizes the importance of genuine self-awareness and humility in our interactions with others.",
+        "bht": "It is important to examine ourselves before passing judgment on others. Jesus warns us about being hypocritical in our actions by pretending to have fraternal duty while criticizing our brothers. We must first remove the beam from our own eye before attempting to help our brother with the mote in theirs. This powerful picture of blind self-complacence and incompetence serves as a reminder to approach others with humility, acknowledging our own faults and seeking personal growth before offering guidance to others.",
         "wordCount": 82,
-        "quoteTokenProportion": 41.67,
-        "qualityScore": 1.1670736580880612,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.15,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.320709938331863,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.26,
         "commentatorTierSimilarities": [
-            23.75,
-            30.83,
-            45.41
+            26.49,
+            29.97,
+            43.55
         ],
-        "generationAttempt": 3
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Brother. 'Expressing the pretense of fraternal duty. To this is opposed 'Thou hypocrite!'\" (Bengel).\" ",
-            "Let me cast out [\u03b1\u03c6\u03b5\u03c2 \u03b5\u03ba\u03b2\u03b1\u03bb\u03c9]. with a studied courtesy: allow me to cast out.",
+            "Brother. 'Expressing the pretense of fraternal duty. To this is opposed 'Thou hypocrite!'\" (Bengel).",
+            "Let me cast out. with a studied courtesy: allow me to cast out.",
             "See clearly to cast out. See on Matthew 7:5."
         ],
         "Philip Schaff": [
             "If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit.",
-            "See on Matthew 7:3-5.",
-            "The connection is with what precedes: \u2018If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit.\u2019"
+            "The connection is with what precedes: 'If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit.'",
+            "The connection is with what precedes: 'If thou dost not see the beam in thine own eye, thou wilt be like the corrupt tree, which cannot possibly bring forth good fruit.'"
         ],
         "Archibald T. Robertson": [
-            "Canst thou say...Beholdest not...Thou hypocrite.\" ",
-            "Powerful picture of blind self-complacence and incompetence.",
-            "The keyword to argument here."
+            "Beholdest not (\u03bf\u03c5 \u03b2\u03bb\u03b5\u03c0\u03c9\u03bd). Matthew 7:4 has 'lo' (\u03b9\u03b4\u03bf\u03c5).",
+            "Thou hypocrite (\u03c5\u03c0\u03bf\u03ba\u03c1\u03b9\u03c4\u03b1). Contrast to the studied politeness of 'brother' (\u03b1\u03b4\u03b5\u03bb\u03c6\u03b5) above.",
+            "Powerful picture of blind self-complacence and incompetence, the keyword to argument here."
         ],
         "John Gill": [
-            "Either how canst thou say to thy brother, brother, let me pull out the mote that is in thine eye; that is, suffer me to reprove thee for thy sin...",
-            "thou hypocrite; as such an one must be, that bears hard upon his brother, and severely censures him for a small crime, when he indulges in himself a far more abominable sin...",
+            "Either how canst thou say to thy brother,.... Guilty of the lesser sin; ",
+            "brother, let me pull out the mote that is in thine eye; that is, suffer me to reprove thee for thy sin.",
+            "thou hypocrite; as such an one must be, that bears hard upon his brother, and severely censures him for a small crime, when he indulges in himself a far more abominable sin.",
             "cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother's eye: the sense is, that a man should first reform himself, and then others."
         ]
     },
@@ -53,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When Jesus speaks about hypocrisy in Luke 6:42, he unveils the pretense of fraternal duty that some may have, being blind to their own faults while being quick to point out the faults of others. He urges them to first remove the beam from their own eye before attempting to remove the speck from their brother's eye. This powerful imagery exposes the self-complacence and incompetence of those who fail to see their own sins while condemning others. This verse is a reminder to examine ourselves critically and honestly, allowing us to address our own faults before reproving others.",
-            "wordCount": 99,
-            "quoteTokenProportion": 45.59,
-            "qualityScore": 1.431561433601645,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.94,
+            "bht": "It is important to examine ourselves before passing judgment on others. Jesus warns us about being hypocritical in our actions by pretending to have fraternal duty while criticizing our brothers. We must first remove the beam from our own eye before attempting to help our brother with the mote in theirs. This powerful picture of blind self-complacence and incompetence serves as a reminder to approach others with humility, acknowledging our own faults and seeking personal growth before offering guidance to others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.320709938331863,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.26,
             "commentatorTierSimilarities": [
-                24.46,
-                29.84,
-                45.7
+                26.49,
+                29.97,
+                43.55
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus warns against the hypocrisy of those who claim to be brothers to one another yet fail to see their own faults. He emphasizes the need to remove the beam from one's own eye before attempting to remove the speck from another's eye. This vivid illustration exposes the danger of self-complacency and incompetence. The key lesson here is the importance of self-reflection and personal growth before criticizing and reproving others.",
-            "wordCount": 74,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.1558280457286718,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.77,
+            "bht": "Before judging others, we must first examine ourselves. Jesus warns against hypocrisy, urging us to remove the beam from our own eye before helping our brother with a mote in theirs. This cautionary tale emphasizes the importance of self-reflection and personal growth. By acknowledging our own faults and striving for improvement first, we can approach others with humility and offer guidance from a place of authenticity and understanding.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.1310030776222268,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.95,
             "commentatorTierSimilarities": [
-                26.6,
-                28.53,
-                44.87
+                24.41,
+                34.38,
+                41.21
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus exposes the hypocrisy of those who claim to be brothers, yet fail to see their own faults. He warns against the danger of self-complacency and incompetence, urging them to first remove the beam from their own eye before attempting to remove the speck from another's eye. This powerful imagery serves as a reminder to practice self-reflection and personal growth before reproving others. Ultimately, Jesus emphasizes the importance of genuine self-awareness and humility in our interactions with others.",
-            "wordCount": 82,
-            "quoteTokenProportion": 41.67,
-            "qualityScore": 1.1670736580880612,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.15,
+            "bht": "Jesus' teaching in Luke 6:42 highlights the danger of hypocrisy in our interactions with others. We need to be aware of our own faults before pointing out the flaws in someone else's life. The imagery of a beam and a mote vividly illustrates this point - we must first remove the beam from our own eye before helping our brother with the mote in theirs. By practicing self-reflection and personal growth, we can approach others with humility and offer genuine guidance without hypocrisy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.3206945040604365,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.26,
             "commentatorTierSimilarities": [
-                23.75,
-                30.83,
-                45.41
+                25.45,
+                37.0,
+                37.55
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus exposes the hypocrisy of those claiming fraternal duty while being blind to their own faults. He urges them to remove the beam from their own eye before addressing the speck in their brother's eye. This vivid image reveals the danger of self-complacency and incompetence. The key lesson is the importance of self-reflection and personal growth before reproving others. Emphasizing genuine self-awareness and humility, Jesus encourages us to prioritize inward transformation when interacting with others.",
-            "wordCount": 79,
-            "quoteTokenProportion": 33.9,
-            "qualityScore": 1.098839840685184,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.88,
+            "bht": "When we interact with others, it is crucial to avoid hypocrisy by acknowledging our own faults before criticizing them. Jesus uses the metaphor of a beam and a mote to stress the importance of self-reflection. We must address the beam in our own eye before attempting to help someone with the mote in theirs. This teaching urges us to approach others with humility and authenticity, recognizing our own imperfections and seeking personal growth as a foundation for offering genuine guidance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.205220449656044,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.42,
             "commentatorTierSimilarities": [
-                25.47,
-                29.46,
-                45.07
+                21.75,
+                38.86,
+                39.39
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus reveals the danger of hypocritical behavior in claiming fraternal duty while being blind to one's own faults. He admonishes to remove the beam from one's own eye before addressing the brother's speck. This powerful image exposes the self-complacency and incompetence in criticizing others while ignoring personal growth. The key lesson is the importance of self-reflection and genuine self-awareness. Jesus encourages a transformative approach, urging individuals to focus on personal improvement before reproving others.",
-            "wordCount": 80,
-            "quoteTokenProportion": 28.81,
-            "qualityScore": 1.081521257095782,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.3,
+            "bht": "To truly help others, we must first examine ourselves and address our own flaws. Jesus teaches us about the danger of hypocrisy, emphasizing the importance of self-reflection. The imagery of a beam and a mote illustrates this concept, reminding us to remove the beam from our own eye before attempting to assist others with their smaller faults. By practicing humility and personal growth, we can approach others with genuine understanding and guidance, free from the pretense of hypocrisy.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.1957682552610132,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.1,
             "commentatorTierSimilarities": [
-                25.98,
-                29.59,
-                44.43
+                27.6,
+                34.48,
+                37.92
             ],
             "generationAttempt": 5
         }

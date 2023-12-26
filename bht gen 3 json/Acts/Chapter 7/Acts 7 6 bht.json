@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:27:13",
+    "timestamp": "12-25-2023 20:34:09",
     "verseRef": "Acts 7:6",
     "bestBHT": {
-        "bht": "For four hundred years, Abraham's descendants would sojourn as strangers and foreigners in a land not their own, facing bondage and oppression. This period marked a time of promise rather than possession, reminding us that even the friends of God may be without tenure on the land. We should not be discouraged by the challenges we face, knowing that the Church of God often endures oppression and is trodden underfoot.",
-        "wordCount": 71,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 1.3273968962805542,
-        "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+        "bht": "Stephen's mention of Abraham's descendants being sojourners in a foreign land for four hundred years emphasizes their temporary residence without full rights of citizenship. Paul, in Galatians 3:17, includes the entire period from the calling of Abraham to the departure from Egypt in the 430 years. This serves as a poignant reminder of the mistaken value placed on the land which their ancestors did not own, highlighting the hardships and bondage they endured during their sojourn in Egypt.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.525127598495547,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.05,
         "commentatorTierSimilarities": [
-            18.29,
-            42.26,
-            39.44
+            25.88,
+            43.92,
+            30.2
         ],
         "generationAttempt": 3
     },
@@ -21,28 +21,29 @@
             "\tGenesis 15:16 (see on Genesis 15:16- :)."
         ],
         "Albert Barnes": [
-            "Should sojourn - This means that they would have a 'temporary residence there.' The word is used in opposition to a fixed, permanent home, and is applied to travelers, or foreigners.",
-            "All this period was properly the period of 'promise,' not of 'possession.' In this respect the wanderings of Abraham and the oppressions of Egypt came under the same general description.",
-            "It should be added, that difficulties of chronology are more likely to occur than any others; and it should not be deemed strange if there are perplexities of this kind found in ancient writings which we cannot explain. It is so in all ancient records; and all that is usually expected in relation to such difficulties is that we should be able to present a 'probable' explanation."
+            "This means that they would have a 'temporary residence there.' The word is used in opposition to a fixed, permanent home, and is applied to travelers, or foreigners.",
+            "From the account which Moses has given of the lives of certain persons, it would seem clear that the time which they spent in 'Egypt' was not 400 years.",
+            "The only satisfactory way is by supposing that the 430 years includes the whole time from the calling of Abraham to the departure from Egypt."
         ],
         "John Calvin": [
+            "This history ought to have been of great force, partly to tame their lofty courages, and to teach them modesty.",
             "Bondage is of itself hard and bitter; but when cruelty of masters is added thereunto, it seemeth to be intolerable.",
-            "Let us know that this was done, (not once only,) for God dealeth oftentimes with us thus, so that he may seem contrary to himself.",
-            "We must not be discouraged if the like condition be prepared for us at this day. For it is no new thing, neither any unwonted thing, for the Church of God to lie oppressed under tyranny, and to be, as it were, trodden under foot of the wicked."
+            "Therefore, it is our duty to go forward, and to strive to attain unto that salvation which is set before us through many straits, through divers lets, through long distance, through the midst of deeps, and, finally, through death itself."
         ],
         "Philip Schaff": [
-            "Stephen here quotes the passage to which he had been previously alluding, with a very slight variation, from the LXX.\" ",
-            "It was a touching reminder to his hearers, how mistaken they were to set so superstitious a value on ground of which their great ancestors the friends and specially-protected ones of God had no tenure."
+            "Stephen here quotes the passage to which he had been previously alluding, with a very slight variation...",
+            "[The passage] containing the promise, and also an intimation that its fulfilment must not be expected for a long period of years.",
+            "It was a touching reminder to his hearers, how mistaken they were to set so superstitious a value on ground of which their great ancestors... had no tenure."
         ],
         "Archibald T. Robertson": [
-            "A stranger, foreigner, old word, often in LXX, temporary residence without full rights of citizenship.",
-            "One dwelling near one's home, but not of it, so a stranger, foreigner.",
-            "In a land not one's own, that belongs to another, alien."
+            "Shall be a sojourner, \u03a0\u03b1\u03c1\u03bf\u03b9\u03ba\u03bf\u03c2 (\u03c0\u03b1\u03c1\u03b1, beside, \u03bf\u03b9\u03ba\u03bf\u03c2, home), one dwelling near one's home, but not of it, so a stranger, foreigner.",
+            "Temporary residence without full rights of citizenship.",
+            "The time is 430 years. But in Galatians 3:17 Paul, following the LXX in Exodus 12:40, takes the 430 years to cover the period in Canaan and the stay in Egypt, cutting the sojourn in Egypt to about half."
         ],
         "John Gill": [
             "That his seed should sojourn in a strange land; or 'be a stranger in a land not theirs'; first in the land of Canaan, and then in Egypt, which were possessed by other persons, the natives of them.",
             "And that they should bring them into bondage; that is, the inhabitants of the lands, and particularly Egypt, should bring the seed of Abraham into bondage, as they did; and very hard bondage it was, at least some part of it.",
-            "The sojourning and evil entreating of Abraham's seed are not to be confined to the land of Egypt, but belong to other lands, where they were within this time, though that land is more especially intended."
+            "For the sojourning and evil entreating of Abraham's seed are not to be confined to the land of Egypt, but belong to other lands, where they were within this time, though that land is more especially intended."
         ],
         "John Wesley": [
             "Genesis 15:13."
@@ -65,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "For four hundred years, Abraham's descendants would dwell as strangers and foreigners in a land that did not belong to them. This period was one of promise, not possession, characterized by temporary residence and oppression. The reference to the sojourn in Egypt was a poignant reminder that their esteemed ancestors, who were dear friends of God, had no secure claim on the land. Bondage in itself is bitter, but when cruelty is added, it becomes unbearable. Yet, we should not be disheartened by such conditions, for it is not uncommon for the Church of God to be oppressed and trodden underfoot. We must remember that God often allows us to face similar trials, even when it seems contrary to His nature.",
-            "wordCount": 122,
-            "quoteTokenProportion": 47.19,
-            "qualityScore": 1.2957311565919933,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.43,
+            "bht": "In Acts 7:6, it is mentioned that Abraham's descendants would be sojourners in a foreign land for four hundred years. This means that they would have a temporary residence there, not fully belonging to that land. The time of four hundred years is a rounded number, as seen in Genesis 15:13. It is important to note that the 430 years mentioned by Paul in Galatians 3:17 includes both the period in Canaan and the stay in Egypt. This passage serves as a reminder to the listeners of how mistaken they were in valuing the land of their ancestors so highly when their ancestors had no rightful ownership of it.",
+            "wordCount": 106,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.5265895679852246,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
             "commentatorTierSimilarities": [
-                20.26,
-                41.09,
-                38.65
+                28.38,
+                40.54,
+                31.08
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "For four hundred years, Abraham's descendants would dwell as strangers and foreigners in a land that did not belong to them. This period was one of promise, not possession, characterized by temporary residence and oppression. The reference to the sojourn in Egypt was a poignant reminder that their esteemed ancestors, who were dear friends of God, had no secure claim on the land. We should not be disheartened by such conditions, for it is not uncommon for the Church of God to be oppressed.",
-            "wordCount": 85,
-            "quoteTokenProportion": 48.44,
-            "qualityScore": 1.4022529210952195,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+            "bht": "Stephen reminds the listeners how their ancestors were strangers in a foreign land for four hundred years. The term sojourner implies a temporary residence without full rights of citizenship, dwelling near one's home but not of it. The 430 years mentioned by Paul in Galatians 3:17 encompass the time in Canaan and the stay in Egypt, with a shorter period of sojourn in Egypt. This serves as a poignant reminder of how mistaken the listeners were to place such value on the land which their ancestors did not own.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4358340361439577,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.08,
             "commentatorTierSimilarities": [
-                24.4,
-                42.2,
-                33.41
+                28.7,
+                45.53,
+                25.77
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "For four hundred years, Abraham's descendants would sojourn as strangers and foreigners in a land not their own, facing bondage and oppression. This period marked a time of promise rather than possession, reminding us that even the friends of God may be without tenure on the land. We should not be discouraged by the challenges we face, knowing that the Church of God often endures oppression and is trodden underfoot.",
-            "wordCount": 71,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.3273968962805542,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+            "bht": "Stephen's mention of Abraham's descendants being sojourners in a foreign land for four hundred years emphasizes their temporary residence without full rights of citizenship. Paul, in Galatians 3:17, includes the entire period from the calling of Abraham to the departure from Egypt in the 430 years. This serves as a poignant reminder of the mistaken value placed on the land which their ancestors did not own, highlighting the hardships and bondage they endured during their sojourn in Egypt.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.525127598495547,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
             "commentatorTierSimilarities": [
-                18.29,
-                42.26,
-                39.44
+                25.88,
+                43.92,
+                30.2
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "For four hundred years, Abraham's descendants were strangers and foreigners, dwelling in lands that did not belong to them. Theirs was a temporary residence without full rights of citizenship. This period was a time of promise, not possession, as they experienced the wanderings of Abraham and the oppressions of Egypt. The quotation Stephen references from the LXX serves as a poignant reminder to his listeners that their superstitious attachment to the land was misplaced, for their ancestors had no true claim to it. Just as Abraham's seed sojourned in a strange land and endured bondage, we must not be discouraged if we find ourselves oppressed and trodden underfoot. It is not surprising that God deals with us in this way, for it has been the experience of the Church throughout history.",
-            "wordCount": 133,
-            "quoteTokenProportion": 41.3,
-            "qualityScore": 1.3811170607061984,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+            "bht": "Stephen's reference to Abraham's descendants sojourning in a foreign land for four hundred years is a reminder of their temporary residence without full rights of citizenship. Galatians 3:17 supports this, including the period in Canaan and the stay in Egypt within the 430 years. The mention of their hardship and bondage in Egypt underlines the mistaken value placed on the land by their ancestors who had no rightful ownership. This history should humble them and teach modesty, urging them to strive for the salvation set before them despite the trials they may face.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.4384140605964795,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.17,
             "commentatorTierSimilarities": [
-                22.4,
-                41.87,
-                35.73
+                24.14,
+                41.4,
+                34.47
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "For four hundred years, Abraham's descendants sojourned as strangers and foreigners in lands that did not belong to them. This time was a period of promise, not possession, where they experienced the wanderings of Abraham and the oppressions of Egypt. It reminded Stephen's listeners that their attachment to the land was misguided since their ancestors had no true claim to it. Just as they endured bondage, we should not be discouraged if we face oppression and find ourselves trodden underfoot. Such experiences have been an integral part of the Church's history.",
-            "wordCount": 94,
-            "quoteTokenProportion": 47.22,
-            "qualityScore": 1.2607208836422243,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.26,
+            "bht": "Stephen's reminder in Acts 7:6 of Abraham's descendants being sojourners in a foreign land for four hundred years highlights their temporary residence without full rights of citizenship. Galatians 3:17 shows this span includes both the time in Canaan and the stay in Egypt. This serves as a poignant reminder to the listeners about the mistaken value placed on the land, considering their ancestors had no rightful ownership. It should humble them, teaching modesty, and encourage them to strive for the salvation set before them, despite the trials they might face.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.3379320874269272,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
             "commentatorTierSimilarities": [
-                20.05,
-                42.36,
-                37.59
+                22.53,
+                43.64,
+                33.82
             ],
             "generationAttempt": 5
         }

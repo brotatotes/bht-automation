@@ -1,17 +1,17 @@
 # Matthew 15:8 Commentary Help Text
 
 ## BHT:
-In this portion of Isaiah, the religious leaders are rebuked for prioritizing man-made traditions over the true worship of God. Their external acts of piety lack genuine devotion and love for Him. By equating their own commandments with God's, they render their worship meaningless. This exposes the shallow nature of their rituals and reveals their lack of true faith. It serves as a reminder that authentic worship requires a heart that is close to God, not just outward displays of devotion.
+The quote from Isaiah warns about the punishment of nominal Israel and the salvation of the true Israel of God. It asserts the perpetual relevance of God's threats and promises in the Church. The religious leaders' worship was vain because they elevated the commandments of men to the level of divine requirements, contradicting the observance of God's commandments. This exposes their superficial and self-serving nature, highlighting the need for sincere devotion and a heart that is close to God in worship.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The portion of Isaiah from which this citation is made (ch, xxiv.—xxxv.) sets forth, in alternate threatenings and promises, the punishment of the mere nominal Israel, and the salvation of the true Israel of God."
-2. "Its threats and promises are for all times of the Church;—the particular event then foretold being but one fulfilment of those deeper and more general declarations of God."
-3. "Shall be ever having their successive illustrations in His dealings with men."
+2. "Its threats and promises are for all times of the Church."
+3. "The particular event then foretold being but one fulfilment of those deeper and more general declarations of God, which shall be ever having their successive illustrations in His dealings with men."
 
 ### Jamieson-Fausset-Brown:
 1. "By putting the commandments of men on a level with the divine requirements, their whole worship was rendered vain—a principle of deep moment in the service of God."
-2. "The drivelling nature of their multitudinous observances is here pointedly exposed, in contrast with the manly observance of 'the commandment of God'."
+2. "The drivelling nature of their multitudinous observances is here pointedly exposed, in contrast with the manly observance of 'the commandment of God.'"
 3. "It is implied that He had but given a specimen of the hideous treatment which the divine law received, and the grasping disposition which, under the mask of piety, was manifested by the ecclesiastics of that day."
 
 ### Marvin Vincent:
@@ -19,14 +19,14 @@ In this portion of Isaiah, the religious leaders are rebuked for prioritizing ma
 
 
 ### Philip Schaff:
-1. "Their heart is far from me." 
-2. "Applicable first to the contemporaries of Isaiah, but descriptive of the unbelieving Jews in all ages."
-3. "Peculiarly 'apt' at that time."
+1. "This people, etc. The briefer form is now the established reading. Early copyists inserted the full form."
+2. "Their heart is far from me. In the Hebrew: ‘Their heart they have removed far from me.’"
+3. "Applicable first to the contemporaries of Isaiah, but descriptive of the unbelieving Jews in all ages, and, as our Lord declares, peculiarly ‘apt ‘at that time."
 
 ### John Gill:
 1. "They approached the ordinances of God, and drew nigh to him, and attended him in outward worship; they prayed unto him publicly, and constantly, in the streets, in the synagogues, and temple, and with much seeming devotion and sanctity."
-2. "But their heart is far from me; they had no true love to God, nor faith in him, nor fear of him; they were not at all concerned for his presence with them, or for communion with him, or for his honour and glory."
-3. "They made religion a tool to their secular purposes, supposing gain to be godliness; sought the applause of men, and contented themselves with bodily exercise; having no regard to internal religion, powerful godliness."
+2. "They owned him to be their creator and preserver; they made their boast of him, and of their knowledge of him, as the one only living, and true God, and as the God of Israel; they brought their sacrifices of praise and thanksgiving, even the fruit of their lips, unto him, for their many peculiar mercies, privileges, and favours, as a nation, church, and people, and with much seeming sincerity and affection."
+3. "They had no true love to God, nor faith in him, nor fear of him; they were not at all concerned for his presence with them, or for communion with him, or for his honour and glory; their hearts were in the world, and after their covetousness."
 
 ### John Wesley:
 1. Their heart is far from me — And without this all outward worship is mere mockery of God. Isaiah 29:13.
@@ -35,46 +35,41 @@ In this portion of Isaiah, the religious leaders are rebuked for prioritizing ma
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:48:30
+- Timestamp: 12-25-2023 20:31:55
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 38.33%
-- BHT Quality Score: 1.4458839917988535
+- BHT Word Count: 84
+- BHT Commentary Usage: 30.36%
+- BHT Quality Score: 1.5134666325888408
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'acts', 'and', 'are', 'as', 'authentic', 'by', 'close', 'commandments', 'devotion', 'displays', 'equating', 'exposes', 'external', 'faith', 'for', 'genuine', 'god', 'heart', 'him', 'in', 'is', 'isaiah', 'it', 'just', 'lack', 'leaders', 'love', 'made', 'man', 'meaningless', 'nature', 'not', 'of', 'outward', 'over', 'own', 'piety', 'portion', 'prioritizing', 'rebuked', 'religious', 'reminder', 'render', 'requires', 'reveals', 'rituals', 's', 'serves', 'shallow', 'that', 'the', 'their', 'they', 'this', 'to', 'traditions', 'true', 'with', 'worship']
-- ChatGPT injected words (significant words only) (37):
-	['acts', 'authentic', 'close', 'commandments', 'devotion', 'displays', 'equating', 'exposes', 'external', 'faith', 'genuine', 'god', 'heart', 'isaiah', 'lack', 'leaders', 'love', 'man', 'meaningless', 'nature', 'outward', 'piety', 'portion', 'prioritizing', 'rebuked', 'religious', 'reminder', 'render', 'requires', 'reveals', 'rituals', 's', 'serves', 'shallow', 'traditions', 'true', 'worship']
+- ChatGPT injected words (56):
+	['a', 'about', 'and', 'asserts', 'because', 'church', 'close', 'commandments', 'contradicting', 'devotion', 'divine', 'elevated', 'exposes', 'for', 'from', 'god', 'heart', 'highlighting', 'in', 'is', 'isaiah', 'israel', 'it', 'leaders', 'level', 'men', 'nature', 'need', 'nominal', 'observance', 'of', 'perpetual', 'promises', 'punishment', 'quote', 'relevance', 'religious', 'requirements', 's', 'salvation', 'self', 'serving', 'sincere', 'superficial', 'that', 'the', 'their', 'they', 'this', 'threats', 'to', 'true', 'vain', 'warns', 'was', 'worship']
+- ChatGPT injected words (significant words only) (39):
+	['asserts', 'church', 'close', 'commandments', 'contradicting', 'devotion', 'divine', 'elevated', 'exposes', 'god', 'heart', 'highlighting', 'isaiah', 'israel', 'leaders', 'level', 'men', 'nature', 'need', 'nominal', 'observance', 'perpetual', 'promises', 'punishment', 'quote', 'relevance', 'religious', 'requirements', 's', 'salvation', 'self', 'serving', 'sincere', 'superficial', 'threats', 'true', 'vain', 'warns', 'worship']
 
 ### Logs
-- Attempt 1 BHT: In Matthew 15:8, Jesus quotes from Isaiah to confront the religious leaders who prioritize man-made traditions over the true worship of God. The passage from Isaiah speaks not only to the immediate context of Jesus' time but also to the timeless nature of the Church. It exposes the shallow nature of their rituals and the insincerity of their worship, which lacks love, faith, and genuine devotion to God. Their external displays of piety are empty when their hearts are far from Him. This serves as a reminder that true worship requires an intimate relationship with God, rather than mere adherence to outward rituals.
-- 🔄 Matthew 15:8 (attempt 1, 103 words, 39.44% quotes quality score: 1.4569706711429213, V2 normalized quality score: 39.79, commentator tiers 1-3: 22.65%, 20.96%, 56.39%) 
+- Attempt 1 BHT: The passage in Matthew 15:8 cites the portion of Isaiah that speaks of the punishment of nominal Israel and the salvation of the true Israel of God. It conveys the threats and promises that are applicable to all times of the Church. By equating the commandments of men with God's requirements, the religious leaders rendered their worship empty and revealed the superficiality of their countless observances. This exemplified their disregard for the divine law and their self-seeking nature. It is clear that true worship requires a heart that is close to God and not solely focused on outward rituals. Isaiah aptly describes this when he says, Their heart they have removed far from me.
+- 🔄 Matthew 15:8 (attempt 1, 115 words, 32.89% quotes quality score: 1.5470921892259957, V2 normalized quality score: 42.78, commentator tiers 1-3: 27.44%, 25.89%, 46.67%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: The portion of Isaiah quoted in Matthew 15:8 exposes the shallow nature of the religious leaders' rituals and the insincerity of their worship. By putting man-made traditions on the same level as God's commandments, their worship becomes empty and meaningless. Their outward displays of piety do not reflect a genuine love, faith, or fear of God. True worship requires a heart that is close to God, not just outward acts of devotion. This verse serves as a reminder to prioritize an authentic and intimate relationship with God over religious rituals.
-- 🔄 Matthew 15:8 (attempt 2, 91 words, 36.92% quotes quality score: 1.5073316408766488, V2 normalized quality score: 41.46, commentator tiers 1-3: 25.19%, 15.89%, 58.92%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The religious leaders in this passage render their worship vain by elevating man-made traditions to the same level as God's commandments. Their multitude of observances is exposed as shallow and devoid of true devotion to God. Their external acts of piety lack genuine love, faith, and fear of Him. The heart behind their worship is far from God, highlighting the necessity of cultivating a sincere and intimate relationship with Him. This serves as a crucial reminder that true worship goes beyond outward rituals and requires a genuine connection with the Lord.
-- 🔄 Matthew 15:8 (attempt 3, 93 words, 29.69% quotes quality score: 1.4726321847456454, V2 normalized quality score: 40.31, commentator tiers 1-3: 25.72%, 14.17%, 60.11%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: In this portion of Isaiah, the religious leaders are rebuked for prioritizing man-made traditions over the true worship of God. Their external acts of piety lack genuine devotion and love for Him. By equating their own commandments with God's, they render their worship meaningless. This exposes the shallow nature of their rituals and reveals their lack of true faith. It serves as a reminder that authentic worship requires a heart that is close to God, not just outward displays of devotion.
-- 🔄 Matthew 15:8 (attempt 4, 83 words, 38.33% quotes quality score: 1.4458839917988535, V2 normalized quality score: 39.42, commentator tiers 1-3: 24.0%, 15.48%, 60.51%) 
+- Attempt 2 BHT: The citation from Isaiah highlights the punishment of nominal Israel and the salvation of the true Israel of God. It emphasizes that God's threats and promises are relevant throughout the history of the Church. By regarding the commandments of men as equal to God's requirements, the religious leaders rendered their worship worthless, exposing their shallow observances. This reveals their lack of love, faith, and fear for God, as their hearts were fixated on the world and their own desires. True worship demands a heart that is sincerely close to God.
+- 🔄 Matthew 15:8 (attempt 2, 92 words, 32.79% quotes quality score: 1.4875064310110344, V2 normalized quality score: 40.8, commentator tiers 1-3: 28.79%, 19.75%, 51.46%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The religious leaders in Matthew 15:8 are rebuked for prioritizing man-made traditions over the true worship of God. Their multitude of observances is exposed as shallow and devoid of genuine devotion. By elevating their own commandments to the same level as God's, their worship becomes empty and meaningless. This passage serves as a reminder that true worship requires a heart that is close to God, rather than mere adherence to outward rituals. It emphasizes the importance of an intimate and sincere relationship with Him.
-- 🔄 Matthew 15:8 (attempt 5, 85 words, 41.27% quotes quality score: 1.3645903924092235, V2 normalized quality score: 36.72, commentator tiers 1-3: 27.63%, 14.27%, 58.11%) 
+- Attempt 3 BHT: The quote from Isaiah warns about the punishment of nominal Israel and the salvation of the true Israel of God. It asserts the perpetual relevance of God's threats and promises in the Church. The religious leaders' worship was vain because they elevated the commandments of men to the level of divine requirements, contradicting the observance of God's commandments. This exposes their superficial and self-serving nature, highlighting the need for sincere devotion and a heart that is close to God in worship.
+- 🔄 Matthew 15:8 (attempt 3, 84 words, 30.36% quotes quality score: 1.5134666325888408, V2 normalized quality score: 41.67, commentator tiers 1-3: 30.65%, 20.15%, 49.2%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Matthew 15:8 bht prompt v0.8 (83 words, 38.33% quotes)
-- quality score: 1.4458839917988535, V2 normalized quality score: 39.42, commentator tiers 1-3: 24.0%, 15.48%, 60.51%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The citation from Isaiah reveals the punishment of nominal Israel alongside the salvation of the true Israel of God. It emphasizes the perpetual application of God's threats and promises in the Church. The religious leaders' worship was rendered futile as they elevated the commandments of men, exposing the emptiness of their numerous observances. Their lack of genuine love, faith, and fear for God meant their hearts were far from Him, highlighting the importance of heartfelt devotion and a close relationship with God in true worship.
+- 🔄 Matthew 15:8 (attempt 4, 86 words, 25.86% quotes quality score: 1.5091055670103202, V2 normalized quality score: 41.52, commentator tiers 1-3: 30.06%, 20.33%, 49.6%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The citation from Isaiah warns about the punishment of nominal Israel and the salvation of the true Israel of God. It highlights the enduring relevance of God's threats and promises in the Church. The religious leaders' worship was in vain as they placed the commandments of men on par with divine requirements, exposing their shallow adherence to countless observances. This highlights the need for sincere worship, where the heart is close to God, rather than being consumed by worldly desires.
+- 🔄 Matthew 15:8 (attempt 5, 81 words, 36.67% quotes quality score: 1.507392749787379, V2 normalized quality score: 41.46, commentator tiers 1-3: 31.49%, 21.46%, 47.05%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 15:8 bht prompt v0.8 (84 words, 30.36% quotes)
+- quality score: 1.5134666325888408, V2 normalized quality score: 41.67, commentator tiers 1-3: 30.65%, 20.15%, 49.2%)

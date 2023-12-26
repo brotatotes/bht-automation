@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-21-2023 03:09:34",
+    "timestamp": "12-25-2023 20:33:54",
     "verseRef": "John 10:20",
     "bestBHT": {
-        "bht": "When faced with Jesus' teachings, some resorted to accusing him of having a demon and being mad. This was a deliberate attempt to discredit him and deter others from listening. These offensive slanders were meant to provoke contempt and incite rage against Jesus. However, the power of Christ's doctrine remained steadfast, impervious to slander. The notion that Jesus was a lunatic was a common assumption, yet only those who were closed-minded and unwilling to listen would take these claims seriously.",
-        "wordCount": 82,
-        "quoteTokenProportion": 39.68,
-        "qualityScore": 1.2958006985118815,
-        "qualityScoreNormalizedComparedToV2BHTs": 34.43,
+        "bht": "Some dismissed Jesus by accusing him of being possessed by a demon and being mad, an easy way to discredit him. This offensive reproach aimed to deter others from listening to him, as seen in Mark 3:21. However, Jesus' teaching possessed an inherent power that could withstand such slanders. Even though the Jews believed madness was caused by the devil, those who truly listened to Jesus recognized that his words were not the ravings of a deranged man. Wise individuals would not give heed to such blasphemous accusations.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.3118405778518132,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.96,
         "commentatorTierSimilarities": [
-            32.41,
-            28.99,
-            38.6
+            30.68,
+            30.15,
+            39.17
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Albert Barnes": [
@@ -25,13 +25,14 @@
             "But the doctrine of Christ has sufficient power in itself to defend it against slanders."
         ],
         "Archibald T. Robertson": [
-            "He has a demon and is mad.\" ",
-            "An easy way of discounting Jesus."
+            "He has a demon and is mad.",
+            "An easy way of discounting Jesus.",
+            "So long before in Mark 3:21."
         ],
         "John Gill": [
-            "It was a notion of the Jews, that madness or distraction was from the devil...",
-            "...he is a lunatic, he is distracted, he is a madman; how can you bear to hear such ranting blasphemous stuff...",
-            "...no sober man will ever heed to them."
+            "It was a notion of the Jews, that madness or distraction was from the devil.",
+            "How can you bear to hear such ranting blasphemous stuff, which no man in his senses would ever utter?",
+            "Surely no sober man will ever heed to them."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -51,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some people dismissed Jesus by saying, He has a demon and is mad, attempting to discredit him. Their intention was to slander him and discourage others from listening to him. This offensive reproach was meant to provoke anger and contempt towards Jesus. However, the power of Christ's teachings speaks for itself and is unaffected by such accusations. The claim that Jesus was a lunatic or madman was a common idea among the Jews, but these theologies were not to be taken seriously. Only those who were closed-minded and unwilling to listen to the truth would lend their ear to these empty insults.",
+            "bht": "Some people dismissed Jesus by accusing him of being possessed by a demon and being mad. It was an easy way for them to discredit him, just as they had done before in Mark 3:21. This offensive reproach was meant to deter others from listening to Jesus. However, the power of Jesus' teaching could not be undermined by these slanders. The Jews believed that madness or insanity was caused by the devil, but to truly listen to Jesus' words was to recognize that they were not the ravings of a deranged man. Those who were sober-minded would not lend ear to such blasphemous accusations.",
             "wordCount": 104,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 1.283260905239321,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.01,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 1.2824952146180297,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.99,
             "commentatorTierSimilarities": [
-                31.81,
-                29.25,
-                38.94
+                32.08,
+                30.6,
+                37.33
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When some people sought to diminish Jesus, they resorted to demeaning him, claiming, He has a demon and is mad. This was a deliberate attempt to undermine his teachings and discourage others from following him. However, Jesus' message was powerful enough to withstand such slander. The accusers tried to label Jesus as a lunatic or deranged, but their words were mere blasphemy and should not be taken seriously. Only those who refused to listen and were closed-minded would give heed to these baseless insults.",
-            "wordCount": 85,
-            "quoteTokenProportion": 47.83,
-            "qualityScore": 1.2419831238652013,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.64,
+            "bht": "Some labeled Jesus as mad and possessed by a demon, an attempt to undermine his credibility. This tactic had been used before in Mark 3:21. These offensive slanders were intended to discourage others from listening to him. However, the power of Jesus' teachings could not be negated by these accusations. While the Jews believed madness was caused by the devil, those who truly listened recognized that Jesus' words were not the ramblings of a deranged man. Those who were rational would not pay attention to such blasphemous remarks.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.2453329205593497,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.75,
             "commentatorTierSimilarities": [
-                32.27,
-                28.54,
-                39.19
+                32.4,
+                32.34,
+                35.26
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When Jesus was met with opposition, some tried to discredit him by claiming, He has a demon and is mad. This was a deliberate strategy to brush off his teachings and dissuade others from following him. Such slanderous remarks sought to provoke contempt and rage. However, these accusations were unfounded and came from closed-minded individuals unwilling to acknowledge the truth. Jesus' teachings, despite the offensive reproach, stood firm and were unaffected by these insults.",
-            "wordCount": 75,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.084903913991479,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.42,
+            "bht": "Some dismissed Jesus by accusing him of being possessed by a demon and being mad, an easy way to discredit him. This offensive reproach aimed to deter others from listening to him, as seen in Mark 3:21. However, Jesus' teaching possessed an inherent power that could withstand such slanders. Even though the Jews believed madness was caused by the devil, those who truly listened to Jesus recognized that his words were not the ravings of a deranged man. Wise individuals would not give heed to such blasphemous accusations.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.3118405778518132,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.96,
             "commentatorTierSimilarities": [
-                32.86,
-                27.93,
-                39.21
+                30.68,
+                30.15,
+                39.17
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In their attempt to diminish Jesus, some resorted to accusing him of having a demon and being mad. This was a deliberate strategy to discredit him and discourage others from heeding his message. These offensive slanders were meant to incite contempt and ignite a furious rejection of Christ. However, the power and truth of Jesus' teachings were unshakable, rendering these accusations futile. Only the closed-minded would give ear to such blasphemous ranting, while the sober-minded could discern the truth.",
-            "wordCount": 81,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.2110336684199863,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.61,
+            "bht": "There were those who disregarded Jesus by accusing him of having a demon and being mad, a petty attempt to diminish his credibility. This disparaging reproach, reminiscent of a similar incident in Mark 3:21, sought to dissuade people from listening to him. However, Jesus' teachings held an intrinsic power that could not be undermined by such slander. Although the Jews associated madness with the devil, those who truly listened to Jesus could discern that his words were not the nonsensical ramblings of a disturbed individual. Minded individuals would not lend credence to such derogatory remarks.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.170875440145638,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.28,
             "commentatorTierSimilarities": [
-                32.18,
-                26.53,
-                41.29
+                25.91,
+                31.93,
+                42.16
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When faced with Jesus' teachings, some resorted to accusing him of having a demon and being mad. This was a deliberate attempt to discredit him and deter others from listening. These offensive slanders were meant to provoke contempt and incite rage against Jesus. However, the power of Christ's doctrine remained steadfast, impervious to slander. The notion that Jesus was a lunatic was a common assumption, yet only those who were closed-minded and unwilling to listen would take these claims seriously.",
-            "wordCount": 82,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.2958006985118815,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.43,
+            "bht": "Some regarded Jesus as mad and under the influence of a demon, a tactic commonly employed to undermine his authority. This derogatory accusation was a means to dissuade others from listening to him, as seen in Mark 3:21. However, Jesus' teachings possessed an inherent power that could not be nullified by such slanders. Although madness was associated with the devil by the Jews, those who truly discerned Jesus' words recognized that they were not the incoherent ravings of a disturbed person. Sensible individuals would dismiss these blasphemous allegations.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.266210433049365,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.44,
             "commentatorTierSimilarities": [
-                32.41,
-                28.99,
-                38.6
+                28.65,
+                32.2,
+                39.15
             ],
             "generationAttempt": 5
         }

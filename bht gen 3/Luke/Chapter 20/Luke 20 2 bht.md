@@ -1,7 +1,7 @@
 # Luke 20:2 Commentary Help Text
 
 ## BHT:
-The religious leaders approached Jesus and asked Him explicitly about His authority, particularly in regards to the clearing of the temple. Luke adds these words to what Mark and Matthew have written, which helps to bring clarity to their request. The Greek manuscripts have no punctuation, but it is evident that the question pertains to the authority behind Jesus' actions. The religious leaders, perhaps feeling threatened by the impact of Jesus' actions on the buyers and sellers in the temple, were determined to ascertain whether His authority came from God or man.
+The religious leaders confront Jesus, demanding, Tell us by what authority do you do these things? Luke adds these words to what Mark and Matthew have, emphasizing their curiosity about Jesus' actions, particularly his clearing of the temple. Their question encompasses not only Jesus' preaching and working of miracles, but also his authority to challenge the established order. The Greek manuscripts have no punctuation, leaving room for interpretation of whether they were questioning if God or man granted Jesus this authority.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -13,52 +13,52 @@ The religious leaders approached Jesus and asked Him explicitly about His author
 
 
 ### Archibald T. Robertson:
-1. "Tell us." 
-2. "Luke adds these words to what Mark and Matthew have." 
-3. "The Greek manuscripts have no punctuation."
+1. "Tell us."  (Commentary quote 1)
+2. "Luke adds these words to what Mark and Matthew have."  (Commentary quote 2)
+3. "The Greek manuscripts have no punctuation."  (Commentary quote 3)
 
 ### John Gill:
-1. "Tell us by what authority doest thou these things?"
-2. "The buyers and sellers out of the temple, which especially affected them, they losing their rents thereby."
-3. "God or man?"
+1. "Tell us by what authority doest thou these things?".
+2. "This thing...all these things...not only preaching, but working miracles; and particularly driving the buyers and sellers out of the temple, which especially affected them, they losing their rents thereby".
+3. "Or who is he that gave thee this authority? God or man?".
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:22:00
+- Timestamp: 12-25-2023 20:33:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 40.62%
-- BHT Quality Score: 1.0459563705422434
+- BHT Word Count: 81
+- BHT Commentary Usage: 41.27%
+- BHT Quality Score: 1.1189865078378611
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['about', 'actions', 'adds', 'and', 'approached', 'ascertain', 'asked', 'authority', 'behind', 'bring', 'but', 'buyers', 'by', 'came', 'clarity', 'clearing', 'determined', 'evident', 'explicitly', 'feeling', 'from', 'god', 'greek', 'have', 'helps', 'him', 'his', 'impact', 'in', 'is', 'it', 'jesus', 'leaders', 'luke', 'man', 'manuscripts', 'mark', 'matthew', 'no', 'of', 'on', 'or', 'particularly', 'perhaps', 'pertains', 'punctuation', 'question', 'regards', 'religious', 'request', 'sellers', 'temple', 'that', 'the', 'their', 'these', 'threatened', 'to', 'were', 'what', 'whether', 'which', 'words', 'written']
-- ChatGPT injected words (significant words only) (38):
-	['actions', 'adds', 'approached', 'ascertain', 'asked', 'authority', 'bring', 'buyers', 'came', 'clarity', 'clearing', 'determined', 'evident', 'explicitly', 'feeling', 'god', 'greek', 'helps', 'impact', 'jesus', 'leaders', 'luke', 'man', 'manuscripts', 'mark', 'matthew', 'particularly', 'pertains', 'punctuation', 'question', 'regards', 'religious', 'request', 'sellers', 'temple', 'threatened', 'words', 'written']
+- ChatGPT injected words (63):
+	['about', 'actions', 'adds', 'also', 'and', 'authority', 'but', 'by', 'challenge', 'clearing', 'confront', 'curiosity', 'demanding', 'do', 'emphasizing', 'encompasses', 'established', 'for', 'god', 'granted', 'greek', 'have', 'his', 'if', 'interpretation', 'jesus', 'leaders', 'leaving', 'luke', 'man', 'manuscripts', 'mark', 'matthew', 'miracles', 'no', 'not', 'of', 'only', 'or', 'order', 'particularly', 'preaching', 'punctuation', 'question', 'questioning', 'religious', 'room', 'tell', 'temple', 'the', 'their', 'these', 'they', 'things', 'this', 'to', 'us', 'were', 'what', 'whether', 'words', 'working', 'you']
+- ChatGPT injected words (significant words only) (37):
+	['actions', 'adds', 'authority', 'challenge', 'clearing', 'confront', 'curiosity', 'demanding', 'emphasizing', 'encompasses', 'established', 'god', 'granted', 'greek', 'interpretation', 'jesus', 'leaders', 'leaving', 'luke', 'man', 'manuscripts', 'mark', 'matthew', 'miracles', 'order', 'particularly', 'preaching', 'punctuation', 'question', 'questioning', 'religious', 'room', 'tell', 'temple', 'things', 'words', 'working']
 
 ### Logs
-- Attempt 1 BHT: The religious leaders approached Jesus and asked Him explicitly about His authority, particularly in regards to the clearing of the temple. Luke adds these words to what Mark and Matthew have written, which helps to bring clarity to their request. The Greek manuscripts have no punctuation, but it is evident that the question pertains to the authority behind Jesus' actions. The religious leaders, perhaps feeling threatened by the impact of Jesus' actions on the buyers and sellers in the temple, were determined to ascertain whether His authority came from God or man.
-- 🔄 Luke 20:2 (attempt 1, 92 words, 40.62% quotes quality score: 1.0459563705422434, V2 normalized quality score: 26.12, commentator tiers 1-3: 35.15%, 0.0%, 64.85%) 
+- Attempt 1 BHT: The religious leaders confront Jesus, demanding, Tell us by what authority do you do these things? Luke adds these words to what Mark and Matthew have, emphasizing their curiosity about Jesus' actions, particularly his clearing of the temple. Their question encompasses not only Jesus' preaching and working of miracles, but also his authority to challenge the established order. The Greek manuscripts have no punctuation, leaving room for interpretation of whether they were questioning if God or man granted Jesus this authority.
+- 🔄 Luke 20:2 (attempt 1, 81 words, 41.27% quotes quality score: 1.1189865078378611, V2 normalized quality score: 28.55, commentator tiers 1-3: 23.96%, 0.0%, 76.04%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Approaching Jesus, the religious leaders directly questioned His authority, specifically referring to the clearing of the temple. Luke's addition of these words provides further clarification. The absence of punctuation in the Greek manuscripts does not detract from the clear premise of their inquiry. The religious leaders, likely unsettled by the impact of Jesus' actions on the temple's commerce, were determined to discern whether His authority came from God or man.
-- 🔄 Luke 20:2 (attempt 2, 72 words, 31.37% quotes quality score: 0.9629562000251422, V2 normalized quality score: 23.36, commentator tiers 1-3: 47.0%, 0.0%, 53.0%) 
+- Attempt 2 BHT: The religious leaders come to Jesus and demand an explanation, asking Him to reveal the authority behind His actions. This question is specifically directed towards the significance of Jesus' words and deeds, including His act of clearing the temple. Luke adds this additional detail to emphasize their curiosity. The absence of punctuation in the Greek manuscripts allows for different interpretations regarding whether they question if God or man has granted Jesus this authority.
+- 🔄 Luke 20:2 (attempt 2, 73 words, 35.71% quotes quality score: 0.9863208641470205, V2 normalized quality score: 24.14, commentator tiers 1-3: 36.19%, 0.0%, 63.81%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Approaching Jesus, the religious leaders explicitly asked Him about the authority behind His actions, particularly in relation to the clearing of the temple. Luke's additional words help to provide a more precise understanding of their inquiry, as the Greek manuscripts lack punctuation. Their question sought to discern whether Jesus' authority was from God or man, possibly driven by their concern for their own interests as the buyers and sellers in the temple.
-- 🔄 Luke 20:2 (attempt 3, 73 words, 35.71% quotes quality score: 0.9554159041516772, V2 normalized quality score: 23.11, commentator tiers 1-3: 28.57%, 0.0%, 71.43%) 
+- Attempt 3 BHT: The religious leaders approach Jesus, seeking clarification about His authority. Their inquiry is focused on Jesus' deeds, including the clearing of the temple, asking Him to shed light on the source of His power. Luke adds this aspect to the narrative, further highlighting the curiosity surrounding Jesus' actions. The absence of punctuation in the Greek manuscripts leaves room for interpretation regarding whether the leaders are questioning if Jesus' authority comes from God or man.
+- 🔄 Luke 20:2 (attempt 3, 74 words, 33.93% quotes quality score: 0.9163320664892689, V2 normalized quality score: 21.81, commentator tiers 1-3: 28.42%, 0.0%, 71.58%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The religious leaders approached Jesus and explicitly inquired about the authority behind His actions, specifically mentioning the clearing of the temple. The addition of Luke's words offers further clarification, and although the Greek manuscripts lack punctuation, the essence of their question is clear. The religious leaders were likely motivated by their own loss of rents as buyers and sellers in the temple, seeking to ascertain whether Jesus' authority came from God or man.
-- 🔄 Luke 20:2 (attempt 4, 74 words, 34.55% quotes quality score: 1.0165389068495172, V2 normalized quality score: 25.14, commentator tiers 1-3: 31.36%, 0.0%, 68.64%) 
+- Attempt 4 BHT: Approaching Jesus, the religious leaders seek answers, asking Him to disclose the authority behind His actions. Specifically, they are curious about the significance of Jesus' words and deeds, particularly the act of clearing the temple. Luke supplements this account by adding their inquiry, emphasizing their curiosity further. The absence of punctuation in the Greek manuscripts allows for varying interpretations regarding whether they question if Jesus' authority comes from God or man.
+- 🔄 Luke 20:2 (attempt 4, 71 words, 36.21% quotes quality score: 0.9709635043614413, V2 normalized quality score: 23.63, commentator tiers 1-3: 32.37%, 0.0%, 67.63%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Approaching Jesus, the religious leaders directed a straightforward question to Him, seeking clarification on the authority guiding His actions, particularly His act of clearing the temple. These additional words from Luke contribute to a sharper understanding of their inquiry, as the Greek manuscripts lack punctuation. Motivated, perhaps, by their financial interests as buyers and sellers, the religious leaders aimed to discern the origin of Jesus' authority, whether it derived from God or from man.
-- 🔄 Luke 20:2 (attempt 5, 74 words, 30.91% quotes quality score: 0.8973409559193338, V2 normalized quality score: 21.18, commentator tiers 1-3: 26.29%, 0.0%, 73.71%) 
+- Attempt 5 BHT: The religious leaders confront Jesus, demanding an explanation, and ask him to reveal the authority behind his actions. This question is specifically directed towards the significance of Jesus' words and deeds, including his act of clearing the temple. Luke adds this additional detail to emphasize their curiosity. The absence of punctuation in the Greek manuscripts leaves room for different interpretations regarding whether they are questioning if God or man granted Jesus this authority.
+- 🔄 Luke 20:2 (attempt 5, 73 words, 34.48% quotes quality score: 0.98390407865026, V2 normalized quality score: 24.06, commentator tiers 1-3: 36.74%, 0.0%, 63.26%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Luke 20:2 bht prompt v0.8 (92 words, 40.62% quotes)
-- quality score: 1.0459563705422434, V2 normalized quality score: 26.12, commentator tiers 1-3: 35.15%, 0.0%, 64.85%)
+- ✅ Luke 20:2 bht prompt v0.8 (81 words, 41.27% quotes)
+- quality score: 1.1189865078378611, V2 normalized quality score: 28.55, commentator tiers 1-3: 23.96%, 0.0%, 76.04%)

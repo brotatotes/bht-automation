@@ -1,30 +1,29 @@
 # Mark 10:46 Commentary Help Text
 
 ## BHT:
-A blind beggar named Bartimaeus, the son of Timaeus, sat by the highway side surrounded by a great multitude. Diseases of the eye, particularly ophthalmia, were prevalent in the East, causing significant damage. Upon arriving in Jericho, Jesus and his disciples encountered Bartimaeus, illustrating the compassion and healing power of Jesus. This vivid narrative in the Gospel of Mark highlights the significance of Bartimaeus' story and sheds light on the widespread prevalence of eye diseases in the region.
+A blind beggar named Bartimaeus, the son of Timaeus, sat by the roadside in Jericho. Mark, known for being particular about names, specifies this detail to add to the vividness of the narrative. Diseases of the eye were common in the East, making Bartimaeus's blindness a frequent ailment. Mark alone gives the blind man's name, emphasizing his individuality. Bartimaeus had a regular place by the roadside, where a great multitude passed by. It is interesting to note that this event likely took place before Jesus entered the city, as Mark specifies the blind man's presence beforehand.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1.  46.] Bar-timæus means, the son of Timæus,—so Bar tholomew, ch. iii. 18, Bar jesus, Acts xiii. 6.
 
 ### Marvin Vincent:
-1. "Diseases of the eye are very common in the East... The ash - heaps are extremely mischievous; on the occurrence of the slightest wind the air is filled with a fine, pungent dust, which is very injurious to the eyes." 
-2. "Ophthalmia is fearfully prevalent, especially among children... one adult out of every five has his eyes more or less damaged by the consequences of this disease."
+1. "Mark, as usual, is particular about names."
+2. "Diseases of the eye are very common in the East."
 3. "Peculiar to Mark, and adding greatly to the vividness of the narrative."
 
 ### Philip Schaff:
-1. "And they come to Jericho....our Lord entered the city before the blind man was healed..." 
-2. "The son of Timeus, Bartimeus...the son was the well-known personage." 
+1. "Mark specifies this, and this shows that our Lord entered the city before the blind man was healed."
+2. "He was probably begging as he sat, as the E. V. states, but the original does not necessarily mean this."
 3. "The prominence of this one is evident from the narrative before us, which is in many respects the most exact and vivid of the three."
 
 ### Archibald T. Robertson:
-1. "Great multitude (οχλου ικανου). Considerable, more than sufficient."
-2. "Bartimaeus (Βαρτιμαιος). Aramaic name like Bartholomew, βαρ meaning son like Hebrew ben."
-3. "Blind beggar (τυφλος προσαιτης), 'begging' (επαιτων)."
+1. "Great multitude... considerable, more than sufficient."
+2. "Bartimaeus... Mark alone gives his name."
+3. "Blind beggar... sitting by the roadside... Bartimaeus had his regular place."
 
 ### John Gill:
-1. "And they came to Jericho... blind Bartimeus, the son of Timaeus, sat by the highway side begging." 
-2. "Christ and his disciples... being but ten miles off."
+1. "And they came to Jericho,.... Christ and his disciples, from the coasts of Judea, beyond Jordan, in their way to Jerusalem..."
 
 ### John Wesley:
 1.  Matthew 20:29; Luke 18:35.
@@ -33,42 +32,44 @@ A blind beggar named Bartimaeus, the son of Timaeus, sat by the highway side sur
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:26:29
+- Timestamp: 12-25-2023 20:32:47
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 78
-- BHT Commentary Usage: 22.64%
-- BHT Quality Score: 1.3884767124638664
+- BHT Word Count: 99
+- BHT Commentary Usage: 32.84%
+- BHT Quality Score: 1.463366443255251
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['a', 'and', 'arriving', 'bartimaeus', 'beggar', 'blind', 'by', 'causing', 'compassion', 'damage', 'disciples', 'diseases', 'east', 'encountered', 'eye', 'gospel', 'great', 'healing', 'highlights', 'highway', 'his', 'illustrating', 'in', 'jericho', 'jesus', 'light', 'mark', 'multitude', 'named', 'narrative', 'of', 'on', 'ophthalmia', 'particularly', 'power', 'prevalence', 'prevalent', 'region', 'sat', 'sheds', 'side', 'significance', 'significant', 'son', 'story', 'surrounded', 'the', 'this', 'timaeus', 'upon', 'vivid', 'were', 'widespread']
-- ChatGPT injected words (significant words only) (41):
-	['arriving', 'bartimaeus', 'beggar', 'blind', 'causing', 'compassion', 'damage', 'disciples', 'diseases', 'east', 'encountered', 'eye', 'gospel', 'great', 'healing', 'highlights', 'highway', 'illustrating', 'jericho', 'jesus', 'light', 'mark', 'multitude', 'named', 'narrative', 'ophthalmia', 'particularly', 'power', 'prevalence', 'prevalent', 'region', 'sat', 'sheds', 'significance', 'significant', 'son', 'story', 'surrounded', 'timaeus', 'vivid', 'widespread']
+- ChatGPT injected words (67):
+	['a', 'about', 'add', 'ailment', 'alone', 'as', 'bartimaeus', 'before', 'beforehand', 'beggar', 'being', 'blind', 'blindness', 'by', 'city', 'common', 'detail', 'diseases', 'east', 'emphasizing', 'entered', 'event', 'eye', 'for', 'frequent', 'gives', 'great', 'had', 'his', 'in', 'individuality', 'interesting', 'is', 'it', 'jericho', 'jesus', 'known', 'likely', 'making', 'man', 'mark', 'multitude', 'name', 'named', 'names', 'narrative', 'note', 'of', 'particular', 'passed', 'place', 'presence', 'regular', 'roadside', 's', 'sat', 'son', 'specifies', 'that', 'the', 'this', 'timaeus', 'to', 'took', 'vividness', 'were', 'where']
+- ChatGPT injected words (significant words only) (45):
+	['add', 'ailment', 'bartimaeus', 'beggar', 'blind', 'blindness', 'city', 'common', 'detail', 'diseases', 'east', 'emphasizing', 'entered', 'event', 'eye', 'frequent', 'gives', 'great', 'individuality', 'interesting', 'jericho', 'jesus', 'known', 'likely', 'making', 'man', 'mark', 'multitude', 'named', 'names', 'narrative', 'note', 'particular', 'passed', 'place', 'presence', 'regular', 'roadside', 's', 'sat', 'son', 'specifies', 'timaeus', 'took', 'vividness']
 
 ### Logs
-- Attempt 1 BHT: A blind beggar named Bartimaeus sat by the highway side, surrounded by a great multitude. This man, the son of Timaeus, was well-known and his presence added to the vividness of the narrative. In the East, diseases of the eye, such as ophthalmia, were common and had caused damage to many people. The dusty air and ash-heaps were especially harmful, exacerbating these conditions. As Jesus and his disciples came to Jericho, they encountered Bartimaeus and his plea for mercy. This encounter showcases the compassion and healing power of Jesus, and highlights the significance of this particular story in the Gospel of Mark.
-- 🔄 Mark 10:46 (attempt 1, 104 words, 28.17% quotes quality score: 1.273150475400506, V2 normalized quality score: 33.68, commentator tiers 1-3: 26.28%, 38.29%, 35.43%) 
+- Attempt 1 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the roadside in Jericho. Mark, known for being particular about names, specifies this detail to add to the vividness of the narrative. Diseases of the eye were common in the East, making Bartimaeus's blindness a frequent ailment. Mark alone gives the blind man's name, emphasizing his individuality. Bartimaeus had a regular place by the roadside, where a great multitude passed by. It is interesting to note that this event likely took place before Jesus entered the city, as Mark specifies the blind man's presence beforehand.
+- 🔄 Mark 10:46 (attempt 1, 99 words, 32.84% quotes quality score: 1.463366443255251, V2 normalized quality score: 40.0, commentator tiers 1-3: 40.1%, 36.71%, 23.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the highway side surrounded by a great multitude. Diseases of the eye were common in the East, and the dusty air and ash-heaps worsened the conditions. As Jesus and his disciples came to Jericho, they encountered Bartimaeus, highlighting the compassion and healing power of Jesus. This vivid narrative adds to the significance of the story in the Gospel of Mark and showcases the prevalence of eye diseases in the region.
-- 🔄 Mark 10:46 (attempt 2, 82 words, 24.53% quotes quality score: 1.3292847934633678, V2 normalized quality score: 35.54, commentator tiers 1-3: 27.65%, 34.44%, 37.91%) 
+- Attempt 2 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the roadside in Jericho. Mark, known for being particular about names, adds to the vividness of the narrative by specifying this detail. Diseases of the eye were common in the East, making Bartimaeus's blindness a frequent ailment. Mark alone gives the blind man's name, emphasizing his individuality. Bartimaeus had a regular place by the roadside, where a great multitude passed by. This event likely took place before Jesus entered the city, as Mark specifies the blind man's presence beforehand.
+- 🔄 Mark 10:46 (attempt 2, 93 words, 30.16% quotes quality score: 1.4497185492349336, V2 normalized quality score: 39.55, commentator tiers 1-3: 40.77%, 35.49%, 23.74%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the highway side surrounded by a great multitude. Diseases of the eye were common in the East, and the dusty air and ash-heaps worsened the conditions. As Jesus and his disciples came to Jericho, they encountered Bartimaeus, highlighting the compassion and healing power of Jesus. This vivid narrative adds to the significance of the story in the Gospel of Mark and showcases the prevalence of eye diseases in the region.
-- 🔄 Mark 10:46 (attempt 3, 82 words, 24.53% quotes quality score: 1.3292847934633678, V2 normalized quality score: 35.54, commentator tiers 1-3: 27.65%, 34.44%, 37.91%) 
+- Attempt 3 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the roadside in Jericho. Mark keenly mentions names and vividly describes the scene. Eye diseases were common in the region, making Bartimaeus's blindness a prevalent condition. Mark uniquely provides the blind man's name, highlighting his individuality. Bartimaeus had a regular spot by the roadside, attracting a considerable number of people passing by. This incident likely occurred prior to Jesus entering the city, as Mark specifically notes the presence of the blind man beforehand.
+- 🔄 Mark 10:46 (attempt 3, 86 words, 22.95% quotes quality score: 1.3930508928118162, V2 normalized quality score: 37.66, commentator tiers 1-3: 40.03%, 34.68%, 25.29%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: A blind beggar named Bartimaeus, son of Timaeus, sat by the highway side surrounded by a great multitude. Eye diseases were prevalent in the East, worsened by the dusty air and ash-heaps. As Jesus and his disciples arrived in Jericho, they encountered Bartimaeus, showcasing the compassion and healing power of Jesus. This vivid account in the Gospel of Mark highlights the significance of Bartimaeus' story and the widespread issues of eye diseases in the region.
-- 🔄 Mark 10:46 (attempt 4, 76 words, 23.53% quotes quality score: 1.306382486812256, V2 normalized quality score: 34.78, commentator tiers 1-3: 27.53%, 32.54%, 39.93%) 
+- Attempt 4 BHT: In Jericho, a blind beggar known as Bartimaeus, son of Timaeus, sat by the roadside. Mark, with his attention to names, adds to the vividness of the narrative. Eye diseases were prevalent in the region, making Bartimaeus's condition relatable. Notably, Mark is the only Gospel that mentions the blind man's name, emphasizing his individuality. Bartimaeus had a usual position by the roadside, attracting a substantial crowd passing by. This account likely took place before Jesus entered the city, as Mark specifies the blind man's presence beforehand.
+- 🔄 Mark 10:46 (attempt 4, 89 words, 29.03% quotes quality score: 1.4063935566102015, V2 normalized quality score: 38.11, commentator tiers 1-3: 39.16%, 33.9%, 26.93%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the highway side surrounded by a great multitude. Diseases of the eye, particularly ophthalmia, were prevalent in the East, causing significant damage. Upon arriving in Jericho, Jesus and his disciples encountered Bartimaeus, illustrating the compassion and healing power of Jesus. This vivid narrative in the Gospel of Mark highlights the significance of Bartimaeus' story and sheds light on the widespread prevalence of eye diseases in the region.
-- 🔄 Mark 10:46 (attempt 5, 78 words, 22.64% quotes quality score: 1.3884767124638664, V2 normalized quality score: 37.51, commentator tiers 1-3: 30.48%, 32.46%, 37.06%) 
+- Attempt 5 BHT: A blind beggar named Bartimaeus, the son of Timaeus, sat by the roadside in Jericho. Mark, known for his attention to details, vividly describes the scene. Eye diseases were common in that region, explaining Bartimaeus's condition. Mark is the only Gospel that reveals the blind man's name, emphasizing his individuality. Bartimaeus had a designated spot by the roadside, attracting a considerable crowd. This event likely occurred before Jesus entered the city, as Mark specifically mentions the blind man's presence beforehand.
+- 🔄 Mark 10:46 (attempt 5, 83 words, 30.0% quotes quality score: 1.4394507355664785, V2 normalized quality score: 39.2, commentator tiers 1-3: 37.09%, 35.55%, 27.36%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 10:46 bht prompt v0.8 (78 words, 22.64% quotes)
-- quality score: 1.3884767124638664, V2 normalized quality score: 37.51, commentator tiers 1-3: 30.48%, 32.46%, 37.06%)
+- ✅ Mark 10:46 bht prompt v0.8 (99 words, 32.84% quotes)
+- quality score: 1.463366443255251, V2 normalized quality score: 40.0, commentator tiers 1-3: 40.1%, 36.71%, 23.19%)

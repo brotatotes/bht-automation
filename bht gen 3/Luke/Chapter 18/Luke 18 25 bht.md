@@ -1,7 +1,7 @@
 # Luke 18:25 Commentary Help Text
 
 ## BHT:
-This proverbial expression suggests that it is extremely difficult, if not impossible, for a rich man to enter the kingdom of God. The choice of using the term belonh for the surgical needle instead of the term ραφις is notable, as the latter is regarded as barbarous. It is likely that this saying was well-known during that time, as it appears in the Talmud concerning an elephant passing through the eye of a needle. Ultimately, this serves to highlight the challenges that wealth can present in attaining salvation.
+Entering the kingdom of God is like a camel trying to go through the eye of a needle - it is not merely difficult, but virtually impossible. Luke uses the word belonh, a specific term for a surgical needle, emphasizing the impossibility of the task. These words, spoken by Jesus to his disciples, served as a reminder of the immense challenge it is to enter the kingdom of God. It is like trying to enter through the eye of a needle, a proverbial expression that denoted something very difficult, if not impossible.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -11,58 +11,61 @@ This proverbial expression suggests that it is extremely difficult, if not impos
 
 
 ### Marvin Vincent:
-1. "To go through the eye of a needle [δια τρηματος βελονης εισελθειν] . Rev., more literally, to enter in through a needle 's eye." 
-2. "Both Matthew and Mark use another word for needle [ραφις] ; see on Mark 10:25. Luke alone has belonh, which, besides being an older term, is the peculiar word for the surgical needle."
-3. "The other word is condemned by the Greek grammatrians as barbarous."
+1. "Camel. See on Matthew 19:24."
+2. "To go through the eye of a needle [δια τρηματος βελονης εισελθειν] . Rev., more literally, to enter in through a needle 's eye."
+3. "Luke alone has belonh, which, besides being an older term, is the peculiar word for the surgical needle."
 
 ### Archibald T. Robertson:
-1. "Through a needle's eye (δια τρηματος βελονης). Both words are old."
-2. "This is probably a current proverb for the impossible."
-3. "The Talmud twice speaks of an elephant passing through the eye of a needle as being impossible."
+1. "Through a needle's eye (δια τρηματος βελονης). Both words are old." 
+2. "Τρημα means a perforation or hole or eye and in the N.T. only here and Matthew 19:24."
+3. "This is probably a current proverb for the impossible."
 
 ### John Gill:
-1. "These words were spoken to the disciples again, and were a second address to them, after they had shown astonishment at the former."
-2. "and"
-3. "a second address to them"
+1. "For it is easier for a camel..."
+2. "These words were spoken to the disciples..."
+3. "...and were a second address to them..."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:21:29
+- Timestamp: 12-25-2023 20:33:33
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 35.0%
-- BHT Quality Score: 1.1831411770138944
+- BHT Word Count: 91
+- BHT Commentary Usage: 35.85%
+- BHT Quality Score: 1.4401370273230734
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'an', 'appears', 'as', 'attaining', 'barbarous', 'belonh', 'can', 'challenges', 'choice', 'concerning', 'difficult', 'during', 'elephant', 'enter', 'expression', 'extremely', 'eye', 'for', 'god', 'highlight', 'if', 'impossible', 'in', 'instead', 'is', 'it', 'kingdom', 'known', 'latter', 'likely', 'man', 'needle', 'not', 'notable', 'of', 'passing', 'present', 'proverbial', 'regarded', 'rich', 'salvation', 'saying', 'serves', 'suggests', 'surgical', 'talmud', 'term', 'that', 'the', 'this', 'through', 'time', 'to', 'ultimately', 'using', 'was', 'wealth', 'well', 'ραφις']
-- ChatGPT injected words (significant words only) (39):
-	['appears', 'attaining', 'barbarous', 'belonh', 'challenges', 'choice', 'concerning', 'difficult', 'elephant', 'enter', 'expression', 'extremely', 'eye', 'god', 'highlight', 'impossible', 'instead', 'kingdom', 'known', 'likely', 'man', 'needle', 'notable', 'passing', 'present', 'proverbial', 'regarded', 'rich', 'salvation', 'saying', 'serves', 'suggests', 'surgical', 'talmud', 'term', 'time', 'ultimately', 'wealth', 'ραφις']
+- ChatGPT injected words (53):
+	['a', 'as', 'belonh', 'but', 'by', 'camel', 'challenge', 'denoted', 'difficult', 'disciples', 'emphasizing', 'enter', 'entering', 'expression', 'eye', 'for', 'go', 'god', 'his', 'if', 'immense', 'impossibility', 'impossible', 'is', 'it', 'jesus', 'kingdom', 'like', 'luke', 'merely', 'needle', 'not', 'of', 'proverbial', 'reminder', 'served', 'something', 'specific', 'spoken', 'surgical', 'task', 'term', 'that', 'the', 'these', 'through', 'to', 'trying', 'uses', 'very', 'virtually', 'word', 'words']
+- ChatGPT injected words (significant words only) (34):
+	['belonh', 'camel', 'challenge', 'denoted', 'difficult', 'disciples', 'emphasizing', 'enter', 'entering', 'expression', 'eye', 'god', 'immense', 'impossibility', 'impossible', 'jesus', 'kingdom', 'like', 'luke', 'merely', 'needle', 'proverbial', 'reminder', 'served', 'specific', 'spoken', 'surgical', 'task', 'term', 'trying', 'uses', 'virtually', 'word', 'words']
 
 ### Logs
-- Attempt 1 BHT: It is said that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. This is not meant to be taken literally, but figuratively, to suggest something that is very difficult or even impossible. Luke uses the term belonh for the surgical needle, which is an older and more accurate word. In fact, the other word for needle, ραφις, is even condemned as barbarous by Greek grammarians. This saying may have been a current proverb at the time, as the Talmud also mentions the impossibility of an elephant passing through the eye of a needle. Ultimately, this statement serves as a reminder to the disciples, emphasizing the challenges that wealth can present when it comes to entering the kingdom of God.
-- 🔄 Luke 18:25 (attempt 1, 136 words, 40.0% quotes quality score: 1.433116980160206, V2 normalized quality score: 38.99, commentator tiers 1-3: 76.52%, 0.0%, 23.48%) 
+- Attempt 1 BHT: Entering the kingdom of God is like a camel trying to go through the eye of a needle - it is not merely difficult, but virtually impossible. This saying was a proverbial expression that denoted something that was considered to be very difficult. In fact, it was so impossible that it was like trying to enter through the eye of a surgical needle. Luke uses the word belonh specifically, which is an older term and the specific word used for a surgical needle. This phrase was likely a current proverb for something that was considered absolutely impossible. These words were spoken by Jesus to his disciples, serving as a reminder of the immense challenge it is to enter the kingdom of God.
+- 🔄 Luke 18:25 (attempt 1, 121 words, 40.58% quotes quality score: 1.353274794851382, V2 normalized quality score: 36.34, commentator tiers 1-3: 78.88%, 0.0%, 21.12%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: It is figuratively stated that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. Luke employs the term belonh for the surgical needle, which is considered the older and more accurate word, while the other term for needle, ραφις, is criticized as barbarous. This proverbial saying may have been common at the time, as the Talmud also mentions the impossibility of an elephant passing through the eye of a needle. It serves to remind the disciples of the challenges that wealth presents in attaining eternal life.
-- 🔄 Luke 18:25 (attempt 2, 102 words, 37.88% quotes quality score: 1.3950496434452129, V2 normalized quality score: 37.73, commentator tiers 1-3: 73.97%, 0.0%, 26.03%) 
+- Attempt 2 BHT: Entering the kingdom of God is like a camel trying to go through the eye of a needle - it is not merely difficult, but virtually impossible. Luke uses the word belonh, a specific term for a surgical needle, emphasizing the impossibility of the task. These words, spoken by Jesus to his disciples, served as a reminder of the immense challenge it is to enter the kingdom of God. It is like trying to enter through the eye of a needle, a proverbial expression that denoted something very difficult, if not impossible.
+- 🔄 Luke 18:25 (attempt 2, 91 words, 35.85% quotes quality score: 1.4401370273230734, V2 normalized quality score: 39.23, commentator tiers 1-3: 76.87%, 0.0%, 23.13%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Figuratively, it is said that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. Luke chooses the term belonh for the surgical needle, as it is the older and more accurate word, while the other term for needle, ραφις, is considered barbarous. This proverbial expression likely reflects a common saying of the time, with the Talmud even mentioning the impossibility of an elephant passing through the eye of a needle. It serves to emphasize the difficulties wealth can pose in receiving salvation.
-- 🔄 Luke 18:25 (attempt 3, 98 words, 34.92% quotes quality score: 1.449176716753418, V2 normalized quality score: 39.53, commentator tiers 1-3: 80.21%, 0.0%, 19.79%) 
+- Attempt 3 BHT: Entering the kingdom of God is like a camel trying to go through the eye of a needle, signifying not just difficulty, but nearly impossibility. Jesus used this proverbial expression to illustrate the immense challenges in seeking salvation. Luke's use of belonh, an older term referring to a surgical needle, emphasizes the enormity of the task. This phrase was likely a common saying representing the concept of the impossible. Addressing his disciples, Jesus underscored the great struggles one must overcome to enter the kingdom of God.
+- 🔄 Luke 18:25 (attempt 3, 87 words, 28.57% quotes quality score: 1.1805356528939526, V2 normalized quality score: 30.6, commentator tiers 1-3: 75.03%, 0.0%, 24.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: This proverbial expression suggests that it is extremely difficult, if not impossible, for a rich man to enter the kingdom of God. The choice of using the term belonh for the surgical needle instead of the term ραφις is notable, as the latter is regarded as barbarous. It is likely that this saying was well-known during that time, as it appears in the Talmud concerning an elephant passing through the eye of a needle. Ultimately, this serves to highlight the challenges that wealth can present in attaining salvation.
-- 🔄 Luke 18:25 (attempt 4, 89 words, 35.0% quotes quality score: 1.1831411770138944, V2 normalized quality score: 30.68, commentator tiers 1-3: 77.58%, 0.0%, 22.42%) 
+- Attempt 4 BHT: Entering the kingdom of God is like a camel trying to go through the eye of a needle - an expression that signifies extreme difficulty, if not impossibility. Luke specifically uses the term belonh, which refers to a surgical needle, emphasizing the near-impossibility of the task. This saying was likely a well-known proverb denoting something that was considered utterly impossible. In addressing his disciples, Jesus highlighted the immense challenges one would face in attaining salvation and entering the kingdom of God.
+- 🔄 Luke 18:25 (attempt 4, 82 words, 34.43% quotes quality score: 1.2695710461017233, V2 normalized quality score: 33.56, commentator tiers 1-3: 76.73%, 0.0%, 23.27%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: This popular expression illustrates the immense difficulty, if not outright impossibility, for a wealthy person to enter the kingdom of God. The choice of the term belonh for the surgical needle, rather than the criticized ραφις, is significant. This saying, which may have been widely known at the time, even appears in the Talmud referring to an elephant passing through a needle's eye. Ultimately, this emphasizes the challenges posed by wealth when it comes to achieving eternal life.
-- 🔄 Luke 18:25 (attempt 5, 79 words, 36.51% quotes quality score: 1.1746095814084998, V2 normalized quality score: 30.4, commentator tiers 1-3: 82.01%, 0.0%, 17.99%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 18:25 bht prompt v0.8 (89 words, 35.0% quotes)
-- quality score: 1.1831411770138944, V2 normalized quality score: 30.68, commentator tiers 1-3: 77.58%, 0.0%, 22.42%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: Gaining entry into the kingdom of God is as daunting as a camel attempting to pass through the eye of a needle, an expression portraying the concept of extreme difficulty and near impossibility. Luke's choice of the word belonh, a term specifically referring to a surgical needle, accentuates the tremendous challenge involved. This saying likely served as a widely recognized proverb illustrating the notion of the impossible. Jesus shared these words with his disciples, underscoring the arduous journey one must undertake to attain salvation and enter the realm of God's kingdom.
+- 🔄 Luke 18:25 (attempt 5, 93 words, 23.88% quotes quality score: 1.2483879578057058, V2 normalized quality score: 32.85, commentator tiers 1-3: 74.38%, 0.0%, 25.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 18:25 bht prompt v0.8 (91 words, 35.85% quotes)
+- quality score: 1.4401370273230734, V2 normalized quality score: 39.23, commentator tiers 1-3: 76.87%, 0.0%, 23.13%)

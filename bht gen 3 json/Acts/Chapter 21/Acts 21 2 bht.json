@@ -1,23 +1,23 @@
 {
-    "timestamp": "12-19-2023 16:34:17",
+    "timestamp": "12-25-2023 20:34:12",
     "verseRef": "Acts 21:2",
     "bestBHT": {
-        "bht": "Finding their former ship unable to proceed any farther, Paul and his companions quickly boarded a new vessel set for Phoenicia. The level of detail provided gives a sense of the authenticity of the account, almost as if it were taken from a voyage journal. Despite still being four hundred miles away from Jerusalem, Paul fortunately found a merchantman in Patara that could sail directly across the open sea. Without delay, they boarded the ship and set forth on their journey to Phoenicia.",
+        "bht": "Having found a ship, Paul set forth, sailing over to Phoenicia. The details provided in this account are so vivid that one would almost think it was taken from a journal. Paul started with a small vessel that anchored each night at different ports, but upon reaching Patara, he seized the opportunity to board a larger merchant ship that could sail across the open sea. These circumstances favored Paul as he made his way towards Phoenicia, a stop on his journey to Jerusalem.",
         "wordCount": 83,
-        "quoteTokenProportion": 41.54,
-        "qualityScore": 1.4762611061568207,
-        "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.6166948353959543,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.1,
         "commentatorTierSimilarities": [
-            26.73,
-            23.22,
-            50.05
+            27.68,
+            31.76,
+            40.56
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "And finding a ship\u2014their former one going no farther, probably.",
-            "To Phoelignica\u2014(See on Acts 21:1).",
+            "Their former one going no farther, probably.\" ",
+            "To Phoelignica.\" ",
             "One would almost think this extracted from a journal of the voyage, so graphic are its details."
         ],
         "Albert Barnes": [
@@ -28,19 +28,17 @@
             "Set forth [\u03b1\u03bd\u03b7\u03c7\u03b8\u03b7\u03bc\u03b5\u03bd] . Or set sail. See on Luke 8:22; Luke 5:3."
         ],
         "Philip Schaff": [
-            "Circumstances here favoured Paul.",
-            "Patara was evidently the harbour whither his ship was bound from Alexandria Troas.",
-            "Thus not a day was lost."
+            "Circumstances here favoured Paul."
         ],
         "Archibald T. Robertson": [
-            "He was still some four hundred miles from Jerusalem.\" ",
+            "Having found a ship (\u03b5\u03c5\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2 \u03c0\u03bb\u03bf\u03b9\u03bf\u03bd). Paul had used a small coasting vessel (probably hired) that anchored each night at Cos, Rhodes, Patara.\" ",
             "But at Patara Paul caught a large vessel (a merchantman) that could sail across the open sea.\" ",
-            "We went aboard."
+            "Crossing over unto Phoenicia (\u03b4\u03b9\u03b1\u03c0\u03b5\u03c1\u03c9\u03bd \u03b5\u03b9\u03c2 \u03a6\u03bf\u03b9\u03bd\u03b9\u03ba\u03b7\u03bd). Neuter singular accusative (agreeing with \u03c0\u03bb\u03bf\u03b9\u03bf\u03bd) present active participle of \u03b4\u03b9\u03b1\u03c0\u03b5\u03c1\u03b1\u03c9, old verb to go between (\u03b4\u03b9\u03b1) and so across to Tyre."
         ],
         "John Gill": [
-            "Finding a ship sailing over unto Phoenicia.",
-            "Lighting on another ship, which was bound for Phoenicia, for the city of Tyre.",
-            "We went aboard; the said ship: and set forth; on the voyage."
+            "And finding a ship sailing over unto Phoenicia... we went aboard.\" ",
+            "Lighting on another ship, which was bound for Phoenicia... we went aboard.",
+            "And set forth; on the voyage."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -60,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Finding their former ship unable to go any farther, Paul and his companions embarked on a new vessel to Phoenicia. The details provided in this passage give a sense of immediacy and authenticity to the account. It is worth noting that Paul was still quite a distance away from Jerusalem, about four hundred miles. Nonetheless, at Patara, Paul managed to find a large ship capable of sailing across the open sea. Without any delay, they boarded the vessel and set sail towards Phoenicia.",
-            "wordCount": 83,
-            "quoteTokenProportion": 44.62,
-            "qualityScore": 1.4517845504528162,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "bht": "Having found a ship, Paul and his companions set forth, sailing over to Phoenicia. It seems as though this account may have been retrieved from a journal, as the details are so vividly portrayed. Paul initially used a small vessel that anchored each night at various ports, but upon arriving in Patara, he seized the opportunity to board a larger merchant ship that could sail across the open sea. The circumstances were in Paul's favor, as they made their way towards Phoenicia, a stop on their journey to Jerusalem.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.553169173843528,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
             "commentatorTierSimilarities": [
-                28.35,
-                24.18,
-                47.46
+                26.67,
+                34.58,
+                38.75
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Discovering that their previous ship could not proceed any further, Paul and his companions embarked on a new vessel bound for Phoenicia. The level of vivid detail in the account is so precise that it resembles a journal entry. Despite still being a considerable distance away from Jerusalem, approximately four hundred miles, Paul seized the fortuitous circumstance of finding a merchantman in Patara that could sail directly across the open sea. Without wasting any time, they immediately boarded the ship and commenced their voyage to Phoenicia.",
-            "wordCount": 86,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.3320658266759886,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.63,
+            "bht": "Having found a ship, Paul set forth, sailing over to Phoenicia. The details provided in this account are so vivid that one would almost think it was taken from a journal. Paul started with a small vessel that anchored each night at different ports, but upon reaching Patara, he seized the opportunity to board a larger merchant ship that could sail across the open sea. These circumstances favored Paul as he made his way towards Phoenicia, a stop on his journey to Jerusalem.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.6166948353959543,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
             "commentatorTierSimilarities": [
-                24.71,
-                25.52,
-                49.77
+                27.68,
+                31.76,
+                40.56
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Finding their former ship unable to proceed any farther, Paul and his companions quickly boarded a new vessel set for Phoenicia. The level of detail provided gives a sense of the authenticity of the account, almost as if it were taken from a voyage journal. Despite still being four hundred miles away from Jerusalem, Paul fortunately found a merchantman in Patara that could sail directly across the open sea. Without delay, they boarded the ship and set forth on their journey to Phoenicia.",
-            "wordCount": 83,
-            "quoteTokenProportion": 41.54,
-            "qualityScore": 1.4762611061568207,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+            "bht": "Paul found a ship and set forth, sailing over to Phoenicia. The details in this account are so vivid, one might think it was taken from a journal. Initially using a small vessel that anchored each night at different ports, Paul switched to a larger merchant ship at Patara that could sail across the open sea. These circumstances favored Paul as he made his way towards Phoenicia, a stop on his journey to Jerusalem.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.6000163757726682,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
             "commentatorTierSimilarities": [
-                26.73,
-                23.22,
-                50.05
+                27.57,
+                31.93,
+                40.5
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Upon realizing that their previous ship could not continue their journey, Paul and his companions wasted no time in boarding a new vessel bound for Phoenicia. The level of detail provided in this account is striking, almost resembling entries from a voyage journal. Though still hundreds of miles away from Jerusalem, Paul's circumstances allowed him to find a suitable merchant ship in Patara that could sail across the open sea. Capitalizing on the opportunity, they promptly boarded the ship and embarked on their voyage to Phoenicia.",
-            "wordCount": 87,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.4436852191379996,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "bht": "Having found a ship, Paul and his companions set forth, sailing over to Phoenicia. The details provided in this account are so vivid that one would almost think it was taken from a journal. Paul initially used a small vessel that anchored each night at different ports, but upon reaching Patara, he seized the opportunity to board a larger merchant ship that could sail across the open sea. These circumstances favored Paul as they made their way towards Phoenicia, a stop on their journey to Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.5639179138942794,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
             "commentatorTierSimilarities": [
-                23.95,
-                24.23,
-                51.82
+                27.87,
+                33.1,
+                39.03
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "After discovering that their former ship could proceed no further, Paul and his companions swiftly boarded a new vessel bound for Phoenicia. The meticulous details presented in the account lend an air of authenticity to the narrative, almost resembling excerpts from a voyage journal. Despite still being approximately four hundred miles away from Jerusalem, Paul fortuitously found a sizable merchant ship in Patara that was capable of sailing across the open sea. Without hesitation, they promptly embarked on the ship, commencing their voyage towards Phoenicia.",
-            "wordCount": 85,
-            "quoteTokenProportion": 40.58,
-            "qualityScore": 1.4357568068062005,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.08,
+            "bht": "Having found a ship, Paul set forth, sailing over to Phoenicia. The details provided in this account are so vivid that one would almost think it was taken from a journal. Initially using a small vessel that anchored each night at different ports, Paul switched to a larger merchant ship at Patara that could sail across the open sea. These circumstances favored Paul as he made his way towards Phoenicia, a stop on his journey to Jerusalem.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6121578076614405,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
             "commentatorTierSimilarities": [
-                23.54,
-                23.67,
-                52.79
+                28.48,
+                30.68,
+                40.84
             ],
             "generationAttempt": 5
         }

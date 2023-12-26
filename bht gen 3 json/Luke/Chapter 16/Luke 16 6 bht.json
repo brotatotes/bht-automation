@@ -1,44 +1,44 @@
 {
-    "timestamp": "12-19-2023 16:20:34",
+    "timestamp": "12-25-2023 20:33:34",
     "verseRef": "Luke 16:6",
     "bestBHT": {
-        "bht": "The vivid imagery employed in this analysis reveals the illicit and secretive nature of the steward's dealings. The debtors are summoned together, creating a sense of mutual implication and silence. Urgency is emphasized as the steward swiftly returns the bill to the debtor, allowing him to alter the figures discreetly. The specific measurement used, a Hebrew bath, remains uncertain. The promptness of the transaction suggests the steward's anticipation of his impending removal. This parable serves as a cautionary tale, highlighting the steward's unlawful actions and disobedience.",
-        "wordCount": 89,
-        "quoteTokenProportion": 22.58,
-        "qualityScore": 1.1094935737098575,
-        "qualityScoreNormalizedComparedToV2BHTs": 28.23,
+        "bht": "The steward swiftly attends to his task, taking his bill and sitting down quickly to alter the figures, ensuring each debtor receives their own bond. The urgency of this secret transaction is evident, as the unquantifiable measures and contractual writings are handled expediently. The mentioned 'bath' contains around 9 gallons, and the debtors in question are those who had rented land and owed a portion of the produce to the rich man. This scenario highlights the natural resistance of sinners to willingly give an account to God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.3169215648924508,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.13,
         "commentatorTierSimilarities": [
-            43.47,
-            34.58,
-            21.95
+            29.41,
+            38.11,
+            32.48
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Take thy bill...sit down is graphic.\" ",
-            "Quickly implies the hurry with which the furtive business is transacted.",
-            "The debtors seem to be all together, that all may be implicated and none may tell of the other."
+            "Take thy bill... returns each debtor his own bond for him to alter the figure...",
+            "sit down is graphic.",
+            "quickly implies the hurry with which the furtive business is transacted."
         ],
         "Albert Barnes": [
-            "A hundred measures - The measure here mentioned is the 'bath' which contained, according to Dr. Arbuthnot's tables, 7 12 gallons, or, according to the marginal note, about 9 gallons and 3 quarts.",
-            "Thy bill - The contract, obligation, or 'lease.' It was probably written as a 'promise' by the debtor and signed by the steward, and thus became binding. Thus he had power to alter it, without supposing that his master would detect it. The bill or contract was in the hands of the steward, and he gave it back to him to write a new one.",
-            "Quickly - He supposed that his master would soon remove him, and he was, therefore, in haste to have all things secure beforehand. It is worthy of remark, also, that 'all' this was wrong. His master had called for the account: but, instead of rendering it, he engaged in other business, disobeyed his lord still, and, in contempt of his commands, sought his own interest. All sinners would be slow to give in their account to God if they could do it; and it is only because, when God calls them by death, they 'cannot but go,' that they do not engage still in their own business and disobey him."
+            "The measure here mentioned is the 'bath' which contained, according to Dr. Arbuthnot\u2019s tables, 7 12 gallons, or, according to the marginal note, about 9 gallons and 3 quarts.\" ",
+            "These were persons, doubtless, who had 'rented' land of the rich man, and who were to give him a certain proportion of the produce.",
+            "All sinners would be slow to give in their account to God if they could do it; and it is only because, when God calls them by death, they 'cannot but go,' that they do not engage still in their own business and disobey him."
         ],
         "Marvin Vincent": [
-            "The bath was a Hebrew measure, but the amount is uncertain, since, according to Edersheim, there were three kinds of measurement in use in Palestine.",
-            "The bill is the bond which the buyer has given, and which is in the steward's keeping. He gives it back to the debtor for him to alter the figures.",
-            "It was a secret transaction, to be hurried through."
+            "The bath was a Hebrew measure, but the amount is uncertain, since...there were three kinds of measurement in use in Palestine.",
+            "The bill is the bond which the buyer has given, and which is in the steward's keeping.",
+            "Sit down quickly. It was a secret transaction, to be hurried through."
         ],
         "Archibald T. Robertson": [
-            "Measures (\u03b2\u03b1\u03c4\u03bf\u03c5\u03c2). Transliterated word for Hebrew bath, between eight and nine gallons.\" ",
-            "Thy bond (\u03c3\u03bf\u03c5 \u03c4\u03b1 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b1). Thy writings, thy contracts, thy note.\" ",
+            "Measures (\u03b2\u03b1\u03c4\u03bf\u03c5\u03c2). Transliterated word for Hebrew bath, between eight and nine gallons.",
+            "Thy bond (\u03c3\u03bf\u03c5 \u03c4\u03b1 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b1). Thy writings, thy contracts, thy note.",
             "Quickly (\u03c4\u03b1\u03c7\u03b5\u03c9\u03c2). It was a secret arrangement and speed was essential."
         ],
         "John Gill": [
-            "And he said an hundred measures of oil....which illustrates the above observation, that they were for the temple service...\" ",
-            "Take thy bill, or 'writing'; which showed the bargain made for so many measures; and which acknowledged the receipt of them, and promised payment...\" ",
-            "and write fifty; just half; that it might appear he had bought but fifty, and was accountable for no more."
+            "And he said an hundred measures of oil,.... Or 'baths of oil', the same quantity as in Ezra 7:22 where Aben Ezra calls them, 'measures', as we do here.",
+            "Take thy bill, or 'writing'; which showed the bargain made for so many measures; and which acknowledged the receipt of them, and promised payment.",
+            "and sit down quickly; for his case required haste; and write fifty; just half; that it might appear he had bought but fifty, and was accountable for no more."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -58,67 +58,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The parable of the unjust steward in Luke 16:6 is depicted through graphic language to convey the urgency and secrecy of the steward's actions. The debtors are gathered together, implicating all and ensuring their silence. The steward quickly returns the bill to the debtor, allowing him to alter the figures in a new contract. The measurement used, a Hebrew bath, is uncertain, but it was a significant amount. The haste of the arrangement indicates the steward's knowledge that his master would soon remove him. This parable serves as a cautionary tale, highlighting the steward's unlawful actions and disobedience to his lord's commands.",
-            "wordCount": 105,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.2476124577445393,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.83,
+            "bht": "The steward in this verse is instructed by his master to take his bill and quickly sit down to alter the figure, returning each debtor his own bond. This secret transaction must be hurried through, as the steward deals with measures of uncertain amounts and writings containing contracts. The speed is essential because it is a furtive, business arrangement. The measure mentioned is the 'bath', containing around 9 gallons. Those who owe the rich man are persons who rented land and were to give him a proportion of the produce. The urgency of this transaction highlights the fact that sinners would be slow to give an account to God if they could.",
+            "wordCount": 111,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.330000820916899,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.57,
             "commentatorTierSimilarities": [
-                34.67,
-                40.7,
-                24.63
+                28.88,
+                41.43,
+                29.69
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The imagery and language used in this passage from Luke depict the hurried and furtive actions of the unjust steward. The debtors are gathered together, ensuring their mutual involvement and silence. The steward quickly returns the bill to the debtor to alter the figures, emphasizing the secretive nature of the transaction. The exact measurement used, a Hebrew bath, remains uncertain. The urgency of the arrangement suggests that the steward anticipated his impending removal. This parable serves as a warning against unlawful actions and disobedience.",
-            "wordCount": 84,
-            "quoteTokenProportion": 27.12,
-            "qualityScore": 1.1344822390452869,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+            "bht": "The steward swiftly handles his business, taking his bill to alter the figures and returning each debtor's own bond. He sits down quickly, engaged in the secret and urgent transaction. The uncertain measurements and contracts add to the weight of the task. The mentioned measure, the 'bath', contains around 9 gallons. These debtors are individuals who rented land and owed a portion of the produce to the rich man. This passage emphasizes the reluctance of sinners to give an account to God willingly.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.215307259490642,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.75,
             "commentatorTierSimilarities": [
-                40.58,
-                36.31,
-                23.11
+                32.47,
+                38.73,
+                28.8
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The graphic language used in these commentaries unveils the urgency and secrecy behind the actions of the unjust steward. The debtors are gathered together to implicate each other and prevent anyone from revealing the truth. With haste, the steward returns the bill to the debtor to alter the figures, demonstrating the covert nature of their transaction. The exact measurement, a Hebrew bath, varies in definition. The swift arrangement implies the steward's awareness of his imminent removal. This cautionary tale exposes the steward's unlawful actions and disobedience to his lord's commands.",
-            "wordCount": 93,
-            "quoteTokenProportion": 29.69,
-            "qualityScore": 1.1668721881458763,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.14,
+            "bht": "The steward swiftly attends to his task, taking his bill and sitting down quickly to alter the figures, ensuring each debtor receives their own bond. The urgency of this secret transaction is evident, as the unquantifiable measures and contractual writings are handled expediently. The mentioned 'bath' contains around 9 gallons, and the debtors in question are those who had rented land and owed a portion of the produce to the rich man. This scenario highlights the natural resistance of sinners to willingly give an account to God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.3169215648924508,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.13,
             "commentatorTierSimilarities": [
-                37.37,
-                36.56,
-                26.07
+                29.41,
+                38.11,
+                32.48
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The vivid imagery employed in this analysis reveals the illicit and secretive nature of the steward's dealings. The debtors are summoned together, creating a sense of mutual implication and silence. Urgency is emphasized as the steward swiftly returns the bill to the debtor, allowing him to alter the figures discreetly. The specific measurement used, a Hebrew bath, remains uncertain. The promptness of the transaction suggests the steward's anticipation of his impending removal. This parable serves as a cautionary tale, highlighting the steward's unlawful actions and disobedience.",
-            "wordCount": 89,
-            "quoteTokenProportion": 22.58,
-            "qualityScore": 1.1094935737098575,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.23,
+            "bht": "The steward is instructed to quickly and secretly alter the figures on his bill, returning each debtor their own bond. With uncertain measurements and contractual writings, the urgency of this transaction is evident. The mentioned 'bath' contains around 9 gallons, and these debtors are individuals who rented land and owed a portion of the produce to the rich man. This passage underscores the reluctance of sinners to willingly give an account to God, who patiently waits for their response.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3337327415674343,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.69,
             "commentatorTierSimilarities": [
-                43.47,
-                34.58,
-                21.95
+                27.07,
+                37.73,
+                35.21
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The depiction of the unjust steward in Luke 16:6 is piercingly vivid. The debtors are intentionally gathered together to implicate one another and prevent any disclosure. The steward hurriedly returns the bill to the debtor, enabling him to clandestinely alter the figures. The use of a Hebrew bath as a measurement adds ambiguity to the exact amount. The urgency of the arrangement indicates the steward's anticipation of his imminent dismissal. This parable serves as a cautionary tale, emphasizing the steward's wrongdoings and disobedience.",
-            "wordCount": 84,
-            "quoteTokenProportion": 29.31,
-            "qualityScore": 1.1586691333072843,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.87,
+            "bht": "In this scenario, the steward is given the task of swiftly and furtively altering the figures on his bill, promptly returning each debtor their own bond. The urgency of this transaction is emphasized by the need for quick action. The 'bath', with around 9 gallons, serves as the measure for this business arrangement. These debtors are individuals who leased land and were obligated to yield a portion of the produce to the wealthy man. This circumstance highlights the natural reluctance of sinners to give a voluntary account to God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.1756569165130877,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.43,
             "commentatorTierSimilarities": [
-                38.79,
-                35.44,
-                25.77
+                31.31,
+                37.26,
+                31.44
             ],
             "generationAttempt": 5
         }

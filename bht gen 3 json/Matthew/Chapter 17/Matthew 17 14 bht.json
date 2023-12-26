@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 23:48:55",
+    "timestamp": "12-25-2023 20:31:44",
     "verseRef": "Matthew 17:14",
     "bestBHT": {
-        "bht": "The failure of the disciples had probably occasioned a denial of Christ\u2019s authority on the part of the scribes, which led to the agitation of the crowd. However, amidst this situation, a certain man approached Jesus, kneeling down to Him in a gesture of homage and veneration, showing his great esteem and respect. This highlights the subtlety of error and emphasizes the importance of discerning true authority.",
-        "wordCount": 68,
-        "quoteTokenProportion": 31.25,
-        "qualityScore": 1.1781341878367328,
-        "qualityScoreNormalizedComparedToV2BHTs": 30.52,
+        "bht": "Overwhelmed by the unexpected sight of Jesus, a multitude left the scribes and enthusiastically ran to meet him, prostrating themselves before him in a display of reverence and fervent appeal. This act of homage, not to be confused with worship, was prompted by the disciples' failure and the subsequent challenge to Christ's authority from the scribes. In the midst of this agitation, a man approached Jesus, kneeling down as a mark of great respect and veneration.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5643457600882194,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.36,
         "commentatorTierSimilarities": [
             0.0,
-            59.98,
-            40.02
+            63.13,
+            36.87
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Albert Barnes": [
-            "Error is always subtle, and often puts on the appearance of calm and honest inquiry.",
-            "Well had he compared them to leavens.",
-            "A certain man kneeling down to him - That is, saluting him, or showing high regard for him."
+            "The multitude, seeing Jesus coming down, left the scribes, and ran to meet him... They were amazed, probably because they had not expected to see him there.",
+            "In their joy at meeting him in this unexpected manner, they 'saluted' him; that is, probably they prostrated themselves before him after the manner of salutation in Eastern countries.",
+            "A certain man kneeling down to him... did not imply religious homage, but merely high respect and earnest entreaty."
         ],
         "Philip Schaff": [
             "Kneeling to him. An act of homage, not necessarily of worship.",
@@ -26,9 +26,9 @@
             "Hence the agitation of the crowd."
         ],
         "John Gill": [
-            "Who had applied to the nine disciples on the behalf of his son, but without success, and was waiting till Christ came from the mount.\" ",
-            "Kneeling down to him in the manner of a supplicant, doing him homage and worship; hereby showing his great esteem of him, and veneration for him.",
-            "And saying the following words."
+            "During their stay on the mountain, there came to him a certain man... who had applied to the nine disciples on the behalf of his son, but without success.\" ",
+            "Who when he saw him, made up to him and kneeling down to him in the manner of a supplicant, doing him homage and worship; hereby showing his great esteem of him, and veneration for him.",
+            "Saying the following words."
         ],
         "John Wesley": [
             "Mark 9:14; Luke 11:37."
@@ -51,67 +51,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, we see a certain man who had approached and knelt down before Jesus, seeking His help for his son. The failure of the disciples to heal the boy had caused some to doubt Christ's authority, leading to agitation among the crowd. The man's act of kneeling to Jesus was a gesture of homage and respect, expressing his deep esteem and veneration for Him. This situation highlights the subtlety of error and the importance of discerning true authority.",
-            "wordCount": 82,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.0703665571007834,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.93,
+            "bht": "In a moment of unexpected joy, a multitude left behind the scribes and eagerly ran to meet Jesus as he descended from the mountain. Overwhelmed by his presence, they prostrated themselves before him, showing deep respect and earnestly entreating him. This act of homage, not necessarily worship, was a response to the failure of the disciples and the ensuing denial of Christ's authority by the scribes. It was in this agitated state that a certain man, who had sought help from the disciples for his son without success, approached Jesus, kneeling down before him and demonstrating both esteem and veneration.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4571204090188172,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
             "commentatorTierSimilarities": [
                 0.0,
-                52.22,
-                47.78
+                61.29,
+                38.71
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "A man approached Jesus, kneeling down to Him in a gesture of deep esteem and veneration. The disciples' previous failure to heal his son had caused doubt and agitation among the crowd, questioning Christ's authority. This situation serves as a reminder of the subtlety of error and the need to discern true authority.",
-            "wordCount": 54,
-            "quoteTokenProportion": 30.95,
-            "qualityScore": 1.1036229755828133,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.04,
+            "bht": "In a moment of unexpected joy, a multitude left behind the scribes and eagerly ran to meet Jesus. Overwhelmed by his presence, they prostrated themselves before him, showing deep respect and entreating him. This act of homage, not necessarily worship, was a response to the failure of the disciples and the ensuing denial of Christ's authority by the scribes. A certain man, who had sought help from the disciples for his son without success, approached Jesus, kneeling down before him and demonstrating esteem and veneration.\n",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.432834967043795,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.98,
             "commentatorTierSimilarities": [
                 0.0,
-                57.31,
-                42.69
+                60.21,
+                39.79
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The failure of the disciples to heal the boy had probably occasioned a denial of Christ\u2019s authority on the part of the scribes, leading to an agitated crowd. However, in the midst of this, a certain man approached Jesus, kneeling down, expressing his great esteem and veneration for Him. This act of homage and respect highlighted the subtlety of error and emphasized the importance of discerning true authority.",
-            "wordCount": 69,
-            "quoteTokenProportion": 32.0,
-            "qualityScore": 1.1599904443451265,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.91,
+            "bht": "In the unexpected encounter, a multitude left the scribes and quickly approached Jesus, overwhelmed and prostrating themselves before him in a gesture of respect and earnest entreaty. This act of homage, distinguished from worship, arose from the failure of the disciples and the resultant denial of Christ's authority by the scribes. Amidst this agitation, a certain man, unsuccessful in seeking help from the disciples for his son, knelt before Jesus, showcasing his deep admiration and veneration for him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.4868353284295122,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.78,
             "commentatorTierSimilarities": [
                 0.0,
-                55.89,
-                44.11
+                61.02,
+                38.98
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The failure of the disciples had probably occasioned a denial of Christ\u2019s authority on the part of the scribes, which led to the agitation of the crowd. However, amidst this situation, a certain man approached Jesus, kneeling down to Him in a gesture of homage and veneration, showing his great esteem and respect. This highlights the subtlety of error and emphasizes the importance of discerning true authority.",
-            "wordCount": 68,
-            "quoteTokenProportion": 31.25,
-            "qualityScore": 1.1781341878367328,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.52,
+            "bht": "In a moment of unexpected joy, a multitude left behind the scribes and eagerly ran to meet Jesus, prostrating themselves before him as a sign of respect and earnest entreaty. This act of homage, distinct from worship, was a response to the failure of the disciples and the denial of Christ's authority by the scribes. In the midst of this agitation, a certain man approached Jesus, kneeling down before him to demonstrate his profound esteem and veneration.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.531872528920966,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.28,
             "commentatorTierSimilarities": [
                 0.0,
-                59.98,
-                40.02
+                64.65,
+                35.35
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The failure of the disciples had likely caused doubt in Christ's authority, leading to agitation among the crowd. Yet, amidst this, a man approached Jesus, kneeling down as a sign of homage, expressing his deep regard and reverence for Him. This act reminds us of the subtlety of error and emphasizes the need to discern true authority.",
-            "wordCount": 58,
-            "quoteTokenProportion": 34.78,
-            "qualityScore": 1.1496014175512628,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.57,
+            "bht": "Overwhelmed by the unexpected sight of Jesus, a multitude left the scribes and enthusiastically ran to meet him, prostrating themselves before him in a display of reverence and fervent appeal. This act of homage, not to be confused with worship, was prompted by the disciples' failure and the subsequent challenge to Christ's authority from the scribes. In the midst of this agitation, a man approached Jesus, kneeling down as a mark of great respect and veneration.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5643457600882194,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
             "commentatorTierSimilarities": [
                 0.0,
-                62.65,
-                37.35
+                63.13,
+                36.87
             ],
             "generationAttempt": 5
         }

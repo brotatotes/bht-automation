@@ -1,49 +1,49 @@
 {
-    "timestamp": "12-19-2023 16:33:19",
+    "timestamp": "12-25-2023 20:34:15",
     "verseRef": "Acts 18:23",
     "bestBHT": {
-        "bht": "In this precious history, we witness the remarkable calling of Apollos, a learned Hellenist of Alexandria whose masterful exposition of Scripture formed the most appropriate nourishment for those planted by Gamaliel's pupil. Apollos spent time in Galatia and Phrygia, strengthening and establishing disciples with his profound knowledge and unwavering dedication. It is a narrative that showcases the apostle's diligent efforts in confirming and fortifying the minds of believers, preparing them to withstand temptations and persecution.",
-        "wordCount": 77,
-        "quoteTokenProportion": 30.65,
-        "qualityScore": 1.4474499633381805,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+        "bht": "In this captivating narrative, we witness the providential calling of Apollos to the ministry. His masterful and eloquent exposition of the Scriptures, along with his deep learning, proved to be of great value to the disciples. Although he spent some time there, Apollos departed, unaware that he would never return. This incident highlights the significance of his role in strengthening and establishing the disciples in their faith.",
+        "wordCount": 67,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.5189876513530143,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.85,
         "commentatorTierSimilarities": [
-            27.8,
-            31.43,
-            40.77
+            35.05,
+            35.38,
+            29.58
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "We see in the providential calling of Apollos to the ministry, an instance of adaptation of the workman to the work.",
-            "A masterly exposition of the Scriptures by a learned Hellenist of Alexandria formed the most appropriate watering for those who had been planted by the pupil of Gamaliel.",
-            "The word rendered eloquent may mean learned. But the former meaning is most appropriate here, both because the peculiar kind of learning implied by it, acquaintance with stories and legends, would not be likely to be predicated of Apollos."
+            "A masterly exposition of the Scriptures by a learned Hellenist of Alexandria formed the most appropriate watering (1 Cor. iii. 6) for those who had been planted by the pupil of Gamaliel.",
+            "The word rendered eloquent may mean learned. But the former meaning is most appropriate here, both because the peculiar kind of learning implied by it, acquaintance with stories and legends, would not be likely to be predicated of Apollos,\u2014and because the subsequent words, mighty in the Scriptures, sufficiently indicate his learning, and in what it lay."
         ],
         "Jamieson-Fausset-Brown": [
-            "And after he had spent some time there\u2014but probably not long. he departed\u2014little thinking, probably, he was never more to return to Antioch.\" ",
-            "Galatia is mentioned first here, as he would come to it first from Antioch. It was on this visitation that he ordained the weekly collection (1 Corinthians 16:1; 1 Corinthians 16:2), which has been since adopted generally, and converted into a public usage throughout Christendom.",
+            "And after he had spent some time there\u2014but probably not long.",
+            "he departed\u2014little thinking, probably, he was never more to return to Antioch.",
             "This is one of the most interesting and suggestive incidental narratives in this precious history."
         ],
         "Albert Barnes": [
             "He had been over these regions before, preaching the gospel.",
-            "Establishing them by exhortation and counsel.",
+            "Strengthening - Establishing them by exhortation and counsel.",
             "See the notes on Acts 14:22."
         ],
         "Philip Schaff": [
-            "And after he had spent some time there...he departed on his third great missionary journey, about A.D. 54.\" ",
-            "He probably went first from Syrian Antioch to Tarsus, and then in a north-west direction through Galatia; and then turning south-west, he journeyed through Phrygia and so to Ephesus.",
-            "Strengthening all the disciples...in the various churches founded by him and his companions during the first two missionary journeys."
+            "After he had spent some time there...he departed on his third great missionary journey.\" ",
+            "Strengthening all the disciples in the various churches founded by him and his companions.",
+            "Many things alluded to in the Galatian epistle...were suggested by notes made during this visit."
         ],
         "Archibald T. Robertson": [
-            "Having spent some time... having done some time.",
-            "He departed... simply and alone.",
-            "Went through... passing through the Galatic region and then Phrygia."
+            "Having spent some time... How long we do not know, probably not long.",
+            "He departed... alone Paul began the third mission tour without a Barnabas or a Silas.",
+            "Stablishing... as he did in the second tour."
         ],
         "John Gill": [
-            "strengthening all the disciples; that were in those parts, confirming them in the faith of Christ, and fortifying their minds against the temptations of Satan, and encouraging them to bear the reproaches and persecutions of men",
-            "the affection, diligence, and industry of the apostle",
-            "there were disciples in these countries of Galatia and Phrygia, which very likely were made by the apostle, when he passed trough those places"
+            "strengthening all the disciples",
+            "confirming them in the faith of Christ",
+            "fortifying their minds against the temptations of Satan"
         ],
         "John Wesley": [
             "He went over the country of Galatia and Phrygia \u2014 It is supposed, spending about four years therein, including the time he stayed at Ephesus."
@@ -66,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Acts 18:23, we can observe the providential calling of Apollos to the ministry, as his masterful exposition of the Scriptures in Alexandria was the perfect watering for those who had been planted by Gamaliel's pupil. Apollos, an eloquent and learned Hellenist, spent some time in Galatia and Phrygia, strengthening the disciples and establishing them in the faith. This narrative, though brief, is a testament to the affection, diligence, and industry of the apostle as he faithfully journeyed through these regions, confirming the believers and fortifying their minds against temptations and persecutions.",
-            "wordCount": 92,
-            "quoteTokenProportion": 39.44,
-            "qualityScore": 1.5877001435094962,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "bht": "In Acts 18:23, we see the providential calling of Apollos to the ministry and his masterly exposition of the Scriptures, which was most appropriate for those who had been planted by Gamaliel's pupil. Apollos was eloquent and mighty in the Scriptures, demonstrating his exceptional learning. After spending some time there, he departed, not realizing that he would never return to Antioch. This narrative is both interesting and suggestive, highlighting the significance of Apollos' work in strengthening the disciples and establishing them in their faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.568991307835627,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
             "commentatorTierSimilarities": [
-                25.93,
-                32.51,
-                41.57
+                37.95,
+                33.89,
+                28.16
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this precious history, we witness the remarkable calling of Apollos, whose eloquence and learning made him well-suited for the ministry. His masterful exposition of Scripture in Alexandria provided a fitting nourishment for those planted by Gamaliel's pupil. Apollos traveled through Galatia and Phrygia, strengthening and establishing the disciples with his profound knowledge and unwavering dedication. This narrative highlights the apostle's sincere affection, diligence, and industry as he confirmed and encouraged believers, preparing them to withstand challenges and persecution.",
-            "wordCount": 82,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.424808328510758,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "bht": "In this captivating narrative, we witness the providential calling of Apollos to the ministry. His eloquent exposition of the Scriptures, combined with his mighty understanding, was precisely what the disciples needed. Although he spent some time there, Apollos eventually departed, unaware that he would never return. This incident serves as a reminder of the importance of strengthening and establishing believers in their faith. Apollos played a crucial role in fortifying their minds against the temptations of Satan and confirming them in the teachings of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4257977983808834,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.75,
             "commentatorTierSimilarities": [
-                27.42,
-                30.1,
-                42.48
+                32.19,
+                34.05,
+                33.75
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In Acts 18:23, we witness the providential calling of Apollos to the ministry, as his eloquent and learned exposition of Scripture in Alexandria proved to be a perfect fit for those he encountered. Apollos spent time in Galatia and Phrygia, strengthening and establishing disciples in their faith. This narrative serves as a powerful testament to the apostle's diligent efforts, fortifying the minds of believers against temptations and encouraging them to endure persecution. It is a remarkable and thought-provoking addition to the rich history contained in the Scriptures.",
-            "wordCount": 88,
-            "quoteTokenProportion": 29.23,
-            "qualityScore": 1.4685281641708592,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.17,
+            "bht": "In an intriguing and suggestive narrative, we witness the unique calling of Apollos to the ministry. His masterful exposition of the Scriptures served as the perfect nourishment for those who were planted by Gamaliel's pupil. Apollos, both eloquent and deeply learned, spent some time there before departing, unaware that he would never return. This incident highlights the significance of his role in strengthening and establishing the disciples in their faith, fortifying their minds against the temptations they faced.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.4663882528252814,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.1,
             "commentatorTierSimilarities": [
-                25.63,
-                33.03,
-                41.34
+                38.25,
+                33.46,
+                28.29
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this precious history, we witness the remarkable calling of Apollos, a learned Hellenist of Alexandria whose masterful exposition of Scripture formed the most appropriate nourishment for those planted by Gamaliel's pupil. Apollos spent time in Galatia and Phrygia, strengthening and establishing disciples with his profound knowledge and unwavering dedication. It is a narrative that showcases the apostle's diligent efforts in confirming and fortifying the minds of believers, preparing them to withstand temptations and persecution.",
-            "wordCount": 77,
-            "quoteTokenProportion": 30.65,
-            "qualityScore": 1.4474499633381805,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "bht": "In Acts 18:23, we witness the providential calling of Apollos to the ministry, an instance of perfect adaptation of the workman to the work. His masterly exposition of the Scriptures, accompanied by his eloquence and deep learning, served as a significant source of instruction for the disciples. After spending some time there, Apollos departed, unknowingly marking the end of his time in Antioch. This intriguing and insightful narrative emphasizes the importance of his role in strengthening and establishing the disciples in their faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.5160056182790669,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.75,
             "commentatorTierSimilarities": [
-                27.8,
-                31.43,
-                40.77
+                35.93,
+                37.01,
+                27.06
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In Acts 18:23, we see the providential calling of Apollos to the ministry, as his eloquent and learned exposition of Scripture in Alexandria watered those planted by Gamaliel's pupil. Apollos spent time in Galatia and Phrygia, strengthening and establishing disciples with his profound knowledge. This narrative is a testament to the apostle's diligence and industry as he confirmed and encouraged believers, preparing them to withstand challenges and persecution. It is an interesting and thought-provoking addition to the rich history contained in the Scriptures.",
-            "wordCount": 85,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 1.4679535663741952,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.15,
+            "bht": "In this captivating narrative, we witness the providential calling of Apollos to the ministry. His masterful and eloquent exposition of the Scriptures, along with his deep learning, proved to be of great value to the disciples. Although he spent some time there, Apollos departed, unaware that he would never return. This incident highlights the significance of his role in strengthening and establishing the disciples in their faith.",
+            "wordCount": 67,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.5189876513530143,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
             "commentatorTierSimilarities": [
-                27.9,
-                32.32,
-                39.78
+                35.05,
+                35.38,
+                29.58
             ],
             "generationAttempt": 5
         }

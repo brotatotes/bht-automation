@@ -1,7 +1,7 @@
 # Luke 21:11 Commentary Help Text
 
 ## BHT:
-Do not be terrified; these things must happen first before the end. Jesus' warning highlights the inevitability of the events to come. The verses mention earthquakes, famines, pestilences, and fearful sights, which serve as harbingers of the approaching end. The commentary underscores the linguistic wordplay for famines and pestilences, and emphasizes the rare and alarming nature of the sights that will be witnessed. Amidst these trials, Jesus urges his followers to stand firm in their faith, remaining prepared for what lies ahead.
+Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. Josephus elaborates on these signs, mentioning great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -15,9 +15,9 @@ end not by and by—or
 
 
 ### Marvin Vincent:
-1. "Earthquakes. See on Matthew 13:8."
-2. "Famines and pestilences [λιμοι και λοιμοι]. Some texts reverse the order of the words. A paronomasia or combination of like-sounding words: limoi, loimoi."
-3. "Fearful sights [φοβητρα]. Only here in New Testament, and rare in classical Greek. In Septuagint, Isaiah 19:17. Not confined to sights, but fearful things. Rev., better, terrors."
+1. "Earthquakes."
+2. "Famines and pestilences."
+3. "Fearful sights... terrors."
 
 ### Archibald T. Robertson:
 1. "Famines and pestilences (λοιμο κα λιμο). Play on the two words pronounced just alike in the Koine (itacism)."
@@ -25,9 +25,9 @@ end not by and by—or
 3. "This rare word φοβηθρα is only here in the N.T. It is from φοβεω, to frighten, and occurs only in the plural as here."
 
 ### John Gill:
-1. "And great earthquakes shall be in divers places, and famines and pestilences... and fearful sights; or 'terrible things'; whether heard, or seen..."
-2. "...flaming sword, or a comet like one, hanging over Jerusalem, and armies in the air engaged against each other..."
-3. "...very long and cold; and so the Persic version, 'and winter, and cold, shall be protracted'."
+1. "And great earthquakes shall be in divers places, and famines and pestilences..."
+2. "Fearful sights...terrible things...dreadful thunderings, and lightnings..."
+3. "Great signs shall there be from heaven...comets and blazing stars, a flaming sword..."
 
 ### John Wesley:
 1. Fearful sights and signs from heaven — Of which Josephus gives a circumstantial account.
@@ -36,45 +36,34 @@ end not by and by—or
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:22:33
+- Timestamp: 12-25-2023 20:33:35
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 33.33%
-- BHT Quality Score: 1.3076429332948762
+- BHT Word Count: 64
+- BHT Commentary Usage: 34.78%
+- BHT Quality Score: 1.6631149993794416
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['ahead', 'alarming', 'amidst', 'and', 'approaching', 'as', 'be', 'before', 'come', 'commentary', 'do', 'earthquakes', 'emphasizes', 'end', 'events', 'faith', 'famines', 'fearful', 'firm', 'first', 'followers', 'for', 'happen', 'harbingers', 'highlights', 'his', 'in', 'inevitability', 'jesus', 'lies', 'linguistic', 'mention', 'must', 'nature', 'not', 'of', 'pestilences', 'prepared', 'rare', 'remaining', 'serve', 'sights', 'stand', 'terrified', 'that', 'the', 'their', 'these', 'things', 'to', 'trials', 'underscores', 'urges', 'verses', 'warning', 'what', 'which', 'will', 'witnessed', 'wordplay']
-- ChatGPT injected words (significant words only) (40):
-	['ahead', 'alarming', 'amidst', 'approaching', 'come', 'commentary', 'earthquakes', 'emphasizes', 'end', 'events', 'faith', 'famines', 'fearful', 'firm', 'followers', 'happen', 'harbingers', 'highlights', 'inevitability', 'jesus', 'lies', 'linguistic', 'mention', 'nature', 'pestilences', 'prepared', 'rare', 'remaining', 'serve', 'sights', 'stand', 'terrified', 'things', 'trials', 'underscores', 'urges', 'verses', 'warning', 'witnessed', 'wordplay']
+- ChatGPT injected words (46):
+	['a', 'alike', 'all', 'and', 'are', 'before', 'blazing', 'by', 'characterized', 'come', 'comets', 'denoting', 'earthquakes', 'elaborates', 'famines', 'fearful', 'fright', 'from', 'great', 'greek', 'heaven', 'in', 'including', 'is', 'josephus', 'mentioning', 'must', 'on', 'one', 'over', 'pestilences', 'play', 'pronounced', 'rare', 'sights', 'signs', 'stars', 'terrifying', 'terrors', 'the', 'these', 'with', 'woes', 'word', 'words', 'worse']
+- ChatGPT injected words (significant words only) (30):
+	['alike', 'blazing', 'characterized', 'come', 'comets', 'denoting', 'earthquakes', 'elaborates', 'famines', 'fearful', 'fright', 'great', 'greek', 'heaven', 'including', 'josephus', 'mentioning', 'pestilences', 'play', 'pronounced', 'rare', 'sights', 'signs', 'stars', 'terrifying', 'terrors', 'woes', 'word', 'words', 'worse']
 
 ### Logs
-- Attempt 1 BHT: In Luke 21:11, Jesus warns of the events to come, saying Do not be terrified; these things must happen first before the end. The verse references earthquakes, famines, pestilences, and fearful sights, which will signal the approaching end times. These terrors and signs from heaven will bring great upheaval and devastation. The commentary suggests a paronomasia, or play on words, using similar-sounding phrases for famines and pestilences, and emphasizes the rare and fearful nature of the sights to be witnessed. It is clear that Jesus wants his followers to be prepared for these challenging times, trusting in their faith.
-- 🔄 Luke 21:11 (attempt 1, 99 words, 35.21% quotes quality score: 1.4425902897100595, V2 normalized quality score: 39.31, commentator tiers 1-3: 35.55%, 0.0%, 64.45%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Do not be terrified, these things must happen first before the end. Jesus warns of the impending calamities - earthquakes, famines, pestilences, and fearful sights. The commentary reinforces the gravity of these events, highlighting the paronomasia of similar-sounding phrases for famines and pestilences. It underscores the rarity and fear-inducing nature of the sights to be witnessed. Jesus urges his followers to remain firm in their faith, prepared for the tribulations that will precede the culmination of these events.
-- 🔄 Luke 21:11 (attempt 2, 79 words, 32.73% quotes quality score: 1.16916000551099, V2 normalized quality score: 30.22, commentator tiers 1-3: 34.45%, 0.0%, 65.55%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 3 BHT: Jesus cautions against being terrified, as these events are necessary before the end. The passage mentions earthquakes, famines, pestilences, and fearful sights, signaling the approaching culmination. The commentary explains the play on words for famines and pestilences, as well as the rare and unsettling nature of the sights to be witnessed. Jesus encourages his followers to remain steadfast in their faith, prepared for the coming trials.
-- 🔄 Luke 21:11 (attempt 3, 66 words, 34.69% quotes quality score: 1.3163706443593228, V2 normalized quality score: 35.11, commentator tiers 1-3: 37.3%, 0.0%, 62.7%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: Do not be terrified; these things must happen first before the end. Jesus' warning highlights the inevitability of the events to come. The verses mention earthquakes, famines, pestilences, and fearful sights, which serve as harbingers of the approaching end. The commentary underscores the linguistic wordplay for famines and pestilences, and emphasizes the rare and alarming nature of the sights that will be witnessed. Amidst these trials, Jesus urges his followers to stand firm in their faith, remaining prepared for what lies ahead.
-- 🔄 Luke 21:11 (attempt 4, 82 words, 33.33% quotes quality score: 1.3076429332948762, V2 normalized quality score: 34.82, commentator tiers 1-3: 36.19%, 0.0%, 63.81%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 5 BHT: Jesus warns, Do not be terrified; these things must happen first before the end. The verse refers to earthquakes, famines, pestilences, and fearful sights, which serve as signs of the approaching culmination. The commentary highlights the play on words for famines and pestilences and emphasizes the rare and unsettling nature of the sights to be witnessed. Despite these trials, Jesus urges followers to stay strong in their faith, prepared for what is to come.
-- 🔄 Luke 21:11 (attempt 5, 74 words, 35.19% quotes quality score: 1.3828955720791278, V2 normalized quality score: 37.32, commentator tiers 1-3: 37.92%, 0.0%, 62.08%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Luke 21:11 bht prompt v0.8 (82 words, 33.33% quotes)
-- quality score: 1.3076429332948762, V2 normalized quality score: 34.82, commentator tiers 1-3: 36.19%, 0.0%, 63.81%)
+- Attempt 1 BHT: Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. These events are not to terrify us, but rather serve as signs and warnings. Josephus further elaborates on these signs, mentioning great earthquakes, fearful sights and signs from heaven, and even comets and blazing stars.
+- 🔄 Luke 21:11 (attempt 1, 79 words, 42.11% quotes quality score: 1.6244149739527378, V2 normalized quality score: 45.35, commentator tiers 1-3: 40.26%, 0.0%, 59.74%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. These events are not to terrify us, but rather serve as signs and warnings. Josephus further describes great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.
+- 🔄 Luke 21:11 (attempt 2, 75 words, 41.07% quotes quality score: 1.6205477986291155, V2 normalized quality score: 45.23, commentator tiers 1-3: 40.55%, 0.0%, 59.45%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. These events are not to terrify us, but rather serve as signs and warnings. Josephus further elaborates on the signs, mentioning great earthquakes, and fearful sights and signs from heaven, including comets and blazing stars.
+- 🔄 Luke 21:11 (attempt 3, 79 words, 40.35% quotes quality score: 1.6154575107725058, V2 normalized quality score: 45.06, commentator tiers 1-3: 40.19%, 0.0%, 59.81%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These events are not meant to terrify, but rather to serve as signs and warnings. Josephus provides further details, mentioning great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.
+- 🔄 Luke 21:11 (attempt 4, 49 words, 37.5% quotes quality score: 1.6145428796530716, V2 normalized quality score: 45.03, commentator tiers 1-3: 33.02%, 0.0%, 66.98%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Worse must come before all is over - earthquakes, famines, pestilences, and terrifying sights and terrors. These woes are characterized by a play on words, with famines and pestilences and terrors pronounced alike in the Greek. The word terrors is a rare one, denoting fright. Josephus elaborates on these signs, mentioning great earthquakes and fearful sights and signs from heaven, including comets and blazing stars.
+- 🔄 Luke 21:11 (attempt 5, 64 words, 34.78% quotes quality score: 1.6631149993794416, V2 normalized quality score: 46.64, commentator tiers 1-3: 41.62%, 0.0%, 58.38%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 21:11 bht prompt v0.8 (64 words, 34.78% quotes)
+- quality score: 1.6631149993794416, V2 normalized quality score: 46.64, commentator tiers 1-3: 41.62%, 0.0%, 58.38%)

@@ -1,38 +1,38 @@
 {
-    "timestamp": "12-19-2023 16:16:51",
+    "timestamp": "12-25-2023 20:33:14",
     "verseRef": "Luke 8:38",
     "bestBHT": {
-        "bht": "Having been freed from the grip of the demons, the man pleaded persistently to accompany Jesus, but Jesus, recognizing the potential of the man's testimony among his own people, instructed him to return home. The man, filled with gratitude for Jesus' power and grace, left obediently, carrying with him the incredible story of his deliverance. Jesus' decision to send him away demonstrates the gentle drawing power of goodness, as opposed to the fear-inducing nature of power, and highlights the importance of sharing the remarkable acts of kindness received from God.",
-        "wordCount": 92,
-        "quoteTokenProportion": 23.33,
-        "qualityScore": 1.1603391958789646,
-        "qualityScoreNormalizedComparedToV2BHTs": 29.92,
+        "bht": "Recognizing Jesus' divine power, the restored man pleaded persistently to accompany him. His prayer attests to his understanding of both the power and goodness of God. Although Jesus declined his request to become his disciple, it is likely that he intended for the man to proclaim the remarkable act of kindness he had experienced to his Gentile compatriots. The man's response, marked by his prayers and fervent plea, distinguishes him, leading Jesus to dismiss him so that he could spread the news of his miraculous deliverance.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.4981152453666469,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.15,
         "commentatorTierSimilarities": [
-            29.67,
+            46.14,
             0.0,
-            70.33
+            53.86
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Beseech is used to render parakalew. Parakalew, beseech, is used of prayer to God in only one instance, 2 Corinthians 12:8, where Paul besought the Lord to remove the thorn in the flesh.\" ",
-            "Frequently of requests to Christ while on earth.\" ",
-            "The distinction, however, must not be closely pressed. The two words seem to be often used interchangeably in the New Testament."
+            "Beseech is used to render parakalew (Mark 5:10).",
+            "Parakalew, beseech, is used of prayer to God in only one instance, 2 Corinthians 12:8.",
+            "The restored man, recognizing Jesus' divine power, prayed [\u03b5\u03b4\u03b5\u03b9\u03c4\u03bf] to be with him."
         ],
         "John Calvin": [
+            "Hence we learn how wide is the difference between the knowledge of the goodness, and the knowledge of the power, of God.",
             "Power strikes men with terror, makes them fly from the presence of God, and drives them to a distance from him: but goodness draws them gently, and makes them feel that nothing is more desirable than to be united to God.",
-            "Why Christ refuses to have this man as one of his followers we cannot determine with certainty, if it was not that he expected the man to make himself more extensively useful by communicating to his Gentile countrymen the remarkable and extraordinary act of kindness which he had received.",
-            "\u2026he [the healed man] actually did [communicate the act of kindness to his Gentile countrymen], as we are assured by Mark and Luke."
+            "Why Christ refuses to have this man as one of his followers we cannot determine with certainty, if it was not that he expected the man to make himself more extensively useful by communicating to his Gentile countrymen the remarkable and extraordinary act of kindness which he had received; and this he actually did, as we are assured by Mark and Luke."
         ],
         "Archibald T. Robertson": [
-            "From whom the devils were gone out, past perfect active of \u03b5\u03be\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1, state of completion in the past.",
-            "Prayed him, imperfect middle, kept on begging."
+            "From whom the devils (demons) were gone out, state of completion in the past.\" ",
+            "Prayed him, kept on begging."
         ],
         "John Gill": [
-            "Now the man out of whom the devils were departed,.... Sensible of the power of Christ, and of the favor he had received from him, was of a quite different mind from his countrymen.\" ",
-            "But Jesus sent him away; from him, into the country.",
-            "Saying, as follows."
+            "Sensible of the power of Christ, and of the favor he had received from him, was of a quite different mind from his countrymen.\" ",
+            "And besought him that he might be with him.\" ",
+            "But Jesus sent him away; from him, into the country."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -52,67 +52,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The man who had been healed from demons by Jesus earnestly begged to go with Jesus, but Jesus told him to return home. The man, overwhelmed by the power of Christ and the kindness he had received, was eager to be a follower and share his story with others. Jesus, in his wisdom, had another plan for the man. Perhaps Jesus expected the man to be more effective in spreading the news of his miraculous healing among his own people. Regardless of the reasons, Jesus asked the man to go, and the man obediently departed, carrying the message of Christ's power and goodness with him.",
-            "wordCount": 106,
-            "quoteTokenProportion": 41.94,
-            "qualityScore": 1.086145172388689,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.46,
+            "bht": "The restored man, recognizing Jesus' divine power, kept on begging to be with him. He prayed to Jesus, fully aware of the demons that had been cast out of him. This man's desire to be with Jesus demonstrates his understanding of both the power and the goodness of God. Although Jesus denied the man's request to be his follower, it is likely that Jesus wanted him to share his incredible story with his Gentile countrymen. This man's response to Jesus's power and favor sets him apart from his fellow countrymen, and he was sent away by Jesus to spread the news of what had happened to him.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4701353643731654,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.22,
             "commentatorTierSimilarities": [
-                30.78,
+                43.99,
                 0.0,
-                69.22
+                56.01
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Having been freed from the grip of the demons, the man pleaded persistently to accompany Jesus, but Jesus, recognizing the potential of the man's testimony among his own people, instructed him to return home. The man, filled with gratitude for Jesus' power and grace, left obediently, carrying with him the incredible story of his deliverance. Jesus' decision to send him away demonstrates the gentle drawing power of goodness, as opposed to the fear-inducing nature of power, and highlights the importance of sharing the remarkable acts of kindness received from God.",
-            "wordCount": 92,
-            "quoteTokenProportion": 23.33,
-            "qualityScore": 1.1603391958789646,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.92,
+            "bht": "The restored man, recognizing Jesus' divine power, kept on begging to be with him. He prayed to Jesus, fully aware of the demons that had been cast out of him. This man's desire to be with Jesus demonstrates his understanding of both the power and the goodness of God. Although Jesus denied the man's request to be his follower, it is likely that Jesus wanted him to share his incredible story with his Gentile countrymen. This man's response to Jesus's power and favor sets him apart from his fellow countrymen, and he was sent away by Jesus to spread the news of what had happened to him.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4701353643731654,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.22,
             "commentatorTierSimilarities": [
-                29.67,
+                43.99,
                 0.0,
-                70.33
+                56.01
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The healed man implored Jesus to be allowed to accompany him, but Jesus urged him to go back home. The man, profoundly aware of the power and kindness of Christ, was eager to become a follower and communicate the astonishing miracle he had experienced. Jesus, however, had a different plan for him, knowing that he could be more effective in spreading the news among his own people. Thus, the man obediently departed, carrying with him the story of Christ's divine intervention.",
-            "wordCount": 82,
-            "quoteTokenProportion": 43.1,
-            "qualityScore": 1.0514349241571588,
-            "qualityScoreNormalizedComparedToV2BHTs": 26.3,
+            "bht": "The restored man, recognizing Jesus' divine power, prayed to be with him. His prayers beseeched Jesus, acknowledging the demons that had been expelled from him. This man's plea reveals his understanding of both the power and goodness of God. Although Jesus refused his request to follow him, it is probable that he intended for the man to share his story with his Gentile countrymen. The man's response to Jesus' power and favor distinguished him from others, leading Jesus to send him away to spread the remarkable act of kindness he had received.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.4724126847688974,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
             "commentatorTierSimilarities": [
-                30.14,
+                47.6,
                 0.0,
-                69.86
+                52.4
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The man who had been delivered from the demons pleaded fervently to accompany Jesus, but Jesus felt it was best for him to return home. The man, deeply grateful for the power and favor he had received, longed to be a follower and share his extraordinary testimony. Jesus recognized the man's potential to communicate this remarkable act of kindness to his own people. Consequently, Jesus sent him away, and the man dutifully departed, carrying with him the story of his miraculous deliverance.",
-            "wordCount": 83,
-            "quoteTokenProportion": 34.48,
-            "qualityScore": 1.121989597062904,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.65,
+            "bht": "The restored man, fully aware of Jesus' divine power, devotedly prayed to be with him. Jesus granted his request to accompany him as a follower. This man's steadfastness in beseeching Jesus sets him apart from others, as he comprehends the difference between the knowledge of God's goodness and the knowledge of his power. Jesus, however, chooses to send him away to share his testimony with his Gentile countrymen, magnifying the extraordinary act of kindness he had received from Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.3945452015666289,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.71,
             "commentatorTierSimilarities": [
-                28.82,
+                41.18,
                 0.0,
-                71.18
+                58.82
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The man, from whom the demons had been cast out, earnestly beseeched Jesus to allow him to go with him. However, Jesus had a different plan in mind for him. Recognizing the man's potential to share his extraordinary experience with his own people, Jesus sent him back home. Filled with gratitude for the power and favor he had received, the man obediently departed, carrying with him the remarkable story of his deliverance.",
-            "wordCount": 73,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.078597978555306,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.21,
+            "bht": "Recognizing Jesus' divine power, the restored man pleaded persistently to accompany him. His prayer attests to his understanding of both the power and goodness of God. Although Jesus declined his request to become his disciple, it is likely that he intended for the man to proclaim the remarkable act of kindness he had experienced to his Gentile compatriots. The man's response, marked by his prayers and fervent plea, distinguishes him, leading Jesus to dismiss him so that he could spread the news of his miraculous deliverance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4981152453666469,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
             "commentatorTierSimilarities": [
-                33.02,
+                46.14,
                 0.0,
-                66.98
+                53.86
             ],
             "generationAttempt": 5
         }

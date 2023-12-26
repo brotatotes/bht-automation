@@ -1,7 +1,7 @@
 # Luke 11:3 Commentary Help Text
 
 ## BHT:
-Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The precise meaning of the phrase daily bread has been the subject of scholarly debate, but the rendering of daily has prevailed in the Western Church and captures the intention of the original words. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.
+Give us day by day our daily bread. This prayer is an extension of the petition in Matthew for this day's supply, to every successive day's necessities. The rendering of daily as every day captures the original meaning and is faithful to the Syriac version. While the exact interpretation of daily is uncertain, it likely refers to each following day or the day then breaking. This prayer teaches us to rely on God for our daily sustenance and to seek His provision without anxiety.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -10,9 +10,9 @@ Grant us our daily bread, our necessary sustenance for each day. This petition, 
 3. "probably this prayer was never used in the Christian assemblies but in its present form, as we find it in Matthew, while in Luke it has been allowed to stand as originally uttered."
 
 ### Marvin Vincent:
-1. "The familiar rendering, daily, which has prevailed uninterruptedly in the Western Church from the beginning, is a fairly adequate representation of the original." 
-2. "It would be profitless to the English reader to go into the discussion. A scholar is quoted as saying that the term is 'the rack of theologians and grammarians.'"
-3. "If the prayer were said in the evening, no doubt it would mean the following day; but supposing it to be used before dawn, it would designate the day then breaking" (the coming day)."
+1. "The familiar rendering, daily, which has prevailed uninterruptedly in the Western Church from the beginning, is a fairly adequate representation of the original."
+2. "No doubt it would mean the following day; but supposing it to be used before dawn, it would designate the day then breaking" (the coming day).
+3. "If the command not to be anxious is tantamount to a prohibition against prayer for the object about which we are forbidden to be anxious, then not only must we not pray for tomorrow's food, but we must not pray for food at all."
 
 ### Philip Schaff:
 1. Luke 11:3. This verse may be thus more exactly translated: ‘our sufficient (or needful) bread give us for the day.’
@@ -27,35 +27,39 @@ Grant us our daily bread, our necessary sustenance for each day. This petition, 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:17:46
+- Timestamp: 12-25-2023 20:33:15
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 33.93%
-- BHT Quality Score: 1.4396216945007623
+- BHT Word Count: 86
+- BHT Commentary Usage: 41.82%
+- BHT Quality Score: 1.5024376292237656
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['all', 'an', 'and', 'at', 'been', 'beseeches', 'bread', 'but', 'captures', 'church', 'coming', 'daily', 'day', 'debate', 'each', 'encompasses', 'evening', 'extension', 'for', 'god', 'grant', 'hand', 'has', 'in', 'intention', 'is', 'it', 'meaning', 'morning', 'necessary', 'necessities', 'of', 'ongoing', 'or', 'original', 'our', 'petition', 'phrase', 'prayer', 'precise', 'prevailed', 'provisions', 'recited', 'rendering', 'request', 's', 'scholarly', 'subject', 'supply', 'sustenance', 'the', 'this', 'us', 'western', 'whether', 'words']
-- ChatGPT injected words (significant words only) (37):
-	['beseeches', 'bread', 'captures', 'church', 'coming', 'daily', 'day', 'debate', 'encompasses', 'evening', 'extension', 'god', 'grant', 'hand', 'intention', 'meaning', 'morning', 'necessary', 'necessities', 'ongoing', 'original', 'petition', 'phrase', 'prayer', 'precise', 'prevailed', 'provisions', 'recited', 'rendering', 'request', 's', 'scholarly', 'subject', 'supply', 'sustenance', 'western', 'words']
+- ChatGPT injected words (55):
+	['an', 'and', 'anxiety', 'as', 'bread', 'breaking', 'by', 'captures', 'daily', 'day', 'each', 'every', 'exact', 'extension', 'faithful', 'following', 'for', 'give', 'god', 'his', 'in', 'interpretation', 'is', 'it', 'likely', 'matthew', 'meaning', 'necessities', 'of', 'on', 'or', 'original', 'our', 'petition', 'prayer', 'provision', 'refers', 'rely', 'rendering', 's', 'seek', 'successive', 'supply', 'sustenance', 'syriac', 'teaches', 'the', 'then', 'this', 'to', 'uncertain', 'us', 'version', 'while', 'without']
+- ChatGPT injected words (significant words only) (32):
+	['anxiety', 'bread', 'breaking', 'captures', 'daily', 'day', 'exact', 'extension', 'faithful', 'following', 'god', 'interpretation', 'likely', 'matthew', 'meaning', 'necessities', 'original', 'petition', 'prayer', 'provision', 'refers', 'rely', 'rendering', 's', 'seek', 'successive', 'supply', 'sustenance', 'syriac', 'teaches', 'uncertain', 'version']
 
 ### Logs
-- Attempt 1 BHT: Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The precise meaning of the phrase daily bread has been the subject of scholarly debate, but the rendering of daily has prevailed in the Western Church and captures the intention of the original words. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.
-- 🔄 Luke 11:3 (attempt 1, 87 words, 33.93% quotes quality score: 1.4396216945007623, V2 normalized quality score: 39.21, commentator tiers 1-3: 35.6%, 25.76%, 38.64%) 
+- Attempt 1 BHT: Give us day by day our daily bread. This prayer is an extension of the petition in Matthew, asking for daily provision of our necessary bread. While the exact meaning of daily is open to interpretation, it is generally understood to refer to each successive day's necessities. It is believed that this prayer was originally uttered by Jesus in this form, and although it may not have been commonly used in Christian assemblies, the familiar rendering of daily has prevailed in the Western Church. Some suggest that it signifies the following day or the day then breaking. It is important to note that the command to not be anxious is not a prohibition against praying for our needs but rather a reminder to trust in God's provision.
+- 🔄 Luke 11:3 (attempt 1, 129 words, 41.25% quotes quality score: 1.3965147383383711, V2 normalized quality score: 37.78, commentator tiers 1-3: 38.41%, 24.54%, 37.05%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The rendering of daily captures the intention of the original words and has prevailed in the Western Church. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.
-- 🔄 Luke 11:3 (attempt 2, 71 words, 35.42% quotes quality score: 1.3733703175728127, V2 normalized quality score: 37.01, commentator tiers 1-3: 37.6%, 24.68%, 37.73%) 
+- Attempt 2 BHT: Give us day by day our daily bread. This prayer is an extension of the petition in Matthew, asking for daily provision of our necessary bread. The familiar rendering of daily has prevailed in the Western Church, representing the original meaning fairly well. While the exact meaning of daily is open to interpretation, it likely refers to each successive day's necessities. This prayer serves as a reminder to trust in God's provision and not be anxious about our needs.
+- 🔄 Luke 11:3 (attempt 2, 81 words, 41.07% quotes quality score: 1.4055476954108799, V2 normalized quality score: 38.08, commentator tiers 1-3: 37.15%, 25.03%, 37.82%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The familiar rendering of daily has prevailed in the Western Church and fairly represents the original intent. Whether recited in the morning or evening, this prayer seeks provision for the day at hand or the coming day.
-- 🔄 Luke 11:3 (attempt 3, 66 words, 32.61% quotes quality score: 1.3486373937112464, V2 normalized quality score: 36.19, commentator tiers 1-3: 37.89%, 23.24%, 38.87%) 
+- Attempt 3 BHT: Give us day by day our daily bread. This prayer is an extension of the petition in Matthew for this day's supply, to every successive day's necessities. The familiar rendering of daily has prevailed in the Western Church, as it is a fairly adequate representation of the original. While the exact meaning of daily is open to interpretation, it likely refers to each following day or the day then breaking. This prayer reminds us to trust in God's provision and not be anxious about our needs.
+- 🔄 Luke 11:3 (attempt 3, 89 words, 42.37% quotes quality score: 1.4537000737585024, V2 normalized quality score: 39.68, commentator tiers 1-3: 38.94%, 23.55%, 37.51%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The rendering of daily has prevailed in the Western Church and captures the intention of the original words. Whether this prayer is recited in the morning or evening, it beseeches God for provisions for the day at hand or the coming day.
-- 🔄 Luke 11:3 (attempt 4, 71 words, 35.42% quotes quality score: 1.3854945332135613, V2 normalized quality score: 37.41, commentator tiers 1-3: 37.35%, 24.64%, 38.01%) 
+- Attempt 4 BHT: Give us day by day our daily bread. This prayer is an extension of the petition in Matthew for this day's supply, to every successive day's necessities. The rendering of daily as every day captures the original meaning and is faithful to the Syriac version. While the exact interpretation of daily is uncertain, it likely refers to each following day or the day then breaking. This prayer teaches us to rely on God for our daily sustenance and to seek His provision without anxiety.
+- 🔄 Luke 11:3 (attempt 4, 86 words, 41.82% quotes quality score: 1.5024376292237656, V2 normalized quality score: 41.3, commentator tiers 1-3: 33.11%, 25.06%, 41.83%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Grant us our daily bread, our necessary sustenance for each day. This petition, an extension of the request for this day's supply, encompasses all our ongoing daily necessities. The familiar rendering, daily, which has prevailed in the Western Church, is a fairly adequate representation of the original. Whether this prayer is said in the morning or evening, it acknowledges our dependence on God for provisions in the present or the coming day.
-- 🔄 Luke 11:3 (attempt 5, 73 words, 35.29% quotes quality score: 1.3928010335052134, V2 normalized quality score: 37.65, commentator tiers 1-3: 38.94%, 23.72%, 37.34%) 
+- Attempt 5 BHT: Give us day by day our daily bread. This extension of the petition in Matthew for this day's supply entails asking for provision of our necessary bread for each successive day's necessities. The rendering of daily as every day accurately captures the original meaning, faithful to the Syriac version. While there is ambiguity surrounding the exact interpretation of daily, it likely denotes the day following or the day then breaking. This prayer encourages us to cultivate trust in God's provision and combat anxiety over our needs.
+- 🔄 Luke 11:3 (attempt 5, 89 words, 35.59% quotes quality score: 1.4227577960648943, V2 normalized quality score: 38.65, commentator tiers 1-3: 32.05%, 26.73%, 41.22%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 11:3 bht prompt v0.8 (87 words, 33.93% quotes)
-- quality score: 1.4396216945007623, V2 normalized quality score: 39.21, commentator tiers 1-3: 35.6%, 25.76%, 38.64%)
+- ✅ Luke 11:3 bht prompt v0.8 (86 words, 41.82% quotes)
+- quality score: 1.5024376292237656, V2 normalized quality score: 41.3, commentator tiers 1-3: 33.11%, 25.06%, 41.83%)

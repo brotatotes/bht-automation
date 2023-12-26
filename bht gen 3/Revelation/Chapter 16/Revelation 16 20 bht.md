@@ -1,13 +1,13 @@
 # Revelation 16:20 Commentary Help Text
 
 ## BHT:
-In this verse, the description of the final judgment is portrayed with tremendous intensity. The language used parallels the scene in another Scripture, depicting the removal of mountains from their places. This signifies the eradication of wicked powers, not only restricted to islands but extending to the mainland as well. Although the magnitude of this judgment may give the impression of the end of the world, it is essential to recognize that it symbolizes a critical turning point rather than the ultimate conclusion.
+In the final and decisive judgment, the earth will witness a tremendous upheaval, as the mountains are nowhere to be found and hailstones of immense weight fall upon it. Astonishingly, despite the severity of these divine judgments, humanity, instead of repenting, chooses to blaspheme God and remains stubbornly unrepentant. This parallel description of the last judgment depicts the complete eradication of all evil forces, both on islands and the mainland, suggesting the dissolution and plundering of monasteries. Ultimately, this cataclysm brings about a new world order, free from sea and mountains, displaying the earth-shaking power of God's judgment.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The expression is far stronger than this: amounting to that in ch, vi. 14, that every mountain was removed out of its place and was looked for in vain."
-2. "Mankind in general,—not those who were struck by the hailstones, who would instantly die,—so far from repenting at this great and final judgment of God, blasphemed him and were impenitent."
-3. "The issue is different from that in ch, xi, 13, where the remnant feared, and gave glory to God."
+1. "not as A. V., 'the mountains were not found,' The expression is far stronger than this: amounting to that in ch, vi. 14, that every mountain was removed out of its place and was looked for in vain"
+2. "i. e. having each hail stone of that weight. Diodorus Siculus speaks of hailstones of a mina each in weight as being enormous: and the talent contained sixty minæ."
+3. "mankind in general,—not those who were struck by the hailstones, who would instantly die,—so far from repenting at this great and final judgment of God, blasphemed him and were impenitent."
 
 ### Jamieson-Fausset-Brown:
 1. 20. Plainly parallel to :-, and by anticipation descriptive of the last judgment. 
@@ -19,11 +19,11 @@ the mountains—rather as
 ### Albert Barnes:
 1. "Expressive of great and terrible judgments, as if the very earth were convulsed, and everything were moved out of its place."
 2. "The mountains were not found."
+3. "The same image occurs in Revelation 6:14."
 
 ### Philip Schaff:
-1. "And every island fled away, and the mountains were not found." 
-2. "The particular thus mentioned is the sixth, and the language used is even stronger than that of chap. Revelation 6:14."
-3. "The climax of judgment appears in the climax of description."
+1. "And every island fled away, and the mountains were not found." The language used is even stronger than that of chap. Revelation 6:14.
+2. "The climax of judgment appears in the climax of description."
 
 ### Archibald T. Robertson:
 1. "Islands sometimes sink in the sea in earthquakes."
@@ -31,55 +31,53 @@ the mountains—rather as
 3. "See Revelation 20:11 for the same idea."
 
 ### John Gill:
-1. "This may be understood either of the dissolution of the world, the present heavens and earth, when there will be no more sea, Revelation 21:1 and so consequently no islands." 
-2. "This may signify the utter extirpation of all the antichristian powers in every shape, whether on islands or on the continent."
-3. "May particularly respect the dissolution of monasteries, and the plundering them of their riches and revenues."
+1. "And every island fled away... there will be no more sea, Revelation 21:1 and so consequently no islands."
+2. "and the mountains were not found... new heavens, and a new earth, without sea or mountains, will succeed."
+3. "this may signify the utter extirpation of all the antichristian powers in every shape, whether on islands or on the continent... may particularly respect the dissolution of monasteries, and the plundering them of their riches and revenues."
 
 ### John Wesley:
-1. "Every island and mountain was 'moved out of its place,' Revelation 6:14; but here they all flee away."
-2. "What a change must this make in the face of the terraqueous globe!"
-3. "And yet the end of the world is not come."
+1. "Every island and mountain was 'moved out of its place'... What a change must this make in the face of the terraqueous globe!" 
+2. "Here they all flee away... And yet the end of the world is not come."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 21:47:56
+- Timestamp: 12-25-2023 20:34:42
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 40.68%
-- BHT Quality Score: 1.283576977314022
+- BHT Word Count: 100
+- BHT Commentary Usage: 28.77%
+- BHT Quality Score: 1.543452092312795
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'although', 'another', 'as', 'but', 'conclusion', 'critical', 'depicting', 'description', 'end', 'eradication', 'essential', 'extending', 'final', 'from', 'give', 'impression', 'in', 'intensity', 'is', 'islands', 'it', 'judgment', 'language', 'magnitude', 'mainland', 'may', 'mountains', 'not', 'of', 'only', 'parallels', 'places', 'point', 'portrayed', 'powers', 'rather', 'recognize', 'removal', 'restricted', 'scene', 'scripture', 'signifies', 'symbolizes', 'than', 'that', 'the', 'their', 'this', 'to', 'tremendous', 'turning', 'ultimate', 'used', 'verse', 'well', 'wicked', 'with', 'world']
-- ChatGPT injected words (significant words only) (35):
-	['conclusion', 'critical', 'depicting', 'description', 'end', 'eradication', 'essential', 'extending', 'final', 'impression', 'intensity', 'islands', 'judgment', 'language', 'magnitude', 'mainland', 'mountains', 'parallels', 'places', 'point', 'portrayed', 'powers', 'recognize', 'removal', 'restricted', 'scene', 'scripture', 'signifies', 'symbolizes', 'tremendous', 'turning', 'ultimate', 'verse', 'wicked', 'world']
+- ChatGPT injected words (73):
+	['a', 'about', 'all', 'and', 'are', 'as', 'astonishingly', 'be', 'blaspheme', 'both', 'brings', 'cataclysm', 'chooses', 'complete', 'decisive', 'depicts', 'description', 'despite', 'displaying', 'dissolution', 'divine', 'earth', 'eradication', 'evil', 'fall', 'final', 'forces', 'found', 'free', 'from', 'god', 'hailstones', 'humanity', 'immense', 'in', 'instead', 'islands', 'it', 'judgment', 'judgments', 'last', 'mainland', 'monasteries', 'mountains', 'new', 'nowhere', 'of', 'on', 'order', 'parallel', 'plundering', 'power', 'remains', 'repenting', 's', 'sea', 'severity', 'shaking', 'stubbornly', 'suggesting', 'the', 'these', 'this', 'to', 'tremendous', 'ultimately', 'unrepentant', 'upheaval', 'upon', 'weight', 'will', 'witness', 'world']
+- ChatGPT injected words (significant words only) (52):
+	['astonishingly', 'blaspheme', 'brings', 'cataclysm', 'chooses', 'complete', 'decisive', 'depicts', 'description', 'despite', 'displaying', 'dissolution', 'divine', 'earth', 'eradication', 'evil', 'fall', 'final', 'forces', 'found', 'free', 'god', 'hailstones', 'humanity', 'immense', 'instead', 'islands', 'judgment', 'judgments', 'mainland', 'monasteries', 'mountains', 'new', 'order', 'parallel', 'plundering', 'power', 'remains', 'repenting', 's', 'sea', 'severity', 'shaking', 'stubbornly', 'suggesting', 'tremendous', 'ultimately', 'unrepentant', 'upheaval', 'weight', 'witness', 'world']
 
 ### Logs
-- Attempt 1 BHT: In Revelation 16:20, the vivid imagery used to describe the final judgment is striking. Similar to the scene in Revelation 6:14, where every mountain was removed and no longer found, here we see an escalation in the magnitude of judgment. Not only are the mountains absent, but also the islands flee away. This language conveys the utter extirpation of evil powers, whether on islands or on the continent. The extent of this judgment is such that it seems like the dissolution of the world itself, yet it is important to note that this represents a significant turning point, but it is not the end of the world.
-- 🔄 Revelation 16:20 (attempt 1, 105 words, 44.93% quotes quality score: 1.4996881220659408, V2 normalized quality score: 41.21, commentator tiers 1-3: 23.34%, 36.35%, 40.31%) 
+- Attempt 1 BHT: In the final judgment, the earth will experience cataclysmic convulsions, with the mountains being removed from their places. This imagery conveys the magnitude of the judgment that mankind will face. Hailstones of immense weight will rain down, symbolizing the severity of the punishment. However, instead of repenting, people will blaspheme God and remain stubbornly unrepentant. This scene of devastation and impenitence is a parallel to other descriptions of the last judgment found in the Book of Revelation. Ultimately, this judgment signifies the total eradication of all forms of evil, including the antichristian powers. The extensive upheaval caused by these judgments will bring about a new order, where there will be no more sea or mountains, as described in Revelation 21:1.
+- 🔄 Revelation 16:20 (attempt 1, 119 words, 34.52% quotes quality score: 1.3796165493147332, V2 normalized quality score: 37.22, commentator tiers 1-3: 26.14%, 38.84%, 35.03%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In the final judgment described in this passage, the mountains are not merely moved out of place, but completely disappear, reminiscent of the scene in Revelation 6:14. This intensified imagery signifies the eradication of evil powers both on islands and on the mainland. It depicts a significant turning point, though not the end of the world. The overwhelming extent of this judgment may give the impression of the dissolution of the entire world, yet it is crucial to recognize that this marks a consequential shift rather than the ultimate culmination.
-- 🔄 Revelation 16:20 (attempt 2, 89 words, 36.07% quotes quality score: 1.4183316881304342, V2 normalized quality score: 38.5, commentator tiers 1-3: 22.88%, 34.51%, 42.61%) 
+- Attempt 2 BHT: In the final judgment, the mountains will vanish, hailstones of enormous weight will strike the earth, and mankind will curse God without repentance. This scene parallels descriptions of the last judgment in the Book of Revelation. The catastrophic transformation signifies the eradication of evil and the establishment of a new order without sea or mountains. The extirpation of antichristian powers is suggested, potentially including the dissolution of monasteries. These judgments will reshape the world, exhibiting the immense power of God's judgment.
+- 🔄 Revelation 16:20 (attempt 2, 82 words, 22.22% quotes quality score: 1.4034200475454406, V2 normalized quality score: 38.01, commentator tiers 1-3: 24.83%, 38.18%, 37.0%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The overwhelming imagery in this section  suggests the complete eradication of mountains and islands during the final judgment. Comparable to Revelation 6:14, where mountains were moved but still found, here they vanish entirely. This indicates the forceful removal of wicked powers existing on both islands and the mainland. While this catastrophic event may give the impression of the end of the world, it marks a significant turning point rather than a conclusive finale.
-- 🔄 Revelation 16:20 (attempt 3, 72 words, 39.29% quotes quality score: 1.4803606911499418, V2 normalized quality score: 40.56, commentator tiers 1-3: 24.54%, 35.26%, 40.2%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The powerful and vivid language used here emphasizes the complete disappearance of mountains, similar to the event in another part of the Bible (Revelation 6:14). This signifies the utter removal of evil forces, not only on islands but also on the mainland. Though the extent of this judgment might imply the end of the world, it is important to note that it denotes a significant turning point rather than the final culmination.
-- 🔄 Revelation 16:20 (attempt 4, 71 words, 42.59% quotes quality score: 1.3985570967585048, V2 normalized quality score: 37.84, commentator tiers 1-3: 25.88%, 33.18%, 40.94%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: In this verse, the description of the final judgment is portrayed with tremendous intensity. The language used parallels the scene in another Scripture, depicting the removal of mountains from their places. This signifies the eradication of wicked powers, not only restricted to islands but extending to the mainland as well. Although the magnitude of this judgment may give the impression of the end of the world, it is essential to recognize that it symbolizes a critical turning point rather than the ultimate conclusion.
-- 🔄 Revelation 16:20 (attempt 5, 83 words, 40.68% quotes quality score: 1.283576977314022, V2 normalized quality score: 34.02, commentator tiers 1-3: 27.09%, 38.21%, 34.71%) 
+- Attempt 3 BHT: In the final judgment, cataclysmic upheavals will occur, causing the mountains to disappear from their places and hailstones of incredible weight to shower down. Despite the severity of these divine judgments, humanity will respond with blasphemy and remain unrepentant. This scene mirrors other descriptions of the last judgment found in the Book of Revelation. The complete eradication of evil, including the antichristian powers, will bring about a new world order without sea or mountains. This transformation showcases the immense power and judgment of God.
+- 🔄 Revelation 16:20 (attempt 3, 84 words, 29.03% quotes quality score: 1.4348556097780931, V2 normalized quality score: 39.05, commentator tiers 1-3: 23.96%, 37.47%, 38.57%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Revelation 16:20 bht prompt v0.8 (83 words, 40.68% quotes)
-- quality score: 1.283576977314022, V2 normalized quality score: 34.02, commentator tiers 1-3: 27.09%, 38.21%, 34.71%)
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: In the final judgment, the earth will witness a great upheaval, with the mountains being removed from their places and hailstones of enormous weight descending. Despite the magnitude of these divine judgments, humanity will respond with blasphemy and remain impenitent. This scene corresponds to other descriptions of the last judgment in Revelation, portraying the complete eradication of evil, including antichristian powers. The resulting new order will be devoid of sea and mountains, highlighting the transformative power of God's judgment.
+- 🔄 Revelation 16:20 (attempt 4, 80 words, 27.12% quotes quality score: 1.5152971452132702, V2 normalized quality score: 41.73, commentator tiers 1-3: 25.81%, 36.21%, 37.98%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: In the final and decisive judgment, the earth will witness a tremendous upheaval, as the mountains are nowhere to be found and hailstones of immense weight fall upon it. Astonishingly, despite the severity of these divine judgments, humanity, instead of repenting, chooses to blaspheme God and remains stubbornly unrepentant. This parallel description of the last judgment depicts the complete eradication of all evil forces, both on islands and the mainland, suggesting the dissolution and plundering of monasteries. Ultimately, this cataclysm brings about a new world order, free from sea and mountains, displaying the earth-shaking power of God's judgment.
+- 🔄 Revelation 16:20 (attempt 5, 100 words, 28.77% quotes quality score: 1.543452092312795, V2 normalized quality score: 42.66, commentator tiers 1-3: 24.69%, 30.68%, 44.63%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Revelation 16:20 bht prompt v0.8 (100 words, 28.77% quotes)
+- quality score: 1.543452092312795, V2 normalized quality score: 42.66, commentator tiers 1-3: 24.69%, 30.68%, 44.63%)

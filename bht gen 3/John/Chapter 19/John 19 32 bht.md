@@ -1,69 +1,68 @@
 # John 19:32 Commentary Help Text
 
 ## BHT:
-John's Gospel includes a unique detail: the breaking of the legs of the crucified criminals. This brutal act involved striking their legs with a heavy mallet to accelerate death. The soldiers likely approached from opposite sides, hitting each criminal before reaching Jesus. This serves as a symbolic image of the final judgment, with the righteous on Christ's right hand and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would vividly illustrate the separation at the last day.
+John uniquely records that the soldiers broke the legs of the crucified men, a punishment often inflicted on slaves, using a heavy mallet to hasten death. The soldiers likely approached from opposite sides, striking the legs of the criminals before reaching Jesus. The question remains as to which criminal was struck first, but this event symbolizes the division on the last day when the sheep and goats stand on the right and left hand of Christ.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
 1. "Brake the legs. A detail recorded only by John."
 2. "This crurifragium, leg-breaking, consisted in striking the legs with a heavy mallet in order to expedite death."
-3. "Some horrible illustrations are furnished by Suetonius, in his lives of Augustus and Tiberius."
+3. "It was sometimes inflicted as a punishment upon slaves."
 
 ### Philip Schaff:
 1. "The bodies had been suspended on the cross with Jesus in the midst."
 2. "It is natural to suppose that the soldiers, approaching from two opposite sides, would proceed in the order thus mentioned."
-3. "Each would strike his blow on one malefactor's body; then they would come to Jesus."
+3. "Each would strike his blow on one malefactor’s body; then they would come to Jesus."
 
 ### Archibald T. Robertson:
 1.  Which was crucified with him (του συνσταυρωθεντος αυτω). First aorist passive articular participle of συνσταυροω with associative instrumental case. Cf. Paul's Χριστω συνεσταυρωμα (Galatians 2:19). 
 
 
 ### John Gill:
-1. "...a lively emblem of the last day, when the sheep shall stand at the right, and the goats on the left hand of Christ."
-2. "...if the former is true, must be he that reviled him..."
-3. "...a lively emblem of the last day..."
+1. "and brake the legs of the first; they came unto, which whether it was he that was crucified on his right hand... is not certain."
+2. "and of the other which was crucified with him; who, if the former is true, must be he that reviled him"
+3. "it was a lively emblem of the last day, when the sheep shall stand at the right, and the goats on the left hand of Christ."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:14:34
+- Timestamp: 12-25-2023 20:33:54
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 32.31%
-- BHT Quality Score: 1.3621212035352745
+- BHT Word Count: 76
+- BHT Commentary Usage: 33.33%
+- BHT Quality Score: 1.5819129344039031
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'accelerate', 'act', 'and', 'approached', 'as', 'at', 'before', 'breaking', 'broken', 'brutal', 'christ', 'criminal', 'criminals', 'crucified', 'day', 'death', 'detail', 'each', 'final', 'from', 'gospel', 'had', 'hand', 'heavy', 'his', 'hitting', 'if', 'illustrate', 'image', 'includes', 'involved', 'it', 'jesus', 'john', 'judgment', 'last', 'left', 'legs', 'likely', 'mallet', 'of', 'on', 'opposite', 'reaching', 'reviled', 'right', 'righteous', 's', 'separation', 'serves', 'sides', 'soldiers', 'striking', 'symbolic', 'the', 'their', 'this', 'to', 'unique', 'vividly', 'who', 'wicked', 'with', 'would']
-- ChatGPT injected words (significant words only) (44):
-	['accelerate', 'act', 'approached', 'breaking', 'broken', 'brutal', 'christ', 'criminal', 'criminals', 'crucified', 'day', 'death', 'detail', 'final', 'gospel', 'hand', 'heavy', 'hitting', 'illustrate', 'image', 'includes', 'involved', 'jesus', 'john', 'judgment', 'left', 'legs', 'likely', 'mallet', 'opposite', 'reaching', 'reviled', 'right', 'righteous', 's', 'separation', 'serves', 'sides', 'soldiers', 'striking', 'symbolic', 'unique', 'vividly', 'wicked']
+- ChatGPT injected words (57):
+	['a', 'and', 'approached', 'as', 'before', 'broke', 'but', 'christ', 'criminal', 'criminals', 'crucified', 'day', 'death', 'division', 'event', 'first', 'from', 'goats', 'hand', 'hasten', 'heavy', 'inflicted', 'jesus', 'john', 'last', 'left', 'legs', 'likely', 'mallet', 'men', 'of', 'often', 'on', 'opposite', 'punishment', 'question', 'reaching', 'records', 'remains', 'right', 'sheep', 'sides', 'slaves', 'soldiers', 'stand', 'striking', 'struck', 'symbolizes', 'that', 'the', 'this', 'to', 'uniquely', 'using', 'was', 'when', 'which']
+- ChatGPT injected words (significant words only) (38):
+	['approached', 'broke', 'christ', 'criminal', 'criminals', 'crucified', 'day', 'death', 'division', 'event', 'goats', 'hand', 'hasten', 'heavy', 'inflicted', 'jesus', 'john', 'left', 'legs', 'likely', 'mallet', 'men', 'opposite', 'punishment', 'question', 'reaching', 'records', 'remains', 'right', 'sheep', 'sides', 'slaves', 'soldiers', 'stand', 'striking', 'struck', 'symbolizes', 'uniquely']
 
 ### Logs
-- Attempt 1 BHT: The detail of breaking the legs of the two criminals crucified with Jesus is mentioned only by John. This method of expedited death involved striking the legs with a heavy mallet. The soldiers likely approached from two opposite sides, with each delivering a blow to one of the criminals before reaching Jesus. This act can be seen as a symbolic representation of the final judgment, with the righteous standing on the right hand of Christ and the wicked on the left. Interestingly, if the criminal who reviled Jesus had his legs broken, it would further parallel the judgment separating the righteous from the wicked.
-- 🔄 John 19:32 (attempt 1, 104 words, 38.24% quotes quality score: 1.335978733521259, V2 normalized quality score: 35.76, commentator tiers 1-3: 32.79%, 47.88%, 19.33%) 
+- Attempt 1 BHT: The first tier commentary explains that John is the only one who recorded the detail of the soldiers breaking the legs of the crucified men, a punishment sometimes inflicted upon slaves. This act expedited death by striking the legs with a heavy mallet. The second tier commentary suggests that the soldiers approached from opposite sides, first striking the legs of the two criminals before coming to Jesus. The third tier commentary further discusses the uncertainty of which criminal was struck first and refers to this event as an emblem of the last day, when sheep and goats will stand on the right and left hand of Christ.
+- 🔄 John 19:32 (attempt 1, 107 words, 40.28% quotes quality score: 1.5022283947163695, V2 normalized quality score: 41.29, commentator tiers 1-3: 30.9%, 29.15%, 39.96%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: John uniquely records that the soldiers broke the legs of the crucified men, a punishment often inflicted on slaves, using a heavy mallet to hasten death. The soldiers likely approached from opposite sides, striking the legs of the criminals before reaching Jesus. The question remains as to which criminal was struck first, but this event symbolizes the division on the last day when the sheep and goats stand on the right and left hand of Christ.
+- 🔄 John 19:32 (attempt 2, 76 words, 33.33% quotes quality score: 1.5819129344039031, V2 normalized quality score: 43.94, commentator tiers 1-3: 26.32%, 33.0%, 40.68%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: John's exclusive account includes the detail of the soldiers breaking the legs of the crucified individuals, a punishment usually reserved for slaves, with the purpose of expediting their death. It is likely that the soldiers approached from opposing sides, sequentially breaking the legs of the criminals before reaching Jesus. The specific identity of the first criminal subjected to this treatment remains uncertain, but this event serves as a symbolic depiction of the division that will occur on the last day when the righteous will stand at the right hand and the unrighteous at the left hand of Christ.
+- 🔄 John 19:32 (attempt 3, 99 words, 31.88% quotes quality score: 1.5245284895187639, V2 normalized quality score: 42.03, commentator tiers 1-3: 26.5%, 35.63%, 37.88%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The unique detail of breaking the legs of the crucified criminals is mentioned only by John. This gruesome method involved striking the legs with a heavy mallet to expedite death. It is probable that the soldiers approached from two opposite sides and struck each criminal before reaching Jesus. This act serves as a symbolic representation of the final judgment, with the righteous on the right hand of Christ and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would further parallel the judgment separating the righteous from the wicked.
-- 🔄 John 19:32 (attempt 2, 96 words, 36.92% quotes quality score: 1.3337194298722161, V2 normalized quality score: 35.69, commentator tiers 1-3: 34.98%, 45.24%, 19.78%) 
+- Attempt 4 BHT: John uniquely records the soldiers breaking the legs of the crucified individuals, a punishment often used on slaves, to hasten death. The soldiers likely approached from opposite sides, breaking the legs of the criminals before reaching Jesus. Uncertainty surrounds the identity of the first criminal subjected to this punishment. This event symbolizes the division on the last day, where the righteous stand on the right hand and the unrighteous on the left hand of Christ.
+- 🔄 John 19:32 (attempt 4, 75 words, 28.57% quotes quality score: 1.4279951635731842, V2 normalized quality score: 38.82, commentator tiers 1-3: 27.74%, 33.05%, 39.21%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: John is the sole Gospel writer who mentions the soldiers breaking the legs of the crucified individuals. This act, akin to a punishment imposed on slaves, aimed to expedite their death. It is probable that the soldiers approached from opposite directions, sequentially breaking the legs of the criminals before reaching Jesus. The exact identity of the first criminal subjected to this punishment is uncertain. This event serves as a poignant symbol of the future division, with the righteous standing on the right hand and the unrighteous on the left hand of Christ.
+- 🔄 John 19:32 (attempt 5, 92 words, 27.87% quotes quality score: 1.383202376074603, V2 normalized quality score: 37.33, commentator tiers 1-3: 30.41%, 32.04%, 37.55%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: John records a unique detail not mentioned by the other Gospel writers: the breaking of the legs of the crucified criminals. This gruesome method involved using a heavy mallet to expedite death. It is likely that the soldiers approached from opposite sides, striking each criminal before reaching Jesus. This act symbolizes the final judgment, with the righteous on Christ's right hand and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would further illustrate the separation between the righteous and the wicked in the final judgment.
-- 🔄 John 19:32 (attempt 3, 94 words, 38.24% quotes quality score: 1.3000076026013345, V2 normalized quality score: 34.57, commentator tiers 1-3: 33.51%, 45.52%, 20.96%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: John provides a unique detail about the crucifixion, mentioning the breaking of the legs of the criminals. This brutal act, carried out by striking their legs with a heavy mallet, hastened their deaths. The soldiers who approached from opposite sides likely struck each criminal before reaching Jesus. This action serves as a symbolic representation of the future judgment, where the righteous will be separated from the wicked. If the criminal who insulted Jesus had his legs broken, it would further depict this ultimate division.
-- 🔄 John 19:32 (attempt 4, 84 words, 36.51% quotes quality score: 1.2887613690788318, V2 normalized quality score: 34.19, commentator tiers 1-3: 34.79%, 49.03%, 16.17%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: John's Gospel includes a unique detail: the breaking of the legs of the crucified criminals. This brutal act involved striking their legs with a heavy mallet to accelerate death. The soldiers likely approached from opposite sides, hitting each criminal before reaching Jesus. This serves as a symbolic image of the final judgment, with the righteous on Christ's right hand and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would vividly illustrate the separation at the last day.
-- 🔄 John 19:32 (attempt 5, 87 words, 32.31% quotes quality score: 1.3621212035352745, V2 normalized quality score: 36.63, commentator tiers 1-3: 34.88%, 44.54%, 20.58%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ John 19:32 bht prompt v0.8 (87 words, 32.31% quotes)
-- quality score: 1.3621212035352745, V2 normalized quality score: 36.63, commentator tiers 1-3: 34.88%, 44.54%, 20.58%)
+- ✅ John 19:32 bht prompt v0.8 (76 words, 33.33% quotes)
+- quality score: 1.5819129344039031, V2 normalized quality score: 43.94, commentator tiers 1-3: 26.32%, 33.0%, 40.68%)

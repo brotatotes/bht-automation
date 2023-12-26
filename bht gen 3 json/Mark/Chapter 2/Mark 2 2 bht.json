@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-22-2023 23:20:42",
+    "timestamp": "12-25-2023 20:32:32",
     "verseRef": "Mark 2:2",
     "bestBHT": {
-        "bht": "Mark's attention to detail is on display in this scene, challenging the theory of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so crowded that there was no room, not even around the door opening directly onto the street. The gravity of Jesus' teaching was as serious as the prattling of children or the chatter of birds. The gathering crowd spilled over into the porch, expanding from the interior court. This incident took place while Jesus was actively teaching and performing miraculous healings.",
-        "wordCount": 88,
-        "quoteTokenProportion": 38.46,
-        "qualityScore": 1.444536252265256,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+        "bht": "The Gospel writer deliberately includes specific details to emphasize the accuracy and sufficiency of St. Matthew's narrative. By staying in one place, Jesus allows the paralytic's faith to be displayed and gives an opportunity for the proclamation of forgiveness. The intense negative language intensifies the rejection of Jesus' teaching. Jesus was speaking the word or teaching when this incident occurred, and the constantly increasing crowd fill even the porch leading to the door. The house and even the places outside could no longer hold the people, demonstrating the power and impact of Jesus' preaching.",
+        "wordCount": 96,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.5353082148497146,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.39,
         "commentatorTierSimilarities": [
-            36.77,
-            33.61,
-            29.62
+            39.16,
+            33.93,
+            26.91
         ],
-        "generationAttempt": 4
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "In this verse we have again the peculiar minute depicting of Mark.",
-            "I mention this, to show what shifts the advocates of the theory of the 'inter-dependence' of the Evangelists are now reduced.",
+            "These minute notices... recorded by the Evangelist with a studied design.",
+            "In order to shew that he did so because he knew from ocular testimony that St. Matthew\u2019s narrative was adequate and accurate.",
             "He speaking to them the word, when that which is about to be related happened."
         ],
         "Jamieson-Fausset-Brown": [
-            "This is one of Mark's graphic touches.",
+            "No doubt in this case, as the scene occurred at his informant's own door, these details are the vivid recollections of that honored disciple.",
             "Had He gone forth, as He naturally would, the paralytic's faith would have had no such opportunity to display itself.",
-            "The miracle that is now to be described was among the most glorious and worthy to be recorded of many then performed."
+            "So that the miracle that is now to be described was among the most glorious and worthy to be recorded of many then performed; and what made it so was doubtless the faith which was manifested in connection with it, and the proclamation of the forgiveness of the patient's sins that immediately preceded it."
         ],
         "Albert Barnes": [
             "So much as about the door - In the 'court' or 'yard' before the door. They could not get near enough to hear him.",
@@ -33,16 +33,16 @@
         "Philip Schaff": [
             "Insomuch that not even the parts about (or \u2018towards\u2019) the door (much less the house), could any longer hold them.\" ",
             "This suggests a constantly increasing crowd, at length filling even the porch leading from the interior court to the door.",
-            "He was speaking the word, i.e., \u2018was teaching\u2019 (Luke). He was doing this when this incident occurred. From Luke\u2019s account we infer that He had already healed others on this occasion."
+            "He was speaking the word, i.e., \u2018was teaching\u2019 (Luke). He was doing this when this incident occurred."
         ],
         "Archibald T. Robertson": [
-            "So that there was no longer room for them, no, not even about the door.\" ",
-            "This house door apparently opened into the street, not into a court as in the larger houses.",
-            "Note this word \u03bb\u03b1\u03bb\u03b5\u03c9 about the preaching of Jesus (originally just sounds like the chatter of birds, the prattling of children, but here of the most serious kind of speech."
+            "The double compound negative in the Greek intensifies the negative.",
+            "\u03ba\u03b1 \u03b5\u03bb\u03b1\u03bb\u03b5 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd. And he was speaking the word unto them, Mark's favourite descriptive imperfect tense.",
+            "\u03bb\u03b1\u03bb\u03b5\u03c9 about the preaching of Jesus (originally just sounds like the chatter of birds, the prattling of children, but here of the most serious kind of speech."
         ],
         "John Gill": [
-            "From all parts of the city, insomuch that there was no room to receive them...",
-            "The crowd was so great, that neither the house, nor the out places before, could hold them, nor could they come even near the door...",
+            "Insomuch that there was no room to receive them; in the house: by which it should seem to be a large one, though not large enough to hold such a numerous company as were got together.\" ",
+            "The crowd was so great, that neither the house, nor the out places before, could hold them, nor could they come even near the door.",
             "He preached the Gospel, the word of grace and truth, of life and salvation, to as many as could come near him, and were within the hearing of him."
         ],
         "John Wesley": [
@@ -66,67 +66,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, Mark once again showcases his ability to provide vivid details. The theory of the 'inter-dependence' of the Evangelists is challenged by the unique way in which Mark presents the events. Jesus, while speaking the word, found Himself in a crowded house with no room for anyone, not even near the door. The house door opened directly into the street, making it even more difficult for people to approach Jesus. The preaching of Jesus, though serious in nature, was as powerful as the prattling of children or the chatter of birds. The immense crowd forced the people to gather in the courtyard and overflow into the porch, as others had already been healed by Jesus prior to this incident.",
-            "wordCount": 122,
-            "quoteTokenProportion": 40.24,
-            "qualityScore": 1.5348522280700423,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "bht": "The Gospel writer deliberately includes specific details to emphasize the accuracy and sufficiency of St. Matthew's narrative. By staying in one place, Jesus allows the paralytic's faith to be displayed and gives an opportunity for the proclamation of forgiveness. The intense negative language intensifies the rejection of Jesus' teaching. Jesus was speaking the word or teaching when this incident occurred, and the constantly increasing crowd fill even the porch leading to the door. The house and even the places outside could no longer hold the people, demonstrating the power and impact of Jesus' preaching.",
+            "wordCount": 96,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5353082148497146,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
             "commentatorTierSimilarities": [
-                35.78,
-                33.71,
-                30.5
+                39.16,
+                33.93,
+                26.91
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Within this passage, Mark's attention to detail shines through once again. The unique depiction challenges the notion of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became overwhelmingly packed, leaving no space even around the door. The house's entrance opened right onto the street, rather than a typical courtyard. Jesus' speech carried the weight of profound truth, comparable to the prattling of children or the chatter of birds. The large crowd gathered around the porch, expanding from the interior court. This incident occurred while Jesus was already engaged in teaching others and performing miraculous healings.",
-            "wordCount": 100,
-            "quoteTokenProportion": 32.89,
-            "qualityScore": 1.3673185668553482,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.81,
+            "bht": "The Gospel writer intentionally includes specific details to highlight the accuracy and sufficiency of St. Matthew's account. Jesus chooses to remain in one place, allowing the paralytic's faith to be witnessed and the proclamation of forgiveness to occur. The intense negative language intensifies the rejection of Jesus' teaching. Jesus was speaking the word or teaching when this incident happened, and the crowd continued to grow, filling even the porch leading to the door. The house and the spaces outside were unable to contain the multitude, demonstrating the profound impact and power of Jesus' preaching.",
+            "wordCount": 96,
+            "quoteTokenProportion": 20.0,
+            "qualityScore": 1.4911483363396782,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.92,
             "commentatorTierSimilarities": [
-                33.37,
-                34.12,
-                32.51
+                41.54,
+                31.38,
+                27.08
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this account, Mark's meticulous attention to detail is evident once again. The unique portrayal challenges the belief in the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so full that there was no longer any space, not even around the door. The house's entrance led directly into the street, rather than opening into a courtyard. The seriousness of Jesus' teaching resembled the chirping of birds or the chattering of children. The crowd continued to expand, filling the porch and spilling into the interior court. This event occurred as Jesus was actively engaged in teaching and performing healings.",
-            "wordCount": 103,
-            "quoteTokenProportion": 35.62,
-            "qualityScore": 1.2829365298688078,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.0,
+            "bht": "The Gospel writer purposely includes precise details, intending to emphasize the accuracy of St. Matthew's narrative. By staying put, Jesus provides an opportunity for the paralytic's faith to be displayed and for the proclamation of forgiveness to take place. The strong negative language intensifies the rejection of Jesus' teaching. Jesus was speaking the word or teaching when this event occurred, and the crowd grows, filling even the porch connecting the interior court and the door. The house and surrounding areas are unable to accommodate the vast number of people, highlighting the tremendous impact of Jesus' teaching.",
+            "wordCount": 98,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.445177612399637,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
             "commentatorTierSimilarities": [
-                33.74,
-                36.09,
-                30.17
+                42.09,
+                33.22,
+                24.69
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Mark's attention to detail is on display in this scene, challenging the theory of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so crowded that there was no room, not even around the door opening directly onto the street. The gravity of Jesus' teaching was as serious as the prattling of children or the chatter of birds. The gathering crowd spilled over into the porch, expanding from the interior court. This incident took place while Jesus was actively teaching and performing miraculous healings.",
-            "wordCount": 88,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.444536252265256,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "bht": "The Gospel writer deliberately includes specific details to underscore the accuracy of St. Matthew's account. By choosing to remain in one place, Jesus allows the paralytic's faith to be showcased, while proclaiming forgiveness. The intense negative language intensifies the rejection of Jesus' teaching. Jesus was speaking the word or teaching when this incident took place, and the crowd continues to grow, filling the porch between the internal court and the door. The house and surrounding spaces are insufficient to contain the vast number of people, reflecting the profound impact and authority of Jesus' teaching.",
+            "wordCount": 96,
+            "quoteTokenProportion": 22.39,
+            "qualityScore": 1.4181983947002883,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
             "commentatorTierSimilarities": [
-                36.77,
-                33.61,
-                29.62
+                41.42,
+                33.19,
+                25.39
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Mark's unique attention to detail is evident in this passage, challenging the idea of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so crowded that there was no space, not even around the door opening directly onto the street. The seriousness of Jesus' speech was comparable to the prattling of children or the chatter of birds. The expanding crowd spilled into the porch from the interior court, as Jesus continued to teach and perform miraculous healings.",
-            "wordCount": 81,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.5771180176601096,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "bht": "The Gospel writer intentionally emphasizes the accuracy of St. Matthew's narrative by including minute details. Jesus' decision to stay in one place allows for the demonstration of the paralytic's faith and the proclamation of forgiveness. The strong negative language intensifies the rejection of Jesus' teaching. Jesus was actively teaching when this event occurred, and the crowd grew so much that even the porch leading to the door was filled. The limited space inside the house and the surrounding areas highlight the powerful impact of Jesus' words.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.4710314913993445,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
             "commentatorTierSimilarities": [
-                34.69,
-                33.65,
-                31.66
+                42.25,
+                30.25,
+                27.49
             ],
             "generationAttempt": 5
         }

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:15:23",
+    "timestamp": "12-25-2023 20:33:02",
     "verseRef": "Luke 5:19",
     "bestBHT": {
-        "bht": "A group of friends were determined to bring their sick friend to Jesus for healing. They faced the challenge of the crowded house and the inability to find a way inside. Undeterred, they ascended to the flat roof of the house, removing the tiles to create an opening. Together, they lowered the man on his bed into the midst of the room and before Jesus. This act of faith and determination was a moment of triumph over difficulties and surprised everyone in the house.",
-        "wordCount": 84,
-        "quoteTokenProportion": 35.71,
-        "qualityScore": 1.2492738725622914,
-        "qualityScoreNormalizedComparedToV2BHTs": 32.88,
+        "bht": "According to an eyewitness, the friends of the paralyzed man went to great lengths to bring him to Jesus. They untiled the roof and widened the opening, likely using outside stairs, to lower their friend on his bed right in front of Jesus. Their resourcefulness and persistence were evident as they overcame challenges and surprised everyone in the house. By and the effort through the tiles, they managed to reach Jesus and present their paralyzed companion for healing.",
+        "wordCount": 78,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.3139649924062333,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.03,
         "commentatorTierSimilarities": [
-            17.1,
-            21.88,
-            61.01
+            21.99,
+            20.02,
+            57.99
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -25,9 +25,9 @@
             "\tbefore Jesus\u2014(See on :-)."
         ],
         "Marvin Vincent": [
-            "Luke uses four words for the beds of the sick: klinh, as verse 18, the general word for a bed or couch; krabbatov (Acts 5:15; Acts 9:33), a rude pallet; klinidion, a small couch or litter, as here, a couch so light that a woman could lift and carry it away.",
-            "The fourth term, klinarion (Acts 5:15), cannot be accurately distinguished from the last.",
-            "The last two are peculiar to Luke."
+            "Luke uses four words for the beds of the sick.",
+            "A small couch or litter...so light that a woman could lift and carry it away.",
+            "The last two [words] are peculiar to Luke."
         ],
         "Philip Schaff": [
             "Luke 5:19. Through the tiles. The tiles on the flat roof of the house itself were removed (see on Mark 2:4).",
@@ -35,17 +35,19 @@
             " "
         ],
         "Archibald T. Robertson": [
-            "The flat roof of Jewish houses was usually reached by outside stairway.",
-            "The four friends had succeeded, probably each holding a rope to a corner of the pallet.",
-            "It was a moment of triumph over difficulties and surprise to all in the house."
+            "The flat roof of Jewish houses was usually reached by outside stairway.\" ",
+            "The four friends had succeeded, probably each holding a rope to a corner of the pallet. It was a moment of triumph over difficulties and surprise to all in the house.",
+            "It doubtless was a pallet on which the paralytic lay."
         ],
         "John Gill": [
-            "And when they could not find by what way... they went upon the housetop; by a ladder, or pair of stairs, which usually were on the outside of houses.\" ",
-            "They untiled the roof, or took away the tiles... and so making it wider, let down the man upon his couch, or bed, into the middle of the room and of the people...",
-            "...just before Jesus, where he was sitting."
+            "They untiled the roof, or took away the tiles which were about the trap door, or passage, into the inside of the house; and so making it wider, let down the man upon his couch, or bed, into the middle of the room and of the people, just before Jesus, where he was sitting.\" ",
+            "And let him down through the tiling with his couch, into the midst before Jesus.",
+            "They went upon the housetop; by a ladder, or pair of stairs, which usually were on the outside of houses."
         ],
         "John Wesley": [
-            "Not being able to bring him in through the multitude, they went round about by a back passage."
+            "Not being able to bring him in through the multitude, they went round about by a back passage...\" ",
+            "...and going up the stairs on the outside, they came upon the flat-roofed house, and let him down through the trap door...",
+            "...doubtless, with such circumspection as the circumstances plainly required."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -65,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "A group of friends were determined to bring their sick friend to Jesus for healing. They faced the challenge of the crowded house and the inability to find a way inside. Undeterred, they ascended to the flat roof of the house, removing the tiles to create an opening. Together, they lowered the man on his bed into the midst of the room and before Jesus. This act of faith and determination was a moment of triumph over difficulties and surprised everyone in the house.",
-            "wordCount": 84,
-            "quoteTokenProportion": 35.71,
-            "qualityScore": 1.2492738725622914,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.88,
+            "bht": "While the first-tier commentary reminds us that the description of the event is that of an eyewitness, it also highlights the significance of the housetop and the tiles. The second-tier commentary adds that the tiles on the flat roof were actually removed to make way for the friends to lower their paralyzed companion. The third-tier commentary provides more details, explaining how the men untiled the roof and widened the passage to let down the man on his bed right in front of Jesus. The use of outside stairs or a ladder further emphasizes the efforts and determination of the friends to bring their friend to Jesus despite the crowded room. It is clear that the friends were resourceful, ingenious, and committed to reaching Jesus on behalf of their paralyzed companion.",
+            "wordCount": 133,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.3123410109828708,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.98,
             "commentatorTierSimilarities": [
-                17.1,
-                21.88,
-                61.01
+                23.39,
+                26.69,
+                49.93
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "A group of friends encountered obstacles in bringing their sick friend to Jesus for healing. Unable to find a way through the crowded house, they went to the housetop, removing the tiles to create an opening. Together, they lowered the man on his bed into the midst of the room, just before Jesus. This act of determination and faith surprised everyone present and demonstrated a triumph over difficulties. The account vividly shows the witnesses' attention to detail and the innovative means used to reach Jesus.",
-            "wordCount": 85,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.1654595005217283,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.1,
+            "bht": "From the accounts of an eyewitness, we learn that the friends of the paralyzed man went above and beyond to bring him to Jesus. They removed the tiles from the housetop, most likely using outside stairs, to create a wider opening. Together, holding ropes attached to each corner of the pallet, they triumphed over the difficulties and lowered their friend before Jesus. Their determination and resourcefulness enabled them to bypass the crowded room and bring their paralyzed companion to the presence of Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2935606433198183,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.35,
             "commentatorTierSimilarities": [
-                17.89,
-                20.44,
-                61.67
+                20.87,
+                22.85,
+                56.28
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "A group of friends encountered difficulties in bringing their sick companion to Jesus. Undeterred by the crowded house, they climbed to the housetop and removed the tiles, creating an opening. United in their efforts, they lowered the man on his bed into the midst of the room, right before Jesus. This display of determination and ingenuity surprised everyone in the house, illustrating the eyewitness nature of the account. The friends' triumph over obstacles serves as an inspiring example of the lengths one can go to seek Jesus.",
-            "wordCount": 87,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.225452881280178,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.09,
+            "bht": "As an eyewitness describes, the friends of the paralyzed man took extraordinary measures to bring him to Jesus. By untiling the roof and widening the passage, possibly using outside stairs, they successfully lowered their friend on his bed right before Jesus. The determination and ingenuity of these friends are evident as they overcome obstacles and surprise everyone in the house. Their relentless efforts and creative thinking allowed them to forge a path to Jesus for their paralyzed companion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.214767405515324,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.73,
             "commentatorTierSimilarities": [
-                18.5,
-                22.9,
-                58.59
+                20.17,
+                15.68,
+                64.15
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "A group of friends encountered challenges when trying to bring their sick friend to Jesus. Undeterred by the crowded house, they climbed to the housetop and removed the tiles, creating an opening. United in their efforts, they lowered the man on his bed into the midst of the room, right before Jesus. This display of determination and ingenuity surprised everyone present. The account highlights the eyewitness nature of the description and demonstrates the friends' tenacity to overcome obstacles in their pursuit of encountering Jesus.",
-            "wordCount": 84,
-            "quoteTokenProportion": 28.81,
-            "qualityScore": 1.1868045474199154,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.8,
+            "bht": "According to an eyewitness, the friends of the paralyzed man went to great lengths to bring him to Jesus. They untiled the roof and widened the opening, likely using outside stairs, to lower their friend on his bed right in front of Jesus. Their resourcefulness and persistence were evident as they overcame challenges and surprised everyone in the house. By and the effort through the tiles, they managed to reach Jesus and present their paralyzed companion for healing.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3139649924062333,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.03,
             "commentatorTierSimilarities": [
-                18.27,
-                21.47,
-                60.27
+                21.99,
+                20.02,
+                57.99
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "A group of friends encountered difficulties when trying to bring their sick companion to Jesus. Undeterred by the crowded house, they climbed to the housetop and removed the tiles, creating an opening. Together, they lowered the man on his bed into the room, right before Jesus. This demonstration of determination and resourcefulness surprised everyone. The account portrays an eyewitness description, emphasizing the triumph over obstacles and the unwavering faith of the friends in their quest to encounter Jesus.",
+            "bht": "An eyewitness account reveals that the friends of the paralyzed man displayed tremendous determination in their pursuit of bringing him to Jesus. By removing the tiles from the housetop, possibly utilizing outside stairs, they widened the entrance and successfully lowered their friend on his bed before Jesus. Their triumphant efforts overcame obstacles and caught the attention of all present. The resourcefulness and commitment of these friends were instrumental in facilitating the encounter between Jesus and the paralyzed man.",
             "wordCount": 78,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.169075341682712,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.22,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.189116149760071,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.88,
             "commentatorTierSimilarities": [
-                21.14,
-                18.67,
-                60.19
+                20.14,
+                20.23,
+                59.63
             ],
             "generationAttempt": 5
         }

@@ -1,7 +1,7 @@
 # John 11:30 Commentary Help Text
 
 ## BHT:
-Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.
+Now Jesus was not yet come into the town, but stayed without, nearer to Lazarus's grave. He chose this place, away from the crowd of mourners and the presence of the Jews, to meet Martha and Mary. Since it was customary to bury outside the towns and cities, Jesus waited there.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -11,54 +11,51 @@ Martha's words reveal that Jesus had come and asked for her, even though the nar
 
 
 ### Philip Schaff:
-1. "Avoiding the presence of 'the Jews,' so painful and incongruous at such a time." 
-2. "This verse is purely parenthetical."
+1. "Now Jesus was not yet come into the village, but was still in that place where Martha met him." 
+2. "Avoiding the presence of ‘the Jews,’ so painful and incongruous at such a time." 
+3. "This verse is purely parenthetical."
 
 ### Archibald T. Robertson:
-1. "Martha had her interview while he was still coming." 
-2. "Martha... left him to hurry to Mary with the news." 
-3. "Why Jesus tarried still where he had met Martha we do not know."
+1. "Now Jesus was not yet come into the town."
+2. "Why Jesus tarried still where he had met Martha we do not know."
+3. "Westcott says, 'as though He would meet the sisters away from the crowd of mourners.'"
 
 ### John Gill:
-1. "Now Jesus was not yet come into the town...but stayed without..." 
-2. "but was in that place where Martha met him; here he stopped, and here he continued..."
-3. "he chose it for the reason above given."
+1. "Now Jesus was not yet come into the town,.... Of Bethany, but stayed without, being nearer to Lazarus's grave, which he intended to go to, in order to raise him to life, it being usual to bury the without the towns and cities;"
+2. "but was in that place where Martha met him; here he stopped, and here he continued"
+3. "the Persic version reads, 'but was sitting in the same place', c. waiting for the coming of Mary along with Martha judging this to be a more suitable place to converse together in, than their own house, which was thronged with Jews; and especially he chose it for the reason above given."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:10:18
+- Timestamp: 12-25-2023 20:33:49
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 47.83%
-- BHT Quality Score: 1.3885877123377914
+- BHT Word Count: 52
+- BHT Commentary Usage: 41.46%
+- BHT Quality Score: 1.6524564391252192
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (69):
-	['and', 'any', 'asked', 'at', 'avoid', 'believe', 'but', 'case', 'chose', 'come', 'doesn', 'encountered', 'entered', 'even', 'explicitly', 'for', 'had', 'have', 'he', 'her', 'him', 'his', 'in', 'intentionally', 'interesting', 'is', 'it', 'jesus', 'jews', 'martha', 'may', 'meeting', 'mention', 'met', 'narrative', 'not', 'note', 'occurred', 'of', 'on', 'others', 'place', 'presence', 'reason', 'remain', 'reveal', 's', 'some', 'speculate', 'stay', 'stayed', 'still', 't', 'that', 'the', 'there', 'though', 'to', 'town', 'uncertain', 'wanted', 'was', 'way', 'where', 'while', 'why', 'with', 'words', 'yet']
-- ChatGPT injected words (significant words only) (36):
-	['asked', 'avoid', 'believe', 'case', 'chose', 'come', 'doesn', 'encountered', 'entered', 'explicitly', 'intentionally', 'interesting', 'jesus', 'jews', 'martha', 'meeting', 'mention', 'met', 'narrative', 'note', 'occurred', 'place', 'presence', 'reason', 'remain', 'reveal', 's', 'speculate', 'stay', 'stayed', 't', 'town', 'uncertain', 'wanted', 'way', 'words']
+- ChatGPT injected words (41):
+	['and', 'away', 'bury', 'but', 'chose', 'cities', 'come', 'crowd', 'customary', 'from', 'grave', 'he', 'into', 'it', 'jesus', 'jews', 'lazarus', 'martha', 'mary', 'meet', 'mourners', 'nearer', 'not', 'now', 'of', 'outside', 'place', 'presence', 's', 'since', 'stayed', 'the', 'there', 'this', 'to', 'town', 'towns', 'waited', 'was', 'without', 'yet']
+- ChatGPT injected words (significant words only) (24):
+	['away', 'bury', 'chose', 'cities', 'come', 'crowd', 'customary', 'grave', 'jesus', 'jews', 'lazarus', 'martha', 'mary', 'meet', 'mourners', 'nearer', 'outside', 'place', 'presence', 's', 'stayed', 'town', 'towns', 'waited']
 
 ### Logs
-- Attempt 1 BHT: Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. After speaking with Jesus, Martha immediately left to inform Mary. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.
-- 🔄 John 11:30 (attempt 1, 107 words, 45.33% quotes quality score: 1.3974964988176997, V2 normalized quality score: 37.81, commentator tiers 1-3: 38.6%, 16.29%, 45.11%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: Now Jesus was not yet come into the town, but rather stayed outside, perhaps to avoid the presence of the Jews and to meet Martha away from the mourners. He purposely chose this place, closer to Lazarus's grave, and waited for Mary to join them. By meeting them here, Jesus demonstrated his intention to raise Lazarus to life, since it was customary to bury outside the town.
+- 🔄 John 11:30 (attempt 1, 68 words, 43.14% quotes quality score: 1.5484238977530074, V2 normalized quality score: 42.83, commentator tiers 1-3: 18.18%, 29.5%, 52.32%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.
-- 🔄 John 11:30 (attempt 2, 97 words, 47.83% quotes quality score: 1.3885877123377914, V2 normalized quality score: 37.51, commentator tiers 1-3: 34.68%, 18.83%, 46.48%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: Now Jesus was not yet come into the town, but rather stayed without, closer to Lazarus's grave, intending to raise him to life. He chose this place to meet Martha and Mary away from the crowd of mourners, and to avoid the presence of the Jews, making it a more suitable place to converse. It was customary to bury outside the towns and cities, hence his decision to wait there.
+- 🔄 John 11:30 (attempt 2, 71 words, 40.74% quotes quality score: 1.456427822379279, V2 normalized quality score: 39.77, commentator tiers 1-3: 15.61%, 29.33%, 55.06%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.
-- 🔄 John 11:30 (attempt 3, 97 words, 47.83% quotes quality score: 1.3885877123377914, V2 normalized quality score: 37.51, commentator tiers 1-3: 34.68%, 18.83%, 46.48%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 3 BHT: Now Jesus was not yet come into the town, but instead stayed without, near Lazarus's grave, which he intended to go to in order to raise him to life. He chose to meet Martha and Mary there, away from the mourners, and particularly to avoid the presence of the Jews. It was customary to bury outside the towns and cities, which is why he waited in that place.
+- 🔄 John 11:30 (attempt 3, 69 words, 42.31% quotes quality score: 1.4715879296195034, V2 normalized quality score: 40.27, commentator tiers 1-3: 16.01%, 29.33%, 54.66%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Martha's encounter with Jesus reveals that he had come and called for her, even though it is not explicitly mentioned in the narrative. It is interesting to consider that this meeting took place while Jesus was still on his way. The reason for Jesus staying at the meeting place is uncertain, with some speculating that he may have wanted to avoid the presence of the Jews, while others believe that he intentionally chose to remain there. Regardless, Jesus had not yet entered the town, preferring to stay at the spot where Martha had initially met him.
-- 🔄 John 11:30 (attempt 4, 97 words, 46.27% quotes quality score: 1.3272706412728372, V2 normalized quality score: 35.47, commentator tiers 1-3: 29.59%, 21.65%, 48.77%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: Now Jesus was not yet come into the town, but stayed without, nearer to Lazarus's grave. He chose this place, away from the crowd of mourners and the presence of the Jews, to meet Martha and Mary. Since it was customary to bury outside the towns and cities, Jesus waited there.
+- 🔄 John 11:30 (attempt 4, 52 words, 41.46% quotes quality score: 1.6524564391252192, V2 normalized quality score: 46.29, commentator tiers 1-3: 21.03%, 31.57%, 47.41%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Martha's encounter with Jesus unveils the fact that he had come and called for her, despite the narrative omitting this detail. Notably, their meeting transpired while Jesus was still on his way. The reason behind Jesus staying at the place where he met Martha remains uncertain. Some suggest avoiding the presence of the Jews, while others propose a deliberate choice. Ultimately, Jesus did not enter the town, opting to remain at the spot where Martha had encountered him.
-- 🔄 John 11:30 (attempt 5, 79 words, 41.94% quotes quality score: 1.311286075192206, V2 normalized quality score: 34.94, commentator tiers 1-3: 32.32%, 24.0%, 43.68%) 
+- Attempt 5 BHT: Now Jesus was not yet come into the town, but stayed without, being nearer to Lazarus's grave, which he intended to go to, in order to raise him to life. He purposely chose this place for the reason above given, to meet Martha and Mary away from the crowd of mourners. It was customary to bury outside the towns and cities, making it a more suitable place to converse together than their own house, which was thronged with Jews.
+- 🔄 John 11:30 (attempt 5, 80 words, 46.03% quotes quality score: 1.4834442023649177, V2 normalized quality score: 40.67, commentator tiers 1-3: 16.54%, 25.88%, 57.57%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 11:30 bht prompt v0.8 (97 words, 47.83% quotes)
-- quality score: 1.3885877123377914, V2 normalized quality score: 37.51, commentator tiers 1-3: 34.68%, 18.83%, 46.48%)
+- ✅ John 11:30 bht prompt v0.8 (52 words, 41.46% quotes)
+- quality score: 1.6524564391252192, V2 normalized quality score: 46.29, commentator tiers 1-3: 21.03%, 31.57%, 47.41%)

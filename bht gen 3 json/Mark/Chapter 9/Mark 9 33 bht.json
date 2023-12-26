@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:25:30",
+    "timestamp": "12-25-2023 20:32:43",
     "verseRef": "Mark 9:33",
     "bestBHT": {
-        "bht": "Arriving in Capernaum after allowing the disciples to travel on their own, Jesus questions them about their heated discussion on the way. Unbeknownst to the disciples, Jesus had already sensed their pride and ambition. He seizes this moment to reprove them for their wrong notions about His kingdom and teach them the importance of humility. This encounter highlights the stark contrast between the disciples' worldly desires for power and Jesus' teachings on humility and servanthood in His kingdom.",
-        "wordCount": 78,
-        "quoteTokenProportion": 36.0,
-        "qualityScore": 1.2567708592404747,
-        "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+        "bht": "After their journey to Capernaum, Jesus allowed his disciples some privacy to ponder the weighty news he had shared with them. During this time, the disciples had been occupied with a different matter altogether. Rather than considering the impending death of their Master, they were debating amongst themselves about their individual rankings in the political kingdom they expected Jesus to establish. Jesus, aware of their discussion, used the opportunity to address their pride and ambition. He desired to teach them humility and give them insight into the nature of his kingdom and its subjects.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.4080250816152546,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.16,
         "commentatorTierSimilarities": [
-            37.19,
-            5.47,
-            57.34
+            39.53,
+            17.92,
+            42.56
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -20,23 +20,23 @@
         ],
         "Jamieson-Fausset-Brown": [
             "From this we gather that after the painful communication He had made to them, the Redeemer had allowed them to travel so much of the way by themselves.\" ",
-            "Partly, no doubt, that He might have privacy for Himself to dwell on what lay before Him, and partly that they might be induced to weigh together and prepare themselves for the terrible events which He had announced to them.",
+            "Partly, no doubt, that He might have privacy for Himself to dwell on what lay before Him, and partly that they might be induced to weigh together and prepare themselves for the terrible events which He had announced to them.\" ",
             "But if so, how different was their occupation!"
         ],
         "Philip Schaff": [
-            "It was immediately after their entrance.",
-            "Probably a particular house, where He usually resided.",
-            "Probably during the journey to Capernaum."
+            "When he was. Literally, 'being;' but in the singular number. It was immediately after their entrance.",
+            "In the house. Probably a particular house, where He usually resided.",
+            "In the way. Probably during the journey to Capernaum."
         ],
         "Archibald T. Robertson": [
-            "They had been disputing... about the relative rank of each of them in the political kingdom which they were expecting him to establish.",
+            "They had been disputing, not about the coming death of the Master, but about the relative rank of each of them in the political kingdom which they were expecting him to establish.",
             "Jesus had suspected the truth about them and they had apparently kept it up in the house.",
-            "He pushed the matter further and deeper to see if this had not been the occasion of the somewhat heated discussion on the way in."
+            "Probably they asked Jesus first and then he pushed the matter further and deeper to see if this had not been the occasion of the somewhat heated discussion on the way in."
         ],
         "John Gill": [
-            "Christ came not alone, but with his disciples.\" ",
-            "This question Christ put, not as ignorant of what had passed among them, but in order to have the case laid before him.",
-            "He might reprove them for their pride and ambition, and have an opportunity of teaching them humility, and of informing them of the nature of his kingdom, and subjects; concerning which, they had entertained very wrong notions."
+            "Whilst in their journey from Caesarea Philippi, to Galilee; or as they travelled through the parts of Galilee to Capernaum...",
+            "This question Christ put, not as ignorant of what had passed among them, but in order to have the case laid before him...",
+            "...that he might reprove them for their pride and ambition, and have an opportunity of teaching them humility, and of informing them of the nature of his kingdom, and subjects..."
         ],
         "John Wesley": [
             "Luke 9:46."
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After a time of traveling on their own, Jesus arrives in Capernaum where He questions His disciples about what they were discussing along the way. The disciples, swirling with thoughts of their own political power and rank, did not realize that Jesus had already suspected their true intentions. Jesus uses this moment as an opportunity to both rebuke their pride and teach them about humility in His kingdom. This interaction serves as a reminder to the disciples and to us that the values of God's kingdom are not based on worldly power and status, but on humility and servanthood.",
-            "wordCount": 100,
-            "quoteTokenProportion": 47.06,
-            "qualityScore": 1.2318485549073526,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.3,
+            "bht": "After their journey to Capernaum, Jesus allowed his disciples some privacy to ponder the weighty news he had shared with them. During this time, the disciples had been occupied with a different matter altogether. Rather than considering the impending death of their Master, they were debating amongst themselves about their individual rankings in the political kingdom they expected Jesus to establish. Jesus, aware of their discussion, used the opportunity to address their pride and ambition. He desired to teach them humility and give them insight into the nature of his kingdom and its subjects.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.4080250816152546,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.16,
             "commentatorTierSimilarities": [
-                35.97,
-                5.93,
-                58.11
+                39.53,
+                17.92,
+                42.56
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Arriving in Capernaum after allowing the disciples to travel on their own, Jesus questions them about their heated discussion on the way. Unbeknownst to the disciples, Jesus had already sensed their pride and ambition. He seizes this moment to reprove them for their wrong notions about His kingdom and teach them the importance of humility. This encounter highlights the stark contrast between the disciples' worldly desires for power and Jesus' teachings on humility and servanthood in His kingdom.",
-            "wordCount": 78,
-            "quoteTokenProportion": 36.0,
-            "qualityScore": 1.2567708592404747,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+            "bht": "After their journey to Capernaum, Jesus allowed his disciples privacy to ponder the news he had shared. Meanwhile, the disciples were caught up in a different matter, debating their rankings in the political kingdom they expected Jesus to establish. Seizing the opportunity, Jesus addressed their pride and ambition, teaching them humility and providing insight into the nature of his kingdom.",
+            "wordCount": 60,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.387533830167164,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.48,
             "commentatorTierSimilarities": [
-                37.19,
-                5.47,
-                57.34
+                37.03,
+                14.2,
+                48.78
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After a time of traveling on their own, Jesus arrives in Capernaum and questions the disciples about their discussion along the way. Suspecting their pride and ambition, Jesus seizes this moment to reprove them for their wrong notions about His kingdom and to teach them about humility. This encounter serves as a reminder that the values of God's kingdom are not based on worldly power, but on humility and servanthood.",
-            "wordCount": 71,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.1400284519482282,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.25,
+            "bht": "After their journey to Capernaum, Jesus allowed his disciples some privacy to ponder the weighty news he had shared. During this time, the disciples had been occupied with a different matter altogether. Rather than considering the impending death of their Master, they were debating amongst themselves about their individual rankings in the political kingdom they expected Jesus to establish. Jesus, aware of their discussion, used the opportunity to address their pride and ambition. He desired to teach them humility and give them insight into the nature of his kingdom and its subjects.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.393492242025606,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.68,
             "commentatorTierSimilarities": [
-                32.94,
-                2.26,
-                64.79
+                39.35,
+                17.76,
+                42.89
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Upon arriving in Capernaum, Jesus questions the disciples about their discussion during the journey. It becomes evident that they had been disputing about their relative ranks in the political kingdom they anticipated Jesus to establish. Recognizing their pride and ambition, Jesus reproves them, seeking to teach them humility and correct their misconceptions about His kingdom. This interaction serves as a reminder that the values of God's kingdom are rooted in humility, rather than worldly power and status.",
-            "wordCount": 78,
-            "quoteTokenProportion": 40.35,
-            "qualityScore": 1.2246180000207512,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.06,
+            "bht": "After their journey to Capernaum, Jesus allowed his disciples privacy to ponder the news he had shared. Meanwhile, the disciples were caught up in a different matter, debating their rankings in the political kingdom they expected Jesus to establish. Seizing the opportunity, Jesus addressed their pride and ambition, teaching them humility and providing insight into the nature of his kingdom.",
+            "wordCount": 60,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.387533830167164,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.48,
             "commentatorTierSimilarities": [
-                36.17,
-                10.56,
-                53.27
+                37.03,
+                14.2,
+                48.78
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Arriving in Capernaum, Jesus questions the disciples about their discussion during the journey, where they had been disputing about their positions in the political kingdom they expected Jesus to establish. Recognizing their pride and ambition, Jesus reproves them, seeking to teach them humility and correct their misconceptions about His kingdom. This encounter serves as a reminder that the values of God's kingdom are grounded in humility, rather than the pursuit of worldly power and status.",
-            "wordCount": 76,
-            "quoteTokenProportion": 38.89,
-            "qualityScore": 1.1552928907691746,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.76,
+            "bht": "After their journey to Capernaum, Jesus allowed his disciples privacy to ponder the weighty news he had shared. During this time, the disciples had been occupied with a different matter altogether. Rather than considering the impending death of their Master, they were debating amongst themselves about their individual rankings in the political kingdom they expected Jesus to establish. Jesus, aware of their discussion, used the opportunity to address their pride and ambition. He desired to teach them humility and give them insight into the nature of his kingdom and its subjects.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.3883135312073152,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.5,
             "commentatorTierSimilarities": [
-                35.52,
-                2.41,
-                62.07
+                39.6,
+                17.26,
+                43.14
             ],
             "generationAttempt": 5
         }

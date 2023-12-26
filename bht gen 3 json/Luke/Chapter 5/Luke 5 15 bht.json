@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:15:17",
+    "timestamp": "12-25-2023 20:32:57",
     "verseRef": "Luke 5:15",
     "bestBHT": {
-        "bht": "As news spread about the miracles Jesus performed, it was this very report that drew larger crowds to him. The disobedience of the leper who did not keep Jesus' command played a role in this growing fame. The more the report spread, the more people came together, eager to witness Jesus' healing and hear his teachings. The crowds were not only motivated by the desire to witness miracles but also to be healed of their own infirmities.",
-        "wordCount": 77,
-        "quoteTokenProportion": 51.79,
-        "qualityScore": 1.4363673737699005,
-        "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+        "bht": "Despite Jesus commanding the man to stay silent about his healing, the news of the miraculous cure spread rapidly and the crowds kept coming together to be healed of their infirmities. The more Jesus charged the man to keep silent, the more the news blazed abroad, fueling the excitement and gratitude of those who experienced the healing. The fame of Jesus grew and circulated throughout the region, drawing in great multitudes who came together to hear his teachings and seek healing from him.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 1.4970038484039465,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.12,
         "commentatorTierSimilarities": [
-            40.79,
+            25.79,
             0.0,
-            59.21
+            74.21
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -27,19 +27,19 @@
             "(See on :-)."
         ],
         "Marvin Vincent": [
-            "The word walked about.\" ",
-            "Kept coming together, or were coming.\" ",
-            "Originally, to be an attendant, to do service; and therefore of a physician, to attend upon, or treat medically."
+            "Went abroad [\u03b4\u03b9\u03b7\u03c1\u03c7\u03b5\u03c4\u03bf] . Dia, throughout the region. Wyc., the word walked about.",
+            "Came together [\u03c3\u03c5\u03bd\u03b7\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf] Imperfect. Kept coming together, or were coming.",
+            "To be healed [\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03b5\u03c3\u03b8\u03b1\u03b9] . Originally, to be an attendant, to do service; and therefore of a physician, to attend upon, or treat medically."
         ],
         "Archibald T. Robertson": [
-            "So much the more (\u03bc\u03b1\u03bb\u03bb\u03bf\u03bd)... The more the report spread, the more the crowds came.",
+            "So much the more (\u03bc\u03b1\u03bb\u03bb\u03bf\u03bd). Mark 1:45 has only 'much' (\u03c0\u03bf\u03bb\u03bb\u03b1, many), but Mark tells more about the effect of this disobedience.",
             "Went abroad (\u03b4\u03b9\u03b7\u03c1\u03c7\u03b5\u03c4\u03bf). Imperfect tense. The fame of Jesus kept going.",
             "Came together (\u03c3\u03c5\u03bd\u03b7\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf). Imperfect tense again. The more the report spread, the more the crowds came."
         ],
         "John Gill": [
-            "For the more he charged the man to keep silence, the more he blazed it abroad, being elated with the cure he received, and filled with gratitude to his benefactor.\" ",
-            "And great multitudes came together to hear: him, or from him, as the Syriac, Arabic, Persic, and Ethiopic versions add; to hear the doctrines of the Gospel preached by him.\" ",
-            "And to be healed by him of their infirmities; their bodily weaknesses and disorders."
+            "For the more he charged the man to keep silence, the more he blazed it abroad, being elated with the cure he received, and filled with gratitude to his benefactor.\" (Luke 5:15)",
+            "And great multitudes came together to hear: him, or from him, as the Syriac, Arabic, Persic, and Ethiopic versions add; to hear the doctrines of the Gospel preached by him.\" (Luke 5:15)",
+            "To be healed by him of their infirmities; their bodily weaknesses and disorders.\" (Luke 5:15)"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -59,67 +59,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The reason for the growing crowds around Jesus can be found in Mark's account, where it is mentioned that the leper disobeyed Jesus' command. The more the report of Jesus' healing power spread, the more people flocked to him. The fame of Jesus continued to grow as his ability to heal spread among the people. The crowds were not only drawn by the desire to witness more miracles, but also by the opportunity to hear Jesus' teachings and to be healed of their own infirmities.",
-            "wordCount": 86,
-            "quoteTokenProportion": 44.83,
-            "qualityScore": 1.4821707748276731,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.62,
+            "bht": "Despite Jesus commanding the man to stay quiet about his healing, the news spread rapidly and the crowds kept coming. The more Jesus tried to suppress the news, the more it blazed abroad. This led to great multitudes coming together to hear Jesus preach and seek healing from Him for their bodily weaknesses and disorders. The fame of Jesus and His ability to heal continued to go throughout the region, drawing people from all around.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4052740123724647,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.07,
             "commentatorTierSimilarities": [
-                41.64,
+                31.23,
                 0.0,
-                58.36
+                68.77
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "As news spread about the miracles Jesus performed, it was this very report that drew larger crowds to him. The disobedience of the leper who did not keep Jesus' command played a role in this growing fame. The more the report spread, the more people came together, eager to witness Jesus' healing and hear his teachings. The crowds were not only motivated by the desire to witness miracles but also to be healed of their own infirmities.",
-            "wordCount": 77,
-            "quoteTokenProportion": 51.79,
-            "qualityScore": 1.4363673737699005,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+            "bht": "Despite his command to keep silent, the news of the man's healing continued to spread far and wide. As a result, more and more people came together to hear Jesus preach and seek healing for their bodily infirmities. The fame of Jesus grew and circulated throughout the region, causing crowds from every direction to gather in anticipation of witnessing his miracles and receiving his healing touch.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.4494575349360699,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.54,
             "commentatorTierSimilarities": [
-                40.79,
+                29.85,
                 0.0,
-                59.21
+                70.15
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The reason for the large crowds that were coming to Jesus was due to the disobedience of the leper who did not keep silent about his healing. As the news spread, more and more people were drawn to Jesus and his healing power. The word about Jesus and his miracles kept going and the crowds kept coming together. They were not only coming to be healed of their infirmities, but also to hear the teachings of the Gospel. The more Jesus commanded silence, the more the man spread the news, filled with gratitude and elation for his miraculous cure.",
-            "wordCount": 99,
-            "quoteTokenProportion": 44.64,
-            "qualityScore": 1.4577243382429415,
-            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "bht": "Despite Jesus commanding the man to stay silent about his healing, the news of the miraculous cure spread rapidly and the crowds kept coming together to be healed of their infirmities. The more Jesus charged the man to keep silent, the more the news blazed abroad, fueling the excitement and gratitude of those who experienced the healing. The fame of Jesus grew and circulated throughout the region, drawing in great multitudes who came together to hear his teachings and seek healing from him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.4970038484039465,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.12,
             "commentatorTierSimilarities": [
-                32.02,
+                25.79,
                 0.0,
-                67.98
+                74.21
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The crowds that gathered around Jesus were a result of the leper's disobedience in spreading the news of his healing. As the word about Jesus continued to spread, more and more people came together to be healed of their infirmities and to hear his teachings. The fame of Jesus kept growing, and the report of his miracles attracted larger and larger crowds. The man who was healed couldn't contain his gratitude, and his excitement led him to publicly share his testimony, which further fueled people's curiosity and desire to seek Jesus for themselves.",
-            "wordCount": 96,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.4950494592894468,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.05,
+            "bht": "Despite Jesus commanding the man to stay silent, the news of his healing spread rapidly, causing crowds to gather for healing. The more Jesus charged the man to keep silent, the more the news blazed abroad, fueling excitement. The fame of Jesus grew, drawing in multitudes who sought healing.",
+            "wordCount": 49,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.371492391016066,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.95,
             "commentatorTierSimilarities": [
-                34.31,
+                35.12,
                 0.0,
-                65.69
+                64.88
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The crowds that flocked to Jesus were a direct result of the disobedience of the leper who couldn't keep quiet about his healing. The report of Jesus' miracles spread rapidly, and the more the news circulated, the more people gathered around Him. They came together to be healed of their infirmities and to hear His teachings. The man who was healed, overcome with gratitude, couldn't help but share the news, which only intensified people's curiosity and desire to experience Jesus' power for themselves.",
-            "wordCount": 86,
-            "quoteTokenProportion": 41.67,
-            "qualityScore": 1.379582052916711,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "bht": "Despite Jesus commanding the man to keep silent, news of his healing spread rapidly throughout the region. The more Jesus urged the man to stay quiet, the more the news blazed abroad, igniting excitement and gratitude among those who witnessed the miraculous cure. The fame of Jesus continued to grow, attracting great multitudes of people seeking to hear his teachings and receive healing for their physical ailments and weaknesses.",
+            "wordCount": 69,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 1.4287762513209512,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
             "commentatorTierSimilarities": [
-                31.24,
+                25.07,
                 0.0,
-                68.76
+                74.93
             ],
             "generationAttempt": 5
         }

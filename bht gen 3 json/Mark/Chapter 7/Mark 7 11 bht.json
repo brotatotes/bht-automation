@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:24:01",
+    "timestamp": "12-25-2023 20:32:37",
     "verseRef": "Mark 7:11",
     "bestBHT": {
-        "bht": "When encountering the practice of Corban, it becomes evident that certain individuals would deceitfully utter this word to evade supporting their parents. This term, meant to symbolize a gift to God, was twisted to withhold necessary resources from their family. Jesus sternly confronts this manipulative behavior, exposing its betrayal of the commandment to honor and provide for parents. This rebuke highlights the importance of genuine care and compassion within familial relationships, rejecting the prioritization of ritualistic adherence over true love and responsibility.",
-        "wordCount": 82,
-        "quoteTokenProportion": 27.69,
-        "qualityScore": 1.3698006892490813,
-        "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+        "bht": "Some rabbis allowed an unfaithful son to prevent the use of money for the support of his parents by simply saying Corban, signifying that what they might have expected from him had been devoted to sacred uses. This clever trick justified the son's deception and deprived his parents of much-needed assistance. The term Corban referred to offerings and gifts to God, specifically those without a sacrifice. This highlights the Pharisaical mindset that valued religious traditions over familial obligations and genuine care for others.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.602465186537156,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.62,
         "commentatorTierSimilarities": [
-            28.9,
-            28.26,
-            42.84
+            32.53,
+            25.23,
+            42.24
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -22,7 +22,7 @@
             "Corban. Mark only gives the original word, and then translates. See on Matthew 14:5."
         ],
         "Philip Schaff": [
-            "Corban. This was the Hebrew word used, which Mark translates into Greek for his Greek readers. Both mean a gift to God.\" ",
+            "Corban. This was the Hebrew word used, which Mark translates into Greek for his Greek readers. Both mean a gift to God.",
             "The term \u2018Corban\u2019 seems to have included all kinds of offerings, though some think it was applied in the time of Christ only to offerings without a sacrifice.",
             "On the whole verse, see Matthew 15:5-6."
         ],
@@ -32,9 +32,9 @@
             "They not only justified such a son's trickery, but held that he was prohibited from using it for father or mother, but he might use it for himself."
         ],
         "John Gill": [
-            "if a man shall say to his father or his mother, it is Corban, that is to say, a gift; in the same manner is this word interpreted by Josephus, who speaking of some that call themselves Corban unto God, says u in the Greek tongue, \u03b4\u03c9\u03c1\u03bf\u03bd \u03b4\u03b5 \u03c4\u03bf\u03c5\u03c4\u03bf \u03c3\u03b5\u03bc\u03b1\u03b9\u03bd\u03b5\u03b9, 'this signifies a gift'",
-            "whoever made use of that word to his father or his mother, signifying thereby, that what they might have expected relief from at his hands, he had devoted it; or it was as if it was devoted to sacred uses; adding, by whatsoever thou mightest be profited by me, [he shall be free]",
-            "this was not the form of an oath, or swearing by Corban, or the sacred treasury in the temple, mentioned in Matthew 27:6, of which I do not remember any instance; nor was it a dedication of his substance to holy and religious uses; to the service of God and the temple; but it was a vow he made, that what he had, should be as Corban, as a gift devoted to sacred uses"
+            "Whoever made use of that word to his father or his mother, signifying thereby, that what they might have expected relief from at his hands, he had devoted it; or it was as if it was devoted to sacred uses; adding, by whatsoever thou mightest be profited by me, [he shall be free].",
+            "This was not the form of an oath, or swearing by Corban, or the sacred treasury in the temple... it was a vow he made, that what he had, should be as Corban, as a gift devoted to sacred uses.",
+            "That as that could not be appropriated to any other use, so his substance, after such a vow, could not be applied to the relief of his parents; though he was not obliged by it to give it for the use of the temple, but might keep it himself, or bestow it upon others."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -54,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When Jesus speaks about the issue of Corban in Mark 7:11, he is addressing a practice among the religious leaders where they allowed someone to use the word Corban as a means of avoiding the responsibility of supporting their parents. This word symbolized a gift to God, but in this context, it permitted individuals to withhold resources from their parents. This was a deceptive tactic that the Pharisees justified, claiming that the person's possessions were now dedicated to God and therefore couldn't be used for the support of their parents. Jesus rebukes this practice, pointing out that it disregards the commandment to honor one's parents and undermines the intention of providing for family members in need.",
-            "wordCount": 118,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.702713151999672,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "bht": "Some rabbis allowed an unfaithful son to prevent the use of money for the support of his parents by simply saying the word Corban, signifying that what they might have expected relief from had been devoted to sacred uses. This was a clever trick to withhold support from one's parents while appearing righteous. It was a form of manipulation that not only justified the son's trickery, but also deprived his parents of much-needed assistance. The term Corban referred to offerings and gifts to God, and it seems that during the time of Christ, it was exclusively used to describe offerings without a sacrifice. This verse exposes the Pharisaical mindset that prioritized religious traditions over the genuine care and support of family members.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.6633135081007222,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
             "commentatorTierSimilarities": [
-                26.17,
-                28.41,
-                45.42
+                28.98,
+                28.32,
+                42.7
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "When encountering the phrase Corban in Mark 7:11, one may be curious about its meaning. The concept of Corban referred to an offering without a sacrifice, but it took on a broader definition during the time of Jesus. Some saw it as a way to deny financial support to their parents, using the word as an excuse to withhold resources. This deceptive practice was condemned by Jesus, who emphasized the importance of honoring one's parents and fulfilling the responsibility of providing for them.",
-            "wordCount": 83,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 1.6235621934530737,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "bht": "Some rabbis allowed an unfaithful son to prevent the use of money for the support of his parents by simply saying the word Corban, signifying that what they might have expected relief from had been devoted to sacred uses. This was a clever trick to withhold support from one's parents while appearing righteous. The term Corban referred to offerings and gifts to God, and it seems that during the time of Christ, it was exclusively used to describe offerings without a sacrifice. This verse exposes the Pharisaical mindset that prioritized religious traditions over the genuine care and support of family members.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.7214946324626563,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
             "commentatorTierSimilarities": [
-                30.54,
-                32.87,
-                36.59
+                28.31,
+                30.67,
+                41.02
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "When considering the meaning of the term Corban in this passage, it becomes evident that it was a deceptive practice employed by some individuals during Jesus' time. By declaring something as Corban, they claimed that it was a gift to God and therefore exempt from being used for the support of their parents. This maneuver allowed them to evade their responsibility to provide for their family members, deeply contradicting the commandment to honor and care for one's parents. Jesus sternly reproaches this practice, sternly rebuking those who prioritize ritualistic adherence over genuine compassion and love for one's family.",
-            "wordCount": 100,
-            "quoteTokenProportion": 41.43,
-            "qualityScore": 1.4761794701062307,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+            "bht": "Some rabbis allowed an unfaithful son to prevent the use of money for the support of his parents by simply saying Corban, signifying that what they might have expected from him had been devoted to sacred uses. This clever trick justified the son's deception and deprived his parents of much-needed assistance. The term Corban referred to offerings and gifts to God, specifically those without a sacrifice. This highlights the Pharisaical mindset that valued religious traditions over familial obligations and genuine care for others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.602465186537156,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
             "commentatorTierSimilarities": [
-                27.75,
-                30.73,
-                41.52
+                32.53,
+                25.23,
+                42.24
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Within the context of this verse, the word Corban signifies a gift to God, but it was exploited by some individuals to avoid providing financial support to their parents. These people used the term as an excuse to withhold resources intended for their family. Jesus firmly condemns this deceptive practice, emphasizing the importance of honoring and assisting parents, rather than using fraudulent tactics to shirk one's responsibilities. It serves as a powerful reminder of the significance of familial relationships and the call to compassionately care for one another.",
-            "wordCount": 89,
-            "quoteTokenProportion": 35.82,
-            "qualityScore": 1.3948518702869859,
-            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "bht": "Some rabbis allowed an unfaithful son to prevent support for his parents by saying Corban, meaning what they expected to receive was devoted to sacred uses. This trick justified the son's deception and denied his parents much-needed help. Corban referred to offerings and gifts to God, particularly those without a sacrifice. This reveals the Pharisaical mindset that prioritized religious traditions over familial responsibilities and genuine compassion for others.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6004583380418043,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
             "commentatorTierSimilarities": [
-                27.25,
-                30.24,
-                42.51
+                34.32,
+                26.19,
+                39.49
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "When encountering the practice of Corban, it becomes evident that certain individuals would deceitfully utter this word to evade supporting their parents. This term, meant to symbolize a gift to God, was twisted to withhold necessary resources from their family. Jesus sternly confronts this manipulative behavior, exposing its betrayal of the commandment to honor and provide for parents. This rebuke highlights the importance of genuine care and compassion within familial relationships, rejecting the prioritization of ritualistic adherence over true love and responsibility.",
-            "wordCount": 82,
-            "quoteTokenProportion": 27.69,
-            "qualityScore": 1.3698006892490813,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+            "bht": "The rabbis actually allowed the mere saying of this word by an unfaithful son to prevent the use of needed money for the support of father or mother, highlighting the clever nature of this deceitful practice. By uttering the word Corban, individuals were able to withhold assistance from their parents while still appearing righteous. The term Corban referred to offerings and gifts to God. This verse demonstrates the Pharisaical mindset that prioritized adherence to religious customs over the duty of caring for family members in need.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.6059747542711573,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
             "commentatorTierSimilarities": [
-                28.9,
-                28.26,
-                42.84
+                31.08,
+                30.07,
+                38.86
             ],
             "generationAttempt": 5
         }

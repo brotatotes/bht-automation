@@ -1,32 +1,31 @@
 {
-    "timestamp": "12-22-2023 23:28:19",
+    "timestamp": "12-25-2023 20:32:44",
     "verseRef": "Mark 14:20",
     "bestBHT": {
-        "bht": "The portrayal here does not designate a specific individual, but rather emphasizes the near relationship of the betrayer to the Betrayed. The mention of dipping in the same dish underscores the extreme closeness and trust between them. It is significant that Jesus' sign of the betrayer went unnoticed by everyone. Judas, fully aware of Jesus' knowledge of his intentions, carries out his treacherous act.",
-        "wordCount": 64,
-        "quoteTokenProportion": 42.0,
-        "qualityScore": 1.2128305246571167,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.67,
+        "bht": "The betrayer's proximity to the Betrayed is vividly portrayed in this description, depicting a close and trusted relationship, as seen in one dipping in the same dish. Although the others fail to notice it, Jesus gives a sign by giving the sop to the one who dips with Him, indicating that this person is the betrayer. Judas, fully apprehending this, realizes that Jesus is aware of his intentions. For more details, refer to Matthew 26:21-24.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.4242103159283142,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.7,
         "commentatorTierSimilarities": [
-            76.74,
+            77.49,
             0.0,
-            23.26
+            22.51
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This description of the traitor here again does not seem to designate one especially, nor to describe an action at that moment proceeding, but, as before, pathetically to describe the near relation of the betrayer to the Betrayed.",
-            "Now however the relation pointed out is still closer than before\u2014it is that of one dipping in the same dish\u2014one of nearest and most trusted.",
-            "(No quote)"
+            "Now however the relation pointed out is still closer than before\u2014it is that of one dipping in the same dish\u2014one of nearest and most trusted."
         ],
         "Marvin Vincent": [
             "Dish [\u03c4\u03c1\u03c5\u03b2\u03bb\u03b9\u03bf\u03bd] . See on Matthew 26:23."
         ],
         "Archibald T. Robertson": [
-            "It is as bad as that.",
             "The sign that Jesus gave, the one dipping in the dish with me, escaped the notice of all.",
-            "Judas who understood perfectly that Jesus knew his purpose."
+            "Jesus gave the sop to Judas who understood perfectly that Jesus knew his purpose.",
+            "See on Matthew 26:21-24 for further details."
         ],
         "John Gill": [
             "In order to relieve their minds, and point out the particular person.",
@@ -51,67 +50,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "One can infer from the first-tier commentary that the description of the traitor in this verse is meant to emphasize their close relationship to Jesus as one who dips into the same dish. This act portrays a deep level of trust and intimacy, making the betrayal all the more significant. The second-tier commentary highlights that Jesus' sign went unnoticed by all, indicating that Judas was able to maintain his deceptive facade. Ultimately, the verse reveals how Judas, fully aware of Jesus' knowledge of his intentions, carries out his treacherous act.",
-            "wordCount": 92,
-            "quoteTokenProportion": 37.88,
-            "qualityScore": 1.1668133007110244,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.14,
+            "bht": "At this moment, the betrayer's close relationship to the one he betrayed is emphasized by the fact that they were dipping in the same dish. This symbolizes a near and trusted bond. Although not immediately recognized by the others, Jesus gave a sign that the one dipping with Him in the dish was the betrayer. Judas fully understood this and realized that Jesus knew his intentions. This event can be further explored in Matthew 26:21-24 for more context.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.3018108723768336,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
             "commentatorTierSimilarities": [
-                74.6,
+                71.71,
                 0.0,
-                25.4
+                28.29
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The traitor in the passage is described as someone who is closely related to Jesus, sharing a trusted bond as they dip into the same dish. This intimate act signifies a deep level of connection and makes the betrayal all the more significant. Despite Jesus giving a clear sign, the others fail to recognize the traitor among them. Judas, fully aware that Jesus knew his intentions, carries out his treacherous act.",
-            "wordCount": 71,
+            "bht": "The betrayer's proximity to the Betrayed is vividly portrayed in this description, depicting a close and trusted relationship, as seen in one dipping in the same dish. Although the others fail to notice it, Jesus gives a sign by giving the sop to the one who dips with Him, indicating that this person is the betrayer. Judas, fully apprehending this, realizes that Jesus is aware of his intentions. For more details, refer to Matthew 26:21-24.",
+            "wordCount": 75,
             "quoteTokenProportion": 40.0,
-            "qualityScore": 1.137286886684416,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.16,
+            "qualityScore": 1.4242103159283142,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
             "commentatorTierSimilarities": [
-                75.44,
+                77.49,
                 0.0,
-                24.56
+                22.51
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The depiction of the traitor, dipping into the same dish as Jesus, signifies their close and trusted relationship. This act of intimacy adds weight to the betrayal that unfolds. Despite Jesus giving a clear sign, the others fail to recognize the traitor among them. Judas, fully aware that Jesus was aware of his intentions, proceeds with his treacherous act.",
-            "wordCount": 59,
-            "quoteTokenProportion": 38.64,
-            "qualityScore": 1.1455573813184778,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.43,
+            "bht": "This description of the betrayer underscores their profound connection to the one they betrayed, emphasizing the intimate relationship they once shared, as depicted by dipping in the same dish. Despite going unnoticed by the others, Jesus discreetly signals the identity of the betrayer by offering the sop to the one involved in this shared action. Judas, comprehending this gesture, realizes that Jesus is fully aware of his intentions. Additional insights can be found in Matthew 26:21-24.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.3631244455932938,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
             "commentatorTierSimilarities": [
-                75.65,
+                78.34,
                 0.0,
-                24.35
+                21.66
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The portrayal here does not designate a specific individual, but rather emphasizes the near relationship of the betrayer to the Betrayed. The mention of dipping in the same dish underscores the extreme closeness and trust between them. It is significant that Jesus' sign of the betrayer went unnoticed by everyone. Judas, fully aware of Jesus' knowledge of his intentions, carries out his treacherous act.",
-            "wordCount": 64,
-            "quoteTokenProportion": 42.0,
-            "qualityScore": 1.2128305246571167,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.67,
+            "bht": "The betrayer's deep connection to the one who betrayed is poignantly illustrated in this passage, revealing their close and trusted relationship as they share in dipping from the same dish. While this act goes unnoticed by the others, Jesus subtly signals the identity of the betrayer by handing the sop to the one partaking in this shared action. Judas, fully aware of the implications, recognizes that Jesus is aware of his intentions. For further details, please refer to Matthew 26:21-24.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.3833402010083788,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
             "commentatorTierSimilarities": [
-                76.74,
+                78.21,
                 0.0,
-                23.26
+                21.79
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The depiction of the traitor in this verse highlights their close relationship to Jesus, as they dip into the same dish. This act of intimacy accentuates the gravity of the betrayal. The fact that Jesus' sign went unnoticed by all underlines the secrecy maintained by Judas. Despite knowing Jesus was aware of his intentions, Judas proceeds with his treacherous act.",
-            "wordCount": 60,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 1.154051553837577,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.72,
+            "bht": "The description of the betrayer in this verse serves to highlight their close relationship with the one they would betray, as they were depicted as dipping in the same dish, symbolizing their nearness and trust. Though the others were oblivious, Jesus discreetly revealed the betrayer's identity through the act of giving them the sop. Judas, fully understanding the implication, realized that Jesus was fully aware of his intentions. For more details, explore Matthew 26:21-24.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.342606593902424,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
             "commentatorTierSimilarities": [
-                80.02,
+                77.07,
                 0.0,
-                19.98
+                22.93
             ],
             "generationAttempt": 5
         }

@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:26:17",
+    "timestamp": "12-25-2023 20:34:03",
     "verseRef": "Acts 4:30",
     "bestBHT": {
-        "bht": "Having been released, the apostles return to their fellow believers, symbolizing the impending clash of opposing interests. They pray for courage, asking for visible signs and proof that God has heard their plea for the strength to remain steadfast. They prioritize the preaching of God's word and seek His glory above all else. By requesting healing and signs and wonders in Jesus' name, they hope to preach with renewed readiness, enthusiasm, and unwavering conviction. They rely on God's power, recognizing His help in advancing their mission.",
-        "wordCount": 88,
-        "quoteTokenProportion": 29.23,
-        "qualityScore": 1.350364104557157,
-        "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+        "bht": "The apostles pray for courage and visible signs, seeking proof that God has heard their prayer. They prioritize promoting the truth and God's glory, valuing preaching above all else. Their request reflects their trust in God's power and their commitment to their mission, showing their readiness to preach the gospel despite opposition. Desiring firmness of mind, they ask for signs that will confirm their message and contradict the schemes of those who forbid them to preach in Jesus' name.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.6290985167343615,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.51,
         "commentatorTierSimilarities": [
-            16.89,
-            50.5,
-            32.61
+            21.32,
+            50.08,
+            28.61
         ],
         "generationAttempt": 3
     },
@@ -23,23 +23,23 @@
         ],
         "Albert Barnes": [
             "The apostles not only desired boldness to speak, but they asked that God would continue to work miracles, and thus furnish to them, and to the people, evidence of the truth of what they delivered.",
-            "They were intent on their work, and they confidently committed their way to God, making it their great object to promote the knowledge of the truth, and seeking that God would glorify himself by establishing his kingdom among people.",
-            "Signs and wonders - Miracles."
+            "They did not even ask that he would preserve their lives, or keep them from danger. They were intent on their work, and they confidently committed their way to God.",
+            "Making it their great object to promote the knowledge of the truth, and seeking that God would glorify himself by establishing his kingdom among people."
         ],
         "John Calvin": [
             "They make so great account of the glory of God, that in comparison of this, they set light by all other things.",
-            "They do undoubtedly prefer the preaching thereof before all other things, because it is acceptable to God.",
+            "They do undoubtedly prefer the preaching [of the gospel] before all other things, because it is acceptable to God.",
             "The more we perceive ourselves to be holpen by the Lord, let us learn to crave at the hands of God that we may go forward hereafter."
         ],
         "Archibald T. Robertson": [
-            "In the stretching out the hand as to thee...",
-            "For healing.",
+            "In the stretching out the hand as to thee.",
+            "They ask for a visible sign or proof that God has heard this prayer for courage to be faithful even unto death.",
             "They ask for a visible sign or proof that God has heard this prayer for courage to be faithful even unto death."
         ],
         "John Gill": [
             "By stretching forth thine hand to heal... it would animate the preachers of the word to preach it with more readiness, cheerfulness, and firmness of mind.",
-            "...that signs and wonders may be done by the name of thy holy child Jesus.",
-            "...by whose name particularly the lame man at the temple had received a cure, and in whose name the sanhedrim had forbid the apostles to preach, or to make use of it, in doing any other miracle."
+            "That signs and wonders may be done by the name of thy holy child Jesus... in whose name the sanhedrim had forbid the apostles to preach, or to make use of it, in doing any other miracle.",
+            "By exerting his power in healing sicknesses, diseases, and lameness... it would be contrary to the schemes of the Jewish sanhedrim, and would confirm the doctrines of the Gospel."
         ],
         "John Wesley": [
             "Thou stretchest forth thy hand \u2014 Exertest thy power."
@@ -62,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The apostles, having been released, returned to their fellow believers, representing the two conflicting interests that would soon clash. They prayed, asking God not only for courage but also for visible signs and miracles to prove the truth of their message. Their focus was on promoting the knowledge of the truth and glorifying God's kingdom. They esteemed the glory of God above all else and were willing to put the preaching of His word before everything. By asking for God's hand to heal and for signs and wonders to be done in Jesus' name, the apostles sought to boldly proclaim the message with confidence and firmness. They relied on God's power and desired His help to continue their work.",
-            "wordCount": 122,
-            "quoteTokenProportion": 39.74,
-            "qualityScore": 1.409263286428105,
-            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
+            "bht": "In Acts 4:30, the apostles pray for courage and signs to prove that God has heard their prayer. They are focused on promoting the knowledge of the truth and seek God's glory above all else. They desire to further their mission and are not concerned with their own safety or preservation. By asking for visible signs and miracles, they are confident that God will strengthen them to preach the word with readiness and firmness of mind, despite the opposition they face. They emphasize the importance of the glory of God and prefer the preaching of the gospel above all other things.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4876065569332404,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
             "commentatorTierSimilarities": [
-                11.76,
-                57.11,
-                31.13
+                17.92,
+                52.41,
+                29.67
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The apostles, released from imprisonment, reunite with their fellow believers, representing opposing interests on the brink of conflict. They pray for courage and visible signs as proof of God's presence. They are committed to promoting the truth and glorifying God's kingdom. They prioritize the preaching of His word above everything else. Seeking healing and signs and wonders in Jesus' name, they boldly proclaim the message, relying on God's power and seeking His assistance to continue their mission.",
+            "bht": "The apostles in this passage ask for courage and visible signs as proof that God has heard their prayer. They prioritize promoting the truth and seeking God's glory over everything else. Their focus is on preaching the gospel with readiness and firmness, even in the face of opposition. They emphasize the importance of God's glory and place preaching above all else. In their request, they demonstrate their trust in God's power and desire to further their mission.",
             "wordCount": 80,
-            "quoteTokenProportion": 31.58,
-            "qualityScore": 1.269573212552166,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.56,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.5223655434576226,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.96,
             "commentatorTierSimilarities": [
-                16.02,
-                52.47,
-                31.51
+                19.13,
+                49.99,
+                30.88
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Having been released, the apostles return to their fellow believers, symbolizing the impending clash of opposing interests. They pray for courage, asking for visible signs and proof that God has heard their plea for the strength to remain steadfast. They prioritize the preaching of God's word and seek His glory above all else. By requesting healing and signs and wonders in Jesus' name, they hope to preach with renewed readiness, enthusiasm, and unwavering conviction. They rely on God's power, recognizing His help in advancing their mission.",
-            "wordCount": 88,
-            "quoteTokenProportion": 29.23,
-            "qualityScore": 1.350364104557157,
-            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "bht": "The apostles pray for courage and visible signs, seeking proof that God has heard their prayer. They prioritize promoting the truth and God's glory, valuing preaching above all else. Their request reflects their trust in God's power and their commitment to their mission, showing their readiness to preach the gospel despite opposition. Desiring firmness of mind, they ask for signs that will confirm their message and contradict the schemes of those who forbid them to preach in Jesus' name.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6290985167343615,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.51,
             "commentatorTierSimilarities": [
-                16.89,
-                50.5,
-                32.61
+                21.32,
+                50.08,
+                28.61
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The apostles, upon their release, join their fellow believers, signifying the imminent confrontation of opposing forces. They pray for courage, desiring visible signs and evidence of God's acknowledgement of their plea for unwavering faith. Their primary focus is to proclaim the truth and magnify God's kingdom. The apostles value the glory of God above all else, prioritizing the preaching of His word. By seeking healing and signs in Jesus' name, they are emboldened to deliver their message with steadfastness and resolve, relying on God's power and guidance.",
-            "wordCount": 90,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 1.3178798788431254,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.16,
+            "bht": "The apostles pray for courage and signs to prove that God has heard their prayer. They prioritize promoting the truth and God's glory, valuing preaching above all else. Their request reflects their trust in God's power and their commitment to their mission, showing their readiness to preach the gospel despite opposition. They ask for visible signs and miracles to confirm their message, contradicting those who forbid them to preach in Jesus' name. By seeking God's help, they seek to go forward and preach with greater readiness and firmness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.599747885659448,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
             "commentatorTierSimilarities": [
-                14.06,
-                52.4,
-                33.54
+                19.89,
+                50.73,
+                29.38
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Upon their release, the apostles reunite with their fellow believers, representing conflicting interests. They pray for the courage to remain faithful even unto death and request visible signs to validate their message. The apostles prioritize the preaching of God's word, esteeming His glory above all else. They seek healing and signs in Jesus' name to empower them in boldly proclaiming the truth. With unwavering conviction and relying on God's power, they continue their mission, seeking His assistance to advance further.",
-            "wordCount": 82,
-            "quoteTokenProportion": 31.15,
-            "qualityScore": 1.310181826956771,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.91,
+            "bht": "The apostles pray for courage and signs to prove that God has heard their prayer. They value promoting the truth and God's glory above all else, prioritizing preaching in their mission. By asking for visible signs and miracles, they seek to confirm their message and contradict those who forbid them from preaching. Their request reflects their trust in God's power and readiness to preach with greater determination. They desire to go forward and face opposition with firmness of mind, seeking God's help for their mission.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.592019070712604,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.28,
             "commentatorTierSimilarities": [
-                17.38,
-                51.12,
-                31.51
+                20.2,
+                51.97,
+                27.83
             ],
             "generationAttempt": 5
         }
