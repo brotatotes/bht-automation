@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-21-2023 03:10:25",
+    "timestamp": "12-25-2023 19:31:06",
     "verseRef": "John 11:28",
     "bestBHT": {
-        "bht": "When Martha heard that Jesus was asking for her sister, she immediately went to find her secretly. This action reveals that Martha, though not always an attentive listener to Jesus's teachings, knew the joy that Mary found in listening to him. Martha's fear of the Jews knowing about this conversation with Jesus came true, as they later reported it to those who were conspiring against his life. In referring to Jesus as the Master, Martha gives us a glimpse into the close relationship and intimate conversations the disciples had with him.",
-        "wordCount": 93,
-        "quoteTokenProportion": 44.29,
-        "qualityScore": 1.825028047455473,
-        "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+        "bht": "Martha, not habituated herself to listen to Jesus's instructions, secretly called her sister Mary to avoid the Jews present and informants. Mary went to meet Jesus upon receiving the news that The Master is come and calleth for thee, giving us a glimpse into the private interchange among Jesus and his disciples. This title, The Master, reflects the high esteem in which Jesus was held by those devoted to him, and Mary's immediate response reveals her deep reverence and unwavering faith in him.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.023712052807747,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.63,
         "commentatorTierSimilarities": [
-            28.52,
-            35.83,
-            35.65
+            21.65,
+            43.92,
+            34.43
         ],
-        "generationAttempt": 1
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Her calling her sister is characteristic of one who (as in Luke x. 40) had not been much habituated herself to listen to his instructions, but knew this to be the delight of Mary.",
-            "Lest the Jews who were present should know it, and should perhaps give information against Him to those who were conspiring against His life.",
-            "This fear was realized (ver. 46)."
+            "Her calling her sister is characteristic of one who (as in Luke x. 40) had not been much habituated herself to listen to his instructions.",
+            "Secretly] 'Lest the Jews who were present should know it, and should perhaps give information against Him to those who were conspiring against His life.'",
+            "But is it not somewhat too plainly asserted, to mean only calling by inference? Surely, we must regard Martha\u2019s words as proving it to have been a fact."
         ],
         "Jamieson-Fausset-Brown": [
             "28-32. The Master is come and",
@@ -26,33 +26,34 @@
             "\tinteresting detail, but Martha's words do."
         ],
         "Albert Barnes": [
-            "The Master calleth for thee.",
-            "This was done, perhaps, to avoid confusion, or because it was probable that if they knew Jesus was coming they would have made opposition.",
-            "The Master is come - This appears to have been the appellation by which he was known to the family."
+            "She went her way - Jesus probably directed her to go, though the evangelist has not recorded it, for she said to Mary, The Master calleth for thee.",
+            "Secretly - Privately. So that the others did not hear her. This was done, perhaps, to avoid confusion, or because it was probable that if they knew Jesus was coming they would have made opposition. Perhaps she doubted whether Jesus desired it to be known that he had come.",
+            "The Master is come - This appears to have been the appellation by which he was known to the family. It means, literally, teacher, and was a title which he claimed for himself. 'One is your Master, even Christ' Matthew 23:8, Matthew 23:10."
         ],
         "Marvin Vincent": [
-            "The Master [\u03bf \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2]. Literally, the teacher. Westcott remarks that this title opens a glimpse into the private intercourse of the Lord and the disciples: so they spoke of Him.",
-            "Is come [\u03c0\u03b1\u03c1\u03b5\u03c3\u03c4\u03b9\u03bd]. Literally, is present. Rev., is here."
+            "The Master [\u03bf \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2]...opens a glimpse into the private intercourse of the Lord and the disciples: so they spoke of Him.",
+            "Is come [\u03c0\u03b1\u03c1\u03b5\u03c3\u03c4\u03b9\u03bd]...is present.",
+            "The Master...so they spoke of Him."
         ],
         "John Calvin": [
             "The word Master shows in what estimation Christ was held among those pious women.",
-            "Though they had not hitherto profited so much as they might have done, still it was a great matter that they were entirely devoted to him as his disciples.",
+            "It was a great matter that they were entirely devoted to him as his disciples.",
             "Mary\u2019s sudden departure, to come and meet him, was a proof that she regarded him with no ordinary reverence."
         ],
         "Philip Schaff": [
             "We cannot doubt that Mary until now had been in ignorance of the coming of Jesus.\" ",
-            "That which He was about to do He would have faith, not unbelief, to see...",
-            "Mary must be called \u2018secretly.\u2019"
+            "That which He was about to do He would have faith, not unbelief, to see.",
+            "Therefore Mary must be called 'secretly.'"
         ],
         "Archibald T. Robertson": [
-            "Called Mary. Out of the house and away from the crowd.",
-            "To tell her the glad news.",
-            "The Master. 'The Teacher.' So they loved to call him."
+            "Called Mary... Out of the house and away from the crowd.\" ",
+            "Secretly... To tell her the glad news.\" ",
+            "The Master... So they loved to call him as he was... Is here... Calleth thee. This rouses Mary."
         ],
         "John Gill": [
             "Had expressed her faith in Christ in such terms, as the apostles themselves did.",
-            "She went her way...and called Mary her sister secretly.",
-            "The master is come...and calleth for thee."
+            "She went her way... and called Mary her sister secretly.",
+            "The master is come... and calleth for thee."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -72,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When Martha heard that Jesus was asking for her sister, she immediately went to find her secretly. This action reveals that Martha, though not always an attentive listener to Jesus's teachings, knew the joy that Mary found in listening to him. Martha's fear of the Jews knowing about this conversation with Jesus came true, as they later reported it to those who were conspiring against his life. In referring to Jesus as the Master, Martha gives us a glimpse into the close relationship and intimate conversations the disciples had with him.",
-            "wordCount": 93,
-            "quoteTokenProportion": 44.29,
-            "qualityScore": 1.825028047455473,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "bht": "Martha, not being accustomed to listening to Jesus's teachings, secretly called her sister Mary, perhaps to avoid the Jews who were present and might report to those conspiring against Jesus. Her words, The Master is come and calleth for thee, open a glimpse into the private interchange between Jesus and his disciples, as they lovingly referred to him as the Master. Mary, unaware of Jesus's coming, eagerly went to meet him, demonstrating her deep reverence and faith in him. The title Master reflects the high regard in which Jesus was held by those devoted to him, and Mary's immediate response highlights her unwavering belief in him.",
+            "wordCount": 109,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 2.060404301789156,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
             "commentatorTierSimilarities": [
-                28.52,
-                35.83,
-                35.65
+                21.09,
+                43.34,
+                35.57
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Martha, who may not have been accustomed to listening to Jesus's teachings like her sister, called her sister secretly when she heard that Jesus had asked for her. This precaution was taken to avoid the Jews in attendance from discovering the conversation and potentially betraying Jesus to his enemies. The title the Master sheds light on the intimate relationship between Jesus and his disciples, highlighting the reverence they had for him. Martha's actions reflect her deep respect for Jesus and her understanding of the significance of his call.",
-            "wordCount": 90,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.7927734133899134,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.95,
+            "bht": "Martha, not accustomed to listening to Jesus, secretly called her sister Mary, perhaps to avoid the Jews present and informants. Mary eagerly went to meet Jesus upon hearing the news that The Master is come and calleth for thee, revealing the private interchange between Jesus and his disciples, who lovingly referred to him as the Master. Mary's immediate response displayed her unwavering belief in Jesus, affirming the high regard and reverence she held for him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.004057387325924,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.98,
             "commentatorTierSimilarities": [
-                26.46,
-                36.1,
-                37.44
+                21.29,
+                43.29,
+                35.41
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Martha's decision to call her sister secretly when she heard that Jesus had asked for her showcases that she, unlike her sister, had not been as accustomed to listening to his teachings. Her concern was to keep this information away from the Jews present, who might have reported it to those plotting against Jesus. The use of the term the Master reveals the close bond between Jesus and his disciples. Martha's actions demonstrate her deep reverence for Jesus and her understanding of the importance of his summons.",
-            "wordCount": 89,
-            "quoteTokenProportion": 43.33,
-            "qualityScore": 1.7588682235753736,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "bht": "Martha, not habituated herself to listen to Jesus's instructions, secretly called her sister Mary to avoid the Jews present and informants. Mary went to meet Jesus upon receiving the news that The Master is come and calleth for thee, giving us a glimpse into the private interchange among Jesus and his disciples. This title, The Master, reflects the high esteem in which Jesus was held by those devoted to him, and Mary's immediate response reveals her deep reverence and unwavering faith in him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.023712052807747,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
             "commentatorTierSimilarities": [
-                27.26,
-                34.1,
-                38.63
+                21.65,
+                43.92,
+                34.43
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "When Martha heard that Jesus had called for her sister, she acted discreetly by secretly summoning Mary. This precaution was taken to prevent the Jews present from discovering Jesus's request and potentially reporting it to his adversaries. The title the Master signifies the close relationship and private conversations that Jesus shared with his disciples. Martha's actions reveal her profound respect for Jesus and her understanding of the significance of his call to her sister.",
-            "wordCount": 76,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.7696408041197218,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "bht": "Martha, not habituated herself to listen to Jesus's instructions, secretly called her sister Mary to avoid the Jews present and informants. Mary went to meet Jesus upon receiving the news that The Master is come and calleth for thee, giving us a glimpse into the private interchange among Jesus and his disciples. This title, The Master, reflects the high esteem in which Jesus was held by those devoted to him, and Mary's immediate response reveals her deep reverence and unwavering faith in him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.023712052807747,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
             "commentatorTierSimilarities": [
-                28.16,
-                35.52,
-                36.32
+                21.65,
+                43.92,
+                34.43
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Martha's discreet and cautious response to Jesus calling for her sister, Mary, highlights her awareness of the potential danger the Jews surrounding them posed. By secretly summoning Mary, Martha sought to prevent the Jews from revealing Jesus's request to those plotting against him. Referring to Jesus as the Master reveals the intimate relationship he shared with his disciples. Martha's actions demonstrate her profound reverence for Jesus and her understanding of the importance of his call to her sister.",
-            "wordCount": 81,
-            "quoteTokenProportion": 32.08,
-            "qualityScore": 1.7272677795254483,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "bht": "Martha, not accustomed to listening to Jesus, secretly called her sister Mary, perhaps to avoid the Jews present and informants. Mary eagerly went to meet Jesus upon hearing the news that The Master is come and calleth for thee, revealing the private interchange between Jesus and his disciples, who lovingly referred to him as the Master. Mary's immediate response displayed her unwavering belief in Jesus, affirming the high regard and reverence she held for him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.004057387325924,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.98,
             "commentatorTierSimilarities": [
-                27.95,
-                32.69,
-                39.35
+                21.29,
+                43.29,
+                35.41
             ],
             "generationAttempt": 5
         }

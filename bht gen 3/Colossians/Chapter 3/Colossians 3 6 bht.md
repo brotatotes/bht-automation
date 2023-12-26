@@ -1,13 +1,13 @@
 # Colossians 3:6 Commentary Help Text
 
 ## BHT:
-Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassing sin negates God and arouses His especial anger. The present tense denotes the certainty of future events, such as the coming wrath of God. Witnessing His wrath upon the wicked is a deterrent to sinning and a reminder of God's displeasure and judgments already administered for sin. Therefore, it is crucial to mortify and abstain from covetousness and other sins, taking them seriously as they are not matters of indifference.
+Covetousness, idolatry, the negation of God, brings down His especial anger. The wrath of God comes upon the children of disobedience, those who disobey God's law and Gospel. We should not view these sins of the flesh lightly; Paul emphasizes the certainty of God's wrath and that present punishment is not excluded. Let us be deterred from sinning by beholding God's wrath upon the reprobate, fearing His threatenings of wrath and destruction.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Covetousness, which amounts to idolatry, the all-comprehending and crowning sin, which is a negation of God, and brings down His especial anger."
-2. "On account of covetousness, cometh the wrath of God."
-3. "Covetousness...brings down His especial anger."
+1. "Covetousness, which amounts to idolatry, the all-comprehending and crowning sin, which is a negation of God."
+2. "Brings down His especial anger."
+3. "Cometh the wrath of God."
 
 ### Jamieson-Fausset-Brown:
 1. 6. (See on :-.)
@@ -22,14 +22,14 @@ Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassin
 
 
 ### John Calvin:
-1. "He warns the Colossians, then, either of the ordinary judgments of God, which are seen daily, or of the vengeance which he has once denounced upon the wicked, and which impends over them, but will not be manifested until the last day."
-2. "For God would rather that we should see his wrath upon the reprobate, than feel it in ourselves."
-3. "In short, whenever God threatens, he shews, as it were, indirectly the punishment, that, beholding it in the reprobate, we may be deterred from sinning."
+1. "God would rather that we should see his wrath upon the reprobate, than feel it in ourselves."
+2. "Let us dread the threatenings of wrath and destruction in such a manner, that those things which are suitable for the reprobate, may serve as a lesson to us."
+3. "Whenever God threatens, he shows, as it were, indirectly the punishment, that, beholding it in the reprobate, we may be deterred from sinning."
 
 ### Philip Schaff:
-1. "The wrath of God cometh, etc."
-2. "If omitted, the verse should read in English: 'cometh the wrath of God.'"
-3. "The full manifestation will be at the day of judgment."
+1. "For which things’ sake; ‘on account of which sins;’ the wrath of God cometh, etc."
+2. "If omitted, the verse should read in English: ‘cometh the wrath of God.’"
+3. "The full manifestation will be at the day of judgment, but present punishment is not necessarily excluded."
 
 ### Archibald T. Robertson:
 1. "Paul does not regard these sins of the flesh as matters of indifference, far otherwise."
@@ -37,9 +37,9 @@ Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassin
 3. "Many old MSS. do not have 'upon the sons of disobedience,' genuine words in Ephesians 5:6."
 
 ### John Gill:
-1. "The wrath of God...cometh upon the children of disobedience."
-2. "There have been already instances of God's displeasure at sin, his indignation against it, and his judgments on account of it."
-3. "This is a reason why such who have life in Christ should mortify, repress, and abstain from the above sins."
+1. "the wrath of God ... cometh upon the children of disobedience: who are disobedient both to the law of God, and Gospel of Christ"
+2. "his wrath is revealed from heaven, and it will come down from thence on disobedient and rebellious sinners"
+3. "the effects of God's wrath on such show how much such sins are displeasing to him, and detested by him, and therefore to be avoided by the saints."
 
 ### John Wesley:
 1. For which — Though the heathens lightly regarded them.
@@ -48,38 +48,36 @@ Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassin
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:20:08
+- Timestamp: 12-25-2023 19:34:00
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 37.93%
-- BHT Quality Score: 1.9771729050421087
+- BHT Word Count: 75
+- BHT Commentary Usage: 35.29%
+- BHT Quality Score: 2.172993036156094
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'abstain', 'administered', 'all', 'already', 'amounts', 'and', 'anger', 'are', 'arouses', 'as', 'brings', 'certainty', 'coming', 'covetousness', 'crucial', 'denotes', 'deterrent', 'displeasure', 'encompassing', 'especial', 'events', 'for', 'from', 'future', 'god', 'his', 'idolatry', 'indifference', 'is', 'it', 'judgments', 'matters', 'mortify', 'negates', 'not', 'of', 'other', 'present', 'reminder', 's', 'seriously', 'sin', 'sinning', 'sins', 'such', 'taking', 'tense', 'the', 'them', 'therefore', 'they', 'to', 'upon', 'which', 'wicked', 'witnessing', 'wrath']
-- ChatGPT injected words (significant words only) (36):
-	['abstain', 'administered', 'amounts', 'anger', 'arouses', 'brings', 'certainty', 'coming', 'covetousness', 'crucial', 'denotes', 'deterrent', 'displeasure', 'encompassing', 'especial', 'events', 'future', 'god', 'idolatry', 'indifference', 'judgments', 'matters', 'mortify', 'negates', 'present', 'reminder', 's', 'seriously', 'sin', 'sinning', 'sins', 'taking', 'tense', 'wicked', 'witnessing', 'wrath']
+- ChatGPT injected words (51):
+	['and', 'anger', 'be', 'beholding', 'brings', 'by', 'certainty', 'children', 'comes', 'covetousness', 'destruction', 'deterred', 'disobedience', 'disobey', 'down', 'emphasizes', 'especial', 'excluded', 'fearing', 'flesh', 'from', 'god', 'gospel', 'his', 'idolatry', 'is', 'law', 'let', 'lightly', 'negation', 'not', 'of', 'paul', 'present', 'punishment', 'reprobate', 's', 'should', 'sinning', 'sins', 'that', 'the', 'these', 'those', 'threatenings', 'upon', 'us', 'view', 'we', 'who', 'wrath']
+- ChatGPT injected words (significant words only) (33):
+	['anger', 'beholding', 'brings', 'certainty', 'children', 'comes', 'covetousness', 'destruction', 'deterred', 'disobedience', 'disobey', 'emphasizes', 'especial', 'excluded', 'fearing', 'flesh', 'god', 'gospel', 'idolatry', 'law', 'let', 'lightly', 'negation', 'paul', 'present', 'punishment', 'reprobate', 's', 'sinning', 'sins', 'threatenings', 'view', 'wrath']
 
 ### Logs
-- Attempt 1 BHT: Covetousness, which amounts to idolatry, is a sin that negates God and invokes His anger. Paul warns the Colossians of the consequences of covetousness, as the wrath of God comes upon those who engage in this sin. This wrath is certain and will be fully manifested on the day of judgment. It is better for us to witness God's wrath upon the wicked as a deterrent to sinning, rather than experiencing it ourselves. This serves as a reminder that God has already shown His displeasure and administered judgments for sin. Therefore, we must mortify and abstain from covetousness and other sins, as these are not matters of indifference but worthy of serious consideration.
-- 🔄 Colossians 3:6 (attempt 1, 114 words, 47.37% quotes quality score: 1.9224392673289992, V2 normalized quality score: 55.26, commentator tiers 1-3: 31.33%, 26.58%, 42.09%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Covetousness, which amounts to idolatry and brings God's especial anger, warns the Colossians of the consequences of this sin. The wrath of God comes upon those who engage in covetousness, as evidenced by the judgments He has already administered. It is important for us to witness His wrath upon the wicked as a deterrent to sinning. Therefore, we must mortify and abstain from covetousness and other sins, as these are not matters of indifference.
-- 🔄 Colossians 3:6 (attempt 2, 75 words, 50.88% quotes quality score: 1.95939978066456, V2 normalized quality score: 56.49, commentator tiers 1-3: 32.35%, 24.59%, 43.06%) 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Covetousness, which amounts to idolatry and brings down God's especial anger, warns against its consequences. The wrath of God comes upon those who engage in covetousness, as seen in His judgments already administered. Witnessing His wrath upon the wicked serves as a deterrence from sinning. Therefore, it is crucial to mortify and abstain from covetousness and other sins, recognizing that they hold significant weight and are not matters to take lightly.
-- 🔄 Colossians 3:6 (attempt 3, 72 words, 45.61% quotes quality score: 1.9169500925515548, V2 normalized quality score: 55.08, commentator tiers 1-3: 31.81%, 24.93%, 43.26%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Covetousness, which amounts to idolatry, is the crowning sin that negates God and triggers His anger. Paul warns of the consequences, as the wrath of God comes upon those who covet. This wrath is certain and will be fully manifested on the day of judgment. Witnessing God's wrath upon the wicked serves as a deterrent to sinning, as He has already shown His displeasure and judgments for sin. Therefore, we must mortify and abstain from covetousness and other sins, for they are not matters of indifference but worthy of serious consideration.
-- 🔄 Colossians 3:6 (attempt 4, 92 words, 46.27% quotes quality score: 1.9688639377658204, V2 normalized quality score: 56.81, commentator tiers 1-3: 32.0%, 26.86%, 41.14%) 
+- Attempt 1 BHT: Covetousness, which amounts to idolatry, is the all-comprehending and crowning sin that negates God and brings down His especial anger. The wrath of God comes upon the children of disobedience, both those who disobey the law of God and the Gospel of Christ. We should not view these sins of the flesh as matters of indifference, for Paul emphasizes that the wrath of God is certain and that present punishment is not necessarily excluded. Let us be deterred from sinning by beholding God's wrath upon the reprobate and fearing the threatenings of wrath and destruction.
+- 🔄 Colossians 3:6 (attempt 1, 97 words, 37.5% quotes quality score: 2.151781901349942, V2 normalized quality score: 62.89, commentator tiers 1-3: 32.08%, 26.4%, 41.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassing sin negates God and arouses His especial anger. The present tense denotes the certainty of future events, such as the coming wrath of God. Witnessing His wrath upon the wicked is a deterrent to sinning and a reminder of God's displeasure and judgments already administered for sin. Therefore, it is crucial to mortify and abstain from covetousness and other sins, taking them seriously as they are not matters of indifference.
-- 🔄 Colossians 3:6 (attempt 5, 83 words, 37.93% quotes quality score: 1.9771729050421087, V2 normalized quality score: 57.08, commentator tiers 1-3: 35.74%, 25.27%, 38.99%) 
+- Attempt 2 BHT: Covetousness, idolatry, the negation of God, brings down His especial anger. The wrath of God comes upon the children of disobedience, those who disobey God's law and Gospel. We should not view these sins of the flesh lightly; Paul emphasizes the certainty of God's wrath and that present punishment is not excluded. Let us be deterred from sinning by beholding God's wrath upon the reprobate, fearing His threatenings of wrath and destruction.
+- 🔄 Colossians 3:6 (attempt 2, 75 words, 35.29% quotes quality score: 2.172993036156094, V2 normalized quality score: 63.59, commentator tiers 1-3: 31.63%, 26.21%, 42.15%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Covetousness, the all-comprehending and crowning sin, negates God and brings down His anger. The wrath of God comes upon the disobedient children. We should not view these sins lightly; Paul emphasizes the certainty of God's wrath and that present punishment is not excluded. Let us be deterred from sinning, fearing God's wrath and destruction, as we witness His punishment upon the reprobate.
+- 🔄 Colossians 3:6 (attempt 3, 65 words, 36.96% quotes quality score: 2.1683911156815325, V2 normalized quality score: 63.44, commentator tiers 1-3: 31.01%, 26.24%, 42.75%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Covetousness, which amounts to idolatry, is the all-comprehending and crowning sin that negates God. It brings down His especial anger and the wrath of God. The present tense in cometh the wrath of God signifies the certainty of the future event, as in Matthew 17:11 and John 4:21. Paul emphasizes the seriousness of these sins of the flesh, as they incur the wrath of God. Let us learn from the punishment of the reprobate and fear the threatenings of God's wrath and destruction, detesting and avoiding such sins.
+- 🔄 Colossians 3:6 (attempt 4, 88 words, 32.73% quotes quality score: 2.1577019656047325, V2 normalized quality score: 63.08, commentator tiers 1-3: 33.69%, 28.17%, 38.14%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Colossians 3:6 bht prompt v0.8 (83 words, 37.93% quotes)
-- quality score: 1.9771729050421087, V2 normalized quality score: 57.08, commentator tiers 1-3: 35.74%, 25.27%, 38.99%)
+- Attempt 5 BHT: Covetousness, the all-comprehending and crowning sin, negates God and brings down His anger. The wrath of God comes upon the disobedient children. Paul emphasizes the seriousness of these sins, as they bring forth the wrath of God. Let us fear God's wrath and destruction, learning from the punishment of the reprobate.
+- 🔄 Colossians 3:6 (attempt 5, 53 words, 32.43% quotes quality score: 2.164844413525988, V2 normalized quality score: 63.32, commentator tiers 1-3: 30.64%, 27.69%, 41.68%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Colossians 3:6 bht prompt v0.8 (75 words, 35.29% quotes)
+- quality score: 2.172993036156094, V2 normalized quality score: 63.59, commentator tiers 1-3: 31.63%, 26.21%, 42.15%)

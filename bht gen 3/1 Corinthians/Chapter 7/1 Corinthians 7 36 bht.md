@@ -1,75 +1,80 @@
 # 1 Corinthians 7:36 Commentary Help Text
 
 ## BHT:
-If a father behaves uncomely by prolonging his daughter's unmarried status beyond the bloom of her age, he is disregarding her natural desire for marriage. However, if there are genuine necessities that require delay, such as concerns for her welfare, then it is understandable. In the end, it is appropriate for the daughter and her suitor to marry, ensuring that she is not subjected to temptation or viewed unfavorably due to her unmarried state.
+A father who keeps his daughter unmarried beyond the appropriate age is not treating her well and is withholding the opportunity for a lawful marriage. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace associated with being unmarried. The father should consider the feelings and welfare of his daughter and allow her to marry if necessary. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Behaveth... uncomely—is not treating his daughter well in leaving her unmarried beyond the flower of her age, and thus debarring her from the lawful gratification of her natural feeling as a marriageable woman."
-2. "Need so require—if the exigencies of the case require it; namely, regard to the feelings and welfare of his daughter. Opposed to 'having no necessity' (1 Corinthians 7:37)."
+1. "Behaveth . . . uncomely—is not treating his daughter well in leaving her unmarried beyond the flower of her age, and thus debarring her from the lawful gratification of her natural feeling as a marriageable woman."
+2. "Need so require—if the exigencies of the case require it; namely, regard to the feelings and welfare of his daughter."
 3. "Let them marry—the daughter and her suitor."
 
 ### Albert Barnes:
-1. "If she pass the flower of her age - If she pass the marriageable age and remains unmarried."
-2. "And need so require - And she ought to be allowed to marry."
-3. "He sinneth not - He errs not; he will do nothing positively wrong in the case."
+1. "That he behaveth himself uncomely - Acts an unbecoming part, imposes an unnecessary, painful, and improper constraint, crosses her inclinations which are in themselves proper."
+2. "If she pass the flower of her age - If she pass the marriageable age and remains unmarried. It is well known that in the east it was regarded as especially dishonorable to remain unmarried; and the authority of a father, therefore, might be the means of involving his daughter in shame and disgrace."
+3. "And need so require - And she ought to be allowed to marry. If it will promote her happiness, and if she would be unhappy, and regarded as dishonored, if she remained in a state of celibacy."
 
 ### Marvin Vincent:
 1. "Acts unbecomingly, either by throwing temptation in the daughter's way by constraining her to remain unmarried, or by exposing her to the disgrace which was supposed to attach to the unmarried state."
-2. "Beyond the bloom of life."
+2. "Beyond the bloom of life. Plato fixes the point at twenty years."
 3. "Evidently there was assumed to be another in the case beside the father and the virgin."
 
 ### John Calvin:
-1. "For the greater their attachment to their children, so much the more anxiously do they exercise fear and caution on their account."
-2. "Celibacy will be seemly for one, but he must not measure all by his own foot."
-3. "And it requires to be so. In this clause I understand him as referring to the girl’s infirmity — in the event of her not having the gift of continency; for in that case, necessity constrains her to marry."
+1. "Paul, then, with the view of relieving them from this difficulty, teaches that it is their duty to consult their advantage, exactly as one would do for himself when at his own disposal."
+2. "Celibacy will be seemly for one, but he must not measure all by his own foot; and others should not attempt to imitate him without taking into view their ability; for it is the imitation of the ape — which is at variance with nature."
+3. "In this clause I understand him as referring to the girl’s infirmity — in the event of her not having the gift of continency; for in that case, necessity constrains her to marry."
 
 ### Archibald T. Robertson:
-1. "If she be past the flower of her age, past the bloom of youth."
+1. "The father is advised to consent. Roman and Greek fathers had the control of the marriage of their daughters." 
+2. "If need so requireth (κα ουτως οφειλε γινεσθα). 'And it ought to happen.' Paul has discussed the problem of marriage for virgins on the grounds of expediency." 
+3. "The father is advised to consent. Roman and Greek fathers had the control of the marriage of their daughters."
 
 ### John Gill:
-1. "it is better to understand it of a parent, or one that has the care and guardianship of virgins; if such an one is of opinion, that he behaveth himself uncomely towards his virgin."
-2. "by exposing her to contempt and reproach... or by so doing lay her under temptation to do that which is uncomely, to commit fornication."
-3. "there is no reason why they should not; there is nothing contrary to it in the word of God, nor in the advice of the apostle; nay, according to him, it was much better to marry than to burn, or to be exposed to any snare and temptation."
+1. "If such an one is of opinion, that he behaveth himself uncomely towards his virgin."
+2. "The apostle may have respect to a Jewish tradition founded upon the supposed sense of Leviticus 19:29 'do not prostitute thy daughter to cause her to be a whore.'"
+3. "According to him, it was much better to marry than to burn, or to be exposed to any snare and temptation."
 
 ### John Wesley:
 1. "But if any parent think he should otherwise act indecently - Unbecoming his character."
-2. "Toward his virgin daughter, if she be above age, (or of full age,) and need so require, let them marry."
-3. "Her suitor and she."
+2. "Toward his virgin daughter, if she be above age, (or of full age,) and need so require."
+3. "Let them marry - Her suitor and she."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:06:54
+- Timestamp: 12-25-2023 19:31:26
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 75
-- BHT Commentary Usage: 45.61%
-- BHT Quality Score: 1.967963537029127
+- BHT Word Count: 93
+- BHT Commentary Usage: 43.86%
+- BHT Quality Score: 2.3038166149310784
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (57):
-	['a', 'age', 'and', 'appropriate', 'are', 'as', 'behaves', 'beyond', 'bloom', 'by', 'concerns', 'daughter', 'delay', 'desire', 'disregarding', 'due', 'end', 'ensuring', 'father', 'for', 'genuine', 'he', 'her', 'his', 'however', 'if', 'in', 'is', 'it', 'marriage', 'marry', 'natural', 'necessities', 'not', 'of', 'or', 'prolonging', 'require', 's', 'she', 'state', 'status', 'subjected', 'such', 'suitor', 'temptation', 'that', 'the', 'then', 'there', 'to', 'uncomely', 'understandable', 'unfavorably', 'unmarried', 'viewed', 'welfare']
-- ChatGPT injected words (significant words only) (31):
-	['age', 'appropriate', 'behaves', 'bloom', 'concerns', 'daughter', 'delay', 'desire', 'disregarding', 'end', 'ensuring', 'father', 'genuine', 'marriage', 'marry', 'natural', 'necessities', 'prolonging', 'require', 's', 'state', 'status', 'subjected', 'suitor', 'temptation', 'uncomely', 'understandable', 'unfavorably', 'unmarried', 'viewed', 'welfare']
+	['a', 'act', 'advises', 'age', 'allow', 'and', 'apostle', 'appropriate', 'associated', 'becoming', 'being', 'beyond', 'by', 'consider', 'constraining', 'daughter', 'daughters', 'disgrace', 'either', 'expose', 'father', 'fathers', 'feelings', 'for', 'her', 'his', 'if', 'in', 'is', 'it', 'keeps', 'lawful', 'line', 'manner', 'marriage', 'marry', 'necessary', 'not', 'of', 'opportunity', 'or', 'paul', 'remain', 'should', 'tempt', 'that', 'the', 'their', 'to', 'treating', 'unbecoming', 'unmarried', 'welfare', 'well', 'who', 'with', 'withholding']
+- ChatGPT injected words (significant words only) (32):
+	['act', 'advises', 'age', 'allow', 'apostle', 'appropriate', 'associated', 'consider', 'constraining', 'daughter', 'daughters', 'disgrace', 'expose', 'father', 'fathers', 'feelings', 'keeps', 'lawful', 'line', 'manner', 'marriage', 'marry', 'necessary', 'opportunity', 'paul', 'remain', 'tempt', 'treating', 'unbecoming', 'unmarried', 'welfare', 'withholding']
 
 ### Logs
-- Attempt 1 BHT: If a father refuses to allow his daughter to marry, he is treating her unkindly, as it is not proper to withhold marriage from a woman in the prime of her life. However, if there are legitimate reasons for delay, such as concern for the daughter's wellbeing, then it is acceptable. Ultimately, the daughter should be allowed to marry her suitor and not be exposed to temptation or societal disgrace.
-- 🔄 1 Corinthians 7:36 (attempt 1, 71 words, 47.06% quotes quality score: 1.8547526516972543, V2 normalized quality score: 53.01, commentator tiers 1-3: 32.24%, 35.46%, 32.3%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: If a father behaves uncomely by prolonging his daughter's unmarried status beyond the bloom of her age, he is disregarding her natural desire for marriage. However, if there are genuine necessities that require delay, such as concerns for her welfare, then it is understandable. In the end, it is appropriate for the daughter and her suitor to marry, ensuring that she is not subjected to temptation or viewed unfavorably due to her unmarried state.
-- 🔄 1 Corinthians 7:36 (attempt 2, 75 words, 45.61% quotes quality score: 1.967963537029127, V2 normalized quality score: 56.78, commentator tiers 1-3: 35.23%, 33.08%, 31.69%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: If a father acts unbecomingly by keeping his daughter unmarried beyond the flower of her age, he is denying her the opportunity for lawful marriage and denying her natural desires as a marriageable woman. However, if there are genuine circumstances that necessitate delay, such as the daughter's welfare, it is acceptable. In the end, it is appropriate for the daughter and her suitor to marry, in order to avoid temptation and the disgrace associated with remaining unmarried.
-- 🔄 1 Corinthians 7:36 (attempt 3, 78 words, 40.0% quotes quality score: 1.9412736927115262, V2 normalized quality score: 55.89, commentator tiers 1-3: 35.21%, 34.33%, 30.46%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: If a father acts uncomely by constraining his daughter to remain unmarried beyond the bloom of her age, he is depriving her of the opportunity for lawful marriage and preventing her from fulfilling her natural desires. However, if there are legitimate reasons for delay, such as concerns for the daughter's well-being, it is understandable. Ultimately, it is appropriate for the daughter and her suitor to marry, in order to avoid exposing her to temptation and disgrace associated with being unmarried.
-- 🔄 1 Corinthians 7:36 (attempt 4, 82 words, 42.11% quotes quality score: 1.9311204241197033, V2 normalized quality score: 55.55, commentator tiers 1-3: 36.84%, 31.67%, 31.49%) 
+- Attempt 1 BHT: If a father keeps his daughter unmarried beyond the appropriate age, he is not treating her well and denying her the opportunity for a lawful marriage. The father should consider the feelings and welfare of his daughter and allow her to marry. It is unbecoming for the father to either tempt his daughter by forcing her to remain unmarried or subject her to the disgrace associated with being unmarried. If the daughter desires to marry and it is necessary, the father should give his consent. The authority of the father in arranging the marriage of his daughter was recognized in Roman and Greek cultures. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.
+- 🔄 1 Corinthians 7:36 (attempt 1, 127 words, 40.3% quotes quality score: 2.251588135820725, V2 normalized quality score: 66.21, commentator tiers 1-3: 39.49%, 34.86%, 25.65%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: If a father behaves uncomely by keeping his daughter unmarried beyond the flower of her age, he is denying her the opportunity for lawful marriage and natural gratification. However, if genuine need requires it, such as considering the daughter's feelings and welfare, then it is acceptable. Let the daughter and her suitor marry to avoid disgrace and temptation. This decision is based not only on the father's judgment, but also on the assumption that there is another party involved.
-- 🔄 1 Corinthians 7:36 (attempt 5, 81 words, 44.26% quotes quality score: 1.7759386821824026, V2 normalized quality score: 50.39, commentator tiers 1-3: 34.29%, 33.14%, 32.57%) 
+- Attempt 2 BHT: If a father keeps his daughter unmarried beyond the appropriate age, he is not treating her well and denying her the opportunity for a lawful marriage. The father should consider the feelings and welfare of his daughter and allow her to marry. It is unbecoming for the father to either tempt his daughter by forcing her to remain unmarried or subject her to the disgrace associated with being unmarried. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.
+- 🔄 1 Corinthians 7:36 (attempt 2, 92 words, 44.64% quotes quality score: 2.295628444284386, V2 normalized quality score: 67.67, commentator tiers 1-3: 37.48%, 36.44%, 26.08%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 7:36 bht prompt v0.8 (75 words, 45.61% quotes)
-- quality score: 1.967963537029127, V2 normalized quality score: 56.78, commentator tiers 1-3: 35.23%, 33.08%, 31.69%)
+- Attempt 3 BHT: A father who keeps his daughter unmarried beyond the appropriate age is not treating her well and is withholding the opportunity for a lawful marriage. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace associated with being unmarried. The father should consider the feelings and welfare of his daughter and allow her to marry if necessary. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.
+- 🔄 1 Corinthians 7:36 (attempt 3, 93 words, 43.86% quotes quality score: 2.3038166149310784, V2 normalized quality score: 67.94, commentator tiers 1-3: 37.12%, 36.94%, 25.93%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: A father's duty is to treat his daughter well, not denying her the opportunity for a lawful marriage by keeping her unmarried beyond the appropriate age. The father should consider his daughter's feelings and welfare, allowing her to marry if necessary. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace associated with being unmarried. The apostle Paul advises fathers to act considerately, ensuring their daughters' well-being.
+- 🔄 1 Corinthians 7:36 (attempt 4, 83 words, 37.04% quotes quality score: 2.2622968248082573, V2 normalized quality score: 66.56, commentator tiers 1-3: 37.19%, 36.09%, 26.71%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: A father who keeps his daughter unmarried beyond the appropriate age is not treating her well. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace attached to being single. The father should consider his daughter's feelings and welfare, allowing her to marry if necessary. The apostle Paul advises fathers to act considerately, ensuring the well-being of their daughters by granting consent for marriage if needed.
+- 🔄 1 Corinthians 7:36 (attempt 5, 81 words, 38.18% quotes quality score: 2.268886734294725, V2 normalized quality score: 66.78, commentator tiers 1-3: 37.42%, 35.68%, 26.9%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 7:36 bht prompt v0.8 (93 words, 43.86% quotes)
+- quality score: 2.3038166149310784, V2 normalized quality score: 67.94, commentator tiers 1-3: 37.12%, 36.94%, 25.93%)

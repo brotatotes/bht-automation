@@ -1,62 +1,62 @@
 {
-    "timestamp": "12-21-2023 03:08:09",
+    "timestamp": "12-25-2023 19:30:55",
     "verseRef": "John 7:27",
     "bestBHT": {
-        "bht": "The Jews' doubts about Jesus as the Messiah arise from their understanding of the Messiah's mysterious origins and their knowledge of his family in Nazareth. Despite lacking historical proof, this belief that the Messiah would be hidden and suddenly revealed aligns with popular theology and the notion of Jesus' divine origin. The contrast between the people's settled convictions and the rulers' search for knowledge highlights the different perspectives on Jesus, emphasizing the divide between faith and skepticism.",
-        "wordCount": 79,
-        "quoteTokenProportion": 30.36,
-        "qualityScore": 1.952188041975869,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+        "bht": "The Jews, in their understanding of the Messiah's arrival, believed that he would come suddenly from obscurity, anointed by Elias, and his origin would be mysterious. They acknowledged that they knew about Jesus' family in Nazareth, but questioned if he truly could be the Messiah. They held the popular belief that the Messiah's birthplace would be unknown, and therefore believed that Jesus, who they knew only as from Nazareth, could not be the Christ. However, they failed to see the truth that Jesus' miraculous birth, foretold of in the Scriptures, made him stand apart from ordinary human beings.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 2.508442700891682,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.75,
         "commentatorTierSimilarities": [
-            32.08,
-            35.72,
-            32.21
+            38.51,
+            30.63,
+            30.86
         ],
-        "generationAttempt": 5
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Perhaps they refer to the idea that the Messiah would not be known until anointed by Elias, when He would suddenly come forth from obscurity.\" (27 words)",
-            "They may allude to Isa. liii. 8.\" (7 words)",
-            "At all events we see here, that the Jews regarded their Messiah not as a mere man, but one to be supernaturally sent into the world.\" (20 words)"
+            "Perhaps they refer to the idea that the Messiah would not be known until anointed by Elias, when He would suddenly come forth from obscurity.\" ",
+            "They may allude to Isa. liii. 8.\" ",
+            "At all events we see here, that the Jews regarded their Messiah not as a mere man, but one to be supernaturally sent into the world."
         ],
         "Jamieson-Fausset-Brown": [
             "Messiah's origin would be mysterious (not altogether wrong), from which they concluded that Jesus could not be He.",
             "They knew all about His family at Nazareth.",
-            "This man, &amp;c."
+            "They concluded that Jesus could not be [the Messiah]."
         ],
         "Albert Barnes": [
             "We know this man whence he is - We know the place of his birth and residence.",
-            "No man knoweth whence he is - from Matthew 2:5, it appears that the common expectation of the Jews was that the Messiah would be born at Bethlehem.",
-            "We find allusions to this expectation in the New Testament... Our Saviour corrects their common notions... 'If they shall say unto you, Behold, he is in the desert, go not forth; behold, he is in the secret chambers, believe it not.'"
+            "The Messiah would be born at Bethlehem; but they had also feigned that after his birth he would be hidden or taken away in some mysterious manner.",
+            "The Redeemer shall first appear and then be concealed, and then, at the end of 45 days, shall reappear, and cause manna to descend."
         ],
         "Marvin Vincent": [
             "We know [\u03bf\u03b9\u03b4\u03b1\u03bc\u03b5\u03bd] . The knowing of the rulers is expressed by egnwsan; have they ascertained by searching and watching. The people's knowledge, oidamen, is that of settled conviction.",
-            "Whence [\u03c0\u03bf\u03b8\u03b5\u03bd] . Referring to His parentage and family.",
+            "No one knoweth whence He is. Opinions differ as to the precise reference of these words.",
             "Meyer says that while the popular belief that the immediate ancestry of the Messiah would be unknown when He came cannot further be historically proved, it is credible, partly from the belief in His divine origin, and partly from the obscurity into which the Davidic family had sunk."
         ],
         "John Calvin": [
-            "So long as the rulers were opposed to Christ, their unbelief would of itself have kept back this multitude; but when that obstacle has been removed, they contrive a new reason for themselves, that they may not come to the faith.",
-            "Thus it frequently happens, that men who had begun well fall away quickly, unless the Lord conduct them to the very end of their career.",
+            "It is frequently, indeed, from the craft of Satan that offenses arise, which cause many to turn away from Christ.",
+            "But when that obstacle has been removed, they contrive a new reason for themselves, that they may not come to the faith.",
             "On the mean condition of Christ in the flesh let us therefore learn to look in such a manner, that this state of humiliation, which is despised by wicked men, may raise us to his heavenly glory."
         ],
         "Philip Schaff": [
             "Howbeit we know this man whence he is; but when the Christ cometh, no one perceiveth whence he is.",
             "But there is no inconsistency between this verse and that, for it seems to have been the belief of the Jews that the Redeemer would indeed first appear in Bethlehem; but would then be snatched away and hidden, and finally would afterwards suddenly manifest Himself, from what place and at what time no one could tell.",
-            "So Jesus warns His disciples that the cry will be heard, 'Lo, here is the Christ; or, Lo, he is there'."
+            "So Jesus warns His disciples that the cry will be heard, \u2018Lo, here is the Christ; or, Lo, he is there\u2019."
         ],
         "Archibald T. Robertson": [
-            "Clearly adversative here.",
-            "Possibly contemptuous use of \u03bf\u03c5\u03c4\u03bf\u03c2.",
-            "This is a piece of popular theology."
+            "Whence he is... The Galilean Jews knew the family of Jesus, but they knew Jesus only as from Nazareth, not as born in Bethlehem.",
+            "When the Christ cometh... This is a piece of popular theology. 'Three things come wholly unexpected--Messiah, a godsend, and a scorpion' (Sanhedrin 97a).",
+            "The Jews generally expected a sudden emergence of the Messiah from concealment with an anointing by Elijah."
         ],
         "John Gill": [
-            "There was no difficulty with them in accounting for his coming into the world, no more than any other ordinary person.",
-            "They knew he would come from Bethlehem, and they knew that he would come out of the seed of David; but then he was to be born of a virgin, according to Isaiah 7:14, and such a coming into the world was not to be known, reasoned upon, and accounted for.",
-            "Wherefore since Jesus, according to the notion of these men, came into the world in the common and ordinary way, they thought they had an invincible argument against his being the Messiah."
+            "They knew he would come from Bethlehem, and they knew that he would come out of the seed of David; but then he was to be born of a virgin... and such a coming into the world was not to be known, reasoned upon, and accounted for.",
+            "Since Jesus, according to the notion of these men, came into the world in the common and ordinary way, they thought they had an invincible argument against his being the Messiah.",
+            "The angel gives the best account of this in Luke 1:35: a body was prepared for Christ by the Lord; it was conceived by the power of the Holy Ghost; his birth of a virgin was miraculous; it is beyond the comprehension of men, and cannot be explained by any mortal."
         ],
         "John Wesley": [
-            "When Christ cometh, none knoweth whence he is.",
+            "When Christ cometh, none knoweth whence he is...none could declare his generation.",
             "This Jewish tradition was true, with regard to his Divine nature: in that respect none could declare his generation.",
             "But it was not true with regard to his human nature, for both his family and the place of his birth were plainly foretold."
         ]
@@ -78,67 +78,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The Jews, in discussing the origins of the Messiah, believe that the Messiah will not be known until anointed by Elias. They base their belief on Isaiah 53:8 and view the Messiah as one who will be supernaturally sent into the world. The people have settled convictions about the Messiah, while the rulers have searched and watched to ascertain their knowledge. The Jews had knowledge of Jesus' family in Nazareth, causing them to question how Jesus could be the Messiah. However, their understanding of the Messiah's origin being mysterious and their expectation of Him being hidden and suddenly manifesting falls in line with popular theology. This belief, though not historically proven, is credible due to the belief in Jesus' divine origin and the obscurity of the Davidic family.",
-            "wordCount": 128,
-            "quoteTokenProportion": 41.77,
-            "qualityScore": 2.03442303058425,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "bht": "The Jews, in their understanding of the Messiah's arrival, believed that he would come suddenly from obscurity, anointed by Elias, and his origin would be mysterious. They acknowledged that they knew about Jesus' family in Nazareth, but questioned if he truly could be the Messiah. They held the popular belief that the Messiah's birthplace would be unknown, and therefore believed that Jesus, who they knew only as from Nazareth, could not be the Christ. However, they failed to see the truth that Jesus' miraculous birth, foretold of in the Scriptures, made him stand apart from ordinary human beings.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.508442700891682,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.75,
             "commentatorTierSimilarities": [
-                30.26,
-                36.83,
-                32.91
+                38.51,
+                30.63,
+                30.86
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Jews' belief that the Messiah's origins will be unknown led them to question how Jesus, whose family in Nazareth they were familiar with, could be the Messiah. However, this notion aligns with popular theology, where the Messiah would be hidden and suddenly revealed. While not historically proven, this belief is considered credible due to the belief in Jesus' divine origin and the obscurity of the Davidic family. Their conviction, contrasted with the rulers' search for knowledge, strengthens the contrast between the people's settled beliefs and the rulers' skepticism.",
-            "wordCount": 91,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.9312467097493156,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "bht": "The Jews believed the Messiah would emerge suddenly from obscurity, anointed by Elias, and his origin would be mysterious. They knew Jesus' family in Nazareth but couldn't fathom how He could be the Messiah, since they expected Him to be of unknown origin. However, they missed the truth that Jesus' miraculous birth, foretold in Scripture, set Him apart from ordinary humans. His divine nature, beyond human comprehension, made it impossible for anyone to declare His generation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3722325371513246,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.22,
             "commentatorTierSimilarities": [
-                32.44,
-                35.0,
-                32.56
+                35.92,
+                30.91,
+                33.17
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The Jews' belief in the Messiah's mysterious origins caused them to question Jesus as the Messiah due to their knowledge of his family in Nazareth. However, their understanding of the Messiah's hidden and sudden manifestation aligns with popular theology, even if not historically proven. This belief is seen as credible, considering the belief in Jesus' divine origin and the obscurity of the Davidic family. The contrast between the people's settled convictions and the rulers' search for knowledge highlights their different perspectives on Jesus.",
-            "wordCount": 86,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.8750867354197673,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "bht": "The Jews' understanding of the Messiah's arrival was that he would suddenly come from obscurity, anointed by Elias, with a mysterious origin. They acknowledged knowledge of Jesus' family in Nazareth but doubted his Messiahship because they believed the true Messiah's birthplace would be unknown. However, they failed to recognize the significance of Jesus' miraculous birth, which had been prophesied. They missed the truth that Jesus' divine nature set him apart from ordinary humans, making it impossible to declare his generation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.3627533151418607,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.9,
             "commentatorTierSimilarities": [
-                33.14,
-                32.75,
-                34.11
+                36.52,
+                29.99,
+                33.5
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The Jews, firmly convinced of their knowledge about Jesus' family in Nazareth, question his status as the Messiah. Their belief in the Messiah's mysterious origins is in line with popular theology, despite lacking historical proof. This notion, based on Jesus' divine origin and the diminished status of the Davidic family, is considered credible. The contrasting views of the people, with their settled convictions, and the rulers, searching for knowledge, illustrate the divide in their perception of Jesus.",
-            "wordCount": 78,
-            "quoteTokenProportion": 25.0,
-            "qualityScore": 1.9025122375818269,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "bht": "The Jewish people believed that the Messiah would suddenly emerge from obscurity, anointed by Elias, with a mysterious origin. While they knew about Jesus' family in Nazareth, they doubted He was the Messiah because they expected the Anointed One's birthplace to be unknown. However, they failed to realize the significance of Jesus' miraculous birth, foretold in Scripture. They overlooked that His divine nature set Him apart from ordinary humans, making it impossible to declare His generation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.296260116788897,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.69,
             "commentatorTierSimilarities": [
-                32.12,
-                34.01,
-                33.86
+                37.17,
+                28.57,
+                34.26
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Jews' doubts about Jesus as the Messiah arise from their understanding of the Messiah's mysterious origins and their knowledge of his family in Nazareth. Despite lacking historical proof, this belief that the Messiah would be hidden and suddenly revealed aligns with popular theology and the notion of Jesus' divine origin. The contrast between the people's settled convictions and the rulers' search for knowledge highlights the different perspectives on Jesus, emphasizing the divide between faith and skepticism.",
-            "wordCount": 79,
-            "quoteTokenProportion": 30.36,
-            "qualityScore": 1.952188041975869,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "bht": "The Jews had an understanding that the Messiah would come forth suddenly from obscurity, anointed by Elias, with a mysterious origin. Although they knew details about Jesus' family in Nazareth, they questioned his messianic status because they believed the true Messiah would have an unknown birthplace. However, they overlooked the truth that Jesus' miraculous birth, as prophesied, distinguished him from ordinary humans. Thus, they failed to recognize that his divine nature made it impossible to declare his generation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.357149777460074,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.72,
             "commentatorTierSimilarities": [
-                32.08,
-                35.72,
-                32.21
+                36.93,
+                29.06,
+                34.01
             ],
             "generationAttempt": 5
         }

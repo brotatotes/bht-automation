@@ -1,43 +1,43 @@
 # Acts 2:29 Commentary Help Text
 
 ## BHT:
-Peter, as an Israelite and brother, speaks with respect and acknowledges David as the Patriarch, the progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's devotion and assurance of resurrection, which finds its fulfillment in Jesus, witnessed by His resurrection and ascension. David, still in his grave, cannot be speaking of himself. Speaking freely and boldly, Peter addresses the patriarch, recognizing David's sepulcher among them.
+Peter, full of the Holy Spirit, affirms that the prophecies of the Psalm have their ultimate fulfillment in Jesus. He boldly proclaims that David, the patriarch and progenitor of the kingly race, cannot be the one spoken of in the Psalm, since David died and was buried. Peter, supported by the witnesses of Jesus' resurrection and the outpouring of the Spirit, fearlessly declares the truth about Jesus and His victory over death. Despite being his brother according to the flesh, Peter does not hesitate to speak the truth and show that Jesus is the true fulfillment of the Psalm.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "He implies, 'I am your brother, an Israelite, and therefore would not speak with disrespect of David'." 
-2. "The title 'Patriarch' is only here applied to David as the progenitor of the kingly race."
-3. "We learn from 1 Kings ii. 10, and Neh. iii. 16, that David was buried at Jerusalem, in the city of David, i.e. the stronghold of Zion, 2 Sam. v. 7."
+2. "The title ‘Patriarch’ is only here applied to David as the progenitor of the kingly race."
+3. "In the LXX, the word is used of chief men, and heads of families, with the exception of 2 Chron. xxiii. 20, where it represents 'captains of hundreds'."
 
 ### Jamieson-Fausset-Brown:
 1. "Peter, full of the Holy Ghost, sees in this sixteenth Psalm, one Holy Man, whose life of high devotedness and lofty spirituality is crowned with the assurance, that though He taste of death, He shall rise again without seeing corruption, and be admitted to the bliss of God's immediate presence."
-2. "The Psalm is then affirmed to have had its only proper fulfillment in JESUS, of whose resurrection and ascension they were witnesses, while the glorious effusion of the Spirit by the hand of the ascended One, setting an infallible seal upon all, was even then witnessed by the thousands who stood listening to Him."
-3. "A further illustration of Messiah's ascension and session at God's right hand is drawn from the fact that David cannot be thought to speak of himself, seeing he is still in his grave."
+2. "Now as this was palpably untrue of David, it could be meant only of One other, even of Him whom David was taught to expect as the final Occupant of the throne of Israel."
+3. "The Psalm is then affirmed to have had its only proper fulfilment in JESUS, of whose resurrection and ascension they were witnesses, while the glorious effusion of the Spirit by the hand of the ascended One, setting an infallible seal upon all, was even then witnessed by the thousands who stood listening to Him."
 
 ### Albert Barnes:
-1. "This was a delicate way of expressing high respect for the monarch whom they all honored, and yet evinced boldness in examining a passage of Scripture which probably many supposed to have reference solely to him."
-2. "The tombs were commonly excavations from rocks, or natural caves; and sepulchres cut out of the solid rock, of vast extent, are Known to have existed...If the tombs of the kings were of this form, it is clear that they were works of great labor and expense."
-3. "Peter might, then, confidently appeal to their own belief and knowledge that David had not been raised from the dead. No Jew believed or supposed it. All, by their care of his sepulchre, and by the honor with which they regarded his grave, believed that he had returned to corruption. The Psalm, therefore, could not apply to him."
+1. "Christians should use the usual respectful forms of salutation, whatever contempt and reproaches they may meet with from opposers."
+2. "Though he was eminently a pious man, though venerated by us all as a king, yet it is proper to say of him that he is dead, and has returned to corruption."
+3. "The tomb of a monarch like David would be well known and had in reverence. Peter might, then, confidently appeal to their own belief and knowledge that David had not been raised from the dead."
 
 ### Marvin Vincent:
 1. "It is allowable for him to speak, because the facts are notorious."
 2. "Speaking everything, and therefore without reserve."
-3. "His sepulchre is with us. Or among us."
+3. "He both died and was buried. His sepulchre is with us."
 
 ### Philip Schaff:
-1. "Freely (‘frei und offen,’ Meyer and Ewald), without fear of being thought unjust to the great memory of the royal patriarch, the founder of the kingly house of Judah."
+1. "Let me freely speak unto you of the patriarch David."
 2. "No one ever pretended that King David had risen; his tomb all knew."
 3. "His resting-place was violated by the high priest, John Hyrcanus, and also by Herod the Great."
 
 ### Archibald T. Robertson:
-1. "Freely, telling it all, with fulness, with boldness."
+1. "Freely (μετα παρρησιας). Telling it all (παν, ρησια from ειπον, to speak), with fulness, with boldness."
 2. "It is a new start for Simon Peter, full of boldness and courage."
-3. "The patriarch, the founder of a family."
+3. "The patriarch (του πατριαρχου). Transliteration of the word, from πατρια, family, and αρχω, to rule, the founder of a family."
 
 ### John Gill:
-1. "It is a plain case, and a certain matter of fact, which nobody disputes or denies, that David really died, and was laid in the grave, and that his monument, or tomb, was still extant, so that he was not risen from the dead."
-2. "And Josephus relates that the sepulchre of David was opened by Hyrcanus, who took out of it three thousand talents; and that it was afterwards opened by Herod."
-3. "This, says the author, was the sepulchre of David, king of Israel."
+1. "The apostle calls the Jews, brethren, whom he before only styled men of Judea, and men of Israel, because they were his brethren according to the flesh, as many of them afterwards were in a spiritual relation."
+2. "It is a plain case, and a certain matter of fact, which nobody disputes or denies, that David really died, and was laid in the grave, and that his monument, or tomb, was still extant, so that he was not risen from the dead."
+3. "Though it may be questioned whether any such treasure was ever in it, or taken out of it; and still less credible is the account which R. Benjamin gives of two men in his time, who, under the wall of Zion, found a cave, which led them to a large palace built on pillars of marble, and covered with gold and silver; and within it was a table, and a golden sceptre, and a crown of gold; and this, says the author, was the sepulchre of David, king of Israel."
 
 ### John Wesley:
 1. The patriarch — A more honourable title than king.
@@ -46,36 +46,39 @@ Peter, as an Israelite and brother, speaks with respect and acknowledges David a
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:25:28
+- Timestamp: 12-25-2023 19:34:54
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 35.29%
-- BHT Quality Score: 1.9887098701728867
+- BHT Word Count: 99
+- BHT Commentary Usage: 40.68%
+- BHT Quality Score: 2.018240213305526
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (51):
-	['a', 'acknowledges', 'addresses', 'among', 'an', 'and', 'as', 'ascension', 'assurance', 'be', 'boldly', 'brother', 'by', 'cannot', 'david', 'devotion', 'filled', 'finds', 'freely', 'fulfillment', 'grave', 'himself', 'his', 'holy', 'in', 'israelite', 'its', 'jesus', 'kingly', 'line', 'man', 'of', 'patriarch', 'peter', 'progenitor', 'psalm', 'recognizing', 'respect', 'resurrection', 's', 'sees', 'sepulcher', 'speaking', 'speaks', 'spirit', 'still', 'the', 'them', 'which', 'with', 'witnessed']
-- ChatGPT injected words (significant words only) (33):
-	['acknowledges', 'addresses', 'ascension', 'assurance', 'boldly', 'brother', 'david', 'devotion', 'filled', 'finds', 'freely', 'fulfillment', 'grave', 'holy', 'israelite', 'jesus', 'kingly', 'line', 'man', 'patriarch', 'peter', 'progenitor', 'psalm', 'recognizing', 'respect', 'resurrection', 's', 'sees', 'sepulcher', 'speaking', 'speaks', 'spirit', 'witnessed']
+- ChatGPT injected words (59):
+	['about', 'according', 'affirms', 'and', 'be', 'being', 'boldly', 'brother', 'buried', 'by', 'cannot', 'david', 'death', 'declares', 'despite', 'died', 'does', 'fearlessly', 'flesh', 'fulfillment', 'full', 'have', 'he', 'hesitate', 'his', 'holy', 'in', 'is', 'jesus', 'kingly', 'not', 'of', 'one', 'outpouring', 'over', 'patriarch', 'peter', 'proclaims', 'progenitor', 'prophecies', 'psalm', 'race', 'resurrection', 'show', 'since', 'speak', 'spirit', 'spoken', 'supported', 'that', 'the', 'their', 'to', 'true', 'truth', 'ultimate', 'victory', 'was', 'witnesses']
+- ChatGPT injected words (significant words only) (35):
+	['according', 'affirms', 'boldly', 'brother', 'buried', 'david', 'death', 'declares', 'despite', 'died', 'fearlessly', 'flesh', 'fulfillment', 'hesitate', 'holy', 'jesus', 'kingly', 'outpouring', 'patriarch', 'peter', 'proclaims', 'progenitor', 'prophecies', 'psalm', 'race', 'resurrection', 'speak', 'spirit', 'spoken', 'supported', 'true', 'truth', 'ultimate', 'victory', 'witnesses']
 
 ### Logs
-- Attempt 1 BHT: He implies that he would not speak with disrespect of David, for he is their brother, an Israelite. The title Patriarch is applied here to David as the progenitor of the kingly race. Peter, full of the Holy Ghost, sees in this Psalm a Holy Man, whose life of high devotion is crowned with the assurance of resurrection and admission to God's presence. The Psalm is affirmed to have had its fulfillment in Jesus, whose resurrection and ascension they witnessed. Since David is still in his grave, he cannot be speaking of himself. Peter freely and boldly shares these truths, recognizing the sepulcher of David among them. This is a new start for Peter, full of courage and boldness, as he addresses the patriarch, the founder of a family.
-- 🔄 Acts 2:29 (attempt 1, 130 words, 40.74% quotes quality score: 1.9599596548937472, V2 normalized quality score: 56.51, commentator tiers 1-3: 32.84%, 32.97%, 34.19%) 
+- Attempt 1 BHT: Peter, full of the Holy Spirit, affirms that the prophecies of the Psalm have their ultimate fulfillment in Jesus. He boldly proclaims that David, the patriarch and progenitor of the kingly race, cannot be the one spoken of in the Psalm, since David died and was buried. Peter, supported by the witnesses of Jesus' resurrection and the outpouring of the Spirit, fearlessly declares the truth about Jesus and His victory over death. Despite being his brother according to the flesh, Peter does not hesitate to speak the truth and show that Jesus is the true fulfillment of the Psalm.
+- 🔄 Acts 2:29 (attempt 1, 99 words, 40.68% quotes quality score: 2.018240213305526, V2 normalized quality score: 58.45, commentator tiers 1-3: 29.55%, 38.83%, 31.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Implying respect for David, Peter, as an Israelite, acknowledges him as their brother. The title Patriarch highlights David as the progenitor of the kingly line. Peter, filled with the Holy Spirit, sees in the Psalm a Holy Man whose devoted life is rewarded with resurrection and the bliss of God's presence. Confirming that Jesus fulfills the Psalm, witnessed by His resurrection and ascension, Peter boldly shares the truth that David, still in his grave, cannot be speaking of himself. Speaking with boldness and freedom, Peter addresses the patriarch, the founder of a family.
-- 🔄 Acts 2:29 (attempt 2, 94 words, 32.26% quotes quality score: 1.9806803929912857, V2 normalized quality score: 57.2, commentator tiers 1-3: 31.88%, 32.9%, 35.22%) 
+- Attempt 2 BHT: Peter, full of the Holy Spirit, boldly proclaims that the prophecies of the Psalm find their ultimate fulfillment in Jesus. As the progenitor of the kingly race, David cannot be the one spoken of in the Psalm, for he died and was buried. Peter fearlessly shares the truth about Jesus and His victory over death, supported by the witnesses of His resurrection and the outpouring of the Spirit. Despite their shared heritage, Peter does not hesitate to declare Jesus as the true fulfillment of the Psalm.
+- 🔄 Acts 2:29 (attempt 2, 86 words, 38.89% quotes quality score: 1.9415440799300074, V2 normalized quality score: 55.9, commentator tiers 1-3: 29.18%, 39.49%, 31.33%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Peter, an Israelite and brother, speaks with respect of David, the Patriarch and progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's life of devotion and assurance of resurrection. This fulfillment is found in Jesus, witnessed by His resurrection and ascension, while David remains in his grave. Speaking freely, boldly, and with fullness, Peter addresses the patriarch, the founder of a family, recognizing David's sepulcher among them.
-- 🔄 Acts 2:29 (attempt 3, 78 words, 27.45% quotes quality score: 1.9656779730985119, V2 normalized quality score: 56.7, commentator tiers 1-3: 30.89%, 36.76%, 32.35%) 
+- Attempt 3 BHT: Peter, full of the Holy Spirit, fearlessly affirms that the prophecies of the Psalm find their ultimate fulfillment in Jesus. He boldly proclaims that David, as the patriarch and progenitor of the kingly line, cannot be the one spoken of in the Psalm, since David died and was buried. With the witnesses of Jesus' resurrection and the outpouring of the Spirit, Peter courageously declares the truth about Jesus and His triumph over death. Despite their shared heritage, Peter does not hesitate to declare Jesus as the true fulfillment of the Psalm.
+- 🔄 Acts 2:29 (attempt 3, 91 words, 37.5% quotes quality score: 1.9325570111320567, V2 normalized quality score: 55.6, commentator tiers 1-3: 28.7%, 39.89%, 31.41%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Peter, an Israelite and brother, speaks with respect of David, the Patriarch and progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's life of devotion and assurance of resurrection. This fulfillment is found in Jesus, witnessed by His resurrection and ascension, while David remains in his grave. Peter boldly and freely addresses the patriarch, recognizing David's sepulcher among them as he speaks with fullness and without reserve.
-- 🔄 Acts 2:29 (attempt 4, 78 words, 32.69% quotes quality score: 1.979370601582568, V2 normalized quality score: 57.16, commentator tiers 1-3: 31.13%, 36.27%, 32.6%) 
+- Attempt 4 BHT: Full of the Holy Spirit, Peter boldly shares that the prophecies of the Psalm find their ultimate fulfillment in Jesus. David, as the patriarch and progenitor of the kingly line, cannot be the one spoken of, since he died and was buried. Supported by witnesses of Jesus' resurrection and the outpouring of the Spirit, Peter confidently declares the truth about Jesus and His victory over death. Despite their shared heritage, Peter fearlessly proclaims Jesus as the true fulfillment of the Psalm.
+- 🔄 Acts 2:29 (attempt 4, 81 words, 34.62% quotes quality score: 1.9245280107928842, V2 normalized quality score: 55.33, commentator tiers 1-3: 28.17%, 39.46%, 32.37%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Peter, as an Israelite and brother, speaks with respect and acknowledges David as the Patriarch, the progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's devotion and assurance of resurrection, which finds its fulfillment in Jesus, witnessed by His resurrection and ascension. David, still in his grave, cannot be speaking of himself. Speaking freely and boldly, Peter addresses the patriarch, recognizing David's sepulcher among them.
-- 🔄 Acts 2:29 (attempt 5, 76 words, 35.29% quotes quality score: 1.9887098701728867, V2 normalized quality score: 57.47, commentator tiers 1-3: 31.62%, 34.97%, 33.42%) 
+- Attempt 5 BHT: Full of the Holy Spirit, Peter boldly declares that the prophecies of the Psalm find their ultimate fulfillment in Jesus. David, as the patriarch and progenitor of the kingly line, cannot be the one referred to, as he died and his tomb remains. With the witnesses of Jesus' resurrection and the outpouring of the Spirit, Peter confidently proclaims the truth about Jesus and His triumph over death. Despite their shared heritage, Peter fearlessly presents Jesus as the true fulfillment of the Psalm.
+- 🔄 Acts 2:29 (attempt 5, 82 words, 33.33% quotes quality score: 1.9185064387158401, V2 normalized quality score: 55.13, commentator tiers 1-3: 27.08%, 39.54%, 33.38%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 2:29 bht prompt v0.8 (76 words, 35.29% quotes)
-- quality score: 1.9887098701728867, V2 normalized quality score: 57.47, commentator tiers 1-3: 31.62%, 34.97%, 33.42%)
+- ✅ Acts 2:29 bht prompt v0.8 (99 words, 40.68% quotes)
+- quality score: 2.018240213305526, V2 normalized quality score: 58.45, commentator tiers 1-3: 29.55%, 38.83%, 31.61%)

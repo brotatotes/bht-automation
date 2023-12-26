@@ -1,62 +1,57 @@
 {
-    "timestamp": "12-19-2023 16:23:08",
+    "timestamp": "12-25-2023 19:32:36",
     "verseRef": "Luke 22:17",
     "bestBHT": {
-        "bht": "During the Passover meal, Jesus institutes a new rite, symbolizing the fulfillment and abrogation of the old one. This transitional moment marks the point between two economies and their festivals, with the Passover closing and the Lord's Supper opening. The cup Jesus received carries the designation of giving thanks and saying grace. His words about drinking it anew in the Father's kingdom foreshadow the future fulfillment of this significant event.",
-        "wordCount": 72,
-        "quoteTokenProportion": 28.3,
-        "qualityScore": 1.8772984909274086,
-        "qualityScoreNormalizedComparedToV2BHTs": 53.76,
+        "bht": "Jesus, during the Passover feast, took a cup and declared the fulfillment of the Passover rite, signifying the transition between two economies and their festivals. This marked the last time He would partake of the cup until the Kingdom of God arrives. Dividing the cup among His disciples, Jesus followed customs and ensured unity through communion. The act of giving thanks and sharing the cup reflected ancient practices, including the drinking of four cups during the Passover feast.",
+        "wordCount": 78,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.070333472486452,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.18,
         "commentatorTierSimilarities": [
-            29.16,
-            47.84,
-            23.0
+            29.76,
+            43.51,
+            26.73
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
+            "This seems to me to be implied in 'He took the cup,' where the original has a different word from that used by all afterwards, when He did not partake of the bread and wine.\" ",
             "This most important addition in our narrative, amounts, I believe, to a solemn declaration of the fulfilment of the Passover rite, in both its usual divisions,\u2014the eating the flesh of the lamb, and drinking the cup of thanksgiving.",
-            "Henceforward, He who fulfilled the Law for man will no more eat and drink of it.",
-            "That was the institution of a new rite;\u2014this the abrogation of an old one, now fulfilled, or about to be so, in the person of the true Lamb of God."
+            "He who fulfilled the Law for man will no more eat and drink of it."
         ],
         "Jamieson-Fausset-Brown": [
-            "It is to be your last as well as",
-            "Mine, 'until the Kingdom of God come'",
-            "until that day when I shall drink it new with you in my",
-            "Father's kingdom.",
-            "It was the point of transition between two",
-            "economies and their two great festivals, the one about to close",
-            "for ever, the other immediately to open and run its majestic career",
-            "until from earth it be transferred to heaven."
+            "It is to be your last as well as Mine, 'until the Kingdom of God come.'\" ",
+            "Until that day when I shall drink it new with you in my Father's kingdom.",
+            "It was the point of transition between two economies and their two great festivals."
         ],
         "Albert Barnes": [
-            "This was not the 'sacramental' cup...This was one of the cups which were usually taken during the celebration of the Passover, and pertained to that observance.\" ",
-            "After he had kept this in the usual manner, he instituted the supper which bears his name, using the bread and wine which had been prepared for the Passover.\" ",
-            "He ingrafted the Lord's Supper on the Passover, or superseded the Passover by another ordinance, which was intended to be perpetual."
+            "This was not the 'sacramental' cup, for that was taken 'after' supper, Luke 22:20.\" ",
+            "This was one of the cups which were usually taken during the celebration of the Passover, and pertained to that observance.\" ",
+            "He instituted the supper which bears his name, using the bread and wine which had been prepared for the Passover, and thus ingrafted the Lord's Supper on the Passover, or superseded the Passover by another ordinance, which was intended to be perpetual."
         ],
         "John Calvin": [
-            "As Luke mentions that the cup was twice presented by Christ, we must inquire, in the first place, if it be a repetition, (as the Evangelists are wont frequently to say the same thing twice,) or if Christ, after having tasted the cup, repeated the same thing a second time.",
-            "I have no doubt, therefore, that Christ, according to the ancient custom, tasted the cup in the holy feast, which otherwise could not have been correctly observed.",
+            "We know that the holy fathers, during sacrifices, observed the solemn rite of tasting the cup.",
+            "I have no doubt, therefore, that Christ, according to the ancient custom, tasted the cup in the holy feast.",
             "It was in compliance also with received and ordinary custom, that he is expressly said to have given thanks, after having taken the cup."
         ],
         "Philip Schaff": [
             "Took, or \u2018received,\u2019 as the leader in the Passover feast.",
-            "The first cup, of the Passover.",
-            "Our Lord Himself seems to have partaken of this cup."
+            "And when he had given thanks. This was usual with the first cup.",
+            "Take this and divide it among yourselves. Our Lord Himself seems to have partaken of this cup."
         ],
         "Archibald T. Robertson": [
-            "He received a cup (\u03b4\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c0\u03bf\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd). This cup is a diminutive of \u03c0\u03bf\u03c4\u03b7\u03c1.",
-            "It is from this verb \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c9 (see also verse Luke 22:19) that our word Eucharist comes.",
-            "It is a common verb for giving thanks and was used also for 'saying grace' as we call it."
+            "This cup is a diminutive of \u03c0\u03bf\u03c4\u03b7\u03c1.\" ",
+            "It is apparently just before the formal introduction of the Lord's Supper.\" ",
+            "It is from this verb \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c9 (see also verse Luke 22:19) that our word Eucharist comes."
         ],
         "John Gill": [
             "There were four cups of wine drank at the passover, which the poorest man in Israel was obliged to drink.",
-            "and which was usually done in the following manner: 'blessed art thou, O Lord, our God, the King of the world, who hast created 'the fruit of the vine'",
-            "that is, every one drink of it."
+            "And which [the blessing] was usually done in the following manner.",
+            "Take this and divide it among yourselves; that is, every one drink of it."
         ],
         "John Wesley": [
-            "Take this and divide it among yourselves; for I will not drink.",
+            "Take this and divide it among yourselves; for I will not drink.\" ",
             "Do not expect me to drink of it: I will drink no more before I die."
         ]
     },
@@ -77,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 22:17, Jesus institutes a new rite during the Passover meal, signifying the fulfillment and abrogation of the old one. This transitional moment marks the point between two economies and their festivals, with the Passover closing and the Lord's Supper opening its majestic course. The cup Jesus received carries the connotation of giving thanks, reflecting the ancient custom of saying grace. This cup, which Jesus tasted in compliance with tradition, holds significance as it is connected to the Eucharist, as we know it today. Jesus's words about drinking it anew in His Father's kingdom foreshadow the future fulfillment of this momentous occasion.",
-            "wordCount": 105,
-            "quoteTokenProportion": 28.38,
-            "qualityScore": 1.9473191783565058,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "bht": "Jesus, in the context of the Passover feast, took a cup and implied the fulfillment of the Passover rite. This cup marked the transition between two economies and their festivals, representing the point when Jesus, who fulfilled the Law for humanity, would no longer partake of it. He declared that this would be the last time He drinks of it until the Kingdom of God comes. It was a cup given thanks for, dividing it among His disciples to partake with Him. The giving of thanks and the act of dividing the cup were in accordance with ancient customs. There were four cups of wine drank at the Passover, and Jesus ensured that each person had a portion of it, signifying unity and communion.",
+            "wordCount": 124,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0238913866226307,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
             "commentatorTierSimilarities": [
-                28.77,
-                46.38,
-                24.85
+                30.71,
+                40.61,
+                28.68
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During the Passover meal, Jesus institutes a new rite, symbolizing the fulfillment and abrogation of the old one. This crucial transition point marks the end of one festival and the beginning of another. The cup Jesus receives carries the connotation of giving thanks and is connected to the Eucharist. Jesus's words about drinking it anew in His Father's kingdom anticipate the future fulfillment of this significant event.",
-            "wordCount": 69,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.7629297372647184,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "bht": "During the Passover feast, Jesus took a cup and implied the fulfillment of the Passover rite. This cup marked the transition between two economies and their festivals, representing the point when Jesus, who fulfilled the Law for humanity, would no longer partake of it. He declared that this would be the last time He drinks of it until the Kingdom of God comes. It was a cup given thanks for, dividing it among His disciples to partake with Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.0461818034325026,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
             "commentatorTierSimilarities": [
-                30.96,
-                45.14,
-                23.91
+                32.75,
+                40.3,
+                26.95
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus's institution of a new rite during the Passover meal in Luke 22:17 marks the fulfillment of the ancient Passover rite. This moment signifies the transition between two economies and their festivals, with the Passover coming to a close and the Lord's Supper beginning. The cup Jesus receives is linked to thanksgiving, reflecting the customary practice of saying grace. The mention of drinking the cup anew in the Father's kingdom foreshadows the profound significance of this event, connecting it to the Eucharist.",
-            "wordCount": 84,
-            "quoteTokenProportion": 25.45,
-            "qualityScore": 1.9354343948214114,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.69,
+            "bht": "During the Passover feast, Jesus took a cup and solemnly declared the fulfillment of the Passover rite. This act marked a transition between two economies and their festivals. He acknowledged that it would be the last occasion for him to partake of the cup until the Kingdom of God arrives. Jesus gave thanks for this cup and divided it among his disciples, following the customs and ensuring that each person had a portion. It was a significant moment symbolizing unity and communion.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.8704709148296232,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
             "commentatorTierSimilarities": [
-                26.79,
-                49.63,
-                23.59
+                31.46,
+                43.2,
+                25.33
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus's institution of a new rite during the Passover meal signifies the fulfillment and abrogation of the old one. This transitional moment showcases the connection between the two economies and their festivals. The cup Jesus receives carries the dual meaning of giving thanks and saying grace, aligning with the customary practice. His words about drinking the cup anew in the Father's kingdom foreshadow the profound implications of this sacred event, which has a notable association with the Eucharist.",
-            "wordCount": 80,
-            "quoteTokenProportion": 27.59,
-            "qualityScore": 1.7130762781788316,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "bht": "Jesus, during the Passover feast, took a cup and declared the fulfillment of the Passover rite, signifying the transition between two economies and their festivals. This marked the last time He would partake of the cup until the Kingdom of God arrives. Dividing the cup among His disciples, Jesus followed customs and ensured unity through communion. The act of giving thanks and sharing the cup reflected ancient practices, including the drinking of four cups during the Passover feast.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.070333472486452,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
             "commentatorTierSimilarities": [
-                29.84,
-                46.37,
-                23.79
+                29.76,
+                43.51,
+                26.73
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "During the Passover meal, Jesus institutes a new rite, symbolizing the fulfillment and abrogation of the old one. This transitional moment marks the point between two economies and their festivals, with the Passover closing and the Lord's Supper opening. The cup Jesus received carries the designation of giving thanks and saying grace. His words about drinking it anew in the Father's kingdom foreshadow the future fulfillment of this significant event.",
-            "wordCount": 72,
-            "quoteTokenProportion": 28.3,
-            "qualityScore": 1.8772984909274086,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.76,
+            "bht": "During the Passover feast, Jesus took a cup and implied the fulfillment of the Passover rite. This cup marked the transition between two economies and their festivals. Jesus declared that this would be the last time He drinks of it until the Kingdom of God comes. It was a cup given thanks for, dividing it among His disciples to partake with Him. The act of giving thanks and the act of dividing the cup were in accordance with ancient customs.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.9520946932406693,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
             "commentatorTierSimilarities": [
-                29.16,
-                47.84,
-                23.0
+                30.83,
+                41.36,
+                27.81
             ],
             "generationAttempt": 5
         }

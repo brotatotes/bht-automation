@@ -1,13 +1,13 @@
 # Mark 2:24 Commentary Help Text
 
 ## BHT:
-The Pharisees' viewpoint on the Sabbath is evident as they question the disciples' actions. The Sabbath was meant for true worship, and any observance should align with God's intended purpose. The traditions of the elders deemed the disciples' behavior as unlawful, displaying the extreme nature of superstition. The self-righteous attitudes of hypocrites, fueled by ambition and hatred, exacerbate their harsh judgment. The disciples' actions challenge the Pharisees' rigid interpretation, inviting a reconsideration of the true meaning of the Sabbath.
+The Pharisees accused Jesus' disciples of doing something unlawful on the Sabbath, suggesting that the disciples' actions of plucking and eating grains were not permitted by the Law. However, the Pharisees' interpretation of the Sabbath rules demonstrated a malicious and inflexible adherence to tradition, while disregarding the true essence and purpose of the Sabbath. They failed to grasp that the Sabbath was designed for sanctification, true spiritual worship, and freedom from worldly distractions. Their legalistic mindset clouded their understanding and prevented them from appreciating the heart behind the Sabbath commandment.
 
 ## Choicest Commentary Quotes:
 ### John Calvin:
-1. "The only reason for keeping the Sabbath was, that the people, by sanctifying themselves to God, might be employed in true and spiritual worship."
+1. "Now the only reason for keeping the Sabbath was, that the people, by sanctifying themselves to God, might be employed in true and spiritual worship; and next, that, being free from all worldly occupations, they might be more at liberty to attend the holy assemblies."
 2. "The lawful observation of it, therefore, must have a reference to this object; for the Law ought to be interpreted according to the design of the Legislator."
-3. "This shows clearly the malicious and implacable nature of superstition, and particularly the proud and cruel dispositions of hypocrites, when ambition is joined to hatred of the person."
+3. "But this shows clearly the malicious and implacable nature of superstition, and particularly the proud and cruel dispositions of hypocrites, when ambition is joined to hatred of the person."
 
 ### Philip Schaff:
 1. Mark 2:24. See on Matthew 12:21, for the Pharisaical views of the Sabbath.
@@ -15,48 +15,44 @@ The Pharisees' viewpoint on the Sabbath is evident as they question the disciple
 
 
 ### John Gill:
-1. "Behold, why do they on the sabbath day, that which is not lawful?"
-2. "See how they pluck the ears of corn and rub them, and eat things, which by the law, especially by the traditions of the elders, were not lawful to be done on the sabbath day."
-3. "Luke 6:2."
+1. "And the Pharisees said unto him." 
+2. "Behold, why do they on the sabbath day, that which is not lawful?" 
+3. "See how they pluck the ears of corn and rub them, and eat things, which by the law, especially by the traditions of the elders, were not lawful to be done on the sabbath day."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:20:40
+- Timestamp: 12-25-2023 19:18:54
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 26.79%
-- BHT Quality Score: 1.2010578727974384
+- BHT Word Count: 90
+- BHT Commentary Usage: 33.87%
+- BHT Quality Score: 1.4831294089292872
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['a', 'actions', 'align', 'ambition', 'and', 'any', 'as', 'attitudes', 'behavior', 'by', 'challenge', 'deemed', 'disciples', 'displaying', 'elders', 'evident', 'exacerbate', 'extreme', 'for', 'fueled', 'god', 'harsh', 'hatred', 'hypocrites', 'intended', 'interpretation', 'inviting', 'is', 'judgment', 'meaning', 'meant', 'nature', 'observance', 'of', 'on', 'pharisees', 'purpose', 'question', 'reconsideration', 'righteous', 'rigid', 's', 'sabbath', 'self', 'should', 'superstition', 'the', 'their', 'they', 'traditions', 'true', 'unlawful', 'viewpoint', 'was', 'with', 'worship']
+- ChatGPT injected words (62):
+	['a', 'accused', 'actions', 'adherence', 'and', 'appreciating', 'behind', 'by', 'clouded', 'commandment', 'demonstrated', 'designed', 'disciples', 'disregarding', 'distractions', 'doing', 'eating', 'essence', 'failed', 'for', 'freedom', 'from', 'grains', 'grasp', 'heart', 'however', 'inflexible', 'interpretation', 'jesus', 'law', 'legalistic', 'malicious', 'mindset', 'not', 'of', 'on', 'permitted', 'pharisees', 'plucking', 'prevented', 'purpose', 'rules', 'sabbath', 'sanctification', 'something', 'spiritual', 'suggesting', 'that', 'the', 'their', 'them', 'they', 'to', 'tradition', 'true', 'understanding', 'unlawful', 'was', 'were', 'while', 'worldly', 'worship']
 - ChatGPT injected words (significant words only) (41):
-	['actions', 'align', 'ambition', 'attitudes', 'behavior', 'challenge', 'deemed', 'disciples', 'displaying', 'elders', 'evident', 'exacerbate', 'extreme', 'fueled', 'god', 'harsh', 'hatred', 'hypocrites', 'intended', 'interpretation', 'inviting', 'judgment', 'meaning', 'meant', 'nature', 'observance', 'pharisees', 'purpose', 'question', 'reconsideration', 'righteous', 'rigid', 's', 'sabbath', 'self', 'superstition', 'traditions', 'true', 'unlawful', 'viewpoint', 'worship']
+	['accused', 'actions', 'adherence', 'appreciating', 'clouded', 'commandment', 'demonstrated', 'designed', 'disciples', 'disregarding', 'distractions', 'eating', 'essence', 'failed', 'freedom', 'grains', 'grasp', 'heart', 'inflexible', 'interpretation', 'jesus', 'law', 'legalistic', 'malicious', 'mindset', 'permitted', 'pharisees', 'plucking', 'prevented', 'purpose', 'rules', 'sabbath', 'sanctification', 'spiritual', 'suggesting', 'tradition', 'true', 'understanding', 'unlawful', 'worldly', 'worship']
 
 ### Logs
-- Attempt 1 BHT: The Pharisaical views of the Sabbath are highlighted in this verse, as they question the disciples' actions of plucking ears of corn on the Sabbath. The commentary emphasizes that the purpose of keeping the Sabbath was for true and spiritual worship, and thus the Law should be understood in light of the Legislator's intentions. It also highlights the malicious nature of superstition and the prideful and cruel disposition of hypocrites when combined with hatred. The actions of the disciples are seen as a violation of the traditions of the elders regarding the Sabbath.
-- 🔄 Mark 2:24 (attempt 1, 94 words, 35.59% quotes quality score: 1.3121427760265187, V2 normalized quality score: 34.97, commentator tiers 1-3: 0.0%, 38.95%, 61.05%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The Pharisaical views of the Sabbath are evident in the passage, as they question the disciples' plucking of corn on the Sabbath. The Sabbath's purpose was meant for true and spiritual worship, so the disciples' actions are seen as a violation of the traditions of the elders. The commentary also highlights the malicious nature of superstition and the prideful and cruel disposition of hypocrites when combined with hatred. The disciples' actions challenge the Pharisaical interpretation of the Sabbath.
-- 🔄 Mark 2:24 (attempt 2, 79 words, 31.25% quotes quality score: 1.268240743602669, V2 normalized quality score: 33.51, commentator tiers 1-3: 0.0%, 40.77%, 59.23%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The Pharisaical perspective on the Sabbath is on display in the story, as they question the disciples' actions. The Sabbath was intended for true worship, and any observance of it should align with the purpose of honoring God. The traditions of the elders deemed the disciples' behavior as unlawful, revealing the extreme nature of superstition. The self-righteous attitudes of hypocrites, fueled by their ambition and hatred, further exacerbate their harsh judgment. The actions of the disciples challenge the rigid interpretation of the Sabbath held by the Pharisees and invite a reconsideration of its true meaning.
-- 🔄 Mark 2:24 (attempt 3, 96 words, 30.65% quotes quality score: 1.1816105541972473, V2 normalized quality score: 30.63, commentator tiers 1-3: 0.0%, 38.21%, 61.79%) 
+- Attempt 1 BHT: The Pharisees accused Jesus' disciples of doing something unlawful on the Sabbath when they were plucking and eating grains. The Sabbath was meant for true spiritual worship and refraining from worldly activities, but the Pharisees misinterpreted the Law and focused on external rules rather than the heart behind them. This incident highlights the malicious and unyielding nature of superstition, particularly when fueled by pride and hatred. The Pharisees' legalistic mindset prevented them from recognizing the true purpose and essence of the Sabbath.
+- 🔄 Mark 2:24 (attempt 1, 82 words, 33.33% quotes quality score: 1.3076136412055765, V2 normalized quality score: 34.82, commentator tiers 1-3: 0.0%, 39.72%, 60.28%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Pharisees' viewpoint on the Sabbath is evident as they question the disciples' actions. The Sabbath was meant for true worship, and any observance should align with God's intended purpose. The traditions of the elders deemed the disciples' behavior as unlawful, displaying the extreme nature of superstition. The self-righteous attitudes of hypocrites, fueled by ambition and hatred, exacerbate their harsh judgment. The disciples' actions challenge the Pharisees' rigid interpretation, inviting a reconsideration of the true meaning of the Sabbath.
-- 🔄 Mark 2:24 (attempt 4, 81 words, 26.79% quotes quality score: 1.2010578727974384, V2 normalized quality score: 31.28, commentator tiers 1-3: 0.0%, 38.04%, 61.96%) 
+- Attempt 2 BHT: The Pharisees confronted Jesus regarding the actions of his disciples on the Sabbath, questioning the lawfulness of their actions. The Sabbath's purpose was to engage in true spiritual worship and abstain from worldly activities. However, the Pharisees' misunderstanding of the Law led them to prioritize external regulations over understanding the intention of the Lawgiver. This incident reveals the harmful nature of blind adherence to tradition and the Pharisees' prideful and uncompassionate disposition towards Jesus and his followers.
+- 🔄 Mark 2:24 (attempt 2, 78 words, 30.19% quotes quality score: 1.1791549376478014, V2 normalized quality score: 30.55, commentator tiers 1-3: 0.0%, 37.35%, 62.65%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The Pharisees accused Jesus' disciples of doing something unlawful on the Sabbath, suggesting that the disciples' actions of plucking and eating grains were not permitted by the Law. However, the Pharisees' interpretation of the Sabbath rules demonstrated a malicious and inflexible adherence to tradition, while disregarding the true essence and purpose of the Sabbath. They failed to grasp that the Sabbath was designed for sanctification, true spiritual worship, and freedom from worldly distractions. Their legalistic mindset clouded their understanding and prevented them from appreciating the heart behind the Sabbath commandment.
+- 🔄 Mark 2:24 (attempt 3, 90 words, 33.87% quotes quality score: 1.4831294089292872, V2 normalized quality score: 40.66, commentator tiers 1-3: 0.0%, 40.12%, 59.88%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Pharisees' question about the disciples' actions reveals their strict view of the Sabbath. The purpose of the Sabbath was for true and spiritual worship. The disciples' actions were deemed unlawful according to the traditions of the elders, emphasizing the extreme nature of superstition. The prideful and cruel disposition of hypocrites is exemplified when ambition is combined with hatred. By challenging the Pharisees' interpretation, the disciples' actions prompt a reflection on the true meaning and observance of the Sabbath.
-- 🔄 Mark 2:24 (attempt 5, 79 words, 30.0% quotes quality score: 1.1681339063381044, V2 normalized quality score: 30.18, commentator tiers 1-3: 0.0%, 37.5%, 62.5%) 
+- Attempt 4 BHT: The Pharisees accused Jesus' disciples of violating Sabbath regulations by plucking and eating grains. However, their understanding of the Sabbath was misguided and legalistic, focused on external observance rather than the true purpose of the Sabbath. They failed to recognize that the Sabbath was intended for spiritual worship and freedom from worldly tasks. Their rigid adherence to traditions hindered them from grasping the heart of the Law and displayed their malicious and unyielding nature in their treatment of Jesus and his disciples.
+- 🔄 Mark 2:24 (attempt 4, 82 words, 32.14% quotes quality score: 1.307350513134561, V2 normalized quality score: 34.81, commentator tiers 1-3: 0.0%, 38.4%, 61.6%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 2:24 bht prompt v0.8 (81 words, 26.79% quotes)
-- quality score: 1.2010578727974384, V2 normalized quality score: 31.28, commentator tiers 1-3: 0.0%, 38.04%, 61.96%)
+- Attempt 5 BHT: The Pharisees criticized Jesus' disciples for plucking and eating grains on the Sabbath, claiming it was unlawful. However, their accusation revealed a narrow-minded and legalistic approach to the Sabbath. They failed to comprehend its purpose, which was to foster true spiritual worship and provide a break from worldly concerns. The Pharisees' rigid adherence to outdated traditions blinded them to the heart of God's law, demonstrating their malicious and unyielding disposition towards Jesus and his followers.
+- 🔄 Mark 2:24 (attempt 5, 77 words, 30.51% quotes quality score: 1.2279535005565174, V2 normalized quality score: 32.17, commentator tiers 1-3: 0.0%, 38.61%, 61.39%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 2:24 bht prompt v0.8 (90 words, 33.87% quotes)
+- quality score: 1.4831294089292872, V2 normalized quality score: 40.66, commentator tiers 1-3: 0.0%, 40.12%, 59.88%)

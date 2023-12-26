@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-22-2023 23:20:40",
+    "timestamp": "12-25-2023 19:18:54",
     "verseRef": "Mark 2:24",
     "bestBHT": {
-        "bht": "The Pharisees' viewpoint on the Sabbath is evident as they question the disciples' actions. The Sabbath was meant for true worship, and any observance should align with God's intended purpose. The traditions of the elders deemed the disciples' behavior as unlawful, displaying the extreme nature of superstition. The self-righteous attitudes of hypocrites, fueled by ambition and hatred, exacerbate their harsh judgment. The disciples' actions challenge the Pharisees' rigid interpretation, inviting a reconsideration of the true meaning of the Sabbath.",
-        "wordCount": 81,
-        "quoteTokenProportion": 26.79,
-        "qualityScore": 1.2010578727974384,
-        "qualityScoreNormalizedComparedToV2BHTs": 31.28,
+        "bht": "The Pharisees accused Jesus' disciples of doing something unlawful on the Sabbath, suggesting that the disciples' actions of plucking and eating grains were not permitted by the Law. However, the Pharisees' interpretation of the Sabbath rules demonstrated a malicious and inflexible adherence to tradition, while disregarding the true essence and purpose of the Sabbath. They failed to grasp that the Sabbath was designed for sanctification, true spiritual worship, and freedom from worldly distractions. Their legalistic mindset clouded their understanding and prevented them from appreciating the heart behind the Sabbath commandment.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.4831294089292872,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.66,
         "commentatorTierSimilarities": [
             0.0,
-            38.04,
-            61.96
+            40.12,
+            59.88
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "John Calvin": [
-            "The only reason for keeping the Sabbath was, that the people, by sanctifying themselves to God, might be employed in true and spiritual worship.",
+            "Now the only reason for keeping the Sabbath was, that the people, by sanctifying themselves to God, might be employed in true and spiritual worship; and next, that, being free from all worldly occupations, they might be more at liberty to attend the holy assemblies.",
             "The lawful observation of it, therefore, must have a reference to this object; for the Law ought to be interpreted according to the design of the Legislator.",
-            "This shows clearly the malicious and implacable nature of superstition, and particularly the proud and cruel dispositions of hypocrites, when ambition is joined to hatred of the person."
+            "But this shows clearly the malicious and implacable nature of superstition, and particularly the proud and cruel dispositions of hypocrites, when ambition is joined to hatred of the person."
         ],
         "Philip Schaff": [
             "Mark 2:24. See on Matthew 12:21, for the Pharisaical views of the Sabbath.",
             "\t"
         ],
         "John Gill": [
-            "Behold, why do they on the sabbath day, that which is not lawful?",
-            "See how they pluck the ears of corn and rub them, and eat things, which by the law, especially by the traditions of the elders, were not lawful to be done on the sabbath day.",
-            "Luke 6:2."
+            "And the Pharisees said unto him.\" ",
+            "Behold, why do they on the sabbath day, that which is not lawful?\" ",
+            "See how they pluck the ears of corn and rub them, and eat things, which by the law, especially by the traditions of the elders, were not lawful to be done on the sabbath day."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The Pharisaical views of the Sabbath are highlighted in this verse, as they question the disciples' actions of plucking ears of corn on the Sabbath. The commentary emphasizes that the purpose of keeping the Sabbath was for true and spiritual worship, and thus the Law should be understood in light of the Legislator's intentions. It also highlights the malicious nature of superstition and the prideful and cruel disposition of hypocrites when combined with hatred. The actions of the disciples are seen as a violation of the traditions of the elders regarding the Sabbath.",
-            "wordCount": 94,
-            "quoteTokenProportion": 35.59,
-            "qualityScore": 1.3121427760265187,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.97,
+            "bht": "The Pharisees accused Jesus' disciples of doing something unlawful on the Sabbath when they were plucking and eating grains. The Sabbath was meant for true spiritual worship and refraining from worldly activities, but the Pharisees misinterpreted the Law and focused on external rules rather than the heart behind them. This incident highlights the malicious and unyielding nature of superstition, particularly when fueled by pride and hatred. The Pharisees' legalistic mindset prevented them from recognizing the true purpose and essence of the Sabbath.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3076136412055765,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.82,
             "commentatorTierSimilarities": [
                 0.0,
-                38.95,
-                61.05
+                39.72,
+                60.28
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Pharisaical views of the Sabbath are evident in the passage, as they question the disciples' plucking of corn on the Sabbath. The Sabbath's purpose was meant for true and spiritual worship, so the disciples' actions are seen as a violation of the traditions of the elders. The commentary also highlights the malicious nature of superstition and the prideful and cruel disposition of hypocrites when combined with hatred. The disciples' actions challenge the Pharisaical interpretation of the Sabbath.",
-            "wordCount": 79,
-            "quoteTokenProportion": 31.25,
-            "qualityScore": 1.268240743602669,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.51,
+            "bht": "The Pharisees confronted Jesus regarding the actions of his disciples on the Sabbath, questioning the lawfulness of their actions. The Sabbath's purpose was to engage in true spiritual worship and abstain from worldly activities. However, the Pharisees' misunderstanding of the Law led them to prioritize external regulations over understanding the intention of the Lawgiver. This incident reveals the harmful nature of blind adherence to tradition and the Pharisees' prideful and uncompassionate disposition towards Jesus and his followers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.1791549376478014,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.55,
             "commentatorTierSimilarities": [
                 0.0,
-                40.77,
-                59.23
+                37.35,
+                62.65
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The Pharisaical perspective on the Sabbath is on display in the story, as they question the disciples' actions. The Sabbath was intended for true worship, and any observance of it should align with the purpose of honoring God. The traditions of the elders deemed the disciples' behavior as unlawful, revealing the extreme nature of superstition. The self-righteous attitudes of hypocrites, fueled by their ambition and hatred, further exacerbate their harsh judgment. The actions of the disciples challenge the rigid interpretation of the Sabbath held by the Pharisees and invite a reconsideration of its true meaning.",
-            "wordCount": 96,
-            "quoteTokenProportion": 30.65,
-            "qualityScore": 1.1816105541972473,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.63,
+            "bht": "The Pharisees accused Jesus' disciples of doing something unlawful on the Sabbath, suggesting that the disciples' actions of plucking and eating grains were not permitted by the Law. However, the Pharisees' interpretation of the Sabbath rules demonstrated a malicious and inflexible adherence to tradition, while disregarding the true essence and purpose of the Sabbath. They failed to grasp that the Sabbath was designed for sanctification, true spiritual worship, and freedom from worldly distractions. Their legalistic mindset clouded their understanding and prevented them from appreciating the heart behind the Sabbath commandment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.4831294089292872,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.66,
             "commentatorTierSimilarities": [
                 0.0,
-                38.21,
-                61.79
+                40.12,
+                59.88
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The Pharisees' viewpoint on the Sabbath is evident as they question the disciples' actions. The Sabbath was meant for true worship, and any observance should align with God's intended purpose. The traditions of the elders deemed the disciples' behavior as unlawful, displaying the extreme nature of superstition. The self-righteous attitudes of hypocrites, fueled by ambition and hatred, exacerbate their harsh judgment. The disciples' actions challenge the Pharisees' rigid interpretation, inviting a reconsideration of the true meaning of the Sabbath.",
-            "wordCount": 81,
-            "quoteTokenProportion": 26.79,
-            "qualityScore": 1.2010578727974384,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.28,
+            "bht": "The Pharisees accused Jesus' disciples of violating Sabbath regulations by plucking and eating grains. However, their understanding of the Sabbath was misguided and legalistic, focused on external observance rather than the true purpose of the Sabbath. They failed to recognize that the Sabbath was intended for spiritual worship and freedom from worldly tasks. Their rigid adherence to traditions hindered them from grasping the heart of the Law and displayed their malicious and unyielding nature in their treatment of Jesus and his disciples.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.307350513134561,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.81,
             "commentatorTierSimilarities": [
                 0.0,
-                38.04,
-                61.96
+                38.4,
+                61.6
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Pharisees' question about the disciples' actions reveals their strict view of the Sabbath. The purpose of the Sabbath was for true and spiritual worship. The disciples' actions were deemed unlawful according to the traditions of the elders, emphasizing the extreme nature of superstition. The prideful and cruel disposition of hypocrites is exemplified when ambition is combined with hatred. By challenging the Pharisees' interpretation, the disciples' actions prompt a reflection on the true meaning and observance of the Sabbath.",
-            "wordCount": 79,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 1.1681339063381044,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.18,
+            "bht": "The Pharisees criticized Jesus' disciples for plucking and eating grains on the Sabbath, claiming it was unlawful. However, their accusation revealed a narrow-minded and legalistic approach to the Sabbath. They failed to comprehend its purpose, which was to foster true spiritual worship and provide a break from worldly concerns. The Pharisees' rigid adherence to outdated traditions blinded them to the heart of God's law, demonstrating their malicious and unyielding disposition towards Jesus and his followers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.2279535005565174,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.17,
             "commentatorTierSimilarities": [
                 0.0,
-                37.5,
-                62.5
+                38.61,
+                61.39
             ],
             "generationAttempt": 5
         }

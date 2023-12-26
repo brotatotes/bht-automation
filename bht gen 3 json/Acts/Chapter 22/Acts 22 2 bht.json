@@ -1,23 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:34:59",
+    "timestamp": "12-25-2023 19:32:10",
     "verseRef": "Acts 22:2",
     "bestBHT": {
-        "bht": "As Paul stood before the crowd, he made a striking choice to address them in the Hebrew tongue. This calculated decision silenced the crowd, as the sound of their holy mother tongue held a powerful sway over them. By speaking in this language, Paul aimed to capture their attention and respect, knowing that they would be more receptive to his message. The sudden hush that swept over the vast mob, under the spell of the Aramaic, created a sense of anticipation and opened their hearts to what Paul was about to say.",
-        "wordCount": 92,
-        "quoteTokenProportion": 40.62,
-        "qualityScore": 1.849062527163685,
-        "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+        "bht": "When Paul addressed the crowd in their holy mother tongue, the Hebrew language, the sound of their language awed them into deeper silence. They would have understood Paul's Greek, but they much preferred hearing their own language, and Paul's choice to speak in their own language engaged their attention all the more. It is indeed an unusual thing that when men of diverse languages are together, we hear those who speak our own language more willingly.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1813023486344956,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.87,
         "commentatorTierSimilarities": [
-            29.46,
-            33.16,
-            37.38
+            29.19,
+            27.22,
+            43.58
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "They could have understood him in Greek, and doubtless fully expected the renegade to address them in that language.",
-            "The sound of their holy mother tongue awed them into deeper silence."
+            "They could have understood him in Greek, and doubtless fully expected the renegade to address them in that language, but the sound of their holy mother tongue awed them into deeper silence.",
+            "The sound of their holy mother tongue awed them into deeper silence.",
+            "The sound of their holy mother tongue."
         ],
         "Albert Barnes": [
             "The Hebrew tongue - See the notes on Acts 21:40."
@@ -26,24 +27,24 @@
             "Kept - silence [\u03c0\u03b1\u03c1\u03b5\u03c3\u03c7\u03bf\u03bd \u03b7\u03c3\u03c5\u03c7\u03b9\u03b1\u03bd] . Lit., gave quiet."
         ],
         "John Calvin": [
-            "This is indeed an unusual thing, that when men which speak diverse languages are together, we hear those more willingly who speak our own language.",
-            "The Jews were moved with another peculiar cause, because they imagined that Paul was offended with his own kindred, so that he did even hate their tongue.",
-            "Now, so soon as they heard their own language, they began to have some better hope."
+            "It is indeed an unusual thing, that when men which speak diverse languages are together, we hear those more willingly who speak our own language.",
+            "They [the Jews] imagined that Paul was offended with his own kindred, so that he did even hate their tongue, or that he was some rogue which had not so much as learned the speech of that nation whereof he said he came.",
+            "Furthermore, it is uncertain whether Paul spake in the Hebrew or in the Syrian tongue; for we know that the speech of the Jews was corrupt and degenerate after their exile, forasmuch as they had much from the Chaldeans and Syrians."
         ],
         "Philip Schaff": [
-            "He addresses his hearers in the loved sacred language. They would be more likely, he knew, to listen to him whom they fancied was a blasphemer of the law of Moses and the temple, if they heard his account of himself in no hated Gentile language, but in the well-known cherished tongue of the people of God.\" ",
-            "The Hebrew tongue was chosen because he knew they would listen to it, and the event shows he had judged them rightly. 'When they heard the first words spoken in their fathers' tongue,' we read, 'they kept the more silence.'",
-            "The speech of Paul on the steps of the Antonia tower, as reported by the writer of the 'Acts,' contains three divisions."
+            "And when they heard that he spake in the Hebrew tongue to them, they kept the more silence.",
+            "The Hebrew tongue was chosen because he knew they would listen to it, and the event shows he had judged them rightly.",
+            "\u2018When they heard the first words spoken in their fathers\u2019 tongue,\u2019 we read, \u2018they kept the more silence.\u2019"
         ],
         "Archibald T. Robertson": [
             "He spake (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c6\u03c9\u03bd\u03b5). Imperfect active, was speaking.",
-            "They were the more quiet (\u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03c0\u03b1\u03c1\u03b5\u03c3\u03c7\u03bf\u03bd \u03b7\u03c3\u03c5\u03c7\u03b9\u03b1\u03bd).",
-            "It is a vivid picture of the sudden hush that swept over the vast mob under the spell of the Aramaic."
+            "They were the more quiet (\u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03c0\u03b1\u03c1\u03b5\u03c3\u03c7\u03bf\u03bd \u03b7\u03c3\u03c5\u03c7\u03b9\u03b1\u03bd). Literally, The more (\u03bc\u03b1\u03bb\u03bb\u03bf\u03bd) they furnished or supplied (second aorist active indicative of \u03c0\u03b1\u03c1\u03b5\u03c7\u03c9) quietness (\u03b7\u03c3\u03c5\u03c7\u03b9\u03b1\u03bd).",
+            "It is a vivid picture of the sudden hush that swept over the vast mob under the spell of the Aramaic. They would have understood Paul's Koine Greek, but they much preferred the Aramaic. It was a masterstroke."
         ],
         "John Gill": [
-            "It being their mother tongue, and which they best understood.",
-            "When they heard him speak in the Hebrew tongue, it conciliated their minds more to him.",
-            "Engaged their attention the more to what he was about to say."
+            "They kept the more silence; it being their mother tongue, and which they best understood...",
+            "...chiefly because the Hellenistic language was not so agreeable to them, nor the Hellenistic Jews...",
+            "...when they heard him speak in the Hebrew tongue, it conciliated their minds more to him, at least engaged their attention the more to what he was about to say."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -63,67 +64,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When Paul stood before the crowd, he chose to address them in the Hebrew tongue, their holy mother tongue, which both awed them into silence and engaged their attention. By speaking in the language they cherished, Paul hoped to gain a more receptive audience, knowing that they would be more inclined to listen to him if he spoke in a language they respected. This decision proved to be effective, as the sudden hush that swept over the crowd demonstrated their deep respect for the Aramaic language. When people hear their own language being spoken, they tend to listen more willingly, and in this case, the familiar words stirred a glimmer of hope in them.",
-            "wordCount": 114,
-            "quoteTokenProportion": 37.84,
-            "qualityScore": 1.9217537911588989,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "bht": "When Paul addressed the crowd in their holy mother tongue, the Hebrew language, they were awed into deeper silence. The sudden hush that swept over the vast mob under the spell of the Aramaic was a masterstroke. Though they could have understood him in Greek, they much preferred the Aramaic, and Paul's choice to speak in their own language engaged their attention all the more. It is indeed an unusual thing that when men of diverse languages are together, we hear those who speak our own language more willingly.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.1181647361561646,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.77,
             "commentatorTierSimilarities": [
-                29.32,
-                29.99,
-                40.69
+                31.47,
+                27.75,
+                40.78
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Addressing the crowd, Paul intentionally chose to speak in the Hebrew tongue, their beloved language, which silenced them and commanded their attention. By using the language of their forefathers, he hoped to win their favor and show his respect for their traditions. This astute decision allowed him to capture their interest and foster a sense of hope among the listeners. Speaking in one's native tongue has a profound impact, drawing people closer and opening their hearts to receive the message being conveyed.",
-            "wordCount": 83,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 1.6430747641038523,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "bht": "When Paul addressed the crowd in their holy mother tongue, the Hebrew language, the sound of their language awed them into deeper silence. They would have understood Paul's Greek, but they much preferred hearing their own language, and Paul's choice to speak in their own language engaged their attention all the more. It is indeed an unusual thing that when men of diverse languages are together, we hear those who speak our own language more willingly.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1813023486344956,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
             "commentatorTierSimilarities": [
-                24.05,
-                33.98,
-                41.97
+                29.19,
+                27.22,
+                43.58
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul's choice to speak in the Hebrew tongue immediately captivated the crowd, causing them to fall into a deep silence. The familiar sound of their holy mother tongue awed them into submission, creating a reverent atmosphere. By addressing them in this cherished language, Paul aimed to gain their attention and respect, knowing they would be more inclined to listen. Indeed, the impact of hearing their own language sparked a glimmer of hope within the crowd, engaging them and preparing their minds to receive Paul's message.",
+            "bht": "When Paul addressed the crowd in their holy mother tongue, their deep silence showed their awe. They could have understood him in Greek but were much more moved by the sound of the language they best understood. It was a masterstroke for Paul to speak in the Hebrew tongue, ensuring that the listeners would pay closer attention. The use of this language created a sudden hush that swept over the crowd, captivating their minds and engaging their attention in a way that the Hellenistic language could not.",
             "wordCount": 87,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 1.8454625179407276,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.143239300087501,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.6,
             "commentatorTierSimilarities": [
-                27.98,
-                32.51,
-                39.51
+                31.86,
+                29.38,
+                38.77
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "As Paul stood before the crowd, he made a striking choice to address them in the Hebrew tongue. This calculated decision silenced the crowd, as the sound of their holy mother tongue held a powerful sway over them. By speaking in this language, Paul aimed to capture their attention and respect, knowing that they would be more receptive to his message. The sudden hush that swept over the vast mob, under the spell of the Aramaic, created a sense of anticipation and opened their hearts to what Paul was about to say.",
-            "wordCount": 92,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.849062527163685,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "bht": "When Paul addressed the crowd in their holy mother tongue, their deep silence showed their awe. The sound of their holy mother tongue awed them, causing them to be even more quiet. It was a masterstroke for Paul to speak in the Hebrew tongue; the sudden hush that swept over the crowd revealed their preference for this language. By speaking in a language that they best understood, Paul captured their attention and engaged their minds more effectively than if he had spoken in Greek.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.3385381505831484,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.1,
             "commentatorTierSimilarities": [
-                29.46,
-                33.16,
-                37.38
+                33.72,
+                30.3,
+                35.98
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul, aware of the power of their holy mother tongue, chose to address the crowd in the Hebrew language. This decision silenced them and created an atmosphere of reverence and anticipation. By speaking in their deeply cherished language, it was likely that they would be more inclined to listen to his account and possibly find common ground. The impact of hearing their own language stirred a glimmer of hope and engaged their attention, preparing their minds for what Paul had to say.",
-            "wordCount": 82,
-            "quoteTokenProportion": 39.34,
-            "qualityScore": 1.750589439478286,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "bht": "When Paul addressed the crowd in their holy mother tongue, the sound of their language awed them into deeper silence. It was a vivid picture of the sudden hush that swept over the vast mob. Speaking in the Hebrew tongue was a masterstroke, as the listeners clearly preferred it over Greek. By choosing their language, Paul captured their attention and engaged their minds, ensuring that they would listen more willingly and be attentive to what he had to say.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.003384933469678,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.95,
             "commentatorTierSimilarities": [
-                29.49,
-                30.55,
-                39.96
+                33.5,
+                30.33,
+                36.17
             ],
             "generationAttempt": 5
         }

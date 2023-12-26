@@ -1,7 +1,7 @@
 # Acts 17:29 Commentary Help Text
 
 ## BHT:
-Being the offspring of God, we must not think that the Godhead is comparable to gold, silver, or stone engravings crafted by human art. The apostle Paul makes it clear that these lifeless idols cannot match the magnificence and wisdom of the Creator. As he stood amidst the statues of divinities in Athens, he highlighted the profound difference between these sculptures and the true glory of God. We should never reduce the infinite and incomparable nature of our Creator to mere physical representations.
+As offspring of God, we ought not think that He can be likened to statues of gold, silver, or stone, graven by art and man's device. The apostle highlights the absurdity of paganizing worship with images, when the true Godhead surpasses any human likeness. It is far more reasonable to recognize the excellence of humanity, made in God's image, than to attribute divinity to lifeless creations. Our finite minds cannot comprehend the greatness of God; attempting to do so only distorts His true glory.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -20,24 +20,24 @@ Being the offspring of God, we must not think that the Godhead is comparable to 
 3. "Graven [χαραγματι] . Not a participle, as A. V., but a noun, in apposition with gold, silver, and stone : 'a graving or carved work of art,' etc."
 
 ### John Calvin:
-1. "For the soul wherein the image of God is properly engraven cannot be painted; therefore it is a thing more absurd to go about to paint God."
+1. "The soul wherein the image of God is properly engraven cannot be painted; therefore it is a thing more absurd to go about to paint God."
 2. "Now, we see what great injury they do to God which give him a bodily shape; when as man’s soul, which doth scarce resemble a small sparkle of the infinite glory of God, cannot be expressed in any bodily shape."
-3. "Whosoever attempteth with his mind to comprehend him, he deformeth and disfigureth his glory with a wicked and false imagination."
+3. "Seeing that God doth far surpass the capacity of our mind, whosoever attempteth with his mind to comprehend him, he deformeth and disfigureth his glory with a wicked and false imagination."
 
 ### Philip Schaff:
 1. "We ought not to think that the Godhead is like unto gold or silver or stone graven by art." 
-2. "The miserable absurdity of supposing that 'Divinity' could reside in a block of gold or in a log of wood, however skillfully cast or carved, is set forward with great power." 
-3. "Paul specially alludes to those masterpieces of sculpture in ivory, gold, and marble, which were standing near him on the Areopagus, and in the varied temples and shrines of Athens the Religious."
+2. "The miserable absurdity of supposing that ‘Divinity’ could reside in a block of gold or in a log of wood, however skilfully cast or carved, is set forward with great power."
+3. "In the words ‘graven by art and man’s device,’ Paul specially alludes to those masterpieces of sculpture in ivory, gold, and marble, which were standing near him on the Areopagus, and in the varied temples and shrines of Athens the Religious."
 
 ### Archibald T. Robertson:
 1. "We ought not to think (ουκ οφειλομεν νομιζειν). It is a logical conclusion (ουν, therefore) from the very language of Aratus and Cleanthes."
-2. "That the Godhead is like (το θειον εινα ομοιον). Infinitive with accusative of general reference in indirect discourse."
-3. "Graven by art and device of man (χαραγματ τεχνης κα ενθυμησεως ανθρωπου). Apposition with preceding and so χαραγματ in associative instrumental case."
+2. "That the Godhead is like (το θειον εινα ομοιον)."
+3. "Graven by art and device of man (χαραγματ τεχνης κα ενθυμησεως ανθρωπου)."
 
 ### John Gill:
-1. "For men themselves, who are the offspring of God, and made after his image, are not to be compared to graven images of gold, silver, and stone, but are vastly preferable to them..."
-2. "And much less then should God, the Creator of men, and from whom they spring, be likened to, or represented by, any such thing; for so to think of God, is to think very unworthily of him..."
-3. "If living rational creatures are not to be equalled to, and compared with, senseless statues, much less God, the former of men and angels."
+1. "we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device"
+2. "men themselves, who are the offspring of God, and made after his image, are not to be compared to graven images of gold, silver, and stone, but are vastly preferable to them"
+3. "if living rational creatures are not to be equalled to, and compared with, senseless statues, much less God, the former of men and angels."
 
 ### John Wesley:
 1. "Can God himself be a less noble being than we who are his offspring?"
@@ -47,39 +47,39 @@ Being the offspring of God, we must not think that the Godhead is comparable to 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:33:09
+- Timestamp: 12-25-2023 19:33:40
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 35.48%
-- BHT Quality Score: 1.9925558083078063
+- BHT Word Count: 86
+- BHT Commentary Usage: 40.0%
+- BHT Quality Score: 2.0803661743064383
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (62):
-	['amidst', 'and', 'apostle', 'art', 'as', 'athens', 'being', 'between', 'by', 'cannot', 'clear', 'comparable', 'crafted', 'creator', 'difference', 'divinities', 'engravings', 'glory', 'god', 'godhead', 'gold', 'he', 'highlighted', 'human', 'idols', 'in', 'incomparable', 'infinite', 'is', 'it', 'lifeless', 'magnificence', 'makes', 'match', 'mere', 'must', 'nature', 'never', 'not', 'of', 'offspring', 'or', 'our', 'paul', 'physical', 'profound', 'reduce', 'representations', 'sculptures', 'should', 'silver', 'statues', 'stone', 'stood', 'that', 'the', 'these', 'think', 'to', 'true', 'we', 'wisdom']
-- ChatGPT injected words (significant words only) (40):
-	['amidst', 'apostle', 'art', 'athens', 'clear', 'comparable', 'crafted', 'creator', 'difference', 'divinities', 'engravings', 'glory', 'god', 'godhead', 'gold', 'highlighted', 'human', 'idols', 'incomparable', 'infinite', 'lifeless', 'magnificence', 'makes', 'match', 'mere', 'nature', 'offspring', 'paul', 'physical', 'profound', 'reduce', 'representations', 'sculptures', 'silver', 'statues', 'stone', 'stood', 'think', 'true', 'wisdom']
+- ChatGPT injected words (70):
+	['absurdity', 'and', 'any', 'apostle', 'art', 'as', 'attempting', 'attribute', 'be', 'by', 'can', 'cannot', 'comprehend', 'creations', 'device', 'distorts', 'divinity', 'do', 'excellence', 'far', 'finite', 'glory', 'god', 'godhead', 'gold', 'graven', 'greatness', 'he', 'highlights', 'his', 'human', 'humanity', 'image', 'images', 'in', 'is', 'it', 'lifeless', 'likened', 'likeness', 'made', 'man', 'minds', 'more', 'not', 'of', 'offspring', 'only', 'or', 'ought', 'our', 'paganizing', 'reasonable', 'recognize', 's', 'silver', 'so', 'statues', 'stone', 'surpasses', 'than', 'that', 'the', 'think', 'to', 'true', 'we', 'when', 'with', 'worship']
+- ChatGPT injected words (significant words only) (42):
+	['absurdity', 'apostle', 'art', 'attempting', 'attribute', 'comprehend', 'creations', 'device', 'distorts', 'divinity', 'excellence', 'far', 'finite', 'glory', 'god', 'godhead', 'gold', 'graven', 'greatness', 'highlights', 'human', 'humanity', 'image', 'images', 'lifeless', 'likened', 'likeness', 'man', 'minds', 'offspring', 'ought', 'paganizing', 'reasonable', 'recognize', 's', 'silver', 'statues', 'stone', 'surpasses', 'think', 'true', 'worship']
 
 ### Logs
-- Attempt 1 BHT: As the offspring of God, it is absurd for us to think that the Godhead can be likened to objects made by human hands, such as gold, silver, or stone engravings. These lifeless idols are far inferior to the greatness and wisdom of the Creator. The apostle Paul points out the folly of such thinking, especially as he stood in the midst of a city surrounded by statues of divinities. The beauty and artistry of these sculptures could not compare to the true glory and majesty of God. To ascribe a bodily form or image to our Creator is to diminish and distort his infinite glory. We, who are made in the image of God, should not compare ourselves to graven images, and therefore it is even more unthinkable to compare God Himself to such things. Let us remember the incomparable nature of our Creator and worship Him in spirit and truth.
-- 🔄 Acts 17:29 (attempt 1, 152 words, 38.04% quotes quality score: 1.8870159843296936, V2 normalized quality score: 54.08, commentator tiers 1-3: 25.67%, 36.52%, 37.81%) 
+- Attempt 1 BHT: As offspring of God, it is senseless and inexcusable to think that He can be compared to lifeless statues made of gold, silver, or stone, crafted by human hands. The apostle's use of courteous language cannot be overlooked as he points to the majestic sculptures surrounding him. The absurdity lies in the idea that the source of all life and intelligence can resemble mere objects, even the most exquisite ones. It is far more reasonable to recognize the excellence of humanity, made in God's image, than to attribute divinity to inanimate creations. Our finite minds cannot comprehend the greatness of God, and attempting to do so only distorts His true glory.
+- 🔄 Acts 17:29 (attempt 1, 113 words, 33.75% quotes quality score: 1.9475403942064151, V2 normalized quality score: 56.1, commentator tiers 1-3: 26.35%, 35.83%, 37.83%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: As the offspring of God, it is absurd for us to think that the Godhead can be likened to objects made by human hands. The apostle Paul refutes this notion, emphasizing that the beautiful statues of divinities surrounding him in Athens fall short in comparison to the majesty of God. To attribute a bodily form or image to our Creator diminishes His infinite glory. Let us not compare ourselves or God to these graven images, but worship Him in spirit and truth.
-- 🔄 Acts 17:29 (attempt 2, 82 words, 39.68% quotes quality score: 1.9019592458780117, V2 normalized quality score: 54.58, commentator tiers 1-3: 26.75%, 31.81%, 41.44%) 
+- Attempt 2 BHT: As offspring of God, we ought not think that He can be likened to statues of gold, silver, or stone, graven by art and man's device. The apostle highlights the absurdity of paganizing worship with images, when the true Godhead surpasses any human likeness. It is far more reasonable to recognize the excellence of humanity, made in God's image, than to attribute divinity to lifeless creations. Our finite minds cannot comprehend the greatness of God; attempting to do so only distorts His true glory.
+- 🔄 Acts 17:29 (attempt 2, 86 words, 40.0% quotes quality score: 2.0803661743064383, V2 normalized quality score: 60.51, commentator tiers 1-3: 27.11%, 33.37%, 39.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Being the offspring of God, we must not think that the Godhead is comparable to gold, silver, or stone engravings crafted by human art. The apostle Paul makes it clear that these lifeless idols cannot match the magnificence and wisdom of the Creator. As he stood amidst the statues of divinities in Athens, he highlighted the profound difference between these sculptures and the true glory of God. We should never reduce the infinite and incomparable nature of our Creator to mere physical representations.
-- 🔄 Acts 17:29 (attempt 3, 83 words, 35.48% quotes quality score: 1.9925558083078063, V2 normalized quality score: 57.59, commentator tiers 1-3: 27.09%, 39.25%, 33.65%) 
+- Attempt 3 BHT: As offspring of God, we should not view Him as comparable to sculptures made of gold, silver, or stone, the products of human artistry. The apostle's courteous language is noteworthy as he speaks in the midst of magnificent works of art. The folly lies in equating the source of intelligence and life with lifeless objects. It is more reasonable to recognize that humanity, created in the image of God, surpasses in excellence these crafted idols. Our limited minds cannot fully comprehend God's greatness, and any attempt to do so distorts His true glory.
+- 🔄 Acts 17:29 (attempt 3, 95 words, 34.72% quotes quality score: 1.845751726110147, V2 normalized quality score: 52.71, commentator tiers 1-3: 26.9%, 37.49%, 35.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As the offspring of God, it is absurd to think that the Godhead can be compared to objects crafted by human hands. The apostle Paul emphasizes the disparity between these lifeless idols, such as gold, silver, and stone engravings, and the majesty of the Creator. Surrounded by statues of divinities in Athens, he makes it clear that these sculptures pale in comparison to the true glory of God. It is both illogical and disrespectful to attribute a bodily form or image to our Creator. Let us honor and worship Him in a manner befitting His infinite greatness.
-- 🔄 Acts 17:29 (attempt 4, 97 words, 33.33% quotes quality score: 1.8601960599317227, V2 normalized quality score: 53.19, commentator tiers 1-3: 27.43%, 37.47%, 35.1%) 
+- Attempt 4 BHT: As offspring of God, it is absurd to think that He can be compared to sculptures made of gold, silver, or stone, skillfully crafted by human hands. The apostle's use of courteous language is worth noting, as he stands amidst the exquisite artworks displayed around him. It is unreasonable to suggest that the source of life and intelligence resembles lifeless idols. Instead, we should acknowledge the superior significance of humanity, made in God's image. Our limited understanding cannot fully grasp the greatness of God, and any attempt to do so only distorts His true glory.
+- 🔄 Acts 17:29 (attempt 4, 97 words, 35.14% quotes quality score: 1.808935778319963, V2 normalized quality score: 51.49, commentator tiers 1-3: 25.78%, 37.44%, 36.77%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As the offspring of God, we ought not to think that the Godhead can be compared to idolatrous images made of gold, silver, or stone. These lifeless objects, which Paul mentions in the context of the statues in Athens, are inferior to the Creator and do not resemble His glory in any way. To depict God in physical form is to distort His true nature. Let us not diminish the greatness of our Creator by equating Him with the works of human hands.
-- 🔄 Acts 17:29 (attempt 5, 83 words, 40.98% quotes quality score: 1.9413961928394203, V2 normalized quality score: 55.89, commentator tiers 1-3: 24.98%, 34.24%, 40.77%) 
+- Attempt 5 BHT: As offspring of God, it is senseless to compare Him to statues of gold, silver, or stone. The apostle highlights the absurdity of pagan worship, where religious art falsely represents the divine. Our finite minds cannot comprehend the greatness of God, and attempting to do so distorts His true glory. It is far more reasonable to recognize the excellence of humanity, made in God's image. In comparison to lifeless idols, we are vastly preferable, reflecting the true likeness of our Creator.
+- 🔄 Acts 17:29 (attempt 5, 82 words, 32.79% quotes quality score: 1.8813701686041797, V2 normalized quality score: 53.9, commentator tiers 1-3: 25.43%, 34.93%, 39.64%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 17:29 bht prompt v0.8 (83 words, 35.48% quotes)
-- quality score: 1.9925558083078063, V2 normalized quality score: 57.59, commentator tiers 1-3: 27.09%, 39.25%, 33.65%)
+- ✅ Acts 17:29 bht prompt v0.8 (86 words, 40.0% quotes)
+- quality score: 2.0803661743064383, V2 normalized quality score: 60.51, commentator tiers 1-3: 27.11%, 33.37%, 39.52%)

@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:20:35",
+    "timestamp": "12-25-2023 19:29:46",
     "verseRef": "Mark 2:10",
     "bestBHT": {
-        "bht": "This reveals the Son of Man's authority on earth to forgive sins. He demonstrated this power by healing the paralyzed man and proclaiming the forgiveness of his sins. Jesus' authority is not limited to a future judgment day; He possesses the right and power to forgive sins in the present. This evidences His legitimacy as the Messiah, and His ability to forgive sins extends even in His exalted position in heaven.",
-        "wordCount": 72,
-        "quoteTokenProportion": 33.33,
-        "qualityScore": 1.9301387852655032,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+        "bht": "Witness the Son of man's authority and power to forgive sins on earth. Jesus reveals this forgiving power in the presence of his followers, assuring them that he possesses the right and ability to forgive sins in the here and now. By focusing on the forgiveness of sins, Jesus demonstrates his authority to forgive without delay, reaching beyond the realm of what is physically seen. He establishes his dominion to forgive sins in the present, rather than waiting for the day of judgment.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 2.125183260348938,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.0,
         "commentatorTierSimilarities": [
-            39.1,
+            48.43,
             0.0,
-            60.9
+            51.57
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "But that ye may know that the Son of man hath power on earth to forgive sins\u2014that forgiving power dwells in the Person of this Man.\" ",
-            "and is exercised by Him while on this earth and going out and in with you.\" ",
-            "he saith to the sick of the palsy."
+            "The forgiving power is exercised by Him while on this earth and going out and in with you.\" ",
+            "(he saith to the sick of the palsy)."
         ],
         "Marvin Vincent": [
             "Power [\u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd] ; or better, authority, as Rev., in margin.",
@@ -26,14 +26,14 @@
             "Authority or right is the dominant meaning in the New Testament."
         ],
         "Archibald T. Robertson": [
-            "He now performs the miracle of healing which all could see, that all could know that he really had the authority and power to forgive sins.\" ",
-            "He has the right and power here on earth to forgive sins, here and now without waiting for the day of judgment.\" ",
-            "This remarkable parenthesis in the middle of the sentence occurs also in Matthew 9:6 and Luke 5:24, proof that both Matthew and Luke followed Mark's narrative."
+            "Jesus chose the harder first, the forgiveness which they could not see.",
+            "He really had the authority and power to forgive sins.",
+            "He has the right and power here on earth to forgive sins, here and now without waiting for the day of judgment."
         ],
         "John Gill": [
-            "But that ye may know that the son of man,.... Meaning himself, who was really man, and the true Messiah, in which sense this phrase had been used in the writings of the Old Testament...",
-            "Though he was upon earth, in a very low estate, in a state of humiliation, yet he had the same power to forgive sin as in heaven; his humbling himself in human nature did not strip him of his perfections, power, and prerogative as God...",
-            "And if he had power on earth to forgive sin, there can be no room to doubt of it now he is in heaven; since as mediator, he is 'exalted to be a prince, and a Saviour, to give repentance to Israel, and remission of sins'."
+            "His humbling himself in human nature did not strip him of his perfections, power, and prerogative as God.\" ",
+            "If he had power on earth to forgive sin, there can be no room to doubt of it now he is in heaven.",
+            "Turning to, and addressing him in the following words, with great majesty, authority, and power."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This verse reveals that the Son of Man has the authority and power to forgive sins on earth. It is through Him that forgiveness is granted, as seen when He healed the paralyzed man and proclaimed the forgiveness of his sins. This authority and power to forgive sins is not confined to a future judgment day, but is accessible and exercised by Him here and now. Despite His humble state on earth, Jesus did not lose His divine power and prerogative to forgive sins. His ability to forgive sins on earth is an undeniable proof of His authority and legitimacy as the Messiah. This authority is not limited to His earthly ministry, as in His exalted position in heaven, He continues to have the power to forgive sins.",
-            "wordCount": 128,
-            "quoteTokenProportion": 39.39,
-            "qualityScore": 1.9662504748677434,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "bht": "Know that the Son of man has the authority and power to forgive sins here and now on earth, which is demonstrated by the forgiving power that resides in Him. This forgiving authority is exercised by Him while He walks on this earth among His followers. Jesus intentionally chose to showcase the more challenging task first - forgiving sins which could not be physically seen. Not only does He possess the right and power to forgive sins, but He exercises this authority in the present moment, without waiting for the day of judgment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.0474422772808163,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
             "commentatorTierSimilarities": [
-                37.74,
+                48.02,
                 0.0,
-                62.26
+                51.98
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "This passage affirms that the Son of Man possesses the authority and power to forgive sins on earth. His ability to heal the paralyzed man and declare his sins forgiven displays this authority in action. Jesus' earthly state does not diminish His divine power to forgive sins, which is not limited to a future judgment day but is accessible and exercised in the present. This serves as undeniable evidence of His legitimacy as the Messiah, and His power to forgive sins extends even to His exalted position in heaven.",
+            "bht": "That you may know that the Son of man has the authority and power on earth to forgive sins, Jesus showcases his ability to forgive sins during his time on earth. This forgiving power is not just a future promise, but a present reality. He deliberately chooses to address the forgiveness of sins first, demonstrating that he possesses the right and ability to forgive sins without delay. Through this act, Jesus establishes his authority and power to forgive sins here and now, without waiting for the day of judgment.",
             "wordCount": 89,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 1.9105025785194787,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0109854981436466,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
             "commentatorTierSimilarities": [
-                38.49,
+                48.92,
                 0.0,
-                61.51
+                51.08
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "This reveals the Son of Man's authority on earth to forgive sins. He demonstrated this power by healing the paralyzed man and proclaiming the forgiveness of his sins. Jesus' authority is not limited to a future judgment day; He possesses the right and power to forgive sins in the present. This evidences His legitimacy as the Messiah, and His ability to forgive sins extends even in His exalted position in heaven.",
-            "wordCount": 72,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.9301387852655032,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "bht": "That you may see the authority and power of the Son of man to forgive sins on earth, Jesus demonstrates his ability to forgive sins in the present moment. He intentionally addresses the forgiveness of sins first, emphasizing that he truly possesses the right and power to forgive sins, here and now. This forgiveness is not limited to some future event but is accessible in the present moment, without delay. Through this act, Jesus establishes his authority to forgive sins without waiting for the day of judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9379879839613459,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
             "commentatorTierSimilarities": [
-                39.1,
+                50.01,
                 0.0,
-                60.9
+                49.99
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "This passage highlights the Son of Man's authority on earth to forgive sins, demonstrating His divine power through the healing of the paralyzed man and the accompanying declaration of forgiveness. Jesus possesses the right and power to forgive sins in the present, without the need to wait for a future judgment day. This pivotal moment signifies His authenticity as the Messiah and confirms His ongoing ability to forgive sins, even in His exalted state in heaven.",
-            "wordCount": 77,
-            "quoteTokenProportion": 27.45,
-            "qualityScore": 1.8242091755087508,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "bht": "Witness the Son of man's authority and power to forgive sins on earth. Jesus reveals this forgiving power in the presence of his followers, assuring them that he possesses the right and ability to forgive sins in the here and now. By focusing on the forgiveness of sins, Jesus demonstrates his authority to forgive without delay, reaching beyond the realm of what is physically seen. He establishes his dominion to forgive sins in the present, rather than waiting for the day of judgment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.125183260348938,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.0,
             "commentatorTierSimilarities": [
-                35.92,
+                48.43,
                 0.0,
-                64.08
+                51.57
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This verse emphasizes the Son of Man's authority on earth to forgive sins, as evidenced by His healing of the paralyzed man and declaration of forgiveness. Jesus possesses the right and power to forgive sins in the present, without the need to wait for a future judgment day. This crucial moment confirms His authenticity as the Messiah and affirms His ongoing ability to forgive sins, even in His exalted state in heaven.",
-            "wordCount": 73,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.8386206007424821,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "bht": "Jesus wants to show that he has the authority and power to forgive sins here on earth, a power that resides in him as a man. This forgiving power is not just a future promise, but something that is exercised by him in the present, as he moves among his followers. By focusing on forgiveness, Jesus demonstrates his rightful authority to forgive sins without delay, without waiting for the day of judgment. His ability to forgive sins is not diminished by his human nature, but is an intrinsic part of his divine character.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0617852799680803,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
             "commentatorTierSimilarities": [
-                36.04,
+                46.3,
                 0.0,
-                63.96
+                53.7
             ],
             "generationAttempt": 5
         }

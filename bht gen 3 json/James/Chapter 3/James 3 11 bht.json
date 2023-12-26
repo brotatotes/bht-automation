@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 17:35:57",
+    "timestamp": "12-25-2023 19:34:57",
     "verseRef": "James 3:11",
     "bestBHT": {
-        "bht": "The verse compares the dichotomy of a fountain sending forth both sweet and bitter water to the contrast between blessing and cursing coming from the same mouth. Just as it is unnatural for a fountain to produce both kinds of water simultaneously, it is likewise unnatural for a person to speak both words of blessing and words of cursing. This imagery of a fountain serves as a reminder of various instances in Scripture where God transformed bitter waters into sweet, symbolizing the power of grace to change the heart. The readers of the epistle would be familiar with these biblical accounts and understand the significance of this analogy.",
-        "wordCount": 108,
-        "quoteTokenProportion": 34.85,
-        "qualityScore": 1.9807411460235147,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+        "bht": "The imagery of a fountain is used in this verse to emphasize the contrast between the sweet and the bitter. Just as a fountain does not send forth both sweet and bitter water from the same source, grace has the power to transform a mouth that once spoke in bitterness to speak words of sweetness. This illustration, familiar to the readers in Palestine, serves as a reminder that a cursing tongue is contrary to the order established by God and that a double tongue cannot bring forth blessings and cursing.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.064530743762748,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.99,
         "commentatorTierSimilarities": [
-            30.86,
-            32.77,
-            36.37
+            28.81,
+            28.65,
+            42.54
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,13 +21,14 @@
             "The contrast is in the contrary nature of the two."
         ],
         "Jamieson-Fausset-Brown": [
-            "fountain\u2014an image of the heart: as the aperture (so the Greek for 'place' is literally) of the fountain is an image of man's mouth.",
             "Grace can make the same mouth that 'sent forth the bitter' once, send forth the sweet for the time to come.",
-            "as the wood (typical of Christ's cross) changed Marah's bitter water into sweet."
+            "The image here is appropriate to the scene of the Epistle, Palestine, wherein salt and bitter springs are found.",
+            "As the wood (typical of Christ's cross) changed Marah's bitter water into sweet."
         ],
         "Albert Barnes": [
             "Doth a fountain send forth at the same place... such as there is in the earth, or in rocks from which a fountain gushes.",
-            "Fresh water and salt... Such things do not occur in the works of nature, and they should not be found in man."
+            "Fresh water and salt... they should not be found in man.",
+            "Such things do not occur in the works of nature."
         ],
         "Marvin Vincent": [
             "Palestine was the only country where an Eastern could have been familiar with the language of the Psalmist: 'He sendeth the springs into the valleys which run among the mountains.'",
@@ -35,23 +36,23 @@
             "The readers of the epistle would recall the bitter waters of Marah and the unwholesome spring at Jericho."
         ],
         "John Calvin": [
-            "A cursing tongue is something monstrous, contrary to all nature, and subverts the order everywhere established by God.",
-            "God hath so arranged things which are contrary, that inanimate things ought to deter us from a chaotic mixture, sure as is found in a double tongue.",
+            "A cursing tongue is something monstrous, contrary to all nature, and subverts the order everywhere established by God.\" ",
+            "God hath so arranged things which are contrary, that inanimate things ought to deter us from a chaotic mixture, sure as is found in a double tongue.\" ",
             "So neither can salt water produce sweet."
         ],
         "Philip Schaff": [
             "Doth a fountain send forth at the same place: literally, \u2018at the same hole or fissure\u2019 from the same spring.",
-            "Sweet water and bitter: literally, \u2018the sweet and the bitter.\u2019"
+            "Sweet water and bitter: literally, 'the sweet and the bitter.'"
         ],
         "Archibald T. Robertson": [
             "The fountain (\u03b7 \u03c0\u03b7\u03b3\u03b7). Old word for spring (John 4:14).",
-            "Send forth (\u03b2\u03c1\u03c5\u03b5). Present active indicative of \u03b2\u03c1\u03c5\u03c9, old verb, to bubble up, to gush forth, here only in N.T. The use of \u03bc\u03b7\u03c4 shows that a negative answer is expected in this rhetorical question.",
-            "The sweet and the bitter (\u03c4\u03bf \u03b3\u03bb\u03c5\u03ba\u03c5 \u03ba\u03b1 \u03c4\u03bf \u03c0\u03b9\u03ba\u03c1\u03bf\u03bd). Cognate accusatives with \u03b2\u03c1\u03c5\u03b5. Separate articles to distinguish sharply the two things. The neuter singular articular adjective is a common way of presenting a quality."
+            "The use of \u03bc\u03b7\u03c4 shows that a negative answer is expected in this rhetorical question.",
+            "The neuter singular articular adjective is a common way of presenting a quality."
         ],
         "John Gill": [
-            "Or hole; for at divers places, and at different times, as Pliny observes, it may send forth sweet [water] and bitter.",
-            "There is a lake with the Trogloditae, a people in Ethiopia, which becomes thrice a day bitter, and then as often sweet; but then it does not yield sweet water and bitter at the same time.",
-            "This simile is used to show how unnatural it is that blessing and cursing should proceed out of the same mouth."
+            "Doth a fountain send forth at the same place... sweet [water] and bitter?",
+            "It is reported... there is a lake... which becomes thrice a day bitter, and then... sweet.",
+            "This simile is used to show... blessing and cursing... proceed... out of the same mouth."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -71,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse compares the dichotomy of a fountain sending forth both sweet and bitter water to the contrast between blessing and cursing coming from the same mouth. Just as it is unnatural for a fountain to produce both kinds of water simultaneously, it is likewise unnatural for a person to speak both words of blessing and words of cursing. This imagery of a fountain serves as a reminder of various instances in Scripture where God transformed bitter waters into sweet, symbolizing the power of grace to change the heart. The readers of the epistle would be familiar with these biblical accounts and understand the significance of this analogy.",
-            "wordCount": 108,
-            "quoteTokenProportion": 34.85,
-            "qualityScore": 1.9807411460235147,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "bht": "In James 3:11, the contrast between the sweet and the bitter is emphasized by the illustration from nature, highlighting how such conduct is unnatural. Just as a fountain does not send forth both sweet and bitter water from the same source, grace can transform the same mouth that once spoke bitterness into one that brings forth sweetness. The readers of the epistle would especially relate to this image, as they would recall the bitter waters of Marah and the unwholesome spring at Jericho. This vivid imagery serves as a reminder that a cursing tongue is contrary to the order established by God, and just as salt water cannot produce sweetness, a double tongue cannot bring forth blessings and cursing.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0160942386281793,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
             "commentatorTierSimilarities": [
-                30.86,
-                32.77,
-                36.37
+                30.77,
+                29.86,
+                39.37
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In James 3, a comparison is made between the unnaturalness of a fountain producing both sweet and bitter water, and the contradictory nature of blessing and cursing coming from the same mouth. This analogy reminds us of instances in Scripture where God transformed bitter water into sweet, symbolizing the power of grace to change the heart. The readers of the epistle would be familiar with these stories, understanding the significance of the fountain imagery and the call to speak words of blessing rather than cursing.",
-            "wordCount": 84,
-            "quoteTokenProportion": 40.35,
-            "qualityScore": 2.019931966894478,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+            "bht": "The imagery of a fountain is used in this verse to emphasize the contrast between the sweet and the bitter. Just as a fountain does not send forth both sweet and bitter water from the same source, grace has the power to transform a mouth that once spoke in bitterness to speak words of sweetness. This illustration, familiar to the readers in Palestine, serves as a reminder that a cursing tongue is contrary to the order established by God and that a double tongue cannot bring forth blessings and cursing.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.064530743762748,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.99,
             "commentatorTierSimilarities": [
-                31.65,
-                32.05,
-                36.29
+                28.81,
+                28.65,
+                42.54
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The comparison in James 3 between a fountain producing sweet and bitter water and the contradiction of blessing and cursing coming from the same mouth emphasizes the unnaturalness of such behavior. This imagery serves as a reminder of instances in Scripture where bitter waters were transformed into sweet, illustrating the power of grace to bring about change. By recalling these stories, readers are prompted to consider the importance of speaking words of blessing rather than cursing, aligning their hearts with God's transformative work.",
-            "wordCount": 83,
-            "quoteTokenProportion": 35.94,
-            "qualityScore": 1.8048500849181561,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "bht": "The illustration from nature in James reminds us that a fountain cannot send forth both sweet and bitter water from the same source. This serves as a powerful metaphor for the transformation that grace can bring, as it has the ability to change a tongue that once spoke bitterness into one that speaks sweetness. The readers of the epistle would relate to this image, especially recalling the bitter waters of Marah and the unwholesome spring at Jericho. It serves as a reminder that a double tongue is contrary to the order established by God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.8798302326972198,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
             "commentatorTierSimilarities": [
-                33.76,
-                27.75,
-                38.49
+                30.41,
+                29.11,
+                40.48
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The analogy in James 3 highlights the unnaturalness of a fountain producing both sweet and bitter water, reflecting the contradictory nature of blessing and cursing from the same mouth. This comparison draws on the biblical accounts of bitter waters turning sweet through divine intervention, showcasing the transformative power of grace. The readers of the epistle, familiar with these stories, would understand the significance of this imagery, urging them to choose their words wisely and prioritize speaking blessings rather than curses.",
-            "wordCount": 79,
-            "quoteTokenProportion": 31.15,
-            "qualityScore": 1.843586481448307,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "bht": "The use of the fountain illustration in this passage emphasizes the contrasting nature of sweet and bitter words. Just as a fountain does not produce both sweet and bitter water from the same source, grace can transform a mouth that once spoke bitter words into one that speaks words of sweetness. This imagery would have resonated with the readers, reminding them of the bitter waters of Marah and the unwholesome spring at Jericho. It serves as a powerful reminder that a double tongue, expressing both blessing and cursing, goes against the order established by God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.983330113300739,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
             "commentatorTierSimilarities": [
-                33.32,
-                30.07,
-                36.61
+                30.79,
+                28.76,
+                40.45
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The analogy in James 3 illustrates the distinction between producing sweet and bitter water, much like the contrast between blessing and cursing from the same mouth. This image recalls biblical narratives of bitter waters transformed into sweet through divine intervention, serving as a powerful reminder of the transformative nature of grace. Recognizing this, the readers of the epistle are encouraged to carefully consider their words, choosing to speak blessings rather than curses, aligning their hearts with God's redemptive work.",
-            "wordCount": 79,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 1.7539569514519529,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.66,
+            "bht": "The contrast between the sweet and bitter in this verse is showcased through the illustration of a fountain. Just as a fountain does not send forth both sweet and bitter water from the same source, the transformative power of grace enables a mouth that once released bitterness to speak words of sweetness. The imagery of bitter springs in Palestine further strengthens this analogy, reminding readers of the unwholesome spring at Jericho. Such imagery serves as a reminder that a double tongue, offering both blessing and cursing, goes against God's established order.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9872815570301374,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
             "commentatorTierSimilarities": [
-                34.86,
-                25.37,
-                39.77
+                33.58,
+                29.03,
+                37.4
             ],
             "generationAttempt": 5
         }

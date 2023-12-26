@@ -1,23 +1,23 @@
 # Acts 9:15 Commentary Help Text
 
 ## BHT:
-Paul is described as a chosen vessel, emphasizing his role as an instrument selected by God. The metaphor of a vessel suggests that Paul has been specifically chosen to bear God's name and spread the message. He is tasked with proclaiming the name of Jesus among the Gentiles, nations, kings, and children of Israel. The repetition of the command and the promise of success serve to remove any doubts or hesitations. Paul's calling reveals his crucial role in illuminating a world engulfed in darkness through the Gospel.
+Jesus chose Saul (who would later be known as Paul) as a man of His choice, a chosen vessel for His purpose. This concept of being chosen can be found throughout the Bible, illustrating God's sovereign power in election. Saul's selection as a vessel by God was not initially understood, but it was later affirmed to him by the Lord in a vision. Ananias was told to go and do as he was bidden, without questioning, for Saul was indeed a chosen vessel. Paul himself would later acknowledge that he was chosen by God in his writings. The chosen vessel was destined to be an apostle to the Gentiles, communicating the knowledge of Jesus to all nations. This command from the Lord, repeated and accompanied by promises of success, dispelled any doubts and uncertainty. Just as a potter molds clay into vessels of honor or dishonor as it pleases him, so God had chosen Saul to fulfill His great cause. Paul's subsequent life-work and his own words further confirm the significance of his calling and mission as an apostle to the Gentiles.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "a vessel of choice"
-2. "to bear, perhaps in reference to the metaphor in vessel"
-3. "nations"
+1. "a chosen vessel: as we say, 'the man of his choice.'"
+2. "especially Rom. ix. 22, 23, &c., where it is used in illustrating God’s sovereign power in election."
+3. "This would hardly he understood at the time: it was afterwards on a remarkable occasion repeated to Paul by the Lord in a vision."
 
 ### Jamieson-Fausset-Brown:
 1. "Go thy way—Do as thou art bidden, without gainsaying."
-2. "he is a chosen vessel—a word often used by Paul in illustrating God's sovereignty in election"
-3. "Compare 2 Timothy 2:21-"
+2. "he is a chosen vessel—a word often used by Paul in illustrating God's sovereignty in election."
+3. "Compare 2 Timothy 2:21- :)."
 
 ### Albert Barnes:
-1. "Go thy way - This is often the only answer that we obtain to the suggestion of our doubts and hesitations about duty."
-2. "A chosen vessel - The usual meaning of the word 'vessel' is well known... It commonly denotes a 'cup or basin'... It then denotes 'any instrument which may be used to accomplish a purpose, perhaps particularly with the notion of conveying or communicating.'"
-3. "To bear my name - To communicate the knowledge of me... Before the Gentiles - The nations; all who were not Jews... And kings - This was fulfilled... And the children of Israel - The Jews. This was done."
+1. "Go thy way - This is often the only answer that we obtain to the suggestion of our doubts and hesitations about duty. God tells us still to do what he requires, with an assurance only that his commands are just, and that there are good reasons for them."
+2. "A chosen vessel - The usual meaning of the word 'vessel' is well known. It commonly denotes a 'cup or basin,' such as is used in a house. It then denotes 'any instrument which may be used to accomplish a purpose, perhaps particularly with the notion of conveying or communicating.'"
+3. "To bear my name - To communicate the knowledge of me. Before the Gentiles - The nations; all who were not Jews. This was the principal employment of Paul. He spent his life in this, and regarded himself as especially called to be the apostle of the Gentiles."
 
 ### Marvin Vincent:
 1. Chosen vessel [σκευος εκλογης] . Lit., an instrument of choice. On vessel, see on Matthew 12:29; and on the figure, compare 2 Corinthians 4:7.
@@ -25,65 +25,62 @@ Paul is described as a chosen vessel, emphasizing his role as an instrument sele
 
 ### John Calvin:
 1. "The commandment repeated the second time, and also the promise of success added, taketh away all doubtfulness."
-2. "A vessel of election, or, as Erasmus translateth it, an elect instrument, is taken for an excellent minister."
-3. "To bear my name amongst the Gentiles. To him who went about before to suppress the name of Christ is the same now committed to be borne."
+2. "A vessel of election... is taken for an excellent minister."
+3. "To bear my name amongst the Gentiles... to extol the same unto due honor."
 
 ### Philip Schaff:
 1. "The Lord here repeats His command, and calms the troubled mind of Ananias, by telling him that the well-known persecutor had been chosen in the counsels of Eternity to advance in a strange way His great cause."
-2. "The words here used by the Lord to Ananias, speaking of Saul as 'a chosen vessel,' were no doubt repeated by Ananias to Saul, who, in after days, often uses the same imagery."
-3. "To this mighty end, viz. the giving light to the Gen - the world hitherto shrouded in clouds and thick darkness, Paul and the martyred Stephen were the first to recognize that the whole Jewish scheme was subservient, was but the preparation for it."
+2. "The clay in the potter’s hand to mould or to mar, as it seemed good to the potter; the clay to be fashioned, as it pleased the potter, into vessels of honour or dishonour."
+3. "How clearly ‘Paul’ subsequently saw that this was his great and special duty, his whole life-work shows us; his words too, as in Galatians 1:15-16."
 
 ### Archibald T. Robertson:
 1. "Jesus chose Saul before Saul chose Jesus."
 2. "He felt of himself that he was an earthen vessel unworthy of so great a treasure."
-3. "This was the chief element in the call of Saul. He was to be an apostle to the Gentiles."
+3. "He was to be an apostle to the Gentiles."
 
 ### John Gill:
-1. "a choice and excellent one, full of the heavenly treasure of the Gospel"
-2. "full of the gifts and graces of the Spirit"
-3. "a vessel of election"
+1. "He is a chosen vessel unto me; a choice and excellent one, full of the heavenly treasure of the Gospel, full of the gifts and graces of the Spirit..."
 
 ### John Wesley:
 1. "He is a chosen vessel to bear my name — That is, to testify of me."
+2. "It is undeniable, that some men are unconditionally chosen or elected, to do some works for God."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:28:51
+- Timestamp: 12-25-2023 19:34:03
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 34.43%
-- BHT Quality Score: 1.8949716106597108
+- BHT Word Count: 186
+- BHT Commentary Usage: 38.46%
+- BHT Quality Score: 2.1710022550755776
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'among', 'an', 'and', 'any', 'as', 'bear', 'been', 'by', 'calling', 'children', 'chosen', 'command', 'crucial', 'darkness', 'described', 'doubts', 'emphasizing', 'engulfed', 'gentiles', 'god', 'gospel', 'has', 'he', 'hesitations', 'his', 'illuminating', 'in', 'instrument', 'is', 'israel', 'jesus', 'kings', 'message', 'metaphor', 'name', 'nations', 'of', 'or', 'paul', 'proclaiming', 'promise', 'remove', 'repetition', 'reveals', 'role', 's', 'selected', 'serve', 'specifically', 'spread', 'success', 'suggests', 'tasked', 'that', 'the', 'through', 'to', 'vessel', 'with', 'world']
-- ChatGPT injected words (significant words only) (40):
-	['bear', 'calling', 'children', 'chosen', 'command', 'crucial', 'darkness', 'described', 'doubts', 'emphasizing', 'engulfed', 'gentiles', 'god', 'gospel', 'hesitations', 'illuminating', 'instrument', 'israel', 'jesus', 'kings', 'message', 'metaphor', 'nations', 'paul', 'proclaiming', 'promise', 'remove', 'repetition', 'reveals', 'role', 's', 'selected', 'serve', 'specifically', 'spread', 'success', 'suggests', 'tasked', 'vessel', 'world']
+- ChatGPT injected words (104):
+	['a', 'accompanied', 'acknowledge', 'affirmed', 'all', 'an', 'ananias', 'and', 'any', 'apostle', 'as', 'be', 'being', 'bible', 'bidden', 'but', 'by', 'calling', 'can', 'cause', 'choice', 'chose', 'chosen', 'clay', 'command', 'communicating', 'concept', 'confirm', 'destined', 'dishonor', 'dispelled', 'do', 'doubts', 'election', 'for', 'found', 'from', 'fulfill', 'further', 'gentiles', 'go', 'god', 'great', 'had', 'he', 'him', 'himself', 'his', 'honor', 'illustrating', 'in', 'indeed', 'initially', 'into', 'it', 'jesus', 'just', 'knowledge', 'known', 'later', 'life', 'lord', 'man', 'mission', 'molds', 'nations', 'not', 'of', 'or', 'own', 'paul', 'pleases', 'potter', 'power', 'promises', 'purpose', 'questioning', 'repeated', 's', 'saul', 'selection', 'significance', 'so', 'sovereign', 'subsequent', 'success', 'that', 'the', 'this', 'throughout', 'to', 'told', 'uncertainty', 'understood', 'vessel', 'vessels', 'vision', 'was', 'who', 'without', 'words', 'work', 'would', 'writings']
+- ChatGPT injected words (significant words only) (64):
+	['accompanied', 'acknowledge', 'affirmed', 'ananias', 'apostle', 'bible', 'bidden', 'calling', 'cause', 'choice', 'chose', 'chosen', 'clay', 'command', 'communicating', 'concept', 'confirm', 'destined', 'dishonor', 'dispelled', 'doubts', 'election', 'found', 'fulfill', 'gentiles', 'god', 'great', 'honor', 'illustrating', 'initially', 'jesus', 'knowledge', 'known', 'later', 'life', 'lord', 'man', 'mission', 'molds', 'nations', 'paul', 'pleases', 'potter', 'power', 'promises', 'purpose', 'questioning', 'repeated', 's', 'saul', 'selection', 'significance', 'sovereign', 'subsequent', 'success', 'told', 'uncertainty', 'understood', 'vessel', 'vessels', 'vision', 'words', 'work', 'writings']
 
 ### Logs
-- Attempt 1 BHT: In Acts 9:15, Paul is described as a vessel of choice, emphasizing his role as an instrument chosen by God. This metaphor of a vessel suggests that Paul has been specifically selected to bear the message of God. The fact that Paul is to bear God's name before the nations, Gentiles, kings, and the children of Israel highlights his crucial role in spreading the Gospel to a wide audience. The repetition of the command to Ananias and the promise of success comforts any doubts or hesitations. Ultimately, Paul's calling reveals that he is a chosen vessel for the purpose of bringing light to a world steeped in darkness.
-- 🔄 Acts 9:15 (attempt 1, 109 words, 31.34% quotes quality score: 2.013536490450562, V2 normalized quality score: 58.29, commentator tiers 1-3: 33.83%, 37.03%, 29.14%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this passage, Paul is referred to as a vessel of choice and his calling as an apostle to the Gentiles is emphasized. The metaphor of a vessel signifies his selection and purpose in carrying God's message. The command to Ananias to go without questioning and the promise of success reassure any doubts. Paul's role as a chosen vessel is connected to the spread of the Gospel before nations, Gentiles, kings, and the children of Israel. His calling reveals his significant role in illuminating a world shrouded in darkness through the Gospel.
-- 🔄 Acts 9:15 (attempt 2, 94 words, 29.09% quotes quality score: 1.9096593381204832, V2 normalized quality score: 54.84, commentator tiers 1-3: 31.68%, 36.67%, 31.65%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Paul is described as a vessel of choice, an instrument specifically chosen by God. The metaphor of a vessel suggests that Paul has been selected to bear the message of God. His role is to bear God's name before the nations, Gentiles, kings, and the children of Israel. The repetition of the command and the promise of success take away any doubts or hesitations. Paul's calling reveals his crucial role in bringing light to a world in darkness through the Gospel.
-- 🔄 Acts 9:15 (attempt 3, 83 words, 36.36% quotes quality score: 1.8930194038366923, V2 normalized quality score: 54.28, commentator tiers 1-3: 33.27%, 35.49%, 31.23%) 
+- Attempt 1 BHT: Jesus chose Saul (who would later be known as Paul) as a man of His choice, a chosen vessel for His purpose. This concept of being chosen can be found throughout the Bible, illustrating God's sovereign power in election. Saul's selection as a vessel by God was not initially understood, but it was later affirmed to him by the Lord in a vision. Ananias was told to go and do as he was bidden, without questioning, for Saul was indeed a chosen vessel. Paul himself would later acknowledge that he was chosen by God in his writings. The chosen vessel was destined to be an apostle to the Gentiles, communicating the knowledge of Jesus to all nations. This command from the Lord, repeated and accompanied by promises of success, dispelled any doubts and uncertainty. Just as a potter molds clay into vessels of honor or dishonor as it pleases him, so God had chosen Saul to fulfill His great cause. Paul's subsequent life-work and his own words further confirm the significance of his calling and mission as an apostle to the Gentiles.
+- 🔄 Acts 9:15 (attempt 1, 186 words, 38.46% quotes quality score: 2.1710022550755776, V2 normalized quality score: 63.53, commentator tiers 1-3: 33.95%, 34.24%, 31.8%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Paul is referred to as a chosen vessel, highlighting his role as an instrument specifically chosen by God. The metaphor of a vessel emphasizes that Paul has been selected to bear God's name and spread the message. His task is to testify about Jesus among the Gentiles, nations, kings, and children of Israel. The repetition of the command and the promise of success alleviate doubts. This calling reveals Paul's significant role in shining the light of the Gospel in a world filled with darkness.
-- 🔄 Acts 9:15 (attempt 4, 86 words, 32.76% quotes quality score: 1.8617278225734246, V2 normalized quality score: 53.24, commentator tiers 1-3: 32.08%, 36.46%, 31.46%) 
+- Attempt 2 BHT: Saul, who would become known as Paul, was chosen by Jesus to be a vessel for His purpose. This concept of being chosen highlights God's sovereign power in election. Although Saul initially didn't fully understand, the Lord later affirmed his selection in a vision. Ananias was instructed to obey without hesitation. Paul himself recognized the importance of being a chosen vessel and dedicated his life to spreading the knowledge of Jesus to the Gentiles. The repeated command and promise of success erased any doubts. God, like a potter, shapes vessels for honor or dishonor as He pleases. Paul's subsequent life and writings demonstrate the significance of his role as an apostle to the Gentiles.
+- 🔄 Acts 9:15 (attempt 2, 117 words, 30.77% quotes quality score: 1.9048146359108258, V2 normalized quality score: 54.68, commentator tiers 1-3: 33.95%, 33.53%, 32.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul is described as a chosen vessel, emphasizing his role as an instrument selected by God. The metaphor of a vessel suggests that Paul has been specifically chosen to bear God's name and spread the message. He is tasked with proclaiming the name of Jesus among the Gentiles, nations, kings, and children of Israel. The repetition of the command and the promise of success serve to remove any doubts or hesitations. Paul's calling reveals his crucial role in illuminating a world engulfed in darkness through the Gospel.
-- 🔄 Acts 9:15 (attempt 5, 89 words, 34.43% quotes quality score: 1.8949716106597108, V2 normalized quality score: 54.35, commentator tiers 1-3: 32.38%, 36.52%, 31.11%) 
+- Attempt 3 BHT: Jesus chose Saul, later known as Paul, as a vessel of His choice. This idea of being chosen showcases God's sovereignty in election. Though initially not fully understood, the Lord revealed Saul's purpose in a visionary encounter. Ananias received a clear instruction to obey without hesitation. Paul himself acknowledged the significance of being a chosen vessel and dedicated himself to spreading the knowledge of Jesus among the Gentiles. The reiterated command, accompanied by promises of success, dispelled any doubts. Like a potter, God crafts vessels for honor or dishonor according to His will. Paul's subsequent actions and teachings exemplify his role as an apostle to the Gentiles.
+- 🔄 Acts 9:15 (attempt 3, 110 words, 27.63% quotes quality score: 1.8764096599016575, V2 normalized quality score: 53.73, commentator tiers 1-3: 33.91%, 32.6%, 33.48%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 9:15 bht prompt v0.8 (89 words, 34.43% quotes)
-- quality score: 1.8949716106597108, V2 normalized quality score: 54.35, commentator tiers 1-3: 32.38%, 36.52%, 31.11%)
+- Attempt 4 BHT: Jesus chose Saul, later known as Paul, as a vessel of His choice. This concept of being a chosen vessel illustrates God's sovereignty in election. Though initially not fully grasped, the Lord confirmed Saul's purpose in a visionary encounter. Ananias was commanded to obey without hesitation. Paul recognized the significance of being a chosen vessel and dedicated himself to spreading the knowledge of Jesus among the Gentiles. The reiterated command, accompanied by promises of success, dispelled any doubts. Like a potter, God fashions vessels for honor or dishonor at His pleasure. Paul's subsequent actions and teachings exemplify his role as an apostle to the Gentiles.
+- 🔄 Acts 9:15 (attempt 4, 108 words, 29.33% quotes quality score: 1.921153977391505, V2 normalized quality score: 55.22, commentator tiers 1-3: 34.24%, 32.04%, 33.72%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Jesus chose Saul, also known as Paul, as His selected vessel for a particular purpose. This idea of being a chosen vessel highlights God's sovereignty in election. Although initially not fully understood, the Lord later reaffirmed Saul's role through a vision. Ananias received a clear command to obediently carry out the task without question. Recognizing the importance of being a chosen vessel, Paul dedicated his life to spreading the knowledge of Jesus among the Gentiles. The reiterated command and promises of success eliminated any doubts. Like a potter molding clay, God determines vessels for honor or dishonor. Paul's subsequent life and teachings confirm his role as an apostle to the Gentiles.
+- 🔄 Acts 9:15 (attempt 5, 114 words, 27.27% quotes quality score: 1.9033250095801386, V2 normalized quality score: 54.63, commentator tiers 1-3: 32.97%, 33.54%, 33.49%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 9:15 bht prompt v0.8 (186 words, 38.46% quotes)
+- quality score: 2.1710022550755776, V2 normalized quality score: 63.53, commentator tiers 1-3: 33.95%, 34.24%, 31.8%)

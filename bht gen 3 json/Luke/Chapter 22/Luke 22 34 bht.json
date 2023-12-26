@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:23:08",
+    "timestamp": "12-25-2023 19:21:22",
     "verseRef": "Luke 22:34",
     "bestBHT": {
-        "bht": "Jesus forewarns the apostles about the dangers they will face in their mission, emphasizing the need for earthly resources and even the use of the sword for defense. The apostles misunderstand and show Him the two swords they have. Jesus specifically addresses Peter, as He knows him well and what lies ahead. He predicts that Peter will deny knowing Him three times, a warning echoed in all four Gospels. The rooster will crow twice, signifying Peter's denial, which will occur before the next cock crow in the early morning.",
-        "wordCount": 90,
-        "quoteTokenProportion": 40.62,
-        "qualityScore": 1.6038607591498288,
-        "qualityScoreNormalizedComparedToV2BHTs": 44.67,
+        "bht": "This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now rely on common resources and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, signifying steadfastness, contrasts sharply with his conduct. The cock will not crow until Peter has thrice denied knowing Jesus, showing that this denial will happen before the usual time of cock crowing in the morning.",
+        "wordCount": 98,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.7367010891822638,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.09,
         "commentatorTierSimilarities": [
-            39.13,
-            23.64,
-            37.22
+            36.95,
+            28.87,
+            34.17
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
+            "This is the only place in the Gospels where our Lord addresses Peter by the name Peter.",
             "The meaning of our Lord in this much-controverted passage appears to be, to forewarn the Apostles of the outward dangers which will await them henceforward in their mission.",
-            "unlike the time when He sent them forth without earthly appliances, upheld by His special Providence, they must now make use of common resources for sustenance, yea, and even of the sword itself for defence.",
-            "This they misunderstand, and point to the two swords which they have,\u2014for which they are rebuked (see below)."
+            "unlike the time when He sent them forth without earthly appliances, upheld by His special Providence, they must now make use of common resources for sustenance, yea, and even of the sword itself for defence."
         ],
         "Jamieson-Fausset-Brown": [
             "34. cock . . . crow\u2014\"twice",
@@ -34,19 +34,18 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Until thou shalt thrice deny that thou knowest me.",
-            "Thrice is in all four Gospels here for they all give this warning to Peter.",
-            "Peter will even deny knowing Jesus."
+            "Thrice\" is in all four Gospels here for they all give this warning to Peter.",
+            "Peter will even deny knowing Jesus.",
+            "Peter will even deny knowing Jesus (\u03b5\u03b9\u03b4\u03b5\u03bd\u03b1)."
         ],
         "John Gill": [
-            "I tell thee, Peter; who knew him, and his heart, better than he did himself, as well as knew what was to come, and what would befall him.",
-            "the cock shall not crow this day; in this night, as in Mark 14:30 or this night, as in Matthew 26:34 for it was now night; a natural day includes both night and day",
-            "before that thou shalt thrice deny that thou knowest me; as he did"
+            "I tell thee, Peter, the cock shall not crow this day.",
+            "The cock shall not crow this day before that thou shalt thrice deny that thou knowest me.",
+            "Before that thou shalt thrice deny that thou knowest me."
         ],
         "John Wesley": [
-            "It shall not be the time of cock crowing this day",
-            "The common time of cock crowing (which is usually about three in the morning)",
-            "The cock which Peter heard had crowed twice, if not oftener"
+            "It shall not be the time of cock crowing this day.",
+            "The common time of cock crowing (which is usually about three in the morning) probably did not come till after the cock which Peter heard had crowed twice, if not oftener."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -66,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus is warning the apostles of the dangers they will face in their mission, emphasizing the need for earthly resources and even the use of the sword for defense. However, the apostles misunderstand and point to the two swords they have. Jesus specifically addresses Peter, knowing his heart and what is to come. He foretells that Peter will deny knowing Him three times, a warning reiterated in all four Gospels. The significance of Jesus addressing him as Peter, the name symbolizing steadfastness, contrasts with Peter's eventual conduct. The rooster will crow twice, signaling Peter's denial, which will occur before the cock crows again in the early morning.",
-            "wordCount": 109,
-            "quoteTokenProportion": 39.19,
-            "qualityScore": 1.6071269166387587,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+            "bht": "This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now rely on common resources and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, signifying steadfastness, contrasts sharply with his conduct. The cock will not crow until Peter has thrice denied knowing Jesus, showing that this denial will happen before the usual time of cock crowing in the morning.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7367010891822638,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
             "commentatorTierSimilarities": [
-                38.56,
-                28.31,
-                33.13
+                36.95,
+                28.87,
+                34.17
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus forewarns the apostles about the dangers they will face in their mission, emphasizing the need for earthly resources and even the use of the sword for defense. The apostles misunderstand and show Him the two swords they have. Jesus specifically addresses Peter, as He knows him well and what lies ahead. He predicts that Peter will deny knowing Him three times, a warning echoed in all four Gospels. The rooster will crow twice, signifying Peter's denial, which will occur before the next cock crow in the early morning.",
-            "wordCount": 90,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.6038607591498288,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
+            "bht": "This is the only instance where Jesus addresses Peter by name, forewarning the Apostles of the dangers they will encounter in their mission. They must now rely on common resources and even use the sword for defense. The warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The name Peter, symbolizing steadfastness, contrasts with his conduct. The cock will not crow until Peter denies Jesus three times, occurring before the usual time of cock crowing in the morning.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.684281689970553,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
             "commentatorTierSimilarities": [
-                39.13,
-                23.64,
-                37.22
+                37.4,
+                26.69,
+                35.91
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus warns the apostles of the dangers awaiting them in their mission, emphasizing the need for earthly resources and even self-defense. The apostles misunderstand and present the two swords they have, prompting Jesus's rebuke. He directly addresses Peter, knowing him intimately and foreseeing his threefold denial. This warning is echoed in all four Gospels. The rooster's crow, which Peter hears twice, will be a symbolic reminder of his denial before the new day breaks.",
-            "wordCount": 77,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.4878322762381668,
-            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
+            "bht": "This is the only place in the Gospels where our Lord addresses Peter by the name Peter, forewarning the Apostles of the dangers they will face in their mission. Unlike before, they must now make use of common resources for sustenance and even use the sword for defense. This warning is repeated in all four Gospels, emphasizing the significance of Peter's denial. The cock will not crow until Peter denies Jesus three times, occurring before the usual time of cock crowing in the morning.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.722566562383275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
             "commentatorTierSimilarities": [
-                39.41,
-                25.45,
-                35.15
+                37.83,
+                22.45,
+                39.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus forewarns the apostles about the dangers they will face in their mission. He emphasizes the need for earthly resources and self-defense, which the apostles fail to fully understand when they show Him their two swords. Jesus specifically addresses Peter, knowing him well and what will transpire. He prophesies that Peter will deny knowing Him three times, a warning reiterated in all four Gospels. The rooster's crow, heard twice by Peter, will serve as a reminder of his denial before the dawn breaks.",
-            "wordCount": 85,
-            "quoteTokenProportion": 42.19,
-            "qualityScore": 1.5809611583837064,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+            "bht": "Contrary to previous instances, this is the only time in the Gospels where Jesus addresses Peter by his given name, forewarning the Apostles of the imminent external dangers they will encounter in their mission. They are now required to rely on common resources and even employ the sword for self-defense. This warning of Peter's denial is repeated in all four Gospels, underscoring its significance. The crowing of the cock will not occur until Peter has denied Jesus three times, transpiring prior to the customary daybreak crowing.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6625154524532335,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
             "commentatorTierSimilarities": [
-                40.1,
-                27.14,
-                32.77
+                38.91,
+                22.31,
+                38.78
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In Luke 22:34, Jesus warns the apostles about the upcoming dangers they will face in their mission. He emphasizes the need for earthly resources and even self-defense, which the apostles misunderstand when they show Him the two swords they have. Jesus directly addresses Peter, whom He knows well, and predicts his threefold denial. This warning of denial is present in all four Gospels. The rooster will crow twice, indicating Peter's denial, before the next morning arrives.",
-            "wordCount": 77,
-            "quoteTokenProportion": 44.07,
-            "qualityScore": 1.5600414486501832,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "bht": "In this unique passage, Jesus addresses Peter by his given name, Peter, as he warns the Apostles about the forthcoming external dangers they will face during their mission. Unlike before, they will now have to rely on common resources for sustenance and even employ the sword for self-defense. This warning of Peter's denial is found in all four Gospels, emphasizing its significance. The crowing of the cock will not happen before Peter denies Jesus three times, even occurring prior to the usual time of daybreak crowing.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.718039545808613,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
             "commentatorTierSimilarities": [
-                39.64,
-                27.18,
-                33.18
+                38.89,
+                24.48,
+                36.63
             ],
             "generationAttempt": 5
         }

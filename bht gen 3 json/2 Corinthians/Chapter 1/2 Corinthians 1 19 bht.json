@@ -1,63 +1,62 @@
 {
-    "timestamp": "12-19-2023 15:15:22",
+    "timestamp": "12-25-2023 19:33:29",
     "verseRef": "2 Corinthians 1:19",
     "bestBHT": {
-        "bht": "Christ, the Son of God, is the unchanging focus of all Christian preaching. His constancy and reliability are highlighted, proving the truth of the doctrine preached about Him. The miracles He performed confirm the validity of His message. Paul appeals to the life of Christ to bolster his own trustworthiness. Jesus is the ultimate fulfillment of all spiritual teaching, surpassing any other teachings. The Gospel revolves around Him, magnifying His person and offices while motivating believers to engage in good works guided by Gospel principles. Preaching about Him remains steadfast and resolute, centered on His unchanging nature.",
-        "wordCount": 97,
-        "quoteTokenProportion": 28.36,
-        "qualityScore": 1.9450312884363719,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+        "bht": "The preaching of the Son of God, Jesus Christ, by Paul and his colleagues was not a message of fickleness or change. Christ Himself, being equal with God, is unchangeable and the center of all Christian preaching. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, emphasizing that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, is consistent and unwavering in its proclamation of God's grace and the exaltation of Christ's person and offices.",
+        "wordCount": 100,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.2007966929690808,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.52,
         "commentatorTierSimilarities": [
-            34.78,
-            29.74,
-            35.49
+            35.15,
+            28.88,
+            35.98
         ],
-        "generationAttempt": 3
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The Son of God is prefixed for solemnity, and to show how unlikely fickleness or change is in Christ, being such as He is.",
-            "Christ, personal\u2014not meaning, the doctrine concerning Christ\u2014HE HIMSELF is the center and substance of all Christian preaching.",
-            "The strength of Israel will not lie nor repent."
+            "The Son of God is prefixed for solemnity, and to show how unlikely fickleness or change is in Christ, being such as He is.\" ",
+            "Christ, personal - not meaning, the doctrine concerning Christ - HE HIMSELF is the center and substance of all Christian preaching.\" ",
+            "Christ is the great Subject of that doctrine, as set before them by Paul and his colleagues."
         ],
         "Jamieson-Fausset-Brown": [
-            "Proof of the unchangeableness of the doctrine from the unchangeableness of the subject of it, namely, Jesus Christ.\" ",
+            "He is called 'the Son of God' to show the impossibility of change in One who is co-equal with God himself.",
             "The Son of God, though preached by different preachers, was one and the same, unchangeable.",
-            "Our preaching of the Son of God is confirmed as true in Him, through the miracles wherewith He has confirmed our preaching."
+            "Our preaching of the Son of God is confirmed as true in Him, through the witness of the Spirit which He has given."
         ],
         "Albert Barnes": [
             "The preaching respecting Jesus Christ, did not represent him as fickle, and changeable; as unsettled, and as unfaithful; but as true, consistent, and faithful.",
             "All that he says is true; all the promises that he makes are firm; all his declarations are faithful.",
-            "He never disguised the truth; never prevaricated; never had any mental reservation; never deceived; never used any word, or threw in any circumstance, that was suited to lead the mind astray."
+            "The most deeply felt obligation on earth is that which the Christian feels to imitate the Redeemer."
         ],
         "Marvin Vincent": [
-            "He has shown Himself absolutely the truth.",
+            "Did not prove to be, in the result.",
             "Yea has come to pass in Him.",
             "He has shown Himself absolutely the truth."
         ],
         "John Calvin": [
-            "For as he is the end of the law, so he is the head \u2014 the sum \u2014 in fine, the consummation \u2014 of all spiritual doctrine.",
-            "Those go beyond due limits, who teach anything else than Christ alone, with whatever show of wisdom they may otherwise be puffed up.",
-            "He alone is the true Christ, in whom there appears that uniform and unvarying yea, which Paul declares to be characteristic of him."
+            "For, as it may be, and often does happen, that Christ is disfigured by the inventions (284) of men, and is adulterated, as it were, by their disguises, he declares that it had not been so as to himself or his associates, but that he had sincerely and with an integrity that was befitting, held forth Christ pure and undisguised.",
+            "Hence those go beyond due limits, who teach anything else than Christ alone, with whatever show of wisdom they may otherwise be puffed up.",
+            "Others, with a view to procure the favor of men, present him under various forms, while there is still another class, that inculcate one day what on the next they retract through fear. Such was not Paul\u2019s Christ, nor can that of any true apostle (288) be such."
         ],
         "Philip Schaff": [
-            "When we were with you, was it vacillating, fickle preachers that preached to you the unchanging One, the Son of God, Jesus Christ, the same yesterday, today, and forever?",
+            "When we were with you, was it vacillating, fickle preachers that preached to you the unchanging One, the Son of God, Jesus Christ, the same yesterday, today, and for ever?",
             "Did we hold Him forth to you as stability itself, while we ourselves were the reverse?",
-            "...their whole bearing at Corinth as men, like their message, honest and true."
+            "It is an appeal to the incongruity of the thing, and to their whole bearing at Corinth as men, like their message, honest and true."
         ],
         "Archibald T. Robertson": [
             "Did not become Yes and No.",
             "But in him Yes has become yes,\" has proved true.",
-            "So Paul appeals to the life of Christ to sustain his own veracity."
+            "Paul appeals to the life of Christ to sustain his own veracity."
         ],
         "John Gill": [
-            "the Son of God, Jesus Christ; that Christ is 'the Son of God': this article he began his ministry with... and all the apostles affirmed the same thing; and which is of the greatest moment and importance, and ought to be abode by, insisted on, and frequently inculcated",
-            "the Son of God is Christ, anointed to bear and execute the office of a mediator in the several parts and branches of it; a prophet to teach his people, a priest to make atonement and intercession for them, and a King to govern and protect them",
-            "the Gospel, as in Christ, and as it comes from him, and has been preached by his apostles, and faithful ministers, is all of a piece; its constant and invariable strain... is, to display the free, rich, and sovereign grace of God, to magnify and exalt the person and offices of Christ, to debase the creature, and to engage persons to the performance of good works, on Gospel principles, and by Gospel motives, and for right ends"
+            "Christ is the Son of God\": this article he began his ministry with...which is of the greatest moment and importance.",
+            "the Son of God is Christ, anointed to bear and execute the office of a mediator... a Saviour.",
+            "The Gospel, as in Christ... is all of a piece; its constant and invariable strain is to display the free, rich, and sovereign grace of God, to magnify and exalt the person and offices of Christ, to debase the creature, and to engage persons to the performance of good works, on Gospel principles, and by Gospel motives, and for right ends."
         ],
         "John Wesley": [
-            "Our preaching concerning him... Was not variable and inconsistent with itself.\" ",
-            "Always one and the same, centering in him."
+            "For Jesus Christ, who was preached by us... Was not yea and nay... But was yea in him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -77,67 +76,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse highlights the unchangeable nature of Jesus Christ, emphasizing His constancy and reliability. He is the center and substance of all Christian preaching, the unchanging subject of the doctrine. The preaching of the Son of God is confirmed as true through the miracles He performed. Paul appeals to the life of Christ to sustain his own veracity. Jesus Christ is the sum and consummation of all spiritual doctrine, and any teaching that deviates from Him falls short. His Gospel is all of a piece, constantly magnifying His person and offices, while engaging believers in good works and Gospel motives. Our preaching concerning Him remains consistent and unwavering, always centering in Him.",
-            "wordCount": 112,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 2.0285760763510545,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "bht": "The preaching of the Son of God, Jesus Christ, by Paul and his colleagues was not a message of fickleness or change. Christ Himself, being equal with God, is unchangeable and the center of all Christian preaching. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, emphasizing that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, is consistent and unwavering in its proclamation of God's grace and the exaltation of Christ's person and offices.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.2007966929690808,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
             "commentatorTierSimilarities": [
-                33.03,
-                28.35,
-                38.62
+                35.15,
+                28.88,
+                35.98
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The Son of God, Jesus Christ, is depicted as constant and unchanging, serving as the center of Christian preaching. His unchangeableness affirms the truth of the doctrine preached about Him. The miracles He performed serve as confirmation of His identity and message. By appealing to the life of Christ, Paul reinforces his own credibility. Jesus is the ultimate fulfillment and culmination of all spiritual teaching, and any deviation from Him is insufficient. The Gospel centers around Him, magnifying His person and offices, while inspiring believers to engage in good works driven by Gospel principles. The preaching about Him remains consistent and unwavering, always revolving around His unchanging nature.",
-            "wordCount": 108,
-            "quoteTokenProportion": 27.14,
-            "qualityScore": 1.9672002169407765,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "bht": "The preaching of the Son of God, Jesus Christ, by Paul and his colleagues was not a message of fickleness or change. Christ Himself, being equal with God, is unchangeable. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, emphasizing that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, is consistent and unwavering in its proclamation of God's grace and the exaltation of Christ's person and offices.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1919890121762817,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.22,
             "commentatorTierSimilarities": [
-                33.93,
-                28.85,
-                37.22
+                35.19,
+                28.41,
+                36.4
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Christ, the Son of God, is the unchanging focus of all Christian preaching. His constancy and reliability are highlighted, proving the truth of the doctrine preached about Him. The miracles He performed confirm the validity of His message. Paul appeals to the life of Christ to bolster his own trustworthiness. Jesus is the ultimate fulfillment of all spiritual teaching, surpassing any other teachings. The Gospel revolves around Him, magnifying His person and offices while motivating believers to engage in good works guided by Gospel principles. Preaching about Him remains steadfast and resolute, centered on His unchanging nature.",
-            "wordCount": 97,
-            "quoteTokenProportion": 28.36,
-            "qualityScore": 1.9450312884363719,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "bht": "The preaching of Christ by Paul and his colleagues affirms that Christ Himself, as the Son of God, is unchangeable and the center of all Christian preaching. Their message is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, highlighting that Jesus Christ is the embodiment of truth and faithfulness. The Gospel, as presented in Christ, remains consistent and unwavering in proclaiming God's grace and exalting Christ's person and offices.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.120139119736371,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.84,
             "commentatorTierSimilarities": [
-                34.78,
-                29.74,
-                35.49
+                35.74,
+                29.54,
+                34.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The unchangeable nature of Jesus Christ, the Son of God, is the core of Christian preaching. His constancy and reliability validate the preached doctrine. The miracles He performed confirm the truth of His message. Paul's credibility rests on the life of Christ. Jesus is the supreme fulfillment of spiritual teaching, surpassing any other. The Gospel centers on Him, magnifying His person and offices, inspiring believers to engage in good works with Gospel motives. Preaching about Him remains unwavering, centered on His unchanging nature.",
-            "wordCount": 84,
-            "quoteTokenProportion": 24.14,
-            "qualityScore": 1.9096890803726438,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "bht": "The preaching of Christ by Paul and his colleagues confirms that Christ Himself, as the Son of God, is unchangeable. Their message is verified as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to uphold his own credibility, emphasizing that Jesus Christ represents ultimate truth and faithfulness. The Gospel, as presented in Christ, remains constant and unwavering in proclaiming God's grace and elevating Christ's person and offices.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.1311536544129597,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
             "commentatorTierSimilarities": [
-                35.82,
-                29.35,
-                34.83
+                34.82,
+                30.39,
+                34.79
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The unchanging Son of God, Jesus Christ, forms the focal point of Christian preaching. His constancy and reliability validate the preached doctrine, as confirmed by His miracles. Paul relies on the life of Christ to affirm his own credibility. Jesus is the ultimate fulfillment of spiritual teaching, surpassing all others. The Gospel revolves around Him, exalting His person and offices, motivating believers in Gospel-based good works. Preaching about Him remains steadfast, centered on His unwavering nature.",
-            "wordCount": 77,
-            "quoteTokenProportion": 27.59,
-            "qualityScore": 1.8988618498569054,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "bht": "The preaching of the Son of God, Jesus Christ, by Paul and his colleagues affirms that Christ Himself is unchangeable and the essence of Christian preaching. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, highlighting that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, remains consistent and unwavering in proclaiming God's grace and magnifying Christ's person and offices.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.169252077825421,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
             "commentatorTierSimilarities": [
-                33.51,
-                28.65,
-                37.84
+                34.83,
+                29.2,
+                35.97
             ],
             "generationAttempt": 5
         }

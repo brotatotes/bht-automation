@@ -1,56 +1,57 @@
 {
-    "timestamp": "12-19-2023 16:35:48",
+    "timestamp": "12-25-2023 19:31:05",
     "verseRef": "Acts 23:35",
     "bestBHT": {
-        "bht": "Paul was not imprisoned but was instead held in one of the buildings attached to Herod's palace. The governor assured him of a full hearing once his accusers arrived, indicating a comprehensive evaluation. This preliminary questioning allowed for a thorough judicial investigation. Paul's treatment was relatively lenient, as he enjoyed certain privileges and had the liberty to receive visits from friends and acquaintances. The palace, originally built by Herod the Great, served as the official residence for the Roman governor.",
-        "wordCount": 82,
-        "quoteTokenProportion": 33.87,
-        "qualityScore": 1.7696880371507424,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+        "bht": "Paul was held in custody in Herod's palace, not in a prison, by a guard of soldiers, indicating that he was given some liberty. The governor promised Paul a full hearing of his cause, showing a sense of justice. The word used for I will hear thee suggests a comprehensive investigation. This location, Herod's palace, held historical significance as it had once been the residence and court of Herod the Great, and was now the official dwelling of the Roman governor.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.021287821847481,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.55,
         "commentatorTierSimilarities": [
-            34.7,
-            34.24,
-            31.06
+            36.36,
+            32.6,
+            31.04
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "35. in Herod\u2019s palace] The procurator resided in the former palace of Herod the Great. Here Paul was committed to the custody of a soldier, not in a prison, but in the buildings attached to the palace."
         ],
         "Jamieson-Fausset-Brown": [
-            "I will hear thee\u2014The word means, 'give thee a full hearing.'",
-            "to be kept in Herod's judgment hall\"\u2014\"pr\u00e6torium,\" the palace built at C\u00e6sarea by Herod, and now occupied by the Roman procurators.",
+            "I will hear thee\u2014The word means, 'give thee a full hearing.'\" ",
+            "pr\u00e6torium, the palace built at C\u00e6sarea by Herod, and now occupied by the Roman procurators.",
             "in one of the buildings attached to which Paul was ordered to be kept."
         ],
         "Albert Barnes": [
-            "In Herod's judgment hall...the place where justice was administered.\" ",
-            "The word used here denoted formerly 'the tent of the Roman praetor'.\" ",
-            "Prisons, or places of security, would be attached to such places."
+            "In Herod's judgment hall - Greek: in the praetorium of Herod.",
+            "The word used here denoted formerly 'the tent of the Roman praetor'; and since that was the place where justice was administered, it came to be applied to 'halls (courts) of justice.'",
+            "This had been raised probably by Herod the Great as his palace, or as a place for administering justice."
         ],
         "Marvin Vincent": [
-            "Will hear thy cause; the word meaning 'to hear fully in a judicial sense.'",
-            "The present questioning was merely preliminary.",
+            "I will hear thee [\u03b4\u03b9\u03b1\u03ba\u03bf\u03c5\u03c3\u03bf\u03bc\u03b1\u03b9]. Better, as Rev., will hear thy cause; the word meaning 'to hear fully [\u03b4\u03b9\u03b1] in a judicial sense.' The present questioning was merely preliminary.\" ",
+            "Herod's palace. Built by Herod the Great. Judaea being now a Roman province, the palace of its former kings had become the governor's official residence.",
             "It thus appears that Paul was leniently dealt with, and not cast into the common prison."
         ],
         "Philip Schaff": [
             "The Greek word rendered \u2018I will hear,\u2019 suggests the idea of a complete and searching investigation into all the matters in question.",
             "Better rendered \u2018in Herod\u2019s praetorium.\u2019 This was the palace built by Herod the Great for his own residence; it now was used as the official dwelling of the Roman governor.",
-            "We know later that during the imprisonment at C\u00e6sarea, Paul had many privileges rarely accorded to one in his condition."
+            "He was, we must remember, a Roman prisoner and uncondemned; nor is it improbable that secretly the hostility of the chief priests and Sanhedrim pleaded for him with Felix."
         ],
         "Archibald T. Robertson": [
-            "I will hear thee fully.",
-            "Whenever thine accusers come.",
+            "I will hear thee fully\" (\u03b4\u03b9\u03b1). ",
+            "whenever thine accusers come.",
             "The word meant the camp of the general, then the palace of the governor as here and Matthew 27:27 which see, and then the camp of praetorian soldiers or rather the praetorian guard as in Philippians 1:13."
         ],
         "John Gill": [
-            "A grand courtly way of speaking.",
-            "Desirous to hear both sides before he judged of the affair.",
-            "He had much liberty, and his friends and acquaintance had leave to come to him."
+            "which shows the governor to have some sense of justice and integrity, being desirous to hear both sides before he judged of the affair",
+            "Here he was kept by a guard of soldiers, but not in close confinement; he had much liberty, and his friends and acquaintance had leave to come to him",
+            "the place where they sat in judgment, and may be the same that is here meant; though others interpret it a prison; and so it seems was this judgment hall of Herod's."
         ],
         "John Wesley": [
-            "In Herod's palace \u2014 This was a palace and a court built by Herod the Great.",
-            "Probably some tower belonging to it might be used for a kind of state prison."
+            "Herod's palace - This was a palace and a court built by Herod the Great.",
+            "Probably some tower belonging to it might be used for a kind of state prison.",
+            "A kind of state prison."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -70,67 +71,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Paul was held in custody in Herod's palace, specifically in one of the buildings attached to it in Caesarea. Although this may seem like prison, he was actually given more lenient treatment, as he was entrusted to a soldier instead of being placed in a common prison. The governor declared that he would give Paul a full hearing and listen to his cause when his accusers arrived. This preliminary questioning was part of a process that allowed for a complete and thorough investigation. The palace itself was originally built by Herod the Great and now served as the official residence for the Roman governor. During his time in custody, Paul enjoyed certain privileges not typically granted to prisoners. This suggests that he was given a fair amount of liberty and had the opportunity to receive visits from his friends and acquaintances.",
-            "wordCount": 142,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 1.7817261497764165,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "bht": "Paul, having been brought before the procurator, was committed to the custody of a soldier in Herod's palace, not in a prison, indicating that he was treated relatively leniently. The governor promised Paul a full hearing of his cause, showing a sense of justice and integrity. The word used for I will hear thee suggests a thorough and comprehensive investigation into the matters at hand. It is likely that the influence of the chief priests and Sanhedrin played a part in Felix's treatment of Paul. Herod's palace, where Paul was kept, had formerly been the residence and court of Herod the Great and was now used as the official dwelling of the Roman governor, indicating the importance and significance of this location.",
+            "wordCount": 125,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.964682558363517,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
             "commentatorTierSimilarities": [
-                35.4,
-                34.59,
-                30.01
+                35.88,
+                36.11,
+                28.02
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In the book of Acts, Paul is held in custody in one of the buildings attached to Herod's palace, not in a common prison. The governor assures him that he will receive a full and thorough hearing once his accusers arrive. This preliminary questioning conducted in the palace signifies the start of a comprehensive investigation. Despite being in custody, Paul experiences lenient treatment and has certain privileges, suggesting that he has a fair degree of liberty and is allowed to receive visitors.",
+            "bht": "Paul was held in custody in Herod's palace, not in a prison, by a guard of soldiers, indicating that he was given some liberty. The governor promised Paul a full hearing of his cause, showing a sense of justice. The word used for I will hear thee suggests a comprehensive investigation. This location, Herod's palace, held historical significance as it had once been the residence and court of Herod the Great, and was now the official dwelling of the Roman governor.",
             "wordCount": 83,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.7602798541685245,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.021287821847481,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
             "commentatorTierSimilarities": [
-                37.7,
-                33.5,
-                28.79
+                36.36,
+                32.6,
+                31.04
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul was not placed in prison but rather held in one of the buildings attached to Herod's palace in Caesarea. The governor declared that he would give Paul a full hearing once his accusers arrived, indicating a comprehensive investigation process. This preliminary questioning allowed for a thorough examination of the matter. Despite being in custody, Paul received lenient treatment. He had certain privileges and was granted a fair amount of liberty, including the ability to receive visits from friends and acquaintances.",
-            "wordCount": 82,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 1.623831487041683,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "bht": "Paul was kept in custody in Herod's palace, not in a prison, where he had more freedom. The governor assured Paul that he would receive a fair and thorough hearing of his case, indicating a commitment to justice. The Greek word for I will hear thee suggests a complete investigation. Herod's palace, originally built by Herod the Great, now served as the official residence of the Roman governor, emphasizing its importance. This location highlights the significance of Paul's trial and the attention it received.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9240486906424619,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
             "commentatorTierSimilarities": [
-                36.86,
-                33.91,
-                29.22
+                35.82,
+                36.65,
+                27.53
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul was not imprisoned but was instead held in one of the buildings attached to Herod's palace. The governor assured him of a full hearing once his accusers arrived, indicating a comprehensive evaluation. This preliminary questioning allowed for a thorough judicial investigation. Paul's treatment was relatively lenient, as he enjoyed certain privileges and had the liberty to receive visits from friends and acquaintances. The palace, originally built by Herod the Great, served as the official residence for the Roman governor.",
-            "wordCount": 82,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 1.7696880371507424,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "bht": "Paul was held in custody in Herod's palace, not in prison, signifying that he was treated with leniency. The governor promised Paul a full and comprehensive hearing, demonstrating a commitment to justice. The word used for I will hear thee implies a thorough investigation of the matter at hand. Herod's palace, once the residence of kings, had become the official residence of the Roman governor, underscoring the importance of the location. This indicates that Paul's trial held considerable significance and attention.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8051136527233318,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
             "commentatorTierSimilarities": [
-                34.7,
-                34.24,
-                31.06
+                38.5,
+                33.12,
+                28.38
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul was held in custody in one of the buildings attached to Herod's palace, enjoying more lenient treatment than being in a common prison. The governor assured him of a full hearing once his accusers arrived, indicating a thorough investigation. This preliminary questioning was part of a process that allowed for a complete and comprehensive evaluation. Paul had certain privileges not typically granted to prisoners, suggesting a fair amount of liberty and the opportunity to receive visits from friends and acquaintances in the palace.",
-            "wordCount": 85,
-            "quoteTokenProportion": 35.94,
-            "qualityScore": 1.7035028846594806,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "bht": "Paul was held in custody in Herod's palace, rather than a prison. The governor promised Paul a full hearing, reflecting a commitment to justice. The word used for I will hear thee suggests a thorough investigation. Herod's palace, initially built by Herod the Great, now served as the official residence of the Roman governor. This location holds historical significance, highlighting the importance of Paul's trial. The lenient treatment and attention given to Paul's case indicate its significance in the eyes of the authorities.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8584211173550917,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
             "commentatorTierSimilarities": [
-                35.94,
-                32.93,
-                31.13
+                38.96,
+                33.47,
+                27.57
             ],
             "generationAttempt": 5
         }

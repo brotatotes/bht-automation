@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:26:28",
+    "timestamp": "12-25-2023 19:28:46",
     "verseRef": "Mark 11:7",
     "bestBHT": {
-        "bht": "As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.",
-        "wordCount": 86,
-        "quoteTokenProportion": 47.37,
-        "qualityScore": 1.81619822007284,
-        "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+        "bht": "As Jesus entered Jerusalem, his disciples brought a colt to him, as he had predicted. These friends of Jesus willingly gave up their colt for his use. They assisted Jesus in getting onto the colt, and he sat on it without any trouble. This colt carried Jesus as he began his journey towards Jerusalem.",
+        "wordCount": 54,
+        "quoteTokenProportion": 56.1,
+        "qualityScore": 2.1683004550878,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.44,
         "commentatorTierSimilarities": [
-            47.4,
-            17.95,
-            34.65
+            47.65,
+            17.64,
+            34.71
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -23,9 +23,9 @@
             "They bring the colt unto Jesus (\u03c6\u03b5\u03c1\u03bf\u03c5\u03c3\u03b9\u03bd \u03c4\u03bf\u03bd \u03c0\u03c9\u03bb\u03bf\u03bd \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u0399\u03b7\u03c3\u03bf\u03c5\u03bd). Vivid historical present. The owners acquiesced as Jesus had predicted. Evidently friends of Jesus. "
         ],
         "John Gill": [
-            "and cast their garments on him; their clothes to be instead of a saddle, for Christ to sit upon:",
-            "Jesus rode on him",
-            "he sat on it without any trouble, though it had never been backed before, and rode on his way to Jerusalem"
+            "Jesus rode on him.",
+            "The disciples assisted him in getting upon it, and having mounted it, he sat on it without any trouble.",
+            "He rode on his way to Jerusalem."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -45,67 +45,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.",
-            "wordCount": 86,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 1.81619822007284,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "bht": "As Jesus approached Jerusalem, his friends brought a colt to him, as he had predicted. The owners willingly handed over the colt to Jesus. It was upon this colt that Jesus sat, as it was specifically mentioned by Luke and John. The disciples assisted Jesus in getting onto the colt, ensuring that he was able to mount it without any trouble. Thus, Jesus rode on the colt on his way to Jerusalem.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.174033028986953,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.63,
             "commentatorTierSimilarities": [
-                47.4,
-                17.95,
-                34.65
+                46.82,
+                19.33,
+                33.85
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.",
-            "wordCount": 86,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 1.81619822007284,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "bht": "As Jesus made his way towards Jerusalem, his acquaintances brought a colt to him, fulfilling his earlier prediction. These were evidently friends of Jesus, as they willingly handed over the colt. Jesus then sat upon the colt, an act specifically mentioned by Luke and John. Assisted by his disciples, Jesus effortlessly mounted the colt, allowing him to proceed on his journey to Jerusalem.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 2.12699464276436,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
             "commentatorTierSimilarities": [
-                47.4,
-                17.95,
-                34.65
+                47.21,
+                22.46,
+                30.33
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "As Jesus entered Jerusalem, his friends vividly brought a colt to him, as he had predicted. The owners willingly acquiesced, allowing Jesus to sit upon the colt. Other accounts specify that he sat upon it. Interestingly, his followers placed their garments on the colt instead of a saddle. Remarkably, Jesus rode the colt without any trouble, despite it never being ridden before. And so, he continued on his way to Jerusalem.",
-            "wordCount": 71,
-            "quoteTokenProportion": 43.14,
-            "qualityScore": 1.5504238712491052,
-            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "bht": "As Jesus approached his destination, those who were with him brought a colt for him to ride upon, just as he had foretold. It is clear that these individuals were friends of Jesus, as they willingly handed over the colt. Jesus then took his seat upon the colt, an action that is specifically mentioned by both Luke and John. With the assistance of his disciples, he was able to easily mount the colt and continue his journey towards Jerusalem.",
+            "wordCount": 79,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.0093353361040354,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
             "commentatorTierSimilarities": [
-                42.89,
-                16.85,
-                40.27
+                46.06,
+                22.03,
+                31.91
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "As Jesus entered Jerusalem, his friends vividly brought a colt to him, just as he had predicted, willingly acquiescing to his request. Other accounts specify that he sat upon the colt, and his followers placed their garments on it in lieu of a saddle. Remarkably, Jesus rode the colt without any trouble, despite it being unridden before. And so, he continued on his way to Jerusalem.",
-            "wordCount": 66,
-            "quoteTokenProportion": 46.94,
-            "qualityScore": 1.6408713426889254,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "bht": "As Jesus entered Jerusalem, his disciples brought a colt to him, as he had predicted. These friends of Jesus willingly gave up their colt for his use. They assisted Jesus in getting onto the colt, and he sat on it without any trouble. This colt carried Jesus as he began his journey towards Jerusalem.",
+            "wordCount": 54,
+            "quoteTokenProportion": 56.1,
+            "qualityScore": 2.1683004550878,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
             "commentatorTierSimilarities": [
-                42.85,
-                16.42,
-                40.73
+                47.65,
+                17.64,
+                34.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "As Jesus entered Jerusalem, the owners of the colt willingly brought it to him, fulfilling his prediction. Jesus sat upon the colt, while his followers placed their garments on it as a makeshift saddle. Despite the colt never being ridden before, Jesus rode it without any trouble. And so, he continued his journey to Jerusalem.",
-            "wordCount": 55,
-            "quoteTokenProportion": 48.78,
-            "qualityScore": 1.7199586181110895,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "bht": "They bring the colt unto Jesus as he had predicted, showing their acquiescence and friendship towards him. In this vivid historical present moment, the disciples assist Jesus in getting upon the colt and he sits on it effortlessly. Jesus rides on the colt as he makes his way to Jerusalem, fulfilling the prophecy.",
+            "wordCount": 53,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 2.2166427107331255,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.04,
             "commentatorTierSimilarities": [
-                41.83,
-                15.79,
-                42.38
+                50.64,
+                18.84,
+                30.52
             ],
             "generationAttempt": 5
         }

@@ -1,30 +1,31 @@
 # John 8:10 Commentary Help Text
 
 ## BHT:
-What an inimitable display of tenderness and grace from Jesus! Instead of condemning the woman caught in sin, he simply leaves the matter where it was. If she experienced conviction of sin and a willingness to be guided by Him, this call to begin a new life may have brought about a permanent change. Jesus lifts himself up and asks where her accusers are, as if to say, Has no one offered to do unto you what I proposed?
+Conscious of her guilt and in awe of how her accusers were dispersed, the woman would have been receptive to Jesus' teachings. Jesus doesn't pardon or declare her innocent, but rather leaves the matter unresolved. However, if she experienced a sudden conviction of sin, admired her Deliverer, and was willing to be guided by Him, this call to a new life could have brought about a lasting change. As Jesus stood up and looked around, the accusers slipped away, prompting Him to ask the woman if no one had condemned her, indicating that the accusers had not proceeded to judicial condemnation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "What inimitable tenderness and grace!"
-2. "He simply leaves the matter where it was."
+1. "Conscious of her own guilt, and till now in the hands of men who had talked of stoning her, wondering at the skill with which her accusers had been dispersed, and the grace of the few words addressed to herself, she would be disposed to listen, with a reverence and teachableness before unknown, to our Lord's admonition."
+2. "He pronounces no pardon upon the woman...much less does He say that she had done nothing condemnable; He simply leaves the matter where it was."
 3. "If brought suddenly to conviction of sin, admiration of her Deliverer, and a willingness to be admonished and guided by Him, this call to begin a new life may have carried with it what would ensure and naturally bring about a permanent change."
 
 ### Albert Barnes:
-1. "Jesus had directed them, if innocent, to cast a stone, thus to condemn her." 
+1. "Jesus had directed them, if innocent, to cast a stone, thus to condemn her, or to use the power which he gave them to condemn her."
 2. "No one of them had done that. They had accused her, but they had not proceeded to the act expressive of judicial condemnation."
+3. "They had accused her, but they had not proceeded to the act expressive of judicial condemnation."
 
 ### Philip Schaff:
-1. "The word ‘condemn,’ for which it is not possible to substitute another, conveys most imperfectly the sense of the original Greek."
+1. "The word ‘condemn,’ for which it is not possible to substitute another, conveys most imperfectly the sense of the original Greek." 
 2. "The meaning is rather, ‘Doth no man doom thee to the sentence of which they spoke?’"
 
 ### Archibald T. Robertson:
-1. "Lifted up himself (ανακυψας)."
-2. "Where are they? (Που εισιν;)."
-3. "Did no man condemn thee? (ουδεις σε κατεκρινεν;)."
+1. "Lifted up himself (ανακυψας). First aorist active participle of ανακυπτω as in verse John 8:7."
+2. "Where are they? (Που εισιν;). Jesus had kept on writing on the ground as the accusers had slipped away one by one."
+3. "Did no man condemn thee? (ουδεις σε κατεκρινεν;). First aorist active indicative of κατακρινω, old and common verb to give judgment against (down on) one, but not in John."
 
 ### John Gill:
-1. "What, not one that could take up a stone, and cast at thee?" 
-2. "Has no one offered to do unto thee what I proposed?" 
+1. "Where are those thine accusers?"
+2. "What, not one that could take up a stone, and cast at thee?"
 3. "Was there not one of them free from this sin?"
 
 ### John Wesley:
@@ -34,36 +35,40 @@ What an inimitable display of tenderness and grace from Jesus! Instead of condem
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:08:19
+- Timestamp: 12-25-2023 19:16:01
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 54.69%
-- BHT Quality Score: 1.42000086858372
+- BHT Word Count: 102
+- BHT Commentary Usage: 45.33%
+- BHT Quality Score: 1.8085522666613227
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'about', 'accusers', 'an', 'and', 'are', 'as', 'asks', 'be', 'begin', 'brought', 'by', 'call', 'caught', 'change', 'condemning', 'conviction', 'display', 'do', 'experienced', 'from', 'grace', 'guided', 'has', 'have', 'he', 'her', 'him', 'himself', 'i', 'if', 'in', 'inimitable', 'instead', 'it', 'jesus', 'leaves', 'life', 'lifts', 'matter', 'may', 'new', 'no', 'of', 'offered', 'one', 'permanent', 'proposed', 'say', 'she', 'simply', 'sin', 'tenderness', 'the', 'this', 'to', 'unto', 'up', 'was', 'what', 'where', 'willingness', 'woman', 'you']
-- ChatGPT injected words (significant words only) (29):
-	['accusers', 'asks', 'begin', 'brought', 'caught', 'change', 'condemning', 'conviction', 'display', 'experienced', 'grace', 'guided', 'inimitable', 'instead', 'jesus', 'leaves', 'life', 'lifts', 'matter', 'new', 'offered', 'permanent', 'proposed', 'simply', 'sin', 'tenderness', 'unto', 'willingness', 'woman']
+- ChatGPT injected words (75):
+	['a', 'about', 'accusers', 'admired', 'and', 'around', 'as', 'ask', 'away', 'awe', 'be', 'been', 'brought', 'but', 'by', 'call', 'change', 'condemnation', 'condemned', 'conscious', 'conviction', 'could', 'declare', 'deliverer', 'dispersed', 'doesn', 'experienced', 'guided', 'guilt', 'had', 'have', 'her', 'him', 'how', 'however', 'if', 'in', 'indicating', 'innocent', 'jesus', 'judicial', 'lasting', 'leaves', 'life', 'looked', 'matter', 'new', 'no', 'not', 'of', 'one', 'or', 'pardon', 'proceeded', 'prompting', 'rather', 'receptive', 'she', 'sin', 'slipped', 'stood', 'sudden', 't', 'teachings', 'that', 'the', 'this', 'to', 'unresolved', 'up', 'was', 'were', 'willing', 'woman', 'would']
+- ChatGPT injected words (significant words only) (41):
+	['accusers', 'admired', 'ask', 'away', 'awe', 'brought', 'change', 'condemnation', 'condemned', 'conscious', 'conviction', 'declare', 'deliverer', 'dispersed', 'doesn', 'experienced', 'guided', 'guilt', 'indicating', 'innocent', 'jesus', 'judicial', 'lasting', 'leaves', 'life', 'looked', 'matter', 'new', 'pardon', 'proceeded', 'prompting', 'receptive', 'sin', 'slipped', 'stood', 'sudden', 't', 'teachings', 'unresolved', 'willing', 'woman']
 
 ### Logs
-- Attempt 1 BHT: What a display of tenderness and grace from Jesus! He does not condemn the woman caught in sin but rather leaves the matter where it was. If she experienced conviction of sin, admiration for her Deliverer, and a willingness to be guided by Him, this call to begin a new life may have brought about a lasting change. Jesus lifts himself up and asks where her accusers are. Did no one condemn her? No one had proceeded to the act of condemning her, although they had accused her. It is as if Jesus is asking, Has no one offered to do unto you what I proposed?
-- 🔄 John 8:10 (attempt 1, 106 words, 56.58% quotes quality score: 1.4857498641792792, V2 normalized quality score: 40.74, commentator tiers 1-3: 28.84%, 40.38%, 30.78%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 2 BHT: What an inimitable display of tenderness and grace from Jesus! Instead of condemning the woman caught in sin, he simply leaves the matter where it was. If she experienced conviction of sin and a willingness to be guided by Him, this call to begin a new life may have brought about a permanent change. Jesus lifts himself up and asks where her accusers are, as if to say, Has no one offered to do unto you what I proposed?
-- 🔄 John 8:10 (attempt 2, 79 words, 54.69% quotes quality score: 1.42000086858372, V2 normalized quality score: 38.56, commentator tiers 1-3: 34.19%, 37.85%, 27.95%)
-- Attempt 3 BHT: How amazing is Jesus' tenderness and grace in this situation! Instead of condemning the woman caught in sin, He simply leaves the matter as it was. Perhaps, in that moment of conviction and admiration for her Deliverer, the call to begin a new life carried with it the power to bring about a permanent change. Jesus lifts Himself up and asks, Where are they? Did no man condemn thee? It's clear that he had directed them to condemn her by casting a stone, yet not one of them had actually done so. The word condemn doesn't fully capture the original Greek meaning, which conveys the sense of dooming someone to a sentence. So Jesus is essentially asking, Has no one sentenced you as they spoke?
-- 🔄 John 8:10 (attempt 3, 127 words, 42.86% quotes quality score: 1.5281312680074381, V2 normalized quality score: 42.15, commentator tiers 1-3: 27.51%, 42.75%, 29.74%) 
+- Attempt 1 BHT: Conscious of her own guilt and amazed by the skill with which her accusers were dispersed, the woman in John 8:10 would have been in awe and open to the teachings of Jesus. He does not explicitly pardon her or declare her innocent, but leaves the matter where it was. However, if she had a sudden conviction of sin, admiration for her Deliverer, and a willingness to be guided by Him, this call to start a new life may have brought about a permanent change. As Jesus stood up and looked around, the accusers had slipped away one by one. He then asked the woman if no one had condemned her. Essentially, Jesus was asking if no one had passed a judicial sentence on her, indicating that the accusers had not proceeded to the act of condemning her.
+- 🔄 John 8:10 (attempt 1, 137 words, 47.73% quotes quality score: 1.7725862988356047, V2 normalized quality score: 50.28, commentator tiers 1-3: 41.06%, 33.47%, 25.46%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Conscious of her own guilt and amazed by her accusers being dispersed, the woman would be inclined to listen to Jesus with reverence. While He doesn't explicitly pardon her or declare her innocence, He leaves the matter at hand. If she was convicted of sin, admired Jesus, and was willing to be guided by Him, this call to a new life could bring about a lasting change. As Jesus stood up and looked around, the accusers slipped away, leaving the woman alone. Jesus then asked if no one had condemned her, implying that the accusers had not taken the step of judicial condemnation.
+- 🔄 John 8:10 (attempt 2, 104 words, 45.33% quotes quality score: 1.781305663909001, V2 normalized quality score: 50.57, commentator tiers 1-3: 41.56%, 33.53%, 24.91%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this remarkable moment, we witness the incredible tenderness and grace of Jesus. Instead of condemning the woman, He leaves the matter untouched. This act of mercy perhaps offered her the chance for a true transformation. Elevating Himself, Jesus questions, Where are they? Did no man condemn thee? Though He had urged them to condemn her by casting a stone, not one of them had executed the act of judicial condemnation. His inquiry, Has no one sentenced you as they spoke? reveals the deeper nuance of the original Greek word for condemn.
-- 🔄 John 8:10 (attempt 4, 92 words, 41.79% quotes quality score: 1.4041903554512123, V2 normalized quality score: 38.03, commentator tiers 1-3: 25.45%, 41.01%, 33.55%) 
+- Attempt 3 BHT: Conscious of her own guilt and amazed at how her accusers had dispersed, the woman would have been receptive to Jesus' admonition. Jesus doesn't explicitly pardon her or declare her innocent, but rather leaves the matter unresolved. However, if she experienced a sudden conviction of sin, developed admiration for her Deliverer, and a willingness to be guided by Him, this call to a new life could have brought about a lasting transformation. As Jesus stood up and looked around, the accusers had slipped away one by one, leading Him to ask the woman if no one had condemned her, suggesting that the accusers had not proceeded to the act of judicial condemnation.
+- 🔄 John 8:10 (attempt 3, 113 words, 43.59% quotes quality score: 1.807929029105249, V2 normalized quality score: 51.46, commentator tiers 1-3: 42.86%, 35.42%, 21.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: How inimitable is the tenderness and grace of Jesus in this situation! He simply leaves the matter where it was instead of condemning the woman. His act of mercy may have opened the door for true transformation. Raising Himself up, Jesus asks, 'Where are they? Did no man condemn thee?' Yet not one of them had cast a stone. He inquires, 'Has no one sentenced you as they spoke?' to reveal the true meaning of the Greek word for 'condemn.' His response is nothing short of remarkable!
-- 🔄 John 8:10 (attempt 5, 87 words, 48.48% quotes quality score: 1.3946406253206027, V2 normalized quality score: 37.71, commentator tiers 1-3: 28.04%, 37.58%, 34.38%) 
+- Attempt 4 BHT: Conscious of her guilt and in awe of how her accusers were dispersed, the woman would have been receptive to Jesus' teachings. Jesus doesn't pardon or declare her innocent, but rather leaves the matter unresolved. However, if she experienced a sudden conviction of sin, admired her Deliverer, and was willing to be guided by Him, this call to a new life could have brought about a lasting change. As Jesus stood up and looked around, the accusers slipped away, prompting Him to ask the woman if no one had condemned her, indicating that the accusers had not proceeded to judicial condemnation.
+- 🔄 John 8:10 (attempt 4, 102 words, 45.33% quotes quality score: 1.8085522666613227, V2 normalized quality score: 51.48, commentator tiers 1-3: 42.44%, 35.04%, 22.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 8:10 bht prompt v0.8 (79 words, 54.69% quotes)
-- quality score: 1.42000086858372, V2 normalized quality score: 38.56, commentator tiers 1-3: 34.19%, 37.85%, 27.95%)
+- Attempt 5 BHT: Aware of her guilt and amazed at her accusers being dispersed, the woman would have listened with reverence to Jesus' admonition. He doesn't pardon her or declare her innocent, but instead leaves the situation unresolved. If she experienced a sudden conviction of sin, admiration for her Deliverer, and a willingness to be guided by Him, this call to a new life could have resulted in a lasting transformation. As Jesus stood up and looked around, the accusers disappeared one by one, prompting Him to ask the woman if no one had condemned her, suggesting that the accusers had not proceeded to a judicial sentence.
+- 🔄 John 8:10 (attempt 5, 105 words, 43.24% quotes quality score: 1.751056564239974, V2 normalized quality score: 49.56, commentator tiers 1-3: 42.53%, 34.73%, 22.74%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 8:10 bht prompt v0.8 (102 words, 45.33% quotes)
+- quality score: 1.8085522666613227, V2 normalized quality score: 51.48, commentator tiers 1-3: 42.44%, 35.04%, 22.52%)

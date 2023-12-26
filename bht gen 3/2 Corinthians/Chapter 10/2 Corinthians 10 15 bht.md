@@ -1,47 +1,48 @@
 # 2 Corinthians 10:15 Commentary Help Text
 
 ## BHT:
-Their hope is not to boast excessively or go beyond their appointed boundaries, but rather to be enlarged among the Corinthians as their faith grows. They do not seek to rely on the labors of others or exceed their own measure. Instead, they aim to go even further in their ministry, guided by God's measuring line. The progress of the Corinthians will be a vital step towards reaching regions beyond, and their success will magnify the apostle's work.
+As our faith grows, we should not boast excessively in the work of others but hope to be enlarged according to our measure. Let us not stretch ourselves beyond our bounds or exceed them by boasting about what others have achieved. Instead, may our effectiveness as messengers of the Gospel increase as your faith grows. Our success in your case will serve as a catalyst for further progress and enlargement in our work, all in accordance with our God-given assignment.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Not boasting without measure in other men’s labours (the element of the boasting); but having a hope, as your faith increaseth, to be enlarged among you according to our rule." 
-2. "We seek not to stretch ourselves (beyond it) unto great abundance."
-3. "So as to abound more than we now do."
+1. "not boasting without measure in other men’s labours... but having a hope, as your faith increaseth, to be enlarged among you according to our rule." 
+2. "we seek not to stretch ourselves (beyond it) unto great abundance."
+3. "so as to abound more than we now do."
 
 ### Jamieson-Fausset-Brown:
 1. "Not boasting to unmeasured bounds (that is, not exceeding our own bounds by boasting) of (literally, 'in') other men's labors."
-2. "The cause of his not yet reaching with the Gospel the regions beyond Corinth, was the weakness as yet of their faith."
-3. "Our success in your case will give us an important step towards further progress beyond you."
+2. "Our success in your case will give us an important step towards further progress beyond you."
+3. "according to our divinely assigned apportionment of the area or sphere of our work; for 'we stretch not ourselves beyond our measure.'"
 
 ### Albert Barnes:
-1. "Not boasting of things without our measure... That required a species of boldness to which he could lay no claim; and he did not assume honor to himself like that." 
-2. "Not intruding into churches which we did not establish, and claiming the right to direct their affairs, and to exclude the founders from all proper honors and all influence, and endeavoring to alienate the affections of Christians from their spiritual father and guide."
-3. "So far from a desire to enter into the labors of others and quietly enjoying the avails of their industry; and so far even from a desire to sit down ourselves and enjoy the fruit of our own labors, I desire to penetrate other untrodden regions; to encounter new dangers; to go where the gospel has not been planted, and to rear other churches there."
+1. "I desire to penetrate other untrodden regions; to encounter new dangers; to go where the gospel has not been planted, and to rear other churches there."
+2. "When your faith is increased - When you become so strong as not to need my presence and my constant care; and when you shall be able to speed me on my way and to aid me on my journey."
+3. "He wished them to enlarge or magnify him by introducing him to larger fields of action; by giving him a wider sphere of labor."
 
 ### Marvin Vincent:
 1. "He who can work far off is a man of great stature, who, without overstretching himself, reaches afar" (Meyer).
 2. "His wider labors will still be regulated by God's measuring - line."
+3. "Paul means that, as the faith of the Corinthians increases, he hopes that his apostolic efficiency will increase."
 
 ### John Calvin:
-1. "Those persons afterwards come forward, and find the road made and the gate open. That they may appear persons of consequence, they impudently claim for themselves what did not of right belong to them, and disparage Paul’s labors."
-2. "I ought now to have been employed in gaining over new Churches, and that too with your assistance, if you had made as much proficiency as you ought to have done; but now you retard me by your infirmity."
+1. "They impudently claim for themselves what did not of right belong to them, and disparage Paul’s labors."
+2. "The weakness of faith...was the reason, why his career had been somewhat retarded."
 3. "To glory in things that have been prepared is equivalent to glorying in the labors of others; for, while Paul had fought the battle, they enjoyed the triumph."
 
 ### Philip Schaff:
-1. "Be encouraged by our success with you to extend our labours."
-2. "Preach the gospel even unto the parts beyond you."
-3. "Do not glory in another's line of things made ready to our hand."
+1. "not glorying ... in other men’s labours, but having hope that, as your faith groweth, we shall be magnified in you"
+2. "be encouraged by our success with you to extend our labours"
+3. "not to glory in another’s line of things made ready to our hand"
 
 ### Archibald T. Robertson:
-1. "In other men's labours." 
-2. "As your faith groweth." 
-3. "We shall be magnified."
+1. "As your faith groweth (αυξανομενης της πιστεως). Genitive absolute of the present passive participle of αυξανω, to grow."
+2. "We shall be magnified (μεγαλυνθηνα). First aorist passive infinitive of μεγαλυνω, old verb (Luke 1:46) to make great (cf. Philippians 1:20 of Christ)."
+3. "Indirect discourse after ελπιδα (hope) with the construction of ελπιζω, to hope."
 
 ### John Gill:
-1. "They did not boast of other men's labours, as did the false apostles."
-2. "The apostle hoped... that they should be enlarged through their means."
-3. "If their church state were in a better and a more settled condition... it would serve to recommend it to other places beyond them."
+1. "When they boasted of the Corinthians as their converts and children, whom they had begotten through the Gospel of Christ, they did not boast of other men's labours, as did the false apostles."
+2. "The apostle hoped... that when the faith of the Corinthians was grown stronger... they should be enlarged..."
+3. "The weakness of their faith, and the disorders and divisions that were among them, were a hinderance to the spread of the Gospel."
 
 ### John Wesley:
 1. Having hope, now your faith is increased — So that you can the better spare us.
@@ -51,38 +52,36 @@ To be enlarged by you abundantly — That is, enabled by you to go still further
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:17:54
+- Timestamp: 12-25-2023 19:33:23
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 46.55%
-- BHT Quality Score: 1.9053006807992503
+- BHT Word Count: 81
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 2.0600946435736462
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'aim', 'among', 'and', 'apostle', 'appointed', 'as', 'be', 'beyond', 'boast', 'boundaries', 'but', 'by', 'corinthians', 'do', 'enlarged', 'even', 'exceed', 'excessively', 'faith', 'further', 'go', 'god', 'grows', 'guided', 'hope', 'in', 'instead', 'is', 'labors', 'line', 'magnify', 'measure', 'measuring', 'ministry', 'not', 'of', 'on', 'or', 'others', 'own', 'progress', 'rather', 'reaching', 'regions', 'rely', 's', 'seek', 'step', 'success', 'the', 'their', 'they', 'to', 'towards', 'vital', 'will', 'work']
-- ChatGPT injected words (significant words only) (31):
-	['aim', 'apostle', 'appointed', 'boast', 'boundaries', 'corinthians', 'enlarged', 'exceed', 'excessively', 'faith', 'god', 'grows', 'guided', 'hope', 'instead', 'labors', 'line', 'magnify', 'measure', 'measuring', 'ministry', 'progress', 'reaching', 'regions', 'rely', 's', 'seek', 'step', 'success', 'vital', 'work']
+- ChatGPT injected words (60):
+	['a', 'about', 'accordance', 'according', 'achieved', 'all', 'and', 'as', 'assignment', 'be', 'beyond', 'boast', 'boasting', 'bounds', 'but', 'by', 'case', 'catalyst', 'effectiveness', 'enlarged', 'enlargement', 'exceed', 'excessively', 'faith', 'for', 'further', 'given', 'god', 'gospel', 'grows', 'have', 'hope', 'in', 'increase', 'instead', 'let', 'may', 'measure', 'messengers', 'not', 'of', 'or', 'others', 'our', 'ourselves', 'progress', 'serve', 'should', 'stretch', 'success', 'the', 'them', 'to', 'us', 'we', 'what', 'will', 'with', 'work', 'your']
+- ChatGPT injected words (significant words only) (30):
+	['accordance', 'according', 'achieved', 'assignment', 'boast', 'boasting', 'bounds', 'case', 'catalyst', 'effectiveness', 'enlarged', 'enlargement', 'exceed', 'excessively', 'faith', 'given', 'god', 'gospel', 'grows', 'hope', 'increase', 'instead', 'let', 'measure', 'messengers', 'progress', 'serve', 'stretch', 'success', 'work']
 
 ### Logs
-- Attempt 1 BHT: Not boasting excessively about the work of others, but having a hopeful expectation that as their faith grows, they will be able to expand their service among them according to the limits set by God. Their desire is not to go beyond what is necessary, but to go even farther than their current level of ministry. Their confidence in the Corinthians' faith is vital, as their progress in the faith will open doors for the apostle to reach other regions. Their intention is not to claim the accomplishments of others or overstep their boundaries, but to be magnified through the Corinthians' growth.
-- 🔄 2 Corinthians 10:15 (attempt 1, 102 words, 43.08% quotes quality score: 1.830801196717717, V2 normalized quality score: 52.22, commentator tiers 1-3: 30.73%, 37.46%, 31.81%) 
+- Attempt 1 BHT: As our faith grows, we should not boast excessively about the work done by others. Rather, our hope should be to expand our own efforts in accordance with the measure allotted to us. We should not strive to go beyond what is appropriate, but rather seek to abound in our own sphere of influence. As our faith increases, our effectiveness as messengers of the Gospel will also increase. May our faith be strengthened so that we may contribute to the enlargement of the Kingdom and be magnified in the eyes of others, all to the glory of God.
+- 🔄 2 Corinthians 10:15 (attempt 1, 98 words, 50.0% quotes quality score: 1.9548587486447482, V2 normalized quality score: 56.34, commentator tiers 1-3: 37.94%, 36.14%, 25.92%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 2 BHT: As our faith grows, we should not boast excessively about the work done by others. Rather, our hope should be to expand our own efforts in accordance with the measure allotted to us. We should not strive to go beyond what is appropriate, but rather seek to abound in our own sphere of influence. May our faith increase and our effectiveness as messengers of the Gospel improve, contributing to the enlargement of the Kingdom and the magnification of our work.
+- 🔄 2 Corinthians 10:15 (attempt 2, 80 words, 49.02% quotes quality score: 1.9437927608951644, V2 normalized quality score: 55.97, commentator tiers 1-3: 39.2%, 36.08%, 24.72%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: As our faith increaseth, we should not boast beyond our measure, but rather hope to be enlarged according to our rule. Let us not stretch ourselves to great abundance or exceed our bounds by boasting in the labors of others. Instead, may our success among you be a stepping stone towards further progress and the widening of our impact. Let our wider labors be regulated by God's measuring line as our efficiency as messengers of the Gospel increases along with your growing faith.
+- 🔄 2 Corinthians 10:15 (attempt 3, 84 words, 45.16% quotes quality score: 2.1905532258507705, V2 normalized quality score: 64.18, commentator tiers 1-3: 40.11%, 34.55%, 25.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Not boasting excessively, but with a hopeful anticipation, they look forward to being enabled by the Corinthians' increased faith to expand their work among them. Their desire is not to go beyond what is necessary, but to radiate even more abundantly than before. They do not seek to claim the achievements of others or exceed the boundaries set by God's measure. Their success in the Corinthians' case will serve as a significant step towards further progress in reaching regions beyond.
-- 🔄 2 Corinthians 10:15 (attempt 2, 81 words, 46.77% quotes quality score: 1.7860314712943621, V2 normalized quality score: 50.73, commentator tiers 1-3: 34.26%, 35.85%, 29.88%) 
+- Attempt 4 BHT: As our faith grows, we should not boast excessively in the work of others but hope to be enlarged according to our measure. Let us not stretch ourselves beyond our bounds or exceed them by boasting about what others have achieved. Instead, may our effectiveness as messengers of the Gospel increase as your faith grows. Our success in your case will serve as a catalyst for further progress and enlargement in our work, all in accordance with our God-given assignment.
+- 🔄 2 Corinthians 10:15 (attempt 4, 81 words, 50.0% quotes quality score: 2.0600946435736462, V2 normalized quality score: 59.84, commentator tiers 1-3: 38.76%, 33.48%, 27.76%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 5 BHT: Let us not boast immoderately in the labors of others, but rather hope to be enlarged in our own sphere of work as our faith increases. It is important to not surpass our measure or strive for excessive abundance. Instead, we should seek to expand our impact in accordance with the rule appointed by God. As we witness the growth of faith in others, may we be magnified and encouraged to extend our labors, contributing to the advancement of the Kingdom.
+- 🔄 2 Corinthians 10:15 (attempt 5, 81 words, 41.82% quotes quality score: 2.011761497050995, V2 normalized quality score: 58.23, commentator tiers 1-3: 39.01%, 36.39%, 24.6%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Their hope is not to boast excessively or go beyond the limits, but to be enlarged among the Corinthians as their faith grows. They seek to surpass their current level of ministry without overstepping their boundaries or relying on the labor of others. The apostle's intention is to go even further and reach regions beyond Corinth, while still being guided by God's measure. The Corinthians' progress in faith will contribute to their own magnification and the opportunity for greater ministry expansion.
-- 🔄 2 Corinthians 10:15 (attempt 3, 83 words, 46.67% quotes quality score: 1.8663663429882082, V2 normalized quality score: 53.4, commentator tiers 1-3: 34.27%, 34.25%, 31.48%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Their hope is not to boast excessively or exceed their own boundaries, but rather to be enlarged and expanded among the Corinthians as their faith increases. They aim to go beyond their current level of ministry, not by boasting in the work of others, but by relying on the progress of the Corinthians. The apostle seeks to reach regions beyond Corinth, guided by God's measure, and their success will serve as an important step towards further progress. Through the Corinthians' growth, the apostle will be magnified in his work.
-- 🔄 2 Corinthians 10:15 (attempt 4, 90 words, 45.0% quotes quality score: 1.87096021922385, V2 normalized quality score: 53.55, commentator tiers 1-3: 35.83%, 33.94%, 30.24%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Their hope is not to boast excessively or go beyond their appointed boundaries, but rather to be enlarged among the Corinthians as their faith grows. They do not seek to rely on the labors of others or exceed their own measure. Instead, they aim to go even further in their ministry, guided by God's measuring line. The progress of the Corinthians will be a vital step towards reaching regions beyond, and their success will magnify the apostle's work.
-- 🔄 2 Corinthians 10:15 (attempt 5, 80 words, 46.55% quotes quality score: 1.9053006807992503, V2 normalized quality score: 54.69, commentator tiers 1-3: 36.05%, 33.4%, 30.55%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 2 Corinthians 10:15 bht prompt v0.8 (80 words, 46.55% quotes)
-- quality score: 1.9053006807992503, V2 normalized quality score: 54.69, commentator tiers 1-3: 36.05%, 33.4%, 30.55%)
+- ✅ 2 Corinthians 10:15 bht prompt v0.8 (81 words, 50.0% quotes)
+- quality score: 2.0600946435736462, V2 normalized quality score: 59.84, commentator tiers 1-3: 38.76%, 33.48%, 27.76%)

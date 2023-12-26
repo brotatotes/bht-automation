@@ -1,57 +1,57 @@
 {
-    "timestamp": "12-19-2023 16:09:31",
+    "timestamp": "12-25-2023 19:22:35",
     "verseRef": "Romans 14:2",
     "bestBHT": {
-        "bht": "In this context, Paul addresses believers who hold differing views on food restrictions. Some have the faith to eat all things, while others, with weaker faith, restrict themselves to a vegetarian diet. The concerns of the weaker believers may be rooted in the fear of consuming food offered to idols, deeming it unclean. Paul emphasizes the importance of respecting these differences, avoiding the imposition of personal convictions. Unity among believers is fostered through understanding and acceptance of these variations in practice.",
-        "wordCount": 81,
-        "quoteTokenProportion": 37.7,
-        "qualityScore": 1.7862155520768064,
-        "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+        "bht": "There are believers who have faith to eat all things, considering them lawful, while others, who are weak, confine themselves to a vegetable diet out of fear of eating anything offered to idols. This discrepancy in beliefs can lead to disagreements among believers, as those with more robust faith may not understand or respect the dietary restrictions of their weaker counterparts.",
+        "wordCount": 61,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 2.222510807097056,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.24,
         "commentatorTierSimilarities": [
-            29.52,
-            37.13,
-            33.36
+            27.9,
+            37.79,
+            34.31
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "2. eateth herbs] See remarks introductory to this chapter."
         ],
         "Jamieson-Fausset-Brown": [
-            "one believeth that he may eat all things\u2014See Acts 10:16.\" ",
-            "another, who is weak, eateth herbs\u2014restricting himself probably to a vegetable diet",
-            "for fear of eating what might have been offered to idols, and so would be unclean."
+            "one believeth that he may eat all things\u2014See Acts 10:16.",
+            "another, who is weak, eateth herbs\u2014restricting himself probably to a vegetable diet, for fear of eating what might have been offered to idols, and so would be unclean.",
+            "See 1 Corinthians 8:1-13"
         ],
         "Albert Barnes": [
-            "He will not be restrained by any scruples about the lawfulness of certain meats, etc.",
-            "The scruples of the Jews on the subject might have arisen in part from the fact that sins of 'ignorance' among them subjected them to certain penalties.",
-            "They chose to eat no meat at all. The scruples of the Jews on the subject might have arisen in part from the fact that sins of 'ignorance' among them subjected them to certain penalties."
+            "For one believeth - This was the case with the Gentiles in general, who had none of the scruples of the Jew about the propriety of eating certain kinds of meat.",
+            "May eat all things - That is, he will not be restrained by any scruples about the lawfulness of certain meats, etc.",
+            "Eateth herbs - Herbs or 'vegetables' only; does not partake of meat at all, for 'fear' of eating that, inadvertently, which had been offered to idols."
         ],
         "Marvin Vincent": [
-            "Believeth that he may eat... hath faith to eat.",
-            "The point is the strength or weakness of the man's faith as it affects his eating.",
+            "Believeth that he may eat. The point is the strength or weakness of the man's faith as it affects his eating.\" ",
+            "Hence Rev., correctly, hath faith to eat.\" ",
             "Herbs grown on land cultivated by digging: garden-herbs, vegetables."
         ],
         "John Calvin": [
-            "That I take the infinitive for an imperative, ought not to appear unnatural nor strained, for it is a mode of speaking very usual with Paul.",
             "It is not right that he who freely eats all things, as he believes them to be lawful, should require those, who are yet tender and weak in faith, to walk by the same rule.",
-            "It appears evident that the abstinence here referred to did arise from what was regarded to be the will of God."
+            "The relative \u1f43\u03c2, when repeated, often means 'one', as in Romans 13:5, and in 1 Corinthians 11:21: and the article \u1f41 stands here for that repetition; an example of which Raphelius adduces from the Greek classics.",
+            "It indeed appears evident, that the abstinence here referred to did arise from what was regarded to be the will of God: and though abstinence from all animal food was not enjoined on the Jews, yet it appears from history that Jews, living among heathens, wholly abstained, owing to the fear they had of being in any way contaminated."
         ],
         "Philip Schaff": [
             "One has a confidence resulting from faith which permits him to eat every kind of food.",
-            "This is best taken in its exact sense; the scruple was such that only vegetables were eaten.",
+            "The scruple was such that only vegetables were eaten.",
             "Such believers are apt to differ among themselves, as well as with their stronger brethren."
         ],
         "Archibald T. Robertson": [
-            "This one,\" demonstrative pronoun \u03bf\u03c2 with \u03bc\u03b5\u03bd. (5 words)",
-            "Hath faith.\" Like \u03b5\u03c7\u03b5 \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd (Acts 14:9). (7 words)",
-            "Paul has in mind a party of vegetarians in Rome.\" (9 words)"
+            "One man (\u03bf\u03c2 \u03bc\u03b5\u03bd)... Hath faith (\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b5).\" ",
+            "But he that is weak (\u03bf \u03b4\u03b5 \u03b1\u03c3\u03b8\u03b5\u03bd\u03c9\u03bd). One would expect \u03bf\u03c2 \u03b4\u03b5 (but that one) in contrast with \u03bf\u03c2 \u03bc\u03b5\u03bd.",
+            "Herbs (\u03bb\u03b1\u03c7\u03b1\u03bd\u03b1). From \u03bb\u03b1\u03c7\u03b1\u03bd\u03c9, to dig. Hence garden herbs or vegetables."
         ],
         "John Gill": [
-            "He is fully persuaded in his mind, that there is nothing in itself common, or unclean; that the difference between clean and unclean meats, commanded to be observed by the law of Moses, is taken away; and that he may now lawfully eat any sort of food.\" ",
+            "He is fully persuaded in his mind, that there is nothing in itself common, or unclean; that the difference between clean and unclean meats, commanded to be observed by the law of Moses, is taken away; and that he may now lawfully eat any sort of food; every creature of God being good, and none to be refused.\" ",
             "Another who is weak eateth herbs; meaning not one that is sickly and unhealthful, and of a weak constitution, and therefore eats herbs for health's sake; but one that is weak in the faith, and who thinks that the laws concerning the observance of meats and drinks are still in force.",
-            "...rather than break any of them, and that he may be sure he does not, will eat nothing but herbs, which are not any of them forbidden by the law."
+            "Either as choosing rather to live altogether on herbs, than to eat anything which the law forbids; or being of opinion with the Essenes among the Jews, and the Pythagoreans among the Gentiles, who thought they were to abstain from eating of all sorts of animals."
         ],
         "John Wesley": [
             "All things \u2014 All sorts of food, though forbidden by the law."
@@ -74,67 +74,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Romans 14:2, Paul addresses the issue of eating certain foods. Some believers have the faith to eat anything, while others, who are weaker in faith, choose to eat only vegetables. This distinction is not about personal preference, but about the strength or weakness of one's faith. The vegetarians are likely concerned about eating food that may have been offered to idols. Paul acknowledges that there are disagreements among these believers, including those who freely eat all things and those who adhere to a stricter diet. The scruples of the Jewish believers may have arisen from their understanding of the law and the penalties for sins of ignorance. Ultimately, Paul encourages these believers to respect one another's differences and not impose their own convictions on others.",
-            "wordCount": 127,
-            "quoteTokenProportion": 42.68,
-            "qualityScore": 1.8835836803573764,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "bht": "Some believers have the faith to eat any kind of food, believing that all things are lawful for them. On the other hand, there are those who are weak in faith and choose to restrict themselves to a vegetable diet, out of fear of eating anything that may have been offered to idols. They believe that certain foods are unclean and must be avoided. This difference in beliefs can lead to disagreements among believers, as those with stronger faith may not understand or respect the dietary restrictions of those who are weaker in faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 2.1689626143658876,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.46,
             "commentatorTierSimilarities": [
-                26.64,
-                39.16,
-                34.2
+                24.69,
+                37.2,
+                38.11
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, Paul discusses the issue of food restrictions among believers. Some have the faith to eat anything, while others, who are weaker in faith, stick to a vegetable diet. These differences are not about personal preferences, but rather the strength or weakness of one's faith. The vegetarians may be concerned about eating food offered to idols. Paul urges believers to respect each other and not impose their own convictions on others. It is essential for unity among believers to accept and understand these differences.",
-            "wordCount": 87,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 1.7599255733821972,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "bht": "Some believers have the faith to eat any kind of food, considering all things lawful. On the other hand, there are those who are weak in faith and restrict themselves to a vegetarian diet, fearing that certain foods may have been offered to idols. This difference in beliefs can lead to disagreements among believers, as those with stronger faith may not understand or respect the dietary restrictions of those who are weaker in faith.",
+            "wordCount": 74,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.2083724107412577,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.77,
             "commentatorTierSimilarities": [
-                32.01,
-                35.39,
-                32.59
+                25.42,
+                37.07,
+                37.51
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul addresses the matter of food restrictions among believers in Romans 14:2. While some have faith allowing them to eat anything, others with weaker faith stick to a vegetable diet. Paul notes that the vegetarians may be cautious about eating food offered to idols. He advises believers to respect each other's differences and avoid imposing personal convictions on others. Unity among believers relies on accepting and understanding these differing viewpoints.",
-            "wordCount": 70,
-            "quoteTokenProportion": 40.35,
-            "qualityScore": 1.8127290264075513,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "bht": "There are believers who have faith to eat all things, considering them lawful, while others, who are weak, confine themselves to a vegetable diet out of fear of eating anything offered to idols. This discrepancy in beliefs can lead to disagreements among believers, as those with more robust faith may not understand or respect the dietary restrictions of their weaker counterparts.",
+            "wordCount": 61,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.222510807097056,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.24,
             "commentatorTierSimilarities": [
-                31.33,
-                34.88,
-                33.79
+                27.9,
+                37.79,
+                34.31
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this context, Paul discusses the distinction between believers who have the faith to eat all things and those who, due to weaker faith, limit themselves to a vegetarian diet. The concern of the weaker believers may stem from the fear of consuming food offered to idols, thus considering it unclean. It is crucial for those with stronger faith to respect and accommodate the weaker brethren, refraining from imposing their own convictions on them. Unity and harmony among believers can be achieved by understanding and accepting these differences.",
-            "wordCount": 88,
-            "quoteTokenProportion": 46.15,
-            "qualityScore": 1.768165574271071,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "bht": "Some believers have faith that allows them to eat all kinds of food without any restrictions, while others, who are weaker in faith, limit themselves to eating only herbs or vegetables. This might be because they fear accidentally consuming something that has been offered to idols and thus becoming unclean. The difference lies in the strength or weakness of their faith and how it impacts their eating habits. The believers with stronger faith have confidence and freedom to partake in any type of food, while the weaker ones restrict themselves to herbs. These differing perspectives can lead to disagreements and divisions among believers.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9414287527216274,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
             "commentatorTierSimilarities": [
-                29.35,
-                38.77,
-                31.88
+                27.72,
+                38.4,
+                33.88
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this context, Paul addresses believers who hold differing views on food restrictions. Some have the faith to eat all things, while others, with weaker faith, restrict themselves to a vegetarian diet. The concerns of the weaker believers may be rooted in the fear of consuming food offered to idols, deeming it unclean. Paul emphasizes the importance of respecting these differences, avoiding the imposition of personal convictions. Unity among believers is fostered through understanding and acceptance of these variations in practice.",
-            "wordCount": 81,
-            "quoteTokenProportion": 37.7,
-            "qualityScore": 1.7862155520768064,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "bht": "Some believers have faith to eat all things, while others, who are weaker, eat only herbs, possibly out of fear of consuming food offered to idols. The difference lies in the strength or weakness of their faith and how it affects their diet. Those with strong faith have the freedom to eat all kinds of food, while the weaker ones restrict themselves to herbs. These different beliefs can lead to disagreements and divisions among believers.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.0291180107176015,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
             "commentatorTierSimilarities": [
-                29.52,
-                37.13,
-                33.36
+                28.57,
+                37.76,
+                33.67
             ],
             "generationAttempt": 5
         }

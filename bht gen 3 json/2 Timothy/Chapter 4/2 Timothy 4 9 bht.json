@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 17:31:20",
+    "timestamp": "12-25-2023 19:29:25",
     "verseRef": "2 Timothy 4:9",
     "bestBHT": {
-        "bht": "In his letter, Paul shares that Demas had deserted him, driven by love for this present world, while Mark was recognized as someone useful for the ministry and was to be brought along with Timothy. Paul also sent Tychicus to Ephesus. Urging Timothy to come to him, Paul sought comfort and strength from their personal interaction rather than relying solely on written correspondence. He emphasized the importance of gathering together before winter arrived, demonstrating the significance of face-to-face conversations for the benefit of the church.",
-        "wordCount": 87,
-        "quoteTokenProportion": 41.18,
-        "qualityScore": 1.6586309178547258,
-        "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+        "bht": "Paul's call for Timothy to come to him demonstrates the significance of their conference and the importance of carrying on the Gospel work. Paul asks Timothy to diligently and hastily come to him, as his death approaches. This request is not solely motivated by Paul's desire to see Timothy, but rather to discuss matters related to the care of the churches and the interest of Christ. Timothy's presence would bring both comfort and strength to Paul, while also ensuring the continuation of the Gospel work after Paul's passing.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.06493628383262,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.0,
         "commentatorTierSimilarities": [
-            32.53,
-            22.87,
-            44.6
+            27.55,
+            39.92,
+            32.53
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Demas deserted me, loving this present world, and went to Thessalonica.",
-            "Mark take up and bring with thee: for he is to me useful for the ministry.",
-            "Tychicus I sent to Ephesus."
+            "Demas deserted me, loving this present world.",
+            "Luke is alone with me.",
+            "Mark, take up and bring with thee: for he is to me useful for the ministry."
         ],
         "Jamieson-Fausset-Brown": [
             "9. (2 Timothy 4:21;",
@@ -28,27 +28,27 @@
             "\tdecease."
         ],
         "Albert Barnes": [
-            "As soon as possible.",
-            "It is evident from this that he did not regard him as the prelatical 'bishop of the church of the Ephesians.'",
-            "It is probable that Timothy would obey such a summons."
+            "Timothy had been Paul\u2019s traveling companion, and was his intimate friend.",
+            "It is not certainly known for what purpose he wished him to come to him, but perhaps he desired to give him some parting counsels; perhaps he wished him to be near him when he died.",
+            "It is evident from this that he did not regard him as the prelatical 'bishop of the church of the Ephesians,' or consider that he was so confined to that place in his labors, that he was not also to go to other places if he was called in the providence of God."
         ],
         "Marvin Vincent": [
             "Do thy diligence. Earnestly endeavor.",
-            "Do diligence and give diligence.",
-            "And ech of hem doth al his diligence."
+            "Do diligence and give diligence are old English phrases.",
+            "And ech of hem doth al his diligence To doon unto the feste reverence."
         ],
         "John Calvin": [
             "Undoubtedly there must have been no trivial reason why he called him away from a church over which he presided, and at so great a distance.",
             "Hence we may infer how highly important are conferences between such persons; for what Timothy had learned in a short space of time would be profitable, for a long period, to all the churches.",
-            "It appears from what follows, that Paul called Timothy with a view to his own individual benefit likewise; although his own personal matters were not preferred by him to the advantage of the Church, but it was because it involved the cause of the gospel, which was common to all believers."
+            "Paul called Timothy with a view to his own individual benefit likewise; although his own personal matters were not preferred by him to the advantage of the Church, but it was because it involved the cause of the gospel, which was common to all believers."
         ],
         "Archibald T. Robertson": [
             "Shortly (\u03c4\u03b1\u03c7\u03b5\u03c9\u03c2). In verse 2 Timothy 4:21 he more definitely says \"before winter.\" Apparently the trial might drag on through its various stages. "
         ],
         "John Gill": [
-            "this request did not arise purely from a desire of seeing Timothy, but rather because he had some things to say to him, relating to the care of the churches",
-            "he chose not to write with ink and paper",
-            "he desires the rather that he would use diligence, and hasten his coming to him; partly because winter was coming on, when travelling would not be so safe and comfortable"
+            "This request did not arise purely from a desire of seeing Timothy, but rather because he had some things to say to him, relating to the care of the churches and the good of the interest of Christ.",
+            "He desires [...] that he would use diligence, and hasten his coming to him [...] because the time of his death was at hand.",
+            "He was almost alone."
         ],
         "John Wesley": [
             "Come to me \u2014 Both that he might comfort him, and be strengthened by him. Timotheus himself is said to have suffered at Ephesus."
@@ -71,67 +71,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Demas, who had left Paul out of love for this present world, had gone to Thessalonica, while Mark was to be taken up and brought with Timothy since he would be useful for the ministry. Tychicus had been sent to Ephesus. In this verse, Paul urges Timothy to come to him, not only to provide comfort but also to be strengthened for continuing the Gospel work. Paul does not want to rely solely on writing, but desires a personal conference with Timothy before winter arrives, highlighting the importance of face-to-face conversations for the benefit of the church.",
-            "wordCount": 99,
-            "quoteTokenProportion": 40.58,
-            "qualityScore": 1.660569429725089,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "bht": "Timothy is asked to come to be a comfort to Paul and to be strengthened by him for carrying on the Gospel work after Paul's death. Paul urges Timothy to be diligent in coming to him, giving his full effort and haste. Timothy had been Paul's traveling companion and close friend, and it is not certain why Paul wants him to come. Perhaps Paul desires to give him some parting counsels or to have him nearby in his final days. Regardless, Paul saw the importance of their conference and how what Timothy learned would benefit the churches in the long run. It is evident that Paul called Timothy away from the church in Ephesus, where he presided, for significant reasons.",
+            "wordCount": 122,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 2.125198594651909,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.0,
             "commentatorTierSimilarities": [
-                34.48,
-                20.64,
-                44.88
+                24.3,
+                43.88,
+                31.82
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In his letter, Paul shares that Demas had deserted him, driven by love for this present world, while Mark was recognized as someone useful for the ministry and was to be brought along with Timothy. Paul also sent Tychicus to Ephesus. Urging Timothy to come to him, Paul sought comfort and strength from their personal interaction rather than relying solely on written correspondence. He emphasized the importance of gathering together before winter arrived, demonstrating the significance of face-to-face conversations for the benefit of the church.",
-            "wordCount": 87,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 1.6586309178547258,
-            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "bht": "Paul's call for Timothy to come to him demonstrates the significance of their conference and the importance of carrying on the Gospel work. Paul asks Timothy to diligently and hastily come to him, as his death approaches. This request is not solely motivated by Paul's desire to see Timothy, but rather to discuss matters related to the care of the churches and the interest of Christ. Timothy's presence would bring both comfort and strength to Paul, while also ensuring the continuation of the Gospel work after Paul's passing.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.06493628383262,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
             "commentatorTierSimilarities": [
-                32.53,
-                22.87,
-                44.6
+                27.55,
+                39.92,
+                32.53
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul informs that Demas had left him due to his love for this present world, and had gone to Thessalonica. On the other hand, Mark was deemed useful for the ministry and was requested to be brought along by Timothy. Paul had sent Tychicus to Ephesus. Paul earnestly exhorts Timothy to come to him and mentions the need for a personal meeting to provide comfort and strengthen their efforts for the Gospel work. Paul desires their gathering before winter as face-to-face conversations hold great value for the church's welfare.",
-            "wordCount": 92,
-            "quoteTokenProportion": 31.25,
-            "qualityScore": 1.6212362329271048,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "bht": "Paul's urgent call for Timothy to join him reveals the importance of their meeting and the need for Timothy's support and strengthening. Paul implores Timothy to be diligent and hasten his arrival as the time of his death is near. Their conference holds great significance, not only for their personal interaction, but also for the benefit of the churches and the cause of the gospel. Paul's request to have Timothy by his side demonstrates the deep bond and shared commitment between them in spreading the message of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.853540046388416,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
             "commentatorTierSimilarities": [
-                36.58,
-                22.56,
-                40.86
+                26.38,
+                39.96,
+                33.67
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul discloses that Demas had deserted him, drawn away by his affection for the present world, and had journeyed to Thessalonica. Contrarily, Mark had proven to be of great usefulness for the ministry and was advised to accompany Timothy. Furthermore, Tychicus had been dispatched to Ephesus. Paul ardently urges Timothy to promptly join him, seeking solace and renewed strength as they carry out the work of spreading the Gospel. Paul stresses the importance of personal interaction and impels Timothy to come before the arrival of winter.",
-            "wordCount": 86,
-            "quoteTokenProportion": 27.87,
-            "qualityScore": 1.5601356433680433,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "bht": "Paul urgently summons Timothy to be with him, emphasizing the gravity and purpose of their meeting. He implores Timothy to diligently and expeditiously come, as Paul's earthly life is drawing to a close. Their gathering holds great significance, benefiting not only Timothy personally but also the overall work of spreading the gospel. By asking Timothy to join him, Paul displays the deep connection between them and the importance of their shared commitment to the Church and the gospel message.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9299398742856035,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.51,
             "commentatorTierSimilarities": [
-                36.96,
-                23.05,
-                39.99
+                29.45,
+                39.3,
+                31.25
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this passage, Paul reveals that Demas had left him, being captivated by the allure of this present world, and had traveled to Thessalonica. However, Mark was deemed valuable for the ministry and was asked to accompany Timothy. Tychicus had been sent to Ephesus. Urgently, Paul entreats Timothy to come to him, desiring both comfort and reinforcement in their Gospel work. Paul emphasizes the significance of personal connection, urging Timothy to hasten his arrival before the winter season.",
-            "wordCount": 78,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.6026981825384932,
-            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+            "bht": "Paul's call for Timothy's presence conveys the weightiness of their meeting and the urgency of Timothy's arrival as Paul's life is nearing its end. Paul urges Timothy to diligently and promptly come, recognizing the significance of their gathering in terms of personal and broader gospel ministry. Their conference would offer mutual comfort, while also equipping Timothy to continue the work after Paul's departure. This request illuminates the strong bond and shared dedication between Paul and Timothy in advancing the cause of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8975901061234373,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
             "commentatorTierSimilarities": [
-                35.41,
-                24.13,
-                40.47
+                28.89,
+                41.21,
+                29.9
             ],
             "generationAttempt": 5
         }

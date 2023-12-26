@@ -1,44 +1,44 @@
 {
-    "timestamp": "12-19-2023 15:17:15",
+    "timestamp": "12-25-2023 19:30:02",
     "verseRef": "2 Corinthians 8:18",
     "bestBHT": {
-        "bht": "The delicate nature of the mission necessitated no family connection between those sent. The brother, highly esteemed throughout all the churches, earned praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified him as Luke, Paul's prominent travel companion.",
-        "wordCount": 49,
-        "quoteTokenProportion": 38.64,
-        "qualityScore": 1.8855746497150867,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+        "bht": "The delicate nature of the mission required that there be no family connection between those sent to fulfill it. The identity of the brother is uncertain, although it is suggested that it may have been Trophimus or Luke, who was well known throughout the churches. Whoever this brother was, he was faithful in the Gospel and had received praise from all the churches for his work in spreading the gospel.",
+        "wordCount": 70,
+        "quoteTokenProportion": 57.69,
+        "qualityScore": 2.147797526419798,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.76,
         "commentatorTierSimilarities": [
-            32.09,
-            29.56,
-            38.35
+            34.86,
+            32.56,
+            32.58
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The delicate nature of the mission would require that there should be at least no family connexion between those sent to fulfil it.\" ",
-            "Origen, Jerome, and others, Luke:\u2014and of these, all before Grotius (who pointed out the mistake; which however I see lately reproduced in Mr. Birks\u2019s Hor\u00e6 Apostolic\u00e6, p. 242 f.) suppose the words, 'whose praise in the Gospel,' to refer to his gospel, which he wrote;\u2014but this is altogether without proof.",
-            "If the expression whose praise in (the matter of) the Gospel is throughout all the Churches, is to be compared with any similar eulogium, that of Gaius in Rom. xvi. 23, seems to correspond most nearly: 'Gaius, mine host and [the host] of the whole church.'"
+            "The delicate nature of the mission would require that there should be at least no family connexion between those sent to fulfil it.",
+            "Who this was, we know not...It may have been Trophimus, who (Acts xx. 4) accompanied Paul into Asia, and (xxi. 29) to Jerusalem.",
+            "If the expression whose praise in (the matter of) the Gospel is throughout all the Churches, is to be compared with any similar eulogium, that of Gaius in Rom. xvi. 23, seems to correspond most nearly."
         ],
         "Jamieson-Fausset-Brown": [
-            "the brother, whose praise is in the gospel\u2014whose praise is known in connection with the Gospel",
-            "Of all Paul's 'companions in travel' (2 Corinthians 8:19; Acts 19:29), Luke was the most prominent",
-            "He who is faithful in the Gospel will be faithful also in matters of inferior importance"
+            "Luke may be meant; not that 'the Gospel' here refers to his written Gospel; but the language implies someone well known throughout the churches, and at that time with Paul, as Luke then was.\" ",
+            "Luke was the most prominent [companion]... The fact that the person here referred to was 'chosen of the churches' as their trustee to travel with Paul in conveying the contribution to Jerusalem, implies that he had resided among them some time before.",
+            "He who is faithful in the Gospel will be faithful also in matters of inferior importance."
         ],
         "Albert Barnes": [
-            "Whose praise is in the gospel throughout all the churches.\" ",
-            "Who is well known and highly esteemed.",
-            "In some way he was celebrated for making known the truths of the gospel."
+            "And we have sent with him the brother - It has been generally supposed that this anonymous brother was Luke.",
+            "It is remarkable that though Paul mentions him again 2 Corinthians 12:18, he does it also in the same manner, without specifying his name.",
+            "Whose praise - Who is well known and highly esteemed. Is in the gospel - Either for writing the gospel, or for preaching the gospel."
         ],
         "Marvin Vincent": [
-            "The brother whose praise is in the Gospel. Is should be joined with throughout all the churches.",
-            "The person referred to has been variously identified with Titus' brother, Barnabas, Mark, Luke, and Epaenetus, mentioned in Romans 16:5.",
+            "The brother whose praise is in the Gospel.",
+            "The person referred to has been variously identified with Titus' brother, Barnabas, Mark, Luke, and Epaenetus.",
             "The reference to Epaenetus has been urged on the ground of a supposed play upon the word praise, epainos; Epaenetus meaning praiseworthy."
         ],
         "John Calvin": [
-            "He had earned applause by promoting the gospel.",
-            "He had received praise, not from one individual, or even from one Church merely, but from all the Churches.",
-            "We must observe, however, the mode of election \u2014 that which was customary among the Greeks \u2014 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03bf\u03bd\u1f77\u03b1, (a show of hands.)"
+            "It is uncertain, however, who this second person was; only that some conjecture that it was Luke, others that it was Barnabas. Chrysostom prefers to consider it to have been Barnabas.",
+            "He adds farther, that he had received praise, not from one individual, or even from one Church merely, but from all the Churches.",
+            "We must observe, however, the mode of election \u2014 that which was customary among the Greeks \u2014 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03bf\u03bd\u03af\u03b1, (a show of hands), in which the leaders took the precedence by authority and counsel, and regulated the whole proceeding, while the common people intimated their approval."
         ],
         "Philip Schaff": [
             "2 Corinthians 8:18. And we have sent together with him the brother whose praise in the gospel is spread through all the churches;",
@@ -46,13 +46,13 @@
         ],
         "Archibald T. Robertson": [
             "We have sent with him (\u03c3\u03c5\u03bd\u03b5\u03c0\u03b5\u03bc\u03c8\u03b1\u03bc\u03b5\u03bd \u03bc\u03b5\u03c4' \u03b1\u03c5\u03c4\u03bf\u03c5). Epistolary aorist.",
-            "This may be, probably is, Luke who may also be the brother of Titus (see also 2 Corinthians 12:18) according to a common Greek idiom where the article is used as 'his.'",
-            "Is spread through all the churches (\u03b4\u03b9\u03b1 \u03c0\u03b1\u03c3\u03c9\u03bd \u03c4\u03c9\u03bd \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03c9\u03bd). No verb in the Greek (ellipsis)."
+            "This may be, probably is, Luke who may also be the brother of Titus (see also 2 Corinthians 12:18) according to a common Greek idiom where the article is used as 'his.' But this idiom is not necessary.",
+            "As a matter of fact, we do not know who this brother is."
         ],
         "John Gill": [
-            "Whose praise is in the Gospel, throughout all the churches.",
-            "being known and highly commended by all the churches",
-            "greatly admired, and much commended, for his excellent talent in preaching the Gospel"
+            "But after all, it is difficult to determine who it was, nor is it of any great moment.",
+            "A 'brother' he was; being not only a regenerate person, but a preacher of the Gospel; a brother in the ministry.",
+            "And for this he was famous 'throughout all the churches'; a very great commendation indeed."
         ],
         "John Wesley": [
             "We \u2014 I and Timothy.",
@@ -77,67 +77,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The delicate nature of the mission in [Verse] would require that there be no family connection between those sent to fulfill it. The brother who accompanied the sender was known and highly esteemed throughout all the churches for his promotion of the gospel. He received praise from not just one individual or one church, but from all the churches. This individual was greatly admired and commended for his talent in preaching the Gospel. Some have identified him as Luke, who was the most prominent among Paul's companions in travel.",
-            "wordCount": 90,
-            "quoteTokenProportion": 49.25,
-            "qualityScore": 2.101361164667179,
-            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "bht": "The delicate nature of the mission would require that there should be at least no family connection between those sent to fulfill it, so it is uncertain who this brother was. Some have speculated that it may have been Trophimus or Luke, who was well known throughout the churches and had resided among them for some time before. Regardless of who it was, this brother was highly esteemed and praised for faithfully dispensing the gospel, which is why he was chosen by the churches to accompany Paul in conveying the contribution to Jerusalem. The fact that this brother was faithful in the gospel indicates that he would also be faithful in matters of inferior importance.",
+            "wordCount": 115,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 2.1615329537623715,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
             "commentatorTierSimilarities": [
-                30.77,
-                31.89,
-                37.33
+                36.92,
+                30.23,
+                32.85
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The delicate nature of the mission required that there be no family connection between those sent. The brother, known and highly esteemed throughout all the churches, received praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified this individual as Luke, Paul's prominent travel companion.",
-            "wordCount": 55,
-            "quoteTokenProportion": 40.82,
-            "qualityScore": 1.8640881876114954,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "bht": "The delicate mission required that there be no family connection between those sent to fulfill it, so it is uncertain who this brother was. Some speculate it may have been Trophimus or Luke, both well known throughout the churches. Regardless of who it was, this brother was highly esteemed and praised for faithfully dispensing the gospel, why he was chosen by the churches to accompany Paul. His faithfulness in the gospel would ensure his faithfulness in matters of lesser importance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 2.0809515308489392,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
             "commentatorTierSimilarities": [
-                31.37,
-                30.35,
-                38.28
+                34.78,
+                31.71,
+                33.51
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The delicate mission required no family connection. The brother, known throughout all the churches, received praise for promoting the gospel. He was greatly admired for his talent in preaching. Some have identified this individual as Luke, Paul's prominent travel companion.",
-            "wordCount": 41,
-            "quoteTokenProportion": 35.14,
-            "qualityScore": 1.8556423483205031,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+            "bht": "The delicate nature of the mission required that there be no family connection between those sent to fulfill it. The identity of the brother is uncertain, although it is suggested that it may have been Trophimus or Luke, who was well known throughout the churches. Whoever this brother was, he was faithful in the Gospel and had received praise from all the churches for his work in spreading the gospel.",
+            "wordCount": 70,
+            "quoteTokenProportion": 57.69,
+            "qualityScore": 2.147797526419798,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.76,
             "commentatorTierSimilarities": [
-                30.99,
-                30.19,
-                38.82
+                34.86,
+                32.56,
+                32.58
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The delicate nature of the mission necessitated no family connection between those sent. The brother, highly esteemed throughout all the churches, earned praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified him as Luke, Paul's prominent travel companion.",
-            "wordCount": 49,
-            "quoteTokenProportion": 38.64,
-            "qualityScore": 1.8855746497150867,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "bht": "The Apostle Paul, in 2 Corinthians 8:18, mentions a brother who was chosen by the churches to accompany him in the mission. While it is uncertain who this brother was, it is suggested to be either Trophimus, Barnabas, Mark, Luke, or Epaenetus. Regardless of his identity, this brother was well-known and highly esteemed in the Gospel. His faithfulness and praise in the Gospel had spread throughout all the churches, making him a suitable companion for Paul on this mission. The fact that he was chosen by the churches indicates that he had a significant presence and influence among them. Despite the uncertainty surrounding his identity, what is clear is that this brother's character and dedication to the Gospel were highly regarded and trusted by the churches.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.2298227911526336,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.48,
             "commentatorTierSimilarities": [
-                32.09,
-                29.56,
-                38.35
+                32.98,
+                35.63,
+                31.39
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The delicate mission required no family connection. The brother, known throughout all the churches, received praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified this individual as Luke, Paul's prominent travel companion.",
-            "wordCount": 43,
-            "quoteTokenProportion": 35.9,
-            "qualityScore": 1.851277993512817,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "bht": "In this passage, Paul mentions a brother who was chosen by the churches to accompany him on a mission. It remains uncertain who this brother was, but he was highly esteemed for his faithfulness in the Gospel, with his praise spreading throughout all the churches. The fact that he was selected by the churches implies that he had a significant presence and influence among them. While his specific identity may be unknown, it is clear that this brother's character and dedication to the Gospel were widely recognized and trusted.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1838805184814873,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
             "commentatorTierSimilarities": [
-                30.51,
-                29.91,
-                39.58
+                32.37,
+                34.54,
+                33.09
             ],
             "generationAttempt": 5
         }

@@ -1,60 +1,58 @@
 {
-    "timestamp": "12-19-2023 15:15:19",
+    "timestamp": "12-25-2023 19:29:56",
     "verseRef": "2 Corinthians 2:1",
     "bestBHT": {
-        "bht": "Paul's words indicate a previous visit that brought grief. There was mutual pain between Paul and the Corinthians, with both parties grieving each other. While it's uncertain if Paul had already made a second visit, he desired to spare them further sorrow. He resolved to wait for their repentance before coming again, wanting to bring joy rather than grief.",
-        "wordCount": 61,
-        "quoteTokenProportion": 51.92,
-        "qualityScore": 1.9099349108657324,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+        "bht": "Paul refers to a previous visit that brought mutual grief to him and the Corinthians. Scholars suggest there may have been an unrecorded visit between his initial one and this sorrowful one. Paul expresses his desire not to visit again with sorrow, aiming to spare them from further pain and allowing more time for repentance. He frames his decision as for his own pleasure, acknowledging the grief his arrival would bring to the church. His resolution is to ensure that his second coming brings joy instead of sorrow.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.0398579276517825,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.17,
         "commentatorTierSimilarities": [
-            44.83,
-            19.31,
-            35.87
+            44.33,
+            20.38,
+            35.3
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "this refers to what follows: see reff.\" ",
-            "this implies, that some former visit had been in grief.",
-            "'I grieving you (ver. 2), and you grieving me' (ver. 3): not St. Paul\u2019s grief alone, nor grief alone inflicted on them by St. Paul."
+            "Not come again to you in sorrow... implying, that some former visit had been in grief.\" ",
+            "Clearly the first visit... could not be thus described: we must therefore infer, that an intermediate unrecorded visit had been paid by him.\" ",
+            "In sorrow is explained in vv. 2, 3 to mean in mutual grief. 'I grieving you (ver. 2), and you grieving me' (ver. 3): not St. Paul\u2019s grief alone, nor grief alone inflicted on them by St. Paul."
         ],
         "Jamieson-Fausset-Brown": [
-            "The same antithesis between Paul and them appears in 2 Corinthians 1:23.\" (Quote 1)",
-            "He had warned them 'he would not spare if he should come again.'\" (Quote 2)",
-            "The 'in heaviness' implies mutual pain; they grieving him, and he them.\" (Quote 3)"
+            "The same antithesis between Paul and them appears in 2 Corinthians 1:23.",
+            "He had already paid them one visit in sorrow since his coming for the first time to Corinth.",
+            "The 'in heaviness' implies mutual pain; they grieving him, and he them."
         ],
         "Albert Barnes": [
-            "I made up my mind on this point; I formed this resolution in regard to my course.\" ",
-            "I would not come, if I could avoid it, in circumstances which must have grieved both me and you.",
-            "I resolved, therefore, to endeavor to remove these evils before I came, that when I did come, my visit might be mutually agreeable to us both."
+            "I made up my mind on this point; I formed this resolution in regard to my course.",
+            "I resolved, therefore, to endeavor to remove these evils before I came, that when I did come, my visit might be mutually agreeable to us both.",
+            "It was really from no fickleness, but it was from love to them, and a desire that his visit should be mutually agreeable."
         ],
         "Marvin Vincent": [
             "Paul, with affectionate tact, puts it as if he had taken this resolution for his own pleasure.\" ",
             "He refers to the sorrow which his coming would bring to the Church.",
-            "Again. Referring to a former unrecorded visit."
+            "Referring to a former unrecorded visit."
         ],
         "John Calvin": [
-            "For now at length the Apostle explains, in what manner he had spared them.",
-            " ",
-            "He was unwilling to come to them, lest he should be constrained to grieve them again.",
-            " ",
+            "But I had determined... For now at length the Apostle explains, in what manner he had spared them.",
+            "I had determined... not to come to you any more in sorrow.",
             "He chose rather to give them longer time for repentance."
         ],
         "Philip Schaff": [
-            "But I determined this for myself, that I would not come again to you with sorrow.\" ",
+            "I determined this for myself, that I would not come again to you with sorrow.\" ",
             "This is so plainly a continuance of his explanation of the delay of his expected visit to Corinth.",
             "It is a pity a new chapter should in the recognised division have begun here."
         ],
         "Archibald T. Robertson": [
-            "What does Paul mean by 'again'?...Either interpretation is possible as the Greek stands and scholars disagree.",
-            "There is absolutely no way to tell clearly whether Paul had already made a second visit.",
-            "If he had done so, it is a bit odd that he did not plainly say so in 2 Corinthians 1:15 when he is apologizing for not having made the proposed visit."
+            "Had he paid another visit besides that described in 2 Corinthians 2:18 which was in sorrow... Either interpretation is possible as the Greek stands and scholars disagree.",
+            "So in 2 Corinthians 12:14 'The third time I am ready to come' may refer to the proposed second visit (2 Corinthians 1:15) and the present plan (a third). And so as to 2 Corinthians 13:1.",
+            "There is absolutely no way to tell clearly whether Paul had already made a second visit. If he had done so, it is a bit odd that he did not plainly say so in 2 Corinthians 1:15 when he is apologizing for not having made the proposed visit."
         ],
         "John Gill": [
-            "That he would not come with sorrow and heaviness, bewailing their sins not repented of, and by sharp reproofs and censures, which in such a case would be necessary, be the cause of grief and trouble to them.\" ",
-            "He determined to wait their repentance and amendment before he came again.",
+            "He determined with himself, he took up a resolution within his own breast some time ago, says he, that I would not come again to you in heaviness.\" ",
+            "He determined to wait their repentance and amendment before he came again.\" ",
             "As his first coming among them was to the joy of their souls, so it was a determined case with him, that his second coming should not be with grief, either to them or himself, or both."
         ],
         "John Wesley": [
@@ -78,67 +76,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse seems to refer to the grief that had been caused by a previous visit from Paul. There is an antithesis between Paul and the Corinthians, with both sides feeling sorrow and grieving each other. Paul had warned them that he would not spare them if he were to come again, but he tactfully puts it as if he made the resolution for his own pleasure. It's unclear whether Paul had already made a second visit, as scholars disagree on the interpretation of again. Nevertheless, Paul wanted to avoid coming to them with sorrow and heaviness, desiring to give them more time for repentance and amendment before his next visit.",
-            "wordCount": 112,
-            "quoteTokenProportion": 54.67,
-            "qualityScore": 1.9617761653377435,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "bht": "Paul, in his letter to the Corinthians, alludes to a previous visit that had brought sorrow to both him and the church. It is clear that this visit was distinct from his initial visit, as it could not be described as sorrowful. Scholars suggest that there may have been an unrecorded intermediate visit. Paul expresses his desire not to come again to Corinth in sorrow, highlighting the mutual grief that had been experienced. By tactfully framing his decision as for his own pleasure, Paul acknowledges the pain his arrival would cause the church. This resolution was made with the intention of sparing them further sorrow and allowing more time for repentance and amendment. The apostle wants his second coming to bring joy rather than grief, for both himself and the Corinthians.",
+            "wordCount": 131,
+            "quoteTokenProportion": 44.71,
+            "qualityScore": 1.970035213900859,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
             "commentatorTierSimilarities": [
-                46.81,
-                21.2,
-                32.0
+                46.44,
+                21.33,
+                32.23
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Paul's words in 2 Corinthians 2:1 allude to a previous visit that had caused grief. His relationship with the Corinthians was marked by mutual pain, with both sides grieving each other. While it's unclear whether Paul had already made a second visit, it is evident that he wanted to spare them and himself from further sorrow. He resolved to wait for their repentance and amendments before coming again, desiring a visit that would bring joy rather than grief.",
-            "wordCount": 78,
-            "quoteTokenProportion": 52.46,
-            "qualityScore": 1.9261329738810677,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "bht": "Paul refers to a previous visit that brought mutual grief to him and the Corinthians. Scholars suggest there may have been an unrecorded visit between his initial one and this sorrowful one. Paul expresses his desire not to visit again with sorrow, aiming to spare them from further pain and allowing more time for repentance. He frames his decision as for his own pleasure, acknowledging the grief his arrival would bring to the church. His resolution is to ensure that his second coming brings joy instead of sorrow.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0398579276517825,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
             "commentatorTierSimilarities": [
-                43.08,
-                18.92,
-                38.0
+                44.33,
+                20.38,
+                35.3
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Paul's words indicate a previous visit that brought grief. There was mutual pain between Paul and the Corinthians, with both parties grieving each other. While it's uncertain if Paul had already made a second visit, he desired to spare them further sorrow. He resolved to wait for their repentance before coming again, wanting to bring joy rather than grief.",
-            "wordCount": 61,
-            "quoteTokenProportion": 51.92,
-            "qualityScore": 1.9099349108657324,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "bht": "Paul had previously visited the Corinthians and experienced mutual grief with them. It can be inferred that there was an unrecorded intermediate visit that caused sorrow. His resolution is not to come again to them in sorrow, desiring to spare them further pain and allowing more time for repentance. He tactfully presents his decision as for his own pleasure, acknowledging the grief his coming would bring to the church. Paul aims for his second visit to bring joy instead of sorrow.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9903834270811682,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
             "commentatorTierSimilarities": [
-                44.83,
-                19.31,
-                35.87
+                46.31,
+                19.41,
+                34.29
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul, with affectionate tact, refers to a former unrecorded visit that had brought mutual pain to both him and the Corinthians. He had already warned them of his uncompromising stance and that he would not spare them if he were to come again. This resolution was made to spare them from sorrow and heaviness, giving them more time for repentance. His intention was not to grieve them again but to bring joy to their souls. His aim was to wait for their repentance and amendment before making another visit, ensuring that his second coming would not be a cause of grief to either party.",
-            "wordCount": 104,
-            "quoteTokenProportion": 47.06,
-            "qualityScore": 1.781214618399472,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.57,
+            "bht": "Paul had previously visited the Corinthians and experienced mutual grief with them. Scholars suggest that there may have been an unrecorded intermediate visit which caused sorrow. In his letter, Paul expresses his resolution not to come again to them in sorrow, desiring to spare them further pain and allow more time for repentance. He tactfully presents his decision as for his own pleasure, acknowledging the grief his coming would bring to the church. His aim is for his second visit to bring joy instead of sorrow.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.008921506933705,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
             "commentatorTierSimilarities": [
-                36.75,
-                18.11,
-                45.14
+                46.15,
+                18.87,
+                34.98
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul, with affectionate tact, refers to a former unrecorded visit that had brought mutual pain to both him and the Corinthians. He had already warned them of his uncompromising stance and that he would not spare if he were to come again. His resolution was made to spare them from sorrow and heaviness, giving them more time for repentance. His aim was to wait for their amendment before making another visit, ensuring that his second coming would not be a cause of grief to either party.",
-            "wordCount": 86,
-            "quoteTokenProportion": 49.18,
-            "qualityScore": 1.7795127464544294,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.51,
+            "bht": "Paul had previously visited the Corinthians and experienced mutual grief with them. Scholars suggest the possibility of an unrecorded intermediate visit. Paul resolves not to come again in sorrow, sparing them further pain and allowing time for repentance. He tactfully presents his decision as for his own pleasure, aware of the grief his coming would bring to the church. His aim is for his second visit to bring joy rather than sorrow, both for himself and the Corinthians.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9154391853715027,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
             "commentatorTierSimilarities": [
-                39.72,
-                17.96,
-                42.32
+                49.2,
+                16.13,
+                34.67
             ],
             "generationAttempt": 5
         }

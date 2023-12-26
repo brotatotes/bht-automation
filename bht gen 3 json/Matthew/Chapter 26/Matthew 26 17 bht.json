@@ -1,44 +1,44 @@
 {
-    "timestamp": "12-19-2023 23:53:25",
+    "timestamp": "12-25-2023 19:33:12",
     "verseRef": "Matthew 26:17",
     "bestBHT": {
-        "bht": "On the first day of unleavened bread, the disciples, Peter and John, came to Jesus to inquire about the Passover meal, as they were the only ones aware of Judas's betrayal. Their obedience to their Master's instructions led them to seek a suitable house for the Passover, as the location was not specified. By adhering to the Law, even at his final hour, Jesus demonstrated his commitment to deliver humanity from its yoke. This moment signified the fusion of two feasts, the Passover feast and the feast of unleavened bread, rolled into one significant occasion.",
-        "wordCount": 97,
-        "quoteTokenProportion": 39.13,
-        "qualityScore": 1.9579666853299906,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+        "bht": "The disciples inquire about the preparations for the Passover meal, given that the removal of leaven, slaughtering of the lamb, and the arrangement of the room were necessary. This shows their intention to follow the regular Passover meal at the customary time. Jesus, in his adherence to the Law, chose to observe the Passover on the day before the Sabbath, ensuring that he did not transgress any ordinances and subject himself to slanderous accusations. The disciples' question implies that the Passover meal was traditionally celebrated in Jerusalem.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.1481392256166534,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.77,
         "commentatorTierSimilarities": [
-            39.77,
-            29.0,
-            31.23
+            38.61,
+            28.71,
+            32.68
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "If this night had been the ordinary time of sacrificing the Passover, the day preceding would not indeed have been strictly the first day of unleavened bread; but there is reason to suppose that it was accounted so.",
-            "The \u2018making ready\u2019 would include the following particulars; the ration of the guest-chamber itself...the lamb already kept up from the 10th had to be slain in the fore-court of the temple...the unleavened bread, bitter herbs, &c., prepared;\u2014and the room arranged.",
-            "This report does not represent the whole that passed: it was the Lord who sent the two disciples; and in reply this enquiry was made."
+            "The putting away leaven from the houses was of the work of the day, and the eating of the unleavened bread actually commenced in the evening.",
+            "The \u2018making ready\u2019 would include the following particulars; the ration of the guest-chamber itself (which however in this case was already done, see Mark xiv. 15 and note);\u2014the lamb already kept up from the 10th (Exod. xii. 3) had to be slain in the fore-court of the temple (2 Chron. xxxv. 5);\u2014the unleavened bread, bitter herbs, &c., prepared;\u2014and the room arranged.",
+            "This report does not represent the whole that passed: it was the Lord who sent the two disciples; and in reply this enquiry was made (Luke)."
         ],
         "John Calvin": [
-            "It is beyond a doubt that Christ was put to death on the day before the Sabbath; for he was hastily buried before sunset in a sepulcher which was at hand.",
-            "Now if it was the custom, at that time, to join two festivals in one, it is a highly probable conjecture that Christ...observed the day prescribed by the Law.",
-            "Having determined to be subject to the Law, that he might deliver us from its yoke, he did not forget this subjection at his latest hour."
+            "Now if it was the custom, at that time, to join two festivals in one, (as the Jews themselves admit, and as their ancient writings prove,) it is a highly probable conjecture that Christ, who celebrated the passover on the day before the Sabbath, observed the day prescribed by the Law.",
+            "Having determined to be subject to the Law, that he might deliver us from its yoke, he did not forget this subjection at his latest hour; and therefore he would rather have chosen to omit an outward ceremony, than to transgress the ordinance which God had appointed, and thus lay himself open to the slanders of wicked men.",
+            "Hence it follows that Christ, in departing from the ordinary custom, attempted nothing contrary to the Law."
         ],
         "Philip Schaff": [
-            "On the first day of unleavened bread.",
-            "The householder kept the lamb from the 10th day of the month; he presented it in the temple, 'between the evenings,' i.e., between three and six o'clock in the afternoon of the fourteenth, himself slew it.",
-            "The householder then removed the skin and fat from the lamb; the latter was burned on the altar by the priest, the former was carried home bound about the lamb."
+            "On the first day of unleavened bread. The 14th of Nisan, when the leaven was removed.",
+            "The disciples. It is probable that they came with the intention of inquiring on this point.",
+            "The householder kept the lamb from the 10th day of the month; he presented it in the temple, 'between the evenings,' i.e., between three and six o'clock in the afternoon of the fourteenth, himself slew it."
         ],
         "Archibald T. Robertson": [
-            "There were two feasts rolled into one, the passover feast and the feast of unleavened bread.",
-            "My view is that the five passages in John rightly interpreted agree with the Synoptic Gospels that Jesus ate the passover meal at the regular time about 6 P.M. beginning of 15 Nisan.",
-            "According to this view Jesus ate the passover meal at the regular time and died on the cross the afternoon of 15 Nisan."
+            "Either name was employed. Here the passover meal is meant, though in John 18:28 it is probable that the passover feast is referred to as the passover meal (the last supper) had already been observed.",
+            "My view is that the five passages in John (John 13:1; John 13:27; John 18:28; John 19:14; John 19:31) rightly interpreted agree with the Synoptic Gospels (Matthew 26:17; Matthew 26:20; Mark 14:12; Mark 14:17; Luke 22:7; Luke 22:14) that Jesus ate the passover meal at the regular time about 6 P.M. beginning of 15 Nisan.",
+            "The question of the disciples here assumes that they are to observe the regular passover meal."
         ],
         "John Gill": [
-            "The disciples came to Jesus; that is, Peter and John, as may be learnt from Luke 22:8, for these only seem to have had any notion of Judas's betraying Christ, from what had been said at the supper in Bethany, two days before; the rest thought he was gone to prepare for the feast, and therefore were under no concern about it; but these two judged otherwise, and therefore came to Christ to know his mind concerning it.",
-            "The disciples having received such an order from their master, inquire not in what town or city they must prepare the passover, for that was always ate in Jerusalem; see Deuteronomy 16:5, where they were obliged, by the Jewish canon k, to lodge that night.",
-            "They inquire in what house he would have it got ready; for they might make use of any house, and the furniture of it, where they could find room, and conveniency, without any charge."
+            "The time of killing the passover was after the middle of the day; and it is said that 'if they killed it before the middle of the day it was not right; and they did not kill it till after the evening sacrifice, and after they had offered the evening incense; and after they had trimmed the lamps, they began to slay the passovers, or paschal lambs, unto the end of the day; and if they slayed after the middle of the day, before the evening sacrifice, it was right.'\" ",
+            "The reason of this was, because the lamb was to be slain between the two evenings; the first of which began at noon, as soon as ever the day declined.",
+            "The disciples having received such an order from their master, inquire not in what town or city they must prepare the passover, for that was always ate in Jerusalem."
         ],
         "John Wesley": [
             "On the first day of unleavened bread \u2014 Being Thursday, the fourteenth day of the first month, Exodus 12:6,15. Mark 14:12; Luke 22:7"
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "On the first day of unleavened bread, the disciples came to Jesus, seeking guidance on where to prepare the Passover meal. This was not just any ordinary time of sacrificing the Passover, but a significant moment when two feasts, the Passover feast and the feast of unleavened bread, were rolled into one. According to some interpretations, Jesus ate the Passover meal at the regular time, around 6 PM on the 15th of Nisan, and it was on this day that he was crucified. By adhering to the Law, even at his final hour, Jesus showed his commitment to deliver humanity from its yoke. The disciples, Peter and John, came to Jesus to inquire about the meal, as they were the only ones aware of Judas's betrayal. Their obedience to their Master's instructions led them to seek a suitable house for the Passover, as the location was not specified. Ultimately, this verse reveals the importance of adhering to the customs and traditions established by God.",
-            "wordCount": 165,
-            "quoteTokenProportion": 37.76,
-            "qualityScore": 2.002972412493359,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "bht": "The disciples inquire about the preparations for the Passover meal, including the removal of leaven and the slaughtering of the lamb in the temple. This indicates that they were observing the regular Passover meal at the appointed time, just as Jesus intended. He chose to adhere to the Law, affirming his subjection to it even in his final moments. By observing the Passover on the day before the Sabbath, Jesus upheld the ordinances of God and avoided slandering accusations. It is also noteworthy that the disciples did not question the location for the Passover preparation, as it was always observed in Jerusalem.",
+            "wordCount": 102,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9816579073110545,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
             "commentatorTierSimilarities": [
-                40.49,
-                28.36,
-                31.15
+                37.16,
+                28.65,
+                34.18
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "On the first day of unleavened bread, the disciples, Peter and John, came to Jesus to inquire about the Passover meal, as they were the only ones aware of Judas's betrayal. Their obedience to their Master's instructions led them to seek a suitable house for the Passover, as the location was not specified. By adhering to the Law, even at his final hour, Jesus demonstrated his commitment to deliver humanity from its yoke. This moment signified the fusion of two feasts, the Passover feast and the feast of unleavened bread, rolled into one significant occasion.",
-            "wordCount": 97,
-            "quoteTokenProportion": 39.13,
-            "qualityScore": 1.9579666853299906,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "bht": "The disciples inquire about the preparations for the Passover meal, given that the removal of leaven, slaughtering of the lamb, and the arrangement of the room were necessary. This shows their intention to follow the regular Passover meal at the customary time. Jesus, in his adherence to the Law, chose to observe the Passover on the day before the Sabbath, ensuring that he did not transgress any ordinances and subject himself to slanderous accusations. The disciples' question implies that the Passover meal was traditionally celebrated in Jerusalem.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.1481392256166534,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
             "commentatorTierSimilarities": [
-                39.77,
-                29.0,
-                31.23
+                38.61,
+                28.71,
+                32.68
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "On the first day of unleavened bread, the disciples, Peter and John, sought Jesus for guidance on preparing the Passover meal. They came to determine the location and arrange the necessary provisions. Jesus, committed to adhering to the Law, observed the prescribed day, uniting the Passover feast and the feast of unleavened bread. His disciples' obedience and inquiry reflected their awareness of Judas's betrayal. This inquiry highlights the significance of upholding customs and traditions while underlining Jesus's mission to liberate humanity from the burden of the Law.",
-            "wordCount": 89,
-            "quoteTokenProportion": 23.64,
-            "qualityScore": 1.5833460474549588,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "bht": "The disciples inquire about the preparations for the Passover meal, showing their intention to follow the regular Passover meal at the customary time. Jesus adheres to the Law, observing the Passover on the day before the Sabbath, to avoid transgressing any ordinances. It's notable that the disciples do not question the location for the Passover preparation, implying that it was always observed in Jerusalem. This highlights their commitment to faithfully observing the Passover as prescribed by the Law.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.010818141526852,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.2,
             "commentatorTierSimilarities": [
-                39.43,
-                26.79,
-                33.78
+                36.52,
+                28.77,
+                34.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "On the first day of unleavened bread, Peter and John sought Jesus to inquire about the Passover meal, being the only ones aware of Judas's betrayal. Their obedience led them to search for a suitable house to make the necessary preparations. By adhering to the Law, even at his final hour, Jesus exhibited his commitment to liberating humanity from its yoke. This occasion merged the Passover feast and the feast of unleavened bread, emphasizing the significance of upholding traditions and illustrating Jesus's fulfillment of the Law.",
-            "wordCount": 88,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.7193644578326133,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "bht": "The disciples inquire about the preparations for the Passover meal, indicating their intention to observe it at the customary time. Jesus, in adhering to the Law, chooses to observe the Passover on the day before the Sabbath, avoiding any transgression of God's ordinances. It is noteworthy that the disciples do not question the location for Passover preparation, suggesting that it was always observed in Jerusalem. This emphasizes their commitment to faithfully keeping the Passover according to the requirements of the Law.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.96181920660323,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
             "commentatorTierSimilarities": [
-                38.51,
-                28.21,
-                33.28
+                36.21,
+                29.1,
+                34.69
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "On the first day of unleavened bread, Peter and John approached Jesus seeking guidance on the preparation of the Passover meal, as they were aware of Judas's betrayal. Their obedience and inquiry demonstrate their understanding of Jesus's instructions. Jesus, upholding the Law, observed the prescribed day, combining the Passover feast and the feast of unleavened bread into a significant event. This moment signifies Jesus's commitment to deliver humanity from the burden of the Law, highlighting the importance of adhering to customs and traditions established by God.",
-            "wordCount": 89,
-            "quoteTokenProportion": 26.32,
-            "qualityScore": 1.8589615369424253,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "bht": "The disciples inquire about the preparations for the Passover meal, showing their intention to follow the regular Passover meal at the customary time. Jesus adheres to the Law, observing the Passover on the day before the Sabbath, to avoid transgressing any ordinances. It's notable that the disciples do not question the location for the Passover preparation, implying that it was always observed in Jerusalem. This highlights their commitment to faithfully observing the Passover as prescribed by the Law.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.010818141526852,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.2,
             "commentatorTierSimilarities": [
-                39.73,
-                27.78,
-                32.49
+                36.52,
+                28.77,
+                34.72
             ],
             "generationAttempt": 5
         }

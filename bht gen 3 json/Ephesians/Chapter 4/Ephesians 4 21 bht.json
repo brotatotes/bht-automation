@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-19-2023 15:32:33",
+    "timestamp": "12-25-2023 19:31:33",
     "verseRef": "Ephesians 4:21",
     "bestBHT": {
-        "bht": "The essence of Paul's message is the need for true, vital union with Jesus and embracing the essence of truth in Him. It goes beyond mere hearing; rather, it involves deeply knowing and understanding Him, His teachings, and His Gospel. This genuine hearing leads to a transformed life, marked by genuine faith and a rejection of a heathen lifestyle. It is through this fellowship with Jesus, taught by His Spirit, that believers experience the power of His truth and bring forth fruit to His glory.",
-        "wordCount": 86,
-        "quoteTokenProportion": 31.58,
-        "qualityScore": 1.8932857338165021,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+        "bht": "If you have truly heard Jesus Himself, not merely heard about Him, and have been in vital union with Him, then you have learned the truth in its essence and highest perfection, as truth is in Jesus. This fellowship with the historic Jesus is the life of Christianity, grounded in His teachings and the genuine knowledge of Him. It is through this fellowship that we truly hear the message of the gospel, embracing His teachings as truth and real, bringing forth fruit to His glory.",
+        "wordCount": 85,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 2.3224448413898413,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.56,
         "commentatorTierSimilarities": [
-            25.06,
-            34.46,
-            40.48
+            30.41,
+            33.53,
+            36.06
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
             "heard Himself, not merely heard about Him.",
-            "being in vital union with Him",
-            "truth in its essence, and highest perfection, in Jesus"
+            "being in vital union with Him.",
+            "truth in its essence, and highest perfection, in Jesus."
         ],
         "Albert Barnes": [
             "If you have listened attentively to his instructions, and learned the true nature of his religion.",
             "If you have learned the true nature of his religion as he himself taught it.",
-            "What the truth was which the Lord Jesus taught, or what his principles implied."
+            "What the truth was which the Lord Jesus taught, or what his principles implied, the apostle proceeds to state in the following verses."
         ],
         "Marvin Vincent": [
             "If it was Him that ye heard.",
-            "As the truth is in Jesus.",
+            "Ye did not in such a manner learn Christ if ye were taught in such a manner as is truth.",
             "The life of Christianity consists in believing fellowship with the historic Jesus, who is the Christ of prophecy."
         ],
         "John Calvin": [
@@ -36,19 +36,19 @@
             "Any knowledge of Christ, which is not accompanied by mortification of the flesh, is not true and sincere."
         ],
         "Philip Schaff": [
-            "Nothing is truly heard through the gospel message, until He is heard.\" ",
+            "Nothing is truly heard through the gospel message, until He is heard.",
             "This fellowship was not only the result but the essential condition of the instruction; for saving knowledge is referred to.",
             "If you were taught so that what you received was according to what is true (true and real) as permanently embodied in the personal Saviour."
         ],
         "Archibald T. Robertson": [
-            "If indeed.\" Condition of first class with aorist indicatives here, assumed to be true (\u03b7\u03ba\u03bf\u03c5\u03c3\u03b1\u03c4\u03b5 \u03ba\u03b1 \u03b5\u03b4\u03b9\u03b4\u03b1\u03c7\u03b8\u03b7\u03c4\u03b5).",
-            "It is not clear what Paul's precise idea is here.",
-            "He flatly affirms that there is 'truth in Jesus' which is in direct opposition to the heathen manner of life."
+            "If indeed.\" ",
+            "Even as truth is in Jesus.\" ",
+            "There is 'truth in Jesus' which is in direct opposition to the heathen manner of life."
         ],
         "John Gill": [
             "Not heard him preach, but heard him preached; and that not merely externally, with the outward hearing of the ear; though oftentimes spiritual conviction and illumination, true faith in Christ, real comfort from him, and establishment and assurance of interest in him, come this way.",
-            "so as to know him, understand his word, and distinguish his voice; so as to approve of him and love him, and believe in him; feel the power of his Gospel, relish his truths, and obey his ordinances, and so bring forth fruit to his glory.",
-            "those who are taught by him, are taught as the truth is in Jesus; as the Gospel is in him, as in its original and subject; for he is truth itself, and grace and truth came by him; and as it was preached by him, and so is pure and unmixed."
+            "so as to know him, understand his word, and distinguish his voice; so as to approve of him and love him, and believe in him; feel the power of his Gospel, relish his truths, and obey his ordinances, and so bring forth fruit to his glory",
+            "as the truth is in Jesus; as the Gospel is in him, as in its original and subject; for he is truth itself, and grace and truth came by him; and as it was preached by him, and so is pure and unmixed."
         ],
         "John Wesley": [
             "Seeing ye have heard him \u2014 Teaching you inwardly by his Spirit.",
@@ -72,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The Apostle Paul emphasizes the importance of truly hearing and being in vital union with Jesus. This goes beyond a superficial understanding of Him or merely hearing about Him; it involves a deep fellowship and belief in the historic Jesus who fulfills prophecy. This fellowship with Jesus is the foundation of true Christianity and leads to a life characterized by genuine faith and the mortification of the flesh. The instruction received should be in accordance with the truth embodied in the person of Jesus, for He is the embodiment of truth and grace. This personal connection with Jesus, taught by His Spirit, leads to a true knowledge of Him, an understanding of His word, and a transformed life that brings forth fruit to His glory.",
-            "wordCount": 125,
-            "quoteTokenProportion": 32.88,
-            "qualityScore": 1.9022466341303692,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "bht": "If you have truly heard and been in vital union with Jesus Himself, not merely heard about Him, then you have learned the truth in its essence and highest perfection. This is in direct opposition to the heathen manner of life and false opinions. True fellowship with the historic Jesus is the lifeblood of Christianity, and it is through this fellowship that we come to know and understand His word, distinguish His voice, and bring forth fruit to His glory. This fellowship is not just the result, but the essential condition of true instruction, for saving knowledge is referred to. It is a knowledge that is accompanied by mortification of the flesh and is grounded in the truth that is in Jesus, who is truth itself. Therefore, let us embrace the teachings of Jesus as He Himself taught them, for they are true and real, and it is through hearing Him that we truly hear the message of the gospel.",
+            "wordCount": 160,
+            "quoteTokenProportion": 41.11,
+            "qualityScore": 2.02803166801466,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.77,
             "commentatorTierSimilarities": [
-                27.32,
-                33.7,
-                38.98
+                27.33,
+                36.76,
+                35.91
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The essence of Paul's message in Ephesians 4:21 is the need to sincerely and deeply hear Jesus, not just hearing about Him. It is about being in vital union with Him and embracing the truth in its highest form through Jesus. The life of Christianity hinges on this belief and fellowship with the historic Jesus, which stands in direct opposition to the heathen lifestyle. This genuine hearing involves understanding His teachings, distinguishing His voice, and experiencing the power of His Gospel.",
+            "bht": "If you have learned the true nature of His religion, being in vital union with Jesus Himself, then you have heard Him and understood the essence of truth in Jesus. This fellowship with the historic Jesus is the life of Christianity, bringing about spiritual conviction, illumination, true faith, and assurance of interest in Him. It is through hearing Him that we truly hear the message of the gospel, embracing His teachings as truth, grounded in the reality of who He is.",
             "wordCount": 81,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.8658932631974412,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.31327726245126,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
             "commentatorTierSimilarities": [
-                29.21,
-                31.73,
-                39.06
+                28.68,
+                35.39,
+                35.93
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The essence of Paul's message is the need for true, vital union with Jesus and embracing the essence of truth in Him. It goes beyond mere hearing; rather, it involves deeply knowing and understanding Him, His teachings, and His Gospel. This genuine hearing leads to a transformed life, marked by genuine faith and a rejection of a heathen lifestyle. It is through this fellowship with Jesus, taught by His Spirit, that believers experience the power of His truth and bring forth fruit to His glory.",
-            "wordCount": 86,
-            "quoteTokenProportion": 31.58,
-            "qualityScore": 1.8932857338165021,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "bht": "If you have truly heard Jesus Himself, being in vital union with Him, then you have learned the truth in its essence, highest perfection, as truth is in Jesus. This fellowship is the life of Christianity, grounded in the teachings of the historic Jesus. It is through this fellowship that we truly hear the message of the gospel, embracing His teachings as truth, and bringing forth fruit to His glory. Let us seek this true and sincere knowledge of Christ, accompanied by a mortification of the flesh.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.140759370190162,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
             "commentatorTierSimilarities": [
-                25.06,
-                34.46,
-                40.48
+                30.26,
+                33.08,
+                36.66
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Paul emphasizes the importance of sincerely hearing Jesus, not simply hearing about Him. This vital union with Jesus involves embracing the truth in its highest form, found in Him. It is not merely an external hearing, but a deep fellowship that leads to genuine faith and transformation. This fellowship with the historic Jesus stands in contrast to a heathen manner of life. By truly hearing and being taught by Jesus, believers gain a genuine understanding of Him, His word, and His Gospel, resulting in a life that bears fruit for His glory.",
-            "wordCount": 92,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.7652872389292993,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.04,
+            "bht": "If you have truly heard Jesus Himself, being in vital union with Him, then you have learned the truth in its essence, highest perfection, as truth is in Jesus. This fellowship is the life of Christianity, grounded in the teachings of the historic Jesus. It is through this fellowship that we truly hear the message of the gospel, embracing His teachings as truth and real. Let us seek this true and sincere knowledge of Christ, accompanied by a mortification of the flesh, bringing forth fruit to His glory.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.1636385987229456,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
             "commentatorTierSimilarities": [
-                28.35,
-                33.28,
-                38.37
+                30.19,
+                33.57,
+                36.25
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Hearing Jesus goes beyond a superficial understanding or hearing Him preached externally. It involves a deep fellowship, genuine faith, and being taught by the Spirit. Only through this true hearing and vital union with Him can believers fully grasp the truth that is in Jesus. This fellowship with the historic Jesus transforms lives and opposes the heathen way of living. It leads to a genuine knowledge of Jesus, His teachings, and His Gospel, ultimately resulting in a life that bears fruit for His glory.",
-            "wordCount": 84,
-            "quoteTokenProportion": 35.59,
-            "qualityScore": 1.8454787723128219,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "bht": "If you have truly heard Jesus Himself, not merely heard about Him, and have been in vital union with Him, then you have learned the truth in its essence and highest perfection, as truth is in Jesus. This fellowship with the historic Jesus is the life of Christianity, grounded in His teachings and the genuine knowledge of Him. It is through this fellowship that we truly hear the message of the gospel, embracing His teachings as truth and real, bringing forth fruit to His glory.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.3224448413898413,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.56,
             "commentatorTierSimilarities": [
-                26.01,
-                34.07,
-                39.91
+                30.41,
+                33.53,
+                36.06
             ],
             "generationAttempt": 5
         }

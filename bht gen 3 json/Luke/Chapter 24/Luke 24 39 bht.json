@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:24:21",
+    "timestamp": "12-25-2023 19:34:21",
     "verseRef": "Luke 24:39",
     "bestBHT": {
-        "bht": "Jesus appeared to his disciples after his resurrection, offering them both ocular and tangible demonstration of the reality and identity of his resurrected body through the sight of his recognizable hands and feet. By declaring that a spirit does not possess flesh and bones, Jesus emphasized the physical nature of his resurrection body. His patient invitation to handle and touch him allowed his disciples to confirm the solid substance of his resurrected form. These wounds, the prints of the nails and spear, were not in vain but served as a proof of his suffering and sacrifice for humanity.",
-        "wordCount": 98,
-        "quoteTokenProportion": 32.81,
-        "qualityScore": 1.9820542310676286,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+        "bht": "Jesus presents His hands and feet to the disciples, showing them His wounds and declaring that a spirit lacks flesh and bones. By urging them to handle Him, Jesus gives a tangible demonstration of His resurrection and refutes the false belief that He did not possess a real human body. Through these actions, Jesus provides undeniable proof of His identity and the truth of His triumphant resurrection.",
+        "wordCount": 67,
+        "quoteTokenProportion": 31.91,
+        "qualityScore": 2.2510411818417264,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.19,
         "commentatorTierSimilarities": [
-            29.88,
-            34.48,
-            35.64
+            31.32,
+            33.68,
+            35.0
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -23,17 +23,17 @@
         "Jamieson-Fausset-Brown": [
             "Behold, c.\u2014lovingly offering them both ocular and tangible demonstration of the reality of His resurrection.",
             "a spirit hath not\u2014an important statement regarding 'spirits.'",
-            "flesh and bones\u2014He says not 'flesh and blood'... but 'flesh and bones,' implying the identity, but with diversity of laws, of the resurrection body."
+            "flesh and bones\u2014He says not 'flesh and blood' for the blood is the life of the animal and corruptible body, which 'cannot inherit the kingdom of God'; but 'flesh and bones,' implying the identity, but with diversity of laws, of the resurrection body."
         ],
         "Marvin Vincent": [
-            "It never expresses the so handling an object as to exercise a moulding, modifying influence upon it, but at most a feeling of its surface.\" ",
-            "Used of groping in the dark.",
-            "Used of the blind."
+            "Handle. ... It never expresses the so handling an object as to exercise a moulding, modifying influence upon it, but at most a feeling of its surface; this, it may be, with the intention of learning its composition.",
+            "Used of groping in the dark, Job 5:14; of the blind, Isaiah 49:10; Deuteronomy 28:29; Jude 1:16:26.",
+            "See on Hebrews 12:18."
         ],
         "John Calvin": [
-            "Sight and touch will prove that I am a real man, who have formerly conversed with you; for I am clothed with that flesh which was crucified, and which still bears the marks of it.",
-            "Again, when Christ declares that his body may be touched, and that it has solid bones, this passage is justly and appropriately adduced by those who adhere to us, for the purpose of refuting the gross error about the transubstantiation of bread into the body, or about the local presence of the body.",
-            "As to the wounds, we ought to look upon this as a proof by which it was intended to prove to us all, that Christ rose rather for us them for himself... But it was a foolish and an old wife\u2019s dream, to imagine that he will still continue to bear the marks of the wounds, when he shall come to judge the world."
+            "Look at my hands and my feet. He calls upon their bodily senses as witnesses... for I am clothed with that flesh which was crucified, and which still bears the marks of it.",
+            "When Christ declares that his body may be touched, and that it has solid bones, this passage is justly and appropriately adduced by those who adhere to us, for the purpose of refuting the gross error about the transubstantiation of bread into the body, or about the local presence of the body.",
+            "As to the wounds, we ought to look upon this as a proof by which it was intended to prove to us all, that Christ rose rather for us them for himself; since, after having vanquished death, and obtained a blessed and heavenly immortality, yet, on our account, he continued for a time to bear some remaining marks of the cross."
         ],
         "Philip Schaff": [
             "A comparison with John\u2019s account leads us to find here a proof of His identity, from the wounds in His hands and feet.",
@@ -43,12 +43,12 @@
         "Archibald T. Robertson": [
             "Jesus is patient with his proof.",
             "It is an old verb for touching with the hand.",
-            "Jesus was in a transition state and had not yet been glorified."
+            "Jesus had a real human body against the Docetic Gnostics who denied it."
         ],
         "John Gill": [
-            "Behold my hands, and my feet... the prints of the nails and spear... wounds they made there... scars they left behind.",
-            "Handle me and see... know by feeling, as well as by sight... feeling could not [be deceived].",
-            "For a spirit hath not flesh and bones... nothing but appearance, or air at most... no solid substance to be felt and handled... as ye see me have."
+            "The wounds they made there, and the scars they left behind; by which they might be convinced he was not a spirit, and be assured of the truth of his resurrection.",
+            "Handle me and see; or know by feeling, as well as by sight; so that if the one was not sufficient, the other might confirm.",
+            "A spirit hath not flesh and bones; nothing but appearance, or air at most; no solid substance to be felt and handled."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus appeared to his disciples after his resurrection to assure them of the reality and identity of his resurrected body. By showing them his hands and feet, bearing the wounds from his crucifixion, he offered ocular and tangible proof of his resurrection. He emphasized that he had flesh and bones, not flesh and blood, indicating a different existence for the resurrection body. Jesus wanted to dispel the misconception that spirits lack physical substance. His invitation to handle him and see was an act of patience and love, allowing his disciples to touch and confirm the solid reality of his resurrected body. These wounds were significant, not only because they served as evidence of his resurrection, but also as a reminder that he suffered and died for humanity. His wounds were not a permanent feature, but a temporary manifestation during his transition state before being glorified.",
-            "wordCount": 145,
-            "quoteTokenProportion": 34.88,
-            "qualityScore": 1.8534136968512087,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "bht": "Jesus, in Luke 24:39, shows the disciples His hands and feet to convince them of the reality of His resurrection. He emphasizes that a spirit does not have flesh and bones, but not blood, as the resurrection body is likely without blood. By telling them to handle Him, Jesus demonstrates that He had a real human body, countering the belief of the Docetic Gnostics who denied this. The wounds in His hands and feet serve as proof of His identity and the reality of His resurrection. Jesus patiently provides both ocular and tangible evidence to assure His disciples. Ultimately, He calls upon their bodily senses to bear witness to His resurrection, affirming the truth of His victory over death.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.089172594356585,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
             "commentatorTierSimilarities": [
-                32.31,
-                33.78,
-                33.9
+                32.23,
+                32.25,
+                35.52
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus appeared to his disciples after his resurrection, showing them his hands and feet with the recognizable wounds to prove the reality and identity of his resurrected body. He emphasized that a spirit does not have flesh and bones, distinguishing his resurrection body from a mere apparition. By inviting his disciples to physically handle him, Jesus demonstrated the tangible nature of his resurrected form. These wounds served as a reminder of his sacrifice for humanity.",
-            "wordCount": 75,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 1.9321184965387426,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "bht": "Jesus presents His hands and feet to the disciples, showing them His wounds and declaring that a spirit lacks flesh and bones. By urging them to handle Him, Jesus gives a tangible demonstration of His resurrection and refutes the false belief that He did not possess a real human body. Through these actions, Jesus provides undeniable proof of His identity and the truth of His triumphant resurrection.",
+            "wordCount": 67,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 2.2510411818417264,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.19,
             "commentatorTierSimilarities": [
-                31.37,
-                35.57,
-                33.06
+                31.32,
+                33.68,
+                35.0
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus appeared to his disciples after his resurrection, offering them both ocular and tangible demonstration of the reality and identity of his resurrected body through the sight of his recognizable hands and feet. By declaring that a spirit does not possess flesh and bones, Jesus emphasized the physical nature of his resurrection body. His patient invitation to handle and touch him allowed his disciples to confirm the solid substance of his resurrected form. These wounds, the prints of the nails and spear, were not in vain but served as a proof of his suffering and sacrifice for humanity.",
-            "wordCount": 98,
-            "quoteTokenProportion": 32.81,
-            "qualityScore": 1.9820542310676286,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "bht": "Jesus offers His hands and feet to the disciples, demonstrating the reality of His resurrection and the identity of His person. He explains that a spirit does not possess flesh and bones, emphasizing the presence of a resurrection body. By inviting them to handle Him, Jesus allows for a tangible confirmation of His physicality. These gestures serve as a patient and loving affirmation, dispelling doubts and underscoring the truth of His victory over death.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9592224102674756,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
             "commentatorTierSimilarities": [
-                29.88,
-                34.48,
-                35.64
+                31.98,
+                32.73,
+                35.28
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus, in his post-resurrection appearance to the disciples, presented his hands and feet with recognizable wounds to provide tangible evidence of the reality and identity of his resurrected body. Through this display, he declared the truth that spiritual beings lack flesh and bones. Jesus lovingly urged his disciples to handle him, ensuring a physical confirmation of his resurrection. These wounds, remnants of his sacrifice, not only were proof of his suffering but also served as a powerful reminder of his selfless act for humanity.",
-            "wordCount": 85,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 1.855089574910574,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "bht": "Jesus, in Luke 24:39, lovingly offers the disciples both ocular and tangible proof of the reality of His resurrection. By showing them His recognizable hands and feet, He assures them of the identity of His person. Through this, Jesus declares that spirits lack flesh and bones, highlighting the distinction of His resurrection body. The act of handling Him provides both a surface-level feeling and confirms the composition of His physical body. His wounds serve as a powerful testament to the truth of His resurrection and His enduring love for humanity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.9706023593164201,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
             "commentatorTierSimilarities": [
-                30.75,
-                34.53,
-                34.72
+                30.82,
+                34.05,
+                35.13
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus appeared to his disciples after his resurrection and showed them his hands and feet with recognizable wounds as proof of the reality and identity of his resurrected body. By declaring that a spirit does not have flesh and bones, Jesus emphasized the unique nature of his resurrection body. He lovingly invited his disciples to handle him, allowing them to confirm the physical substance of his resurrected form. These wounds, remnants of his sacrifice, served as a poignant reminder of his selfless act for humanity.",
-            "wordCount": 85,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.8570566924787086,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "bht": "Jesus, in demonstrating His wounds and declaring a spirit hath not flesh and bones, provides tangible evidence of His resurrection and the reality of His physical existence. By instructing the disciples to handle Him, He confirms the presence of His human body and refutes the belief of those who deny it. Through these actions, Jesus asserts His identity and the truth of His resurrection, offering undeniable proof of His victory over death.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2028313293295794,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.58,
             "commentatorTierSimilarities": [
-                30.81,
-                36.24,
-                32.95
+                29.46,
+                34.54,
+                35.99
             ],
             "generationAttempt": 5
         }

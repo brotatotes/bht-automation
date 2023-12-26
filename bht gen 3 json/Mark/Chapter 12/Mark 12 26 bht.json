@@ -1,42 +1,42 @@
 {
-    "timestamp": "12-22-2023 23:27:34",
+    "timestamp": "12-25-2023 19:32:27",
     "verseRef": "Mark 12:26",
     "bestBHT": {
-        "bht": "The reference to the bush pertains to a section in the book of Moses, specifically Exodus 3:2-6. This portion is known as the place concerning the bush. In this narrative, God proclaims, I am the God of Abraham, and the God of Isaac, and the God of Jacob, which provides evidence for the resurrection of the dead. The practice of identifying scripture sections by significant elements, such as the bush, was customary among the Jews.",
-        "wordCount": 74,
-        "quoteTokenProportion": 36.17,
-        "qualityScore": 1.9857563621815628,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+        "bht": "The mention of the book of Moses and the place concerning the Bush in this reference is an allusion to the renowned account of God speaking to Moses from the burning bush. The interpretation of the phrase in/at the bush may vary, but the structure of the text suggests it pertains to the specific section of Moses' history that revolves around the burning bush incident. This section is significant as it affirms God's identity as the God of Abraham, Isaac, and Jacob.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.074555270966967,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.32,
         "commentatorTierSimilarities": [
-            52.55,
+            53.83,
             0.0,
-            47.45
+            46.17
         ],
         "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The words may in the original mean either, \u2018in the chapter containing the history of God appearing in the Bush,\u2019 or, \u2018when he was at the Bush.\u2019",
-            "The former is the more probable, on account of the construction of the verse in our text.",
-            "In Luke, if we had his account alone, the other rendering might be admissible, \u2018Moses testified, at the Bush:' but this will not answer in our text."
+            "The words may in the original mean either, \u2018in the chapter containing the history of God appearing in the Bush,\u2019 or, \u2018when he was at the Bush.\u2019\" (quote 1)",
+            "The former is the more probable, on account of the construction of the verse in our text.\" (quote 2)",
+            "In Luke, if we had his account alone, the other rendering might be admissible, \u2018Moses testified, at the Bush:\u2019 but this will not answer in our text.\" (quote 3)"
         ],
         "Jamieson-Fausset-Brown": [
-            "And as touching the dead, that they rise: have ye not read in the book of Moses...how in the bush God spake unto him.\" ",
-            "Either 'at the bush,' as the same expression is rendered in Luke 20:37, that is, when he was there; or 'in the [section of his history regarding the] bush.'",
-            "Saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
+            "And as touching the dead, that they rise: have ye not read in the book of Moses\u2014\"even Moses\"\u2014whom they had just quoted for the purpose of entangling Him.\" ",
+            "how in the bush God spake unto him\u2014either 'at the bush,' as the same expression is rendered in Luke 20:37, that is, when he was there; or 'in the [section of his history regarding the] bush.' The structure of our verse suggests the latter sense, which is not unusual.",
+            "saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
         ],
         "Marvin Vincent": [
-            "In the bush [\u03b5\u03c0\u03b9 \u03c4\u03bf\u03c5 \u03b2\u03b1\u03c4\u03bf\u03c5], refers to a particular section in the Pentateuch, Exodus 3:2-6.\" ",
+            "In the bush [\u03b5\u03c0\u03b9 \u03c4\u03bf\u03c5 \u03b2\u03b1\u03c4\u03bf\u03c5], refers to a particular section in the Pentateuch, Exodus 3:2-6.",
             "The Jews were accustomed to designate portions of scripture by the most noteworthy thing contained in them.",
             "The article refers to it as something familiar."
         ],
         "Archibald T. Robertson": [
-            "In the place concerning the Bush (\u03b5\u03c0 \u03c4\u03bf\u03c5 \u03b2\u03b1\u03c4\u03bf\u03c5).",
+            "In the place concerning the Bush (\u03b5\u03c0 \u03c4\u03bf\u03c5 \u03b2\u03b1\u03c4\u03bf\u03c5). This technical use of \u03b5\u03c0 is good Greek, in the matter of, in the passage about, the Bush.",
             "\u0392\u03b1\u03c4\u03bf\u03c2 is masculine here, feminine in Luke 20:37.",
             "The reference is to Exodus 3:3-6 (in the book of Moses, \u03b5\u03bd \u03c4\u03b7 \u03b2\u03b9\u03b2\u03bb\u03c9)."
         ],
         "John Gill": [
-            "For the proof of the doctrine of the resurrection of the dead, have ye not read in the book of Moses...",
+            "And as touching the dead, that they rise... have ye not read in the book of Moses...\" ",
             "The book of Exodus is particularly intended; for the passage referred to is in Exodus 3:6...",
             "Saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
         ],
@@ -61,67 +61,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 12:26, the reference to the bush is a specific section in the Pentateuch (Exodus 3:2-6). The verse can be translated as either in the chapter containing the history of God appearing in the Bush or when he was at the Bush. The Jews often designated scripture portions by the most noteworthy thing contained in them, which is why it is referred to as the place concerning the Bush. In Exodus 3:6, God declares, I am the God of Abraham, and the God of Isaac, and the God of Jacob, demonstrating the truth of the resurrection of the dead.",
-            "wordCount": 97,
-            "quoteTokenProportion": 43.86,
-            "qualityScore": 2.1834668169603053,
-            "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+            "bht": "The verse contains a reference to the book of Moses and the place concerning the Bush. The commentary suggests that this refers specifically to Exodus 3:2-6, where God speaks to Moses from the burning bush. The use of the definite article indicates that this passage would have been familiar to the audience. It is noteworthy that the translation of in the bush could also mean at the bush, but based on the structure of the verse, it is more likely referring to the section of Moses' history relating to the burning bush. This passage is significant because it proclaims God as the God of Abraham, Isaac, and Jacob.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1033480470177484,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
             "commentatorTierSimilarities": [
-                51.24,
+                53.85,
                 0.0,
-                48.76
+                46.15
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The reference to the bush in Mark 12:26 corresponds to a specific section in Exodus where God appeared. This section is referred to as the place concerning the Bush. In this passage, God declares, I am the God of Abraham, and the God of Isaac, and the God of Jacob, providing evidence for the resurrection of the dead. The Jews had a practice of identifying scripture portions by notable elements within them.",
-            "wordCount": 71,
-            "quoteTokenProportion": 37.78,
-            "qualityScore": 1.881266779660482,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "bht": "The mention of the book of Moses and the place concerning the Bush in this verse allude to the well-known account of God speaking to Moses from the burning bush in Exodus 3:2-6. The use of the definite article suggests the familiarity of this incident to the audience. The translation of the phrase in the bush can also mean at the bush, but considering the structure of the verse, it likely refers to the section of Moses' history recounting the burning bush. This passage importantly identifies God as the God of Abraham, Isaac, and Jacob.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.9613435295696484,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
             "commentatorTierSimilarities": [
-                52.12,
+                55.48,
                 0.0,
-                47.88
+                44.52
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The reference to the bush in the mentioned verse corresponds to a particular section in the Pentateuch, specifically Exodus 3:2-6 in the book of Moses. This section is referred to as the place concerning the bush. God's declaration, I am the God of Abraham, and the God of Isaac, and the God of Jacob, serves as evidence for the resurrection of the dead. The Jews had a tradition of identifying scripture portions by significant elements within them, which explains the designation of the bush.",
-            "wordCount": 84,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.954860037099552,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "bht": "The mention of the book of Moses and the place concerning the Bush in this verse allude to the well-known account of God speaking to Moses from the burning bush. The translation of the phrase in/at the bush is debated, but the structure of the verse suggests it refers to the section of Moses' history relating to the burning bush. This passage is significant as it declares God as the God of Abraham, Isaac, and Jacob.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 2.191250639357548,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.2,
             "commentatorTierSimilarities": [
-                52.67,
+                53.21,
                 0.0,
-                47.33
+                46.79
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The reference to the bush pertains to a section in the book of Moses, specifically Exodus 3:2-6. This portion is known as the place concerning the bush. In this narrative, God proclaims, I am the God of Abraham, and the God of Isaac, and the God of Jacob, which provides evidence for the resurrection of the dead. The practice of identifying scripture sections by significant elements, such as the bush, was customary among the Jews.",
-            "wordCount": 74,
-            "quoteTokenProportion": 36.17,
-            "qualityScore": 1.9857563621815628,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "bht": "The mention of the book of Moses and the place concerning the Bush in this reference is an allusion to the renowned account of God speaking to Moses from the burning bush. The interpretation of the phrase in/at the bush may vary, but the structure of the text suggests it pertains to the specific section of Moses' history that revolves around the burning bush incident. This section is significant as it affirms God's identity as the God of Abraham, Isaac, and Jacob.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.074555270966967,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
             "commentatorTierSimilarities": [
-                52.55,
+                53.83,
                 0.0,
-                47.45
+                46.17
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The reference to the bush in Mark 12:26 is connected to a specific section in the Pentateuch found in Exodus 3:2-6, known as the place concerning the bush. This passage showcases God's declaration, I am the God of Abraham, and the God of Isaac, and the God of Jacob, which presents compelling evidence for the resurrection of the dead. It was customary for the Jews to use significant elements to denote sections of scripture, such as the bush in this instance.",
-            "wordCount": 80,
-            "quoteTokenProportion": 32.0,
-            "qualityScore": 2.0104783592558726,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "bht": "The mention of the book of Moses and the place concerning the Bush alludes to the section in Exodus 3:2-6 where God speaks to Moses from the burning bush. The translation of in the bush can mean at the bush, but the verse structure suggests it refers to the section of Moses' history regarding the burning bush. This passage is significant as it proclaims God as the God of Abraham, Isaac, and Jacob.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2154820663190233,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
             "commentatorTierSimilarities": [
-                51.08,
+                51.02,
                 0.0,
-                48.92
+                48.98
             ],
             "generationAttempt": 5
         }

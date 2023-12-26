@@ -1,22 +1,22 @@
 # Mark 16:1 Commentary Help Text
 
 ## BHT:
-When the Sabbath ended, the women had bought spices to anoint Jesus' body, as it had not been done yet. Their intention was to reverentially anoint Jesus' body with fresh supplies of spices. The women observed the holy rest and left during the night to reach the sepulcher at daybreak. Anointing the dead with spices was a customary practice among the Jews, handed down by the Fathers, to confirm their faith in the resurrection. It was an act of affection for Christ, even though they seemed to doubt His resurrection.
+After the Sabbath was past at sunset, the women had bought spices to anoint Jesus' body. Nicodemus had wrapped the body quickly with spices and linen clothes, but the women had not yet prepared the spices for a proper anointing. It is possible they had purchased the spices immediately after the Crucifixion on Friday evening, before the Sabbath rest began. Having returned from the tomb after watching late Friday afternoon, the women came prepared with the spices for their visit at dawn.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "It was strictly when the Sabbath was ended, i.e. at sunset, that they bought the spices." 
-2. "St. Luke xxiii. 55, places [the buying of spices] on the evening before the Sabbath; a slight but valuable discrepancy, as shewing the independence of the accounts."
+1. "It was strictly when the Sabbath was ended, i.e. at sunset, that they bought the spices."
+2. "To suppose two parties of women (Greswell) or to take bought as pluperfect (as the A.V.) is equally arbitrary and unwarranted."
 3. "This had not been done as yet. Nicodemus (John xix. 40) had only wrapped the Body hurriedly in the spices with the linen clothes."
 
 ### Jamieson-Fausset-Brown:
 1. "And when the sabbath was past—that is, at sunset of our Saturday." 
-2. "The word is simply 'bought.' But our translators are perhaps right in rendering it here 'had bought.'"
-3. "They had only deferred using them to anoint the body till the sabbath rest should be over."
+2. "But our translators are perhaps right in rendering it here 'had bought,' since it would appear, from Matthew 27:56- :, that they had purchased them immediately after the Crucifixion, on the Friday evening, during the short interval that remained to them before sunset, when the sabbath rest began."
+3. "On this 'anointing,' see on Matthew 27:56- :."
 
 ### John Calvin:
-1. "The women, after having observed the holy rest, left home during the darkness of the night, that they might reach the sepulcher about the break of day."
-2. "The custom of anointing the dead, though it was common among many heathen nations, was applied to a lawful use by the Jews alone, to whom it had been handed down by the Fathers, to confirm them in the faith of the resurrection."
+1. "While we know that the Jews began to reckon their day from the commencement of the preceding night, everybody understands, that when the Sabbath was past, the women resolved among themselves to visit the sepulcher, so as to come there before the dawn of day."
+2. "The two Evangelists give the name of the first day of the Sabbaths, to that which came first in order between two Sabbaths."
 3. "For himself, he needed not those aids, but they were owing to the ignorance of the women, who were not yet fully aware that he was free from corruption."
 
 ### Philip Schaff:
@@ -25,51 +25,51 @@ When the Sabbath ended, the women had bought spices to anoint Jesus' body, as it
 3. "Nicodemus (John 19:39-40) had done this in a necessarily hasty manner."
 
 ### Archibald T. Robertson:
-1. "The sabbath having come in between, and now over."
-2. "It was to be a reverential anointing of the body of Jesus with spices."
-3. "Now they secured a fresh supply."
+1. "It was therefore after sunset."
+2. "They could buy them after sundown."
+3. "They had returned from the tomb after the watching late Friday afternoon and had prepared spices."
 
 ### John Gill:
-1. "For this there was a particular market at Jerusalem, for we are told, that 'there were there three markets, one by another; in the first of which were sold, all kinds of precious things, silks, and embroidered work; in the second, various kinds of fruits and herbs; and in the third, all kinds of spices." 
-2. "Hence we read of 'the spices of the dead,' which were used to expel an ungrateful savour: this they did, out of affection to Christ, but seemed to have no faith in his resurrection, though he had told them of it, which they had forgot."
+1. "For this there was a particular market at Jerusalem, for we are told, that 'there were there three markets, one by another; in the first of which were sold, all kinds of precious things, silks, and embroidered work; in the second, various kinds of fruits and herbs; and in the third, all kinds of spices.'"
+2. "That they might come and anoint him; with those sweet spices, as was the manner of the Jews: hence we read of 'the spices of the dead'; which were used to expel an ungrateful savour."
 3. "Though it seems most likely, that they came to anoint his body; for this was one of the things which was customary in Israel to do to dead men, as Maimonides observes, 'they anoint him with various sorts of spices'."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:30:23
+- Timestamp: 12-25-2023 19:33:46
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 46.03%
-- BHT Quality Score: 1.91860576735171
+- BHT Word Count: 82
+- BHT Commentary Usage: 37.04%
+- BHT Quality Score: 2.1663647432364823
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'act', 'affection', 'among', 'an', 'and', 'anoint', 'anointing', 'as', 'at', 'been', 'body', 'bought', 'by', 'christ', 'confirm', 'customary', 'daybreak', 'dead', 'done', 'doubt', 'down', 'during', 'ended', 'even', 'faith', 'fathers', 'for', 'fresh', 'had', 'handed', 'his', 'holy', 'in', 'intention', 'it', 'jesus', 'jews', 'left', 'night', 'not', 'observed', 'of', 'practice', 'reach', 'rest', 'resurrection', 'reverentially', 'sabbath', 'seemed', 'sepulcher', 'spices', 'supplies', 'the', 'their', 'they', 'though', 'to', 'was', 'when', 'with', 'women', 'yet']
+- ChatGPT injected words (54):
+	['a', 'after', 'afternoon', 'and', 'anoint', 'anointing', 'at', 'before', 'began', 'body', 'bought', 'but', 'came', 'clothes', 'crucifixion', 'dawn', 'evening', 'for', 'friday', 'from', 'had', 'having', 'immediately', 'is', 'it', 'jesus', 'late', 'linen', 'nicodemus', 'not', 'on', 'past', 'possible', 'prepared', 'proper', 'purchased', 'quickly', 'rest', 'returned', 'sabbath', 'spices', 'sunset', 'the', 'their', 'they', 'to', 'tomb', 'visit', 'was', 'watching', 'with', 'women', 'wrapped', 'yet']
 - ChatGPT injected words (significant words only) (34):
-	['act', 'affection', 'anoint', 'anointing', 'body', 'bought', 'christ', 'confirm', 'customary', 'daybreak', 'dead', 'doubt', 'ended', 'faith', 'fathers', 'fresh', 'handed', 'holy', 'intention', 'jesus', 'jews', 'left', 'night', 'observed', 'practice', 'reach', 'rest', 'resurrection', 'reverentially', 'sabbath', 'sepulcher', 'spices', 'supplies', 'women']
+	['afternoon', 'anoint', 'anointing', 'began', 'body', 'bought', 'came', 'clothes', 'crucifixion', 'dawn', 'evening', 'friday', 'having', 'immediately', 'jesus', 'late', 'linen', 'nicodemus', 'past', 'possible', 'prepared', 'proper', 'purchased', 'quickly', 'rest', 'returned', 'sabbath', 'spices', 'sunset', 'tomb', 'visit', 'watching', 'women', 'wrapped']
 
 ### Logs
-- Attempt 1 BHT: When the Sabbath came to an end, the women bought spices in preparation to anoint Jesus' body. Luke places the buying of the spices on the evening before the Sabbath, highlighting the independent accounts of this event. Nicodemus had previously wrapped Jesus' body hastily with spices and linen clothes, but the women had deferred using their spices until the Sabbath rest was over. Their intention was to reverentially anoint Jesus' body with fresh supplies of spices. It was customary among the Jews to anoint the dead with spices as an act of faith in the resurrection. The women, after observing the holy rest, left during the darkness of the night and headed towards the sepulcher.
-- 🔄 Mark 16:1 (attempt 1, 115 words, 35.82% quotes quality score: 2.103047594129678, V2 normalized quality score: 61.27, commentator tiers 1-3: 36.0%, 30.36%, 33.64%) 
+- Attempt 1 BHT: After the Sabbath ended at sunset, the women bought spices to anoint Jesus' body. They had not yet done this, as Nicodemus had only wrapped the body hastily in spices and linen clothes. Our translators may be correct in rendering it as had bought because they likely purchased the spices immediately after the Crucifixion before the Sabbath rest began. It is important to note that the women had returned from the tomb after watching late Friday afternoon and had already prepared the spices. While it is understood that the Jewish day begins the night before, the women resolved among themselves to visit the sepulcher before dawn.
+- 🔄 Mark 16:1 (attempt 1, 106 words, 39.71% quotes quality score: 2.022542749772029, V2 normalized quality score: 58.59, commentator tiers 1-3: 36.08%, 28.15%, 35.77%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: When the Sabbath ended, the women bought spices to anoint Jesus' body, as it had not been done properly before. Their intention was to reverentially anoint Jesus' body. The women, after observing the holy rest, left home during the darkness of the night to reach the sepulcher at daybreak. Anointing the dead with spices was a customary act among the Jews to confirm their faith in the resurrection. It was a sign of affection for Christ, although they seemed to lack faith in His resurrection.
-- 🔄 Mark 16:1 (attempt 2, 85 words, 43.1% quotes quality score: 1.8939490365878506, V2 normalized quality score: 54.32, commentator tiers 1-3: 32.55%, 29.64%, 37.82%) 
+- Attempt 2 BHT: After the Sabbath ended at sunset, the women bought spices to anoint Jesus' body. They had not yet done this, as Nicodemus had only wrapped the body hastily in spices and linen clothes. Our translators may be correct in rendering it as had bought because they likely purchased the spices immediately after the Crucifixion before the Sabbath rest began. The women had returned from the tomb after watching late Friday afternoon and had already prepared the spices. They resolved to visit the sepulcher before dawn.
+- 🔄 Mark 16:1 (attempt 2, 85 words, 39.29% quotes quality score: 1.9598219601647027, V2 normalized quality score: 56.51, commentator tiers 1-3: 37.73%, 30.16%, 32.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When the Sabbath ended, the women had bought spices to anoint Jesus' body, as it had not been done yet. Their intention was to reverentially anoint Jesus' body with fresh supplies of spices. The women observed the holy rest and left during the night to reach the sepulcher at daybreak. Anointing the dead with spices was a customary practice among the Jews, handed down by the Fathers, to confirm their faith in the resurrection. It was an act of affection for Christ, even though they seemed to doubt His resurrection.
-- 🔄 Mark 16:1 (attempt 3, 90 words, 46.03% quotes quality score: 1.91860576735171, V2 normalized quality score: 55.14, commentator tiers 1-3: 33.28%, 28.65%, 38.07%) 
+- Attempt 3 BHT: After the Sabbath ended at sunset, the women bought spices to anoint Jesus' body. Nicodemus had only wrapped the body hastily in spices and linen clothes, so the women had not yet prepared the spices for a proper anointing. It is likely that they had purchased the spices immediately after the Crucifixion on Friday evening, during the brief interval before the Sabbath began. The women had returned from the tomb after watching late Friday afternoon and had already prepared the spices for their visit at dawn.
+- 🔄 Mark 16:1 (attempt 3, 86 words, 41.07% quotes quality score: 2.140449812069158, V2 normalized quality score: 62.51, commentator tiers 1-3: 36.75%, 29.3%, 33.94%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: After the Sabbath was over, the women bought spices to anoint Jesus' body. Their purpose was to reverentially anoint His body with fresh supplies, as it had only been hastily wrapped by Nicodemus. The women left during the night, having observed the holy rest, to arrive at the sepulcher at daybreak. Anointing the dead with spices was a customary practice among the Jews as a sign of faith in the resurrection. Their action demonstrated affection for Christ, although they seemed to lack belief in His predicted resurrection.
-- 🔄 Mark 16:1 (attempt 4, 87 words, 38.71% quotes quality score: 1.8953339692719329, V2 normalized quality score: 54.36, commentator tiers 1-3: 32.58%, 30.49%, 36.93%) 
+- Attempt 4 BHT: After the Sabbath was past at sunset, the women had bought spices to anoint Jesus' body. Nicodemus had wrapped the body quickly with spices and linen clothes, but the women had not yet prepared the spices for a proper anointing. It is possible they had purchased the spices immediately after the Crucifixion on Friday evening, before the Sabbath rest began. Having returned from the tomb after watching late Friday afternoon, the women came prepared with the spices for their visit at dawn.
+- 🔄 Mark 16:1 (attempt 4, 82 words, 37.04% quotes quality score: 2.1663647432364823, V2 normalized quality score: 63.37, commentator tiers 1-3: 36.64%, 29.97%, 33.39%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: After the Sabbath ended, the women had bought spices to anoint Jesus' body, which had not been done yet. Their intention was a reverential anointing, an act commonly practiced among the Jews to confirm their faith in the resurrection. Observing the holy rest, the women left during the night to reach the sepulcher at daybreak. However, although an act of affection for Christ, their action seemed to indicate a lack of faith in His resurrection, despite Him foretelling it to them.
-- 🔄 Mark 16:1 (attempt 5, 81 words, 44.07% quotes quality score: 1.7995937201397276, V2 normalized quality score: 51.18, commentator tiers 1-3: 31.11%, 30.47%, 38.42%) 
+- Attempt 5 BHT: After the Sabbath was past at sunset, the women had bought spices to anoint Jesus' body. Nicodemus had wrapped the body quickly with spices and linen clothes, but the women had not yet prepared the spices for a proper anointing. It is possible they had purchased the spices immediately after the Crucifixion on Friday evening, before the Sabbath rest began. Having returned from the tomb after watching late Friday afternoon, the women came prepared with the spices for their visit at dawn.
+- 🔄 Mark 16:1 (attempt 5, 82 words, 37.04% quotes quality score: 2.1663647432364823, V2 normalized quality score: 63.37, commentator tiers 1-3: 36.64%, 29.97%, 33.39%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 16:1 bht prompt v0.8 (90 words, 46.03% quotes)
-- quality score: 1.91860576735171, V2 normalized quality score: 55.14, commentator tiers 1-3: 33.28%, 28.65%, 38.07%)
+- ✅ Mark 16:1 bht prompt v0.8 (82 words, 37.04% quotes)
+- quality score: 2.1663647432364823, V2 normalized quality score: 63.37, commentator tiers 1-3: 36.64%, 29.97%, 33.39%)

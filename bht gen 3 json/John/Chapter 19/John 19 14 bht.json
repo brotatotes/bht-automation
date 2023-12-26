@@ -1,28 +1,28 @@
 {
-    "timestamp": "12-21-2023 03:14:51",
+    "timestamp": "12-25-2023 19:33:45",
     "verseRef": "John 19:14",
     "bestBHT": {
-        "bht": "On the day preceding the evening when the passover lamb would be killed, around noon, Pilate made his final decision. Mockingly, he proclaimed, Behold your King! This irony aimed at the Jews rather than Jesus, reawakening their cry to despatch Him. This day, known as the preparation of the passover, symbolized the forthcoming sacrifice of the true Paschal Lamb, Jesus Himself. The Evangelist chose words that expressed both the external incident and the deeper meaning of Jesus as the sacrificial lamb.",
-        "wordCount": 81,
-        "quoteTokenProportion": 38.33,
-        "qualityScore": 1.9072996526486645,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+        "bht": "On the vigil of the Passover, the preparation day before the evening sacrifice, Jesus stood before the Jewish leaders. There seems to be a discrepancy in the time mentioned here, with some suggesting that the true reading is the third hour, or 9 A.M. Pilate's statement Behold your King was likely an ironic mockery toward the Jews. As the day progressed, Pilate took a sort of quiet revenge on them by giving in to their demands, which only fueled their cry to crucify Him. This preparation day heralded the sacrifice of the true Paschal Lamb, Jesus Himself.",
+        "wordCount": 98,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0509321984939026,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.53,
         "commentatorTierSimilarities": [
-            25.57,
-            36.72,
-            37.72
+            24.64,
+            38.99,
+            36.37
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This preparation day is \u2018the vigil of the Passover,\u2019 i.e. the day preceding the evening when the passover was killed.",
-            "There is an insuperable difficulty, as the text now stands.",
-            "The words Behold your King seem to have been spoken in irony to the Jews."
+            "We must certainly suppose, as did Eusebius, Theophylact, and Severus, that there has been some very early erratum in our copies.",
+            "The words Behold your King seem to have been spoken in irony to the Jews\u2014in the same spirit in which afterwards the title was written over the cross."
         ],
         "Jamieson-Fausset-Brown": [
             "The true reading here is probably, 'the third hour'\u2014or nine A.M.\u2014which agrees best with the whole series of events, as well as with the other Evangelists.",
-            "He saith to the Jews, Behold your King!\u2014Having now made up his mind to yield to them, he takes a sort of quiet revenge on them by this irony, which he knew would sting them.",
+            "Having now made up his mind to yield to them, he takes a sort of quiet revenge on them by this irony, which he knew would sting them.",
             "This only reawakens their cry to despatch Him."
         ],
         "Albert Barnes": [
@@ -33,29 +33,29 @@
             "Sixth hour. See on 1 39."
         ],
         "John Calvin": [
-            "The Evangelists appear to differ, and even to contradict each other, in the computation of time.",
-            "It is plain enough from other passages that the day was at that time divided into four parts.",
+            "The Evangelists appear to differ, and even to contradict each other, in the computation of time.\" ",
+            "It is plain enough from other passages that the day was at that time divided into four parts, as the night also contained four watches.",
             "Hence we infer that Christ was crucified at or about the sixth hour; for, as the Evangelist afterwards mentions, (John 19:20,) the place was near to the city."
         ],
         "Philip Schaff": [
-            "The day now dawning, and the events now occurring, were \u2018a preparation of the Paschal lamb\u2019 yet not of the lamb of the Jewish feast, but of the true Paschal Lamb, Jesus Himself, of the Lamb now on His way to be sacrificed for the life of His people.\" ",
-            "Both these meanings are prominent to the eye of the Evangelist; and as, with the ready appreciation of symbolism possessed by the symbolic mind, he sets that one of his deepest thoughts can be expressed by words which shall at the same time express an outward incident of the scene, he chooses his language for the sake of the richer meaning to which he is thus able to give utterance.",
-            "The words are not spoken sarcastically of Jesus, but contemptuously of the Jews...would his contempt be increased for those who were urging him to act unjustly. His secret displeasure with himself would seek satisfaction in his indignation and disgust with them."
+            "The day now dawning, and the events now occurring, were 'a preparation of the Paschal lamb' yet not of the lamb of the Jewish feast, but of the true Paschal Lamb, Jesus Himself, of the Lamb now on His way to be sacrificed for the life of His people.",
+            "If, on the other hand, the word denotes the weekly day of preparation ('Friday'), it is clear that in John 19:31 any explanatory addition would be superfluous.",
+            "Pilate had no motive for being sarcastic with regard to [Jesus]. He had been impressed by the spectacle of meekness and innocence which Jesus presented. He would have set Him free had he possessed sufficient earnestness and depth of moral character to carry into effect what he knew to be right."
         ],
         "Archibald T. Robertson": [
+            "The Preparation of the passover (\u03c0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c3\u03c7\u03b1). That is, Friday of passover week, the preparation day before the Sabbath of passover week.",
             "About the sixth hour (\u03c9\u03c2 \u03b5\u03ba\u03c4\u03b7). Roman time, about 6 A.M. (a little after 6 no doubt) when Pilate rendered his final decision.",
-            "Why should John give Jewish time writing at the close of the first century when Jerusalem and the Jewish state passed away in A.D. 70? He is writing for Greek and Roman readers.",
-            "The sarcasm of Pilate is aimed at the Jews, not at Jesus."
+            "Behold your king (\u0399\u03b4\u03b5 \u03bf \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03c5\u03c2 \u03c5\u03bc\u03c9\u03bd). \u0399\u03b4\u03b5 is here an exclamation with no effect on the case of \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03c5\u03c2 just as in John 1:29."
         ],
         "John Gill": [
-            "This preparation of the passover was not of the passover lamb, for that had been prepared and eaten the night before.",
-            "It seems best of all to understand it only of the preparation for the sabbath, which, because it was in the passover week, is called the passover preparation day.",
-            "And about this time Pilate said, and did the following things: and he saith unto the Jews, behold your king; whom some of your people, it seems, have owned for their king, and you charge as setting up himself as one; see what a figure he makes; does he look like a king?"
+            "And it was the preparation of the passover... but then this preparation of the passover was not of the passover lamb, for that had been prepared and eaten the night before.",
+            "Their canon runs thus: 'a feast day which falls on the eve of the sabbath, a man may not boil (anything) at the beginning of the feast day for the sabbath; but he may boil for the feast day; and if there is any left, it may be left for the sabbath; and he may make a boiling on the eve of a feast day, and depend on it for the sabbath.'",
+            "The time of Christ's crucifixion being supposed to be somewhat before, but yet near our twelve of the clock, it may be truly here said that it was about the sixth hour; and as truly by Mark the third hour; that space, which was called by the name of the third hour, being not yet passed, though it drew toward an end."
         ],
         "John Wesley": [
-            "It was the preparation of the passover \u2014 For this reason both the Jews and Pilate were desirous to bring the matter to a conclusion.",
             "Every Friday was called the preparation, (namely, for the Sabbath.)",
-            "And as often as the passover fell on a Friday, that day was called the preparation of the passover."
+            "And as often as the passover fell on a Friday, that day was called the preparation of the passover.",
+            "For this reason both the Jews and Pilate were desirous to bring the matter to a conclusion."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -75,67 +75,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "On the day preceding the evening when the passover lamb would be killed, it was around the sixth hour, or noon, when Pilate rendered his final decision. His words, Behold your King!, were spoken not sarcastically of Jesus, but contemptuously of the Jews. Pilate's irony aimed to sting them, but instead, it reawakened their cry to despatch Jesus. This day, known as the preparation of the passover, was a symbolic preparation not of the Jewish feast, but of the true Paschal Lamb, Jesus Himself. The Evangelist strategically chose language that expressed both the outward incident and the deeper meaning of Jesus as the sacrificial lamb.",
-            "wordCount": 106,
-            "quoteTokenProportion": 35.21,
-            "qualityScore": 1.9934698586462463,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "bht": "On the vigil of the Passover, the preparation day before the evening sacrifice, Jesus stood before the Jewish leaders. There seems to be a discrepancy in the time mentioned here, with some suggesting that the true reading is the third hour, or 9 A.M., which aligns with the events that followed. It is believed that Pilate's statement Behold your King was spoken ironically, intended to sting the Jews. As the day progressed, Pilate took a sort of quiet revenge on them, giving in to their demands. This only fueled their cry to crucify Him, as they longed to put an end to this matter quickly. It is significant to note that this preparation day wasn't for the Passover lamb, but for the true Paschal Lamb, Jesus Himself, who was on His way to be sacrificed for the life of His people.",
+            "wordCount": 143,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9016276373400736,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
             "commentatorTierSimilarities": [
-                24.98,
-                37.43,
-                37.59
+                26.11,
+                38.11,
+                35.78
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "On the day before the evening when the passover was killed, around noon, Pilate made his final decision and sarcastically proclaimed, Behold your King! However, this irony was not directed at Jesus but rather contemptuously aimed at the Jews. It reawakened their cry to despatch Him. This day was a symbolic preparation not of the Jewish feast, but of the true Paschal Lamb, Jesus Himself. The Evangelist strategically chose language to express both the outward incident and the deeper meaning of Jesus as the sacrificial lamb.",
-            "wordCount": 86,
-            "quoteTokenProportion": 39.68,
-            "qualityScore": 1.8687177337739804,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "bht": "On the vigil of the Passover, the preparation day before the evening sacrifice, Jesus stood before the Jewish leaders. There seems to be a discrepancy in the time mentioned here, with some suggesting that the true reading is the third hour, which aligns with the events that followed. Pilate's statement Behold your King was likely meant as an ironic mockery toward the Jews. As the day progressed, Pilate took a sort of quiet revenge on them by giving in to their demands, which only fueled their cry to crucify Him. This preparation day wasn't for the Passover lamb, but for the true Paschal Lamb, Jesus Himself, on His way to be sacrificed for His people.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 1.9867749605868301,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
             "commentatorTierSimilarities": [
-                25.68,
-                36.22,
-                38.09
+                25.21,
+                38.32,
+                36.47
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "On the day preceding the evening when the passover lamb would be killed, around noon, Pilate's final decision was made. Mockingly, he proclaimed, Behold your King!, aiming his sarcasm at the Jews, not Jesus. Rather than diminishing his contempt for them, this only fueled their desire to bring harm to Jesus. This day, known as the preparation of the passover, was not about the Jewish feast but symbolized the forthcoming sacrifice of the true Paschal Lamb, Jesus Himself. The Evangelist's choice of language served to convey both the literal event and its deeper significance.",
-            "wordCount": 96,
-            "quoteTokenProportion": 40.28,
-            "qualityScore": 1.8486618133896737,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "bht": "On the vigil of the Passover, the preparation day before the evening sacrifice, Jesus stood before the Jewish leaders. There seems to be a discrepancy in the time mentioned here, with some suggesting that the true reading is the third hour, or 9 A.M. Pilate's statement Behold your King was likely an ironic mockery toward the Jews. As the day progressed, Pilate took a sort of quiet revenge on them by giving in to their demands, which only fueled their cry to crucify Him. This preparation day heralded the sacrifice of the true Paschal Lamb, Jesus Himself.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0509321984939026,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
             "commentatorTierSimilarities": [
-                23.28,
-                37.71,
-                39.0
+                24.64,
+                38.99,
+                36.37
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "On the day before the passover lamb was to be killed, around noon, Pilate made his final decision. He sarcastically stated, Behold your King! but this was aimed at the Jews, not Jesus. Instead of diminishing his contempt for them, it further fueled their call to harm Jesus. This day was a symbolic preparation, not for the Jewish feast, but for the sacrifice of Jesus, the true Paschal Lamb. The Evangelist skillfully used language that conveyed both the external incident and the deeper meaning behind Jesus being the sacrificial lamb.",
-            "wordCount": 90,
-            "quoteTokenProportion": 44.62,
-            "qualityScore": 1.808070073348325,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "bht": "On the vigil of the Passover, the preparation day before the evening sacrifice, Jesus stood before the Jewish leaders. There seems to be a discrepancy in the time mentioned here. Some suggest the true reading is the third hour, or 9 A.M., aligning with the events that followed. Pilate's statement Behold your King was an ironic mockery of the Jews. As the day progressed, Pilate took a sort of quiet revenge on them, giving in to their demands. This preparation day was for the true Paschal Lamb, Jesus Himself, who was on His way to be sacrificed for His people.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7952852053726849,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
             "commentatorTierSimilarities": [
-                24.46,
-                36.16,
-                39.39
+                25.31,
+                38.14,
+                36.56
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "On the day preceding the evening when the passover lamb would be killed, around noon, Pilate made his final decision. Mockingly, he proclaimed, Behold your King! This irony aimed at the Jews rather than Jesus, reawakening their cry to despatch Him. This day, known as the preparation of the passover, symbolized the forthcoming sacrifice of the true Paschal Lamb, Jesus Himself. The Evangelist chose words that expressed both the external incident and the deeper meaning of Jesus as the sacrificial lamb.",
-            "wordCount": 81,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 1.9072996526486645,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "bht": "On the vigil of the Passover, the preparation day before the evening sacrifice, Jesus stood before the Jewish leaders. There seems to be a discrepancy regarding the time mentioned here, with some suggesting the true reading is the third hour, or 9 A.M. Pilate's statement Behold your King was likely uttered ironically to mock the Jews. As the day progressed, Pilate succumbed to their demands, taking a quiet revenge on them. This preparation day symbolized the sacrifice of Jesus, the true Paschal Lamb, for the salvation of His people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9618322848843053,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
             "commentatorTierSimilarities": [
-                25.57,
-                36.72,
-                37.72
+                23.85,
+                39.28,
+                36.87
             ],
             "generationAttempt": 5
         }

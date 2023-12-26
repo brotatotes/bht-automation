@@ -1,7 +1,8 @@
 import os 
 import json
 
-folder = "gpt output/bht/json/choicest prompt v0.4 X bht prompt v1.2"
+# folder = "gpt output/bht/json/choicest prompt v0.4 X bht prompt v1.2"
+folder = 'bht gen 3 json'
 
 def load_json_file(file_path):
     try:

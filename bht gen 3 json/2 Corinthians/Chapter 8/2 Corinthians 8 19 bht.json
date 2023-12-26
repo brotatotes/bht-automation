@@ -1,64 +1,64 @@
 {
-    "timestamp": "12-19-2023 15:17:17",
+    "timestamp": "12-25-2023 19:32:55",
     "verseRef": "2 Corinthians 8:19",
     "bestBHT": {
-        "bht": "The brother appointed by the churches joins Paul in collecting alms to avoid suspicions detrimental to Christ's glory and zeal. This union promotes the readiness and benevolence of believers, demonstrating the impact of faith in acts of charity. The appointment signifies the churches' confidence and desire to contribute to God's glory through kindness. The joint effort of the churches exemplifies their ready minds and eagerness to serve. Let us recognize and appreciate their labor and commitment to this grace.",
-        "wordCount": 81,
-        "quoteTokenProportion": 18.52,
-        "qualityScore": 1.904147903557185,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+        "bht": "The brother appointed by the churches accompanied Paul and his companions in their act of love, showcasing the influence of religion in producing true benevolence. His appointment aimed to promote the glory of the Lord and reflect the readiness of Paul and his fellow believers to undertake this act. Chosen by the churches themselves, this brother's participation demonstrated their confidence and active involvement in this gracious endeavor, stirring up a generous spirit among the believers.",
+        "wordCount": 76,
+        "quoteTokenProportion": 26.53,
+        "qualityScore": 2.0458133908341622,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.36,
         "commentatorTierSimilarities": [
-            31.27,
-            37.31,
-            31.42
+            31.78,
+            40.48,
+            27.75
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Who was also appointed (by vote: elected, ordained) by the churches as our fellow-traveller in this charity which is being ministered by us.\" ",
-            "In order to subserve the glory of the Lord and our readiness.\" ",
-            "The union of this brother with Paul in the matter of the alms, which was done to avoid suspicions detrimental to Christ's glory, and to the zeal of the Apostle."
+            "Praised in all the churches.\" ",
+            "Appointed by the churches as our fellow-traveler.\" ",
+            "To subserve the glory of the Lord and our readiness."
         ],
         "Jamieson-Fausset-Brown": [
-            "chosen\u2014by vote: so the Greek.",
-            "these companions of Paul are called 'messengers of the churches'",
-            "The union of the brother with Paul in this affair of the collection was done to guard against suspicions injurious 'to the glory' of the Lord."
+            "not only praised in all the churches.",
+            "these companions of Paul are called 'messengers of the churches'.",
+            "in order to produce a 'readiness' on the part of Paul and the brother to undertake the office which each, by himself, would have been less ready to undertake, for fear of suspicions arising."
         ],
         "Albert Barnes": [
-            "Not only is he esteemed on account of other services which he has rendered by his preaching and writings; but he has had a new mark of the confidence of the churches in being appointed to convey the collection to Jerusalem.",
             "Chosen by the churches. Many concurred in the choice, showing that they had entire confidence in him.",
+            "Paul had been unwilling to have charge of this contribution alone and he had procured the appointment of someone to undertake it.",
             "The design was to promote the glory of the Lord by showing the influence of religion in producing true benevolence."
         ],
         "Marvin Vincent": [
             "The reference is, of course, to the contribution as a work of love; cariv being used in the sense of benefaction or bounty.",
-            "Paul says that the brother was appointed as his fellow-traveller in the matter of this bounty; in the prosecution of this kindly act.",
+            "Paul says that the brother was appointed as his fellow - traveller in the matter of this bounty; in the prosecution of this kindly act.",
             "For appointed, see on Acts 14:23; Acts 10:41."
         ],
         "John Calvin": [
-            "He says, that [the ministry] tends to promote the glory of God, and their kindness of disposition.",
-            "[The ministry] comes, that these two things are conjoined \u2014 the glory of God and their liberality.",
-            "There is ... the labor of those distinguished men, which it were very inconsistent to reject, or allow to pass unimproved."
+            "He says, that it tends to promote the glory of God, and their kindness of disposition.\" ",
+            "Hence it comes, that these two things are conjoined - the glory of God and their liberality.",
+            "There is, in addition to this, the labor of those distinguished men, which it were very inconsistent to reject or allow to pass unimproved."
         ],
         "Philip Schaff": [
-            "Appointed by the churches to travel with us in the matter of this grace.",
-            "Contributions ministered by us to the glory of the Lord (the Lord Jesus).",
-            "To show our readiness."
+            "appointed by the churches to travel with us in the matter of this grace.",
+            "ministered by us to the glory of the Lord (the Lord Jesus).",
+            "to show our readiness."
         ],
         "Archibald T. Robertson": [
-            "The idea is that this brother was chosen by the churches, not by Paul.\" (\u03b1\u03bb\u03bb\u03b1 \u03ba\u03b1 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03bf\u03bd\u03b7\u03b8\u03b5\u03b9\u03c2)",
-            "Only here in N.T. save Acts 14:23 where it means to appoint without notion of raising the hands.\" (\u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03bf\u03bd\u03b7\u03b8\u03b5\u03b9\u03c2)",
-            "Late word for travelling companion.\" (\u03c3\u03c5\u03bd\u03b5\u03ba\u03b4\u03b7\u03bc\u03bf\u03c2)"
+            "The idea is that this brother was chosen by the churches, not by Paul.\" (9 words)",
+            "Only here in N.T. save Acts 14:23 where it means to appoint without notion of raising the hands.\" (18 words)",
+            "Late word for travelling companion.\" (5 words)"
         ],
         "John Gill": [
-            "He was also appointed by the joint suffrages of the churches",
-            "This brother was chosen by the churches who collected, and not by the churches in Judea",
-            "...the declaration of your ready mind"
+            "This brother was chosen by the churches who collected, and not by the churches in Judea, for whom the collections were made.",
+            "the bounty or beneficence of the churches, what they had freely and liberally contributed for the supply of the poor, from a principle of grace, and by the assistance of it",
+            "to stir up their ready mind to increase it and promote it in them, as well to make it manifest, and that it might appear to others, how readily and freely they came into this service"
         ],
         "John Wesley": [
-            "He was appointed by the churches \u2014 Of Macedonia.",
-            "With this gift \u2014 Which they were carrying from Macedonia to Jerusalem.",
-            "For the declaration of our ready mind \u2014 That of Paul and his fellow-traveller, ready to be the servants of all."
+            "He was appointed by the churches.\" ",
+            "With this gift.",
+            "For the declaration of our ready mind."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -78,67 +78,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The brother mentioned in this verse was chosen by the churches to accompany Paul in the matter of collecting alms, in order to prevent any suspicions that could harm the glory of the Lord and Paul's zeal. This companionship was aimed at promoting the readiness and benevolence of the believers, showing the influence of religion in producing true acts of charity. The brother's appointment by the churches signifies their confidence in him and their desire to contribute to the glory of God through their kindness. The joint effort of the churches in Macedonia and the labor of these esteemed men should not be disregarded, but rather recognized as a testament to their ready minds and readiness to serve others.",
-            "wordCount": 121,
-            "quoteTokenProportion": 32.43,
-            "qualityScore": 2.076595487762023,
-            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "bht": "The brother mentioned in this verse was praised in all the churches and appointed by them as a fellow-traveler. His appointment was intended to promote the glory of the Lord and to demonstrate Paul and his fellow's readiness to undertake this act of love. The brother was chosen by the churches, indicating their confidence in him, and he was appointed to travel with Paul and the others in the matter of this gracious contribution. This appointment was not made by Paul, but rather by the churches themselves. It was a joint effort to show the influence of religion in producing true benevolence and to stir up a ready and generous spirit among the believers.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.090695451069367,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.86,
             "commentatorTierSimilarities": [
-                32.18,
-                37.25,
-                30.57
+                33.51,
+                36.95,
+                29.54
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The brother chosen by the churches joins Paul in collecting alms, aiming to prevent suspicions that would tarnish the Lord's glory and Paul's zeal. This companionship promotes the readiness and benevolence of believers, demonstrating faith's impact on genuine acts of charity. The appointment signifies the churches' trust and desire to contribute to God's glory through kindness. The joint effort and labor of these esteemed men should not be rejected; it showcases their willing hearts and eagerness to serve others.",
-            "wordCount": 83,
-            "quoteTokenProportion": 29.03,
-            "qualityScore": 1.8673591815218442,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "bht": "The brother who accompanied Paul and his companions in their act of love and benefaction was highly regarded and chosen by the churches. His appointment was meant to demonstrate their readiness and promote the glory of the Lord. This joint effort showcased the influence of religion in producing true benevolence and aimed to stir up a ready and generous spirit among the believers. The brother's appointment was not by Paul but by the churches themselves, reflecting their confidence in him and their desire to actively participate in this act of grace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0029150149492736,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
             "commentatorTierSimilarities": [
-                33.8,
-                34.91,
-                31.28
+                29.63,
+                39.26,
+                31.11
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The brother appointed by the churches joins Paul in collecting alms to avoid suspicions detrimental to Christ's glory and zeal. This union promotes the readiness and benevolence of believers, demonstrating the impact of faith in acts of charity. The appointment signifies the churches' confidence and desire to contribute to God's glory through kindness. The joint effort of the churches exemplifies their ready minds and eagerness to serve. Let us recognize and appreciate their labor and commitment to this grace.",
-            "wordCount": 81,
-            "quoteTokenProportion": 18.52,
-            "qualityScore": 1.904147903557185,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "bht": "The brother who accompanied Paul and his companions in their act of love and benefaction was highly regarded and chosen by the churches. His appointment was meant to demonstrate their readiness and promote the glory of the Lord. This joint effort showcased the influence of religion in producing true benevolence and aimed to stir up a ready and generous spirit among the believers.",
+            "wordCount": 63,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.9180698917427574,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
             "commentatorTierSimilarities": [
-                31.27,
-                37.31,
-                31.42
+                27.82,
+                39.5,
+                32.67
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The brother chosen by the churches accompanies Paul in collecting alms, guarding against suspicions harmful to the Lord's glory and Paul's zeal. This partnership highlights believers' readiness and benevolence, demonstrating the impact of faith in acts of charity. The appointment testifies to the churches' confidence and their desire to contribute to God's glory through kindness. The collective effort exemplifies their preparedness and eagerness to serve. Let us honor their labor and commitment to this gracious act.",
-            "wordCount": 79,
-            "quoteTokenProportion": 20.37,
-            "qualityScore": 1.7682354776119404,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "bht": "The brother who accompanied Paul and his companions was highly praised and appointed by the churches. This appointment served to promote the glory of the Lord and reflect the readiness of Paul and his fellow believers to undertake this act of love. It was a joint effort, demonstrating the influence of religion in producing true benevolence and fostering a generous spirit among the believers. The choice of this brother was made by the churches themselves, indicating their confidence and active participation in this gracious undertaking.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.973623655772268,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.96,
             "commentatorTierSimilarities": [
-                31.92,
-                39.11,
-                28.97
+                31.56,
+                38.35,
+                30.09
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The brother, elected by the churches, joins Paul in collecting alms, avoiding suspicions detrimental to Christ's glory and the Apostle's zeal. This union promotes believers' readiness and benevolence, showcasing faith's influence in acts of charity. The appointment signifies the churches' confidence and their desire to contribute to God's glory through kindness. The united effort serves as a testament to their ready minds and eagerness to serve others. Let us appreciate their labor and commitment to this gracious undertaking.",
-            "wordCount": 82,
-            "quoteTokenProportion": 22.03,
-            "qualityScore": 1.8161987784713252,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "bht": "The brother appointed by the churches accompanied Paul and his companions in their act of love, showcasing the influence of religion in producing true benevolence. His appointment aimed to promote the glory of the Lord and reflect the readiness of Paul and his fellow believers to undertake this act. Chosen by the churches themselves, this brother's participation demonstrated their confidence and active involvement in this gracious endeavor, stirring up a generous spirit among the believers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 2.0458133908341622,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
             "commentatorTierSimilarities": [
-                31.41,
-                37.04,
-                31.54
+                31.78,
+                40.48,
+                27.75
             ],
             "generationAttempt": 5
         }

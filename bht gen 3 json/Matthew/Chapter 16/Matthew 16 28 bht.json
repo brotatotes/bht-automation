@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 23:49:19",
+    "timestamp": "12-25-2023 19:31:45",
     "verseRef": "Matthew 16:28",
     "bestBHT": {
-        "bht": "Some present would witness the establishment and progress of the new kingdom of Christ. The prophecy of the temple's destruction served as a judgment and a pledge of his eventual glorious coming. The apocalyptic symbolism used by Jesus doesn't dominate his teaching but points to the manifestation of heavenly glory through his resurrection and the outpouring of the Holy Spirit. This kingdom, already present in the hearts of believers, would undergo climaxes and consummations, symbolizing Jesus' certainty of his final victory.",
-        "wordCount": 83,
-        "quoteTokenProportion": 28.07,
-        "qualityScore": 1.982309722760351,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+        "bht": "Jesus's affirmation that some would witness the establishment and progress of His kingdom refers to the transformative impact of His new kingdom on earth, symbolizing His future glory. He emphasizes the climaxes and consummations of the kingdom of God, already present in the hearts of people, and the taste of the heavenly life some would experience before their own deaths. The apocalyptic symbolism plays a lesser role in His teaching, as the focus is on the power and progress of His kingdom and the manifestation of heavenly glory through His resurrection and the sending of the Holy Spirit.",
+        "wordCount": 99,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.073723810729315,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.29,
         "commentatorTierSimilarities": [
-            35.58,
-            30.86,
-            33.56
+            37.23,
+            26.41,
+            36.36
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This dreadful destruction was indeed judgment beginning at the house of God.",
-            "That our Lord, in His humanity in the flesh, did not know the day and the hour, we have from His own lips: but that not knowing it, He should have uttered a determinate and solemn prophecy of it, is utterly impossible.",
-            "The fact is, there is a reference back in this discourse to that in ch. x., and the coming here spoken of is the same as that in ver. 23 there."
+            "The interpretation of Meyer, &c., that our Lord referred to His ultimate glorious coming, the time of which was hidden from Himself, is self-contradictory on his own view of the Person of Christ.",
+            "His verily I say unto you always introduces His solemn and authoritative revelations of divine truth."
         ],
         "Jamieson-Fausset-Brown": [
-            "There be some standing here which shall not taste of death, till they see the Son of man coming in his kingdom.\" ",
-            "The reference, beyond doubt, is to the firm establishment and victorious progress, in the lifetime of some then present, of that new kingdom of Christ.",
-            "Destined to work the greatest of all changes on this earth, and be the grand pledge of His final coming in glory."
+            "There be some standing here which shall not taste of death, fill they see the Son of man coming in his kingdom\" - This verse refers to the firm establishment and victorious progress of the new kingdom of Christ.",
+            "The reference...is to...that new kingdom of Christ, which was destined to work the greatest of all changes on this earth, and be the grand pledge of His final coming in glory.",
+            "The new kingdom of Christ...[is] the grand pledge of His final coming in glory."
         ],
         "John Calvin": [
             "If it seem too long to wait for the day of my coming, I will provide against this in good time; for before you come to die, you will see with your eyes that kingdom of God, of which I bid you entertain a confident hope.",
@@ -31,24 +31,23 @@
             "He gave his people a taste of the newness of the heavenly life, when they perceived, by certain and undoubted proofs, that he was sitting at the right hand of the Father."
         ],
         "Philip Schaff": [
-            "Death is represented under the figure of a bitter cup.",
-            "The establishment of the new dispensation, which was the coming of the kingdom of God with power.",
-            "A gradual or progressive change, the institution of Christ's kingdom in the hearts of men and in society at large."
+            "There be some of them that stand here. The Twelve and the people about (Mark 8:34).",
+            "Who shall in no wise taste of death. Death is represented under the figure of a bitter cup. Some of those present should be still alive when the event referred to in the next clause should take place, though they should afterwards die.",
+            "The Son of man coming in his kingdom. Not the \u2018coming\u2019 in Matthew 16:27. ( 1 .) That was \u2018in the glory of His Father,\u2019 this \u2018in His kingdom,\u2019 or a coming of the kingdom of God \u2018with power\u2019 (Mark 9:1, comp. Luke 9:27)..."
         ],
         "Archibald T. Robertson": [
-            "Jesus was certain of his final victory which would be typified and symbolized in various ways.",
+            "We do not know, only that Jesus was certain of his final victory which would be typified and symbolized in various ways.",
             "The apocalyptic eschatological symbolism employed by Jesus here does not dominate his teaching.",
             "The kingdom of God was already in the hearts of men. There would be climaxes and consummations."
         ],
         "John Gill": [
             "Verily I say unto you..... This is a strong asseveration, Christ puts his 'Amen' to it; declaring it to be a certain truth, which may firmly be believed.",
-            "till they see the Son of man coming in his kingdom; which is not to be understood of his personal coming in his kingdom in the last day, when he will judge quick and dead...rather, of the appearance of his kingdom, in greater glory and power, upon his resurrection from the dead, and his ascension to heaven...",
-            "...though it seems chiefly to have regard to his coming, to show his regal power and authority in the destruction of the Jews; when those his enemies that would not he should reign over them, were ordered to be brought and slain before him; and this the Apostle John, for one, lived to be a witness of."
+            "All the children of the world, \u05d8\u05e2\u05de\u05d9\u05df \u05d8\u05e2\u05de\u05d0 \u05d3\u05de\u05d5\u05ea\u05d0, 'taste the taste of death'. That is, die.",
+            "Rather, of the appearance of his kingdom, in greater glory and power, upon his resurrection from the dead, and his ascension to heaven; when the Spirit was poured down in an extraordinary manner, and the Gospel was preached all over the world; was confirmed by signs and wonders, and made effectual to the conversion and salvation of many souls; which many then present lived to see, and were concerned in."
         ],
         "John Wesley": [
-            "there are some here who shall live to see tho Messiah coming to set up his mediatorial kingdom\" ",
-            "with great power and glory, by the increase of his Church\" ",
-            "and the destruction of the temple, city, and polity of the Jews."
+            "There are some here who shall live to see the Messiah coming to set up his mediatorial kingdom, with great power and glory.\" ",
+            "By the increase of his Church and the destruction of the temple, city, and polity of the Jews."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +67,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some then present would witness Jesus coming in his kingdom, a reference to the establishment and progress of the new kingdom of Christ. This kingdom, though already present in the hearts of believers, would undergo climaxes and consummations. Jesus was certain of his final victory, which would be symbolized in various ways. His prophecy of the destruction of the temple was a judgment beginning at the house of God, a significant change that would be a pledge of his ultimate coming in glory. The symbolism of his apocalyptic eschatology does not dominate his teaching, but rather points to the manifestation of heavenly glory experienced in the resurrection and the outpouring of the Holy Spirit.",
-            "wordCount": 114,
-            "quoteTokenProportion": 33.82,
-            "qualityScore": 2.0097447609594132,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+            "bht": "Jesus, in Matthew 16:28, solemnly declares that there are some standing there who will witness the establishment and victorious progress of His new kingdom, which is a grand pledge of His final coming in glory. This does not refer to His ultimate glorious coming, but rather to the firm establishment and transformational impact of His kingdom on earth. The manifestation of heavenly glory began at His resurrection and was further revealed through the sending of the Holy Spirit and the performance of miracles. The apocalyptic symbolism used by Jesus here does not dominate His teaching; rather, the focus is on the climaxes and consummations of the kingdom of God, which were already present in the hearts of people. Thus, some of those present would experience the taste of this newness of the heavenly life before their own physical deaths.",
+            "wordCount": 138,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.951436273534216,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
             "commentatorTierSimilarities": [
-                37.88,
-                30.3,
-                31.83
+                38.75,
+                27.67,
+                33.58
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Some present would see Jesus coming in his kingdom, a reference to the establishment and progress of the new kingdom of Christ. This kingdom, though already present in the hearts of believers, would undergo climaxes and consummations. Jesus was certain of his final victory, symbolized in various ways. His prophecy of the destruction of the temple was a judgment beginning at the house of God, a significant change that would be a pledge of his ultimate coming in glory. The symbolism of his apocalyptic eschatology does not dominate his teaching, but points to the manifestation of heavenly glory in the resurrection and the outpouring of the Holy Spirit.",
-            "wordCount": 108,
-            "quoteTokenProportion": 32.81,
-            "qualityScore": 2.009645237930622,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "bht": "Jesus affirms that there are some who will witness the establishment and progress of His new kingdom, a pledge of His future glory. This refers to the power and transformation of His kingdom on earth, which began with His resurrection and the outpouring of the Holy Spirit. The apocalyptic symbolism used does not dominate His teaching. Rather, the focus is on the climaxes and consummations of the kingdom of God, already present in people's hearts, which some present would experience before their own deaths.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.891237036821459,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
             "commentatorTierSimilarities": [
-                37.77,
-                30.74,
-                31.49
+                39.74,
+                28.9,
+                31.37
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Some present would witness the establishment and progress of the new kingdom of Christ. This kingdom, already present in the hearts of believers, would undergo climaxes and consummations, symbolizing Jesus' certainty of his final victory. The prophecy of the temple's destruction would be a judgment and a pledge of his eventual glorious coming. The apocalyptic symbolism used by Jesus doesn't dominate his teaching, but points to the manifestation of heavenly glory through his resurrection and the outpouring of the Holy Spirit.",
-            "wordCount": 83,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.9799263350822027,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "bht": "Jesus's affirmation that some would witness the establishment and progress of His kingdom refers to the transformative impact of His new kingdom on earth, symbolizing His future glory. He emphasizes the climaxes and consummations of the kingdom of God, already present in the hearts of people, and the taste of the heavenly life some would experience before their own deaths. The apocalyptic symbolism plays a lesser role in His teaching, as the focus is on the power and progress of His kingdom and the manifestation of heavenly glory through His resurrection and the sending of the Holy Spirit.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.073723810729315,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
             "commentatorTierSimilarities": [
-                35.96,
-                30.34,
-                33.7
+                37.23,
+                26.41,
+                36.36
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Some present would witness the establishment and progress of the new kingdom of Christ. The prophecy of the temple's destruction would be a judgment and a pledge of his eventual glorious coming. The apocalyptic symbolism used by Jesus doesn't dominate his teaching but points to the manifestation of heavenly glory through his resurrection and the outpouring of the Holy Spirit. This kingdom, already present in the hearts of believers, would undergo climaxes and consummations, symbolizing Jesus' certainty of his final victory.",
-            "wordCount": 83,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 1.9799263350822027,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "bht": "Jesus declares that some present will witness the establishment and progress of His new kingdom, a pledge of His future glory. This refers to the transformational impact of His kingdom on earth, already present in people's hearts. The apocalyptic symbolism used by Jesus does not dominate His teaching, but instead emphasizes the climaxes and consummations of the kingdom of God. Through His resurrection, the outpouring of the Holy Spirit, and the performance of miracles, the manifestation of heavenly glory begins, providing a taste of the newness of the heavenly life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.9475877008580555,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
             "commentatorTierSimilarities": [
-                35.96,
-                30.34,
-                33.7
+                40.13,
+                25.86,
+                34.01
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Some present would witness the establishment and progress of the new kingdom of Christ. The prophecy of the temple's destruction served as a judgment and a pledge of his eventual glorious coming. The apocalyptic symbolism used by Jesus doesn't dominate his teaching but points to the manifestation of heavenly glory through his resurrection and the outpouring of the Holy Spirit. This kingdom, already present in the hearts of believers, would undergo climaxes and consummations, symbolizing Jesus' certainty of his final victory.",
-            "wordCount": 83,
-            "quoteTokenProportion": 28.07,
-            "qualityScore": 1.982309722760351,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "bht": "Jesus assures that His new kingdom will be firmly established, bringing transformative change to the world and serving as a pledge of His final glorious coming. The apocalyptic symbolism employed by Jesus does not dominate His teaching. Instead, His focus is on the climaxes and consummations of the kingdom of God that are already present in the hearts of individuals. Through His resurrection and the outpouring of the Holy Spirit, the heavenly glory is revealed, providing a foretaste of the newness of the heavenly life before one's own physical death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9026863271475882,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
             "commentatorTierSimilarities": [
-                35.58,
-                30.86,
-                33.56
+                42.04,
+                25.99,
+                31.97
             ],
             "generationAttempt": 5
         }

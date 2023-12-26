@@ -1,22 +1,22 @@
 # Hebrews 4:4 Commentary Help Text
 
 ## BHT:
-God's rest, mentioned in the provided quotes, should not be understood as a temporary or idle rest. Instead, it is an enduring rest that commenced at the completion of creation and continues to this day. This rest signifies God's ongoing upholding and governing of everything He made. It is not a total cessation of creative activity, as Jesus affirms. The seventh day of God's rest is still ongoing, and it signifies His delight and satisfaction in His works. This rest transcends time, symbolizing the eternal nature of God's rest.
+God's rest is not a result of weariness or idleness; rather, it is the continuous upholding and governing that began with Creation. This rest is not limited to a single day, but an enduring state that believers will enter into in the future. It's worth noting that God's rest does not mean a complete cessation of creative activity, as confirmed by Jesus in John 5:17. Genesis 2:2 attests to the ongoing nature of God's rest, reflecting a deep sense of satisfaction and delight in what He has accomplished.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The rest here spoken of must not be understood only as that of one day after the completion of creation; but as an enduring rest, commencing then and still going on,—into which God's people shall hereafter enter."
-2. "God’s rest is not a rest necessitated by fatigue, nor conditioned by idleness: but it is, in fact, the very continuance in that upholding and governing, of which the Creation was the beginning."
-3. "Still less must we find here any discrepancy with such passages as John v. 17; Isa. xl. 28: God’s rest is not a rest necessitated by fatigue, nor conditioned by idleness."
+1. "God's rest is not a rest necessitated by fatigue, nor conditioned by idleness: but it is, in fact, the very continuance in that upholding and governing, of which the Creation was the beginning." 
+2. "The rest here spoken of must not be understood only as that of one day after the completion of creation; but as an enduring rest, commencing then and still going on." 
+3. "Into which God's people shall hereafter enter."
 
 ### Jamieson-Fausset-Brown:
-1. "God's rest is not a rest necessitated by fatigue, nor consisting in idleness, but is that upholding and governing of which creation was the beginning."
-2. "Hence Moses records the end of each of the first six days, but not of the seventh."
+1. "God did rest the seventh day—a rest not ending with the seventh day, but beginning then and still continuing, into which believers shall hereafter enter." 
+2. "God's rest is not a rest necessitated by fatigue, nor consisting in idleness, but is that upholding and governing of which creation was the beginning."
 3. "God's 'work' was one, comprehending, however, many 'works'."
 
 ### Albert Barnes:
 1. "The notion of 'rest' of some kind runs through all dispensations."
-2. "All dispensations contemplate 'rest,' and there must be such a prospect before man now."
+2. "It was seen in the finishing of the work of creation; seen in the appointment of the Sabbath; seen in the offer of the promised land, and is seen now in the promise of heaven."
 3. "He no more put forth creative energy, but calmly contemplated his own works in their beauty and grandeur."
 
 ### Marvin Vincent:
@@ -25,13 +25,13 @@ God's rest, mentioned in the provided quotes, should not be understood as a temp
 3. "The verb only in Hebrews and Acts 14:18. Works, plural, following LXX The Hebrew has work."
 
 ### Archibald T. Robertson:
-1. "But the seventh day of God's rest was still going on (clearly not a twenty-four hour day)." 
-2. "It is not, of course, absolute rest from all creative activity as Jesus shows in John 5:17."
+1. "It is not, of course, absolute rest from all creative activity as Jesus shows in John 5:17."
+2. "But the seventh day of God's rest was still going on (clearly not a twenty-four hour day)."
 3. "Moffatt notes that Philo quotes Genesis 2:2 with the same 'literary mannerism.'"
 
 ### John Gill:
-1. "Moses, the penman of that book spoke, or God by him."
-2. "Only cessation from working in a creative way, and the utmost delight, complacency and satisfaction in what he had done."
+1. "For he spake in a certain place,.... Genesis 2:2 that is, Moses, the penman of that book spoke, or God by him."
+2. "nor does this rest suppose labour with fatigue and weariness, and ease and refreshment from it; only cessation from working in a creative way, and the utmost delight, complacency and satisfaction in what he had done."
 3. "The Alexandrian copy leaves out the phrase, 'the seventh day'."
 
 ### John Wesley:
@@ -41,43 +41,41 @@ God's rest, mentioned in the provided quotes, should not be understood as a temp
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:47:19
+- Timestamp: 12-25-2023 19:29:16
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 38.6%
-- BHT Quality Score: 1.990645167434147
+- BHT Word Count: 90
+- BHT Commentary Usage: 38.1%
+- BHT Quality Score: 2.1147862183159507
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'activity', 'affirms', 'an', 'and', 'as', 'at', 'be', 'cessation', 'commenced', 'completion', 'continues', 'creation', 'creative', 'day', 'delight', 'enduring', 'eternal', 'everything', 'god', 'governing', 'he', 'his', 'idle', 'in', 'instead', 'is', 'it', 'jesus', 'made', 'mentioned', 'nature', 'not', 'of', 'ongoing', 'or', 'provided', 'quotes', 'rest', 's', 'satisfaction', 'seventh', 'should', 'signifies', 'still', 'symbolizing', 'temporary', 'that', 'the', 'this', 'time', 'to', 'total', 'transcends', 'understood', 'upholding', 'works']
-- ChatGPT injected words (significant words only) (35):
-	['activity', 'affirms', 'cessation', 'commenced', 'completion', 'continues', 'creation', 'creative', 'day', 'delight', 'enduring', 'eternal', 'god', 'governing', 'idle', 'instead', 'jesus', 'mentioned', 'nature', 'ongoing', 'provided', 'quotes', 'rest', 's', 'satisfaction', 'seventh', 'signifies', 'symbolizing', 'temporary', 'time', 'total', 'transcends', 'understood', 'upholding', 'works']
+- ChatGPT injected words (63):
+	['a', 'accomplished', 'activity', 'an', 'and', 'as', 'attests', 'began', 'believers', 'but', 'by', 'cessation', 'complete', 'confirmed', 'continuous', 'creation', 'creative', 'day', 'deep', 'delight', 'does', 'enduring', 'enter', 'future', 'genesis', 'god', 'governing', 'has', 'he', 'idleness', 'in', 'into', 'is', 'it', 'jesus', 'john', 'limited', 'mean', 'nature', 'not', 'noting', 'of', 'ongoing', 'or', 'rather', 'reflecting', 'rest', 'result', 's', 'satisfaction', 'sense', 'single', 'state', 'that', 'the', 'this', 'to', 'upholding', 'weariness', 'what', 'will', 'with', 'worth']
+- ChatGPT injected words (significant words only) (39):
+	['accomplished', 'activity', 'attests', 'began', 'believers', 'cessation', 'complete', 'confirmed', 'continuous', 'creation', 'creative', 'day', 'deep', 'delight', 'enduring', 'enter', 'future', 'genesis', 'god', 'governing', 'idleness', 'jesus', 'john', 'limited', 'mean', 'nature', 'noting', 'ongoing', 'reflecting', 'rest', 'result', 's', 'satisfaction', 'sense', 'single', 'state', 'upholding', 'weariness', 'worth']
 
 ### Logs
-- Attempt 1 BHT: God's rest in Hebrews 4:4 does not refer to a temporary rest, but rather an enduring rest that started with the completion of creation and continues into the future. This rest is not born out of fatigue or idleness, but rather it is the constant upholding and governing of all things. It is important to note that God's rest does not mean a complete cessation of creative activity, as Jesus affirms in John 5:17. The seventh day of God's rest is still ongoing, not limited to a 24-hour period. It is a rest that transcends time and symbolizes God's delight and satisfaction in His works.
-- 🔄 Hebrews 4:4 (attempt 1, 107 words, 35.94% quotes quality score: 2.067609055482828, V2 normalized quality score: 60.09, commentator tiers 1-3: 41.18%, 30.49%, 28.33%) 
+- Attempt 1 BHT: God's rest in Hebrews 4:4 is not a rest borne out of weariness or idleness, but rather a continuance in upholding and governing, which began with Creation. This rest is not limited to a single day, but an enduring rest that believers will enter into in the future. It is important to note that God's rest does not mean absolute rest from all creative activity, as Jesus points out in John 5:17. Instead, it is a state of calm contemplation and delight in the works He has done. This understanding of God's rest is supported by Genesis 2:2, which states that God rested from His works, and by the fact that His rest is still ongoing.
+- 🔄 Hebrews 4:4 (attempt 1, 116 words, 42.25% quotes quality score: 2.1129560480264518, V2 normalized quality score: 61.6, commentator tiers 1-3: 37.44%, 29.04%, 33.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: God's rest, mentioned in Hebrews 4:4, is not a temporary rest but a continuous state that began with the completion of creation and continues even now. This rest is characterized by God's upholding and governing of all things, not a cessation of creative activity. It is an ongoing rest that symbolizes His delight and satisfaction in His works. This rest is not limited to a specific 24-hour period, but rather transcends time. Jesus affirms that God's rest does not exclude Him from His works, as stated in John 5:17.
-- 🔄 Hebrews 4:4 (attempt 2, 90 words, 40.68% quotes quality score: 1.968817715562856, V2 normalized quality score: 56.8, commentator tiers 1-3: 41.59%, 30.61%, 27.8%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: God's rest, mentioned in the commentary, should not be understood as a temporary rest after creation, but as an enduring rest that God's people will enter. It is not a rest due to fatigue or idleness, but rather the continued upholding and governing of all things. The seventh day of God's rest is ongoing, not limited to a 24-hour period. This rest symbolizes God's delight and satisfaction in His works, and it is not an absence of creative activity. Jesus affirms this in John 5:17, showing that God is still at work.
-- 🔄 Hebrews 4:4 (attempt 3, 95 words, 41.67% quotes quality score: 2.0351782449380442, V2 normalized quality score: 59.01, commentator tiers 1-3: 42.86%, 28.99%, 28.15%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 4 BHT: God's rest, mentioned in the provided quotes, should not be understood as a temporary or idle rest. Instead, it is an enduring rest that commenced at the completion of creation and continues to this day. This rest signifies God's ongoing upholding and governing of everything He made. It is not a total cessation of creative activity, as Jesus affirms. The seventh day of God's rest is still ongoing, and it signifies His delight and satisfaction in His works. This rest transcends time, symbolizing the eternal nature of God's rest.
-- 🔄 Hebrews 4:4 (attempt 4, 93 words, 38.6% quotes quality score: 1.990645167434147, V2 normalized quality score: 57.53, commentator tiers 1-3: 39.49%, 30.36%, 30.15%) 
+- Attempt 2 BHT: God's rest, mentioned in the Bible, is not a result of fatigue or idleness. It is a continuation of God's governing and upholding, which began with Creation. This rest is not confined to a single day but is ongoing, a rest that believers will enter into in the future. It should be noted that God's rest does not mean ceasing from all creative activity. Rather, it signifies a state of contentment and satisfaction with His works. This understanding is supported by Genesis 2:2 and Jesus' words in John 5:17.
+- 🔄 Hebrews 4:4 (attempt 2, 90 words, 40.98% quotes quality score: 1.906319038654104, V2 normalized quality score: 54.73, commentator tiers 1-3: 39.0%, 27.69%, 33.3%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: God's rest, described in the commentary, is not a temporary or idle rest. Rather, it is an enduring state that began after the completion of creation and continues to this day. This rest represents God's ongoing upholding and governing of all things. It is not a complete cessation of creative activity, as affirmed by Jesus. The seventh day of God's rest is still ongoing, signifying His satisfaction and delight in His works. This rest transcends time, symbolizing the eternal nature of His rest.
-- 🔄 Hebrews 4:4 (attempt 5, 86 words, 36.36% quotes quality score: 1.9520192793597773, V2 normalized quality score: 56.25, commentator tiers 1-3: 38.69%, 31.76%, 29.55%) 
+- Attempt 3 BHT: God's rest in Hebrews 4:4 should not be understood as a result of weariness or idleness. Rather, it is the continuous upholding and governing of creation initiated at the beginning. This rest is not confined to a single day but rather endures, into which believers will eventually enter. It is important to note that God's rest does not imply a complete cessation of creative activity, as Jesus clarifies in John 5:17. Overall, God's rest signifies a state of satisfaction and delight in His works.
+- 🔄 Hebrews 4:4 (attempt 3, 85 words, 38.33% quotes quality score: 1.9152225491940433, V2 normalized quality score: 55.02, commentator tiers 1-3: 42.33%, 29.11%, 28.56%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- ✅ Hebrews 4:4 bht prompt v0.8 (93 words, 38.6% quotes)
-- quality score: 1.990645167434147, V2 normalized quality score: 57.53, commentator tiers 1-3: 39.49%, 30.36%, 30.15%)
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: God's rest should not be mistaken as a result of exhaustion or inactivity. Rather, it is the ongoing upholding and governing of creation since its inception. This enduring rest, into which believers will eventually enter, is not limited to a specific day, but rather a continuous state. It is important to note that God's rest does not mean a complete cessation of creative activity, but rather a tranquil contemplation of His works. This understanding of God's rest is evident in Genesis 2:2 and emphasized by Jesus in John 5:17.
+- 🔄 Hebrews 4:4 (attempt 4, 90 words, 40.32% quotes quality score: 1.8913757700446694, V2 normalized quality score: 54.23, commentator tiers 1-3: 38.84%, 29.27%, 31.89%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: God's rest is not a result of weariness or idleness; rather, it is the continuous upholding and governing that began with Creation. This rest is not limited to a single day, but an enduring state that believers will enter into in the future. It's worth noting that God's rest does not mean a complete cessation of creative activity, as confirmed by Jesus in John 5:17. Genesis 2:2 attests to the ongoing nature of God's rest, reflecting a deep sense of satisfaction and delight in what He has accomplished.
+- 🔄 Hebrews 4:4 (attempt 5, 90 words, 38.1% quotes quality score: 2.1147862183159507, V2 normalized quality score: 61.66, commentator tiers 1-3: 39.1%, 28.51%, 32.39%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Hebrews 4:4 bht prompt v0.8 (90 words, 38.1% quotes)
+- quality score: 2.1147862183159507, V2 normalized quality score: 61.66, commentator tiers 1-3: 39.1%, 28.51%, 32.39%)

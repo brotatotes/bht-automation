@@ -1,44 +1,44 @@
 {
-    "timestamp": "12-19-2023 17:35:56",
+    "timestamp": "12-25-2023 19:33:08",
     "verseRef": "James 3:9",
     "bestBHT": {
-        "bht": "The combination of Father and Lord for God is uncommon, implying His paternal love and dominion. Man, resembling the Son of man, bears the image of God, setting him above beasts. Through speech, we have the ability to bless God and others, but too often, the same tongue is used to curse. To truly praise God, we must correct our tendency to speak ill of our neighbors and recognize the indelible nobleness that remains from our creation in His image.",
-        "wordCount": 80,
-        "quoteTokenProportion": 41.07,
-        "qualityScore": 1.9414018967131084,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+        "bht": "We should recognize and honor the divine nature within ourselves and others, as we are created in the image of God. Using our tongues to bless God is the highest use of speech. However, it is absurd to praise God while cursing those who bear His image. We must remember that by blessing others, we uphold the inherent dignity and nobility that comes from being made in the likeness of God.",
+        "wordCount": 71,
+        "quoteTokenProportion": 52.94,
+        "qualityScore": 2.0071590524262453,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.08,
         "commentatorTierSimilarities": [
-            32.63,
-            35.71,
-            31.66
+            25.33,
+            46.81,
+            27.85
         ],
         "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Father implies His paternal love; 'Lord,' His dominion.",
+            "Father\" implies His paternal love; \"Lord,\" His dominion.",
             "We ought to reverence this remnant and earnest of what man shall be in ourselves and in others.",
-            "Man resembles in humanity the Son of man, 'the express image of His person.'"
+            "Absalom has fallen from his father's favor, but the people still recognize him to be the king's son."
         ],
         "Albert Barnes": [
-            "All this is done by the same organ - the tongue.",
-            "The absurdity of employing the tongue in such contradictory uses as to bless one who has to us the relation of a father, and to curse any being, especially those who are made in his image.",
-            "As we bless God, we ought with the same organ to bless those who are like him."
+            "The point in the remark of the apostle is, the absurdity of employing the tongue in such contradictory uses as to bless one who has to us the relation of a father, and to curse any being, especially those who are made in his image.\" (24 words)",
+            "The word bless here is used in the sense of praise, thank, worship.\" (15 words)",
+            "As we bless God, we ought with the same organ to bless those who are like him. There is an absurdity in cursing men who are thus made, like what there would be in both blessing and cursing the Creator himself.\" (34 words)"
         ],
         "Marvin Vincent": [
-            "God, even the Father...the Lord and Father. This combination of terms for God is uncommon.\" ",
-            "This combination of terms for God is uncommon.",
-            "James designates them generically."
+            "God, even the Father. The proper reading, is ton Kurion, the Lord, and the kai, and, is simply connective. Read, therefore, as Rev., the Lord and Father.",
+            "This combination of terms for God is uncommon. See ch. James 1:27.",
+            "Which. Not who, which would designate personally certain men; whereas James designates them generically."
         ],
         "John Calvin": [
-            "For since God ought to be blessed in all his works, he ought to be so especially as to men, in whom his image and glory peculiarly shine forth.",
-            "There can be then no calling on God, and his praises must necessarily cease, when evil-speaking prevails; for it is impious profanation of God\u2019s name, which the tongue is virulent towards our brethren and pretends to praise him.",
-            "That he may therefore rightly praise God, the view of evil speaking as to our neighbor must especially be corrected."
+            "It is a clear instance of its deadly poison, that it can thus through a monstrous levity transform itself.",
+            "It is then a hypocrisy not to be borne, when man employs the same tongue in blessing God and in cursing men.",
+            "There can be then no calling on God, and his praises must necessarily cease, when evil-speaking prevails."
         ],
         "Philip Schaff": [
             "To praise God is the proper use of the tongue.",
-            "Man in his understanding and affections, and especially in his conscience, still bears the traces of the moral image of his Creator...",
-            "This Divine image obscured by sin is restored by Christ."
+            "Man in his understanding and affections, and especially in his conscience, still bears the traces of the moral image of his Creator.",
+            "He who curses man curses the image of God, and consequently God Himself in His image."
         ],
         "Archibald T. Robertson": [
             "This is the highest function of speech.",
@@ -46,14 +46,12 @@
             "It is this image of God which sets man above the beasts."
         ],
         "John Gill": [
-            "This is the instrument that is used in blessing God...and in joining with the saints...in blessing God for all spiritual blessings in Christ.\" ",
-            "What an absurd and monstrous thing is this, that one and the same instrument should be used in blessing God...and in cursing his children.",
-            "His offering, as all men are by creation, and bear some resemblance to him."
+            "This is the instrument that is used in blessing God daily every meal that is eaten; and in joining with the saints, though only verbally and outwardly, in blessing God for all spiritual blessings in Christ, both in prayer, and in singing psalms.",
+            "And now, what an absurd and monstrous thing is this, that one and the same instrument should be used in blessing God, the Father of all creatures, and in cursing his children, his offering, as all men are by creation, and bear some resemblance to him.",
+            "Though sin has greatly defaced it, yet there are still some remains of it."
         ],
         "John Wesley": [
-            "Indeed we have now lost this likeness; yet there remains from thence an indelible nobleness.\" ",
-            "We ought to reverence both in ourselves and others.",
-            "There remains from thence an indelible nobleness."
+            "Indeed we have now lost this likeness; yet there remains from thence an indelible nobleness."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -73,67 +71,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The combination of Father and Lord as terms for God in this verse is uncommon, emphasizing both God's paternal love and His dominion. As man is made in the image of God, we should revere this remnant of what man shall be in ourselves and in others. It is through our speech, the highest function of communication, that we have the ability to bless God and those who resemble Him. The tongue, though it can bless and praise God, is often used contradictorily to curse and speak evil of others. As we seek to praise God, we must correct our tendency towards evil-speaking and recognize the indelible nobleness that remains from our creation in His image.",
-            "wordCount": 118,
-            "quoteTokenProportion": 45.83,
-            "qualityScore": 2.0241725793745236,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+            "bht": "We should recognize and honor the divine nature within ourselves and others, as we are created in the image of God. Using our tongues to bless God is the proper and highest use of speech. However, it is absurd and hypocritical to praise God while simultaneously cursing those who bear His image. Just as it would be unthinkable to bless and curse the Creator Himself, we should use our tongues to bless and not curse others. By doing so, we uphold the dignity and nobility inherent in being made in the likeness of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 1.9474949604966632,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
             "commentatorTierSimilarities": [
-                30.71,
-                35.13,
-                34.16
+                22.83,
+                48.58,
+                28.59
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The combination of Father and Lord for God is uncommon, highlighting His paternal love and dominion. Man, resembling the Son of man, bears the image of God, setting him apart from beasts. Through speech, we have the ability to bless God and others, but too often, the same tongue is used to curse and speak evil. To truly praise God, we must correct the tendency to speak ill of our neighbors and recognize the indelible nobleness that remains from our creation in His image.",
-            "wordCount": 84,
-            "quoteTokenProportion": 38.6,
-            "qualityScore": 1.9028627925747148,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "bht": "We ought to reverence the divine nature within ourselves and others, recognizing that we are created in the image of God. Blessing God is the highest use of speech, and it is absurd to praise Him while cursing those who bear His likeness. Just as it would be nonsensical to bless and curse the Creator, we should use our tongues to bless and not curse others. By doing so, we uphold the dignity and nobility of being made in God's image.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 1.9683490910746715,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
             "commentatorTierSimilarities": [
-                31.92,
-                35.51,
-                32.57
+                22.5,
+                48.7,
+                28.81
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The combination of Father and Lord for God is uncommon, implying His paternal love and dominion. Man, resembling the Son of man, bears the image of God, setting him above beasts. Through speech, we have the ability to bless God and others, but too often, the same tongue is used to curse. To truly praise God, we must correct our tendency to speak ill of our neighbors and recognize the indelible nobleness that remains from our creation in His image.",
-            "wordCount": 80,
-            "quoteTokenProportion": 41.07,
-            "qualityScore": 1.9414018967131084,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "bht": "We should recognize and honor the divine nature within ourselves and others, as we are created in the image of God. Using our tongues to bless God is the highest use of speech. However, it is absurd to praise God while cursing those who bear His image. We must remember that by blessing others, we uphold the inherent dignity and nobility that comes from being made in the likeness of God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 2.0071590524262453,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
             "commentatorTierSimilarities": [
-                32.63,
-                35.71,
-                31.66
+                25.33,
+                46.81,
+                27.85
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The combination of Father and Lord for God is uncommon, highlighting both His paternal love and dominion. As man resembles the Son of man and the image of God, we ought to reverence this remnant and earnest of what man shall be in ourselves and in others. The highest function of speech is to bless God and those who resemble Him. However, it is often this same tongue that is used to curse and speak evil. To truly praise God, we must correct our tendency towards evil-speaking and recognize the indelible nobleness that remains from our creation in His image.",
-            "wordCount": 101,
-            "quoteTokenProportion": 43.94,
-            "qualityScore": 1.9785797446117743,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
+            "bht": "When we use our tongues to bless God, we should also use them to bless others who are made in His image. It is absurd to praise the Creator and then curse His creation. We must remember that our words have power, as they reflect the image of God within us. The use of our tongues in both praising God and cursing others is hypocrisy that should not be tolerated. Our speech should be a reflection of the remnant of God's likeness within us, even though sin has marred it. Let us honor God by treating His creation with reverence and love, for it is in this image of God that man is set apart from the animals.",
+            "wordCount": 119,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 1.9708930756562344,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
             "commentatorTierSimilarities": [
-                33.84,
-                33.56,
-                32.61
+                22.63,
+                47.13,
+                30.24
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The combination of Father and Lord signifies God's paternal love and dominion. Man, resembling the Son of man and reflecting the image of God, holds a noble position above beasts. Speech, the highest form of communication, allows us to praise God and bless those who resemble Him. Yet, it is this same tongue that can also be used to curse and speak evil. In order to truly honor God, we must correct our tendency towards negative speech and recognize the inherent nobility within ourselves and others.",
-            "wordCount": 87,
-            "quoteTokenProportion": 41.79,
-            "qualityScore": 1.8110114799498804,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "bht": "When we use our tongues to bless God, we should also use them to bless others who are made in His image. It is absurd to praise the Creator and then curse His creation. We must remember that our words have power, as they reflect the image of God within us. The use of our tongues in both praising God and cursing others is hypocrisy that should not be tolerated. Let us honor God by treating His creation with reverence and love.",
+            "wordCount": 82,
+            "quoteTokenProportion": 57.41,
+            "qualityScore": 1.9226176172979852,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
             "commentatorTierSimilarities": [
-                34.22,
-                34.7,
-                31.08
+                22.31,
+                49.56,
+                28.12
             ],
             "generationAttempt": 5
         }

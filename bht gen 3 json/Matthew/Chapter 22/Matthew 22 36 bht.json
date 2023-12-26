@@ -1,41 +1,40 @@
 {
-    "timestamp": "12-19-2023 23:51:24",
+    "timestamp": "12-25-2023 19:34:01",
     "verseRef": "Matthew 22:36",
     "bestBHT": {
-        "bht": "What kind of commandment is great in the law? Jesus cuts through the disputes and pettifogging to the heart of the problem. It's not about ranking or hierarchy, but about the principle upon which a commandment should be regarded as great. The Jews themselves have differing opinions on this matter, but they seek Jesus' perspective.",
-        "wordCount": 56,
-        "quoteTokenProportion": 53.33,
-        "qualityScore": 1.9709004621183648,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+        "bht": "Which kind of command is great in the law? That is, what kind of a commandment must it be to constitute it a great one? He wanted to know the principle upon which a commandment was to be regarded as a great commandment. The question was not which of the laws was the greatest, but about the whole body of the law, moral and ceremonial, delivered by Moses. In this multiplicity of opinions, Christ's is desired on this subject, though with no good intention.",
+        "wordCount": 85,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.42655631868349,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.02,
         "commentatorTierSimilarities": [
-            42.65,
-            34.94,
-            22.42
+            33.15,
+            35.67,
+            31.19
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Henry Alford": [
             "36. which is the great commandment] This should more exactly be rendered, which (what kind of a) commandment is great in the law? In Mark, otherwise."
         ],
         "Marvin Vincent": [
-            "which kind of command is great in the law?",
-            "what kind of commandment must it be to constitute it a great one?",
-            "the principle upon which a commandment was to be regarded as a great commandment."
+            "Which kind of command is great in the law? That is, what kind of a commandment must it be to constitute it a great one?",
+            "Not, which commandment is greatest as compared with the others?",
+            "He wanted to know the principle upon which a commandment was to be regarded as a great commandment."
         ],
         "Philip Schaff": [
-            "What commandment is great in the law? i.e., the Mosaic law. Not merely greater than the rest, but \u2018great,\u2019 as including the rest.\" (Matthew 22:36)",
-            "If there was a reference to the disputes of the Rabbins about great and small commandments, the meaning would be: \u2018What kind of a commandment is great in the law?\u2019 but this sense, though literally correct, does not suit the answer so well.\" (Matthew 22:36)",
-            "Comp. Matthew 22:38; Matthew 22:40.\" (Matthew 22:36)"
+            "What commandment is great in the law? i.e., the Mosaic law. Not merely greater than the rest, but \u2018great,\u2019 as including the rest.\" ",
+            "If there was a reference to the disputes of the Rabbins about great and small commandments, the meaning would be: \u2018What kind of a commandment is great in the law?\u2019 but this sense, though literally correct, does not suit the answer so well."
         ],
         "Archibald T. Robertson": [
-            "The positive adjective is sometimes as high in rank as the superlative.\" ",
-            "Jesus cuts through such pettifogging hair-splitting to the heart of the problem.\" ",
+            "The positive adjective is sometimes as high in rank as the superlative.",
+            "Possibly this scribe wishes to know which commandment stood first with Jesus.",
             "But Jesus cuts through such pettifogging hair-splitting to the heart of the problem."
         ],
         "John Gill": [
-            "The question is not which of the laws was the greatest, the oral, or the written law: the Jews give the preference to the law delivered by word of mouth; they prefer the traditions of the elders before the written law of Moses.",
-            "It was moved that it might be said which was the greatest and weightiest of them all.",
+            "The question is not which of the laws was the greatest, the oral, or the written law:... but the question was about the written law of Moses; and not merely about the decalogue, or whether the commands of the first table were greater than those of the second... but about the whole body of the law, moral and ceremonial, delivered by Moses.",
+            "Some thought the commandment of the sabbath was the greatest... Others give the preference to circumcision... Others say of the 'phylacteries', that the holiness of them is the greatest of all... and even of the fringe upon the borders of their garments, others observe, that a man that is guilty of that command, is guilty of all others, and that single precept is equal to all the rest.",
             "In this multiplicity of opinions, Christ's is desired on this subject, though with no good intention."
         ]
     },
@@ -53,72 +52,20 @@
         "John Wesley"
     ],
     "bhtAttemptsLimit": 5,
-    "bhtAttemptsCount": 5,
+    "bhtAttemptsCount": 1,
     "bhtAttempts": [
         {
-            "bht": "What kind of commandment is great in the law? Jesus cuts through the disputes and pettifogging about which commandment is the greatest and gets to the heart of the problem. It's not about ranking or hierarchy, but about the principle upon which a commandment should be regarded as great. The question is not about which specific law is the greatest, but rather the overall concept of greatness in the law. The Jews themselves have differing opinions on this matter, but they seek Jesus' perspective, though not with good intentions.",
-            "wordCount": 90,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 2.1788277461791923,
-            "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+            "bht": "Which kind of command is great in the law? That is, what kind of a commandment must it be to constitute it a great one? He wanted to know the principle upon which a commandment was to be regarded as a great commandment. The question was not which of the laws was the greatest, but about the whole body of the law, moral and ceremonial, delivered by Moses. In this multiplicity of opinions, Christ's is desired on this subject, though with no good intention.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.42655631868349,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.02,
             "commentatorTierSimilarities": [
-                40.37,
-                35.76,
-                23.88
+                33.15,
+                35.67,
+                31.19
             ],
             "generationAttempt": 1
-        },
-        {
-            "bht": "What kind of commandment is great in the law? Jesus cuts through the disputes and pettifogging to the heart of the problem. It's not about ranking or hierarchy, but about the principle upon which a commandment should be regarded as great. The Jews themselves have differing opinions on this matter, but they seek Jesus' perspective.",
-            "wordCount": 56,
-            "quoteTokenProportion": 53.33,
-            "qualityScore": 1.9709004621183648,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
-            "commentatorTierSimilarities": [
-                42.65,
-                34.94,
-                22.42
-            ],
-            "generationAttempt": 2
-        },
-        {
-            "bht": "Jesus is asked, which kind of commandment is great in the law? Rather than getting caught up in the debates of the Rabbins about the greatness of certain commandments, Jesus cuts through the hair-splitting to the heart of the issue. He is not concerned with ranking or hierarchy among the commandments, but with the principle upon which a commandment is to be regarded as great. The question is not whether the oral or written law is greater, but rather the nature of a commandment that constitutes it as great. This question is asked with no good intention, as there are various opinions and motives behind it.",
-            "wordCount": 107,
-            "quoteTokenProportion": 48.44,
-            "qualityScore": 2.0785438673138015,
-            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
-            "commentatorTierSimilarities": [
-                37.74,
-                37.08,
-                25.18
-            ],
-            "generationAttempt": 3
-        },
-        {
-            "bht": "Jesus, confronted with the question of the great commandment in the law, cuts through the disputes of the Rabbins to get to the heart of the matter. He is not interested in ranking or hierarchy among the commandments, but rather in understanding the nature of a commandment that makes it great. The question is posed with no good intention, as there are multiple opinions and motives in play. Jesus seeks to go beyond mere pettifogging and delve into the essence of what truly matters in the law.",
-            "wordCount": 87,
-            "quoteTokenProportion": 44.83,
-            "qualityScore": 1.8109530186984466,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
-            "commentatorTierSimilarities": [
-                37.74,
-                34.86,
-                27.4
-            ],
-            "generationAttempt": 4
-        },
-        {
-            "bht": "Jesus responds to the question of what constitutes a great commandment by cutting through the debates and disputes surrounding the law. He is not concerned with the ranking or superiority of certain commandments, but rather with the principle upon which a commandment is considered great. The question itself is asked with dubious intent, as there are various opinions and motives behind it. Jesus seeks to bypass the trivialities and focus on the essence of what truly matters in the law.",
-            "wordCount": 80,
-            "quoteTokenProportion": 46.43,
-            "qualityScore": 1.7959552337604916,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.06,
-            "commentatorTierSimilarities": [
-                35.04,
-                37.23,
-                27.74
-            ],
-            "generationAttempt": 5
         }
     ]
 }

@@ -1,28 +1,27 @@
 # Luke 1:73 Commentary Help Text
 
 ## BHT:
-God's promise to Abraham and his descendants is fulfilled through Jesus Christ, as stated in the oath recorded in Genesis. This oath, which God swore by himself, emphasizes the certainty and faithfulness of his commitment. Jesus embodies both grace and truth, signifying the completion of the covenant of mercy. As the Messiah, he brings redemption, allowing his people to possess victory over their enemies. Indeed, all the aspects of God's covenant find fulfillment in Jesus, the promised Seed.
+The whole work and kingdom of Messiah is a mercy pledged on oath to Abraham and his seed. Through Jesus Christ, grace and fidelity to the promise of blessing are realized. The oppression of the Gentiles is in Zacharias' mind, although his understanding of the spiritual Israel may not be as clear as Paul's. The oath signifies the firmness and sacredness of God's truth, sealing His covenant of mercy. Doubting the fulfillment of God's promises shows ingratitude and insult to His holy name.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "The whole work and kingdom of Messiah is represented as a mercy pledged on oath to Abraham and his seed, to be realized at an appointed period"
-2. "Grace, or the thing promised; but 'truth,' or fidelity to the promise, are said to 'come by Jesus Christ'"
-3. "Hence, not only 'grace,' or the thing promised; but 'truth,' or fidelity to the promise, are said to 'come by Jesus Christ'"
+1. "The whole work and kingdom of Messiah is represented as a mercy pledged on oath to Abraham and his seed, to be realized at an appointed period." 
+2. "Hence, not only 'grace,' or the thing promised; but 'truth,' or fidelity to the promise, are said to 'come by Jesus Christ' ( :-)."
 
 ### Albert Barnes:
-1. "The oath is recorded in Genesis 22:16-17. It was an oath in which God swore by himself...that he would surely bless Abraham and his posterity." 
-2. "It was an oath...that promise was now to be entirely fulfilled by the coming of the Messiah."
-3. "That promise was now to be entirely fulfilled by the coming of the Messiah."
+1. "This oath is recorded in Genesis 22:16-17...that he would surely bless Abraham and his posterity." 
+2. "It was an oath in which God swore by himself...that promise was now to be entirely fulfilled by the coming of the Messiah." 
+3. "God swore by himself...that he would surely bless Abraham and his posterity."
 
 ### John Calvin:
-1. "The oath is mentioned, for the purpose of expressing more fully the firmness and sacredness of his truth: for such is his gracious condescension, that he deigns to employ his name for the support of our weakness."
-2. "If his bare promises do not satisfy us, let us at least remember this confirmation of them; and if it does not remove all doubt, we are chargeable with heinous ingratitude to God, and insult to his holy name."
-3. "To give to us Zacharias does not enumerate the several points of God’s covenant, but shows that God’s purpose, in dealing so kindly and mercifully with his people, was to redeem them."
+1. "If his bare promises do not satisfy us, let us at least remember this confirmation of them; and if it does not remove all doubt, we are chargeable with heinous ingratitude to God, and insult to his holy name."
+2. "The oath is mentioned, for the purpose of expressing more fully the firmness and sacredness of his truth: for such is his gracious condescension, that he deigns to employ his name for the support of our weakness."
+3. "God’s purpose, in dealing so kindly and mercifully with his people, was to redeem them."
 
 ### Philip Schaff:
-1. "The oath. This explains the word 'covenant' in Luke 1:72. God's covenant of mercy had been sealed by an oath."
-2. "The Abrahamic covenant becomes prominent as the coming of the Messiah draws near."
-3. "Comp. Galatians 3:0."
+1. "The oath. This explains the word ‘covenant’ in Luke 1:72."
+2. "God’s covenant of mercy had been sealed by an oath."
+3. "The Abrahamic covenant becomes prominent as the coming of the Messiah draws near."
 
 ### Archibald T. Robertson:
 1. "The oath which he sware (ορκον ον ωμοσεν)."
@@ -30,46 +29,45 @@ God's promise to Abraham and his descendants is fulfilled through Jesus Christ, 
 3. "It is not certain how clearly he grasped the idea of the spiritual Israel as Paul saw it in Galatians and Romans."
 
 ### John Gill:
-1. "When he swore by himself, because he could swear by no greater, that in blessing he would bless him."
+1. "When he swore by himself, because he could swear by no greater, that in blessing he would bless him." 
 2. "That his seed should possess the gates of his enemies."
 3. "All which have been fulfilled in Jesus the Messiah."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:13:41
+- Timestamp: 12-25-2023 19:34:34
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 33.93%
-- BHT Quality Score: 1.9546964200935548
+- BHT Word Count: 86
+- BHT Commentary Usage: 31.58%
+- BHT Quality Score: 2.1570485927512593
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['abraham', 'all', 'allowing', 'and', 'as', 'aspects', 'both', 'brings', 'by', 'certainty', 'christ', 'commitment', 'completion', 'covenant', 'descendants', 'embodies', 'emphasizes', 'enemies', 'faithfulness', 'find', 'fulfilled', 'fulfillment', 'genesis', 'god', 'grace', 'he', 'himself', 'his', 'in', 'indeed', 'is', 'jesus', 'mercy', 'messiah', 'oath', 'of', 'over', 'people', 'possess', 'promise', 'promised', 'recorded', 'redemption', 's', 'seed', 'signifying', 'stated', 'swore', 'the', 'their', 'this', 'through', 'to', 'truth', 'victory', 'which']
-- ChatGPT injected words (significant words only) (37):
-	['abraham', 'allowing', 'aspects', 'brings', 'certainty', 'christ', 'commitment', 'completion', 'covenant', 'descendants', 'embodies', 'emphasizes', 'enemies', 'faithfulness', 'find', 'fulfilled', 'fulfillment', 'genesis', 'god', 'grace', 'jesus', 'mercy', 'messiah', 'oath', 'people', 'possess', 'promise', 'promised', 'recorded', 'redemption', 's', 'seed', 'signifying', 'stated', 'swore', 'truth', 'victory']
+- ChatGPT injected words (57):
+	['a', 'abraham', 'although', 'and', 'are', 'as', 'be', 'blessing', 'christ', 'clear', 'covenant', 'doubting', 'fidelity', 'firmness', 'fulfillment', 'gentiles', 'god', 'grace', 'his', 'holy', 'in', 'ingratitude', 'insult', 'is', 'israel', 'jesus', 'kingdom', 'may', 'mercy', 'messiah', 'mind', 'name', 'not', 'oath', 'of', 'on', 'oppression', 'paul', 'pledged', 'promise', 'promises', 'realized', 's', 'sacredness', 'sealing', 'seed', 'shows', 'signifies', 'spiritual', 'the', 'through', 'to', 'truth', 'understanding', 'whole', 'work', 'zacharias']
+- ChatGPT injected words (significant words only) (39):
+	['abraham', 'blessing', 'christ', 'clear', 'covenant', 'doubting', 'fidelity', 'firmness', 'fulfillment', 'gentiles', 'god', 'grace', 'holy', 'ingratitude', 'insult', 'israel', 'jesus', 'kingdom', 'mercy', 'messiah', 'mind', 'oath', 'oppression', 'paul', 'pledged', 'promise', 'promises', 'realized', 's', 'sacredness', 'sealing', 'seed', 'shows', 'signifies', 'spiritual', 'truth', 'understanding', 'work', 'zacharias']
 
 ### Logs
-- Attempt 1 BHT: In Luke 1:73, the promise of God's mercy and faithfulness to Abraham and his descendants is fulfilled through Jesus Christ. The mention of the oath conveys the firmness and sacredness of God's truth. The coming of the Messiah signifies the complete fulfillment of the Abrahamic covenant, as seen in Galatians 3:0. This demonstrates God's gracious condescension to support our weak faith and calls us to remember this confirmation of his promises. Ultimately, Jesus, as the Seed of Abraham, has fulfilled all the aspects of God's covenant, leading to the redemption of his people and the possession of victory over their enemies.
-- 🔄 Luke 1:73 (attempt 1, 103 words, 26.23% quotes quality score: 1.9828526567153142, V2 normalized quality score: 57.27, commentator tiers 1-3: 34.99%, 36.94%, 28.07%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The oath of God, mentioned in the verse, emphasizes the firmness and sacredness of His truth. This oath, recorded in Genesis, sealed the covenant of mercy with Abraham and his descendants. Through Jesus Christ, the promised mercy and faithfulness to Abraham are fully realized. It is in Jesus that both grace and truth come. As the Messiah, Jesus fulfills all aspects of the Abrahamic covenant, bringing redemption to his people and granting victory over their enemies.
-- 🔄 Luke 1:73 (attempt 2, 76 words, 35.29% quotes quality score: 1.9722447714854079, V2 normalized quality score: 56.92, commentator tiers 1-3: 38.54%, 34.17%, 27.29%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: The fulfillment of God's promise to Abraham and his descendants is accomplished through Jesus Christ. The mention of the oath underscores the solemnity and certainty of God's faithfulness. By swearing by himself, God demonstrates the unshakable nature of his commitment. Jesus becomes the embodiment of both grace and truth, bringing to fruition the covenant of mercy made with Abraham. Through his coming, Jesus fulfills the role of the Messiah, thereby redeeming his people and granting them victory over their adversaries.
-- 🔄 Luke 1:73 (attempt 3, 82 words, 32.08% quotes quality score: 1.8467670828518936, V2 normalized quality score: 52.75, commentator tiers 1-3: 35.56%, 34.35%, 30.09%) 
+- Attempt 1 BHT: The whole work and kingdom of Messiah is seen as a mercy promised to Abraham and his seed, to be fulfilled in due time. The oath which God swore to bless Abraham and his descendants is mentioned to emphasize the firmness and sacredness of His truth. It is through Jesus Christ that grace and faithfulness to the promise are brought forth. The oppression of the Gentiles is on Zacharias' mind, though it is uncertain how clearly he understood the spiritual aspect of the Israel of God. God's covenant of mercy, sealed by an oath, becomes prominent as the coming of the Messiah approaches. This confirms the fulfillment of God's promises, and anyone who doubts this is guilty of ingratitude and insult to His holy name.
+- 🔄 Luke 1:73 (attempt 1, 127 words, 35.44% quotes quality score: 2.1749112103391313, V2 normalized quality score: 63.66, commentator tiers 1-3: 35.65%, 39.52%, 24.83%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: God's promise to Abraham and his descendants is fulfilled through Jesus Christ, as stated in the oath recorded in Genesis. This oath, which God swore by himself, emphasizes the certainty and faithfulness of his commitment. Jesus embodies both grace and truth, signifying the completion of the covenant of mercy. As the Messiah, he brings redemption, allowing his people to possess victory over their enemies. Indeed, all the aspects of God's covenant find fulfillment in Jesus, the promised Seed.
-- 🔄 Luke 1:73 (attempt 4, 80 words, 33.93% quotes quality score: 1.9546964200935548, V2 normalized quality score: 56.33, commentator tiers 1-3: 35.11%, 35.77%, 29.12%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The fulfillment of God's promise to Abraham and his descendants is realized through Jesus Christ. The oath mentioned signifies the solemnity and unwavering faithfulness of God's truth. By swearing upon himself, God demonstrates the sacredness of his commitment. Jesus serves as the embodiment of both grace and truth, bringing to fruition the covenant of mercy with Abraham. As the Messiah, Jesus fulfills all aspects of God's covenant, leading to the redemption of his people and the triumph over their adversaries.
-- 🔄 Luke 1:73 (attempt 5, 83 words, 31.37% quotes quality score: 1.9290584905363557, V2 normalized quality score: 55.48, commentator tiers 1-3: 36.11%, 34.85%, 29.05%) 
+- Attempt 2 BHT: The whole work and kingdom of Messiah is a mercy pledged on oath to Abraham and his seed. Through Jesus Christ, grace and fidelity to the promise of blessing are realized. The oppression of the Gentiles is in Zacharias' mind, although his understanding of the spiritual Israel may not be as clear as Paul's. The oath signifies the firmness and sacredness of God's truth, sealing His covenant of mercy. Doubting the fulfillment of God's promises shows ingratitude and insult to His holy name.
+- 🔄 Luke 1:73 (attempt 2, 86 words, 31.58% quotes quality score: 2.1570485927512593, V2 normalized quality score: 63.06, commentator tiers 1-3: 39.02%, 36.29%, 24.69%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 1:73 bht prompt v0.8 (80 words, 33.93% quotes)
-- quality score: 1.9546964200935548, V2 normalized quality score: 56.33, commentator tiers 1-3: 35.11%, 35.77%, 29.12%)
+- Attempt 3 BHT: The kingdom of Messiah is a mercy pledged on oath to Abraham and his seed, to be realized at an appointed time. Grace and fidelity to the promise come through Jesus Christ. The oppression of the Gentiles weighs on Zacharias' mind, hinting at their future redemption. The mention of the oath serves to emphasize the firmness and sacredness of God's truth. Doubting the fulfillment of God's promises shows ingratitude and insults His holy name. The coming of the Messiah brings to fruition the Abrahamic covenant.
+- 🔄 Luke 1:73 (attempt 3, 87 words, 24.14% quotes quality score: 2.094396716438413, V2 normalized quality score: 60.98, commentator tiers 1-3: 38.24%, 38.28%, 23.48%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The kingdom of Messiah is a mercy pledged on oath to Abraham and his seed, to be realized in due time. Jesus Christ brings grace and fidelity to the promise. The mention of the oath underscores the firmness and sacredness of God's truth. Zacharias contemplates the oppression of the Gentiles. Doubting the fulfillment of God's promises is ingratitude and an insult to His holy name. The coming of the Messiah fulfills the Abrahamic covenant, bringing blessings to his descendants.
+- 🔄 Luke 1:73 (attempt 4, 81 words, 25.0% quotes quality score: 2.111144835740652, V2 normalized quality score: 61.54, commentator tiers 1-3: 37.48%, 38.27%, 24.25%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The kingdom of Messiah is a mercy pledged on oath to Abraham and his descendants. Jesus Christ brings grace and faithfulness to the promise. The mention of the oath highlights the firmness and sacredness of God's truth. Zacharias contemplates the oppression of the Gentiles, though his understanding of the spiritual Israel is unclear. Doubting God's promises shows ingratitude and insults His holy name. The coming of the Messiah fulfills the Abrahamic covenant, bringing blessings to his descendants.
+- 🔄 Luke 1:73 (attempt 5, 79 words, 20.0% quotes quality score: 2.120431266860747, V2 normalized quality score: 61.85, commentator tiers 1-3: 36.78%, 39.26%, 23.95%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 1:73 bht prompt v0.8 (86 words, 31.58% quotes)
+- quality score: 2.1570485927512593, V2 normalized quality score: 63.06, commentator tiers 1-3: 39.02%, 36.29%, 24.69%)

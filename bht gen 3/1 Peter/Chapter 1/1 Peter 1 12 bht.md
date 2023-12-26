@@ -1,85 +1,85 @@
 # 1 Peter 1:12 Commentary Help Text
 
 ## BHT:
-The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage us to even greater earnestness. Angels long to understand the means by which sinners are transformed; their intense desire to know is seen in their intense interest and inquiry into the things of the Gospel.
+The prophets of old were not only given knowledge about the future but also revealed that these revelations were not for their own benefit but for ours in Gospel times. Despite having the honor of the Spirit of Christ speaking in them, they were eclipsed by the immense privileges we enjoy in the Gospel era. Even the angels, who serve the heirs of salvation, yearn to understand the mystery of redemption and eagerly desire to investigate the work that we now have revealed to us.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Not only was the future revealed to them, but this also, that these revelations of the future were given them not for themselves, but for our good in Gospel times." 
+1. "Not only was the future revealed to them, but this also, that these revelations of the future were given them not for themselves, but for our good in Gospel times."
 2. "Our immense privileges are thus brought forth by contrast with theirs, notwithstanding that they had the great honor of Christ's Spirit speaking in them; and this, as an incentive to still greater earnestness on our part than even they manifested."
-3. "Angels have only the contrast between good and evil, without the power of conversion from sin to righteousness: witnessing such conversion in the Church, they long to penetrate the knowledge of the means whereby it is brought about."
+3. "Angels do not any more than ourselves possess an INTUITIVE knowledge of redemption...Their 'ministry to the heirs of salvation' naturally disposes them to wish to penetrate this mystery as reflecting such glory on the love, justice, wisdom, and power of their and our God and Lord."
 
 ### Albert Barnes:
-1. "Their messages had reference mainly to future times, and that the full benefit of them would be experienced only in distant ages."
-2. "They were reaping the benefit of all the labors of the prophets."
-3. "They were, in many respects, more favored than even those holy men had been."
+1. "Their ministrations had reference mainly to future times, and that the full benefit of them would be experienced only in distant ages."
+2. "They were reaping the benefit of all the labors of the prophets. They were permitted to see truth clearly, which the prophets themselves saw only obscurely."
+3. "It is not unreasonable to suppose that there are many things in relation to the divine character and plans, which [the angels] do not yet understand. They know, undoubtedly, much more than we do; but there are plans and purposes of God which are yet made known to none of his creatures."
 
 ### Marvin Vincent:
-1. "The term is applicable to any kind of service, official or not." 
-2. "The word commonly denotes intense desire."  
-3. "A very graphic word, meaning to stoop sideways."
+1. "The phrase illustrates Peter's habitual emphasis upon the testimony of sight."
+2. "Bengel acutely notes the hint in para, beside, that the angels contemplate the work of salvation from without, as spectators and not as participants."
+3. "Compare Hebrews 2:16; Ephesians 3:10."
 
 ### John Calvin:
-1. "We see how highly they extolled the kingdom of Christ, how assiduous they were in adorning it, how diligently they stimulated all to seek it; but they were by death deprived of the privilege of seeing it as it now is." 
-2. "They indeed tasted by faith of those things which the Lord has by their hands transmitted to be enjoyed by us; and they also partook of Christ as the real food of their souls." 
-3. "To this I answer, that things are open to us as far as we see them in the mirror of the word; but our knowledge is not said to be higher than that of angels; Peter only means that such things are promised to us as angels desire to see fulfilled."
+1. "What else then was this, but that they spread the table, that others might afterwards feed on the provisions laid on it."
+2. "But if their patience was so great, surely we shall be twice and thrice ungrateful, if the fruition of the grace denied to them will not sustain us under all the evils which are to be endured."
+3. "It is indeed the highest praise to the gospel, that it contains treasures of wisdom, as yet concealed and hidden from angels."
 
 ### Philip Schaff:
-1. "It was discovered to them that in regard to certain things which the Spirit communicated they were dealing with things meant for others, and this fact (pointing, as it did, to the mystery of a place for the Gentile world sooner or later in Israel’s grace) stimulated their inquiry." 
-2. "The things which thus were the subject of prophetic interest and inquiry, are now referred to as having also formed the burden of the preaching of those who carried the Gospel into those Gentile territories, Pontus, Galatia, etc."
-3. "The intensity of this interest is expressed by the strong term desire, or long the word used by Christ Himself in view of His hastening passion, ‘With desire I have desired to eat this passover with you before I suffer’ (Luke 22:15)."
+1. "The entire sentence is connected closely with the preceding by the simple relative...The question, therefore, is: What is the relation thus intended between the searching of 1 Peter 1:10-11, and the revelation spoken of now?" 
+2. "The preachers of the Gospel had their power to preach only by the Holy Ghost...the Spirit who gifted the preachers is described as the Holy Ghost sent from heaven, a designation pointing to the Pentecostal descent of the Spirit, and, therefore, to the superior privilege of the preachers." 
+3. "The intensity of this interest is expressed by the strong term desire...Its continuance is indicated by the present tense...it may point at once to the straining interest with which the angelic world as such contemplates the salvation of which even outcast Gentiles are participants."
 
 ### Archibald T. Robertson:
-1. "The connexion between study and inspiration is a great mystery."
-2. "We do the best that we can and only skirt the shore of knowledge."
-3. "The interest of angels in the Incarnation."
+1. "The connexion between study and inspiration is a great mystery. Surely, but that is no argument for ignorance or obscurantism."
+2. "Here is revelation about the revelation already received, revelation after research."
+3. "For the interest of angels in the Incarnation see Luke 2:13."
 
 ### John Gill:
-1. "Not that they were ignorant of the things they searched into, and were revealed unto them, and they prophesied of; as the Jews sometimes say of them, 'that they prophesied and knew not what they prophesied of.'"
-2. "though they were both profitable to themselves, and others that lived with them, yet they are more so to the saints under the Gospel dispensations, who are able to compare prophesies and facts together"
-3. "things they are highly delighted with, take pleasure in the contemplation of, and desire to have a greater knowledge of, and acquaintance with"
+1. "they were not to have their accomplishment in their times; for though they sometimes speak of them, because of the certainty of them, as if they were already done, yet they knew they were not to be brought about until the last days."
+2. "what was written by them, was written for our learning and instruction chiefly and principally, on whom the ends of the world are come."
+3. "they are more so to the saints under the Gospel dispensations, who are able to compare prophesies and facts together."
 
 ### John Wesley:
-1. "They did not so much by those predictions serve themselves, or that generation, as they did us, who now enjoy what they saw afar off."
-2. "Confirmed by the inward, powerful testimony of the Holy Ghost, as well as the mighty effusion of his miraculous gifts."
-3. "What the Holy Ghost taught concerning Christ the very angels long to know."
+1. "It was revealed, that not for themselves, but for us they ministered — They did not so much by those predictions serve themselves, or that generation, as they did us, who now enjoy what they saw afar off."
+2. "With the Holy Ghost sent down from heaven — Confirmed by the inward, powerful testimony of the Holy Ghost, as well as the mighty effusion of his miraculous gifts."
+3. "Which things angels desire to look into — A beautiful gradation; prophets, righteous men, kings, desired to see and hear what Christ did and taught. What the Holy Ghost taught concerning Christ the very angels long to know."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:38:47
+- Timestamp: 12-25-2023 19:32:26
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 44.62%
-- BHT Quality Score: 1.8532314204834894
+- BHT Word Count: 85
+- BHT Commentary Usage: 44.07%
+- BHT Quality Score: 2.0897410137786006
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['also', 'and', 'angels', 'are', 'benefit', 'brought', 'but', 'by', 'christ', 'contrast', 'desire', 'despite', 'earnestness', 'encourage', 'even', 'for', 'forth', 'future', 'gospel', 'greater', 'had', 'having', 'honor', 'in', 'inquiry', 'intense', 'interest', 'into', 'is', 'just', 'knew', 'know', 'long', 'means', 'not', 'of', 'old', 'only', 'our', 'ours', 'privileges', 'prophets', 'revealed', 'revelations', 's', 'seen', 'sinners', 'speaking', 'spirit', 'that', 'the', 'their', 'them', 'themselves', 'these', 'they', 'things', 'times', 'to', 'transformed', 'understand', 'us', 'were', 'which', 'with']
-- ChatGPT injected words (significant words only) (36):
-	['angels', 'benefit', 'brought', 'christ', 'contrast', 'desire', 'despite', 'earnestness', 'encourage', 'forth', 'future', 'gospel', 'greater', 'having', 'honor', 'inquiry', 'intense', 'interest', 'knew', 'know', 'long', 'means', 'old', 'privileges', 'prophets', 'revealed', 'revelations', 's', 'seen', 'sinners', 'speaking', 'spirit', 'things', 'times', 'transformed', 'understand']
+- ChatGPT injected words (59):
+	['about', 'also', 'and', 'angels', 'benefit', 'but', 'by', 'christ', 'desire', 'despite', 'eagerly', 'eclipsed', 'enjoy', 'era', 'even', 'for', 'future', 'given', 'gospel', 'have', 'having', 'heirs', 'honor', 'immense', 'in', 'investigate', 'knowledge', 'mystery', 'not', 'now', 'of', 'old', 'only', 'ours', 'own', 'privileges', 'prophets', 'redemption', 'revealed', 'revelations', 'salvation', 'serve', 'speaking', 'spirit', 'that', 'the', 'their', 'them', 'these', 'they', 'times', 'to', 'understand', 'us', 'we', 'were', 'who', 'work', 'yearn']
+- ChatGPT injected words (significant words only) (33):
+	['angels', 'benefit', 'christ', 'desire', 'despite', 'eagerly', 'eclipsed', 'enjoy', 'era', 'future', 'given', 'gospel', 'having', 'heirs', 'honor', 'immense', 'investigate', 'knowledge', 'mystery', 'old', 'privileges', 'prophets', 'redemption', 'revealed', 'revelations', 'salvation', 'serve', 'speaking', 'spirit', 'times', 'understand', 'work', 'yearn']
 
 ### Logs
-- Attempt 1 BHT: The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage us to even greater earnestness. Angels, who only know the contrast between good and evil without the power of conversion, long to understand the means by which sinners are transformed. Their intense desire to know is seen in their intense interest and inquiry into the things of the Gospel. Thus, our knowledge and experience of the kingdom of Christ is something that even angels desire to see fulfilled.
-- 🔄 1 Peter 1:12 (attempt 1, 121 words, 44.3% quotes quality score: 1.7768203696146125, V2 normalized quality score: 50.42, commentator tiers 1-3: 26.79%, 33.09%, 40.12%) 
+- Attempt 1 BHT: The prophets of old, though privileged to have the Spirit of Christ speaking in them, received revelations not only for themselves but also for our benefit in Gospel times. The angels themselves, while not possessing an intuitive knowledge of redemption, are deeply interested in the mystery of our salvation. Their ministry to us inspires them to desire to penetrate this glorious mystery. They long to look into the work of salvation, being spectators rather than participants. They witness with great interest the revelation after research that we now have. The angels' curiosity and desire to understand is a testament to the immense privilege we have in knowing and experiencing the fullness of God's plan of redemption.
+- 🔄 1 Peter 1:12 (attempt 1, 117 words, 41.77% quotes quality score: 1.8365500365454297, V2 normalized quality score: 52.41, commentator tiers 1-3: 36.72%, 33.67%, 29.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage us to even greater earnestness. Angels long to understand the means by which sinners are transformed; their intense desire to know is seen in their intense interest and inquiry into the things of the Gospel.
-- 🔄 1 Peter 1:12 (attempt 2, 88 words, 44.62% quotes quality score: 1.8532314204834894, V2 normalized quality score: 52.96, commentator tiers 1-3: 25.53%, 35.27%, 39.2%) 
+- Attempt 2 BHT: The prophets of old, though privileged with the Spirit of Christ in them, received revelations not just for themselves but for our benefit in Gospel times. The angels, though not possessing an intuitive knowledge of redemption, are deeply interested in our salvation. Their ministry to us inclines them to desire to comprehend this glorious mystery. They long to investigate the work of salvation, being spectators rather than participants. Their curiosity and longing demonstrate the immense privilege we have in knowing and experiencing God's plan of redemption.
+- 🔄 1 Peter 1:12 (attempt 2, 87 words, 39.06% quotes quality score: 1.8190744838234734, V2 normalized quality score: 51.83, commentator tiers 1-3: 36.09%, 34.35%, 29.57%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The prophets of old were not only given the future revelations, but they knew that these revelations were meant for our benefit in Gospel times. Their privilege of having Christ's Spirit speaking in them is contrasted with our immense privileges, serving as an incentive for us to be even more earnest. Angels, though not able to experience conversion, yearn to understand the means by which sinners are transformed. Their intense desire is evident in their fervent interest and inquiry into the things of the Gospel.
-- 🔄 1 Peter 1:12 (attempt 3, 86 words, 43.28% quotes quality score: 1.7460689626795314, V2 normalized quality score: 49.4, commentator tiers 1-3: 26.2%, 36.01%, 37.79%) 
+- Attempt 3 BHT: The prophets of old were privileged to have the Spirit of Christ speaking in them, but their revelations were not for their own sake alone. Rather, they were given for our benefit in Gospel times. The angels, though not possessing an intuitive knowledge of redemption, are deeply interested in our salvation. They desire to penetrate the mystery of our salvation, witnessing it from the outside as spectators. This demonstrates the immense privilege we have in knowing and experiencing the fullness of God's plan of redemption.
+- 🔄 1 Peter 1:12 (attempt 3, 86 words, 41.67% quotes quality score: 1.7999148659721005, V2 normalized quality score: 51.19, commentator tiers 1-3: 37.08%, 32.85%, 30.07%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The prophets of old were privileged to receive future revelations that were not solely for themselves, but for our benefit in Gospel times. This serves as an incentive for us to be even more earnest than they were, despite having Christ's Spirit speaking in them. Angels have an intense desire to understand the means by which sinners are converted, as they witness this transformation in the Church. Their fervent interest and inquiry into the Gospel reflect their longing to delve deeper into this mystery.
-- 🔄 1 Peter 1:12 (attempt 4, 85 words, 43.08% quotes quality score: 1.754803622919551, V2 normalized quality score: 49.69, commentator tiers 1-3: 24.96%, 37.08%, 37.96%) 
+- Attempt 4 BHT: The prophets of old had the honor of Christ's Spirit speaking in them, and yet, their revelations were not solely for their own benefit. They were given for our good in Gospel times. Unlike angels, who do not possess an intuitive knowledge of redemption, but minister to the heirs of salvation, we have been granted the privilege to know and experience the fullness of God's plan of redemption. We should therefore be even more earnest in our pursuit of understanding and living out the Gospel message.
+- 🔄 1 Peter 1:12 (attempt 4, 88 words, 44.44% quotes quality score: 1.7770792388376981, V2 normalized quality score: 50.43, commentator tiers 1-3: 34.34%, 33.71%, 31.95%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage greater earnestness. Angels desire to understand the means by which sinners are transformed and have an intense interest in the Gospel. Our knowledge and experience of the kingdom of Christ is something that even angels long to see fulfilled.
-- 🔄 1 Peter 1:12 (attempt 5, 92 words, 46.27% quotes quality score: 1.7703070522371598, V2 normalized quality score: 50.2, commentator tiers 1-3: 26.99%, 32.69%, 40.33%) 
+- Attempt 5 BHT: The prophets of old were not only given knowledge about the future but also revealed that these revelations were not for their own benefit but for ours in Gospel times. Despite having the honor of the Spirit of Christ speaking in them, they were eclipsed by the immense privileges we enjoy in the Gospel era. Even the angels, who serve the heirs of salvation, yearn to understand the mystery of redemption and eagerly desire to investigate the work that we now have revealed to us.
+- 🔄 1 Peter 1:12 (attempt 5, 85 words, 44.07% quotes quality score: 2.0897410137786006, V2 normalized quality score: 60.82, commentator tiers 1-3: 34.58%, 34.0%, 31.42%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Peter 1:12 bht prompt v0.8 (88 words, 44.62% quotes)
-- quality score: 1.8532314204834894, V2 normalized quality score: 52.96, commentator tiers 1-3: 25.53%, 35.27%, 39.2%)
+- ✅ 1 Peter 1:12 bht prompt v0.8 (85 words, 44.07% quotes)
+- quality score: 2.0897410137786006, V2 normalized quality score: 60.82, commentator tiers 1-3: 34.58%, 34.0%, 31.42%)

@@ -1,49 +1,47 @@
 # 2 Corinthians 2:1 Commentary Help Text
 
 ## BHT:
-Paul's words indicate a previous visit that brought grief. There was mutual pain between Paul and the Corinthians, with both parties grieving each other. While it's uncertain if Paul had already made a second visit, he desired to spare them further sorrow. He resolved to wait for their repentance before coming again, wanting to bring joy rather than grief.
+Paul refers to a previous visit that brought mutual grief to him and the Corinthians. Scholars suggest there may have been an unrecorded visit between his initial one and this sorrowful one. Paul expresses his desire not to visit again with sorrow, aiming to spare them from further pain and allowing more time for repentance. He frames his decision as for his own pleasure, acknowledging the grief his arrival would bring to the church. His resolution is to ensure that his second coming brings joy instead of sorrow.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "this refers to what follows: see reff." 
-2. "this implies, that some former visit had been in grief."
-3. "'I grieving you (ver. 2), and you grieving me' (ver. 3): not St. Paul’s grief alone, nor grief alone inflicted on them by St. Paul."
+1. "Not come again to you in sorrow... implying, that some former visit had been in grief." 
+2. "Clearly the first visit... could not be thus described: we must therefore infer, that an intermediate unrecorded visit had been paid by him." 
+3. "In sorrow is explained in vv. 2, 3 to mean in mutual grief. 'I grieving you (ver. 2), and you grieving me' (ver. 3): not St. Paul’s grief alone, nor grief alone inflicted on them by St. Paul."
 
 ### Jamieson-Fausset-Brown:
-1. "The same antithesis between Paul and them appears in 2 Corinthians 1:23." (Quote 1)
-2. "He had warned them 'he would not spare if he should come again.'" (Quote 2)
-3. "The 'in heaviness' implies mutual pain; they grieving him, and he them." (Quote 3)
+1. "The same antithesis between Paul and them appears in 2 Corinthians 1:23."
+2. "He had already paid them one visit in sorrow since his coming for the first time to Corinth."
+3. "The 'in heaviness' implies mutual pain; they grieving him, and he them."
 
 ### Albert Barnes:
-1. "I made up my mind on this point; I formed this resolution in regard to my course." 
-2. "I would not come, if I could avoid it, in circumstances which must have grieved both me and you."
-3. "I resolved, therefore, to endeavor to remove these evils before I came, that when I did come, my visit might be mutually agreeable to us both."
+1. "I made up my mind on this point; I formed this resolution in regard to my course."
+2. "I resolved, therefore, to endeavor to remove these evils before I came, that when I did come, my visit might be mutually agreeable to us both."
+3. "It was really from no fickleness, but it was from love to them, and a desire that his visit should be mutually agreeable."
 
 ### Marvin Vincent:
 1. "Paul, with affectionate tact, puts it as if he had taken this resolution for his own pleasure." 
 2. "He refers to the sorrow which his coming would bring to the Church."
-3. "Again. Referring to a former unrecorded visit."
+3. "Referring to a former unrecorded visit."
 
 ### John Calvin:
-1. "For now at length the Apostle explains, in what manner he had spared them."
- 
-2. "He was unwilling to come to them, lest he should be constrained to grieve them again."
- 
+1. "But I had determined... For now at length the Apostle explains, in what manner he had spared them."
+2. "I had determined... not to come to you any more in sorrow."
 3. "He chose rather to give them longer time for repentance."
 
 ### Philip Schaff:
-1. "But I determined this for myself, that I would not come again to you with sorrow." 
+1. "I determined this for myself, that I would not come again to you with sorrow." 
 2. "This is so plainly a continuance of his explanation of the delay of his expected visit to Corinth."
 3. "It is a pity a new chapter should in the recognised division have begun here."
 
 ### Archibald T. Robertson:
-1. "What does Paul mean by 'again'?...Either interpretation is possible as the Greek stands and scholars disagree."
-2. "There is absolutely no way to tell clearly whether Paul had already made a second visit."
-3. "If he had done so, it is a bit odd that he did not plainly say so in 2 Corinthians 1:15 when he is apologizing for not having made the proposed visit."
+1. "Had he paid another visit besides that described in 2 Corinthians 2:18 which was in sorrow... Either interpretation is possible as the Greek stands and scholars disagree."
+2. "So in 2 Corinthians 12:14 'The third time I am ready to come' may refer to the proposed second visit (2 Corinthians 1:15) and the present plan (a third). And so as to 2 Corinthians 13:1."
+3. "There is absolutely no way to tell clearly whether Paul had already made a second visit. If he had done so, it is a bit odd that he did not plainly say so in 2 Corinthians 1:15 when he is apologizing for not having made the proposed visit."
 
 ### John Gill:
-1. "That he would not come with sorrow and heaviness, bewailing their sins not repented of, and by sharp reproofs and censures, which in such a case would be necessary, be the cause of grief and trouble to them." 
-2. "He determined to wait their repentance and amendment before he came again."
+1. "He determined with himself, he took up a resolution within his own breast some time ago, says he, that I would not come again to you in heaviness." 
+2. "He determined to wait their repentance and amendment before he came again." 
 3. "As his first coming among them was to the joy of their souls, so it was a determined case with him, that his second coming should not be with grief, either to them or himself, or both."
 
 ### John Wesley:
@@ -53,36 +51,38 @@ Paul's words indicate a previous visit that brought grief. There was mutual pain
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:15:19
+- Timestamp: 12-25-2023 19:29:56
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 61
-- BHT Commentary Usage: 51.92%
-- BHT Quality Score: 1.9099349108657324
+- BHT Word Count: 88
+- BHT Commentary Usage: 44.62%
+- BHT Quality Score: 2.0398579276517825
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (52):
-	['a', 'again', 'already', 'and', 'before', 'between', 'both', 'bring', 'brought', 'coming', 'corinthians', 'desired', 'each', 'for', 'further', 'grief', 'grieving', 'had', 'he', 'if', 'indicate', 'it', 'joy', 'made', 'mutual', 'other', 'pain', 'parties', 'paul', 'previous', 'rather', 'repentance', 'resolved', 's', 'second', 'sorrow', 'spare', 'than', 'that', 'the', 'their', 'them', 'there', 'to', 'uncertain', 'visit', 'wait', 'wanting', 'was', 'while', 'with', 'words']
-- ChatGPT injected words (significant words only) (25):
-	['bring', 'brought', 'coming', 'corinthians', 'desired', 'grief', 'grieving', 'indicate', 'joy', 'mutual', 'pain', 'parties', 'paul', 'previous', 'repentance', 'resolved', 's', 'second', 'sorrow', 'spare', 'uncertain', 'visit', 'wait', 'wanting', 'words']
+- ChatGPT injected words (65):
+	['a', 'acknowledging', 'again', 'aiming', 'allowing', 'an', 'and', 'arrival', 'as', 'been', 'between', 'bring', 'brings', 'brought', 'church', 'coming', 'corinthians', 'decision', 'desire', 'ensure', 'expresses', 'for', 'frames', 'from', 'further', 'grief', 'have', 'he', 'him', 'his', 'initial', 'instead', 'is', 'joy', 'may', 'more', 'mutual', 'not', 'of', 'one', 'own', 'pain', 'paul', 'pleasure', 'previous', 'refers', 'repentance', 'resolution', 'scholars', 'second', 'sorrow', 'sorrowful', 'spare', 'suggest', 'that', 'the', 'them', 'there', 'this', 'time', 'to', 'unrecorded', 'visit', 'with', 'would']
+- ChatGPT injected words (significant words only) (36):
+	['acknowledging', 'aiming', 'allowing', 'arrival', 'bring', 'brings', 'brought', 'church', 'coming', 'corinthians', 'decision', 'desire', 'ensure', 'expresses', 'frames', 'grief', 'initial', 'instead', 'joy', 'mutual', 'pain', 'paul', 'pleasure', 'previous', 'refers', 'repentance', 'resolution', 'scholars', 'second', 'sorrow', 'sorrowful', 'spare', 'suggest', 'time', 'unrecorded', 'visit']
 
 ### Logs
-- Attempt 1 BHT: The verse seems to refer to the grief that had been caused by a previous visit from Paul. There is an antithesis between Paul and the Corinthians, with both sides feeling sorrow and grieving each other. Paul had warned them that he would not spare them if he were to come again, but he tactfully puts it as if he made the resolution for his own pleasure. It's unclear whether Paul had already made a second visit, as scholars disagree on the interpretation of again. Nevertheless, Paul wanted to avoid coming to them with sorrow and heaviness, desiring to give them more time for repentance and amendment before his next visit.
-- 🔄 2 Corinthians 2:1 (attempt 1, 112 words, 54.67% quotes quality score: 1.9617761653377435, V2 normalized quality score: 56.57, commentator tiers 1-3: 46.81%, 21.2%, 32.0%) 
-	- BHT WAS OVER 80 WORDS! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Paul's words in 2 Corinthians 2:1 allude to a previous visit that had caused grief. His relationship with the Corinthians was marked by mutual pain, with both sides grieving each other. While it's unclear whether Paul had already made a second visit, it is evident that he wanted to spare them and himself from further sorrow. He resolved to wait for their repentance and amendments before coming again, desiring a visit that would bring joy rather than grief.
-- 🔄 2 Corinthians 2:1 (attempt 2, 78 words, 52.46% quotes quality score: 1.9261329738810677, V2 normalized quality score: 55.39, commentator tiers 1-3: 43.08%, 18.92%, 38.0%) 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Paul's words indicate a previous visit that brought grief. There was mutual pain between Paul and the Corinthians, with both parties grieving each other. While it's uncertain if Paul had already made a second visit, he desired to spare them further sorrow. He resolved to wait for their repentance before coming again, wanting to bring joy rather than grief.
-- 🔄 2 Corinthians 2:1 (attempt 3, 61 words, 51.92% quotes quality score: 1.9099349108657324, V2 normalized quality score: 54.85, commentator tiers 1-3: 44.83%, 19.31%, 35.87%)
-- Attempt 4 BHT: Paul, with affectionate tact, refers to a former unrecorded visit that had brought mutual pain to both him and the Corinthians. He had already warned them of his uncompromising stance and that he would not spare them if he were to come again. This resolution was made to spare them from sorrow and heaviness, giving them more time for repentance. His intention was not to grieve them again but to bring joy to their souls. His aim was to wait for their repentance and amendment before making another visit, ensuring that his second coming would not be a cause of grief to either party.
-- 🔄 2 Corinthians 2:1 (attempt 4, 104 words, 47.06% quotes quality score: 1.781214618399472, V2 normalized quality score: 50.57, commentator tiers 1-3: 36.75%, 18.11%, 45.14%) 
+- Attempt 1 BHT: Paul, in his letter to the Corinthians, alludes to a previous visit that had brought sorrow to both him and the church. It is clear that this visit was distinct from his initial visit, as it could not be described as sorrowful. Scholars suggest that there may have been an unrecorded intermediate visit. Paul expresses his desire not to come again to Corinth in sorrow, highlighting the mutual grief that had been experienced. By tactfully framing his decision as for his own pleasure, Paul acknowledges the pain his arrival would cause the church. This resolution was made with the intention of sparing them further sorrow and allowing more time for repentance and amendment. The apostle wants his second coming to bring joy rather than grief, for both himself and the Corinthians.
+- 🔄 2 Corinthians 2:1 (attempt 1, 131 words, 44.71% quotes quality score: 1.970035213900859, V2 normalized quality score: 56.84, commentator tiers 1-3: 46.44%, 21.33%, 32.23%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul, with affectionate tact, refers to a former unrecorded visit that had brought mutual pain to both him and the Corinthians. He had already warned them of his uncompromising stance and that he would not spare if he were to come again. His resolution was made to spare them from sorrow and heaviness, giving them more time for repentance. His aim was to wait for their amendment before making another visit, ensuring that his second coming would not be a cause of grief to either party.
-- 🔄 2 Corinthians 2:1 (attempt 5, 86 words, 49.18% quotes quality score: 1.7795127464544294, V2 normalized quality score: 50.51, commentator tiers 1-3: 39.72%, 17.96%, 42.32%) 
+- Attempt 2 BHT: Paul refers to a previous visit that brought mutual grief to him and the Corinthians. Scholars suggest there may have been an unrecorded visit between his initial one and this sorrowful one. Paul expresses his desire not to visit again with sorrow, aiming to spare them from further pain and allowing more time for repentance. He frames his decision as for his own pleasure, acknowledging the grief his arrival would bring to the church. His resolution is to ensure that his second coming brings joy instead of sorrow.
+- 🔄 2 Corinthians 2:1 (attempt 2, 88 words, 44.62% quotes quality score: 2.0398579276517825, V2 normalized quality score: 59.17, commentator tiers 1-3: 44.33%, 20.38%, 35.3%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 2 Corinthians 2:1 bht prompt v0.8 (61 words, 51.92% quotes)
-- quality score: 1.9099349108657324, V2 normalized quality score: 54.85, commentator tiers 1-3: 44.83%, 19.31%, 35.87%)
+- Attempt 3 BHT: Paul had previously visited the Corinthians and experienced mutual grief with them. It can be inferred that there was an unrecorded intermediate visit that caused sorrow. His resolution is not to come again to them in sorrow, desiring to spare them further pain and allowing more time for repentance. He tactfully presents his decision as for his own pleasure, acknowledging the grief his coming would bring to the church. Paul aims for his second visit to bring joy instead of sorrow.
+- 🔄 2 Corinthians 2:1 (attempt 3, 81 words, 44.07% quotes quality score: 1.9903834270811682, V2 normalized quality score: 57.52, commentator tiers 1-3: 46.31%, 19.41%, 34.29%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Paul had previously visited the Corinthians and experienced mutual grief with them. Scholars suggest that there may have been an unrecorded intermediate visit which caused sorrow. In his letter, Paul expresses his resolution not to come again to them in sorrow, desiring to spare them further pain and allow more time for repentance. He tactfully presents his decision as for his own pleasure, acknowledging the grief his coming would bring to the church. His aim is for his second visit to bring joy instead of sorrow.
+- 🔄 2 Corinthians 2:1 (attempt 4, 86 words, 41.94% quotes quality score: 2.008921506933705, V2 normalized quality score: 58.14, commentator tiers 1-3: 46.15%, 18.87%, 34.98%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Paul had previously visited the Corinthians and experienced mutual grief with them. Scholars suggest the possibility of an unrecorded intermediate visit. Paul resolves not to come again in sorrow, sparing them further pain and allowing time for repentance. He tactfully presents his decision as for his own pleasure, aware of the grief his coming would bring to the church. His aim is for his second visit to bring joy rather than sorrow, both for himself and the Corinthians.
+- 🔄 2 Corinthians 2:1 (attempt 5, 78 words, 41.82% quotes quality score: 1.9154391853715027, V2 normalized quality score: 55.03, commentator tiers 1-3: 49.2%, 16.13%, 34.67%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 2 Corinthians 2:1 bht prompt v0.8 (88 words, 44.62% quotes)
+- quality score: 2.0398579276517825, V2 normalized quality score: 59.17, commentator tiers 1-3: 44.33%, 20.38%, 35.3%)

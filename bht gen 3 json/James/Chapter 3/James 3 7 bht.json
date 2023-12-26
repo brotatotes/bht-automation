@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 17:35:58",
+    "timestamp": "12-25-2023 19:31:35",
     "verseRef": "James 3:7",
     "bestBHT": {
-        "bht": "Man, through gentle firmness and his nature, has the ability to tame every kind of beast. Despite man's small inherent power, he has subdued the beasts by his superior understanding. Skill and perseverance can render any animal tame and obedient to man's will. Just as man has dominion over the beasts, it is crucial to restrain our tongues, for they possess the potential to inflict great harm. Tongues are likened to a hidden fire of hell that must be controlled in order to live a righteous life.",
-        "wordCount": 89,
-        "quoteTokenProportion": 40.3,
-        "qualityScore": 1.9898337715447105,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+        "bht": "Man, by his natural disposition and characteristic power, has the ability to tame and elevate even the nature of inferior animals. Just as man, with gentle firmness and skillful arts, is able to hold sway over the beasts that roam the fields and tread the mountains, so too can he subdue every kind of beast and bird. Through wit, industry, and various means, all kinds of beasts and birds are tamed by mankind. Therefore, if we desire to live properly, we must restrain our tongues, as no part of man does more harm.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.0760312678323407,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.37,
         "commentatorTierSimilarities": [
-            35.08,
-            39.81,
-            25.11
+            38.83,
+            31.84,
+            29.34
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "every nature\" (that is, natural disposition and characteristic power).",
-            "quadrupeds of every disposition; as distinguished from the three other classes of creation, 'birds, creeping things...and things in the sea.'",
-            "man, by gentle firmness, may tame the inferior animal, and even elevate its nature."
+            "every nature (that is, natural disposition and characteristic power).",
+            "by the nature of man\": man's characteristic power taming that of the inferior animals.",
+            "even now man, by gentle firmness, may tame the inferior animal, and even elevate its nature."
         ],
         "Albert Barnes": [
             "Small is the power which nature has given to man; but, by various acts of his superior understanding, he has subdued the tribes of the sea, the earth, and the air.",
@@ -26,29 +26,29 @@
             "It may be affirmed with confidence that there is no animal which might not, by proper skill and perseverance, be rendered tame, or made obedient to the will of man."
         ],
         "Marvin Vincent": [
-            "Kind [\u03c6\u03c5\u03c3\u03b9\u03c2] . Wrong. Jas. is not speaking of the relation between individual men and individual beasts, but of the relation between the nature of man and that of beasts, which may be different in different beasts.\" ",
-            "Beasts [\u03b8\u03b7\u03c1\u03b9\u03c9\u03bd] . Quadrupeds. Not beasts generally, nor wild beasts only.",
-            "Every nature of beasts is tamed by the nature of man."
+            "Every nature of beasts is tamed by the nature of man.",
+            "He takes them all in nets, Knotted in snaring mesh, Man, wonderful in skill.",
+            "And by his subtle arts, He holds in sway the beasts That roam the fields or tread the mountain's height."
         ],
         "John Calvin": [
-            "For he says that there is no animal so savage or fierce, which is not tamed by the skill of man, \u2014 that fishes, which in a manner inhabit another world, \u2014 that birds, which are so quick and roving \u2014 and that serpents, which are so inimical to mankind, are sometimes tamed.\" ",
-            "Since then the tongue cannot be restrained, there must be some secret fire of hell hidden in it.",
+            "For he says that there is no animal so savage or fierce, which is not tamed by the skill of man, \u2014 that fishes, which in a manner inhabit another world, \u2014 that birds, which are so quick and roving \u2014 and that serpents, which are so inimical to mankind, are sometimes tamed. Since then the tongue cannot be restrained, there must be some secret fire of hell hidden in it.",
+            "He refers to present and to past time: the present regards power and capacity, and the past, usage or experience. He hence justly concludes that the tongue is full of deadly poison.",
             "Though all these things most suitably refer in the first place to the subject of this passage \u2014 that they claim an unreasonable command over others, who labor under a worse vice; yet a universal doctrine may be understood as taught here, \u2014 that if we desire to form our life aright, we must especially strive to restrain the tongue, for no part of man does more harm."
         ],
         "Philip Schaff": [
             "For every kind: literally, every nature or disposition.",
-            "is tamed better, 'is subdued,' as we can hardly say that all the inferior animals are tamed, many of them being incapable of being so; but they may all be subdued.",
-            "of mankind: literally, 'by the nature of men,' answering to the nature of the inferior animals mentioned above; hence 'by human nature.'"
+            "They may all be subdued.",
+            "Of mankind: literally, 'by the nature of men,' answering to the nature of the inferior animals mentioned above; hence 'by human nature.'"
         ],
         "Archibald T. Robertson": [
-            "Kind (\u03c6\u03c5\u03c3\u03b9\u03c2). Old word from \u03c6\u03c5\u03c9, order of nature (Romans 1:26), here of all animals and man, in 2 Peter 1:4 of God and redeemed men.",
-            "Of beasts (\u03b8\u03b7\u03c1\u03b9\u03c9\u03bd). Old word diminutive from \u03b8\u03b7\u03c1 and so 'little beasts' originally, then wild animals in general (Mark 1:13), or quadrupeds as here.",
-            "Is tamed (\u03b4\u03b1\u03bc\u03b1\u03b6\u03b5\u03c4\u03b1). Present passive indicative of \u03b4\u03b1\u03bc\u03b1\u03b6\u03c9, old verb kin to Latin dominus and English tame, in N.T. only in this passage and Mark 5:4. The present tense gives the general picture of the continuous process through the ages of man's lordship over the animals as stated in Genesis 1:28."
+            "Kind (\u03c6\u03c5\u03c3\u03b9\u03c2). Old word from \u03c6\u03c5\u03c9, order of nature [...] here of all animals and man, in 2 Peter 1:4 of God and redeemed men.",
+            "Of beasts (\u03b8\u03b7\u03c1\u03b9\u03c9\u03bd). Old word diminutive from \u03b8\u03b7\u03c1 and so 'little beasts' originally, then wild animals in general, or quadrupeds as here.",
+            "Is tamed (\u03b4\u03b1\u03bc\u03b1\u03b6\u03b5\u03c4\u03b1). Present passive indicative of \u03b4\u03b1\u03bc\u03b1\u03b6\u03c9, old verb kin to Latin dominus and English tame, in N.T. only in this passage and Mark 5:4."
         ],
         "John Gill": [
-            "For every kind of beasts, and of birds.... is tamed, and hath been tamed of mankind.\" ",
+            "For every kind of beasts, and of birds....is tamed, and hath been tamed of mankind, or 'by human nature'",
             "by the wit and industry of man; by the various ways, means, and methods devised by man.",
-            "elephants, lions and tigers among beasts, and the eagle among birds, and crocodiles, asps, and other serpents, and fishes of the sea, have been tamed."
+            "though some think this is only to be understood of their being mastered and subdued, by one means or another; or of their being despoiled of their power, or of their poison."
         ],
         "John Wesley": [
             "Every kind \u2014 The expression perhaps is not to be taken strictly.",
@@ -72,67 +72,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "By gentle firmness, man can tame the disposition and characteristic power of every kind of beast, distinguishing them from birds, creeping things, and sea creatures. Though man possesses a small natural power compared to these beasts, he has subdued them through his superior understanding. By skill and perseverance, all animals can be rendered tame and obedient to the will of man. Therefore, just as man has dominion over the beasts, it is essential for us to restrain our tongues, for it is like a fire of hell hidden within us. This universal doctrine teaches us that if we desire to live rightly, we must strive to control our words, as they have the potential to cause great harm.",
-            "wordCount": 118,
-            "quoteTokenProportion": 42.35,
-            "qualityScore": 1.993479168318318,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "bht": "Man, by his natural disposition and characteristic power, has the ability to tame and elevate even the nature of inferior animals. Just as man, with gentle firmness and skillful arts, is able to hold sway over the beasts that roam the fields and tread the mountains, so too can he subdue every kind of beast and bird. It is through the wit, industry, and various means devised by man that these creatures are tamed and brought under his control. Therefore, it is clear that if we desire to live our lives properly, we must strive to restrain our tongues, as no part of man does more harm. The tongue, if left unrestrained, is like a secret fire of hell hidden within, full of deadly poison.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 1.8490753026887248,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
             "commentatorTierSimilarities": [
-                34.34,
-                39.57,
-                26.09
+                36.86,
+                30.4,
+                32.74
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Man, through gentle firmness and his nature, has the ability to tame every kind of beast. Despite man's small inherent power, he has subdued the beasts by his superior understanding. Skill and perseverance can render any animal tame and obedient to man's will. Just as man has dominion over the beasts, it is crucial to restrain our tongues, for they possess the potential to inflict great harm. Tongues are likened to a hidden fire of hell that must be controlled in order to live a righteous life.",
-            "wordCount": 89,
-            "quoteTokenProportion": 40.3,
-            "qualityScore": 1.9898337715447105,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "bht": "By his natural disposition and characteristic power, man has the ability to tame and elevate the nature of inferior animals. With gentle firmness and skillful arts, he holds sway over the beasts that roam the fields and tread the mountains. Through wit, industry, and various means, all kinds of beasts and birds are tamed by mankind. Therefore, it is clear that if we desire to live properly, we must restrain our tongues, as no part of man does more harm. The tongue, if left unrestrained, is like a secret fire of hell full of deadly poison.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.8310469552011672,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
             "commentatorTierSimilarities": [
-                35.08,
-                39.81,
-                25.11
+                37.84,
+                30.26,
+                31.9
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Through gentle firmness, man can tame the disposition and characteristic power of every kind of beast, distinguished from birds, creeping things, and sea creatures. Though man possesses small natural power, he has subdued beasts by his superior understanding. Skill and perseverance can render animals obedient to man's will. Therefore, it is essential for us to restrain our tongues, as they have the potential to cause great harm. This universal doctrine teaches us to control our words, for they can be like a hidden fire of hell within us.",
-            "wordCount": 89,
-            "quoteTokenProportion": 38.03,
-            "qualityScore": 1.8002696052037361,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "bht": "Man, by his natural disposition and characteristic power, has the ability to tame and elevate even the nature of inferior animals. Just as man, with gentle firmness and skillful arts, is able to hold sway over the beasts that roam the fields and tread the mountains, so too can he subdue every kind of beast and bird. It is through the wit, industry, and various means devised by man that these creatures are tamed and brought under his control. Therefore, it is clear that if we desire to live our lives properly, we must strive to restrain our tongues, as no part of man does more harm. The tongue, if left unrestrained, is like a secret fire of hell hidden within, full of deadly poison.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 1.8490753026887248,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
             "commentatorTierSimilarities": [
-                34.49,
-                39.29,
-                26.22
+                36.86,
+                30.4,
+                32.74
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Man, through gentle firmness, can tame the disposition and characteristic power of every kind of beast. Though man possesses small natural power, he has subdued beasts by superior understanding. Skill and perseverance render all animals obedient to man's will. Therefore, it is crucial to restrain our tongues, for they possess the potential to cause great harm. Tongues are likened to a hidden fire of hell that must be controlled to live a righteous life.",
-            "wordCount": 75,
-            "quoteTokenProportion": 38.71,
-            "qualityScore": 1.8231667187617289,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "bht": "Man, by his natural disposition and characteristic power, has the ability to tame and elevate even the nature of inferior animals. Just as man, with gentle firmness and skillful arts, is able to hold sway over the beasts that roam the fields and tread the mountains, so too can he subdue every kind of beast and bird. It is through the wit, industry, and various means devised by man that these creatures are tamed and brought under his control. Therefore, it is clear that if we desire to live our lives properly, we must strive to restrain our tongues, as no part of man does more harm.",
+            "wordCount": 107,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.9883579257449095,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
             "commentatorTierSimilarities": [
-                34.55,
-                40.11,
-                25.33
+                38.47,
+                31.62,
+                29.9
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "By gentle firmness, man can tame every kind of beast, distinguished from birds, creeping things, and sea creatures. Though man possesses small natural power, he has subdued beasts by his superior understanding. Skill and perseverance render all animals obedient to man's will. Therefore, it is crucial to restrain our tongues, for they possess the potential to cause great harm. Tongues are like a hidden fire of hell that must be controlled to live a righteous life.",
-            "wordCount": 77,
-            "quoteTokenProportion": 37.31,
-            "qualityScore": 1.8351092323686404,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "bht": "Man, by his natural disposition and characteristic power, has the ability to tame and elevate even the nature of inferior animals. Just as man, with gentle firmness and skillful arts, is able to hold sway over the beasts that roam the fields and tread the mountains, so too can he subdue every kind of beast and bird. Through wit, industry, and various means, all kinds of beasts and birds are tamed by mankind. Therefore, if we desire to live properly, we must restrain our tongues, as no part of man does more harm.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0760312678323407,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.37,
             "commentatorTierSimilarities": [
-                34.0,
-                38.7,
-                27.29
+                38.83,
+                31.84,
+                29.34
             ],
             "generationAttempt": 5
         }

@@ -11,8 +11,8 @@ from bibleref import BibleRange
 
 # params
 choicest_prompt = "choicest prompt v0.4"
-bht_prompt = "bht prompt v0.7"
-REGENERATE_BHTS = True
+bht_prompt = "bht prompt v0.8"
+REGENERATE_BHTS = False
 RECOMPUTE_V2_SCORES = False
 n = 200
 
@@ -118,7 +118,8 @@ for group in groups:
 
 # inject custom test set
 # verses = [str(v) for v in BibleRange("Matthew 22:1-14")]
-# verses_and_scores = [(v, scores[v]) for v in verses]
+verses = ALL_VERSES
+verses_and_scores = [(v, scores[v]) for v in verses]
 
 
 print(f"Selected {len(verses)} verses.")

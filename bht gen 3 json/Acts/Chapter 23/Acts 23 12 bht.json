@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:35:48",
+    "timestamp": "12-25-2023 19:32:06",
     "verseRef": "Acts 23:12",
     "bestBHT": {
-        "bht": "In this account, a group of violent men formed a conspiracy, bound themselves under a curse, and vowed to kill Paul. This wicked oath revealed the moral depravity of the Jews at the time. While they could easily obtain absolution from their vows, their commitment to murder was evident. Conversely, Paul found peace and assurance in his imprisonment, as his enemies were consumed by active malice. This story serves as a caution to defend God's glory passionately.",
-        "wordCount": 78,
-        "quoteTokenProportion": 32.26,
-        "qualityScore": 1.8476910046936008,
-        "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+        "bht": "A group of individuals conspired together and bound themselves under a curse, anathematizing themselves with a solemn oath to not eat or drink until they had fulfilled their plan of killing Paul. This wicked vow showcases the severe moral decay and intense malice of the Jewish people towards the apostle. Though they could easily be absolved of their oath through their religious leaders, it serves as a chilling reminder of the incredible lengths people will go to oppose the truth.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.1721233914708096,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.56,
         "commentatorTierSimilarities": [
-            18.13,
-            44.89,
-            36.98
+            21.57,
+            42.52,
+            35.9
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -25,9 +25,9 @@
             "\t1 Samuel 14:24."
         ],
         "Albert Barnes": [
-            "And bound themselves under a curse...they invoked a curse on themselves, or devoted themselves to destruction, if they did not do it.",
-            "Under various pretences they could easily be freed from such oaths, and it was common to take them.",
-            "This was a most wicked oath. It was a deliberate purpose to commit murder; and it shows the desperate state of morals among the Jews at that time."
+            "And bound themselves under a curse - See the margin. The Greek is, 'they anathematized themselves'; that is, they bound themselves by a solemn oath.",
+            "Under various pretences they could easily be freed from such oaths, and it was common to take them; and if there was any difficulty in fulfilling them, they could easily apply to their religious teachers and be absolved.",
+            "It is needless to remark that this was a most wicked oath. It was a deliberate purpose to commit murder; and it shows the desperate state of morals among the Jews at that time, and the infuriated malice of the people against the apostle, that such an oath could have been taken."
         ],
         "Marvin Vincent": [
             "Banded together [\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2 \u03c3\u03c5\u03c3\u03c4\u03c1\u03bf\u03c6\u03b7\u03bd]. Lit., having made a conspiracy.",
@@ -41,18 +41,18 @@
         ],
         "Philip Schaff": [
             "The contrast is great between the peaceful assurance thus secretly given to the faith of the apostle in his place of imprisonment and the active malignity of his enemies in the city.",
-            "These violent men bound themselves with a dreadful oath (kherem, \u05d7\u05b5\u05d3\u05b6\u05dd , \u1f00\u03bd\u03ac\u03b8\u03b5\u03bc\u03b1 ), that is, they invoked the curse of God upon themselves in the event of their violating their vow, binding themselves neither to eat nor drink until they had murdered Paul, the enemy of their race.",
-            "In the case of such fearful vows, by no means uncommon in that wild time of disorder and hatred, the Talmud, however, provided a loophole of escape for those who so rashly took this burden on themselves."
+            "They invoked the curse of God upon themselves in the event of their violating their vow, binding themselves neither to eat nor drink until they had murdered Paul, the enemy of their race.",
+            "In the case of such fearful vows...the Talmud...provided a loophole of escape for those who so rashly took this burden on themselves."
         ],
         "Archibald T. Robertson": [
-            "Banded together (\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2 \u03c3\u03c5\u03c3\u03c4\u03c1\u03bf\u03c6\u03b7\u03bd). See on Acts 19:40 (riot), but here conspiracy, secret combination, binding together like twisted cords.",
-            "Bound themselves under a curse (\u03b1\u03bd\u03b5\u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03c3\u03b1\u03bd \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). First aorist active indicative of \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03b6\u03c9, a late word, said by Cremer and Thayer to be wholly Biblical or ecclesiastical.",
-            "Drink (\u03c0\u03b5\u03b9\u03bd=\u03c0\u03b9\u03b5\u03b9\u03bd). Second aorist active infinitive of \u03c0\u03b9\u03bd\u03c9. For this shortened form see Robertson, Grammar, p. 343."
+            "Bound themselves under a curse, devoted themselves to God.",
+            "They placed themselves under an anathema or curse, devoted themselves to God.",
+            "No reason to translate 'had killed,' simply 'till they should kill,' the aorist merely punctiliar action."
         ],
         "John Gill": [
             "these men swore to it, bound themselves with an oath, or wished they might be an anathema, accursed of God, and cut off from his people; they imprecated the most dreadful evils upon themselves.",
-            "these were a set of zealots, who in imitation of Phinehas, and pretending the glory of God, took upon them to take away the lives of men, without any, judicial procedure, or the authority of the civil magistrate",
-            "it was a pretty easy thing to be freed from oaths and vows, among the Jews, whose doctors had a power to absolve men from them"
+            "it may be asked, what became of this vow? or how did they get clear of it, since they did not accomplish the fact? to which it may be answered, that it was a pretty easy thing to be freed from oaths and vows, among the Jews, whose doctors had a power to absolve men from them.",
+            "no doubt but these men very easily got their vow loosed, since it was made on such a design."
         ],
         "John Wesley": [
             "Such execrable vows were not uncommon among the Jews.",
@@ -76,67 +76,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "A group of violent and zealous men in Acts 23:12 formed a secret conspiracy, invoking God's curse upon themselves if they failed to carry out their evil plot to kill Paul. This wicked oath demonstrated the moral depravity of the Jews at that time. Although they could easily find ways to be freed from such vows, their desperate commitment to murder was clear. On the contrary, Paul found peace and assurance in the midst of his imprisonment, while his enemies in the city were consumed by active malice. This passage reveals the dangerous lengths to which hypocrites in their zealous blindness will go, willing to break any law or commit any atrocity for what they perceive as righteous causes. It serves as a caution for us to be vigilant and firm in defending God's glory.",
-            "wordCount": 136,
-            "quoteTokenProportion": 35.64,
-            "qualityScore": 1.8423641448511163,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "bht": "A group of individuals conspired together and bound themselves under a curse with the intention of neither eating nor drinking until they had killed Paul. This wicked oath displays the desperate state of morals among the Jews at that time and the intense hatred they harbored towards the apostle. While it may seem shocking, the Talmud provided loopholes for those who took such burdensome vows. Though their zeal was misplaced and fueled by malice, it serves as a reminder of the lengths people will go to oppose the truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 2.067794501366034,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
             "commentatorTierSimilarities": [
-                15.36,
-                45.42,
-                39.22
+                20.93,
+                41.36,
+                37.71
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "A group of violent men in this account formed a conspiracy, invoking God's curse if they failed to carry out their plot to kill Paul. Their wicked oath revealed the moral depravity of the Jews at the time. Although they could be freed from such vows, their commitment to murder was evident. On the contrary, Paul found peace and assurance in his imprisonment, while his enemies were consumed by active malice. This serves as a caution for us to be vigilant and firm in defending God's glory.",
-            "wordCount": 89,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.8296801951153694,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "bht": "A group bound by a wicked oath and conspiracy pledged to neither eat nor drink until Paul was killed, demonstrating the extreme moral decay and malicious intent of the Jews. Despite their zealous pursuit, they could easily seek absolution from their religious leaders if they were unable to fulfill their vow. This shows the desperate measures people will take to oppose the truth. It is a solemn reminder of the profound depths of hatred and the lengths individuals go to undermine righteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7983825130642783,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
             "commentatorTierSimilarities": [
-                16.49,
-                45.53,
-                37.97
+                19.96,
+                40.95,
+                39.08
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this account, a group of violent men formed a conspiracy, putting themselves under a curse and vowing to kill Paul. This wicked oath demonstrated the moral depravity of the Jews at the time. Though they could find ways to be freed from such vows, their commitment to murder was clear. Meanwhile, Paul found peace and assurance in his imprisonment, while his enemies were driven by active malice. This passage serves as a caution for us to defend God's glory with vigilance.",
-            "wordCount": 83,
-            "quoteTokenProportion": 39.71,
-            "qualityScore": 1.7946056392400394,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+            "bht": "A group of individuals plotted together, binding themselves under a curse, to refrain from eating or drinking until they had killed Paul. This unholy oath showcases the prevailing moral depravity and intense animosity of the Jewish people towards the apostle. While they could seek absolution from their oaths through the Rabbis, it is a stark reminder of the extremes people will go to in order to reject and oppose the truth.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.111130697849224,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
             "commentatorTierSimilarities": [
-                16.26,
-                46.24,
-                37.5
+                22.56,
+                40.89,
+                36.55
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this account, a group of violent men formed a conspiracy, bound themselves under a curse, and vowed to kill Paul. This wicked oath revealed the moral depravity of the Jews at the time. While they could easily obtain absolution from their vows, their commitment to murder was evident. Conversely, Paul found peace and assurance in his imprisonment, as his enemies were consumed by active malice. This story serves as a caution to defend God's glory passionately.",
-            "wordCount": 78,
-            "quoteTokenProportion": 32.26,
-            "qualityScore": 1.8476910046936008,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "bht": "A conspiratorial group of individuals banded together, anathematizing themselves with a curse and vowing to neither eat nor drink until they had carried out their murderous plot against Paul. Their malicious oath reveals the deep-seated hostility and moral corruption among the Jews at that time. Although they could seek absolution from their vow through religious authorities, it serves as a disturbing reminder of the lengths people will go to in order to oppose the gospel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.0242303033381006,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
             "commentatorTierSimilarities": [
-                18.13,
-                44.89,
-                36.98
+                22.36,
+                41.72,
+                35.92
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In Acts 23:12, a group of violent men formed a conspiracy, binding themselves under a curse and vowing to kill Paul. Their wicked oath showcased the moral depravity of the Jews during that time. While they had means to be released from their vows, their dedication to murder remained steadfast. In contrast, Paul found solace and certainty in his imprisonment, while his adversaries were driven by bitter enmity. This account serves as a reminder to be resolute in the defense of God's honor.",
-            "wordCount": 83,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.828195676796137,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.13,
+            "bht": "A group of individuals conspired together and bound themselves under a curse, anathematizing themselves with a solemn oath to not eat or drink until they had fulfilled their plan of killing Paul. This wicked vow showcases the severe moral decay and intense malice of the Jewish people towards the apostle. Though they could easily be absolved of their oath through their religious leaders, it serves as a chilling reminder of the incredible lengths people will go to oppose the truth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.1721233914708096,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.56,
             "commentatorTierSimilarities": [
-                18.14,
-                44.11,
-                37.75
+                21.57,
+                42.52,
+                35.9
             ],
             "generationAttempt": 5
         }

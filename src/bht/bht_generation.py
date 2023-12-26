@@ -7,6 +7,7 @@ import threading
 import time
 import traceback
 import re
+import json
 
 import openai
 import spacy
@@ -49,15 +50,6 @@ class BHTGenerator:
             commentator_choicests[commentator] = file_contents
 
         return commentator_choicests
-
-    def get_bht_json_path(self, choicest_prompt, bht_prompt, book, chapter, verse):
-        return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/json/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.json'
-
-    def get_bht_md_path(self, choicest_prompt, bht_prompt, book, chapter, verse):
-        return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/md/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
-
-    def get_choicest_output_path(self, choicest_prompt, book, chapter, verse, commentator):
-        return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
     def get_commentator_tier(self, commentator):
         if commentator in ("Henry Alford", "Jamieson-Fausset-Brown", "Marvin Vincent", "Archibald T. Robertson"):
@@ -140,7 +132,7 @@ class BHTGenerator:
                     
                     book, chapter, verse = get_book_chapter_verse(verse_ref)
 
-                    out_path = self.get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator)
+                    out_path = get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator)
 
                     choicest_not_empty = (os.path.exists(out_path) and not not open(out_path, 'r', encoding='utf-8').read().strip())
                     commentary = remove_html_tags(get_commentary(commentator, verse_ref))
@@ -307,8 +299,8 @@ class BHTGenerator:
                 debug_logs = []
                 book, chapter, verse = get_book_chapter_verse(verse_ref)
 
-                out_path_md = self.get_bht_md_path(choicest_prompt, bht_prompt, book, chapter, verse)
-                out_path_json = self.get_bht_json_path(choicest_prompt, bht_prompt, book, chapter, verse)
+                out_path_md = get_bht_md_path(choicest_prompt, bht_prompt, book, chapter, verse)
+                out_path_json = get_bht_json_path(choicest_prompt, bht_prompt, book, chapter, verse)
 
                 # print(f"🟧 {verse_ref} {bht_prompt}")
 
@@ -472,9 +464,18 @@ class BHTGenerator:
 
     # Get all choicests and generate the bht from scratch.
 
-    def generate_bht(self, verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht, debug):
+    def generate_bht(self, verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht, debug, return_json=False):
         self.record_gpt_choicest(verse_ref, choicest_prompts, commentators, redo_choicest, debug)
         self.record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_bht, debug)
+
+        if return_json:
+            if len(choicest_prompts) != 1 or len(bht_prompts) != 1:
+                raise Exception("Cannot return json for multiple prompts.")
+            
+            json_path = get_bht_json_path(choicest_prompts[0], bht_prompts[0], *get_book_chapter_verse(verse_ref))
+            json_data = json.load(open(json_path))
+            return json_data
+
 
     def generate_bhts(self, verse_refs, choicest_prompts, bht_prompts, commentators, redo_choicest=False, redo_bht=False, debug=False):
         work_queue = MultiThreadedWorkQueue()

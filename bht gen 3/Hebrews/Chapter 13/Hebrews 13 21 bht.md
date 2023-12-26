@@ -1,75 +1,75 @@
 # Hebrews 13:21 Commentary Help Text
 
 ## BHT:
-May God perfect and heal us, bringing us into perfect harmony to do His will. It is through His work in us that we are able to do what is well-pleasing in His sight. Just as He began with giving glory to Christ, the prayer concludes with a doxology, recognizing that it is by His grace and power that we are enabled to live a good and holy life. Let us remember that our works, when done in obedience, faith, and love, emit a sweet fragrance in God's presence, bringing glory to Him.
+May the God of peace equip you with everything good for doing his will, working in you what is well-pleasing in his sight. Through his grace, he joins together the members of his flock in perfect harmony, making them perfect for the purpose of fulfilling God's will. Our good works emit a pleasing fragrance in his presence when done in obedience to his will, in faith, and from a principle of love, through the strength and name of Christ, for the glory of God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
 1. "Make you perfect—properly said of healing a rent; join you together in perfect harmony." 
 2. "Whatever good we do, God does in us." 
-3. "He closes as he began, with giving glory to Christ."
+3. "He closes as he began with giving glory to Christ."
 
 ### Albert Barnes:
-1. "Make you perfect - The apostle here does not affirm that they were then perfect, or that they would be in this life. The word used here - καταρτιζω katartizō - means to make fully ready; to put in full order; to make complete."
+1. "The apostle here does not affirm that they were then perfect, or that they would be in this life... The meaning here is, that Paul prayed that God would fully endow them with whatever grace was necessary to do his will and to keep his commandments."
 2. "The only hope that they would do the will of God was, that he would, by his own agency, cause them to do what was well-pleasing in his sight."
-3. "It is not uncommon for the apostle Paul to introduce doxologies in this way in the midst of a letter; see the notes, Romans 9:5. It was common among the Jews, as it is now in the writings and conversation of the Muslims, when the name of God was mentioned to accompany it with an expression of praise."
+3. "God does not directly, and by his own immediate agency, convert and sanctify the heart, but it is through the gospel of Christ, and all good influences on the soul must be expected through the Saviour."
 
 ### Marvin Vincent:
 1. "The prayer is for the complete mutual adjustment of all the members of the flock into a perfected whole, fitted to do the perfect will of God." 
 2. "Make you perfect to do his will, he doing in us what is well-pleasing in his sight." 
-3. "That which is well-pleasing in his sight."
+3. "In every good thing, to the end that you do his will."
 
 ### John Calvin:
-1. "Let us then remember, that it is the perfection of a good and holy life, when we live in obedience to his will."
-2. "For he values the decrees of his own will far more than all the inventions of the world."
-3. "Thus it comes, that our works, performed by the odor of Christ’s grace, emit a sweet fragrance in God’s presence, while otherwise they would have a fetid smell."
+1. "No works are to be deemed good, but such as are agreeable to the will of God."
+2. "In vain is obtruded on God what he has not commanded; for he values the decrees of his own will far more than all the inventions of the world."
+3. "Our works, performed by the odor of Christ's grace, emit a sweet fragrance in God's presence, while otherwise they would have a fetid smell."
 
 ### Archibald T. Robertson:
-1. "Make you perfect... A wish for the future."
-2. "Working in us... Doing in us."
-3. "Well-pleasing... One of the noblest doxologies in the N.T."
+1. "Make you perfect (καταρτισα). First aorist active optative of καταρτιζω, to equip, as in Hebrews 10:5. A wish for the future." 
+2. "Working in us (ποιων εν εμιν). 'Doing in us.' Some MSS. read 'in you.'"
+3. "Well-pleasing (ευαρεστον). Compound adjective (ευ, αρεστος). Usually with the dative (Romans 12:2), here with ενωπιον αυτου more like the Hebrew. This is one of the noblest doxologies in the N.T."
 
 ### John Gill:
-1. "A good work is what is done in obedience to the command of God, and in faith, and from a principle of love, in the name and strength of Christ, and with a view to the glory of God."
-2. "Grace is a work not of man, but of God; it is an internal work, something in a man's heart, and not anything without him, or done by him."
-3. "All the grace necessary for the beginning and carrying on, and finishing of the good work of grace, and for the performance of every good work, comes through the hands of Christ, in whom all fulness of it dwells."
+1. "Every good work is to be done: a good work is what is done in obedience to the command of God, and in faith, and from a principle of love, in the name and strength of Christ, and with a view to the glory of God."
+2. "Men are naturally unfit for good works; in order to do them aright, it is necessary that they should have knowledge of the will of God; that they be regenerated and created in Christ; that they be sanctified and cleansed, and so meet for the master's use; that they have the Spirit of God, and strength from Christ; and that they be believers in him."
+3. "All the grace necessary for the beginning and carrying on, and finishing of the good work of grace, and for the performance of every good work, comes through the hands of Christ, in whom all fulness of it dwells; and through the blood and intercession of Christ, by virtue of which it is communicated; and all become acceptable to God through him, as the persons of the Lord's people, so the grace that is wrought in them, and the works that are done by them."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:51:23
+- Timestamp: 12-25-2023 19:33:38
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 44.44%
-- BHT Quality Score: 1.8816559679225624
+- BHT Word Count: 86
+- BHT Commentary Usage: 48.15%
+- BHT Quality Score: 2.045253589357183
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'able', 'and', 'are', 'as', 'began', 'bringing', 'by', 'christ', 'concludes', 'do', 'done', 'doxology', 'emit', 'enabled', 'faith', 'fragrance', 'giving', 'glory', 'god', 'good', 'grace', 'harmony', 'he', 'heal', 'him', 'his', 'holy', 'in', 'into', 'is', 'it', 'just', 'let', 'life', 'live', 'love', 'may', 'obedience', 'our', 'perfect', 'pleasing', 'power', 'prayer', 'presence', 'recognizing', 'remember', 's', 'sight', 'sweet', 'that', 'the', 'through', 'to', 'us', 'we', 'well', 'what', 'when', 'will', 'with', 'work', 'works']
-- ChatGPT injected words (significant words only) (35):
-	['able', 'began', 'bringing', 'christ', 'concludes', 'doxology', 'emit', 'enabled', 'faith', 'fragrance', 'giving', 'glory', 'god', 'good', 'grace', 'harmony', 'heal', 'holy', 'let', 'life', 'live', 'love', 'obedience', 'perfect', 'pleasing', 'power', 'prayer', 'presence', 'recognizing', 'remember', 's', 'sight', 'sweet', 'work', 'works']
+- ChatGPT injected words (54):
+	['a', 'and', 'christ', 'doing', 'done', 'emit', 'equip', 'everything', 'faith', 'flock', 'for', 'fragrance', 'from', 'fulfilling', 'glory', 'god', 'good', 'grace', 'harmony', 'he', 'his', 'in', 'is', 'joins', 'love', 'making', 'may', 'members', 'name', 'obedience', 'of', 'our', 'peace', 'perfect', 'pleasing', 'presence', 'principle', 'purpose', 's', 'sight', 'strength', 'the', 'them', 'through', 'to', 'together', 'well', 'what', 'when', 'will', 'with', 'working', 'works', 'you']
+- ChatGPT injected words (significant words only) (28):
+	['christ', 'emit', 'equip', 'faith', 'flock', 'fragrance', 'fulfilling', 'glory', 'god', 'good', 'grace', 'harmony', 'joins', 'love', 'making', 'members', 'obedience', 'peace', 'perfect', 'pleasing', 'presence', 'principle', 'purpose', 's', 'sight', 'strength', 'working', 'works']
 
 ### Logs
-- Attempt 1 BHT: May God perfect and heal the brokenness within us, bringing us into perfect harmony to do His will. It is through His work in us that we are able to do what is pleasing in His sight. Just as He began with giving glory to Christ, so does He conclude the prayer with a doxology, recognizing that it is by His grace and power that we are enabled to live a good and holy life. Let us then remember that our good works are only pleasing to God when they are done in obedience to His will, with faith, love, and reliance on Christ's strength, and with the desire to bring glory to Him.
-- 🔄 Hebrews 13:21 (attempt 1, 115 words, 48.57% quotes quality score: 1.9033888495579, V2 normalized quality score: 54.63, commentator tiers 1-3: 28.55%, 29.96%, 41.49%) 
+- Attempt 1 BHT: May the God of peace equip you with everything good for doing his will, working in you what is well-pleasing in his sight. Through his grace, he joins together the members of his flock in perfect harmony, making them perfect to fulfill his purpose. As believers, we rely on God's agency to fully endow us with the necessary grace to keep his commandments. Our good works emit a pleasing fragrance in his presence when they are done in obedience to his will, in faith, and from a principle of love, through the strength and name of Christ, for the glory of God. It is through Christ that we receive all the grace necessary to begin, carry on, and finish the good work of grace, and it is through him that our works become acceptable to God. Let us strive to align ourselves with God's will, relying on his grace and power to enable us to do what is pleasing in his sight.
+- 🔄 Hebrews 13:21 (attempt 1, 165 words, 45.98% quotes quality score: 2.0726254233412114, V2 normalized quality score: 60.26, commentator tiers 1-3: 25.84%, 35.95%, 38.22%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: May God heal and perfect us, bringing us together in harmony to do His will. He does the work in us, enabling us to do what is pleasing in His sight. Just as He began by giving glory to Christ, the prayer concludes with a doxology acknowledging that it is through His grace and power that we can live a good and holy life. Let us remember that our good works are only pleasing to God when done in obedience, faith, love, and with reliance on Christ's strength, ultimately seeking to bring glory to Him.
-- 🔄 Hebrews 13:21 (attempt 2, 96 words, 46.97% quotes quality score: 1.8094613072415369, V2 normalized quality score: 51.51, commentator tiers 1-3: 30.37%, 27.93%, 41.7%) 
+- Attempt 2 BHT: May the God of peace equip you with everything good for doing his will, working in you what is well-pleasing in his sight. Through his grace, he joins together the members of his flock in perfect harmony, making them perfect to fulfill his purpose. As believers, we rely on God's agency to fully endow us with the necessary grace to keep his commandments. Our good works emit a pleasing fragrance in his presence when done in obedience to his will, in faith, and from a principle of love, through the strength and name of Christ, for the glory of God.
+- 🔄 Hebrews 13:21 (attempt 2, 102 words, 46.97% quotes quality score: 2.018368545574187, V2 normalized quality score: 58.45, commentator tiers 1-3: 26.88%, 35.63%, 37.49%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: May God perfect and heal us, bringing us into perfect harmony to do His will. It is through His work in us that we are able to do what is well-pleasing in His sight. Just as He began with giving glory to Christ, the prayer concludes with a doxology, recognizing that it is by His grace and power that we are enabled to live a good and holy life. Let us remember that our works, when done in obedience, faith, and love, emit a sweet fragrance in God's presence, bringing glory to Him.
-- 🔄 Hebrews 13:21 (attempt 3, 95 words, 44.44% quotes quality score: 1.8816559679225624, V2 normalized quality score: 53.91, commentator tiers 1-3: 30.18%, 29.34%, 40.48%) 
+- Attempt 3 BHT: May the God of peace equip you with everything good for doing his will, working in you what is well-pleasing in his sight. Through his grace, he joins together the members of his flock in perfect harmony, making them perfect for the purpose of fulfilling God's will. Our good works emit a pleasing fragrance in his presence when done in obedience to his will, in faith, and from a principle of love, through the strength and name of Christ, for the glory of God.
+- 🔄 Hebrews 13:21 (attempt 3, 86 words, 48.15% quotes quality score: 2.045253589357183, V2 normalized quality score: 59.35, commentator tiers 1-3: 27.57%, 33.5%, 38.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: May God perfect and heal us, bringing us into perfect harmony to do His will. It is through His work in us that we are able to do what is well-pleasing in His sight. Just as He began with giving glory to Christ, the prayer concludes with a doxology, recognizing that it is by His grace and power that we are enabled to live a good and holy life. Let us remember that our works, when done in obedience, faith, and love, emit a sweet fragrance in God's presence, bringing glory to Him.
-- 🔄 Hebrews 13:21 (attempt 4, 95 words, 44.44% quotes quality score: 1.8816559679225624, V2 normalized quality score: 53.91, commentator tiers 1-3: 30.18%, 29.34%, 40.48%) 
+- Attempt 4 BHT: May the God of peace equip you with everything good for doing his will, working in you what is well-pleasing in his sight. Through his grace, he joins together the members of his flock in perfect harmony, making them perfect to fulfill his purpose. As believers, we rely on God's agency to fully endow us with the necessary grace to keep his commandments. Our good works emit a pleasing fragrance in his presence when done in obedience to his will, in faith, and from a principle of love, through the strength and name of Christ, for the glory of God.
+- 🔄 Hebrews 13:21 (attempt 4, 102 words, 46.97% quotes quality score: 2.018368545574187, V2 normalized quality score: 58.45, commentator tiers 1-3: 26.88%, 35.63%, 37.49%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: May God perfect and heal us, bringing us into perfect harmony to do His will. It is through His work in us that we are able to do what is well-pleasing in His sight. Just as He began with giving glory to Christ, the prayer concludes with a doxology, recognizing that it is by His grace and power that we are enabled to live a good and holy life. Our works emit a sweet fragrance in God's presence, bringing glory to Him.
-- 🔄 Hebrews 13:21 (attempt 5, 84 words, 46.43% quotes quality score: 1.818379283312543, V2 normalized quality score: 51.8, commentator tiers 1-3: 31.77%, 27.89%, 40.34%) 
+- Attempt 5 BHT: May the God of peace equip you with everything good for doing his will, working in you what is well-pleasing in his sight. Through his grace, he joins together the members of his flock in perfect harmony, making them perfect for the purpose of fulfilling God's will. Our good works emit a pleasing fragrance in his presence when done in obedience to his will, in faith, and from a principle of love, through the strength and name of Christ, for the glory of God.
+- 🔄 Hebrews 13:21 (attempt 5, 86 words, 48.15% quotes quality score: 2.045253589357183, V2 normalized quality score: 59.35, commentator tiers 1-3: 27.57%, 33.5%, 38.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Hebrews 13:21 bht prompt v0.8 (95 words, 44.44% quotes)
-- quality score: 1.8816559679225624, V2 normalized quality score: 53.91, commentator tiers 1-3: 30.18%, 29.34%, 40.48%)
+- ✅ Hebrews 13:21 bht prompt v0.8 (86 words, 48.15% quotes)
+- quality score: 2.045253589357183, V2 normalized quality score: 59.35, commentator tiers 1-3: 27.57%, 33.5%, 38.93%)

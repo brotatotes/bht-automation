@@ -1,39 +1,37 @@
 {
-    "timestamp": "12-21-2023 03:10:37",
+    "timestamp": "12-25-2023 19:33:55",
     "verseRef": "John 11:35",
     "bestBHT": {
-        "bht": "Jesus wept, allowing nature to manifest itself and teaching us moderation in our tears. This sublime spectacle reveals the Son of God's perfect oneness with us in our humanity. His emotion underlies the stern law of the Kingdom, The wages of sin is death. In this touching and profound act, Jesus shows us His profoundly human side, reminding us that even the Son of God shed tears in deep grief. No expression carries more meaning than this, emphasizing the significance of His tears.",
-        "wordCount": 84,
-        "quoteTokenProportion": 31.03,
-        "qualityScore": 1.9553099403039684,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+        "bht": "Jesus wept, revealing his humanity and teaching us moderation in our tears. His tears signify his perfect oneness with us and the impact of sin on humanity. In this moment of profound sorrow, Jesus exemplifies compassion as a tender friend, emphasizing the power of tears in times of deep grief. These two words carry immense meaning, expressing empathy for those in tears and the consequence of sin on human nature.",
+        "wordCount": 70,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 2.0379930800067347,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.1,
         "commentatorTierSimilarities": [
-            34.4,
-            23.26,
-            42.34
+            32.59,
+            25.5,
+            41.91
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "He wept, as allowing nature to manifest herself:.... there again he rebukes the affections.\" - Euthymius. ",
-            "Only he assigns a didactic purpose, to teach us moderation in our tears.\" - Euthymius. ",
-            "I should rather believe the self-restraint to have been exercised as a preparation for what followed.\" - Euthymius."
+            "He wept, as allowing nature to manifest herself:.... there again he rebukes the affections.\" Euthymius.",
+            "Only he assigns a didactic purpose, to teach us moderation in our tears...",
+            "I should rather believe the self-restraint to have been exercised as a preparation for what followed."
         ],
         "Jamieson-Fausset-Brown": [
-            "Is it for nothing that the Evangelist, some sixty years after it occurred, holds up to all ages with such touching brevity the sublime spectacle of the Son of God in tears?",
+            "Jesus wept\u2014This beautifully conveys the sublime brevity of the two original words.",
             "What a seal of His perfect oneness with us in the most redeeming feature of our stricken humanity!",
-            "Who can doubt that in His ear every feature of the scene proclaimed that stern law of the Kingdom, 'The wages of sin is death,' and that this element in His visible emotion underlay all the rest?"
+            "Who can doubt that in His ear every feature of the scene proclaimed that stern law of the Kingdom, 'The wages of sin is death'."
         ],
         "Albert Barnes": [
             "Jesus wept - It has been remarked that this is the shortest verse in the Bible; but it is exceedingly important and tender.",
             "It shows the Lord Jesus as a friend, a tender friend, and evinces his character as a man.",
-            "And from this we learn..."
+            "And from this we learn:"
         ],
         "Marvin Vincent": [
-            "The very Gospel in which the deity of Jesus is most clearly asserted, is also that which makes us best acquainted with the profoundly human side of His life\" (Godet).",
-            "The gods while they dispense afflictions upon earth, which are neither sweetened by love, nor elevated by a distinct disciplinary purpose, take care to keep themselves beyond all touch of grief or care\" (Gladstone).",
-            "Nature confesses that she gives the tenderest of hearts to the human race by giving them tears: this is the best part of our sensations\" (Juvenal, \"Satire\" 14 131 - 133)."
+            "The very Gospel in which the deity of Jesus is most clearly asserted, is also that which makes us best acquainted with the profoundly human side of His life\" (Godet)."
         ],
         "Archibald T. Robertson": [
             "Jesus burst into tears.",
@@ -41,13 +39,13 @@
             "This is the shortest verse in the Bible, but no verse carries more meaning in it."
         ],
         "John Gill": [
-            "Jesus wept.",
-            "This shows him to be truly and really man, subject to like passions, only without sin.",
-            "He was meditating upon the state of his friend Lazarus, the distress his two sisters were in, and the greater damnation that would befall the Jews then present, who, notwithstanding the miracle, would not believe in him."
+            "Jesus wept.\" - This shows him to be truly and really man, subject to like passions, only without sin.",
+            "As he was meditating upon the state of his friend Lazarus, the distress his two sisters were in.\" - The distress his two sisters were in.",
+            "The greater damnation that would befall the Jews then present, who, notwithstanding the miracle, would not believe in him.\" - The greater damnation that would befall the Jews then present."
         ],
         "John Wesley": [
-            "Jesus wept \u2014 Out of sympathy with those who were in tears all around him.",
-            "Jesus wept \u2014 ...from a deep sense of the misery sin had brought upon human nature."
+            "Jesus wept \u2014 Out of sympathy with those who were in tears all around him...",
+            "...as well as from a deep sense of the misery sin had brought upon human nature."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -67,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus wept, allowing nature to manifest itself and teaching us moderation in our tears in order to prepare for what followed. In this touching and sublime spectacle, the Son of God wept, sealing His perfect oneness with us in the most redeeming feature of our stricken humanity. His visible emotion underlies the stern law of the Kingdom, The wages of sin is death. Jesus, in His deity, shows us His profoundly human side. This shortest verse in the Bible is a profound reminder that even the Son of God wept, and often all we can do is shed tears in grief too deep for words. Truly, no verse carries more meaning in it than this one.",
-            "wordCount": 116,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 2.0069115932731756,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.07,
+            "bht": "In this verse, we see Jesus weeping, not only as a display of his humanity but also as a means to teach us moderation in our own grief and to prepare for what was to come. His tears demonstrate his perfect oneness with us, the full understanding of the wages of sin being death. This brief verse carries profound meaning, as it portrays Jesus as a truly compassionate friend and highlights the power of tears in times of indescribable sorrow. In this moment, Jesus not only empathizes with those around him but also laments the misery that sin has brought upon humanity.",
+            "wordCount": 102,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 2.145235653616682,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
             "commentatorTierSimilarities": [
-                33.24,
-                27.19,
-                39.57
+                33.39,
+                28.55,
+                38.06
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus wept, allowing nature to manifest itself and teach us moderation in our tears. This sublime spectacle reveals the Son of God's perfect oneness with us in our humanity. His emotion underlies the stern law of the Kingdom, The wages of sin is death. In this shortest passage, we see the profoundly human side of Jesus, reminding us that even the Son of God shed tears in deep grief. No passage carries more meaning than this, emphasizing the significance of his tears.",
-            "wordCount": 83,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.9928202794801615,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "bht": "Jesus wept, displaying his humanity and teaching us moderation in our own grief. The brevity of these two words beautifully conveys his perfect oneness with us and the reality that sin leads to death. In this moment of profound sorrow, Jesus shows himself to be a compassionate friend, emphasizing the power of tears when words fail. Through his tears, he empathizes with the distress of those around him and mourns the misery caused by sin.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.033966447788597,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
             "commentatorTierSimilarities": [
-                34.05,
-                24.05,
-                41.9
+                32.71,
+                24.74,
+                42.55
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus wept, allowing nature to manifest itself and teaching us moderation in our tears. This sublime spectacle reveals the Son of God's perfect oneness with us in our humanity. His emotion underlies the stern law of the Kingdom, The wages of sin is death. In this shortest verse, we see the profoundly human side of Jesus, reminding us that even the Son of God shed tears in deep grief. No verse carries more meaning than this, emphasizing the significance of his tears.",
+            "bht": "Jesus wept, allowing nature to manifest itself and rebuking the affections, teaching us to moderate our tears. His tears reveal his perfect oneness with us in our suffering humanity and the wages of sin being death. They show him as a tender friend, deeply empathizing with our grief, and shedding tears when words are inadequate. The brevity of this verse carries profound meaning, emphasizing the compassionate and profoundly human side of Jesus, while highlighting the power of tears in times of unspeakable sorrows.",
             "wordCount": 83,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 2.0131528739212863,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.28,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.08442221673638,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
             "commentatorTierSimilarities": [
-                33.92,
-                24.87,
-                41.2
+                33.78,
+                27.95,
+                38.27
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus wept, allowing nature to manifest itself and teaching us moderation in our tears. This sublime spectacle reveals the Son of God's perfect oneness with us in our humanity. His emotion underlies the stern law of the Kingdom, The wages of sin is death. In this touching and profound act, Jesus shows us His profoundly human side, reminding us that even the Son of God shed tears in deep grief. No expression carries more meaning than this, emphasizing the significance of His tears.",
-            "wordCount": 84,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.9553099403039684,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "bht": "Jesus wept, allowing nature to manifest itself and rebuking the affections. His tears reveal the perfect oneness with us in our suffering humanity and the wages of sin being death. They emphasize the compassionate and profoundly human side of Jesus, highlighting the power of tears in times of unspeakable sorrows. His tears as a tender friend teach us to moderate our own tears and empathize with the distress of others. These two simple words carry profound meaning, conveying deep empathy and the indescribable impact of tears.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9766484800303517,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
             "commentatorTierSimilarities": [
-                34.4,
-                23.26,
-                42.34
+                32.42,
+                27.04,
+                40.54
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus wept, allowing nature to manifest itself and teaching us moderation in our tears. This sublime spectacle reveals the Son of God's perfect oneness with us in our humanity. His emotion underlies the stern law of the Kingdom, The wages of sin is death. In this touching and profound act, Jesus shows us His profoundly human side, reminding us that even the Son of God shed tears in deep grief. No expression carries more meaning than this, emphasizing the significance of His tears.",
-            "wordCount": 84,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 1.9553099403039684,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "bht": "Jesus wept, revealing his humanity and teaching us moderation in our tears. His tears signify his perfect oneness with us and the impact of sin on humanity. In this moment of profound sorrow, Jesus exemplifies compassion as a tender friend, emphasizing the power of tears in times of deep grief. These two words carry immense meaning, expressing empathy for those in tears and the consequence of sin on human nature.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.0379930800067347,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
             "commentatorTierSimilarities": [
-                34.4,
-                23.26,
-                42.34
+                32.59,
+                25.5,
+                41.91
             ],
             "generationAttempt": 5
         }

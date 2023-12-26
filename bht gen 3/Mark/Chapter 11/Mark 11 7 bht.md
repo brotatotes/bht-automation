@@ -1,7 +1,7 @@
 # Mark 11:7 Commentary Help Text
 
 ## BHT:
-As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.
+As Jesus entered Jerusalem, his disciples brought a colt to him, as he had predicted. These friends of Jesus willingly gave up their colt for his use. They assisted Jesus in getting onto the colt, and he sat on it without any trouble. This colt carried Jesus as he began his journey towards Jerusalem.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -14,43 +14,39 @@ As Jesus entered Jerusalem, his friends brought a colt to him, just as he had pr
 
 
 ### John Gill:
-1. "and cast their garments on him; their clothes to be instead of a saddle, for Christ to sit upon:"
-2. "Jesus rode on him"
-3. "he sat on it without any trouble, though it had never been backed before, and rode on his way to Jerusalem"
+1. "Jesus rode on him."
+2. "The disciples assisted him in getting upon it, and having mounted it, he sat on it without any trouble."
+3. "He rode on his way to Jerusalem."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:26:28
+- Timestamp: 12-25-2023 19:28:46
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 47.37%
-- BHT Quality Score: 1.81619822007284
+- BHT Word Count: 54
+- BHT Commentary Usage: 56.1%
+- BHT Quality Score: 2.1683004550878
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'able', 'accounts', 'allowing', 'and', 'any', 'as', 'been', 'before', 'brought', 'colt', 'continued', 'difficulty', 'entered', 'even', 'followers', 'friends', 'garments', 'had', 'he', 'him', 'his', 'instead', 'interestingly', 'is', 'it', 'jerusalem', 'jesus', 'just', 'never', 'noting', 'of', 'on', 'other', 'owners', 'placed', 'predicted', 'released', 'remarkable', 'ridden', 'ride', 'saddle', 'sat', 'sit', 'so', 'specify', 'that', 'the', 'their', 'though', 'to', 'upon', 'was', 'way', 'willingly', 'without', 'worth']
-- ChatGPT injected words (significant words only) (30):
-	['able', 'accounts', 'allowing', 'brought', 'colt', 'continued', 'difficulty', 'entered', 'followers', 'friends', 'garments', 'instead', 'interestingly', 'jerusalem', 'jesus', 'noting', 'owners', 'placed', 'predicted', 'released', 'remarkable', 'ridden', 'ride', 'saddle', 'sat', 'sit', 'specify', 'way', 'willingly', 'worth']
+- ChatGPT injected words (41):
+	['a', 'and', 'any', 'as', 'assisted', 'began', 'brought', 'carried', 'colt', 'disciples', 'entered', 'for', 'friends', 'gave', 'getting', 'had', 'he', 'him', 'his', 'in', 'it', 'jerusalem', 'jesus', 'journey', 'of', 'on', 'onto', 'predicted', 'sat', 'the', 'their', 'these', 'they', 'this', 'to', 'towards', 'trouble', 'up', 'use', 'willingly', 'without']
+- ChatGPT injected words (significant words only) (18):
+	['assisted', 'began', 'brought', 'carried', 'colt', 'disciples', 'entered', 'friends', 'gave', 'getting', 'jerusalem', 'jesus', 'journey', 'predicted', 'sat', 'trouble', 'use', 'willingly']
 
 ### Logs
-- Attempt 1 BHT: As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.
-- 🔄 Mark 11:7 (attempt 1, 86 words, 47.37% quotes quality score: 1.81619822007284, V2 normalized quality score: 51.73, commentator tiers 1-3: 47.4%, 17.95%, 34.65%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: As Jesus approached Jerusalem, his friends brought a colt to him, as he had predicted. The owners willingly handed over the colt to Jesus. It was upon this colt that Jesus sat, as it was specifically mentioned by Luke and John. The disciples assisted Jesus in getting onto the colt, ensuring that he was able to mount it without any trouble. Thus, Jesus rode on the colt on his way to Jerusalem.
+- 🔄 Mark 11:7 (attempt 1, 72 words, 47.83% quotes quality score: 2.174033028986953, V2 normalized quality score: 63.63, commentator tiers 1-3: 46.82%, 19.33%, 33.85%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.
-- 🔄 Mark 11:7 (attempt 2, 86 words, 47.37% quotes quality score: 1.81619822007284, V2 normalized quality score: 51.73, commentator tiers 1-3: 47.4%, 17.95%, 34.65%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: As Jesus made his way towards Jerusalem, his acquaintances brought a colt to him, fulfilling his earlier prediction. These were evidently friends of Jesus, as they willingly handed over the colt. Jesus then sat upon the colt, an act specifically mentioned by Luke and John. Assisted by his disciples, Jesus effortlessly mounted the colt, allowing him to proceed on his journey to Jerusalem.
+- 🔄 Mark 11:7 (attempt 2, 63 words, 42.22% quotes quality score: 2.12699464276436, V2 normalized quality score: 62.06, commentator tiers 1-3: 47.21%, 22.46%, 30.33%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As Jesus entered Jerusalem, his friends vividly brought a colt to him, as he had predicted. The owners willingly acquiesced, allowing Jesus to sit upon the colt. Other accounts specify that he sat upon it. Interestingly, his followers placed their garments on the colt instead of a saddle. Remarkably, Jesus rode the colt without any trouble, despite it never being ridden before. And so, he continued on his way to Jerusalem.
-- 🔄 Mark 11:7 (attempt 3, 71 words, 43.14% quotes quality score: 1.5504238712491052, V2 normalized quality score: 42.89, commentator tiers 1-3: 42.89%, 16.85%, 40.27%) 
+- Attempt 3 BHT: As Jesus approached his destination, those who were with him brought a colt for him to ride upon, just as he had foretold. It is clear that these individuals were friends of Jesus, as they willingly handed over the colt. Jesus then took his seat upon the colt, an action that is specifically mentioned by both Luke and John. With the assistance of his disciples, he was able to easily mount the colt and continue his journey towards Jerusalem.
+- 🔄 Mark 11:7 (attempt 3, 79 words, 51.79% quotes quality score: 2.0093353361040354, V2 normalized quality score: 58.15, commentator tiers 1-3: 46.06%, 22.03%, 31.91%)
+- Attempt 4 BHT: As Jesus entered Jerusalem, his disciples brought a colt to him, as he had predicted. These friends of Jesus willingly gave up their colt for his use. They assisted Jesus in getting onto the colt, and he sat on it without any trouble. This colt carried Jesus as he began his journey towards Jerusalem.
+- 🔄 Mark 11:7 (attempt 4, 54 words, 56.1% quotes quality score: 2.1683004550878, V2 normalized quality score: 63.44, commentator tiers 1-3: 47.65%, 17.64%, 34.71%)
+- Attempt 5 BHT: They bring the colt unto Jesus as he had predicted, showing their acquiescence and friendship towards him. In this vivid historical present moment, the disciples assist Jesus in getting upon the colt and he sits on it effortlessly. Jesus rides on the colt as he makes his way to Jerusalem, fulfilling the prophecy.
+- 🔄 Mark 11:7 (attempt 5, 53 words, 41.03% quotes quality score: 2.2166427107331255, V2 normalized quality score: 65.04, commentator tiers 1-3: 50.64%, 18.84%, 30.52%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As Jesus entered Jerusalem, his friends vividly brought a colt to him, just as he had predicted, willingly acquiescing to his request. Other accounts specify that he sat upon the colt, and his followers placed their garments on it in lieu of a saddle. Remarkably, Jesus rode the colt without any trouble, despite it being unridden before. And so, he continued on his way to Jerusalem.
-- 🔄 Mark 11:7 (attempt 4, 66 words, 46.94% quotes quality score: 1.6408713426889254, V2 normalized quality score: 45.9, commentator tiers 1-3: 42.85%, 16.42%, 40.73%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As Jesus entered Jerusalem, the owners of the colt willingly brought it to him, fulfilling his prediction. Jesus sat upon the colt, while his followers placed their garments on it as a makeshift saddle. Despite the colt never being ridden before, Jesus rode it without any trouble. And so, he continued his journey to Jerusalem.
-- 🔄 Mark 11:7 (attempt 5, 55 words, 48.78% quotes quality score: 1.7199586181110895, V2 normalized quality score: 48.53, commentator tiers 1-3: 41.83%, 15.79%, 42.38%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 11:7 bht prompt v0.8 (86 words, 47.37% quotes)
-- quality score: 1.81619822007284, V2 normalized quality score: 51.73, commentator tiers 1-3: 47.4%, 17.95%, 34.65%)
+- ✅ Mark 11:7 bht prompt v0.8 (54 words, 56.1% quotes)
+- quality score: 2.1683004550878, V2 normalized quality score: 63.44, commentator tiers 1-3: 47.65%, 17.64%, 34.71%)

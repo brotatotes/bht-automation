@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:49:03",
+    "timestamp": "12-25-2023 19:29:05",
     "verseRef": "Matthew 17:12",
     "bestBHT": {
-        "bht": "Just as the people in Jesus' time failed to recognize the significance of John the Baptist, they also failed to recognize Jesus himself, which ultimately led to John's death and would later result in the persecution of Jesus. John fulfilled the prophecy of Malachi as the Elijah who was to come, but the people remained ignorant of his true identity. Jesus warns that he too will suffer at the hands of those who reject him, echoing the disbelief and mistreatment experienced by John.",
-        "wordCount": 84,
-        "quoteTokenProportion": 42.86,
-        "qualityScore": 1.9065873000048212,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+        "bht": "John the Baptist fulfilled the promise in Malachi, as Jesus identifies him with the prophesied Elijah, even though John denied being the actual Elijah. The people did not recognize John, just as they do not know Jesus. Like unbelief followed persecution, they acted according to their own desires, not knowing John's true identity. The prophecy of Malachi was fulfilled in John as the forerunner of the Messiah, but the people failed to recognize him and the coming of the Messiah.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.094237716737636,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.97,
         "commentatorTierSimilarities": [
-            45.9,
-            39.42,
-            14.68
+            37.24,
+            38.6,
+            24.16
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -21,19 +21,19 @@
             "Like persecution followed like unbelief."
         ],
         "Archibald T. Robertson": [
-            "Thus Jesus identifies John the Baptist with the promise in Malachi, though not the real Elijah in person which John denied.",
-            "They knew him not. Just as they do not know Jesus now.",
-            "They killed John as they will Jesus the Son of Man."
+            "Thus Jesus identifies John the Baptist with the promise in Malachi, though not the real Elijah in person which John denied (John 1:21).\" ",
+            "They knew him not (\u03bf\u03c5\u03ba \u03b5\u03c0\u03b9\u03b3\u03bd\u03c9\u03c3\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Second aorist active indicative of \u03b5\u03c0\u03b9\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9, to recognize.",
+            "Just as they do not know Jesus now (John 1:26). They killed John as they will Jesus the Son of Man."
         ],
         "John Gill": [
-            "But I say unto you...that Elias is come already",
             "but have done unto him whatsoever they listed",
-            "likewise also shall the son of man suffer of them."
+            "they did not know him to be the Elias",
+            "likewise also shall the son of man suffer of them"
         ],
         "John Wesley": [
-            "Elijah is come already.\" ",
-            "I am not Elijah...come again into the world.",
-            "But he was the person...under that name."
+            "Elijah is come already \u2014 And yet when the Jews asked John, Art thou Elijah? He said, I am not, John 1:21.",
+            "His meaning was, I am not Elijah the Tishbite, come again into the world.",
+            "But he was the person of whom Malachi prophesied under that name."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -53,67 +53,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Just as the people in Jesus' time failed to recognize John the Baptist and eventually killed him, they also failed to recognize Jesus himself and would later persecute and kill him too. Despite John fulfilling the prophecy of Malachi and being the Elijah who was to come, the people were oblivious to his significance. Jesus warns that the same fate awaits him - that he too will suffer at their hands. It is a tragic yet sobering reminder of the profound ignorance and disbelief that the people displayed towards both John and Jesus.",
-            "wordCount": 92,
-            "quoteTokenProportion": 48.39,
-            "qualityScore": 1.6772514832289254,
-            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "bht": "John the Baptist fulfilled the promise in Malachi as the forerunner of the Messiah, even though he denied being the literal Elijah. Just as the people did not recognize John, they also do not know Jesus, whom they will later kill. The prophecy of Malachi was fulfilled in John, yet the people failed to recognize him as well as the Messiah. Like unbelief followed persecution, the people acted according to their own desires, not knowing John's true identity as the prophesied Elijah.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9682871168515792,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
             "commentatorTierSimilarities": [
-                48.55,
-                34.97,
-                16.48
+                32.33,
+                42.2,
+                25.47
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Just as the people in Jesus' time failed to recognize John the Baptist, who fulfilled the prophecy of Malachi, they also failed to recognize Jesus himself, resulting in his eventual persecution and death. Despite John being the Elijah who was to come, the people were oblivious to his true identity. Therefore, Jesus warns that he too will suffer at their hands, a reflection of the ignorance and disbelief displayed towards both John and himself.",
-            "wordCount": 74,
-            "quoteTokenProportion": 48.08,
-            "qualityScore": 1.8234962429798796,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "bht": "John the Baptist fulfilled the promise in Malachi, even though he denied being the literal Elijah. Just as the people did not recognize John, they also do not know Jesus, whom they will later kill. The prophecy of Malachi was fulfilled in John, yet the people failed to recognize him as well as the Messiah. Like unbelief followed persecution, the people acted according to their own desires, not knowing John's true identity as the prophesied Elijah.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9340994791751467,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
             "commentatorTierSimilarities": [
-                46.31,
-                38.0,
-                15.69
+                32.96,
+                40.74,
+                26.3
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Just as the people in Jesus' time failed to recognize the significance of John the Baptist, they also failed to recognize Jesus himself, which ultimately led to John's death and would later result in the persecution of Jesus. John fulfilled the prophecy of Malachi as the Elijah who was to come, but the people remained ignorant of his true identity. Jesus warns that he too will suffer at the hands of those who reject him, echoing the disbelief and mistreatment experienced by John.",
-            "wordCount": 84,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.9065873000048212,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "bht": "John the Baptist fulfilled the promise in Malachi, even though he denied being the literal Elijah. Just as the people did not recognize John, they also do not know Jesus, whom they will later kill. Like unbelief followed persecution, the people acted according to their own desires, not knowing John's true identity as the prophesied Elijah.",
+            "wordCount": 57,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.051508792400233,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
             "commentatorTierSimilarities": [
-                45.9,
-                39.42,
-                14.68
+                38.59,
+                34.19,
+                27.21
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Just as the people in Jesus' time failed to recognize the significance of John the Baptist, who fulfilled the prophecy of Malachi, they also failed to recognize Jesus himself. The ignorance and disbelief exhibited by the people towards both John and Jesus ultimately led to John's death and would later result in the persecution of Jesus. Jesus warns that he too will suffer at the hands of those who reject him, highlighting the tragic pattern of rejection and mistreatment experienced by John and himself.",
-            "wordCount": 85,
-            "quoteTokenProportion": 41.51,
-            "qualityScore": 1.7437761565495822,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "bht": "John the Baptist fulfilled the promise in Malachi, as Jesus identifies him with the prophesied Elijah, even though John denied being the actual Elijah. The people did not recognize John, just as they do not know Jesus. Like unbelief followed persecution, they acted according to their own desires, not knowing John's true identity. The prophecy of Malachi was fulfilled in John as the forerunner of the Messiah, but the people failed to recognize him and the coming of the Messiah.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.094237716737636,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
             "commentatorTierSimilarities": [
-                49.2,
-                40.28,
-                10.52
+                37.24,
+                38.6,
+                24.16
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "As the people of Jesus' time failed to recognize the significance of John the Baptist, who fulfilled the prophecy of Malachi, they also failed to recognize Jesus himself. The ignorance and disbelief displayed towards both John and Jesus resulted in the death of John and would later lead to the persecution of Jesus. Jesus warns that he too will endure suffering and rejection from those who reject him, following the pattern set by John. The tragedy lies in the people's failure to comprehend the importance of these messengers and their message.",
-            "wordCount": 92,
-            "quoteTokenProportion": 39.66,
-            "qualityScore": 1.5571504818161501,
-            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+            "bht": "John the Baptist fulfilled the promise in Malachi as Jesus identifies him with the prophesied Elijah, even though John denied personally being Elijah. The people failed to recognize John and the coming of the Messiah. Like unbelief followed persecution, the people acted according to their own desires, not understanding John's true identity. The prophecy of Malachi was fulfilled in John as the forerunner of the Messiah, but the people did not recognize him and the Messiah himself.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.8813526046929463,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
             "commentatorTierSimilarities": [
-                49.78,
-                39.3,
-                10.92
+                31.43,
+                45.37,
+                23.2
             ],
             "generationAttempt": 5
         }

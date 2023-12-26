@@ -1,28 +1,28 @@
 {
-    "timestamp": "12-21-2023 03:10:28",
+    "timestamp": "12-25-2023 19:32:33",
     "verseRef": "John 11:16",
     "bestBHT": {
-        "bht": "Thomas, known as Didymus, had a unique character, often taking a pessimistic view but deeply devoted to his Lord. When he heard that Jesus intended to go back to Judea, Thomas expressed his willingness to go as well, even if it meant facing death. This was not a fear for Lazarus, but a deep understanding of the potential sacrifice their Master would make. Thomas's devotion to Jesus was so strong that he could not fathom living without Him. His love for Jesus overshadowed all else, even his own life.",
-        "wordCount": 90,
-        "quoteTokenProportion": 47.76,
-        "qualityScore": 1.9801040147272846,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+        "bht": "Thomas, deeply attached to his Lord and ever ready to take the dark view, perceives how this journey to Judea will end. He not only sees peril for themselves, but feels as if he could not and cared not to survive his Master's sacrifice to the fury of His enemies. Thomas's exhortation to his fellow-disciples, to go and die with Jesus, expresses fervent love and a sense of despair and vanished hope.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.1183798229935107,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.78,
         "commentatorTierSimilarities": [
-            32.03,
-            32.55,
-            35.43
+            31.09,
+            40.57,
+            28.35
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "Let us also go (with our Master), that we may die with him.",
-            "This is in exact accord with the character of Thomas, as shewn in ch. xiv. 5; xx. 25;\u2014ever ready to take the dark view, but deeply attached to his Lord.",
-            "The remark means, Let us also go (with our Master), that we may die with him (not, with Lazarus, as Grot.)."
+            "This is in exact accord with the character of Thomas, as shewn in ch. xiv. 5; xx. 25.",
+            "Ever ready to take the dark view, but deeply attached to his Lord."
         ],
         "Jamieson-Fausset-Brown": [
-            "Let us also go, that we may die with him\u2014lovely spirit, though tinged with some sadness...",
-            "He perceives clearly how this journey to Judea will end, as respects his Master, and not only sees in it peril to themselves... but feels as if he could not and cared not to survive his Master's sacrifice...",
+            "Let us also go, that we may die with him\u2014lovely spirit, though tinged with some sadness.",
+            "He perceives clearly how this journey to Judea will end, as respects his Master, and not only sees in it peril to themselves, as they all did, but feels as if he could not and cared not to survive his Master's sacrifice to the fury of His enemies.",
             "It was that kind of affection which, living only in the light of its Object, cannot contemplate, or has no heart for life, without it."
         ],
         "Albert Barnes": [
@@ -33,27 +33,27 @@
         "Marvin Vincent": [
             "Didymus [\u03b4\u03b9\u03b4\u03c5\u03bc\u03bf\u03c2] . Not a surname of Thomas, but the Greek equivalent of the Aramaic name, twin.",
             "Fellow - disciples [\u03c3\u03c5\u03bc\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03b9\u03c2] . Only here in the New Testament.",
-            "We may die. 'He will die for the love which he has, but he will not affect the faith which he has not' (Westcott)."
+            "He will die for the love which he has, but he will not affect the faith which he has not\" (Westcott)."
         ],
         "John Calvin": [
-            "Thomas is now prepared to follow, but it is without confidence; or, at least, he does not fortify himself by the promise of Christ, so as to follow him with cheerfulness and composure.",
+            "Thomas is now prepared to follow, but it is without confidence; or, at least, he does not fortify himself by the promise of Christ, so as to follow hint with cheerfulness and composure.",
             "Let us go, that we may die with him. This is the language of despair, for they ought to have entertained no fears about their own life.",
-            "Thomas does not refuse to die with Christ But this, as I have said, proceeds from inconsiderate zeal; for he ought rather to have taken courage from faith in the promise."
+            "But this, as I have said, proceeds from inconsiderate zeal; for he ought rather to have taken courage from faith in the promise."
         ],
         "Philip Schaff": [
-            "Let us also go, that we may die with him.\" ",
-            "This is the end of all, death; not the Messianic kingdom, not life.",
-            "Thomas... in whom unbelief and faith, hope and tendency to despair, were strangely blended."
+            "This is the exhortation of Thomas to his fellow-disciples; and it would seem that they shared his feelings, for the word \u2018fellow-disciples\u2019... binds all the disciples into one.\" ",
+            "The language is undoubtedly that of fervent love to Jesus, but it is also the language of despair and vanished hope... death; not the Messianic kingdom, not life.",
+            "Thomas should be the one to give expression to it... sight is what he wants: when he sees not he gives himself up to despondency."
         ],
         "Archibald T. Robertson": [
-            "Didymus (\u0394\u03b9\u03b4\u03c5\u03bc\u03bf\u03c2). The word means twin.",
-            "His fellow disciples (\u03c4\u03bf\u03b9\u03c2 \u03c3\u03c5\u03bd\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03b9\u03c2). Dative case and article use like 'his.' Only use of \u03c3\u03c5\u03bd\u03bc\u03b1\u03b8\u03b7\u03c4\u03b5\u03c2 in the N.T., rare word (in Plato).",
+            "Didymus (\u0394\u03b9\u03b4\u03c5\u03bc\u03bf\u03c2). The word means twin. Clearly Thomas had a twin brother or sister.\" ",
+            "His fellow disciples (\u03c4\u03bf\u03b9\u03c2 \u03c3\u03c5\u03bd\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03b9\u03c2). Dative case and article use like 'his.' Only use of \u03c3\u03c5\u03bd\u03bc\u03b1\u03b8\u03b7\u03c4\u03b5\u03c2 in the N.T., rare word (in Plato).\" ",
             "That we may die with him (\u03b9\u03bd\u03b1 \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03c9\u03bc\u03b5\u03bd \u03bc\u03b5\u03c4' \u03b1\u03c5\u03c4\u03bf\u03c5). Purpose clause with \u03b9\u03bd\u03b1 and the second aorist active subjunctive of \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03c9. Die with Jesus, Thomas means. Lazarus is already dead and they will kill Jesus (verse John 11:8). Pessimistic courage surely."
         ],
         "John Gill": [
             "Let us also go, that we may die with him.",
-            "He, and the rest of the disciples, imagined that Christ, by returning to Judea, would be in great danger of losing his life.",
-            "Signifying, that they should have but little comfort when he was taken from them."
+            "they should have but little comfort when he was taken from them",
+            "they all forsook him and fled, and provided for their own safety, and left him to die alone"
         ],
         "John Wesley": [
             "Thomas in Hebrew, as Didymus in Greek, signifies a twin.",
@@ -78,67 +78,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Thomas, known as Didymus, had a unique character, often taking a pessimistic view but deeply devoted to his Lord. When he heard that Jesus intended to go back to Judea, Thomas expressed his willingness to go as well, even if it meant facing death. This was not a fear for Lazarus, but a deep understanding of the potential sacrifice their Master would make. Thomas's devotion to Jesus was so strong that he could not fathom living without Him. His love for Jesus overshadowed all else, even his own life. While tinged with sadness, Thomas's declaration revealed his unwavering affection and loyalty to Jesus, willing to die with Him.",
-            "wordCount": 110,
-            "quoteTokenProportion": 44.3,
-            "qualityScore": 1.9960210214143772,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "bht": "Let us also go, that we may die with him. Thomas, ever ready to take the dark view, but deeply attached to his Lord, perceives clearly how this journey to Judea will end. He not only sees peril for themselves, but feels as if he could not and cared not to survive his Master's sacrifice to the fury of His enemies. This kind of affection, living only in the light of its Object, cannot contemplate life without Him. Thomas's exhortation to his fellow-disciples, to go and die with Jesus, expresses fervent love and a sense of despair and vanished hope.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 2.0687956779123207,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.13,
             "commentatorTierSimilarities": [
-                32.25,
-                32.14,
-                35.61
+                33.27,
+                35.59,
+                31.14
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Thomas, known as Didymus, displayed a unique blend of unbelief and faith, hope and tendency to despair. His readiness to go back to Judea with Jesus, even knowing the danger it entailed, revealed his deep attachment to his Master. Thomas's love for Jesus was so profound that he could not imagine life without Him. His words expressed a sense of inevitability, acknowledging the probable sacrifice Jesus would make. Thomas's unwavering devotion and willingness to die with Jesus reflected a beautiful yet melancholic spirit.",
-            "wordCount": 85,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 1.9707875573110538,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "bht": "Thomas, deeply attached to his Lord and ever ready to take the dark view, perceives how this journey to Judea will end. He not only sees peril for themselves, but feels as if he could not and cared not to survive his Master's sacrifice to the fury of His enemies. Thomas's exhortation to his fellow-disciples, to go and die with Jesus, expresses fervent love and a sense of despair and vanished hope.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1183798229935107,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
             "commentatorTierSimilarities": [
-                30.8,
-                33.34,
-                35.86
+                31.09,
+                40.57,
+                28.35
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Thomas, also known as Didymus, possessed a character defined by a tendency to view circumstances in a negative light, but a strong attachment to his Lord. When he heard about Jesus' plan to return to Judea, Thomas, aware of the dangers, expressed his readiness to go along, even if it meant facing death. His affection for Jesus was so profound that he couldn't envision life without Him. Thomas's declaration revealed a love that thrived solely in the presence of its Object, willing to die with Him.",
-            "wordCount": 88,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 1.953172357826975,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "bht": "Thomas, deeply attached to his Lord and ever ready to take the dark view, perceives how this journey to Judea will end. He not only sees peril for themselves, but feels as if he could not and cared not to survive his Master's sacrifice to the fury of His enemies. Thomas's exhortation expresses fervent love and a sense of despair and vanished hope, as he urges his fellow-disciples to go and die with Jesus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1023935725361067,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
             "commentatorTierSimilarities": [
-                32.79,
-                31.28,
-                35.94
+                31.18,
+                40.34,
+                28.48
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Thomas, known as Didymus, had a unique character, often taking a pessimistic view but deeply devoted to his Lord. When he heard that Jesus intended to go back to Judea, Thomas expressed his willingness to go as well, even if it meant facing death. This was not a fear for Lazarus, but a deep understanding of the potential sacrifice their Master would make. Thomas's devotion to Jesus was so strong that he could not fathom living without Him. His love for Jesus overshadowed all else, even his own life.",
-            "wordCount": 90,
-            "quoteTokenProportion": 47.76,
-            "qualityScore": 1.9801040147272846,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "bht": "Thomas, known as Didymus, is characterized by his readiness to take the dark view but also his deep attachment to his Lord. He sees clearly the peril that awaits them on their journey to Judea, and feels as though he could not and should not survive his Master's sacrifice. His exhortation to his fellow-disciples to go and die with Jesus is a heartfelt expression of his love, tinged with sadness and a touch of despair. Thomas's words reflect his unwavering devotion to his Lord and his willingness to face whatever may come.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.981709964019994,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
             "commentatorTierSimilarities": [
-                32.03,
-                32.55,
-                35.43
+                30.42,
+                39.67,
+                29.91
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Thomas, also known as Didymus, demonstrated a unique blend of unbelief and faith, with a propensity for seeing the darker side of things but remaining deeply attached to his Lord. When Jesus announced His intention to return to Judea, Thomas responded by expressing his willingness to go along, even if it meant facing death. This wasn't a fear for Lazarus, but rather a recognition of the potential sacrifice Jesus would make. Thomas's affection for Jesus was so profound that he couldn't envision a life without Him, exemplifying a love that can only exist in the light of its Object.",
-            "wordCount": 102,
-            "quoteTokenProportion": 42.31,
-            "qualityScore": 2.066333898737356,
-            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "bht": "Thomas, deeply attached to his Lord and ever ready to take the dark view, perceives how this journey to Judea will end. He not only sees peril but feels as if he could not and cared not to survive his Master's sacrifice. Thomas's exhortation expresses fervent love and a sense of despair and vanished hope, as he urges his fellow-disciples to go and die with Jesus.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0883643663175118,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.78,
             "commentatorTierSimilarities": [
-                32.55,
-                33.88,
-                33.58
+                30.72,
+                40.49,
+                28.79
             ],
             "generationAttempt": 5
         }

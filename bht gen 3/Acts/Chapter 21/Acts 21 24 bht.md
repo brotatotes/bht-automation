@@ -1,13 +1,13 @@
 # Acts 21:24 Commentary Help Text
 
 ## BHT:
-In this context, it was customary for wealthier individuals to pay for the sacrifices of poorer Nazarites as a display of Jewish generosity. James and the elders suggested that Paul join the poorer Nazarites in their vow to clarify his sentiments. By doing so, he would live with them, participate in their purification rituals, and contribute to the expenses of the sacrifices. This action would refute the accusations against Paul and reveal that the slanderous claims were baseless lies.
+Paul agreed to cover the expenses for the four Nazarites, making sure to do so without compromising his belief in justification by faith. His compliance was not meant to earn God's favor, but rather to affirm his respect for the Mosaic law. By generously supporting the Nazarites, Paul aimed to refute the accusations against him and show that he did not disregard Jewish customs. This act of kindness would not only dispel falsehoods about Paul but also gain the trust of the conservative Jewish Christians.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "It was a custom of the Jews, and was considered a proof of great piety, that the richer Nazarites should pay the expenses of the sacrifices of the poorer." 
-2. "James and the elders made this proposal, assuming that Paul could comply with it with a safe conscience, perhaps also as a proof, to assure themselves and others of his sentiments: and Paul accepted it with a safe conscience."
-3. "He might keep, and encourage the keeping of, the law,—but not with the purpose of thereby deserving the approbation of God."
+1. "[Paul] accepted it with a safe conscience. But this he could only have done on one condition, that he was sure by it not to contribute in these four Nazarites to the error of justification by the works of the law." 
+2. "He might keep, and encourage the keeping of, the law,—but not with the purpose of thereby deserving the approbation of God." 
+3. "James and the elders made this proposal, assuming that Paul could comply with it with a safe conscience, perhaps also as a proof, to assure themselves and others of his sentiments."
 
 ### Jamieson-Fausset-Brown:
 1. 24. be at charges with them—that
@@ -16,76 +16,75 @@ In this context, it was customary for wealthier individuals to pay for the sacri
 
 
 ### Albert Barnes:
-1. "Join them in observing the forms of purification prescribed by the Law of Moses in the observance of the vow of the Nazarite."
-2. "Share with them the expense of the offerings required when the vow is completed."
-3. "By the fact of your observance of one of the rites of the Mosaic religion, all may have evidence that it is not your purpose or practice to speak contemptuously of those rites, or to undervalue the authority of Moses."
+1. "And purify thyself with them - Join them in observing the forms of purification prescribed by the Law of Moses in the observance of the vow of the Nazarite."
+2. "That they may shave their heads - The shaving of the head, or the cutting off the hair which had been suffered to grow during the continuance of the vow Numbers 6:5, was an observance indicating that the vow had been performed."
+3. "And all may know - By the fact of your observance of one of the rites of the Mosaic religion, all may have evidence that it is not your purpose or practice to speak contemptuously of those rites, or to undervalue the authority of Moses."
 
 ### Marvin Vincent:
-1. "The person who thus paid the expenses of poor devotees who could not afford the necessary charges shared the vow so far that he was required to stay with the Nazarites until the time of the vow had expired." (100 words)
-2. "For a week, then, St. Paul, if he accepted the advice of James and the presbyters, would have to live with four paupers in the chamber of the temple which was set apart for this purpose." (21 words)
-3. "He must also stand among the Nazarites during the offering of the sacrifices, and look on while their heads were shaved, and while they took their hair to burn it under the caldron of the peace-offerings." (34 words)
+1. "The person who thus paid the expenses of poor devotees who could not afford the necessary charges shared the vow so far that he was required to stay with the Nazarites until the time of the vow had expired." 
+2. "For a week, then, St. Paul, if he accepted the advice of James and the presbyters, would have to live with four paupers in the chamber of the temple which was set apart for this purpose."
+3. "He must also stand among the Nazarites during the offering of the sacrifices, and look on while their heads were shaved, and while they took their hair to burn it under the caldron of the peace - offerings."
 
 ### John Calvin:
 1. "It was sufficient for Paul and the elders, if they could remove the slander which was unjustly raised, to wit, that he was a revolt [apostate] from the law."
-2. "Neither was it good or profitable that Paul should be counted an observer of the law any long time, as the disciples were then commonly; for by this means a thick veil should have been put before their eyes to darken the light of Christ."
+2. "It was not good or profitable that Paul should be counted an observer of the law any long time, as the disciples were then commonly; for by this means a thick veil should have been put before their eyes to darken the light of Christ."
 3. "Paul did not dissemble, but sincerely professed that he did not hate the law, but that he did rather think reverently of it."
 
 ### Philip Schaff:
-1. "That act of the Gentile apostle was no doubt well known to James and the Jerusalem presbyters."
-2. "It seems to have been the custom in those times among the Jews, for certain persons who had not, in the first instance, taken the obligation of a Nazarite upon themselves, to associate themselves towards the end of the period for which the vow was taken with Nazarites who had taken the vow, and to join with them in the final process of purification."
-3. "Surely one who could thus publicly by example and teaching maintain the rigid observance of the ceremonial law, would never sanction disloyalty to the national traditions of Israel."
+1. "This involved a considerable expense, and we can well conceive that, in many instances, without the help of the rich or comparatively rich, the poor man often would have been unable to complete his Nazarite vow."
+2. "Such a gift, too, from Paul, who was known in all the churches as one who supported himself by the labour of his hands, would, besides testifying to his love for the old Jewish customs, bear striking witness to his generosity and ready self-denial."
+3. "James thought that nothing would be so likely to conciliate the ‘conservative’ party among the Jewish Christians as the sight of the well-known apostle of the Gentiles sharing in, and assisting at his own cost others to take part in one of the cherished Jewish customs."
 
 ### Archibald T. Robertson:
-1. "Purify thyself" is allowable. 
-2. "Spend (money) upon them." 
-3. "The rule is the law and Paul was not a sidestepper."
+1. "Be purified."
+2. "Spend (money) upon (επ') them."
+3. "That they may shave their heads."
 
 ### John Gill:
-1. "Join thyself to them, make one of their number, and attend to the rules prescribed to a Nazarite."
-2. "Join with them in the expense, for the offerings to be made at the end of the vows."
+1. "That they may shave their heads; according to the law in Numbers 6:18."
+2. "Moreover, it may be observed, that a person who had not made a vow, or fulfilled a Nazariteship himself, which was the apostle's case, yet he might join in bearing the expenses of others, at the time of their shaving and cleansing."
 3. "That all may know that those things whereof they were informed concerning thee are nothing; that there is no truth in them; that they are mere lies and calumnies."
 
 ### John Wesley:
 1. "Ought he not, without any reverence to man, where the truth of God was so deeply concerned, to have answered plainly, I do not keep the Mosaic law; neither need any of you." 
 2. "Yea, Peter doth not keep the law. And God himself expressly commanded him not to keep it; ordering him to go in to men uncircumcised, and to eat with them, Acts 11:3, which the law utterly forbids."
-3. "And God himself expressly commanded him not to keep it; ordering him to go in to men uncircumcised, and to eat with them, Acts 11:3, which the law utterly forbids."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:35:00
+- Timestamp: 12-25-2023 19:29:23
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 41.07%
-- BHT Quality Score: 1.8607772339989186
+- BHT Word Count: 86
+- BHT Commentary Usage: 42.19%
+- BHT Quality Score: 2.071826357659867
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['a', 'accusations', 'action', 'against', 'and', 'as', 'baseless', 'by', 'claims', 'clarify', 'context', 'contribute', 'customary', 'display', 'doing', 'elders', 'expenses', 'for', 'generosity', 'he', 'his', 'in', 'individuals', 'it', 'james', 'jewish', 'join', 'lies', 'live', 'nazarites', 'of', 'participate', 'paul', 'pay', 'poorer', 'purification', 'refute', 'reveal', 'rituals', 'sacrifices', 'sentiments', 'slanderous', 'so', 'suggested', 'that', 'the', 'their', 'them', 'this', 'to', 'vow', 'was', 'wealthier', 'were', 'with', 'would']
-- ChatGPT injected words (significant words only) (33):
-	['accusations', 'action', 'baseless', 'claims', 'clarify', 'context', 'contribute', 'customary', 'display', 'elders', 'expenses', 'generosity', 'individuals', 'james', 'jewish', 'join', 'lies', 'live', 'nazarites', 'participate', 'paul', 'pay', 'poorer', 'purification', 'refute', 'reveal', 'rituals', 'sacrifices', 'sentiments', 'slanderous', 'suggested', 'vow', 'wealthier']
+- ChatGPT injected words (64):
+	['about', 'accusations', 'act', 'affirm', 'against', 'agreed', 'aimed', 'also', 'and', 'belief', 'but', 'by', 'christians', 'compliance', 'compromising', 'conservative', 'cover', 'customs', 'did', 'dispel', 'disregard', 'do', 'earn', 'expenses', 'faith', 'falsehoods', 'favor', 'for', 'four', 'gain', 'generously', 'god', 'he', 'him', 'his', 'in', 'jewish', 'justification', 'kindness', 'law', 'making', 'meant', 'mosaic', 'nazarites', 'not', 'of', 'only', 'paul', 'rather', 'refute', 'respect', 's', 'show', 'so', 'supporting', 'sure', 'that', 'the', 'this', 'to', 'trust', 'was', 'without', 'would']
+- ChatGPT injected words (significant words only) (37):
+	['accusations', 'act', 'affirm', 'agreed', 'aimed', 'belief', 'christians', 'compliance', 'compromising', 'conservative', 'cover', 'customs', 'dispel', 'disregard', 'earn', 'expenses', 'faith', 'falsehoods', 'favor', 'gain', 'generously', 'god', 'jewish', 'justification', 'kindness', 'law', 'making', 'meant', 'mosaic', 'nazarites', 'paul', 'refute', 'respect', 's', 'supporting', 'sure', 'trust']
 
 ### Logs
-- Attempt 1 BHT: In Acts 21:24, it was customary for wealthier Nazarites to pay for the sacrifices of the poorer ones, a sign of Jewish generosity. James and the elders proposed that Paul join these poorer Nazarites in their vow, not for the purpose of earning God's approval, but to assure themselves and others of Paul's sentiments. If Paul agreed, he would have to live with four paupers in the temple chamber for a week, participate in their purification rituals, and contribute to the expenses of the sacrifices. This gesture would debunk the slander against Paul that he was an apostate from the law. By demonstrating his reverence for the law, Paul would dispel the lies and calumnies against him.
-- 🔄 Acts 21:24 (attempt 1, 118 words, 39.19% quotes quality score: 2.0332341191541268, V2 normalized quality score: 58.95, commentator tiers 1-3: 31.36%, 32.55%, 36.09%) 
+- Attempt 1 BHT: Paul accepted the proposal to be at charges with the four Nazarites, fully aware that it should not contribute to the error of justification by works of the law, but rather as a demonstration that he did not despise or disregard the customs and rituals of the Mosaic law. By participating in the expenses, Paul would have to stay with the Nazarites, witness the offering of sacrifices and the shaving of their heads, all of which were significant parts of the Nazarite vow. This act of generosity not only testified to Paul's love for Jewish customs but also sought to appease the conservative Jewish Christians who revered these traditions. Ultimately, the purpose behind this proposal was to dispel the slander unjustly raised against Paul and assure others that there was no truth in the accusations against him regarding the Law.
+- 🔄 Acts 21:24 (attempt 1, 141 words, 44.57% quotes quality score: 2.138207377635755, V2 normalized quality score: 62.44, commentator tiers 1-3: 25.47%, 38.24%, 36.3%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this passage, the custom of the Jews was for wealthier Nazarites to pay for the sacrifices of the poorer ones, a clear example of Jewish generosity. James and the elders proposed that Paul join the poorer Nazarites in their vow, not for the purpose of earning God's approval, but to assure others of his sentiments. If Paul agreed, he would have to live with four paupers in the temple chamber, participate in their purification rituals, and contribute to the expenses of the sacrifices, dispelling the lies against him.
-- 🔄 Acts 21:24 (attempt 2, 90 words, 37.7% quotes quality score: 2.115688281219493, V2 normalized quality score: 61.69, commentator tiers 1-3: 33.8%, 36.25%, 29.95%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Paul accepted the proposal to be at charges with the four Nazarites, keen to avoid contributing to the error of justification by works of the law. By participating in their expenses and staying with them, he hoped to demonstrate that he did not despise the customs of the Mosaic law. This act of generosity not only testified to his love for Jewish traditions but also sought to appease the conservative Jewish Christians. Ultimately, the proposal aimed to dispel unjust slander against Paul and highlight the falsehoods regarding his observance of the law.
+- 🔄 Acts 21:24 (attempt 2, 92 words, 38.71% quotes quality score: 1.96319123752165, V2 normalized quality score: 56.62, commentator tiers 1-3: 27.92%, 36.51%, 35.57%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: In this context, it was customary for wealthier individuals to pay for the sacrifices of poorer Nazarites as a display of Jewish generosity. James and the elders suggested that Paul join the poorer Nazarites in their vow to clarify his sentiments. By doing so, he would live with them, participate in their purification rituals, and contribute to the expenses of the sacrifices. This action would refute the accusations against Paul and reveal that the slanderous claims were baseless lies.
-- 🔄 Acts 21:24 (attempt 3, 79 words, 41.07% quotes quality score: 1.8607772339989186, V2 normalized quality score: 53.21, commentator tiers 1-3: 33.73%, 35.12%, 31.15%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this context, it was customary for wealthier individuals to pay for the sacrifices of poorer Nazarites. James and the elders suggested that Paul join the poorer Nazarites in their vow as a sign of Jewish generosity. By participating in their purification rituals, sharing their expenses, and living with them, Paul would refute the slanderous accusations and demonstrate his reverence for the law. This would dismiss the unfounded claims and establish that they were mere lies and calumnies.
-- 🔄 Acts 21:24 (attempt 4, 78 words, 35.71% quotes quality score: 1.8295973744479732, V2 normalized quality score: 52.18, commentator tiers 1-3: 31.91%, 35.06%, 33.02%) 
+- Attempt 3 BHT: Paul accepted the proposal with a safe conscience, fully aware that his compliance was not an endorsement of justification by works of the law. Rather, it was a demonstration of his reverence for the Mosaic law. By participating in the expenses of the Nazarites, Paul sought to dispel slander and assure others that there was no truth in the accusations against him. This act of generosity aimed to showcase his love for Jewish customs while also appealing to the conservative Jewish Christians who cherished these traditions.
+- 🔄 Acts 21:24 (attempt 3, 86 words, 41.94% quotes quality score: 1.9477940093920276, V2 normalized quality score: 56.11, commentator tiers 1-3: 26.37%, 37.04%, 36.59%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In Acts 21:24, the Jewish custom was for rich Nazarites to cover the expenses of sacrifices for the poorer ones. To assure others of his sentiments, James and the elders proposed that Paul join the poorer Nazarites in their vow. By participating in their purification rituals, sharing their expenses, and staying with them, Paul would demonstrate his respect for the law. This would dispel the baseless slander against him, proving that the accusations were mere lies and calumnies.
-- 🔄 Acts 21:24 (attempt 5, 77 words, 35.85% quotes quality score: 1.9473653553425159, V2 normalized quality score: 56.09, commentator tiers 1-3: 31.95%, 34.23%, 33.83%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Acts 21:24 bht prompt v0.8 (79 words, 41.07% quotes)
-- quality score: 1.8607772339989186, V2 normalized quality score: 53.21, commentator tiers 1-3: 33.73%, 35.12%, 31.15%)
+- Attempt 4 BHT: Paul agreed to cover the expenses for the four Nazarites, making sure to do so without compromising his belief in justification by faith. His compliance was not meant to earn God's favor, but rather to affirm his respect for the Mosaic law. By generously supporting the Nazarites, Paul aimed to refute the accusations against him and show that he did not disregard Jewish customs. This act of kindness would not only dispel falsehoods about Paul but also gain the trust of the conservative Jewish Christians.
+- 🔄 Acts 21:24 (attempt 4, 86 words, 42.19% quotes quality score: 2.071826357659867, V2 normalized quality score: 60.23, commentator tiers 1-3: 26.94%, 35.9%, 37.16%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Paul accepted the proposal to be at charges with the four Nazarites, ensuring that his participation did not contribute to the error of justification by works of the law. By doing so, he aimed to demonstrate his reverence for the Mosaic law without seeking to deserve the approval of God through it. This act of generosity not only showcased his love for Jewish customs but also served as proof of his sentiments to James and the elders, helping to assure them and others of his beliefs.
+- 🔄 Acts 21:24 (attempt 5, 86 words, 44.26% quotes quality score: 2.0333543962162555, V2 normalized quality score: 58.95, commentator tiers 1-3: 30.36%, 35.76%, 33.88%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 21:24 bht prompt v0.8 (86 words, 42.19% quotes)
+- quality score: 2.071826357659867, V2 normalized quality score: 60.23, commentator tiers 1-3: 26.94%, 35.9%, 37.16%)

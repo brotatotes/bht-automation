@@ -1,9 +1,7 @@
 # Romans 9:27 Commentary Help Text
 
 ## BHT:
-The solemn testimony of Isaiah, as he cries out in anguish over Israel, serves as a proof of the fact that a portion of Israel will be excluded. The analogy of their partial deliverance from captivity provides insight into the interpretation of this prophecy, emphasizing that only a remnant, or the elect remnant, will be saved. Isaiah's impassioned utterance highlights the judgment that looms over Israel, yet there is a glimmer of hope for the few who will find salvation amidst the multitude.
-
-Word count: 76 words
+The cry of Isaiah over Israel reflects that a part of Israel will be excluded, proclaiming the judgment that hangs over them. Isaiah sees hope for the remnant, the elect few who will be saved, amidst his heartfelt anguish. This prophecy serves as a reminder that despite the multitude of Israel's children, only a remnant will obtain salvation.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -12,86 +10,72 @@ Word count: 76 words
 3. "The words are spoken by Isaiah of the return from captivity of a remnant of Israel."
 
 ### Jamieson-Fausset-Brown:
-1. "Esaias also crieth... concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant—that is, the elect remnant only shall be saved."
-2. "Isaiah crieth—an expression denoting a solemn testimony openly borne."
-3. "[Isaiah's testimony]... denoting a solemn testimony openly borne."
+1. "Esaias also crieth...concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant—that is, the elect remnant only shall be saved."
 
 ### Marvin Vincent:
-1. "The prophet in awful earnestness, and as with a scream of anguish, cries over Israel." 
-2. "An impassioned utterance."
-3. "Proclaiming a judgment which hangs over Israel."
+1. "The prophet in awful earnestness, and as with a scream of anguish, cries over Israel."
+2. "Crieth...mostly of an inarticulate cry."
+3. "Concerning...proclaiming a judgment which hangs over Israel."
 
 ### John Calvin:
-1. "It is not without a wise contrivance, that he adduces Isaiah as exclaiming, not, speaking, in order that he might excite more attention."
-2. "For it was a thing dreadful to be heard, that of so large a multitude, a small number only would obtain salvation."
-3. "What therefore happened then, is to be now much more completely fulfilled as the very progress and completion of that deliverance."
+1. "But the words of the Prophet were evidently intended to keep the Jews from glorying too much in the flesh: for it was a thing dreadful to be heard, that of so large a multitude, a small number only would obtain salvation."
+2. "For though the Prophet, after having described the devastation of the people, lest the faithful should think that the covenant of God was wholly abolished, gave some remaining hope of favor; yet he confined it to a few."
+3. "When the Lord resolved to deliver his people from the Babylonian captivity, his purpose was, that this benefit of deliverance should come only to a very few of that vast multitude; which might have been said to be the remnant of that destruction, when compared with the great number which he suffered to perish in exile."
 
 ### Philip Schaff:
 1. "The quotation, extending to the close of Romans 9:28, is from Isaiah 10:22-23, the verses being, however, differently divided."
-2. "‘Crieth’ describes the bold declaration of a truth very offensive to the people." 
-3. "The remnant. This is the emphatic word, only ‘the remnant,’ mainly with a reference to the call of the Gentiles, but probably suggesting the thought of the future salvation of Israel, fully brought out in chap. 11."
+2. "'Crieth' describes the bold declaration of a truth very offensive to the people." 
+3. "The remnant. This is the emphatic word, only 'the remnant,' mainly with a reference to the call of the Gentiles, but probably suggesting the thought of the future salvation of Israel, fully brought out in chap. 11."
 
 ### Archibald T. Robertson:
-1. "It is the remnant that shall be saved." 
-2. "Literally, 'the remnant will be saved.'"
+1. "The remnant will be saved."
+2. "Late word from υπολειπω, to leave behind (Romans 11:3), here only in N.T."
 3. "Isaiah cries in anguish over the outlook for Israel, but sees hope for the remnant."
 
 ### John Gill:
-1. "Though the number of the children of Israel be as the sand of the sea: this part of the testimony seems rather to be taken from Hosea 1:10... that is, though the number of them be such as to be compared thereunto; though they are many as the sand of the sea."
-2. "a remnant shall be saved; that is, a few persons only... the little flock among them, which were as sheep among wolves; the few that entered in at the strait gate, and found the way to eternal life; the few that shall be saved."
-3. "this little remnant, through the Father's everlasting and unchangeable love, the Son's purchase, prayers, and preparations, and the Spirit's grace... shall be certainly and completely saved; though with respect to the difficulties attending it, which could have been surmounted by none but Christ, and by reason of their discouragements arising from sin, temptations, and persecutions, they may be said to be scarcely saved."
+1. "The first testimony is taken out of Isaiah 10:22, and is prefaced or introduced with these words... which either express the great concern of mind and sorrow of heart, with which the prophet spoke them... or they show his heart's desire and prayer to God, 'for Israel.'"
+2. "Though the number of the children of Israel be as the sand of the sea:... though they are many as the sand of the sea... a remnant shall be saved."
+3. "These, according to the prophecy, were to return to the mighty God, the Lord Jesus Christ, the promised Messiah; be converted to him, and so saved by him with an everlasting salvation."
 
 ### John Wesley:
-1. "But Isaiah testifies, that (as many gentiles will be accepted, so) many Jews will be rejected..." 
+1. "But Isaiah testifies, that (as many gentiles will be accepted, so) many Jews will be rejected..."
 2. "...that out of all the thousands of Israel, a remnant only shall be saved."
 3. "This was spoken originally of the few that were saved from the ravage of Sennacherib's army."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:07:38
+- Timestamp: 12-25-2023 19:29:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 37.7%
-- BHT Quality Score: 1.9729158619565927
+- BHT Word Count: 59
+- BHT Commentary Usage: 39.02%
+- BHT Quality Score: 2.4721833429035125
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'amidst', 'analogy', 'anguish', 'as', 'be', 'captivity', 'count', 'cries', 'deliverance', 'elect', 'emphasizing', 'excluded', 'fact', 'few', 'find', 'for', 'from', 'glimmer', 'he', 'highlights', 'hope', 'impassioned', 'in', 'insight', 'interpretation', 'into', 'is', 'isaiah', 'israel', 'judgment', 'looms', 'multitude', 'of', 'only', 'or', 'out', 'over', 'partial', 'portion', 'proof', 'prophecy', 'provides', 'remnant', 's', 'salvation', 'saved', 'serves', 'solemn', 'testimony', 'that', 'the', 'their', 'there', 'this', 'utterance', 'who', 'will', 'word', 'words', 'yet']
-- ChatGPT injected words (significant words only) (38):
-	['amidst', 'analogy', 'anguish', 'captivity', 'count', 'cries', 'deliverance', 'elect', 'emphasizing', 'excluded', 'fact', 'find', 'glimmer', 'highlights', 'hope', 'impassioned', 'insight', 'interpretation', 'isaiah', 'israel', 'judgment', 'looms', 'multitude', 'partial', 'portion', 'proof', 'prophecy', 'provides', 'remnant', 's', 'salvation', 'saved', 'serves', 'solemn', 'testimony', 'utterance', 'word', 'words']
+- ChatGPT injected words (41):
+	['a', 'amidst', 'anguish', 'as', 'be', 'children', 'cry', 'despite', 'elect', 'excluded', 'few', 'for', 'hangs', 'heartfelt', 'his', 'hope', 'isaiah', 'israel', 'judgment', 'multitude', 'obtain', 'of', 'only', 'over', 'part', 'proclaiming', 'prophecy', 'reflects', 'reminder', 'remnant', 's', 'salvation', 'saved', 'sees', 'serves', 'that', 'the', 'them', 'this', 'who', 'will']
+- ChatGPT injected words (significant words only) (25):
+	['amidst', 'anguish', 'children', 'cry', 'despite', 'elect', 'excluded', 'hangs', 'heartfelt', 'hope', 'isaiah', 'israel', 'judgment', 'multitude', 'obtain', 'proclaiming', 'prophecy', 'reflects', 'reminder', 'remnant', 's', 'salvation', 'saved', 'sees', 'serves']
 
 ### Logs
-- Attempt 1 BHT: In Romans 9:27, the verse references Isaiah's cry over Israel, proclaiming a judgment that hangs over them. Isaiah's passionate and solemn testimony openly bears witness to the fact that only a remnant of Israel will be saved. The analogy of Israel's partial deliverance from captivity serves as a key to interpret this prophecy, indicating that the salvation of a few individuals amidst a large multitude is a dreadful truth, yet it holds hope for the future salvation of Israel. It is important to pay attention to Isaiah's emotional proclamation, reflecting the severity of the situation.
-- 🔄 Romans 9:27 (attempt 1, 98 words, 30.3% quotes quality score: 2.1018478206798714, V2 normalized quality score: 61.23, commentator tiers 1-3: 38.66%, 34.34%, 27.0%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The solemn testimony of Isaiah, as he cries out in anguish over Israel, serves as a proof of the fact that a portion of Israel will be excluded. The analogy of their partial deliverance from captivity provides insight into the interpretation of this prophecy, emphasizing that only a remnant, or the elect remnant, will be saved. Isaiah's impassioned utterance highlights the judgment that looms over Israel, yet there is a glimmer of hope for the few who will find salvation amidst the multitude.
-
-Word count: 76 words
-- 🔄 Romans 9:27 (attempt 2, 87 words, 37.7% quotes quality score: 1.9729158619565927, V2 normalized quality score: 56.94, commentator tiers 1-3: 37.29%, 33.89%, 28.83%) 
+- Attempt 1 BHT: Isaiah's cry over Israel is a testament to the fact that a part of Israel will be excluded, and his words serve as a proclamation of the judgment that hangs over them. The analogy of Israel's partial deliverance from captivity and their ultimate deliverance from eternal death is key in interpreting this prophecy. In the midst of anguish, Isaiah sees hope for the remnant, the elect few who will be saved. It is a sobering truth that, though the number of Israel's children may be as numerous as the sand of the sea, only a remnant will obtain salvation.
+- 🔄 Romans 9:27 (attempt 1, 102 words, 39.68% quotes quality score: 2.3625330224549153, V2 normalized quality score: 69.89, commentator tiers 1-3: 38.98%, 27.05%, 33.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In light of Isaiah's passionate cry over Israel, it becomes evident that only a remnant of God's chosen people will be saved. This solemn testimony openly bears witness to a truth that may be offensive to some—the fact that out of the vast multitude, only a small number will obtain salvation. Despite the severity of this revelation, it also brings hope for the future deliverance of Israel, as seen in the analogy of their partial deliverance from captivity, signifying that the remnant will indeed be saved.
-
-Word count: 74 words
-- 🔄 Romans 9:27 (attempt 3, 92 words, 34.92% quotes quality score: 1.9147732861355822, V2 normalized quality score: 55.01, commentator tiers 1-3: 33.21%, 33.88%, 32.91%) 
+- Attempt 2 BHT: Isaiah's cry over Israel reveals that a part of Israel will be excluded, as he proclaims the judgment that hangs over them. The analogy of their partial deliverance from captivity sheds light on the interpretation of this prophecy. In his anguish, Isaiah sees hope for the remnant, emphasizing that only a small number will obtain salvation, despite the vast multitude of Israel's children. This serves as a sobering reminder that the remnant is the chosen few who will be saved.
+- 🔄 Romans 9:27 (attempt 2, 82 words, 38.6% quotes quality score: 2.208355972772761, V2 normalized quality score: 64.77, commentator tiers 1-3: 36.11%, 29.4%, 34.49%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Isaiah's passionate outcry and solemn testimony reveal that a remnant of Israel will be saved, while the majority will be excluded. This truth, though difficult to accept, points to the future deliverance of Israel. The comparison to their partial deliverance from captivity emphasizes that only a few will obtain salvation, highlighting the severity of the judgment that hangs over Israel. Despite the anguish conveyed by Isaiah, there is a glimmer of hope for the remnant who will be saved amidst the vast multitude.
-
-Word count: 78 words
-- 🔄 Romans 9:27 (attempt 4, 87 words, 35.0% quotes quality score: 1.9449048129286406, V2 normalized quality score: 56.01, commentator tiers 1-3: 35.47%, 32.53%, 31.99%) 
+- Attempt 3 BHT: Isaiah's cry over Israel reveals that a part of Israel will be excluded, as he proclaims the judgment that hangs over them. In his anguish, Isaiah sees hope for the remnant, emphasizing that only a small number will obtain salvation, despite the vast multitude of Israel's children. The analogy of their partial deliverance from captivity sheds light on the interpretation of this prophecy, showing that the remnant represents the elect few who will be saved.
+- 🔄 Romans 9:27 (attempt 3, 77 words, 38.18% quotes quality score: 2.3729725059076867, V2 normalized quality score: 70.24, commentator tiers 1-3: 36.45%, 29.64%, 33.91%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The cry of Isaiah over Israel reflects the fact that a portion of Israel will be excluded, with the judgment hanging over them. Through the analogy of Israel's partial deliverance from captivity, we can grasp the interpretation of this prophecy. Isaiah sees hope for the remnant, the elect few who will be saved, amidst his heartfelt anguish. This truth serves as a reminder that though the children of Israel may be as numerous as the sand of the sea, only a remnant will obtain salvation.
+- 🔄 Romans 9:27 (attempt 4, 86 words, 39.29% quotes quality score: 2.4072480480253673, V2 normalized quality score: 71.38, commentator tiers 1-3: 38.66%, 28.45%, 32.89%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Isaiah's impassioned cry serves as a solemn testimony, openly bearing witness to the fact that only a remnant of Israel will be saved. While the number of God's chosen people may be as vast as the sand of the sea, it is the elect remnant that will find salvation. The analogy of their partial deliverance from captivity provides insight into the interpretation of this prophecy, hinting at the future deliverance of Israel. Isaiah's anguished lament holds both judgment and hope for the remnant who will be saved.
-
-Word count: 82 words
-- 🔄 Romans 9:27 (attempt 5, 93 words, 34.38% quotes quality score: 1.9223960712130101, V2 normalized quality score: 55.26, commentator tiers 1-3: 38.14%, 31.46%, 30.39%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: The cry of Isaiah over Israel reflects that a part of Israel will be excluded, proclaiming the judgment that hangs over them. Isaiah sees hope for the remnant, the elect few who will be saved, amidst his heartfelt anguish. This prophecy serves as a reminder that despite the multitude of Israel's children, only a remnant will obtain salvation.
+- 🔄 Romans 9:27 (attempt 5, 59 words, 39.02% quotes quality score: 2.4721833429035125, V2 normalized quality score: 73.54, commentator tiers 1-3: 37.72%, 27.87%, 34.41%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Romans 9:27 bht prompt v0.8 (87 words, 37.7% quotes)
-- quality score: 1.9729158619565927, V2 normalized quality score: 56.94, commentator tiers 1-3: 37.29%, 33.89%, 28.83%)
+- ✅ Romans 9:27 bht prompt v0.8 (59 words, 39.02% quotes)
+- quality score: 2.4721833429035125, V2 normalized quality score: 73.54, commentator tiers 1-3: 37.72%, 27.87%, 34.41%)

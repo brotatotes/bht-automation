@@ -1,7 +1,7 @@
 # Matthew 27:62 Commentary Help Text
 
 ## BHT:
-Driven by their deep-seated hatred, the enemies of Christ were not oblivious to his prophecy about rising from the dead. Intent on preventing any deception, they wasted no time after the Sabbath ended and hurried to secure guards at the tomb. This swift action, occurring on the first day of the feast of unleavened bread, unwittingly played a role in fulfilling God's plan. The guards' presence served as indisputable evidence of the empty tomb, substantiating the reality of Jesus' resurrection.
+It was no secret that Jesus had mentioned his resurrection, though the disciples may not have fully grasped its meaning. The religious leaders, driven by their hatred and opposition, took swift action to secure the tomb despite the contradiction to their own laws and traditions. The crucifixion took place on a Friday, and the following Sabbath was a high day, marking the start of the feast of unleavened bread. The meticulous efforts of the religious leaders reveal their determination to prevent any tampering with Jesus's body.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -11,8 +11,8 @@ Driven by their deep-seated hatred, the enemies of Christ were not oblivious to 
 
 ### Jamieson-Fausset-Brown:
 1. "The crucifixion took place on the Friday and all was not over till shortly before sunset, when the Jewish sabbath commenced." 
-2. "That day being over at six on Saturday evening, they hastened to take their measures."
-3. "That sabbath day was an high day, being the first day of the feast of unleavened bread."
+2. "That sabbath day was an high day, being the first day of the feast of unleavened bread." 
+3. "They hastened to take their measures."
 
 ### Albert Barnes:
 1. "The first day of the feast of the Passover was called the day of 'preparation,' because all things were on that day got in readiness for the observances of the paschal week."
@@ -20,19 +20,19 @@ Driven by their deep-seated hatred, the enemies of Christ were not oblivious to 
 3. "To suppose them to have waited until the next morning would be absurd, as the disciples would be as likely to steal him away the first night as the second."
 
 ### John Calvin:
-1. "The enemies of Christ were indeed unworthy of having his resurrection made known to them; but it was proper that their insolence should be exposed, and every occasion of slander taken away from them, and that even their consciences should be convinced, so that they might not be held excusable for ignorance."
-2. "Yet let us observe that God, as if he had hired them for the purpose, employed their services for rendering the glory of Christ more illustrious..."
-3. "...with all persons of correct and sober judgment it was a sufficient testimony that Christ was risen, since his body, which had been placed in a grave, and protected by guards who surrounded it on all sides, was not to be found."
+1. "The resurrection of Christ would undoubtedly have been less manifest, or, at least, they would have had more plausible grounds for denying it, if they had not taken pains to station witnesses at the sepulcher."
+2. "We see then how the Lord not only disappointeth the crafty, but employs even their own schemes as snares for holding them fast, that he may draw and compel them to render obedience to him."
+3. "Yet let us observe that God, as if he had hired them for the purpose, employed their services for rendering the glory of Christ more illustrious."
 
 ### Philip Schaff:
-1. "The day of the preparation was Friday, as is plain from Mark 15:45."
-2. "The first day of the Passover (Friday) was in one sense a Sabbath, hence this designation is more definite."
-3. "While our Lord rested in the tomb, they desecrated the Sabbath, despite their great scrupulousness."
+1. "The morrow, which is the day after the preparation...The first day of the Passover (Friday) was in one sense a Sabbath, hence this designation is more definite." 
+2. "While our Lord rested in the tomb, they desecrated the Sabbath, despite their great scrupulousness."
+3. "It is urged that this must have taken place on Friday evening after six o'clock...But their anxiety was about the night preceding the third day...This is accounted for, if we suppose that this incident occurred on Saturday, and not on Friday evening after six o'clock."
 
 ### John Gill:
-1. "It shows what consciences these men had, who accused the disciples of Christ of a violation of the Sabbath, for plucking a few ears of corn on that day; and yet they themselves could leave their devotions, and first meet together and agree upon an address to Pilate, and then go in a body to his palace." 
-2. "They feared his resurrection; and though they could not prevent the thing, they consult to hinder the credit of it."
-3. "These were the inveterate and implacable enemies of Christ; they took counsel how to put him to death; they employed Judas to betray him, and sent a band of soldiers with him to take him."
+1. "And yet they themselves could leave their devotions... and make the sepulchre sure, sealing the stone, and setting a watch, which were servile works, and, according to their laws and traditions, not to be done on the sabbath day; and yet they scrupled them not, notwithstanding their characters and profession." 
+2. "These were the inveterate and implacable enemies of Christ; they took counsel how to put him to death; they employed Judas to betray him... they got him condemned to death, and followed him to the cross, where they mocked him." 
+3. "Though he was dead, they feared his resurrection; and though they could not prevent the thing, they consult to hinder the credit of it."
 
 ### John Wesley:
 1. "The day of preparation was the day before the Sabbath, whereon they were to prepare for the celebration of it."
@@ -42,37 +42,38 @@ Driven by their deep-seated hatred, the enemies of Christ were not oblivious to 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:54:59
+- Timestamp: 12-25-2023 19:20:30
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 34.85%
-- BHT Quality Score: 1.7399303784917262
+- BHT Word Count: 87
+- BHT Commentary Usage: 34.38%
+- BHT Quality Score: 1.759589866146519
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'about', 'action', 'after', 'and', 'any', 'as', 'at', 'bread', 'by', 'christ', 'day', 'dead', 'deception', 'deep', 'driven', 'empty', 'ended', 'enemies', 'evidence', 'feast', 'first', 'from', 'fulfilling', 'god', 'guards', 'hatred', 'his', 'hurried', 'in', 'indisputable', 'intent', 'jesus', 'no', 'not', 'oblivious', 'occurring', 'of', 'on', 'plan', 'played', 'presence', 'preventing', 'prophecy', 'reality', 'resurrection', 'rising', 'role', 's', 'sabbath', 'seated', 'secure', 'served', 'substantiating', 'swift', 'the', 'their', 'they', 'this', 'time', 'to', 'tomb', 'unleavened', 'unwittingly', 'wasted', 'were']
-- ChatGPT injected words (significant words only) (43):
-	['action', 'bread', 'christ', 'day', 'dead', 'deception', 'deep', 'driven', 'ended', 'enemies', 'evidence', 'feast', 'fulfilling', 'god', 'guards', 'hatred', 'hurried', 'indisputable', 'intent', 'jesus', 'oblivious', 'occurring', 'plan', 'played', 'presence', 'preventing', 'prophecy', 'reality', 'resurrection', 'rising', 'role', 's', 'sabbath', 'seated', 'secure', 'served', 'substantiating', 'swift', 'time', 'tomb', 'unleavened', 'unwittingly', 'wasted']
+- ChatGPT injected words (64):
+	['a', 'action', 'and', 'any', 'body', 'bread', 'by', 'contradiction', 'crucifixion', 'day', 'despite', 'determination', 'disciples', 'driven', 'efforts', 'feast', 'following', 'friday', 'fully', 'grasped', 'had', 'hatred', 'have', 'high', 'his', 'it', 'its', 'jesus', 'laws', 'leaders', 'marking', 'may', 'meaning', 'mentioned', 'meticulous', 'no', 'not', 'of', 'on', 'opposition', 'own', 'place', 'prevent', 'religious', 'resurrection', 'reveal', 's', 'sabbath', 'secret', 'secure', 'start', 'swift', 'tampering', 'that', 'the', 'their', 'though', 'to', 'tomb', 'took', 'traditions', 'unleavened', 'was', 'with']
+- ChatGPT injected words (significant words only) (42):
+	['action', 'body', 'bread', 'contradiction', 'crucifixion', 'day', 'despite', 'determination', 'disciples', 'driven', 'efforts', 'feast', 'following', 'friday', 'fully', 'grasped', 'hatred', 'high', 'jesus', 'laws', 'leaders', 'marking', 'meaning', 'mentioned', 'meticulous', 'opposition', 'place', 'prevent', 'religious', 'resurrection', 'reveal', 's', 'sabbath', 'secret', 'secure', 'start', 'swift', 'tampering', 'tomb', 'took', 'traditions', 'unleavened']
 
 ### Logs
-- Attempt 1 BHT: The enemies of Jesus, despite their hatred, were well aware of his prophecy about rising from the dead. Knowing that the crucifixion did not mark the end, they were determined to take measures to prevent any deception. After the Sabbath day of rest had ended on Saturday evening, they hurried to Pilate to secure guards at the tomb. This day marked the beginning of the feast of unleavened bread, making it even more necessary for them to act swiftly. While the enemies of Jesus desecrated the Sabbath, their actions inadvertently contributed to the fulfillment of God's plan. Their efforts not only exposed their own insolence but also provided concrete evidence of the empty tomb. By employing the guards, God used their very presence as testimony to the reality of the resurrection.
-- 🔄 Matthew 27:62 (attempt 1, 132 words, 38.89% quotes quality score: 1.697506802679185, V2 normalized quality score: 47.78, commentator tiers 1-3: 30.6%, 30.85%, 38.55%) 
+- Attempt 1 BHT: The disciples may not have fully understood the meaning behind Jesus's statement, but it was no secret that he had mentioned his resurrection. It is interesting to note that hatred and opposition often have keener insight than love. It is clear that the religious leaders hastened to take measures to secure the tomb, even though their actions contradicted their own laws and traditions. While the crucifixion took place on a Friday, the Sabbath day following it was considered a high day, being the first day of the feast of unleavened bread. This shows the meticulous efforts made by the religious leaders to ensure that the body of Jesus would not be taken or tampered with.
+- 🔄 Matthew 27:62 (attempt 1, 116 words, 43.37% quotes quality score: 1.657882567922075, V2 normalized quality score: 46.47, commentator tiers 1-3: 33.98%, 30.16%, 35.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Despite the disciples' lack of understanding, Jesus' enemies had heard his prediction of resurrection. Their keen hatred led them to take proactive measures to guard against deception. On the Sabbath day, following the end of the feast of unleavened bread, they swiftly approached Pilate to secure guards for the tomb. Their actions inadvertently played a part in fulfilling God's plan, as the presence of the guards served as evidence of the empty tomb and the reality of Jesus' resurrection.
-- 🔄 Matthew 27:62 (attempt 2, 80 words, 31.03% quotes quality score: 1.6263900152274982, V2 normalized quality score: 45.42, commentator tiers 1-3: 32.03%, 28.5%, 39.47%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The enemies of Christ, driven by their intense hatred, were fully aware of his prophecy about rising from the dead. Seeking to prevent any deception, they wasted no time after the Sabbath had ended and urgently approached Pilate to secure guards at the tomb. This swift action, taking place on the first day of the feast of unleavened bread, inadvertently played a role in fulfilling God's plan. The presence of the guards became tangible evidence of the empty tomb, testifying to the reality of Jesus' resurrection.
-- 🔄 Matthew 27:62 (attempt 3, 87 words, 33.82% quotes quality score: 1.719608755498239, V2 normalized quality score: 48.52, commentator tiers 1-3: 31.02%, 30.42%, 38.56%) 
+- Attempt 2 BHT: It was no secret that Jesus had mentioned his resurrection, though the disciples may not have fully grasped its meaning. The religious leaders, driven by their hatred and opposition, took swift action to secure the tomb despite the contradiction to their own laws and traditions. The crucifixion took place on a Friday, and the following Sabbath was a high day, marking the start of the feast of unleavened bread. The meticulous efforts of the religious leaders reveal their determination to prevent any tampering with Jesus's body.
+- 🔄 Matthew 27:62 (attempt 2, 87 words, 34.38% quotes quality score: 1.759589866146519, V2 normalized quality score: 49.85, commentator tiers 1-3: 32.6%, 29.64%, 37.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Driven by their deep-seated hatred, the enemies of Christ were not oblivious to his prophecy about rising from the dead. Intent on preventing any deception, they wasted no time after the Sabbath ended and hurried to secure guards at the tomb. This swift action, occurring on the first day of the feast of unleavened bread, unwittingly played a role in fulfilling God's plan. The guards' presence served as indisputable evidence of the empty tomb, substantiating the reality of Jesus' resurrection.
-- 🔄 Matthew 27:62 (attempt 4, 82 words, 34.85% quotes quality score: 1.7399303784917262, V2 normalized quality score: 49.19, commentator tiers 1-3: 31.28%, 31.39%, 37.34%) 
+- Attempt 3 BHT: The disciples may not have comprehended the full significance of Jesus's resurrection statement, but it was no secret that he had spoken of it. The religious leaders acted swiftly to secure the tomb, even though their actions contradicted their own laws and traditions. The crucifixion occurred on a Friday, and the subsequent day, the Sabbath, marked the beginning of the Passover feast. This demonstrates the meticulous efforts made by the religious leaders to ensure the body of Jesus would not be tampered with.
+- 🔄 Matthew 27:62 (attempt 3, 84 words, 43.55% quotes quality score: 1.7096041419858015, V2 normalized quality score: 48.19, commentator tiers 1-3: 30.93%, 30.87%, 38.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Driven by their intense animosity towards Jesus, his enemies were well aware of his prediction to rise from the dead. Seizing the opportunity, they rushed to Pilate after the Sabbath had concluded in order to secure guards for the tomb. Little did they know that their actions would ultimately contribute to the fulfillment of God's plan. The presence of the guards served as undeniable proof of the empty tomb, standing as a testament to the reality of Jesus' resurrection.
-- 🔄 Matthew 27:62 (attempt 5, 80 words, 36.84% quotes quality score: 1.5921416158122772, V2 normalized quality score: 44.28, commentator tiers 1-3: 30.8%, 28.93%, 40.27%) 
+- Attempt 4 BHT: The religious leaders were well aware that Jesus spoke of his resurrection, though the disciples may not have fully grasped its meaning. Showing their sharp insight, they quickly took measures to secure the tomb, disregarding their own laws and traditions. The crucifixion took place on a Friday, and the following Sabbath was a significant day as it marked the start of the feast of unleavened bread. The religious leaders' meticulous actions reveal their determination to prevent any tampering with Jesus's body.
+- 🔄 Matthew 27:62 (attempt 4, 82 words, 35.94% quotes quality score: 1.7196587489825017, V2 normalized quality score: 48.52, commentator tiers 1-3: 32.41%, 30.43%, 37.16%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 27:62 bht prompt v0.8 (82 words, 34.85% quotes)
-- quality score: 1.7399303784917262, V2 normalized quality score: 49.19, commentator tiers 1-3: 31.28%, 31.39%, 37.34%)
+- Attempt 5 BHT: The religious leaders showed great vigilance by securing the tomb, though their actions contradicted their own laws. While the disciples may not have fully understood, it was no secret that Jesus had spoken of his resurrection. The crucifixion occurred on a Friday, followed by the Sabbath, which marked the beginning of the feast of unleavened bread. This demonstrates the religious leaders' meticulous efforts to ensure that the body of Jesus would not be tampered with or stolen.
+- 🔄 Matthew 27:62 (attempt 5, 77 words, 42.37% quotes quality score: 1.7298771602381833, V2 normalized quality score: 48.86, commentator tiers 1-3: 31.97%, 30.36%, 37.68%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 27:62 bht prompt v0.8 (87 words, 34.38% quotes)
+- quality score: 1.759589866146519, V2 normalized quality score: 49.85, commentator tiers 1-3: 32.6%, 29.64%, 37.76%)

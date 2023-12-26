@@ -1,18 +1,18 @@
 # Hebrews 12:19 Commentary Help Text
 
 ## BHT:
-When God spoke the Ten Commandments, the people were overwhelmed by the terrifying voice that issued forth without any visible form. The sound of a trumpet roused their attention and signaled God's approach. The people, overcome with fear, pleaded for Moses to intercede on their behalf, unable to bear the weight of God's direct communication. This stark contrast between the fearful nature of the Law and the love and grace of the Gospel demonstrates the severity of sin and the redemptive power found in faith.
+When God spoke to the people at Mount Sinai, they were not refusing to hear His words, but rather they were overwhelmed by the direct communication. The sound of the trumpet amidst the tempest intensified the fear of the scene. The voice of words, particularly the Decalogue, spoken by God Himself without any visible form, was so awe-inspiring that the people entreated for the word not to be spoken anymore. This interaction was intended to show that God had ascended His tribunal as a strict judge, but the Gospel offers love when received by faith.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The Writer avoids the word 'voice' there used, having so soon to speak of 'the voice of words'".
-2. "We must not understand that the people refused to hear the words of God, but deprecated hearing them from God Himself."
-3. "The person of Moses being interposed, in some degree mitigated their fear."
+1. "We must not understand that the people refused to hear the words of God, but deprecated hearing them from God Himself." 
+2. "The person of Moses being interposed, in some degree mitigated their fear." 
+3. "The Writer avoids the word 'voice' there used, having so soon to speak of 'the voice of words.'"
 
 ### Jamieson-Fausset-Brown:
 1. "trumpet—to rouse attention, and herald God's approach"
-2. "that speech should not be added to them"
-3. "The voice of words was the Decalogue, spoken by God Himself, a voice issuing forth, without any form being seen"
+2. "entreated that the word should not be spoken—literally, 'that speech should not be added to them'"
+3. "The voice of words was the Decalogue, spoken by God Himself, a voice issuing forth, without any form being seen: after which 'He added no more'"
 
 ### Albert Barnes:
 1. "The sound of the trumpet amidst the tempest was suited to increase the terror of the scene."
@@ -20,65 +20,67 @@ When God spoke the Ten Commandments, the people were overwhelmed by the terrifyi
 3. "It was so fearful and overpowering that the people earnestly prayed that if they must be addressed, it might he by the familiar voice of Moses and not by the awful voice of the Deity."
 
 ### Marvin Vincent:
-1. "Sound of a trumpet... A rumor or report." 
-2. "Voice of words." 
-3. "That no word more should be spoken unto them."
+1. "Voice of words"
+2. "Sound of a trumpet"
+3. "No word more should be spoken unto them"
 
 ### John Calvin:
-1. "The Law was very different from the Gospel; for when it was promulgated there was nothing but terrors on every side."
-2. "But the Gospel contains nothing but love, provided it be received by faith."
-3. "For everything we read of in the nineteenth chapter of Exodus was of this kind, and intended to show to the people that God had ascended his tribunal and manifested himself as a strict judge."
+1. "For everything we read of in the nineteenth chapter of Exodus was of this kind, and intended to show to the people that God had ascended his tribunal and manifested himself as a strict judge." 
+2. "But the Gospel contains nothing but love, provided it be received by faith." 
+3. "But by the words the people entreated, is not to be understood that they refused to hear God, but that they prayed not to be constrained to hear God himself speaking; for by the interposition of Moses their dread was somewhat mitigated."
 
 ### Archibald T. Robertson:
-1. "Unto blackness."
-2. "Darkness, old word, in Homer for the gloom of the world below."
-3. "The sound of a trumpet, from Exodus 19:16."
+1. "Unto blackness (γνοφω). Quoted here from Exodus 10:22."
+2. "Tempest (θυελλη). Old word from θυω (to boil, to rage), a hurricane, here only in N.T. From Exodus 10:22."
+3. "The voice of words (φωνη ρηματων). From Exodus 19:19; Deuteronomy 4:12."
 
 ### John Gill:
-1. "the sound of a trumpet... made it still more awful" 
-2. "the voice of words; of the ten words, or decalogue; which was as an articulate voice, formed by angels"
-3. "they that heard, entreated that the word should not be spoken to them any more: fearing that they should die"
+1. "And the sound of a trumpet.... made it still more awful, as the sound of the trumpet will at the last day."
+2. "the voice of the ten words, or decalogue; which was as an articulate voice, formed by angels; and, therefore, the law is called the word spoken by angels."
+3. "they that heard, entreated that the word should not be spoken to them any more: fearing that they should die."
 
 ### John Wesley:
-1. "The sound of a trumpet — Formed, without doubt, by the ministry of angels."
-2. "Preparatory to the words, that is, the Ten Commandments, which were uttered with a loud voice."
-3. "Deuteronomy 5:22."
+1. "The sound of a trumpet — formed by the ministry of angels."
+2. "Preparatory to the words, that is, the Ten Commandments."
+3. "Uttered with a loud voice."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 17:51:04
+- Timestamp: 12-25-2023 19:31:42
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 30.16%
-- BHT Quality Score: 1.7830171887619413
+- BHT Word Count: 96
+- BHT Commentary Usage: 38.46%
+- BHT Quality Score: 2.0297808154596804
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'and', 'any', 'approach', 'attention', 'bear', 'behalf', 'between', 'by', 'commandments', 'communication', 'contrast', 'demonstrates', 'direct', 'faith', 'fear', 'fearful', 'for', 'form', 'forth', 'found', 'god', 'gospel', 'grace', 'in', 'intercede', 'issued', 'law', 'love', 'moses', 'nature', 'of', 'on', 'overcome', 'overwhelmed', 'people', 'pleaded', 'power', 'redemptive', 'roused', 's', 'severity', 'signaled', 'sin', 'sound', 'spoke', 'stark', 'ten', 'terrifying', 'that', 'the', 'their', 'this', 'to', 'trumpet', 'unable', 'visible', 'voice', 'weight', 'were', 'when', 'with', 'without']
-- ChatGPT injected words (significant words only) (44):
-	['approach', 'attention', 'bear', 'behalf', 'commandments', 'communication', 'contrast', 'demonstrates', 'direct', 'faith', 'fear', 'fearful', 'form', 'forth', 'found', 'god', 'gospel', 'grace', 'intercede', 'issued', 'law', 'love', 'moses', 'nature', 'overcome', 'overwhelmed', 'people', 'pleaded', 'power', 'redemptive', 'roused', 's', 'severity', 'signaled', 'sin', 'sound', 'spoke', 'stark', 'terrifying', 'trumpet', 'unable', 'visible', 'voice', 'weight']
+- ChatGPT injected words (65):
+	['a', 'amidst', 'any', 'anymore', 'as', 'ascended', 'at', 'awe', 'be', 'but', 'by', 'communication', 'decalogue', 'direct', 'entreated', 'faith', 'fear', 'for', 'form', 'god', 'gospel', 'had', 'hear', 'himself', 'his', 'inspiring', 'intended', 'intensified', 'interaction', 'judge', 'love', 'mount', 'not', 'of', 'offers', 'overwhelmed', 'particularly', 'people', 'rather', 'received', 'refusing', 'scene', 'show', 'sinai', 'so', 'sound', 'spoke', 'spoken', 'strict', 'tempest', 'that', 'the', 'they', 'this', 'to', 'tribunal', 'trumpet', 'visible', 'voice', 'was', 'were', 'when', 'without', 'word', 'words']
+- ChatGPT injected words (significant words only) (40):
+	['amidst', 'anymore', 'ascended', 'awe', 'communication', 'decalogue', 'direct', 'entreated', 'faith', 'fear', 'form', 'god', 'gospel', 'hear', 'inspiring', 'intended', 'intensified', 'interaction', 'judge', 'love', 'mount', 'offers', 'overwhelmed', 'particularly', 'people', 'received', 'refusing', 'scene', 'sinai', 'sound', 'spoke', 'spoken', 'strict', 'tempest', 'tribunal', 'trumpet', 'visible', 'voice', 'word', 'words']
 
 ### Logs
-- Attempt 1 BHT: When God spoke the Ten Commandments, His voice was so terrifying that the people begged Moses to speak to them instead. The sound of a trumpet signaled God's approach, adding to the fear and anticipation. The voice of God was unlike anything they had ever experienced before – a voice issuing forth without any visible form. The Law brought only terror and strict judgment, illustrating God's holiness and the severity of sin. However, the Gospel is a message of love and grace, contrasting the fearful nature of the Law. The trumpeting of the sound and the voice of words produced an awe-inspiring scene that emphasized God's authority and power.
-- 🔄 Hebrews 12:19 (attempt 1, 112 words, 31.94% quotes quality score: 1.808530395207492, V2 normalized quality score: 51.48, commentator tiers 1-3: 25.81%, 43.15%, 31.05%) 
+- Attempt 1 BHT: The verse describes the fear and intensity experienced by the people when God spoke to them at Mount Sinai. The writer emphasizes that it was not that the people refused to hear God's words, but rather they were overwhelmed by the direct communication from Him. The sound of the trumpet amidst the tempest added to the terror of the scene. The voice of words, particularly the Decalogue, spoken by God without any visible form, was so awe-inspiring that the people entreated for the word not to be spoken to them anymore. The intent was to show the people that God had ascended His tribunal as a strict judge. Nonetheless, the Gospel is filled with love if received by faith.
+- 🔄 Hebrews 12:19 (attempt 1, 121 words, 39.24% quotes quality score: 1.921733612549573, V2 normalized quality score: 55.24, commentator tiers 1-3: 26.41%, 41.9%, 31.69%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The people at Mount Sinai did not refuse to hear God's words, but they were terrified to hear them directly from Him. Their fear was somewhat mitigated by the intercession of Moses. The sound of the trumpet amidst the tempest intensified the atmosphere of dread. The voice of words, particularly the Decalogue, was spoken by God Himself without any visible form. The people were so overwhelmed by the encounter that they entreated for the word not to be spoken to them anymore. God's intention was to display His role as a strict judge. However, the Gospel offers love when received by faith.
+- 🔄 Hebrews 12:19 (attempt 2, 104 words, 38.57% quotes quality score: 1.865140372819436, V2 normalized quality score: 53.36, commentator tiers 1-3: 29.35%, 39.4%, 31.25%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: When God spoke the Ten Commandments, the people were overcome with fear and pleaded for Moses to intercede on their behalf. The sound of a trumpet heralded God's approach, intensifying the atmosphere of awe and anticipation. The voice of God, issuing forth without any visible form, was unlike anything they had ever heard before. This experience of the law communicated the holiness and severity of sin. In contrast, the Gospel brings a message of love and grace, offering redemption through faith.
-- 🔄 Hebrews 12:19 (attempt 2, 82 words, 35.94% quotes quality score: 1.640108399534164, V2 normalized quality score: 45.88, commentator tiers 1-3: 24.04%, 42.44%, 33.52%) 
+- Attempt 3 BHT: The people did not refuse to hear God's words, but they were overwhelmed by the direct communication from Him. The sound of the trumpet amidst the tempest added to the terror of the scene. The voice of words, particularly the Decalogue, spoken by God without any visible form, was so awe-inspiring that the people entreated for the word not to be spoken anymore. The writer emphasizes that the intent was to show the people that God had ascended His tribunal as a strict judge. However, the Gospel is filled with love if received by faith.
+- 🔄 Hebrews 12:19 (attempt 3, 97 words, 40.91% quotes quality score: 1.9209570324863567, V2 normalized quality score: 55.21, commentator tiers 1-3: 27.22%, 40.87%, 31.92%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When God spoke the Ten Commandments, the people were overwhelmed by the terrifying voice that issued forth without any visible form. The sound of a trumpet roused their attention and signaled God's approach. The people, overcome with fear, pleaded for Moses to intercede on their behalf, unable to bear the weight of God's direct communication. This stark contrast between the fearful nature of the Law and the love and grace of the Gospel demonstrates the severity of sin and the redemptive power found in faith.
-- 🔄 Hebrews 12:19 (attempt 3, 87 words, 30.16% quotes quality score: 1.7830171887619413, V2 normalized quality score: 50.63, commentator tiers 1-3: 24.74%, 44.64%, 30.62%) 
+- Attempt 4 BHT: The people did not refuse to hear God's words, but they were overwhelmed by the direct communication from Him. The sound of the trumpet amidst the tempest added to the terror of the scene. The voice of words, particularly the Decalogue, spoken by God without any visible form, was so awe-inspiring that the people entreated for the word not to be spoken anymore. The intent was to show the people that God had ascended His tribunal as a strict judge. Nonetheless, the Gospel is filled with love if received by faith.
+- 🔄 Hebrews 12:19 (attempt 4, 93 words, 40.62% quotes quality score: 1.9235953256769398, V2 normalized quality score: 55.3, commentator tiers 1-3: 26.93%, 40.95%, 32.12%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The voice of God, speaking the Ten Commandments, struck fear into the hearts of the people, causing them to beg Moses to speak to them instead. The sound of a trumpet announced God's presence, adding to the sense of awe. God's voice was powerful and without any visible form, emphasizing the holiness and authority of His words. The Law, with its strict judgment, highlighted the severity of sin. In contrast, the Gospel brings a message of love and grace, offering redemption through faith.
-- 🔄 Hebrews 12:19 (attempt 4, 85 words, 27.12% quotes quality score: 1.7143970452613038, V2 normalized quality score: 48.35, commentator tiers 1-3: 26.14%, 40.78%, 33.08%) 
+- Attempt 5 BHT: When God spoke to the people at Mount Sinai, they were not refusing to hear His words, but rather they were overwhelmed by the direct communication. The sound of the trumpet amidst the tempest intensified the fear of the scene. The voice of words, particularly the Decalogue, spoken by God Himself without any visible form, was so awe-inspiring that the people entreated for the word not to be spoken anymore. This interaction was intended to show that God had ascended His tribunal as a strict judge, but the Gospel offers love when received by faith.
+- 🔄 Hebrews 12:19 (attempt 5, 96 words, 38.46% quotes quality score: 2.0297808154596804, V2 normalized quality score: 58.83, commentator tiers 1-3: 26.25%, 42.43%, 31.32%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: When God spoke the Ten Commandments, the people were filled with fear and pleaded for Moses to serve as an intermediary. The sound of a trumpet made the scene even more awe-inspiring, signaling God's approach. The voice of God resonated with authority, issuing forth without any visible form. This display of the law emphasized the strict judgment and severity of sin. In contrast, the Gospel is a message of love and grace, showing that faith brings redemption.
-- 🔄 Hebrews 12:19 (attempt 5, 79 words, 33.87% quotes quality score: 1.5930862021534389, V2 normalized quality score: 44.31, commentator tiers 1-3: 24.41%, 40.6%, 35.0%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Hebrews 12:19 bht prompt v0.8 (87 words, 30.16% quotes)
-- quality score: 1.7830171887619413, V2 normalized quality score: 50.63, commentator tiers 1-3: 24.74%, 44.64%, 30.62%)
+- ✅ Hebrews 12:19 bht prompt v0.8 (96 words, 38.46% quotes)
+- quality score: 2.0297808154596804, V2 normalized quality score: 58.83, commentator tiers 1-3: 26.25%, 42.43%, 31.32%)

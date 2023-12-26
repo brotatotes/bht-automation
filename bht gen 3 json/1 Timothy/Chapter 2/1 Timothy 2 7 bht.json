@@ -1,54 +1,54 @@
 {
-    "timestamp": "12-19-2023 17:27:56",
+    "timestamp": "12-25-2023 19:32:55",
     "verseRef": "1 Timothy 2:7",
     "bestBHT": {
-        "bht": "The author declares his ordination as a preacher and apostle, emphasizing his appointment and role as a living pattern of the Gospel. His ministry is exercised in the sphere of faith and truth, specifically as a teacher of the Gentiles. By stating I speak the truth, I lie not, he solemnly appeals to Christ and establishes his credibility. This appointment is a fulfillment of God's plan to bring the Gentiles into the gospel, a calling that he carries out with pure affection and an upright conscience.",
-        "wordCount": 87,
+        "bht": "As a teacher of the Gentiles, the apostle spoke the truth in Christ and never lied. His ministry was established in the sphere of faith and truth, and he was appointed as a preacher and apostle. His calling was not a mere technical ordination, but a divine purpose from all eternity. His proclamation of the gospel to the Gentiles was done with a pure affection, an upright conscience, and a fearless commitment to following God's command. In every aspect of his teaching, he faithfully preached the Gospel with integrity and veracity.",
+        "wordCount": 92,
         "quoteTokenProportion": 33.33,
-        "qualityScore": 1.9738115609384126,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+        "qualityScore": 2.0320019466875716,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.91,
         "commentatorTierSimilarities": [
-            24.48,
-            31.36,
-            44.15
+            29.76,
+            25.72,
+            44.52
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "I am ordained\u2014literally, 'I was set': the same Greek, as 'putting me.'",
-            "He recurs to himself [...] in himself a living pattern or announcement of the Gospel.",
+            "I am ordained... 'I was set'... a herald and teacher of (it to) the Gentiles.\" ",
+            "I speak the truth... and lie not.\" ",
             "The sphere in which his ministry was appointed to be exercised was the faith and the truth."
         ],
         "Albert Barnes": [
-            "I am placed or constituted...to this work, or appointed to it.",
-            "I speak the truth in Christ, and lie not - That is, by Christ; or I solemnly appeal to Christ - a form of an oath.",
-            "A teacher of the Gentiles - Specially appointed to carry the gospel to the Gentiles or the pagan."
+            "I am ordained - Greek, 'I am placed or constituted' - \u03b5\u0313\u03c4\u03b5\u0301\u03b8\u03b7\u03bd etethe\u0304n. The word 'ordain' has now acquired a technical signification, meaning to set apart solemnly to a sacred office by the imposition of hands; but it has not that meaning here.",
+            "I speak the truth in Christ, and lie not - That is, by Christ; or I solemnly appeal to Christ - a form of an oath...",
+            "A teacher of the Gentiles - Specially appointed to carry the gospel to the Gentiles or the pagan; see the Romans 11:13 note; Galatians 2:7 note."
         ],
         "Marvin Vincent": [
-            "I am ordained [\u03b5\u03c4\u03b5\u03b8\u03b7\u03bd \u03b5\u03b3\u03c9]. Better, Iwas appointed.\" ",
-            "A preacher [\u03ba\u03b7\u03c1\u03c5\u03be]. Lit. a herald.",
-            "In faith and verity [\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1]. Or faith and truth."
+            "I speak the truth in Christ and lie not.",
+            "A teacher of the Gentiles.",
+            "Faith and truth are the element or sphere in which the apostolic function is discharged."
         ],
         "John Calvin": [
             "God had appointed him for this purpose, that he might bring the Gentiles... to have a share in the gospel.\" ",
-            "His apostleship was a sure foundation of the divine calling.\" ",
+            "His apostleship was a sure foundation of the divine calling.",
             "He preaches the gospel to the Gentiles, not only with pure affection, but also with an upright and fearless conscience; because he does nothing but by the command of God."
         ],
         "Philip Schaff": [
-            "It might have been thought that in writing to one like Timothy, loving and beloved, there would have been little need for this vindication of his authority...",
-            "Here the strong asseveration ('I speak truth, I lie not,' as in Romans 9:1) and the emphatic pronoun are perhaps intended to emphasize the marvel that such an one as he had been had been called to that high office.",
-            "Looking, however, to the objective sense of 'truth' in 1 Timothy 2:4, it would seem better to take the word in its higher sense here as defining the region in which he was a teacher, that region being the faith in man, answering to the truth revealed in Christ."
+            "I speak truth, I lie not.\" ",
+            "The necessity for so vindicating his position had formed a habit.",
+            "The region in which he was a teacher, that region being the faith in man, answering to the truth revealed in Christ."
         ],
         "Archibald T. Robertson": [
-            "I was appointed.\" ",
-            "Preacher and apostle.",
-            "I speak the truth, I lie not."
+            "I was appointed...Preacher and apostle.\" ",
+            "I speak the truth, I lie not.",
+            "Here alone he calls himself 'a teacher of the Gentiles,' elsewhere apostle, minister, prisoner."
         ],
         "John Gill": [
-            "He was ordained or appointed to be a preacher of the Gospel from all eternity, and was separated or set apart unto it in time, and was put into the ministry of it by Christ himself.\" ",
-            "I speak the truth in Christ, and lie not; which are a sort of an oath, or an appeal to Christ the omniscient God, for the truth of what he said, concerning his ordination to the Gospel.",
-            "A teacher of the Gentiles in faith and verity; the Gospel of the uncircumcision, or which was to be preached to the uncircumcised Gentiles, was committed to this apostle."
+            "He was ordained or appointed to be a preacher of the Gospel from all eternity, and was separated or set apart unto it in time.",
+            "I speak the truth in Christ, and lie not; which are a sort of an oath, or an appeal to Christ the omniscient God.",
+            "He was a true and faithful [teacher], who with all integrity and veracity, fully and faithfully preached the Gospel."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In the verse, the author declares, I am ordained, emphasizing his appointment as a preacher and apostle. By stating I speak the truth, I lie not, he establishes his credibility, perhaps due to the marvel that such an individual has been called to such a high office. His ministry was to be exercised in the faith and truth, teaching the Gentiles in faith and verity. This appointment is seen as part of God's eternal plan, as he brings the Gentiles to share in the gospel through the work of this appointed apostle.",
-            "wordCount": 93,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 1.9417313555572815,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "bht": "As a teacher of the Gentiles, the apostle spoke the truth in Christ and never lied. His ministry was established in the sphere of faith and truth, and he was appointed as a preacher and apostle. This calling was not a mere technical ordination, but a divine purpose from all eternity. His proclamation of the gospel to the Gentiles was done with pure affection, an upright conscience, and a fearless commitment to following God's command. In every aspect of his teaching, he was a true and faithful instructor, faithfully preaching the Gospel with integrity and veracity. His apostleship was a firm foundation, firmly grounded in the divine calling.",
+            "wordCount": 109,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.9186257560811164,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
             "commentatorTierSimilarities": [
-                25.59,
-                32.94,
-                41.46
+                28.98,
+                25.81,
+                45.2
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The author affirms being appointed as a preacher, speaking the truth and not lying. This appointment was for the purpose of teaching the Gentiles in faith and verity, carrying the gospel to them. It is seen as a marvel that someone like him has been called to such a high office. This appointment is part of God's divine plan to bring the Gentiles into the gospel.",
-            "wordCount": 67,
-            "quoteTokenProportion": 46.94,
-            "qualityScore": 1.760382382180381,
-            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "bht": "As a teacher of the Gentiles, the apostle spoke the truth in Christ and never lied. His ministry was established in the sphere of faith and truth, and he was appointed as a preacher and apostle. His calling was not a mere technical ordination, but a divine purpose from all eternity. His proclamation of the gospel to the Gentiles was done with a pure affection, an upright conscience, and a fearless commitment to following God's command. In every aspect of his teaching, he faithfully preached the Gospel with integrity and veracity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0320019466875716,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
             "commentatorTierSimilarities": [
-                22.61,
-                31.72,
-                45.67
+                29.76,
+                25.72,
+                44.52
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The author declares his ordination as a preacher and apostle, emphasizing his appointment and role as a living pattern of the Gospel. His ministry is exercised in the sphere of faith and truth, specifically as a teacher of the Gentiles. By stating I speak the truth, I lie not, he solemnly appeals to Christ and establishes his credibility. This appointment is a fulfillment of God's plan to bring the Gentiles into the gospel, a calling that he carries out with pure affection and an upright conscience.",
-            "wordCount": 87,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 1.9738115609384126,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "bht": "As a teacher of the Gentiles, the apostle Paul emphasized his sincerity in speaking the truth in Christ and never lying. His ministry was centered around the spheres of faith and truth, and he saw himself as appointed to be a preacher and apostle. This appointment was not a mere technical ordination, but a divine purpose from all eternity. Paul's dedication to proclaiming the gospel to the Gentiles was characterized by pure affection, an upright conscience, and a fearless commitment to following God's command. In every aspect of his teaching, he was known for his integrity and veracity, faithfully preaching the Gospel.",
+            "wordCount": 104,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.9721854460202786,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
             "commentatorTierSimilarities": [
-                24.48,
-                31.36,
-                44.15
+                29.62,
+                26.73,
+                43.65
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The author acknowledges being ordained as a preacher, emphasizing his appointment as a living pattern of the Gospel. His ministry is exercised in faith and truth, specifically as a teacher of the Gentiles. By stating I speak the truth, I lie not, he solemnly appeals to Christ for credibility. This appointment fulfills God's plan to bring the Gentiles into the gospel, which he carries out with pure affection and an upright conscience by the command of God.",
-            "wordCount": 78,
-            "quoteTokenProportion": 38.18,
-            "qualityScore": 1.9449621488850617,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "bht": "The apostle, as a teacher of the Gentiles, emphasized his commitment to speaking the truth in Christ and never lying. His appointed ministry was firmly grounded in the spheres of faith and truth. He saw himself as both a preacher and an apostle, actively engaging in proclaiming the gospel to the Gentiles. Paul's dedication extended beyond a technical ordination, as his divine appointment was established from eternity past. His teaching demonstrated pure affection, an upright conscience, and a fearless obedience to God's command, faithfully preaching the Gospel with integrity and veracity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.9423528383857405,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
             "commentatorTierSimilarities": [
-                24.19,
-                31.38,
-                44.43
+                29.78,
+                27.01,
+                43.21
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The author asserts his appointment as a preacher, emphasizing his role as a living pattern of the Gospel. He teaches the Gentiles in faith and truth, speaking the truth in Christ and appealing to Him for credibility. This appointment fulfills God's plan to bring the Gentiles into the gospel, and he carries out this divine calling with pure affection and an upright conscience under the command of God.",
-            "wordCount": 69,
-            "quoteTokenProportion": 36.17,
-            "qualityScore": 1.8699667420875221,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "bht": "The apostle Paul, a teacher of the Gentiles, emphasized his commitment to speaking the truth in Christ and never lying. His appointed ministry was centered on the spheres of faith and truth, as he saw himself as both a preacher and an apostle. Paul's dedication to proclaiming the gospel to the Gentiles was characterized by pure affection, an upright conscience, and a fearless commitment to following God's command. With integrity and veracity, he faithfully preached the Gospel, firmly grounded in his divine calling from eternity past.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.0175284289598254,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
             "commentatorTierSimilarities": [
-                21.65,
-                28.85,
-                49.5
+                29.14,
+                27.05,
+                43.81
             ],
             "generationAttempt": 5
         }

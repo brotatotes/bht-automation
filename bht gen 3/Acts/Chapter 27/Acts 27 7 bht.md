@@ -1,17 +1,17 @@
 # Acts 27:7 Commentary Help Text
 
 ## BHT:
-The ship's journey from Myra to Cnidus was impeded by contrary winds, causing them to sail slowly for many days. Seeking shelter, they sailed under the protection of Crete to ease the impact of the wind. The prevailing N.W. winds in the Mediterranean during that season created challenges for their progress. Had it not been for the opposing wind, they could have completed the distance in a single day. Understanding these geographical and meteorological obstacles enhances our comprehension of their arduous voyage.
+The ship in question encountered numerous difficulties while sailing from Myra to Cnidus due to contrary winds. These opposing winds, specifically the prevailing northwesterly winds during the summer months, hindered their progress, forcing them to sail slowly and with great effort for multiple days. To find some respite from the wind, they opted to sail under the lee of Crete, benefiting from the relative shelter and favorable current. Nonetheless, despite the challenging conditions, the crew did not abandon their determination to continue the voyage.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "We learn from the sailing directions for the Mediterranean, that, throughout the whole of that sea, but mostly in the eastern half, including the Adriatic and Archipelago, N.W. winds prevail in the summer months..." (commentary)
-2. "With N.W. winds the ship could work up from Myra to Cnidus; because, until she reached that point, she had the advantage of a weather shore, under the lee of which she would have smooth water." (commentary)
-3. "At Cnidus that advantage ceased." (commentary)
+1. "We learn from the sailing directions for the Mediterranean, that, throughout the whole of that sea, but mostly in the eastern half, including the Adriatic and Archipelago, N.W. winds prevail in the summer months..."
+2. "With N.W. winds the ship could work up from Myra to Cnidus; because, until she reached that point, she had the advantage of a weather shore, under the lee of which she would have smooth water, and as formerly mentioned, a westerly current; but it would be slowly and with difficulty."
+3. "At Cnidus that advantage ceased."
 
 ### Jamieson-Fausset-Brown:
 1. "sailed slowly many days—owing to contrary winds." 
-2. "and scarce-"with difficulty." 
+2. "scarce—with difficulty." 
 3. "But for the contrary wind they might have made the distance from Myra (one hundred thirty miles) in one day."
 
 ### Albert Barnes:
@@ -20,22 +20,24 @@ The ship's journey from Myra to Cnidus was impeded by contrary winds, causing th
 3. "We sailed under Crete - See Acts 27:4. We lay along near to Crete, so as to break the violence of the wind."
 
 ### Marvin Vincent:
-1. "The meaning is not that they had scarcely reached Cnidus when the wind became contrary, nor that they had come only as far as Cnidus in many days; but that they were retarded by contrary winds between Myra and Cnidus, a distance of about one hundred and thirty miles, which, with a favorable wind, they might have accomplished in a day."
+1. "The meaning is not that they had scarcely reached Cnidus when the wind became contrary, nor that they had come only as far as Cnidus in many days; but that they were retarded by contrary winds between Myra and Cnidus." 
+2. "Such a contrary wind would have been the northwesterly, which prevails during the summer months in that part of the Archipelago."
+3. "They were retarded by contrary winds between Myra and Cnidus, a distance of about one hundred and thirty miles, which, with a favorable wind, they might have accomplished in a day."
 
 ### Philip Schaff:
-1. "The Greek word μόλις, translated 'scarce,' really expresses difficulty and struggle."
-2. "The wind not suffering us."
-3. "Here they would obtain the same advantages as before, under the shore of Asia Minor, as to comparative shelter and a favourable current."
+1. "The question arises as to the cause of this slow sailing. It must have been either from lack of wind, or because the wind was contrary."
+2. "The wind not suffering us ... does not appear that at this time they had relinquished their intention of prosecuting their voyage."
+3. "Sailed under Crete, i.e. under its lee. Here they would obtain the same advantages as before, under the shore of Asia Minor, as to comparative shelter and a favourable current."
 
 ### Archibald T. Robertson:
-1. "Many days (εν ικαναις ημεραις). Literally, 'in considerable days.'" 
-2. "With difficulty (μολις). Used in old Greek, like μογις (Luke 9:39) from μολος, toil (see Acts 14:18)."
-3. "We sailed under the lee of Crete (υπεπλευσαμεν την Κρητην). See under verse Acts 27:4. Instead of going to the right of Crete as the straight course would have been they sailed southwest with Crete to their right and got some protection against the wind there."
+1. "When we had sailed slowly (βραδυπλοουντες). Literally, 'sailing slowly,' not 'having or had sailed slowly.'"
+2. "With difficulty (μολις). Used in old Greek, like μογις (Luke 9:39) from μολος, toil."
+3. "We sailed under the lee of Crete (υπεπλευσαμεν την Κρητην). Instead of going to the right of Crete as the straight course would have been they sailed southwest with Crete to their right and got some protection against the wind there."
 
 ### John Gill:
-1. "It was a city and promontory in Doris, in the Chersonese or peninsula of Caria, famous for the marble statue of Venus made by Praxiteles"
-2. "Jerom says, it was a famous island over against Asia, joining to the province of Caria"
-3. "because, as both Pausanias and Strabo say, it was joined by a bridge or causeway to the continent"
+1. "And when we had sailed slowly many days...the ship being laden with goods." 
+2. "Cnidus...was the birthplace of Eudoxus, a famous philosopher, astrologer, geometrician, physician and lawgiver." 
+3. "We sailed under Crete...over against Salmone; now called Capo Salamone: this...island of Crete."
 
 ### John Wesley:
 1. Cnidus — was a cape and city of Caria.
@@ -44,39 +46,37 @@ The ship's journey from Myra to Cnidus was impeded by contrary winds, causing th
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:37:05
+- Timestamp: 12-25-2023 19:29:42
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 84
-- BHT Commentary Usage: 37.88%
-- BHT Quality Score: 1.9055894201710788
+- BHT Commentary Usage: 29.69%
+- BHT Quality Score: 2.17318888102505
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'and', 'arduous', 'been', 'by', 'causing', 'challenges', 'cnidus', 'completed', 'comprehension', 'contrary', 'could', 'created', 'crete', 'day', 'days', 'distance', 'during', 'ease', 'enhances', 'for', 'from', 'geographical', 'had', 'have', 'impact', 'impeded', 'in', 'it', 'journey', 'many', 'mediterranean', 'meteorological', 'myra', 'n', 'not', 'obstacles', 'of', 'opposing', 'our', 'prevailing', 'progress', 'protection', 's', 'sail', 'sailed', 'season', 'seeking', 'shelter', 'ship', 'single', 'slowly', 'that', 'the', 'their', 'them', 'these', 'they', 'to', 'under', 'understanding', 'voyage', 'w', 'was', 'wind', 'winds']
-- ChatGPT injected words (significant words only) (41):
-	['arduous', 'causing', 'challenges', 'cnidus', 'completed', 'comprehension', 'contrary', 'created', 'crete', 'day', 'days', 'distance', 'ease', 'enhances', 'geographical', 'impact', 'impeded', 'journey', 'mediterranean', 'meteorological', 'myra', 'n', 'obstacles', 'opposing', 'prevailing', 'progress', 'protection', 's', 'sail', 'sailed', 'season', 'seeking', 'shelter', 'ship', 'single', 'slowly', 'understanding', 'voyage', 'w', 'wind', 'winds']
+- ChatGPT injected words (64):
+	['abandon', 'and', 'benefiting', 'challenging', 'cnidus', 'conditions', 'continue', 'contrary', 'crete', 'crew', 'current', 'days', 'despite', 'determination', 'did', 'difficulties', 'due', 'during', 'effort', 'encountered', 'favorable', 'find', 'for', 'forcing', 'from', 'great', 'hindered', 'in', 'lee', 'months', 'multiple', 'myra', 'nonetheless', 'northwesterly', 'not', 'numerous', 'of', 'opposing', 'opted', 'prevailing', 'progress', 'question', 'relative', 'respite', 'sail', 'sailing', 'shelter', 'ship', 'slowly', 'some', 'specifically', 'summer', 'the', 'their', 'them', 'these', 'they', 'to', 'under', 'voyage', 'while', 'wind', 'winds', 'with']
+- ChatGPT injected words (significant words only) (45):
+	['abandon', 'benefiting', 'challenging', 'cnidus', 'conditions', 'continue', 'contrary', 'crete', 'crew', 'current', 'days', 'despite', 'determination', 'difficulties', 'effort', 'encountered', 'favorable', 'find', 'forcing', 'great', 'hindered', 'lee', 'months', 'multiple', 'myra', 'nonetheless', 'northwesterly', 'numerous', 'opposing', 'opted', 'prevailing', 'progress', 'question', 'relative', 'respite', 'sail', 'sailing', 'shelter', 'ship', 'slowly', 'specifically', 'summer', 'voyage', 'wind', 'winds']
 
 ### Logs
-- Attempt 1 BHT: The ship mentioned in the verse faced difficulties due to contrary winds between Myra and Cnidus, leading to slow progress for many days. They sailed under the protection of Crete and sought shelter to break the wind's force. The prevailing N.W. winds in that region and time of year posed challenges for their journey. Had it not been for the opposing wind, they could have covered the distance between Myra and Cnidus in just one day. This information sheds light on the physical obstacles faced by the ship and the impact of wind patterns on their progress.
-- 🔄 Acts 27:7 (attempt 1, 99 words, 36.36% quotes quality score: 1.9178868703986638, V2 normalized quality score: 55.11, commentator tiers 1-3: 45.32%, 41.58%, 13.11%) 
+- Attempt 1 BHT: The ship in Acts 27:7 faced difficulties as they sailed from Myra to Cnidus due to contrary winds. These winds, specifically the northwesterly winds that prevail in the summer months, caused the ship to sail slowly and with difficulty for many days. The ship sailed under the lee of Crete in order to find some protection against the wind. This choice allowed them to benefit from the comparative shelter and a favorable current. Even though the ship faced challenges, they did not give up on their intention of continuing their voyage.
+- 🔄 Acts 27:7 (attempt 1, 90 words, 43.75% quotes quality score: 2.0476400853741175, V2 normalized quality score: 59.43, commentator tiers 1-3: 40.36%, 47.15%, 12.49%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The ship encountered hinderances from contrary winds between Myra and Cnidus, causing a slow journey for numerous days. Seeking protection, they sailed under the shelter of Crete, aiming to diminish the wind's strength. Prevailing N.W. winds in that area and time obstructed their progress. Without the opposing wind, they could have covered the Myra-Cnidus distance in a single day. This understanding of the physical challenges and impact of wind patterns enhances our comprehension of their voyage.
-- 🔄 Acts 27:7 (attempt 2, 79 words, 30.0% quotes quality score: 1.8469103701441831, V2 normalized quality score: 52.75, commentator tiers 1-3: 46.29%, 42.3%, 11.41%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The ship faced contrary winds as it sailed from Myra to Cnidus, causing them to sail slowly and with difficulty. These northwesterly winds prevail in the summer months and had a significant impact on their journey. However, the ship found some relief by sailing under the lee of Crete, where they could benefit from comparative shelter and a favorable current. Despite these challenges, the sailors did not give up on their intention to continue the voyage.
+- 🔄 Acts 27:7 (attempt 2, 76 words, 43.33% quotes quality score: 2.1021618860115394, V2 normalized quality score: 61.24, commentator tiers 1-3: 42.41%, 46.52%, 11.07%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Navigating through the Mediterranean, the ship faced adverse conditions caused by contrary winds between Myra and Cnidus, resulting in a slow voyage that lasted for several days. Seeking refuge, they sailed under the protection of Crete to mitigate the force of the wind. The prevalence of N.W. winds during that time and region impeded their progress. Had it not been for the opposing wind, they could have reached their destination in just one day. Understanding the geographical and meteorological factors at play enriches our comprehension of their challenging journey.
-- 🔄 Acts 27:7 (attempt 3, 90 words, 37.14% quotes quality score: 1.837289831391386, V2 normalized quality score: 52.43, commentator tiers 1-3: 42.31%, 43.84%, 13.85%) 
+- Attempt 3 BHT: The ship in question encountered numerous difficulties while sailing from Myra to Cnidus due to contrary winds. These opposing winds, specifically the prevailing northwesterly winds during the summer months, hindered their progress, forcing them to sail slowly and with great effort for multiple days. To find some respite from the wind, they opted to sail under the lee of Crete, benefiting from the relative shelter and favorable current. Nonetheless, despite the challenging conditions, the crew did not abandon their determination to continue the voyage.
+- 🔄 Acts 27:7 (attempt 3, 84 words, 29.69% quotes quality score: 2.17318888102505, V2 normalized quality score: 63.6, commentator tiers 1-3: 43.51%, 48.24%, 8.25%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The ship's journey from Myra to Cnidus was impeded by contrary winds, causing them to sail slowly for many days. Seeking shelter, they sailed under the protection of Crete to ease the impact of the wind. The prevailing N.W. winds in the Mediterranean during that season created challenges for their progress. Had it not been for the opposing wind, they could have completed the distance in a single day. Understanding these geographical and meteorological obstacles enhances our comprehension of their arduous voyage.
-- 🔄 Acts 27:7 (attempt 4, 84 words, 37.88% quotes quality score: 1.9055894201710788, V2 normalized quality score: 54.7, commentator tiers 1-3: 44.09%, 42.89%, 13.02%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: The ship faced contrary winds as it sailed from Myra to Cnidus, causing them to sail slowly and with difficulty. These northwesterly winds prevail in the summer months and had a significant impact on their journey. However, the ship found some relief by sailing under the lee of Crete, where they could benefit from the comparative shelter and a favorable current. Despite these challenges, the sailors did not give up on their intention to continue the voyage.
+- 🔄 Acts 27:7 (attempt 4, 77 words, 43.33% quotes quality score: 2.1060428678072363, V2 normalized quality score: 61.37, commentator tiers 1-3: 42.35%, 46.57%, 11.08%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The ship encountered strong opposing winds between Myra and Cnidus, resulting in a slow journey for many days. Seeking protection, they sailed under Crete's lee to find some relief from the wind. The prevalent N.W. winds in the Mediterranean during that season posed challenges to their progress. If it hadn't been for the contrary wind, they could have reached their destination in just one day. Understanding these geographical and meteorological factors deepens our appreciation of the difficulties they faced on their voyage.
-- 🔄 Acts 27:7 (attempt 5, 85 words, 37.68% quotes quality score: 1.829924517284978, V2 normalized quality score: 52.19, commentator tiers 1-3: 47.03%, 42.42%, 10.54%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: The ship encountered contrary winds, specifically the prevailing northwesterly winds, while sailing from Myra to Cnidus. This resulted in them sailing slowly and facing great difficulty for many days. Seeking respite, they sailed under the lee of Crete, taking advantage of the shelter and favorable current. Despite the challenges, they persevered in their determination to continue the voyage and did not give up.
+- 🔄 Acts 27:7 (attempt 5, 63 words, 36.0% quotes quality score: 1.9597330064451124, V2 normalized quality score: 56.5, commentator tiers 1-3: 42.72%, 45.21%, 12.08%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 27:7 bht prompt v0.8 (84 words, 37.88% quotes)
-- quality score: 1.9055894201710788, V2 normalized quality score: 54.7, commentator tiers 1-3: 44.09%, 42.89%, 13.02%)
+- ✅ Acts 27:7 bht prompt v0.8 (84 words, 29.69% quotes)
+- quality score: 2.17318888102505, V2 normalized quality score: 63.6, commentator tiers 1-3: 43.51%, 48.24%, 8.25%)

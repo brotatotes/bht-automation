@@ -1,45 +1,45 @@
 {
-    "timestamp": "12-19-2023 16:16:41",
+    "timestamp": "12-25-2023 19:34:55",
     "verseRef": "Luke 7:49",
     "bestBHT": {
-        "bht": "The woman's faith in Jesus led to her overwhelming love and the formal pronouncement of forgiveness. Hearing Jesus forgive sins challenged the Pharisees' expectation, as they questioned who He truly was. All sinners, regardless of the extent of their guilt, owe a debt to Jesus, the Great Creditor who has the authority to forgive. Jesus, perceiving their thoughts, affirmed His divine prerogative. Faith, rather than love, is the means by which salvation is obtained, emphasizing that grace is freely given.",
-        "wordCount": 81,
-        "quoteTokenProportion": 36.07,
-        "qualityScore": 1.9859434092014143,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+        "bht": "The woman's faith embraced and awakened her deepest love on account of the forgiveness that Jesus pronounced. This scene teaches two weighty truths: all sinners share the inability to wipe out the dishonor done to God, and the prerogative of forgiving sin belongs to Christ, the Great Creditor. The Pharisees were startled at Jesus assuming the prerogative of forgiving sins, questioning who he could be. However, ignorance of Christ's office and failure to examine their own wretched condition led them to be offended and filled with indignation against him.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 2.0660628343588767,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.04,
         "commentatorTierSimilarities": [
-            37.68,
-            29.36,
-            32.96
+            38.53,
+            25.28,
+            36.19
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The woman\u2019s faith embraced as her own, and awoke her deepest love on account of, that forgiveness, which the Lord now first formally pronounced.",
-            "In (literally into) peace: see 1 Sam. i. 17; not only 'in peace,' but implying state of mind to which she might now look forward."
+            "The woman\u2019s faith embraced as her own, and awoke her deepest love on account of, that forgiveness, which the Lord now first formally pronounced.\" ",
+            "In (literally into) peace: see 1 Sam. i. 17; not only \u2018in peace,\u2019 but implying state of mind to which she might now look forward."
         ],
         "Jamieson-Fausset-Brown": [
             "No wonder they were startled to hear One who was reclining at the same couch, and partaking of the same hospitalities with themselves, assume the awful prerogative of 'even forgiving sins.'\" ",
-            "Though there be degrees of guilt, insolvency, or inability to wipe out the dishonor done to God, is common to all sinners.",
+            "This wonderful scene teaches two very weighty truths: (1) Though there be degrees of guilt, insolvency, or inability to wipe out the dishonor done to God, is common to all sinners.",
             "As Christ is the Great Creditor to whom all debt, whether great or small, contracted by sinners is owing, so to Him belongs the prerogative of forgiving it."
         ],
         "Albert Barnes": [
             "Who is this ... - A very pertinent question. Who could he be but God? Man could not do it, and there is no wonder that they were amazed."
         ],
         "Marvin Vincent": [
-            "They began. Luke notes the first uprising of the thought.",
             "Within themselves [\u03b5\u03bd \u03b5\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2] . Better, among themselves, as Rev., in margin.",
-            "Also [\u03ba\u03b1\u03b9] . Much better as Rev., 'who even forgiveth sins.'"
+            "Also [\u03ba\u03b1\u03b9] . Much better as Rev., 'who even forgiveth sins.'",
+            "Luke notes the first uprising of the thought."
         ],
         "John Calvin": [
-            "Ignorance of Christ\u2019s office constantly leads men to conceive new grounds of offense.",
-            "No one examines his own wretched condition, which undoubtedly would arouse every man to seek a remedy.",
+            "Ignorance of Christ's office constantly leads men to conceive new grounds of offense.",
+            "The root of the evil is, that no one examines his own wretched condition, which undoubtedly would arouse every man to seek a remedy.",
             "There is no reason to wonder that hypocrites, who slumber amidst their vices, should murmur at it as a thing new and unexpected, when Christ forgives sins."
         ],
         "Philip Schaff": [
-            "Thy faith hath saved thee. Not love. Love is to convince others, faith lays hold of grace, and thus love is begotten.",
-            "Growing as she wept and washed His feet, it laid hold more and more fully of the pardon it expected, and received at length the full absolution.",
+            "Love is to convince others, faith lays hold of grace, and thus love is begotten.",
+            "It was faith, the hope of a penitent based on the words and the character of Jesus, which brought her to the house of Simon.",
             "If we consider well to whom these words were spoken, we will not forget that grace is free, or exalt our love into a ground of pardon."
         ],
         "Archibald T. Robertson": [
@@ -48,8 +48,8 @@
         ],
         "John Gill": [
             "Who is this that forgiveth sins also?",
-            "He assumes that to himself which is peculiar to God, to forgive sin.",
-            "They censuring and reproaching him for wickedness and blasphemy."
+            "Assumes that to himself which is peculiar to God, to forgive sin.",
+            "Offended with him, and filled with indignation against him."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -69,67 +69,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The woman in this verse expressed her faith in Jesus and through that faith, she experienced deep love and forgiveness. It is no surprise that those around her were startled by Jesus' ability to forgive sins. All sinners, regardless of the degree of their guilt, owe a debt to Christ, who has the authority to forgive. Jesus recognized the thoughts of those around Him and addressed their disbelief. The question Who is this that forgiveth sins also? is a relevant one, for only God has the power to forgive sins. It is through faith, not love, that one is saved and receives the full absolution of sins. We must not forget that grace is freely given, and our love should not be elevated as a basis for forgiveness.",
-            "wordCount": 128,
-            "quoteTokenProportion": 46.67,
-            "qualityScore": 2.034426190474528,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "bht": "The woman's faith embraced and awakened her deepest love on account of the forgiveness that Jesus pronounced. This scene teaches two weighty truths: all sinners share the inability to wipe out the dishonor done to God, and the prerogative of forgiving sin belongs to Christ, the Great Creditor. The Pharisees, startled at Jesus assuming the prerogative of forgiving sins, questioned who he could be but God. However, ignorance of Christ's office and failure to examine their own wretched condition led them to be offended and filled with indignation against him. Jesus, always knowing their thoughts, read their inmost thoughts as he forgave the woman's sins.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.115880899695989,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.69,
             "commentatorTierSimilarities": [
-                33.46,
-                30.45,
-                36.09
+                38.8,
+                25.2,
+                36.0
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The woman's profound faith inspired her deepest love, prompting Jesus to formally pronounce forgiveness. The audacity of Jesus forgiving sins while sharing the same meal as the Pharisees astounded them. Regardless of the varying degrees of guilt, all sinners are indebted to Christ, the Great Creditor who possesses the prerogative to forgive. Jesus astutely perceived the thoughts within their hearts, reaffirming his divine authority. Faith, rather than love, secures salvation, reminding us that grace is freely given and not earned through our love alone.",
-            "wordCount": 85,
-            "quoteTokenProportion": 34.78,
-            "qualityScore": 1.9689144966957794,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+            "bht": "The woman's faith embraced and awakened her deepest love on account of the forgiveness that Jesus pronounced. This scene teaches two weighty truths: all sinners share the inability to wipe out the dishonor done to God, and the prerogative of forgiving sin belongs to Christ, the Great Creditor. The Pharisees were startled at Jesus assuming the prerogative of forgiving sins, questioning who he could be. However, ignorance of Christ's office and failure to examine their own wretched condition led them to be offended and filled with indignation against him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.0660628343588767,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
             "commentatorTierSimilarities": [
-                39.44,
-                27.48,
-                33.08
+                38.53,
+                25.28,
+                36.19
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The woman's faith in Jesus led to her overwhelming love and the formal pronouncement of forgiveness. Hearing Jesus forgive sins challenged the Pharisees' expectation, as they questioned who He truly was. All sinners, regardless of the extent of their guilt, owe a debt to Jesus, the Great Creditor who has the authority to forgive. Jesus, perceiving their thoughts, affirmed His divine prerogative. Faith, rather than love, is the means by which salvation is obtained, emphasizing that grace is freely given.",
-            "wordCount": 81,
-            "quoteTokenProportion": 36.07,
-            "qualityScore": 1.9859434092014143,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "bht": "The woman's faith embraced and awakened her deepest love on account of the forgiveness that Jesus pronounced. This scene teaches two weighty truths: all sinners share the inability to wipe out the dishonor done to God, and the prerogative of forgiving sin belongs to Christ, the Great Creditor. The Pharisees were startled at Jesus assuming the prerogative of forgiving sins, questioning who he could be. However, ignorance of Christ's office and failure to examine their own wretched condition led them to be offended and filled with indignation against him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.0660628343588767,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
             "commentatorTierSimilarities": [
-                37.68,
-                29.36,
-                32.96
+                38.53,
+                25.28,
+                36.19
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The woman's faith embraced the forgiveness pronounced by Jesus, evoking her deepest love. While sharing the same meal, Jesus astonishes the Pharisees by assuming the tremendous authority of forgiving sins. All sinners, irrespective of their guilt, are insolvent and reliant on Christ as the Great Creditor to absolve them. Jesus acutely discerns their thoughts, highlighting His divine knowledge. Salvation is attained through faith, not love. It is essential to recognize that grace is freely given and not contingent on our love for pardon.",
-            "wordCount": 84,
-            "quoteTokenProportion": 33.85,
-            "qualityScore": 1.91747798496252,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "bht": "The woman's faith embraced and awakened her deepest love, as Jesus formally pronounced her forgiveness. This scene highlights two important truths: all sinners are incapable of wiping out the dishonor done to God, and only Christ, as the Great Creditor, has the prerogative to forgive. The Pharisees, startled by Jesus claiming the power to forgive sins, questioned who he could be. Ignorance of Christ's office and failure to acknowledge their own wretched condition fueled their offense and indignation towards him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.063820607067726,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
             "commentatorTierSimilarities": [
-                38.17,
-                29.63,
-                32.2
+                38.58,
+                25.15,
+                36.27
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The woman's faith led to her deepest love, as she embraced the forgiveness pronounced by Jesus. The Pharisees were startled by Jesus' audacity to forgive sins while reclining and partaking in the same meal. Christ, as the Great Creditor, holds the prerogative to forgive the debt of sinners. Jesus accurately discerned the thoughts within their hearts, asserting His divine authority. Salvation is attained through faith, not love, as grace is freely given and not contingent on our own merits.",
-            "wordCount": 80,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 1.9372504826109722,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "bht": "The woman's faith embraced and awakened her deepest love, as Jesus formally pronounced her forgiveness. This scene highlights two important truths: all sinners are incapable of wiping out the dishonor done to God, and only Christ, as the Great Creditor, has the prerogative to forgive. The Pharisees, startled by Jesus claiming the power to forgive sins, questioned who he could be. Ignorance of Christ's office and failure to acknowledge their own wretched condition fueled their offense and indignation towards him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.063820607067726,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
             "commentatorTierSimilarities": [
-                40.87,
-                27.43,
-                31.7
+                38.58,
+                25.15,
+                36.27
             ],
             "generationAttempt": 5
         }

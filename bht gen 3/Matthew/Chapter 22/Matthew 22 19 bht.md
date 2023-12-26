@@ -1,7 +1,7 @@
 # Matthew 22:19 Commentary Help Text
 
 ## BHT:
-When Jesus asks for the tribute money, He is not making a superficial request, but rather ingeniously exposing the Jews' surrender to Roman authority. By displaying the coin, which bears Caesar's image, Jesus reveals that they had willingly accepted the Romans' dominion through their payment of the tribute. This specific denarius was the common Roman coin used for this purpose, leaving the Jews without grounds to accuse Jesus of rebellion against Rome.
+The tribute money mentioned here is the denarius, the Roman coin for paying the poll-tax. It was the current coin of tribute, not in Jewish but in Roman money. The coin was stamped with Caesar's likeness, indicating the Jews' voluntary agreement to pay tribute. Thus, there was no need for a separate dispute, as the payment of tribute depended on the general arrangements of the government. The penny brought to Jesus was a sample of the Roman pence used for paying tribute.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -13,9 +13,9 @@ A penny. See on Matthew 20:2.
 
 
 ### John Calvin:
-1. "When Christ orders them to bring forward a coin, though at first sight it appears to be of no great importance, yet it is sufficient for breaking their snares."
-2. "The coin was stamped with Caesar’s likeness; and thus the authority of the Roman government had been approved and admitted by the general practice."
-3. "Hence it was evident that the Jews themselves had voluntarily come under obligation to pay tribute for they had given up to the Romans the power of the sword."
+1. "The coin was stamped with Caesar's likeness; and thus the authority of the Roman government had been approved and admitted by the general practice."
+2. "Hence it was evident that the Jews themselves had voluntarily come under obligation to pay tribute."
+3. "There was no propriety in making a separate dispute about the tribute-money, for that question depended on the general arrangements of the government."
 
 ### Philip Schaff:
 1. "The tribute money. The Roman coin in which the poll-tax was paid."
@@ -24,49 +24,51 @@ A penny. See on Matthew 20:2.
 
 ### Archibald T. Robertson:
 1. "Κηνσος, Latin census, was a capitation tax or head-money, tributum capitis." 
-2. "Νομισμα is the Latin numisma and occurs here only in the N.T."
-3. "Νομισμα is common in the old Greek, from νομιζω sanctioned by law or custom."
+2. "Νομισμα is the Latin numisma and occurs here only in the N.T., is common in the old Greek, from νομιζω sanctioned by law or custom."
 
 ### John Gill:
-1. "Shew me the tribute money.... they brought unto him a penny." 
-2. "Not any money, or any sort of coin that was current among them; but that in which the tribute was usually paid, which was Roman money."
-3. "One of which was seven pence halfpenny of our money."
+1. "Shew me the tribute money,.... Not any money, or any sort of coin that was current among them; but that in which the tribute was usually paid." (Matthew 22:19)
+2. "Which was Roman money: and they brought unto him a penny; not as, being what was the usual sum that was paid for tribute at one time, but as a sample of what sort of money it was paid in, in Roman pence." (Matthew 22:19)
+3. "One of which was seven pence halfpenny of our money." (Matthew 22:19)
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:51:21
+- Timestamp: 12-25-2023 19:30:20
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 40.35%
-- BHT Quality Score: 1.8658868673504654
+- BHT Word Count: 84
+- BHT Commentary Usage: 36.54%
+- BHT Quality Score: 2.245177508823364
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'accepted', 'accuse', 'against', 'asks', 'authority', 'bears', 'but', 'by', 'caesar', 'coin', 'common', 'denarius', 'displaying', 'dominion', 'exposing', 'for', 'grounds', 'had', 'he', 'image', 'ingeniously', 'is', 'jesus', 'jews', 'leaving', 'making', 'money', 'not', 'of', 'payment', 'purpose', 'rather', 'rebellion', 'request', 'reveals', 'roman', 'romans', 'rome', 's', 'specific', 'superficial', 'surrender', 'that', 'the', 'their', 'they', 'this', 'through', 'to', 'tribute', 'used', 'was', 'when', 'which', 'willingly', 'without']
-- ChatGPT injected words (significant words only) (34):
-	['accepted', 'accuse', 'asks', 'authority', 'bears', 'caesar', 'coin', 'common', 'denarius', 'displaying', 'dominion', 'exposing', 'grounds', 'image', 'ingeniously', 'jesus', 'jews', 'leaving', 'making', 'money', 'payment', 'purpose', 'rebellion', 'request', 'reveals', 'roman', 'romans', 'rome', 's', 'specific', 'superficial', 'surrender', 'tribute', 'willingly']
+- ChatGPT injected words (52):
+	['a', 'agreement', 'arrangements', 'as', 'brought', 'but', 'caesar', 'coin', 'current', 'denarius', 'depended', 'dispute', 'for', 'general', 'government', 'here', 'in', 'indicating', 'is', 'it', 'jesus', 'jewish', 'jews', 'likeness', 'mentioned', 'money', 'need', 'no', 'not', 'of', 'on', 'pay', 'paying', 'payment', 'pence', 'penny', 'poll', 'roman', 's', 'sample', 'separate', 'stamped', 'tax', 'the', 'there', 'thus', 'to', 'tribute', 'used', 'voluntary', 'was', 'with']
+- ChatGPT injected words (significant words only) (33):
+	['agreement', 'arrangements', 'brought', 'caesar', 'coin', 'current', 'denarius', 'depended', 'dispute', 'general', 'government', 'indicating', 'jesus', 'jewish', 'jews', 'likeness', 'mentioned', 'money', 'need', 'pay', 'paying', 'payment', 'pence', 'penny', 'poll', 'roman', 's', 'sample', 'separate', 'stamped', 'tax', 'tribute', 'voluntary']
 
 ### Logs
-- Attempt 1 BHT: When Jesus asks for the tribute money, it may seem like a trivial request, but it actually serves a profound purpose. By showing them the coin, He exposes the fact that the Jews themselves have voluntarily submitted to the Roman authority through their payment of the tribute. The coin's likeness of Caesar is a symbol of the Romans' power over the Jews, who had relinquished their right to wield the sword. This specific coin, a denarius, was the Roman currency in which the poll-tax was paid. Therefore, it becomes clear that the Jews were trapped by their own actions and were thus unable to accuse Jesus of opposing the Roman authority.
-- 🔄 Matthew 22:19 (attempt 1, 113 words, 42.67% quotes quality score: 1.8222204493644591, V2 normalized quality score: 51.93, commentator tiers 1-3: 23.91%, 37.26%, 38.83%) 
+- Attempt 1 BHT: The tribute money mentioned in this verse refers to the denarius, a Roman coin specifically used to pay the poll-tax. This tax, known as the census or head-money, was a capitation tax sanctioned by law or custom. It was paid in Roman money, not Jewish currency. The coin was stamped with Caesar's likeness, signifying the Jews' voluntary agreement to pay tribute to the Roman government. Therefore, there was no need to dispute the payment of the tribute-money, as it was a result of the general arrangements of the government. The penny brought to Jesus was not the actual sum paid for tribute but a sample of the Roman pence used for this purpose.
+- 🔄 Matthew 22:19 (attempt 1, 117 words, 29.69% quotes quality score: 2.0147745890434514, V2 normalized quality score: 58.33, commentator tiers 1-3: 29.28%, 32.51%, 38.22%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The tribute money mentioned here is the denarius, the Roman coin for paying the poll-tax. It was the current coin of tribute, not in Jewish but in Roman money. The coin was stamped with Caesar's likeness, indicating the Jews' voluntary agreement to pay tribute. Thus, there was no need for a separate dispute, as the payment of tribute depended on the general arrangements of the government. The penny brought to Jesus was a sample of the Roman pence used for paying tribute.
+- 🔄 Matthew 22:19 (attempt 2, 84 words, 36.54% quotes quality score: 2.245177508823364, V2 normalized quality score: 65.99, commentator tiers 1-3: 29.77%, 33.8%, 36.43%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: When Jesus asks for the tribute money, He is not making a superficial request, but rather ingeniously exposing the Jews' surrender to Roman authority. By displaying the coin, which bears Caesar's image, Jesus reveals that they had willingly accepted the Romans' dominion through their payment of the tribute. This specific denarius was the common Roman coin used for this purpose, leaving the Jews without grounds to accuse Jesus of rebellion against Rome.
-- 🔄 Matthew 22:19 (attempt 2, 73 words, 40.35% quotes quality score: 1.8658868673504654, V2 normalized quality score: 53.38, commentator tiers 1-3: 24.19%, 37.51%, 38.29%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When Jesus instructs them to present the tribute money, it may seem like a trivial act, but it carries significant implications. By producing the specific coin used for the payment of tribute, Jesus exposes the fact that the Jews themselves had voluntarily submitted to Roman authority. The image of Caesar on the coin symbolizes the acknowledgment of Roman power, which the Jews had accepted by relinquishing their right to wield the sword. This denarius was the Roman currency specifically designated for the tribute, illustrating the Jews' entrapment by their own actions and preventing them from accusing Jesus of opposing the Roman government.
-- 🔄 Matthew 22:19 (attempt 3, 102 words, 35.82% quotes quality score: 1.8106719801781486, V2 normalized quality score: 51.55, commentator tiers 1-3: 24.79%, 35.28%, 39.93%) 
+- Attempt 3 BHT: The tribute money in this passage is the denarius, a Roman coin used for the poll-tax. It was the current coin of tribute and not Jewish currency. The coin was stamped with Caesar's likeness, indicating the Jews' voluntary agreement to pay tribute. Therefore, there was no need for a separate dispute as the payment of tribute was determined by the general arrangements of the government. The penny brought to Jesus was a sample of the Roman pence used for this purpose.
+- 🔄 Matthew 22:19 (attempt 3, 83 words, 35.85% quotes quality score: 2.1228262585415076, V2 normalized quality score: 61.92, commentator tiers 1-3: 29.58%, 33.55%, 36.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 4 BHT: The tribute money mentioned in this quote is the denarius, a Roman coin used for paying the poll-tax. It was the current coin of tribute, not in Jewish but in Roman money. The coin was stamped with Caesar's likeness, indicating the Jews' voluntary agreement to pay tribute. Therefore, there was no need for a separate dispute about the tribute-money, as it was a result of the general arrangements of the government. The penny brought to Jesus was a sample of the Roman pence used for this purpose.
+- 🔄 Matthew 22:19 (attempt 4, 90 words, 35.85% quotes quality score: 2.1004989393027715, V2 normalized quality score: 61.18, commentator tiers 1-3: 28.55%, 33.68%, 37.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: When Jesus asks for the tribute money, He intentionally reveals the Jews' voluntary submission to Roman rule. The coin's image of Caesar signifies their acceptance of Roman authority, as they had surrendered their right to bear arms. This denarius, specifically used for the tribute, highlights their entrapment by their own actions. By presenting the coin, Jesus anticipated and thwarted any accusation of rebellion against Rome. His request may have seemed insignificant, but it exposed the Jews' recognition and obligation to Roman power.
-- 🔄 Matthew 22:19 (attempt 4, 83 words, 37.1% quotes quality score: 1.582157261276138, V2 normalized quality score: 43.95, commentator tiers 1-3: 22.9%, 38.0%, 39.1%) 
+- Attempt 5 BHT: The tribute money mentioned refers to the denarius, a Roman coin used for paying the poll-tax. It was the current coin of tribute, not in Jewish but in Roman money. The coin was stamped with Caesar's likeness, indicating the Jews' voluntary agreement to pay tribute. The penny brought to Jesus was a sample of the Roman pence used for paying tribute. Therefore, the payment of the tribute-money was not a separate dispute but depended on the general arrangements of the government.
+- 🔄 Matthew 22:19 (attempt 5, 84 words, 29.79% quotes quality score: 2.192761580169119, V2 normalized quality score: 64.25, commentator tiers 1-3: 29.28%, 33.43%, 37.29%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: When Jesus asks for the tribute money, He effectively reveals the Jews' acceptance of Roman authority. The coin, bearing Caesar's likeness, represents their submission to the Roman government. By presenting the specific denarius used for the tribute, Jesus exposes their voluntary obligation to Rome. It becomes evident that the Jews were constrained by their own actions, leaving them unable to accuse Jesus of defying Roman rule. His request may have appeared insignificant, but it laid bare their acknowledgment and compliance with Roman power.
-- 🔄 Matthew 22:19 (attempt 5, 84 words, 33.87% quotes quality score: 1.6184308555633007, V2 normalized quality score: 45.16, commentator tiers 1-3: 22.25%, 39.5%, 38.24%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 22:19 bht prompt v0.8 (73 words, 40.35% quotes)
-- quality score: 1.8658868673504654, V2 normalized quality score: 53.38, commentator tiers 1-3: 24.19%, 37.51%, 38.29%)
+- ✅ Matthew 22:19 bht prompt v0.8 (84 words, 36.54% quotes)
+- quality score: 2.245177508823364, V2 normalized quality score: 65.99, commentator tiers 1-3: 29.77%, 33.8%, 36.43%)

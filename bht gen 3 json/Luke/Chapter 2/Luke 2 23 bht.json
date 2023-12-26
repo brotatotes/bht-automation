@@ -1,49 +1,51 @@
 {
-    "timestamp": "12-19-2023 16:14:02",
+    "timestamp": "12-25-2023 19:34:48",
     "verseRef": "Luke 2:23",
     "bestBHT": {
-        "bht": "Luke emphasizes that Jesus was made under the law, elaborating on the fulfillment of the law. The frequent mention of the word law in this chapter emphasizes its importance. The purification and presentation in the temple were in accordance with the law, with the purification focusing on the mother and the presentation on the son. This ceremony reminds us that every male who opens the womb, including Jesus as Mary's firstborn, is devoted and consecrated to the Lord. Jesus willingly subjected himself to the law to redeem his people from its bondage and condemnation.",
-        "wordCount": 95,
-        "quoteTokenProportion": 37.93,
-        "qualityScore": 1.9375143924983709,
-        "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+        "bht": "Luke 2:23 highlights the fact that Jesus was made under the law, fulfilling the requirements written in the law of the Lord. Luke repeatedly emphasizes the obedience of Joseph and Mary to the law, specifically in terms of the purification of the mother and the presentation of the son. This obedience to the law is further supported by Paul's statement in Galatians 4:4. Jesus' adherence to the law allows him to redeem us from the bondage and condemnation of the law.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 2.0875961771895435,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.75,
         "commentatorTierSimilarities": [
-            43.38,
-            24.42,
-            32.19
+            45.77,
+            20.98,
+            33.25
         ],
         "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "God had taken the tribe of Levi instead of the firstborn that openeth the womb."
+            "God had taken the tribe of Levi instead of the firstborn that openeth the womb...\" (Luke 2:23) ",
+            "This arrangement appears afterwards to have been superseded by a general command to redeem all the firstborn at five shekels of the sanctuary...\" (Luke 2:23) ",
+            "...required only the excess in number of the firstborn over the Levites to be redeemed.\" (Luke 2:23)"
         ],
         "Albert Barnes": [
             "As it is written ... - Exodus 13:2."
         ],
         "Marvin Vincent": [
-            "Luke emphasizes the fact that Jesus 'was made under the law' (Galatians 4:4), and accordingly elaborates the details of the fulfilment of the law...",
-            "The word law occurs in this chapter five times; oftener than in all the rest of this Gospel put together.",
-            "Luke emphasizes the fact that Jesus 'was made under the law'..."
+            "Luke emphasizes the fact that Jesus 'was made under the law' (Galatians 4:4).",
+            "The law of the Lord. The word law occurs in this chapter five times; oftener than in all the rest of this Gospel put together.",
+            "Accordingly elaborates the details of the fulfilment of the law by the parents of both John and Jesus."
         ],
         "John Calvin": [
             "Such was the ancient ceremony: and, as the Lord is the common Redeemer of all, he has a right to claim us as his own, from the least to the greatest.",
-            "Nor is it without a good reason, that Luke so frequently repeats the statement, that Joseph and Mary did what was written in the law of the Lord. For these words teach us, that we must not, at our own suggestion, attempt any thing in the worship of God, but must obediently follow what he requires in his Word.",
-            "Since the Lord is Redeemer of all the world at large."
+            "Nor is it without a good reason, that Luke so frequently repeats the statement, that Joseph and Mary did what was written in the law of the Lord.",
+            "These words teach us that we must not, at our own suggestion, attempt anything in the worship of God, but must obediently follow what he requires in his Word."
         ],
         "Philip Schaff": [
-            "Every male that openeth the womb, i.e., every first-born male",
-            "The requirement respecting the first-born was in remembrance of the sparing of the first-born of the Israelites in Egypt",
-            "He who was Himself Priest and Temple, doing God's service as none ever did, probably submitted to the form of redemption from the temple service."
+            "Every male that openeth the womb, i.e., every first-born male.",
+            "The requirement respecting the first-born was in remembrance of the sparing of the first-born of the Israelites in Egypt.",
+            "He who was Himself Priest and Temple, doing God\u2019s service as none ever did, probably submitted to the form of redemption from the temple service."
         ],
         "Archibald T. Robertson": [
-            "Paul (Galatians 4:4) will urge that Jesus 'was made under the law' as Luke here explains.",
             "The law did not require that the child be brought to Jerusalem.",
-            "The purification concerned the mother, the presentation the son."
+            "The purification concerned the mother, the presentation the son.",
+            "Paul (Galatians 4:4) will urge that Jesus 'was made under the law' as Luke here explains."
         ],
         "John Gill": [
-            "Every male that openeth the womb, shall be called holy to the Lord; that is, devoted and consecrated to him, and so to be redeemed.",
-            "This law our Lord came under as Mary's firstborn, and as one holy to the Lord; and such a sum of money was now paid for his redemption, who was the great Redeemer of his people.",
+            "That is, devoted and consecrated to him, and so to be redeemed.",
+            "And this law our Lord came under as Mary's firstborn, and as one holy to the Lord.",
             "He being made under the law, and in all things subject to it, that he might redeem them from the bondage, curse, and condemnation of it."
         ],
         "John Wesley": [
@@ -67,67 +69,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Luke emphasizes the fact that Jesus was made under the law, elaborating the details of the fulfillment of the law. The word law is mentioned frequently in this chapter, signifying its importance. The purification and presentation of Jesus in the temple were in accordance with the law, with the purification focusing on the mother and the presentation on the son. This ceremony was a reminder that every male that opens the womb, including Jesus as Mary's firstborn, is devoted and consecrated to the Lord. Jesus, as the great Redeemer, willingly subjected himself to the law to redeem his people from its bondage and condemnation.",
-            "wordCount": 105,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 2.0389731828640887,
-            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "bht": "According to Luke 2:23, God had established a command to redeem all firstborns, with the tribe of Levi being an exception. Luke emphasizes that Jesus was made under the law, fulfilling the details of the law alongside John's parents. The purification and presentation were distinct, concerning the mother and the son respectively. Paul later emphasizes this fact in Galatians 4:4. The frequent repetition of Joseph and Mary following the law highlights the importance of obediently following God's requirements. This law applied to Jesus as Mary's firstborn, as he was dedicated and consecrated to the Lord. His obedience to the law allowed him to redeem us from its bondage and condemnation. (Exodus 13:2)",
+            "wordCount": 112,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 2.001794252240905,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
             "commentatorTierSimilarities": [
-                41.61,
-                24.99,
-                33.4
+                37.56,
+                27.97,
+                34.47
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Luke highlights that Jesus was made under the law, emphasizing the fulfillment of the law. The repetitive mention of the word law in this chapter underscores its significance. The purification and presentation in the temple adhered to the requirements of the law, focusing on the mother and the son respectively. Through this ceremony, Jesus, as Mary's firstborn, is recognized as devoted and consecrated to the Lord. By willingly subjecting himself to the law, Jesus, the great Redeemer, takes on the role of redeeming his people from the bondage and condemnation of the law.",
-            "wordCount": 94,
-            "quoteTokenProportion": 32.76,
-            "qualityScore": 1.9021839438289339,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "bht": "According to Luke 2:23, Jesus being made under the law fulfills the details of the law of the Lord. Luke emphasizes this point multiple times, highlighting the obedience of Joseph and Mary to what was written. The distinction between the purification of the mother and the presentation of the son is also emphasized. Paul's statement in Galatians 4:4 further supports the fact that Jesus was made under the law. This obedience allows Jesus to redeem us from the bondage and condemnation of the law.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.032096230219269,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
             "commentatorTierSimilarities": [
-                41.76,
-                24.44,
-                33.8
+                45.84,
+                22.59,
+                31.57
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Luke emphasizes that Jesus was made under the law, elaborating on the fulfillment of the law. The frequent mention of the word law in this chapter emphasizes its importance. The purification and presentation in the temple were in accordance with the law, with the purification focusing on the mother and the presentation on the son. This ceremony reminds us that every male who opens the womb, including Jesus as Mary's firstborn, is devoted and consecrated to the Lord. Jesus willingly subjected himself to the law to redeem his people from its bondage and condemnation.",
-            "wordCount": 95,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.9375143924983709,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "bht": "Luke 2:23 highlights the fact that Jesus was made under the law, fulfilling the requirements written in the law of the Lord. Luke repeatedly emphasizes the obedience of Joseph and Mary to the law, specifically in terms of the purification of the mother and the presentation of the son. This obedience to the law is further supported by Paul's statement in Galatians 4:4. Jesus' adherence to the law allows him to redeem us from the bondage and condemnation of the law.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0875961771895435,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
             "commentatorTierSimilarities": [
-                43.38,
-                24.42,
-                32.19
+                45.77,
+                20.98,
+                33.25
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Luke stresses that Jesus was made under the law, detailing the fulfillment of its requirements. The repetition of the word law highlights its prominence in this chapter. The purification and presentation rituals conform to the law, with purification pertaining to the mother and presentation pertaining to the son. This observance serves as a reminder that every firstborn male, such as Jesus, is consecrated to the Lord. By willingly subjecting himself to the law, Jesus, the great Redeemer, takes on the role of liberating his people from its bondage and condemnation.",
-            "wordCount": 90,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 1.9323300296512136,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "bht": "The verse reveals that Jesus was made under the law, fulfilling what was written in the law of the Lord. Repeatedly, Luke underscores the obedience of Joseph and Mary to the law, particularly regarding the purification of the mother and the presentation of the son. Paul's statement in Galatians 4:4 affirms Jesus' submission to the law. His obedience enables him to redeem us from the bondage and condemnation of the law.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 2.0295039880042243,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
             "commentatorTierSimilarities": [
-                41.19,
-                25.48,
-                33.33
+                44.38,
+                22.31,
+                33.31
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Luke emphasizes that Jesus was made under the law, meticulously fulfilling its obligations. The frequent mention of the word law in this chapter underscores its significance. The purification ceremony focuses on the mother, while the presentation ceremony regards the son. This serves as a reminder that every firstborn male is dedicated to the Lord. Jesus willingly subjected himself to the law's requirements, acting as the ultimate Redeemer, rescuing his people from the law's bondage and condemnation.",
-            "wordCount": 78,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 1.805329193006977,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+            "bht": "Jesus was made under the law, fulfilling the requirements written in the law of the Lord. Luke emphasizes Joseph and Mary's obedience to the law, specifically in terms of the mother's purification and the son's presentation. This obedience is further supported by Paul's statement regarding Jesus' submission to the law. Through his obedience, Jesus redeems us from the bondage and condemnation of the law.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 2.0531471405719426,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
             "commentatorTierSimilarities": [
-                42.98,
-                24.67,
-                32.35
+                44.58,
+                22.21,
+                33.21
             ],
             "generationAttempt": 5
         }

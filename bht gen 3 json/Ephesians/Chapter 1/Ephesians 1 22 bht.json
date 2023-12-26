@@ -1,28 +1,28 @@
 {
-    "timestamp": "12-19-2023 15:31:33",
+    "timestamp": "12-25-2023 19:30:03",
     "verseRef": "Ephesians 1:22",
     "bestBHT": {
-        "bht": "Christ is given as the Head over all things to the Church, benefiting her. He is above everything, and the Church cannot be separated from Him. By putting all things in subjection to Himself, He ensures the Church's safety. Christ is a gift to the Church, guiding and governing every member, providing them with growth and strength. The Church's unity comes from within, through the freedom of individual diversity, rather than external uniformity.",
-        "wordCount": 75,
-        "quoteTokenProportion": 50.94,
-        "qualityScore": 1.9856527552115664,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+        "bht": "Christ is given as the Head over all things to the Church. This gift is significant, for if it had been anyone else, it would not have been the same blessing. Christ's dominion extends to everything, and He is joined with the Church in His authority over them. All things are subject to Him, from the physical elements to earthly rulers and nations. Christ's headship ensures the Church's safety and serves as proof of His sovereignty.",
+        "wordCount": 79,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 2.0018456874780783,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.9,
         "commentatorTierSimilarities": [
-            34.15,
-            30.9,
-            34.95
+            30.2,
+            40.07,
+            29.73
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "HIM He gave as Head over all things to the Church.",
-            "He is OVER ('far above') all things; in contrast to the words, 'TO the Church,' namely, for her advantage.",
-            "For the Head and body are not severed by anything intervening, else the body would cease to be the body, and the Head cease to be the Head."
+            "HIM He gave as Head over all things to the Church.\" ",
+            "Had it been anyone save HIM, her Head, it would not have been the boon it is to the Church.",
+            "The former are subject; the latter is joined with Him in His dominion over them."
         ],
         "Albert Barnes": [
-            "The universe is under his control and direction for the welfare of his people.",
             "All the elements - the physical works of God - the winds and waves - the seas and rivers - all are under him, and all are to be made tributary to the welfare of the church.",
+            "Earthly kings and rulers; kingdoms and nations are under his control. Thus far Christ has controlled all the wicked rulers of the earth, and they have not been able to destroy that church which he redeemed with his own blood.",
             "The church, therefore, is safe. All the great powers of heaven, earth, and hell, are made subject to its Head and King; and no weapon that is formed against it shall prosper."
         ],
         "Marvin Vincent": [
@@ -31,29 +31,29 @@
             "The Church."
         ],
         "John Calvin": [
-            "He was made the head of the Church, on the condition that he should have the administration of all things.",
-            "The metaphor of a head denotes the highest authority.",
-            "Those who refuse to submit to Him are unworthy of its communion; for on Him alone the unity of the Church depends."
+            "The apostle shews that it was not a mere honorary title, but was accompanied by the entire command and government of the universe.",
+            "Since Christ alone is called 'the head,' all others, whether angels or men, must rank as members; so that he who holds the highest place among his fellows is still one of the members of the same body.",
+            "This is the basest sacrilege. But let us listen to the Apostle, who declares that the Church is His body, and, consequently, that those who refuse to submit to Him are unworthy of its communion; for on Him alone the unity of the Church depends."
         ],
         "Philip Schaff": [
             "The passage plainly says that Christ is given to the Church, and the next verse as plainly indicates that He is Head of the Church. What, then, is His relation to \u2018all things?\u2019 Evidently that of Head also.",
-            "The word itself suggests two ideas: that the members are \u2018called out,\u2019 and that they form one assembly.",
-            "Visible unity is the end, and will come from within rather than from without. Probably the truest unity is to be reached through the freest divergencies in externals."
+            "The essential matter is that Christ be recognized as Sovereign, as the only Head of the Church, and that vital union with Him be maintained, not only as a doctrine, but as a fact in daily experience.",
+            "The preservation of the Church throughout eighteen centuries is the accumulating proof that Christ is Head over all things to that Church."
         ],
         "Archibald T. Robertson": [
-            "He put all things in subjection.",
-            "Gave him to be head.",
+            "He put all things in subjection.\" ",
+            "Gave him to be head.\" ",
             "Gave to the church Christ as Head."
         ],
         "John Gill": [
             "And hath put all things under his feet....",
-            "Christ is an head to this church...",
-            "...it is a free grace gift to the church..."
+            "Christ is an head to this church; in what sense he is so...",
+            "this headship of Christ is the gift of God; and it is an honourable gift to him."
         ],
         "John Wesley": [
             "An head both of guidance and government, and likewise of life and influence, to the whole and every member of it.",
             "All these stand in the nearest union with him, and have as continual and effectual a communication of activity, growth, and strength from him.",
-            "As the natural body from its head."
+            "as the natural body from its head."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -73,67 +73,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Christ has been given as the Head over all things to the Church. He is far above everything, and the Church benefits from His position of authority. There is a close connection between Christ as the Head and the Church as His body; they are inseparable. The Church finds security in the fact that Christ has put all things in subjection to Himself. He is a gift to the Church, guiding and governing every member, and providing them with continual growth and strength. The Church's unity comes not from external uniformity, but through the freedom of individual diversity.",
-            "wordCount": 99,
-            "quoteTokenProportion": 47.62,
-            "qualityScore": 1.9880247286846915,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "bht": "Christ is the Head over all things, given to the Church as a gift. This gift is not to be taken lightly, for had it been anyone else as Head, it would not have been the same blessing. Christ's dominion extends to all things, and He is joined with the Church in His authority over them. This means that everything, from the physical works of God to earthly rulers and nations, is under His control and made subject to Him. As the Head of the Church, Christ ensures its preservation and safety, for no weapon formed against it will prosper. The Church's unity and vital union with Christ are not only doctrinal concepts, but also lived out in daily experience. Christ's headship is evident in His command and government of the universe. He is the one true Head, while all others, whether angels or men, are members of the same body. To refuse to submit to Christ is to refuse communion with the Church, as its unity depends solely on Him. Throughout eighteen centuries, the Church's preservation testifies to Christ's headship over all things. This headship is a gift from God, an honorable gift to Christ, who serves as the Head of guidance, government, life, and influence to every member of the Church, just as a natural body receives activity, growth, and strength from its head.",
+            "wordCount": 231,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.944526215039483,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
             "commentatorTierSimilarities": [
-                32.21,
-                32.64,
-                35.16
+                25.8,
+                42.2,
+                32.0
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Christ is given as the Head over all things to the Church, benefiting her. He is above everything, and the Church cannot be separated from Him. By putting all things in subjection to Himself, He ensures the Church's safety. Christ is a gift to the Church, guiding and governing every member, providing them with growth and strength. The Church's unity comes from within, through the freedom of individual diversity, rather than external uniformity.",
-            "wordCount": 75,
-            "quoteTokenProportion": 50.94,
-            "qualityScore": 1.9856527552115664,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "bht": "Christ is the Head over all things, given as a gift to the Church. His dominion extends to everything, and He is joined with the Church in His authority over them. All the elements of creation are made tributary to the welfare of the Church. Earthly rulers and nations are under His control, and no weapon formed against the Church shall prosper. Christ's headship is essential for the unity and preservation of the Church, and it is a gift from God, an honorable gift to Him. He is the Head of guidance, government, life, and influence to every member of the Church.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.161359936096737,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
             "commentatorTierSimilarities": [
-                34.15,
-                30.9,
-                34.95
+                28.64,
+                42.47,
+                28.89
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The verse reminds us that God has given Christ as the Head over all things to the Church for her advantage. This means that Christ is in control and has authority over everything, including the physical elements of the world. The Church can take comfort in the fact that all powers in heaven, earth, and hell are subject to Christ as their Head and King, ensuring its safety. The Church is called out and forms one assembly under Christ, with visible unity coming from within rather than external sources. Christ's authority as Head is not only one of guidance and government, but also one of life and influence to every member. The Church's unity depends on submitting to Christ, as He is the source of activity, growth, and strength, just as the natural body relies on its head.",
-            "wordCount": 140,
-            "quoteTokenProportion": 43.02,
-            "qualityScore": 1.9007109900916086,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "bht": "Christ is the Head over all things, given to the Church as a gift. This gift is not to be taken lightly, for had it been anyone else as Head, it would not have been the same boon to the Church. Everything is subject to Him, from the physical works of God to earthly rulers and nations. Christ's headship ensures the safety of the Church, as no weapon formed against it shall prosper. His dominion is not just a honorary title, but accompanied by the entire command and government of the universe.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.9639450254356603,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
             "commentatorTierSimilarities": [
-                26.52,
-                40.41,
-                33.07
+                28.53,
+                41.13,
+                30.34
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Christ is given as the Head over all things to the Church, which means He has authority over everything for her advantage. The Church finds security knowing that all powers in heaven, earth, and hell are subject to Christ as their Head and King. Visible unity within the Church comes from within, not from external forces. Christ's authority as Head is not only for guidance and government, but also for life and influence to every member, just as the natural body relies on its head.",
-            "wordCount": 86,
-            "quoteTokenProportion": 46.55,
-            "qualityScore": 1.9614808982251815,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "bht": "The Church is blessed with Christ as its Head, who is given authority over all things. It is important to recognize the significance of Christ's headship, for if it had been anyone else, it would not have been as beneficial to the Church. This headship means that all things are subject to Christ, from the physical works of God to earthly rulers and nations. Christ's dominion ensures the safety and preservation of the Church, as no weapon formed against it will prosper. Thus, the Church can trust in the sovereignty of Christ, knowing that He is the true Head over all.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0545983043926066,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.66,
             "commentatorTierSimilarities": [
-                28.27,
-                37.69,
-                34.05
+                24.23,
+                47.98,
+                27.79
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Christ is given as the Head over all things to the Church. He is over all things for her advantage, as the Head and body are inseparable. The Church can find comfort in the fact that all powers in heaven, earth, and hell are made subject to its Head and King. This unity depends on all members submitting to Him, as they receive constant communication of growth and strength from Him. As the natural body depends on its head, the Church finds guidance, government, and life from Christ as its Head.",
-            "wordCount": 91,
-            "quoteTokenProportion": 41.51,
-            "qualityScore": 2.0150500073099673,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "bht": "Christ is given as the Head over all things to the Church. This gift is significant, for if it had been anyone else, it would not have been the same blessing. Christ's dominion extends to everything, and He is joined with the Church in His authority over them. All things are subject to Him, from the physical elements to earthly rulers and nations. Christ's headship ensures the Church's safety and serves as proof of His sovereignty.",
+            "wordCount": 79,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.0018456874780783,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
             "commentatorTierSimilarities": [
-                31.0,
-                32.66,
-                36.34
+                30.2,
+                40.07,
+                29.73
             ],
             "generationAttempt": 5
         }

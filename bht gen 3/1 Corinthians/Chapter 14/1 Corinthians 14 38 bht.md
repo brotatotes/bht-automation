@@ -1,30 +1,30 @@
 # 1 Corinthians 14:38 Commentary Help Text
 
 ## BHT:
-If anyone willingly chooses to be ignorant of my apostolic authority and the ordinances I have decreed, let them remain in their ignorance; it is their own peril. I have provided sufficient evidence of my commission, and there is no need to argue further with them. Skeptics and contentious individuals cannot undermine the authority of sound doctrine. When we are confident that it is God who is speaking, we should boldly disregard any human obstacles. Let us not be swayed by those who profess spiritual insight but lack the true wisdom and Spirit of God.
+If anyone chooses to remain ignorant of the authority and ordinances given by the Apostle, let them do so at their own peril. The Apostle does not waste words trying to convince such individuals, knowing that their opposition is of little concern and that their ignorance will only bring about their own downfall. Let those who persist in their ignorance be treated with disdain, for their obstinacy should not hinder others from receiving the commandments of Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Let him be ignorant, implying both the hopelessness of reclaiming such an one, and the little concern which his opposition gave the Apostle." 
-2. "He is unknown, i.e. as we now say, he is ignored, seil. by God." 
-3. "Comparing with ch. viii. 2, 35 xiii. 12; Gal. iv. 9."
+1. "let him be ignorant] implying both the hopelessness of reclaiming such an one, and the little concern which his opposition gave the Apostle."
+2. "he is unknown, i.e. as we now say, he is ignored, seil. by God"
+3. "compare ch. viii. 2, 35 xiii. 12; Gal. iv. 9."
 
 ### Jamieson-Fausset-Brown:
-1. "If any man be ignorant—wilfully; not wishing to recognize these ordinances and my apostolic authority in enjoining them. Let him be ignorant—I leave him to his ignorance: it will be at his own peril."
-2. "I feel it a waste of words to speak anything further to convince him."
+1. "If any man be ignorant—wilfully; not wishing to recognize these ordinances and my apostolic authority in enjoining them. let him be ignorant—I leave him to his ignorance: it will be at his own peril." 
+2. "I feel it a waste of words to speak anything further to convince him." 
 3. "An argument likely to have weight with the Corinthians, who admired 'knowledge' so much."
 
 ### Albert Barnes:
-1. "If anyone affects to be ignorant of my authority, or whether I have a right to command. If he affects to doubt whether I am inspired, and whether what I utter is in accordance with the will of God."
-2. "Let him be ignorant - At his own peril, let him remain so, and abide the consequences."
-3. "I have given full proof of my divine commission. I have nothing more to say on that head. And now, if he chooses to remain in ignorance or incredulity, the fault is his own, and he must answer for it to God."
+1. "If anyone affects to be ignorant of my authority, or whether I have a right to command. If he affects to doubt whether I am inspired, and whether what I utter is in accordance with the will of God... Let him be ignorant - At his own peril, let him remain so, and abide the consequences."
+2. "I shall not take any further trouble to debate with him. I have stated my authority. I have delivered the commands of God."
+3. "And now, if he disregards them, and still doubts whether all this is said by divine authority, let him abide the consequences of rejecting the law of God."
 
 ### Marvin Vincent:
 1. Let him be ignorant [αγνοειτω] . Let him remain ignorant. The text is doubtful. Some read ajgnoeitai he is not known; i e., he is one whom God knows not. 
 
 
 ### John Calvin:
-1. "In fine, he intimates, that sceptics, contentious persons, and subtle disputants; do not by the questions they raise diminish, in any degree, the authority of sound doctrine."
+1. "If any one is ignorant, I do not stop to take notice of his doubts, for the certainty of my doctrine is not at all impaired thereby."
 2. "That elevation of mind, however, which despises all human judgments, ought to be founded on ascertained truth."
 3. "When we have felt assured that it is God that speaks, let us fearlessly break through all human impediments and all difficulties."
 
@@ -35,7 +35,7 @@ If anyone willingly chooses to be ignorant of my apostolic authority and the ord
 
 
 ### John Gill:
-1. "Though he may profess himself to be a prophet, or a spiritual man, he is a very ignorant one, and has not the Spirit of God he pretends to."
+1. "If he will not be convinced, but goes on to doubt, and call in question the truth of these things, and obstinately persist in his ignorance, let him be ignorant." 
 2. "Let him be treated and despised as an ignorant man; and let his ignorance be no hinderance to any in receiving these rules and directions as the commandments of Christ."
 3. "No regard is to be had, or pity shown, to a man of affected ignorance, and wilful obstinacy; such a man is not to be known and owned, but shunned and rejected."
 
@@ -46,39 +46,35 @@ If anyone willingly chooses to be ignorant of my apostolic authority and the ord
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:13:25
+- Timestamp: 12-25-2023 19:29:13
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 46.48%
-- BHT Quality Score: 1.8042070662324612
+- BHT Word Count: 77
+- BHT Commentary Usage: 50.85%
+- BHT Quality Score: 2.1176895659441564
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (71):
-	['and', 'any', 'anyone', 'apostolic', 'are', 'argue', 'authority', 'be', 'boldly', 'but', 'by', 'cannot', 'chooses', 'commission', 'confident', 'contentious', 'decreed', 'disregard', 'doctrine', 'evidence', 'further', 'god', 'have', 'human', 'i', 'if', 'ignorance', 'ignorant', 'in', 'individuals', 'insight', 'is', 'it', 'lack', 'let', 'my', 'need', 'no', 'not', 'obstacles', 'of', 'ordinances', 'own', 'peril', 'profess', 'provided', 'remain', 'should', 'skeptics', 'sound', 'speaking', 'spirit', 'spiritual', 'sufficient', 'swayed', 'that', 'the', 'their', 'them', 'there', 'those', 'to', 'true', 'undermine', 'us', 'we', 'when', 'who', 'willingly', 'wisdom', 'with']
-- ChatGPT injected words (significant words only) (38):
-	['apostolic', 'argue', 'authority', 'boldly', 'chooses', 'commission', 'confident', 'contentious', 'decreed', 'disregard', 'doctrine', 'evidence', 'god', 'human', 'ignorance', 'ignorant', 'individuals', 'insight', 'lack', 'let', 'need', 'obstacles', 'ordinances', 'peril', 'profess', 'provided', 'remain', 'skeptics', 'sound', 'speaking', 'spirit', 'spiritual', 'sufficient', 'swayed', 'true', 'undermine', 'willingly', 'wisdom']
+- ChatGPT injected words (59):
+	['about', 'and', 'anyone', 'apostle', 'at', 'authority', 'be', 'bring', 'by', 'chooses', 'christ', 'commandments', 'concern', 'convince', 'disdain', 'do', 'does', 'downfall', 'for', 'from', 'given', 'hinder', 'if', 'ignorance', 'ignorant', 'in', 'individuals', 'is', 'knowing', 'let', 'little', 'not', 'obstinacy', 'of', 'only', 'opposition', 'ordinances', 'others', 'own', 'peril', 'persist', 'receiving', 'remain', 'should', 'so', 'such', 'that', 'the', 'their', 'them', 'those', 'to', 'treated', 'trying', 'waste', 'who', 'will', 'with', 'words']
+- ChatGPT injected words (significant words only) (29):
+	['apostle', 'authority', 'bring', 'chooses', 'christ', 'commandments', 'concern', 'convince', 'disdain', 'downfall', 'given', 'hinder', 'ignorance', 'ignorant', 'individuals', 'knowing', 'let', 'little', 'obstinacy', 'opposition', 'ordinances', 'peril', 'persist', 'receiving', 'remain', 'treated', 'trying', 'waste', 'words']
 
 ### Logs
-- Attempt 1 BHT: If anyone wilfully chooses to ignore or oppose the ordinances and apostolic authority that I have proclaimed, let him remain ignorant at his own peril. I have given sufficient evidence of my divine commission, and it is a waste of words to convince him further. Those who hold on to their skepticism and contentious nature do not diminish the authority of sound doctrine. When we are certain that what is being spoken is from God, we should fearlessly disregard any human obstructions. We should not pay heed to those who claim to be prophets or spiritual but lack true wisdom and the Spirit of God. Such individuals should be treated as ignorant and their stubbornness should not hinder others from accepting these commands as the words of Christ.
-- 🔄 1 Corinthians 14:38 (attempt 1, 128 words, 43.82% quotes quality score: 1.9114887540237053, V2 normalized quality score: 54.9, commentator tiers 1-3: 34.04%, 30.12%, 35.84%) 
+- Attempt 1 BHT: If anyone chooses to remain ignorant of the authority and ordinances given by the Apostle, let them do so at their own peril. The Apostle does not waste words trying to convince such individuals, knowing that their opposition is of little concern and that their ignorance will only bring about their own downfall. Those who admire knowledge ought to consider that if the certainty of the Apostle's doctrine is ascertained as being from God, then no human judgment or doubt should hinder them from accepting and obeying it. Let those who persist in their ignorance be treated with disdain, for their obstinacy should not hinder others from receiving the commandments of Christ.
+- 🔄 1 Corinthians 14:38 (attempt 1, 113 words, 45.57% quotes quality score: 2.121268050159557, V2 normalized quality score: 61.87, commentator tiers 1-3: 32.44%, 29.96%, 37.6%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: If anyone deliberately refuses to recognize my authority and the significance of the ordinances I have established, let them remain ignorant, even though it is their own loss. I have provided ample proof of my divine mandate, and to convince them further would be a futile exercise. Those who persist in skepticism and contentiousness do not undermine the validity of sound doctrine. When we are certain that God is speaking, we should boldly disregard human obstacles. Those who claim to be spiritually enlightened but lack true wisdom and the Spirit of God should be viewed as ignorant, and their stubbornness should not hinder others from embracing these teachings as the commandments of Christ.
-- 🔄 1 Corinthians 14:38 (attempt 2, 113 words, 42.68% quotes quality score: 1.735910171399103, V2 normalized quality score: 49.06, commentator tiers 1-3: 33.35%, 31.12%, 35.53%) 
+- Attempt 2 BHT: Those who defy the authority and ordinances of the Apostle by choosing to remain ignorant do so at their own peril. The Apostle, recognizing the little concern their opposition brings him, does not waste words trying to convince them. The certainty of his doctrine, as ascertained by God, should outweigh any human judgments or doubts. Those who persist in their ignorance should not hinder others from receiving the commandments of Christ and will be treated with disdain for their obstinacy.
+- 🔄 1 Corinthians 14:38 (attempt 2, 80 words, 45.16% quotes quality score: 2.014379573776285, V2 normalized quality score: 58.32, commentator tiers 1-3: 33.47%, 28.87%, 37.66%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: If anyone is ignorant of my authority or whether I have a right to command, let them remain ignorant and face the consequences. The Apostle does not waste words trying to convince them, leaving them to their ignorance. Their obstinate opposition should not hinder others from receiving and obeying the commandments of Christ. As the certainty of his doctrine is ascertained by God, those who persist in doubt and ignorance should be treated with disdain, for their defiance will ultimately lead to their own downfall.
+- 🔄 1 Corinthians 14:38 (attempt 3, 85 words, 47.69% quotes quality score: 2.008615708008043, V2 normalized quality score: 58.13, commentator tiers 1-3: 31.92%, 31.13%, 36.96%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: If anyone persistently chooses to be ignorant of the authority I have been given and refuses to recognize the significance of the ordinances I have established, then they shall remain ignorant at their own peril. I have provided ample evidence of my divine commission, and further attempts to convince them would be futile. Those who cling to skepticism and contention cannot diminish the authority of sound doctrine. When we are certain that God is speaking, we should fearlessly overcome any human obstacles. Let us not be hindered by those who claim spiritual enlightenment but lack the true wisdom and Spirit of God.
-- 🔄 1 Corinthians 14:38 (attempt 3, 102 words, 43.42% quotes quality score: 1.7272293544905049, V2 normalized quality score: 48.77, commentator tiers 1-3: 32.12%, 31.58%, 36.31%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: If anyone willingly chooses to be ignorant of my apostolic authority and the ordinances I have decreed, let them remain in their ignorance; it is their own peril. I have provided sufficient evidence of my commission, and there is no need to argue further with them. Skeptics and contentious individuals cannot undermine the authority of sound doctrine. When we are confident that it is God who is speaking, we should boldly disregard any human obstacles. Let us not be swayed by those who profess spiritual insight but lack the true wisdom and Spirit of God.
-- 🔄 1 Corinthians 14:38 (attempt 4, 95 words, 46.48% quotes quality score: 1.8042070662324612, V2 normalized quality score: 51.33, commentator tiers 1-3: 33.04%, 31.2%, 35.76%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: If anyone chooses to be ignorant of my apostolic authority and the ordinances I have established, let them remain in their ignorance at their own peril. I have provided sufficient proof of my divine commission, and there is no need to waste further words on convincing them. Skeptics and contentious individuals cannot undermine the authority of sound doctrine. When we are certain that it is God speaking, let us fearlessly overcome human obstacles. Let us not be swayed by those who claim spiritual insight but lack true wisdom and the Spirit of God.
-- 🔄 1 Corinthians 14:38 (attempt 5, 93 words, 44.44% quotes quality score: 1.7880024390443974, V2 normalized quality score: 50.79, commentator tiers 1-3: 32.12%, 31.57%, 36.31%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 14:38 bht prompt v0.8 (95 words, 46.48% quotes)
-- quality score: 1.8042070662324612, V2 normalized quality score: 51.33, commentator tiers 1-3: 33.04%, 31.2%, 35.76%)
+- Attempt 4 BHT: If anyone chooses to remain ignorant of the authority and ordinances given by the Apostle, let them do so at their own peril. The Apostle does not waste words trying to convince such individuals, knowing that their opposition is of little concern and that their ignorance will only bring about their own downfall. Let those who persist in their ignorance be treated with disdain, for their obstinacy should not hinder others from receiving the commandments of Christ.
+- 🔄 1 Corinthians 14:38 (attempt 4, 77 words, 50.85% quotes quality score: 2.1176895659441564, V2 normalized quality score: 61.75, commentator tiers 1-3: 32.56%, 29.08%, 38.36%)
+- Attempt 5 BHT: If anyone questions my authority or doubts whether I am speaking with the guidance of God, I will not waste any more words trying to persuade him. I have made it clear that these are the commands of God, and if he chooses to remain ignorant or obstinate, he will face the consequences. Such a person will be treated as one who is unknown or ignored by God, and his opposition to these ordinances and my apostolic authority will be at his own peril. Let him be ignorant, and let his ignorance not hinder others from recognizing and accepting these teachings as the commandments of Christ.
+- 🔄 1 Corinthians 14:38 (attempt 5, 106 words, 52.11% quotes quality score: 2.3381345342660396, V2 normalized quality score: 69.08, commentator tiers 1-3: 32.95%, 32.62%, 34.43%) 
+	- BHT WAS OVER 80 WORDS!
+- ✅ 1 Corinthians 14:38 bht prompt v0.8 (77 words, 50.85% quotes)
+- quality score: 2.1176895659441564, V2 normalized quality score: 61.75, commentator tiers 1-3: 32.56%, 29.08%, 38.36%)

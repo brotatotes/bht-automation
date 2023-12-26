@@ -1,12 +1,12 @@
 # Matthew 5:17 Commentary Help Text
 
 ## BHT:
-Jesus did not come to destroy the law and the prophets, but to fulfill and expand upon them. He reveals a deeper and holier sense to the prophecies, giving them a fuller, more spiritual meaning. His purpose was not destruction, but fulfillment. Christianity is not about revolution or restoration, but a new creation that conserves and perfects all that is good in the old. Jesus fulfills the law theoretically, practically, ceremonially, through his redemptive death, and by enabling believers to fulfill the law in gratitude to Him.
+Jesus reassures those who revere the law and the prophets that His teaching does not undermine them, but rather expands their meaning. He came not to destroy, but to fulfill the moral parts of the law and the prophets, giving them a deeper and holier sense. By accomplishing what was intended in them, Jesus reveals the full depth of their significance. His mission is not to bring revolution or restoration, but a new creation that perfectly aligns with the law and the prophets.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Observe how our Lord, through the whole sermon, sets forth Himself, in his proceeding forth from God, as truly 'He that was to come.'"
-2. "It is a question whether our Lord includes the prophecies, properly so called, in His meaning here. I think not: for no person professing himself to be the Messiah would be thought to contradict the prophecies, but to fulfil them."
+1. "Neither, it appears, does He here allude to the sacrificial and typical parts of the law, but to the moral parts of both the law and the prophets; which indeed he proceeds to cite and particularize." 
+2. "If however we prefer to include both ceremonial and moral in this assertion, we may understand it in its more general sense, as applying, beyond the instances here given, to His typical fulfilment of the law, which could not as yet be unfolded."
 3. "This verb implies more than the mere fulfilling: it has the sense of filling out or expanding: i.e. here, giving a deeper and holier sense to—fulfilling in the spirit, which is nobler than the letter."
 
 ### Jamieson-Fausset-Brown:
@@ -16,75 +16,72 @@ Jesus did not come to destroy the law and the prophets, but to fulfill and expan
 
 ### Albert Barnes:
 1. "He therefore told them that he did not come for that end, but really to fulfill or accomplish what was in the law and the prophets."
-2. "To destroy - To abrogate; to deny their divine authority; to set people free from the obligation to obey them."
-3. "But to fulfil - To complete the design; to fill up what was predicted; to accomplish what was intended in them."
+2. "To fulfill - To complete the design; to fill up what was predicted; to accomplish what was intended in them."
+3. "The prophets contained many predictions respecting his coming and death. These were all to be fulfilled and fully accomplished by his life and his sufferings."
 
 ### Marvin Vincent:
 1. To destroy [καταλυσαι] . Lit., to loosen down, dissolve; Wyc., undo.
 
 
 ### John Calvin:
-1. "Christ, therefore, now declares, that his doctrine is so far from being at variance with the law, that it agrees perfectly with the law and the prophets, and not only so, but brings the complete fulfillment of them."
-2. "If we intend to reform affairs which are in a state of disorder, we must always exercise such prudence and moderation, as will convince the people, that we do not oppose the eternal Word of God, or introduce any novelty that is contrary to Scripture."
-3. "With respect to doctrine, we must not imagine that the coming of Christ has freed us from the authority of the law: for it is the eternal rule of a devout and holy life, and must, therefore, be as unchangeable, as the justice of God, which it embraced, is constant and uniform."
+1. "his doctrine is so far from being at variance with the law, that it agrees perfectly with the law and the prophets, and not only so, but brings the complete fulfillment of them."
+2. "While he invites and exhorts the Jews to receive the Gospel, he still retains them in obedience to the Law; and, on the other hand, he boldly refutes the base reproaches and slanders, by which his enemies labored to make his preaching infamous or suspected."
+3. "We must take care, that no suspicion of such contrariety shall injure the faith of the godly, and that rash men shall not be emboldened by a pretense of novelty."
 
 ### Philip Schaff:
-1. "Christ’s mission not negative and destructive, but positive and constructive; Christianity is neither revolution nor restoration, but a new creation, which, however, conserves and perfects all that is good in the old."
-2. "The whole spiritual development of the Old Testament is meant. This Christ came to fulfil, to make perfect as doctrine and to exhibit perfectly in life."
+1. "Christ’s mission not negative and destructive, but positive and constructive; Christianity is neither revolution nor restoration, but a new creation."
+2. "Christ came to fulfil, to make perfect as doctrine and to exhibit perfectly in life."
 3. "Christ fulfils the law: ( 1 ) theoretically, by unfolding its deep spiritual significance, as in this sermon; ( 2 ) practically, in his holy life, a perfect pattern for imitation; ( 3 ) by realizing the types and shadows of the ceremonial law; ( 4 ) by redeeming us through His expiatory death from the penalty and curse of the broken law; ( 5 ) by enabling us, through His Holy Spirit, to fulfil the law in gratitude to Him and in living union with Him."
 
 ### Archibald T. Robertson:
-1. "I came not to destroy, but to fulfil." - Jesus' purpose was not destruction but fulfillment.
-2. "The verb 'destroy' means to 'loosen down' as of a house or tent." - 'Destroy' signifies the act of loosening down, like unfastening a house or tent.
-3. "He came to fill the law, to reveal the full depth of meaning that it was intended to hold." - Jesus came to fill and expose the complete depth of meaning intended by the law.
+1. "I came not to destroy, but to fulfil."
+2. "Fulfil is to fill full."
+3. "He came to fill the law, to reveal the full depth of meaning that it was intended to hold."
 
 ### John Gill:
-1. "I am not come to destroy, but to fulfil."
-2. "By 'the law' is meant the moral law, as appears from the whole discourse following: this he came not to 'destroy', or loose men's obligations to, as a rule of walk and conversation, but 'to fulfil' it."
+1. "I am not come to destroy, but to fulfill."
+2. "By 'the law' is meant the moral law...this he came not to 'destroy', or loose men's obligations to, as a rule of walk and conversation, but 'to fulfill' it."
 3. "All which explanations, promises, and prophecies, were so far from being made void by Christ, that they receive their full accomplishment in him."
 
 ### John Wesley:
-1. "Think not... that I am come - Like your teachers, to destroy the law or the prophets."
-2. "I am not come to destroy... the moral law, but to fulfil - To establish, illustrate, and explain its highest meaning, both by my life and doctrine."
+1. "Think not — Do not imagine, fear, hope, that I am come - Like your teachers, to destroy the law or the prophets."
+2. "I am not come to destroy — The moral law, but to fulfil - To establish, illustrate, and explain its highest meaning, both by my life and doctrine."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:44:10
+- Timestamp: 12-25-2023 19:32:25
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 37.29%
-- BHT Quality Score: 1.9748901746499983
+- BHT Word Count: 83
+- BHT Commentary Usage: 43.64%
+- BHT Quality Score: 2.096031923055208
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'about', 'all', 'and', 'believers', 'but', 'by', 'ceremonially', 'christianity', 'come', 'conserves', 'creation', 'death', 'deeper', 'destroy', 'destruction', 'did', 'enabling', 'expand', 'fulfill', 'fulfillment', 'fulfills', 'fuller', 'giving', 'good', 'gratitude', 'he', 'him', 'his', 'holier', 'in', 'is', 'jesus', 'law', 'meaning', 'more', 'new', 'not', 'old', 'or', 'perfects', 'practically', 'prophecies', 'prophets', 'purpose', 'redemptive', 'restoration', 'reveals', 'revolution', 'sense', 'spiritual', 'that', 'the', 'them', 'theoretically', 'through', 'to', 'upon', 'was']
-- ChatGPT injected words (significant words only) (37):
-	['believers', 'ceremonially', 'christianity', 'come', 'conserves', 'creation', 'death', 'deeper', 'destroy', 'destruction', 'enabling', 'expand', 'fulfill', 'fulfillment', 'fulfills', 'fuller', 'giving', 'good', 'gratitude', 'holier', 'jesus', 'law', 'meaning', 'new', 'old', 'perfects', 'practically', 'prophecies', 'prophets', 'purpose', 'redemptive', 'restoration', 'reveals', 'revolution', 'sense', 'spiritual', 'theoretically']
+- ChatGPT injected words (55):
+	['a', 'accomplishing', 'aligns', 'and', 'bring', 'but', 'by', 'came', 'creation', 'deeper', 'depth', 'destroy', 'does', 'expands', 'fulfill', 'full', 'giving', 'he', 'his', 'holier', 'in', 'intended', 'is', 'jesus', 'law', 'meaning', 'mission', 'moral', 'new', 'not', 'of', 'or', 'parts', 'perfectly', 'prophets', 'rather', 'reassures', 'restoration', 'reveals', 'revere', 'revolution', 'sense', 'significance', 'teaching', 'that', 'the', 'their', 'them', 'those', 'to', 'undermine', 'was', 'what', 'who', 'with']
+- ChatGPT injected words (significant words only) (31):
+	['accomplishing', 'aligns', 'bring', 'came', 'creation', 'deeper', 'depth', 'destroy', 'expands', 'fulfill', 'giving', 'holier', 'intended', 'jesus', 'law', 'meaning', 'mission', 'moral', 'new', 'parts', 'perfectly', 'prophets', 'reassures', 'restoration', 'reveals', 'revere', 'revolution', 'sense', 'significance', 'teaching', 'undermine']
 
 ### Logs
-- Attempt 1 BHT: In this verse, Jesus reassures his listeners that he did not come to destroy the law and the prophets, but to fulfill and expand upon them. He emphasizes that He is not contradicting the prophecies, but rather revealing a deeper and holier sense to them. Jesus came to fill and expose the complete depth of meaning intended by the law. His purpose was not destruction, but fulfillment. Christianity is not about revolution or restoration, but a new creation that conserves and perfects all that is good in the old. Jesus fulfills the law theoretically, practically, ceremonially, through his redemptive death, and by enabling believers to fulfill the law in gratitude to Him. Therefore, we must exercise prudence and moderation when reforming disorder, showing that we do not oppose the eternal Word of God or introduce any novelty contrary to Scripture. We must remember that the law is the eternal rule of a devout and holy life, unchangeable, just as the justice of God it embraces.
-- 🔄 Matthew 5:17 (attempt 1, 165 words, 33.0% quotes quality score: 1.9884127142021848, V2 normalized quality score: 57.46, commentator tiers 1-3: 24.82%, 37.78%, 37.4%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Jesus did not come to destroy the law and the prophets, but to fulfill and expand upon them. He reveals a deeper and holier sense to the prophecies, giving them a fuller, more spiritual meaning. His purpose was not destruction, but fulfillment. Christianity is not about revolution or restoration, but a new creation that conserves and perfects all that is good in the old. Jesus fulfills the law theoretically, practically, ceremonially, through his redemptive death, and by enabling believers to fulfill the law in gratitude to Him.
-- 🔄 Matthew 5:17 (attempt 2, 87 words, 37.29% quotes quality score: 1.9748901746499983, V2 normalized quality score: 57.01, commentator tiers 1-3: 25.61%, 39.65%, 34.74%) 
+- Attempt 1 BHT: Jesus reassures those who revere the law and the prophets that His teaching does not undermine them, but rather expands their meaning. He emphasizes that He did not come to dismantle the foundation of their belief, nor to incite revolution. On the contrary, He came to fulfill the law and its prophecies, giving them a deeper and holier sense. Jesus seeks to complete the design and accomplish what was intended in the law and the prophets, revealing the full depth of their meaning. He came not to destroy, but to fill them full, bringing their complete fulfillment through His life, teaching, and perfect example.
+- 🔄 Matthew 5:17 (attempt 1, 104 words, 39.68% quotes quality score: 2.0564557887166197, V2 normalized quality score: 59.72, commentator tiers 1-3: 23.57%, 39.79%, 36.64%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus did not come to contradict the prophecies or destroy the law and the prophets. Instead, He came to fulfill and expand upon them, revealing a deeper spiritual significance. He brings the complete fulfillment of the law and in doing so, conserves and perfects all that is good in the old. His purpose is not destruction but fulfillment. Through His life, death, and the enabling power of His Holy Spirit, Jesus enables believers to live in gratitude to Him by fulfilling the law in their lives.
-- 🔄 Matthew 5:17 (attempt 3, 86 words, 38.98% quotes quality score: 1.901813353744593, V2 normalized quality score: 54.58, commentator tiers 1-3: 25.14%, 39.53%, 35.33%) 
+- Attempt 2 BHT: Jesus came not to destroy the moral parts of the law and the prophets, but to expand and fulfill them in a deeper and holier sense. He assures those who revere the law and the prophets that His teaching does not undermine them. Rather, He seeks to complete the design and accomplish what was intended in them, revealing the full depth of their meaning. Jesus came not to dismantle, but to fill them full, bringing their complete fulfillment through His life, teaching, and perfect example.
+- 🔄 Matthew 5:17 (attempt 2, 85 words, 40.38% quotes quality score: 2.0796462329573506, V2 normalized quality score: 60.49, commentator tiers 1-3: 24.2%, 39.94%, 35.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this passage, Jesus declares that He did not come to destroy the law and the prophets, but to fulfill and expand on them. He reveals a deeper and more significant understanding of the prophecies and the law. His purpose is not destruction, but rather fulfillment. Christianity is not about revolution or restoration; it is a new creation that upholds and perfects the goodness of the old. Jesus fulfills the law through His teachings, His example, His redemptive death, and by empowering believers to live in accordance with the law.
-- 🔄 Matthew 5:17 (attempt 4, 90 words, 40.68% quotes quality score: 1.9742874889603983, V2 normalized quality score: 56.99, commentator tiers 1-3: 24.53%, 37.63%, 37.84%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: Jesus emphatically states that He did not come to nullify or abolish the law and the prophets, but to fulfill and expand their meaning. He unveils a deeper, more spiritual understanding, revealing the fullness of what was intended in the law. Jesus' mission is not one of destruction, but rather fulfillment and completion. Christianity is not about revolution or restoration; it is a new creation that both honors and perfects all that is good in the old. Jesus accomplishes this through His teachings, His life as a perfect example, and His redemptive sacrifice on the cross.
-- 🔄 Matthew 5:17 (attempt 5, 96 words, 41.79% quotes quality score: 1.9446429139707146, V2 normalized quality score: 56.0, commentator tiers 1-3: 24.71%, 40.72%, 34.57%) 
+- Attempt 3 BHT: Jesus reassures those who revere the law and the prophets that His teaching does not undermine them, but rather expands their meaning. He came not to destroy, but to fulfill the moral parts of the law and the prophets, giving them a deeper and holier sense. By accomplishing what was intended in them, Jesus reveals the full depth of their significance. His mission is not to bring revolution or restoration, but a new creation that perfectly aligns with the law and the prophets.
+- 🔄 Matthew 5:17 (attempt 3, 83 words, 43.64% quotes quality score: 2.096031923055208, V2 normalized quality score: 61.03, commentator tiers 1-3: 22.87%, 39.37%, 37.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 5:17 bht prompt v0.8 (87 words, 37.29% quotes)
-- quality score: 1.9748901746499983, V2 normalized quality score: 57.01, commentator tiers 1-3: 25.61%, 39.65%, 34.74%)
+- Attempt 4 BHT: Jesus wants to assure those who have great reverence for the law and the prophets that His teaching does not undermine or destroy them. Instead, He aims to fulfill them in a deeper and more meaningful way. His mission is not to bring revolution or restore the old ways, but to create something new. Through His life, teachings, and perfect example, Jesus reveals the true essence and purpose of the law and the prophets, bringing their complete fulfillment.
+- 🔄 Matthew 5:17 (attempt 4, 78 words, 39.66% quotes quality score: 1.9267563295057117, V2 normalized quality score: 55.41, commentator tiers 1-3: 22.87%, 39.49%, 37.64%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Jesus came not to destroy the law and the prophets, but to fulfill and expand their moral teachings. He assures those who revere the law and the prophets that His teaching does not undermine them, but rather reveals their deeper significance. His mission is not negative or destructive, but positive and constructive. Jesus seeks to bring a new creation that aligns with the law and the prophets. Through His holy life and expiatory death, He fulfills the law, and enables believers to fulfill it in gratitude and union with Him.
+- 🔄 Matthew 5:17 (attempt 5, 90 words, 38.6% quotes quality score: 1.9707101782233258, V2 normalized quality score: 56.87, commentator tiers 1-3: 20.51%, 41.62%, 37.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 5:17 bht prompt v0.8 (83 words, 43.64% quotes)
+- quality score: 2.096031923055208, V2 normalized quality score: 61.03, commentator tiers 1-3: 22.87%, 39.37%, 37.76%)

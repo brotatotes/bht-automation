@@ -1,18 +1,18 @@
 # John 2:13 Commentary Help Text
 
 ## BHT:
-During the Passover, Jesus arrived in Capernaum, accompanied by his disciples, possibly including the Gospel writer John. His purpose for attending the feast was not to endorse the religious ceremonies but rather to challenge the degenerate worship of the time. This Passover marked the beginning of Jesus' public ministry, which lasted over a year. It is thanks to John's narrative that we learn the duration and significance of Jesus' ministry, otherwise unknown to us.
+During Jesus' visit to Jerusalem for the Passover, His disciples were likely with Him, including the author of the Gospel of John. The term Jews in this context refers to the national religion centered around ceremonial practices. John is the only Gospel writer who mentions this particular Passover. By mentioning the Passovers in Christ's ministry, John reveals that His ministry was over a year long, shedding light on its duration. Jesus' presence at the Passover was not to endorse the corrupted worship of that time, but to challenge and fulfill prophecy as the promised Messiah.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "No data are given to determine whether the reason of the short stay at Capernaum was the near approach of the Passover."
-2. "His already called disciples would be with Him, and among them in all probability the Evangelist himself."
-3. "But not the rest of the Twelve, who were not yet called."
+1. "Nothing is said of those who accompanied Jesus: but at all events, His already called disciples would be with Him..."
+2. "Among them in all probability the Evangelist himself;—but not the rest of the Twelve, who were not yet called."
+3. "Of this visit, the narrative of the three other Evangelists records nothing."
 
 ### Albert Barnes:
 1. "The Jews’ passover - The feast among the Jews called the Passover."
-2. "Jesus, in obedience to the law, went up to observe it."
-3. "As his baptism when he entered on his ministry had taken place some time before this - probably not far from six months - it follows that the period of his ministry was not far from three years and a half, agreeably to the prophecy in Daniel 9:27."
+2. "Every male among the Jews was required to appear at this feast."
+3. "It follows that the period of his ministry was not far from three years and a half, agreeably to the prophecy in Daniel 9:27."
 
 ### Marvin Vincent:
 1. "On John's use of the term Jews, see on 1 19. So it is used here with an under - reference to the national religion as consisting in mere ceremonies."
@@ -21,64 +21,64 @@ During the Passover, Jesus arrived in Capernaum, accompanied by his disciples, p
 
 ### John Calvin:
 1. "The Son of God became subject to the Law on our account, he intended, by observing with exactness all the precepts of the Law, to present in his own person a pattern of entire subjection and obedience."
-2. "He did so, first, that along with others he might observe the exercises of religion which God had appointed, and, next, that he might publish his doctrine amidst a larger concourse of people."
-3. "Whenever...Christ came to Jerusalem at the feast, let the reader observe that he did so...to publish his doctrine amidst a larger concourse of people."
+2. "He did so, first, that along with others he might observe the exercises of religion which God had appointed."
+3. "He might publish his doctrine amidst a larger concourse of people."
 
 ### Philip Schaff:
-1. "The light was come, but it was shining in darkness: this darkness rested on what had been the temple, the city, the festivals, of the Lord."
-2. "The prevailing spirit of the time has severed the feast from the sacred associations which belonged to it."
-3. "Jesus must go up rather as Prophet than as worshipper, not to sanction by His presence, but powerfully to protest against the degenerate worship of that day."
+1. "The expression, 'passover of the Jews, is very remarkable... The prevailing spirit of the time has severed the feast from the sacred associations which belonged to it..."
+2. "Jesus must go up rather as Prophet than as worshipper, not to sanction by His presence, but powerfully to protest against the degenerate worship of that day."
+3. "The word of prophecy must be fulfilled: 'And the Lord whom ye seek shall suddenly come to His temple,... but who may abide the day of His coming?'"
 
 ### Archibald T. Robertson:
-1. "John mentions the passovers in Christ's ministry outside of the one when Christ was crucified, this one and one in John 6:4."
-2. "There may be another (John 5:1), but we do not know."
+1. "John mentions the passovers in Christ's ministry outside of the one when Christ was crucified, this one and one in John 6:4." 
+2. "There may be another (John 5:1), but we do not know." 
 3. "But for John we should not know that Christ's ministry was much over a year in length."
 
 ### John Gill:
 1. "This was the first 'passover' after Christ's baptism, which is generally thought to have been about half a year before; though so much time cannot be made out from the scriptural account."
 2. "The Evangelist John is the only writer that gives an account of the passovers after Christ entered on his public ministry; by which is known the duration of it, which is generally thought to be about three years and a half."
-3. "He [Jesus] is said to go up to Jerusalem, because that stood on higher ground than the low lands of Galilee, and was the only place where the passover might be kept."
+3. "He is said to go up to Jerusalem, because that stood on higher ground than the low lands of Galilee, and was the only place where the passover might be kept."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-21-2023 03:04:30
+- Timestamp: 12-25-2023 19:32:35
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 75
-- BHT Commentary Usage: 40.35%
-- BHT Quality Score: 1.9653939270327352
+- BHT Word Count: 96
+- BHT Commentary Usage: 38.57%
+- BHT Quality Score: 2.069311845341012
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'accompanied', 'and', 'arrived', 'attending', 'beginning', 'but', 'by', 'capernaum', 'ceremonies', 'challenge', 'degenerate', 'disciples', 'duration', 'during', 'endorse', 'feast', 'for', 'gospel', 'his', 'in', 'including', 'is', 'it', 'jesus', 'john', 'lasted', 'learn', 'marked', 'ministry', 'narrative', 'not', 'of', 'otherwise', 'over', 'passover', 'possibly', 'public', 'purpose', 'rather', 'religious', 's', 'significance', 'thanks', 'that', 'the', 'this', 'time', 'to', 'unknown', 'us', 'was', 'we', 'which', 'worship', 'writer', 'year']
-- ChatGPT injected words (significant words only) (34):
-	['accompanied', 'arrived', 'attending', 'beginning', 'capernaum', 'ceremonies', 'challenge', 'degenerate', 'disciples', 'duration', 'endorse', 'feast', 'gospel', 'including', 'jesus', 'john', 'lasted', 'learn', 'marked', 'ministry', 'narrative', 'passover', 'possibly', 'public', 'purpose', 'religious', 's', 'significance', 'thanks', 'time', 'unknown', 'worship', 'writer', 'year']
+- ChatGPT injected words (70):
+	['a', 'and', 'around', 'as', 'at', 'author', 'but', 'by', 'centered', 'ceremonial', 'challenge', 'christ', 'context', 'corrupted', 'disciples', 'duration', 'during', 'endorse', 'for', 'fulfill', 'gospel', 'him', 'his', 'in', 'including', 'is', 'its', 'jerusalem', 'jesus', 'jews', 'john', 'light', 'likely', 'long', 'mentioning', 'mentions', 'messiah', 'ministry', 'national', 'not', 'of', 'on', 'only', 'over', 'particular', 'passover', 'passovers', 'practices', 'presence', 'promised', 'prophecy', 'refers', 'religion', 'reveals', 's', 'shedding', 'term', 'that', 'the', 'this', 'time', 'to', 'visit', 'was', 'were', 'who', 'with', 'worship', 'writer', 'year']
+- ChatGPT injected words (significant words only) (43):
+	['author', 'centered', 'ceremonial', 'challenge', 'christ', 'context', 'corrupted', 'disciples', 'duration', 'endorse', 'fulfill', 'gospel', 'including', 'jerusalem', 'jesus', 'jews', 'john', 'light', 'likely', 'long', 'mentioning', 'mentions', 'messiah', 'ministry', 'national', 'particular', 'passover', 'passovers', 'practices', 'presence', 'promised', 'prophecy', 'refers', 'religion', 'reveals', 's', 'shedding', 'term', 'time', 'visit', 'worship', 'writer', 'year']
 
 ### Logs
-- Attempt 1 BHT: Jesus, along with his disciples, arrived in Capernaum during the time of the Passover, a major feast among the Jews. His purpose for attending this feast was not to participate in the traditional rituals and ceremonies of the religion, but rather to protest against the degenerate worship and to present himself as a pattern of obedience to the Law. This was the first Passover after Jesus' baptism, marking the beginning of his public ministry, which lasted around three and a half years. John is the only writer to include these details about the passovers, shedding light on the length and significance of Jesus' ministry.
-- 🔄 John 2:13 (attempt 1, 104 words, 42.86% quotes quality score: 1.9877074443519231, V2 normalized quality score: 57.43, commentator tiers 1-3: 28.67%, 31.98%, 39.35%) 
+- Attempt 1 BHT: During Jesus' visit to Jerusalem for the Passover, His disciples were likely with Him, including the author of the Gospel of John. The term Jews in this context refers to the national religion centered around ceremonial practices. John is the only Gospel writer who mentions this particular Passover. By mentioning the Passovers in Christ's ministry, John reveals that His ministry was over a year long, shedding light on its duration. Jesus' presence at the Passover was not to endorse the corrupted worship of that time, but to challenge and fulfill prophecy as the promised Messiah.
+- 🔄 John 2:13 (attempt 1, 96 words, 38.57% quotes quality score: 2.069311845341012, V2 normalized quality score: 60.15, commentator tiers 1-3: 34.42%, 33.53%, 32.05%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: During the Passover, Jesus arrived in Capernaum, possibly due to its proximity to the feast. He was accompanied by his disciples, including the writer of the Gospel of John. His presence at the feast was not an endorsement of the Jewish religious practices, but rather a powerful protest against the decadence and corruption of worship. John's account of this earliest Passover highlights the length of Jesus' ministry, which spanned over a year and would have remained unknown without his narrative.
-- 🔄 John 2:13 (attempt 2, 81 words, 42.37% quotes quality score: 1.931503508510437, V2 normalized quality score: 55.56, commentator tiers 1-3: 30.3%, 30.74%, 38.96%) 
+- Attempt 2 BHT: During Jesus' visit to Jerusalem for the Passover, His disciples, including the author of the Gospel of John, likely accompanied Him. The term Jews here refers to the national religion and ceremonial practices. John is the only one to mention this Passover, shedding light on the duration of Christ's ministry. By going to the Passover, Jesus fulfilled prophecy as the promised Messiah and challenged the corrupted worship of the time. Through this visit, He presented a pattern of wholehearted obedience and subjection to the Law.
+- 🔄 John 2:13 (attempt 2, 86 words, 32.2% quotes quality score: 1.8961073564580972, V2 normalized quality score: 54.39, commentator tiers 1-3: 31.63%, 35.49%, 32.88%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Arriving in Capernaum during the Passover, Jesus and his disciples, likely including the writer of the Gospel of John, were present for the observance. However, Jesus did not attend in order to partake in the rituals, but rather as a means of challenging the corrupted worship of the time. This Passover marked the beginning of Jesus' public ministry, which lasted approximately a year and a half. John's account unveils the length and significance of Jesus' ministry, which would remain unknown without his report.
-- 🔄 John 2:13 (attempt 3, 84 words, 35.09% quotes quality score: 1.9511375922387022, V2 normalized quality score: 56.22, commentator tiers 1-3: 32.01%, 29.73%, 38.26%) 
+- Attempt 3 BHT: During Jesus' visit to Jerusalem, His disciples likely accompanied Him, including the author of the Gospel of John. John is the only one who mentions this specific Passover, which helps us understand the duration of Christ's ministry. By attending the Passover, Jesus fulfilled prophecy as the promised Messiah and protested against the corrupted worship of the time. His presence at the Passover showcased His obedience and subjection to the Law, serving as an example for others to follow.
+- 🔄 John 2:13 (attempt 3, 79 words, 36.84% quotes quality score: 2.0435187519184415, V2 normalized quality score: 59.29, commentator tiers 1-3: 31.93%, 34.14%, 33.93%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: During Jesus' visit to Jerusalem, His disciples likely accompanied Him, including the author of the Gospel of John, who is the only one to mention this Passover. By going to the Passover as the Prophet, Jesus challenged the degenerate worship of His time and fulfilled prophecy as the promised Messiah. His presence at the Passover highlighted His obedience and subjection to the Law, providing a model for others to follow. This Passover sheds light on the duration of Christ's ministry, thought to be around three years and a half.
+- 🔄 John 2:13 (attempt 4, 90 words, 36.07% quotes quality score: 2.0062245738191407, V2 normalized quality score: 58.05, commentator tiers 1-3: 28.76%, 36.76%, 34.48%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: During the Passover, Jesus arrived in Capernaum, accompanied by his disciples, possibly including the Gospel writer John. His purpose for attending the feast was not to endorse the religious ceremonies but rather to challenge the degenerate worship of the time. This Passover marked the beginning of Jesus' public ministry, which lasted over a year. It is thanks to John's narrative that we learn the duration and significance of Jesus' ministry, otherwise unknown to us.
-- 🔄 John 2:13 (attempt 4, 75 words, 40.35% quotes quality score: 1.9653939270327352, V2 normalized quality score: 56.69, commentator tiers 1-3: 31.65%, 30.71%, 37.64%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Arriving at Capernaum near the approaching Passover, Jesus was accompanied by his disciples, possibly including the Gospel writer John. The term Jews used in this context refers to the religious practices centered around mere ceremonies rather than true devotion. Jesus attended the Passover not to conform to the degenerate worship but to powerfully protest against it. This particular Passover was the starting point of Jesus' ministry, which lasted around a year. It is through John's account that we gain insight into the duration and purpose of Jesus' ministry.
-- 🔄 John 2:13 (attempt 5, 89 words, 37.31% quotes quality score: 1.9648104950859056, V2 normalized quality score: 56.67, commentator tiers 1-3: 32.45%, 30.31%, 37.23%) 
+- Attempt 5 BHT: During Jesus' visit to Jerusalem for the Passover, His disciples, likely including the Gospel of John author, were with Him. This specific Passover is mentioned only by John, highlighting its significance. Jesus attended the Passover as a Prophet, challenging the corrupted worship of the time and fulfilling prophecy. His presence showcased His obedience and subjection to the Law, serving as an example for others. John's account also reveals the duration of Christ's ministry, thought to be around three years and a half.
+- 🔄 John 2:13 (attempt 5, 84 words, 37.7% quotes quality score: 1.9259990705236953, V2 normalized quality score: 55.38, commentator tiers 1-3: 32.31%, 34.02%, 33.67%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ John 2:13 bht prompt v0.8 (75 words, 40.35% quotes)
-- quality score: 1.9653939270327352, V2 normalized quality score: 56.69, commentator tiers 1-3: 31.65%, 30.71%, 37.64%)
+- ✅ John 2:13 bht prompt v0.8 (96 words, 38.57% quotes)
+- quality score: 2.069311845341012, V2 normalized quality score: 60.15, commentator tiers 1-3: 34.42%, 33.53%, 32.05%)

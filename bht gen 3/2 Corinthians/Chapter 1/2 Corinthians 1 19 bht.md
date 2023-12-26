@@ -1,89 +1,87 @@
 # 2 Corinthians 1:19 Commentary Help Text
 
 ## BHT:
-Christ, the Son of God, is the unchanging focus of all Christian preaching. His constancy and reliability are highlighted, proving the truth of the doctrine preached about Him. The miracles He performed confirm the validity of His message. Paul appeals to the life of Christ to bolster his own trustworthiness. Jesus is the ultimate fulfillment of all spiritual teaching, surpassing any other teachings. The Gospel revolves around Him, magnifying His person and offices while motivating believers to engage in good works guided by Gospel principles. Preaching about Him remains steadfast and resolute, centered on His unchanging nature.
+The preaching of the Son of God, Jesus Christ, by Paul and his colleagues was not a message of fickleness or change. Christ Himself, being equal with God, is unchangeable and the center of all Christian preaching. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, emphasizing that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, is consistent and unwavering in its proclamation of God's grace and the exaltation of Christ's person and offices.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The Son of God is prefixed for solemnity, and to show how unlikely fickleness or change is in Christ, being such as He is."
-2. "Christ, personal—not meaning, the doctrine concerning Christ—HE HIMSELF is the center and substance of all Christian preaching."
-3. "The strength of Israel will not lie nor repent."
+1. "The Son of God is prefixed for solemnity, and to show how unlikely fickleness or change is in Christ, being such as He is." 
+2. "Christ, personal - not meaning, the doctrine concerning Christ - HE HIMSELF is the center and substance of all Christian preaching." 
+3. "Christ is the great Subject of that doctrine, as set before them by Paul and his colleagues."
 
 ### Jamieson-Fausset-Brown:
-1. "Proof of the unchangeableness of the doctrine from the unchangeableness of the subject of it, namely, Jesus Christ." 
+1. "He is called 'the Son of God' to show the impossibility of change in One who is co-equal with God himself."
 2. "The Son of God, though preached by different preachers, was one and the same, unchangeable."
-3. "Our preaching of the Son of God is confirmed as true in Him, through the miracles wherewith He has confirmed our preaching."
+3. "Our preaching of the Son of God is confirmed as true in Him, through the witness of the Spirit which He has given."
 
 ### Albert Barnes:
 1. "The preaching respecting Jesus Christ, did not represent him as fickle, and changeable; as unsettled, and as unfaithful; but as true, consistent, and faithful."
 2. "All that he says is true; all the promises that he makes are firm; all his declarations are faithful."
-3. "He never disguised the truth; never prevaricated; never had any mental reservation; never deceived; never used any word, or threw in any circumstance, that was suited to lead the mind astray."
+3. "The most deeply felt obligation on earth is that which the Christian feels to imitate the Redeemer."
 
 ### Marvin Vincent:
-1. "He has shown Himself absolutely the truth."
+1. "Did not prove to be, in the result."
 2. "Yea has come to pass in Him."
 3. "He has shown Himself absolutely the truth."
 
 ### John Calvin:
-1. "For as he is the end of the law, so he is the head — the sum — in fine, the consummation — of all spiritual doctrine."
-2. "Those go beyond due limits, who teach anything else than Christ alone, with whatever show of wisdom they may otherwise be puffed up."
-3. "He alone is the true Christ, in whom there appears that uniform and unvarying yea, which Paul declares to be characteristic of him."
+1. "For, as it may be, and often does happen, that Christ is disfigured by the inventions (284) of men, and is adulterated, as it were, by their disguises, he declares that it had not been so as to himself or his associates, but that he had sincerely and with an integrity that was befitting, held forth Christ pure and undisguised."
+2. "Hence those go beyond due limits, who teach anything else than Christ alone, with whatever show of wisdom they may otherwise be puffed up."
+3. "Others, with a view to procure the favor of men, present him under various forms, while there is still another class, that inculcate one day what on the next they retract through fear. Such was not Paul’s Christ, nor can that of any true apostle (288) be such."
 
 ### Philip Schaff:
-1. "When we were with you, was it vacillating, fickle preachers that preached to you the unchanging One, the Son of God, Jesus Christ, the same yesterday, today, and forever?"
+1. "When we were with you, was it vacillating, fickle preachers that preached to you the unchanging One, the Son of God, Jesus Christ, the same yesterday, today, and for ever?"
 2. "Did we hold Him forth to you as stability itself, while we ourselves were the reverse?"
-3. "...their whole bearing at Corinth as men, like their message, honest and true."
+3. "It is an appeal to the incongruity of the thing, and to their whole bearing at Corinth as men, like their message, honest and true."
 
 ### Archibald T. Robertson:
 1. "Did not become Yes and No."
 2. "But in him Yes has become yes," has proved true.
-3. So Paul appeals to the life of Christ to sustain his own veracity.
+3. Paul appeals to the life of Christ to sustain his own veracity.
 
 ### John Gill:
-1. "the Son of God, Jesus Christ; that Christ is 'the Son of God': this article he began his ministry with... and all the apostles affirmed the same thing; and which is of the greatest moment and importance, and ought to be abode by, insisted on, and frequently inculcated"
-2. "the Son of God is Christ, anointed to bear and execute the office of a mediator in the several parts and branches of it; a prophet to teach his people, a priest to make atonement and intercession for them, and a King to govern and protect them"
-3. "the Gospel, as in Christ, and as it comes from him, and has been preached by his apostles, and faithful ministers, is all of a piece; its constant and invariable strain... is, to display the free, rich, and sovereign grace of God, to magnify and exalt the person and offices of Christ, to debase the creature, and to engage persons to the performance of good works, on Gospel principles, and by Gospel motives, and for right ends"
+1. "Christ is the Son of God": this article he began his ministry with...which is of the greatest moment and importance.
+2. "the Son of God is Christ, anointed to bear and execute the office of a mediator... a Saviour."
+3. "The Gospel, as in Christ... is all of a piece; its constant and invariable strain is to display the free, rich, and sovereign grace of God, to magnify and exalt the person and offices of Christ, to debase the creature, and to engage persons to the performance of good works, on Gospel principles, and by Gospel motives, and for right ends."
 
 ### John Wesley:
-1. "Our preaching concerning him... Was not variable and inconsistent with itself." 
-2. "Always one and the same, centering in him."
+1. "For Jesus Christ, who was preached by us... Was not yea and nay... But was yea in him."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:15:22
+- Timestamp: 12-25-2023 19:33:29
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 28.36%
-- BHT Quality Score: 1.9450312884363719
+- BHT Word Count: 100
+- BHT Commentary Usage: 38.98%
+- BHT Quality Score: 2.2007966929690808
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (67):
-	['about', 'all', 'and', 'any', 'appeals', 'are', 'around', 'believers', 'bolster', 'by', 'centered', 'christ', 'christian', 'confirm', 'constancy', 'doctrine', 'engage', 'focus', 'fulfillment', 'god', 'good', 'gospel', 'guided', 'he', 'highlighted', 'him', 'his', 'in', 'is', 'jesus', 'life', 'magnifying', 'message', 'miracles', 'motivating', 'nature', 'of', 'offices', 'on', 'other', 'own', 'paul', 'performed', 'person', 'preached', 'preaching', 'principles', 'proving', 'reliability', 'remains', 'resolute', 'revolves', 'son', 'spiritual', 'steadfast', 'surpassing', 'teaching', 'teachings', 'the', 'to', 'trustworthiness', 'truth', 'ultimate', 'unchanging', 'validity', 'while', 'works']
-- ChatGPT injected words (significant words only) (48):
-	['appeals', 'believers', 'bolster', 'centered', 'christ', 'christian', 'confirm', 'constancy', 'doctrine', 'engage', 'focus', 'fulfillment', 'god', 'good', 'gospel', 'guided', 'highlighted', 'jesus', 'life', 'magnifying', 'message', 'miracles', 'motivating', 'nature', 'offices', 'paul', 'performed', 'person', 'preached', 'preaching', 'principles', 'proving', 'reliability', 'remains', 'resolute', 'revolves', 'son', 'spiritual', 'steadfast', 'surpassing', 'teaching', 'teachings', 'trustworthiness', 'truth', 'ultimate', 'unchanging', 'validity', 'works']
+- ChatGPT injected words (59):
+	['a', 'all', 'and', 'appeals', 'as', 'being', 'by', 'center', 'change', 'christ', 'christian', 'colleagues', 'confirmed', 'consistent', 'emphasizing', 'epitome', 'equal', 'exaltation', 'faithfulness', 'fickleness', 'god', 'gospel', 'grace', 'him', 'himself', 'his', 'in', 'is', 'its', 'jesus', 'life', 'message', 'not', 'of', 'offices', 'or', 'own', 'paul', 'person', 'preaching', 'presented', 'proclamation', 's', 'son', 'spirit', 'sustain', 'that', 'the', 'their', 'through', 'to', 'true', 'truth', 'unchangeable', 'unwavering', 'veracity', 'was', 'with', 'witness']
+- ChatGPT injected words (significant words only) (36):
+	['appeals', 'center', 'change', 'christ', 'christian', 'colleagues', 'confirmed', 'consistent', 'emphasizing', 'epitome', 'equal', 'exaltation', 'faithfulness', 'fickleness', 'god', 'gospel', 'grace', 'jesus', 'life', 'message', 'offices', 'paul', 'person', 'preaching', 'presented', 'proclamation', 's', 'son', 'spirit', 'sustain', 'true', 'truth', 'unchangeable', 'unwavering', 'veracity', 'witness']
 
 ### Logs
-- Attempt 1 BHT: The verse highlights the unchangeable nature of Jesus Christ, emphasizing His constancy and reliability. He is the center and substance of all Christian preaching, the unchanging subject of the doctrine. The preaching of the Son of God is confirmed as true through the miracles He performed. Paul appeals to the life of Christ to sustain his own veracity. Jesus Christ is the sum and consummation of all spiritual doctrine, and any teaching that deviates from Him falls short. His Gospel is all of a piece, constantly magnifying His person and offices, while engaging believers in good works and Gospel motives. Our preaching concerning Him remains consistent and unwavering, always centering in Him.
-- 🔄 2 Corinthians 1:19 (attempt 1, 112 words, 28.57% quotes quality score: 2.0285760763510545, V2 normalized quality score: 58.79, commentator tiers 1-3: 33.03%, 28.35%, 38.62%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The Son of God, Jesus Christ, is depicted as constant and unchanging, serving as the center of Christian preaching. His unchangeableness affirms the truth of the doctrine preached about Him. The miracles He performed serve as confirmation of His identity and message. By appealing to the life of Christ, Paul reinforces his own credibility. Jesus is the ultimate fulfillment and culmination of all spiritual teaching, and any deviation from Him is insufficient. The Gospel centers around Him, magnifying His person and offices, while inspiring believers to engage in good works driven by Gospel principles. The preaching about Him remains consistent and unwavering, always revolving around His unchanging nature.
-- 🔄 2 Corinthians 1:19 (attempt 2, 108 words, 27.14% quotes quality score: 1.9672002169407765, V2 normalized quality score: 56.75, commentator tiers 1-3: 33.93%, 28.85%, 37.22%) 
+- Attempt 1 BHT: The preaching of the Son of God, Jesus Christ, by Paul and his colleagues was not a message of fickleness or change. Christ Himself, being equal with God, is unchangeable and the center of all Christian preaching. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, emphasizing that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, is consistent and unwavering in its proclamation of God's grace and the exaltation of Christ's person and offices.
+- 🔄 2 Corinthians 1:19 (attempt 1, 100 words, 38.98% quotes quality score: 2.2007966929690808, V2 normalized quality score: 64.52, commentator tiers 1-3: 35.15%, 28.88%, 35.98%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Christ, the Son of God, is the unchanging focus of all Christian preaching. His constancy and reliability are highlighted, proving the truth of the doctrine preached about Him. The miracles He performed confirm the validity of His message. Paul appeals to the life of Christ to bolster his own trustworthiness. Jesus is the ultimate fulfillment of all spiritual teaching, surpassing any other teachings. The Gospel revolves around Him, magnifying His person and offices while motivating believers to engage in good works guided by Gospel principles. Preaching about Him remains steadfast and resolute, centered on His unchanging nature.
-- 🔄 2 Corinthians 1:19 (attempt 3, 97 words, 28.36% quotes quality score: 1.9450312884363719, V2 normalized quality score: 56.01, commentator tiers 1-3: 34.78%, 29.74%, 35.49%) 
+- Attempt 2 BHT: The preaching of the Son of God, Jesus Christ, by Paul and his colleagues was not a message of fickleness or change. Christ Himself, being equal with God, is unchangeable. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, emphasizing that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, is consistent and unwavering in its proclamation of God's grace and the exaltation of Christ's person and offices.
+- 🔄 2 Corinthians 1:19 (attempt 2, 93 words, 39.29% quotes quality score: 2.1919890121762817, V2 normalized quality score: 64.22, commentator tiers 1-3: 35.19%, 28.41%, 36.4%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The unchangeable nature of Jesus Christ, the Son of God, is the core of Christian preaching. His constancy and reliability validate the preached doctrine. The miracles He performed confirm the truth of His message. Paul's credibility rests on the life of Christ. Jesus is the supreme fulfillment of spiritual teaching, surpassing any other. The Gospel centers on Him, magnifying His person and offices, inspiring believers to engage in good works with Gospel motives. Preaching about Him remains unwavering, centered on His unchanging nature.
-- 🔄 2 Corinthians 1:19 (attempt 4, 84 words, 24.14% quotes quality score: 1.9096890803726438, V2 normalized quality score: 54.84, commentator tiers 1-3: 35.82%, 29.35%, 34.83%) 
+- Attempt 3 BHT: The preaching of Christ by Paul and his colleagues affirms that Christ Himself, as the Son of God, is unchangeable and the center of all Christian preaching. Their message is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, highlighting that Jesus Christ is the embodiment of truth and faithfulness. The Gospel, as presented in Christ, remains consistent and unwavering in proclaiming God's grace and exalting Christ's person and offices.
+- 🔄 2 Corinthians 1:19 (attempt 3, 86 words, 31.37% quotes quality score: 2.120139119736371, V2 normalized quality score: 61.84, commentator tiers 1-3: 35.74%, 29.54%, 34.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The unchanging Son of God, Jesus Christ, forms the focal point of Christian preaching. His constancy and reliability validate the preached doctrine, as confirmed by His miracles. Paul relies on the life of Christ to affirm his own credibility. Jesus is the ultimate fulfillment of spiritual teaching, surpassing all others. The Gospel revolves around Him, exalting His person and offices, motivating believers in Gospel-based good works. Preaching about Him remains steadfast, centered on His unwavering nature.
-- 🔄 2 Corinthians 1:19 (attempt 5, 77 words, 27.59% quotes quality score: 1.8988618498569054, V2 normalized quality score: 54.48, commentator tiers 1-3: 33.51%, 28.65%, 37.84%) 
+- Attempt 4 BHT: The preaching of Christ by Paul and his colleagues confirms that Christ Himself, as the Son of God, is unchangeable. Their message is verified as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to uphold his own credibility, emphasizing that Jesus Christ represents ultimate truth and faithfulness. The Gospel, as presented in Christ, remains constant and unwavering in proclaiming God's grace and elevating Christ's person and offices.
+- 🔄 2 Corinthians 1:19 (attempt 4, 77 words, 30.61% quotes quality score: 2.1311536544129597, V2 normalized quality score: 62.2, commentator tiers 1-3: 34.82%, 30.39%, 34.79%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 2 Corinthians 1:19 bht prompt v0.8 (97 words, 28.36% quotes)
-- quality score: 1.9450312884363719, V2 normalized quality score: 56.01, commentator tiers 1-3: 34.78%, 29.74%, 35.49%)
+- Attempt 5 BHT: The preaching of the Son of God, Jesus Christ, by Paul and his colleagues affirms that Christ Himself is unchangeable and the essence of Christian preaching. Their preaching is confirmed as true in Him through the witness of the Spirit. Paul appeals to the life of Christ to sustain his own veracity, highlighting that Jesus Christ is the epitome of truth and faithfulness. The Gospel, as presented in Christ, remains consistent and unwavering in proclaiming God's grace and magnifying Christ's person and offices.
+- 🔄 2 Corinthians 1:19 (attempt 5, 85 words, 30.61% quotes quality score: 2.169252077825421, V2 normalized quality score: 63.47, commentator tiers 1-3: 34.83%, 29.2%, 35.97%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 2 Corinthians 1:19 bht prompt v0.8 (100 words, 38.98% quotes)
+- quality score: 2.2007966929690808, V2 normalized quality score: 64.52, commentator tiers 1-3: 35.15%, 28.88%, 35.98%)

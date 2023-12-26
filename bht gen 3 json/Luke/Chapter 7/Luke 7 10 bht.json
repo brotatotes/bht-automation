@@ -1,23 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:15:58",
+    "timestamp": "12-25-2023 19:19:53",
     "verseRef": "Luke 7:10",
     "bestBHT": {
-        "bht": "In one of the most powerful miracles performed by Jesus, he raises the servant to wholeness. This event stands among the three greatest recorded miracles in the Bible, which include the resurrections of Jairus's daughter and Lazarus. The Greek term used, \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1, signifies the complete restoration of the servant to full health. This emphasizes the remarkable healing power displayed by Jesus, highlighting his boundless compassion and ability to bring about miraculous transformations.",
+        "bht": "This is one of the three greatest recorded miracles of our Lord. He raised one (Jairus\u2019s daughter) who had been dead, one who was on the way to burial, and one (Lazarus) who had been buried four days. The servant, who had been sick, was found whole. The centurion's expression of faith played a significant role in this miracle, as Christ had declared that the healing would be according to it.",
         "wordCount": 73,
-        "quoteTokenProportion": 31.48,
-        "qualityScore": 1.2226591826982052,
-        "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.3580811600598683,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.5,
         "commentatorTierSimilarities": [
-            40.49,
-            21.38,
-            38.13
+            37.81,
+            13.2,
+            48.99
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "This is one of the three greatest recorded miracles of our Lord.",
-            "He raised one (Jairus\u2019s daughter) when just dead,\u2014one on the way to burial,\u2014and one (Lazarus) who had been buried four days."
+            "He raised one (Jairus\u2019s daughter) when just dead,\u2014one on the way to burial,\u2014and one (Lazarus) who had been buried four days.",
+            "...one of the three greatest recorded miracles of our Lord."
         ],
         "Marvin Vincent": [
             "Whole [\u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1] . See on ch. Luke 5:31. The best texts omit that had been sick. ",
@@ -31,8 +32,8 @@
             "Whole (\u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1). Sound, well. See Luke 5:31. "
         ],
         "John Gill": [
-            "And they that were sent, returning to the house, found the servant whole that had been sick.\" ",
-            "For he was healed directly, as soon as the centurion had expressed his faith.",
+            "And they that were sent... found the servant whole that had been sick.\" ",
+            "He was healed directly, as soon as the centurion had expressed his faith.",
             "Christ had declared that it should be according to it."
         ]
     },
@@ -53,67 +54,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this particular account, it is said to be one of the greatest miracles performed by Jesus. Interestingly, this verse appears to be part of a series of recorded miracles, with two other significant examples being the resurrection of Jairus's daughter and Lazarus. The specific Greek term used in the verse, \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1, refers to the servant being sound or well, emphasizing the complete restoration of his health. Luke, the author of this Gospel, provides added emphasis on the servant's condition by mentioning that the servant was whole rather than simply well.",
-            "wordCount": 93,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.515405313570776,
-            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "bht": "This verse in Luke recounts one of the three greatest miracles performed by Jesus. It is a miracle of healing, where Jesus restores a servant who had been sick. The servant is found whole or well, highlighting the immediate and complete healing that took place. The centurion's expression of faith played a significant role in this miracle, as Jesus had previously declared that the healing would be according to the centurion's faith. This miracle demonstrates Jesus' power and willingness to heal, even from a distance, in response to sincere faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3502981969228145,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
             "commentatorTierSimilarities": [
-                38.07,
-                29.14,
-                32.8
+                34.24,
+                21.33,
+                44.43
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this extraordinary account, Jesus performs one of his most remarkable miracles. It is remarkable because it is included among the three greatest miracles recorded of Jesus, which include raising Jairus's daughter and Lazarus. The Greek term used in the passage, \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1, signifies complete soundness and wellness, emphasizing the entirety of the servant's healing. Its distinct usage underscores the restoration of the servant's health. This demonstrates the magnitude of Jesus' power and compassion in bringing about miraculous healing.",
-            "wordCount": 81,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 1.1781759933680889,
-            "qualityScoreNormalizedComparedToV2BHTs": 30.52,
+            "bht": "This is one of the three greatest recorded miracles of our Lord. He raised one (Jairus\u2019s daughter) who had been dead, one who was on the way to burial, and one (Lazarus) who had been buried four days. The servant, who had been sick, was found whole. The centurion's expression of faith played a significant role in this miracle, as Christ had declared that the healing would be according to it.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.3580811600598683,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.5,
             "commentatorTierSimilarities": [
-                37.18,
-                22.49,
-                40.33
+                37.81,
+                13.2,
+                48.99
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In one of the most powerful miracles performed by Jesus, he raises the servant to wholeness. This event stands among the three greatest recorded miracles in the Bible, which include the resurrections of Jairus's daughter and Lazarus. The Greek term used, \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1, signifies the complete restoration of the servant to full health. This emphasizes the remarkable healing power displayed by Jesus, highlighting his boundless compassion and ability to bring about miraculous transformations.",
-            "wordCount": 73,
-            "quoteTokenProportion": 31.48,
-            "qualityScore": 1.2226591826982052,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+            "bht": "This particular event is notable as one of the three greatest miracles performed by Jesus. It involved the healing of a servant who had been sick, resulting in the servant being found whole. The centurion's faith was crucial in bringing about this miraculous healing, as Jesus himself had declared that the healing would occur according to the centurion's faith. This healing serves as a powerful demonstration of Jesus' ability and willingness to bring about complete restoration in response to genuine belief.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.2461467964440658,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.78,
             "commentatorTierSimilarities": [
-                40.49,
-                21.38,
-                38.13
+                30.1,
+                16.99,
+                52.91
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In one of the greatest miracles of Jesus, he raises the servant to complete wellness. This stands alongside the resurrections of Jairus's daughter and Lazarus as exceptional displays of Jesus' divine power. The Greek term used, \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1, denotes the servant's soundness and well-being. This emphasizes the significance of the servant's complete healing, demonstrating Jesus' immense compassion and ability to bring about extraordinary transformations.",
-            "wordCount": 67,
-            "quoteTokenProportion": 28.26,
-            "qualityScore": 1.19679544362273,
-            "qualityScoreNormalizedComparedToV2BHTs": 31.14,
+            "bht": "This is one of the three greatest miracles performed by Jesus, involving the healing of a sick servant who was found whole. The centurion's faith played a vital role in this miraculous event, as Jesus had stated that the healing would be in accordance with the centurion's faith. This powerful demonstration showcases Jesus' ability and willingness to bring about complete restoration in response to sincere belief.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.2541239358647802,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.04,
             "commentatorTierSimilarities": [
-                36.25,
-                23.74,
-                40.01
+                34.0,
+                15.94,
+                50.07
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this notable display of Jesus' power, he performs one of the three most extraordinary recorded miracles. It is remarkable that Jesus raises the servant to full health, just as he resurrected Jairus's daughter and Lazarus. The Greek term used in the verse, \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1, signifies the servant's soundness and well-being. This choice of word emphasizes the complete restoration of the servant's health, highlighting Jesus' remarkable ability to bring about profound healing.",
-            "wordCount": 75,
-            "quoteTokenProportion": 37.74,
-            "qualityScore": 1.317827089095037,
-            "qualityScoreNormalizedComparedToV2BHTs": 35.16,
+            "bht": "One of the greatest miracles recounted in the scriptures is the healing of a sick servant, where the servant was found whole. This event stands as a testament to Jesus' remarkable power and willingness to bring about complete restoration. It is important to note the significant role that the centurion's faith played in this miraculous occurrence. Jesus himself had declared that the healing would be in accordance with the centurion's faith, emphasizing the vital connection between belief and divine intervention.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.227168376257071,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.15,
             "commentatorTierSimilarities": [
-                35.49,
-                25.89,
-                38.61
+                32.6,
+                20.14,
+                47.27
             ],
             "generationAttempt": 5
         }

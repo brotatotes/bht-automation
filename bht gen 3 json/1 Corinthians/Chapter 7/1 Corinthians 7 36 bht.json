@@ -1,52 +1,54 @@
 {
-    "timestamp": "12-19-2023 15:06:54",
+    "timestamp": "12-25-2023 19:31:26",
     "verseRef": "1 Corinthians 7:36",
     "bestBHT": {
-        "bht": "If a father behaves uncomely by prolonging his daughter's unmarried status beyond the bloom of her age, he is disregarding her natural desire for marriage. However, if there are genuine necessities that require delay, such as concerns for her welfare, then it is understandable. In the end, it is appropriate for the daughter and her suitor to marry, ensuring that she is not subjected to temptation or viewed unfavorably due to her unmarried state.",
-        "wordCount": 75,
-        "quoteTokenProportion": 45.61,
-        "qualityScore": 1.967963537029127,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+        "bht": "A father who keeps his daughter unmarried beyond the appropriate age is not treating her well and is withholding the opportunity for a lawful marriage. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace associated with being unmarried. The father should consider the feelings and welfare of his daughter and allow her to marry if necessary. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.",
+        "wordCount": 93,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.3038166149310784,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.94,
         "commentatorTierSimilarities": [
-            35.23,
-            33.08,
-            31.69
+            37.12,
+            36.94,
+            25.93
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Behaveth... uncomely\u2014is not treating his daughter well in leaving her unmarried beyond the flower of her age, and thus debarring her from the lawful gratification of her natural feeling as a marriageable woman.",
-            "Need so require\u2014if the exigencies of the case require it; namely, regard to the feelings and welfare of his daughter. Opposed to 'having no necessity' (1 Corinthians 7:37).",
+            "Behaveth . . . uncomely\u2014is not treating his daughter well in leaving her unmarried beyond the flower of her age, and thus debarring her from the lawful gratification of her natural feeling as a marriageable woman.",
+            "Need so require\u2014if the exigencies of the case require it; namely, regard to the feelings and welfare of his daughter.",
             "Let them marry\u2014the daughter and her suitor."
         ],
         "Albert Barnes": [
-            "If she pass the flower of her age - If she pass the marriageable age and remains unmarried.",
-            "And need so require - And she ought to be allowed to marry.",
-            "He sinneth not - He errs not; he will do nothing positively wrong in the case."
+            "That he behaveth himself uncomely - Acts an unbecoming part, imposes an unnecessary, painful, and improper constraint, crosses her inclinations which are in themselves proper.",
+            "If she pass the flower of her age - If she pass the marriageable age and remains unmarried. It is well known that in the east it was regarded as especially dishonorable to remain unmarried; and the authority of a father, therefore, might be the means of involving his daughter in shame and disgrace.",
+            "And need so require - And she ought to be allowed to marry. If it will promote her happiness, and if she would be unhappy, and regarded as dishonored, if she remained in a state of celibacy."
         ],
         "Marvin Vincent": [
             "Acts unbecomingly, either by throwing temptation in the daughter's way by constraining her to remain unmarried, or by exposing her to the disgrace which was supposed to attach to the unmarried state.",
-            "Beyond the bloom of life.",
+            "Beyond the bloom of life. Plato fixes the point at twenty years.",
             "Evidently there was assumed to be another in the case beside the father and the virgin."
         ],
         "John Calvin": [
-            "For the greater their attachment to their children, so much the more anxiously do they exercise fear and caution on their account.",
-            "Celibacy will be seemly for one, but he must not measure all by his own foot.",
-            "And it requires to be so. In this clause I understand him as referring to the girl\u2019s infirmity \u2014 in the event of her not having the gift of continency; for in that case, necessity constrains her to marry."
+            "Paul, then, with the view of relieving them from this difficulty, teaches that it is their duty to consult their advantage, exactly as one would do for himself when at his own disposal.",
+            "Celibacy will be seemly for one, but he must not measure all by his own foot; and others should not attempt to imitate him without taking into view their ability; for it is the imitation of the ape \u2014 which is at variance with nature.",
+            "In this clause I understand him as referring to the girl\u2019s infirmity \u2014 in the event of her not having the gift of continency; for in that case, necessity constrains her to marry."
         ],
         "Archibald T. Robertson": [
-            "If she be past the flower of her age, past the bloom of youth."
+            "The father is advised to consent. Roman and Greek fathers had the control of the marriage of their daughters.\" ",
+            "If need so requireth (\u03ba\u03b1 \u03bf\u03c5\u03c4\u03c9\u03c2 \u03bf\u03c6\u03b5\u03b9\u03bb\u03b5 \u03b3\u03b9\u03bd\u03b5\u03c3\u03b8\u03b1). 'And it ought to happen.' Paul has discussed the problem of marriage for virgins on the grounds of expediency.\" ",
+            "The father is advised to consent. Roman and Greek fathers had the control of the marriage of their daughters."
         ],
         "John Gill": [
-            "it is better to understand it of a parent, or one that has the care and guardianship of virgins; if such an one is of opinion, that he behaveth himself uncomely towards his virgin.",
-            "by exposing her to contempt and reproach... or by so doing lay her under temptation to do that which is uncomely, to commit fornication.",
-            "there is no reason why they should not; there is nothing contrary to it in the word of God, nor in the advice of the apostle; nay, according to him, it was much better to marry than to burn, or to be exposed to any snare and temptation."
+            "If such an one is of opinion, that he behaveth himself uncomely towards his virgin.",
+            "The apostle may have respect to a Jewish tradition founded upon the supposed sense of Leviticus 19:29 'do not prostitute thy daughter to cause her to be a whore.'",
+            "According to him, it was much better to marry than to burn, or to be exposed to any snare and temptation."
         ],
         "John Wesley": [
             "But if any parent think he should otherwise act indecently - Unbecoming his character.",
-            "Toward his virgin daughter, if she be above age, (or of full age,) and need so require, let them marry.",
-            "Her suitor and she."
+            "Toward his virgin daughter, if she be above age, (or of full age,) and need so require.",
+            "Let them marry - Her suitor and she."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -66,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "If a father refuses to allow his daughter to marry, he is treating her unkindly, as it is not proper to withhold marriage from a woman in the prime of her life. However, if there are legitimate reasons for delay, such as concern for the daughter's wellbeing, then it is acceptable. Ultimately, the daughter should be allowed to marry her suitor and not be exposed to temptation or societal disgrace.",
-            "wordCount": 71,
-            "quoteTokenProportion": 47.06,
-            "qualityScore": 1.8547526516972543,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "bht": "If a father keeps his daughter unmarried beyond the appropriate age, he is not treating her well and denying her the opportunity for a lawful marriage. The father should consider the feelings and welfare of his daughter and allow her to marry. It is unbecoming for the father to either tempt his daughter by forcing her to remain unmarried or subject her to the disgrace associated with being unmarried. If the daughter desires to marry and it is necessary, the father should give his consent. The authority of the father in arranging the marriage of his daughter was recognized in Roman and Greek cultures. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.251588135820725,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.21,
             "commentatorTierSimilarities": [
-                32.24,
-                35.46,
-                32.3
+                39.49,
+                34.86,
+                25.65
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "If a father behaves uncomely by prolonging his daughter's unmarried status beyond the bloom of her age, he is disregarding her natural desire for marriage. However, if there are genuine necessities that require delay, such as concerns for her welfare, then it is understandable. In the end, it is appropriate for the daughter and her suitor to marry, ensuring that she is not subjected to temptation or viewed unfavorably due to her unmarried state.",
-            "wordCount": 75,
-            "quoteTokenProportion": 45.61,
-            "qualityScore": 1.967963537029127,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+            "bht": "If a father keeps his daughter unmarried beyond the appropriate age, he is not treating her well and denying her the opportunity for a lawful marriage. The father should consider the feelings and welfare of his daughter and allow her to marry. It is unbecoming for the father to either tempt his daughter by forcing her to remain unmarried or subject her to the disgrace associated with being unmarried. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.295628444284386,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
             "commentatorTierSimilarities": [
-                35.23,
-                33.08,
-                31.69
+                37.48,
+                36.44,
+                26.08
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "If a father acts unbecomingly by keeping his daughter unmarried beyond the flower of her age, he is denying her the opportunity for lawful marriage and denying her natural desires as a marriageable woman. However, if there are genuine circumstances that necessitate delay, such as the daughter's welfare, it is acceptable. In the end, it is appropriate for the daughter and her suitor to marry, in order to avoid temptation and the disgrace associated with remaining unmarried.",
-            "wordCount": 78,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.9412736927115262,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "bht": "A father who keeps his daughter unmarried beyond the appropriate age is not treating her well and is withholding the opportunity for a lawful marriage. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace associated with being unmarried. The father should consider the feelings and welfare of his daughter and allow her to marry if necessary. The apostle Paul advises fathers to act in a manner that is becoming and in line with the well-being of their daughters.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.3038166149310784,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.94,
             "commentatorTierSimilarities": [
-                35.21,
-                34.33,
-                30.46
+                37.12,
+                36.94,
+                25.93
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "If a father acts uncomely by constraining his daughter to remain unmarried beyond the bloom of her age, he is depriving her of the opportunity for lawful marriage and preventing her from fulfilling her natural desires. However, if there are legitimate reasons for delay, such as concerns for the daughter's well-being, it is understandable. Ultimately, it is appropriate for the daughter and her suitor to marry, in order to avoid exposing her to temptation and disgrace associated with being unmarried.",
-            "wordCount": 82,
-            "quoteTokenProportion": 42.11,
-            "qualityScore": 1.9311204241197033,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+            "bht": "A father's duty is to treat his daughter well, not denying her the opportunity for a lawful marriage by keeping her unmarried beyond the appropriate age. The father should consider his daughter's feelings and welfare, allowing her to marry if necessary. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace associated with being unmarried. The apostle Paul advises fathers to act considerately, ensuring their daughters' well-being.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.2622968248082573,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.56,
             "commentatorTierSimilarities": [
-                36.84,
-                31.67,
-                31.49
+                37.19,
+                36.09,
+                26.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "If a father behaves uncomely by keeping his daughter unmarried beyond the flower of her age, he is denying her the opportunity for lawful marriage and natural gratification. However, if genuine need requires it, such as considering the daughter's feelings and welfare, then it is acceptable. Let the daughter and her suitor marry to avoid disgrace and temptation. This decision is based not only on the father's judgment, but also on the assumption that there is another party involved.",
+            "bht": "A father who keeps his daughter unmarried beyond the appropriate age is not treating her well. It is unbecoming for a father to either tempt his daughter by constraining her to remain unmarried or expose her to the disgrace attached to being single. The father should consider his daughter's feelings and welfare, allowing her to marry if necessary. The apostle Paul advises fathers to act considerately, ensuring the well-being of their daughters by granting consent for marriage if needed.",
             "wordCount": 81,
-            "quoteTokenProportion": 44.26,
-            "qualityScore": 1.7759386821824026,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.268886734294725,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.78,
             "commentatorTierSimilarities": [
-                34.29,
-                33.14,
-                32.57
+                37.42,
+                35.68,
+                26.9
             ],
             "generationAttempt": 5
         }

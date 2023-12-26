@@ -1,22 +1,22 @@
 # Romans 9:19 Commentary Help Text
 
 ## BHT:
-Who are we to reply to God, questioning His ways? Can the formed object question its maker, asking why it was created in a particular way? Just as a potter has authority over the clay, God has the power to create vessels for honor or dishonor from the same source. The objection to this doctrine reveals its true nature - it is about election and non-election to eternal salvation before any distinction in personal character. One may resist God's will, but cannot maintain that resistance.
+Who are we to question God's will and blame Him? Just as a potter molds clay into vessels of different purposes, God has the authority to choose whom He wills for salvation and honor. The objection to this doctrine arises from irreverence and presumption, as the creature has no right to challenge the Creator. While man may resist God's will, it is ultimately futile. Those who resist God's will wrongfully accuse Him of tyranny and cruelty, failing to acknowledge His justice and righteousness.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Yea rather, O man, who art THOU that repliest against God?" 
+1. "Why then doth he yet find fault? For who resisteth his will?...O man, who art THOU that repliest against God?" 
 2. "Shall the thing formed say to him that formed it, 'Why didst thou make me thus?'"
-3. "Or hath not the potter power over the clay, out of the same lump to make one vessel unto honour, and another unto dishonour?"
+3. "Hath not the potter power over the clay, out of the same lump to make one vessel unto honour, and another unto dishonour?"
 
 ### Jamieson-Fausset-Brown:
-1. "This objection shows quite as conclusively as the former the real nature of the doctrine objected to—that it is Election and Non-election to eternal salvation prior to any difference of personal character." 
+1. "This objection shows quite as conclusively as the former the real nature of the doctrine objected to—that it is Election and Non-election to eternal salvation prior to any difference of personal character."
 2. "What now is the apostle's answer? It is twofold. First: 'It is irreverence and presumption in the creature to arraign the Creator.'"
 
 ### Albert Barnes:
-1. "Why doth he yet find fault? - Why does he blame people, since their conduct is in accordance with his purpose, and since he bestows mercy according to his sovereign will?"
+1. "If the position which he had been endeavoring to establish were true; if God had a purpose in all his dealings with people; if all the revolutions among people happened according to his decree, so that he was not disappointed, or his plan frustrated; and if his own glory was secured in all this, why could he blame people?"
 2. "It assumes, what cannot be proved, that a plan or purpose of God must destroy the freedom of man."
-3. "That it was the doctrine of the Scriptures, see 2 Chronicles 20:6, 'In thine hand 'is there not' power and might, so that none is able to withstand thee?' Daniel 4:35, 'he doeth according to his will in the army of heaven, and among the inhabitants of the earth, and none can stay his hand, or say unto him, What doest thou?' See also the case of Joseph and his brethren, Genesis 50:20, 'As for you, ye thought evil against me, but God meant it unto good.'"
+3. "Who hath resisted his will? - That is, who has 'successfully opposed' his will, or frustrated his plan?"
 
 ### Marvin Vincent:
 1. "A man may resist God's will, but cannot maintain his resistance."
@@ -25,23 +25,21 @@ Who are we to reply to God, questioning His ways? Can the formed object question
 
 ### John Calvin:
 1. "They are indeed constrained to yield; but they storm, because they cannot resist; and ascribing dominion to him, they in a manner charge him with tyranny."
-2. "What cause has he to be angry with us? Since he has formed us such as we are, since he leads us at his will where he pleases, what else does he in destroying us but punish his own work in us?"
-3. "For it is not in our power to contend with him; how much soever we may resist, he will yet have the upper hand."
+2. "In the same manner the Sophists in their schools foolishly dispute on what they call his absolute justice, as though forgetful of his own righteousness, he would try the power of his authority by throwing all things into confusion."
+3. "Then unjust will be his judgment, if he condemns us; and unrestrainable is the power which he now employs towards us."
 
 ### Philip Schaff:
-1. "For it will arise, wherever there is any such notion of God, however derived, as admits the possibility of His being the author of evil in man, or what amounts to the same thing, denies His righteousness"
-2. "'Resisteth' is better than 'hath resisted'; and the question implies the helplessness of the objector"
-3. "It virtually makes Him responsible for men’s sins"
+1. "For it will arise, wherever there is any such notion of God, however derived, as admits the possibility of His being the author of evil in man, or what amounts to the same thing, denies His righteousness, because there is a theoretical difficulty in reconciling our responsibility with His free will."
 
 ### Archibald T. Robertson:
-1. "Old verb, to blame."
-2. "Many have attempted to resist God's will."
-3. "Deliberate purpose, in N.T. only here and Acts 27:43; 1 Peter 4:3."
+1. "Old verb, to blame." 
+2. "'Still' (ετ) argues for a change of condition since that is true."
+3. "Many have attempted to resist God's will (βουλημα, deliberate purpose)."
 
 ### John Gill:
-1. "what as if he should say, is he not content with the injustice he has already exercised, in passing by some, when he chose others; in leaving them to themselves, and hardening their hearts against him, and to go on in their own ways, which must unavoidably end in destruction; but after all this, is angry with them, finds fault with them, blames, accuses, and condemns them, for that which they cannot help? this is downright cruelty and tyranny."
-2. "The objector seems to have a particular regard to the case of Pharaoh... and yet he himself had hardened his heart, and continued to harden his heart, that he might not let them go as yet; and when he had let them go, hardened his heart again to pursue after them, when he drowned him and his host in the Red sea; all which in this objection, is represented as unparalleled cruelty and unmercifulness."
-3. "This is said in support of the former, and means not God's will of command, which is always resisted more or less, by wicked men and devils; but his will of purpose, his counsels and decrees, which stand firm and sure, and can never be resisted, so as to be frustrated and made void."
+1. "It is with a witness a stretching out of the hand against God, and strengthening a man's self against the Almighty."
+2. "This is downright cruelty and tyranny."
+3. "The fault then can never lie in them who are hardened, and who act as such, but in God; and therefore it must be unreasonable in him to be angry with, blame, accuse, and condemn persons for being and doing that, which he himself wills them to be and do."
 
 ### John Wesley:
 1. "The particle still is strongly expressive of the objector's sour, morose murmuring."
@@ -50,38 +48,39 @@ Who are we to reply to God, questioning His ways? Can the formed object question
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:07:42
+- Timestamp: 12-25-2023 19:34:45
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 86
-- BHT Commentary Usage: 47.14%
-- BHT Quality Score: 1.9934315443412283
+- BHT Commentary Usage: 41.94%
+- BHT Quality Score: 2.1458971972727108
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (70):
-	['a', 'about', 'and', 'any', 'are', 'as', 'asking', 'authority', 'before', 'but', 'can', 'cannot', 'character', 'clay', 'create', 'created', 'dishonor', 'distinction', 'doctrine', 'election', 'eternal', 'for', 'formed', 'from', 'god', 'has', 'his', 'honor', 'in', 'is', 'it', 'its', 'just', 'maintain', 'maker', 'may', 'nature', 'non', 'object', 'objection', 'one', 'or', 'over', 'particular', 'personal', 'potter', 'power', 'question', 'questioning', 'reply', 'resist', 'resistance', 'reveals', 's', 'salvation', 'same', 'source', 'that', 'the', 'this', 'to', 'true', 'vessels', 'was', 'way', 'ways', 'we', 'who', 'why', 'will']
-- ChatGPT injected words (significant words only) (37):
-	['asking', 'authority', 'character', 'clay', 'create', 'created', 'dishonor', 'distinction', 'doctrine', 'election', 'eternal', 'formed', 'god', 'honor', 'maintain', 'maker', 'nature', 'non', 'object', 'objection', 'particular', 'personal', 'potter', 'power', 'question', 'questioning', 'reply', 'resist', 'resistance', 'reveals', 's', 'salvation', 'source', 'true', 'vessels', 'way', 'ways']
+- ChatGPT injected words (62):
+	['a', 'accuse', 'acknowledge', 'and', 'are', 'arises', 'as', 'authority', 'blame', 'challenge', 'choose', 'clay', 'creator', 'creature', 'cruelty', 'different', 'doctrine', 'failing', 'for', 'from', 'futile', 'god', 'has', 'he', 'him', 'his', 'honor', 'into', 'irreverence', 'is', 'it', 'just', 'justice', 'man', 'may', 'molds', 'no', 'objection', 'of', 'potter', 'presumption', 'purposes', 'question', 'resist', 'right', 'righteousness', 's', 'salvation', 'the', 'this', 'those', 'to', 'tyranny', 'ultimately', 'vessels', 'we', 'while', 'who', 'whom', 'will', 'wills', 'wrongfully']
+- ChatGPT injected words (significant words only) (36):
+	['accuse', 'acknowledge', 'arises', 'authority', 'blame', 'challenge', 'choose', 'clay', 'creator', 'creature', 'cruelty', 'different', 'doctrine', 'failing', 'futile', 'god', 'honor', 'irreverence', 'justice', 'man', 'molds', 'objection', 'potter', 'presumption', 'purposes', 'question', 'resist', 'right', 'righteousness', 's', 'salvation', 'tyranny', 'ultimately', 'vessels', 'wills', 'wrongfully']
 
 ### Logs
-- Attempt 1 BHT: Who are we, mere creatures, to question or challenge the ways of God? Can the creation presume to question its Creator, asking why it was made one way and not another? Just as a potter has power over the clay to shape vessels for different purposes, God has the right to choose whom He will honor and whom He will not. Some may object to this notion of God's election, but it is a presumptuous and irreverent act to oppose the will of the Almighty. While individuals may resist God's will, ultimately their resistance is futile. The question then becomes, who can truly stand against Him? It is a futile endeavor to go against God's purpose, and those who do so only find themselves blaming and resisting the one who has ultimate authority.
-- 🔄 Romans 9:19 (attempt 1, 136 words, 49.43% quotes quality score: 2.0184724013378723, V2 normalized quality score: 58.46, commentator tiers 1-3: 32.68%, 36.84%, 30.48%) 
+- Attempt 1 BHT: Who are we to question God's will and blame Him for our circumstances? Just as a potter has the authority to mold clay into vessels of different purposes, God has the power to choose whom He wills for salvation and honor. The objection to this doctrine arises from a place of irreverence and presumption, as it is not for the creature to question the Creator. While it is true that man may attempt to resist God's will, such resistance cannot be sustained. The objection to God's will is ultimately a refusal to submit to His authority and a denial of His righteousness. Those who resist God's will are not only storming against Him, but they also charge Him with tyranny and cruelty, failing to recognize His justice and righteousness. In their unwillingness to acknowledge God's sovereignty, they blame Him for their own hardened state. However, it is important to remember that it is unreasonable to hold people accountable for being and doing what God Himself wills them to be and do.
+- 🔄 Romans 9:19 (attempt 1, 176 words, 46.53% quotes quality score: 2.133384370525931, V2 normalized quality score: 62.28, commentator tiers 1-3: 27.62%, 41.36%, 31.02%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Who are we to question God's ways? Shall the creation dare to question the Creator's decisions? Like a potter shaping clay, God has the power to choose whom He will honor and whom He will not. The objection to this doctrine reveals the nature of the issue: it is about election and non-election to salvation, before any difference in personal character. It is an act of irreverence and presumption for the creature to challenge the Creator. While one can resist God's will, such resistance is ultimately futile.
-- 🔄 Romans 9:19 (attempt 2, 91 words, 41.94% quotes quality score: 1.9699358316782258, V2 normalized quality score: 56.84, commentator tiers 1-3: 37.02%, 34.7%, 28.28%) 
+- Attempt 2 BHT: Who are we to question God's will and blame Him for our circumstances? Just as a potter has the authority to mold clay into vessels of different purposes, God has the power to choose whom He wills for salvation and honor. The objection to this doctrine arises from irreverence and presumption, as the creature has no right to question the Creator. Man may resist God's will, but cannot maintain it. Those who resist charge God with tyranny and cruelty, failing to recognize His justice and righteousness.
+- 🔄 Romans 9:19 (attempt 2, 88 words, 44.44% quotes quality score: 2.1184271823078396, V2 normalized quality score: 61.78, commentator tiers 1-3: 29.97%, 39.81%, 30.22%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Who are we to reply to God, questioning His ways? Can the formed object question its maker, asking why it was created in a particular way? Just as a potter has authority over the clay, God has the power to create vessels for honor or dishonor from the same source. The objection to this doctrine reveals its true nature - it is about election and non-election to eternal salvation before any distinction in personal character. One may resist God's will, but cannot maintain that resistance.
-- 🔄 Romans 9:19 (attempt 3, 86 words, 47.14% quotes quality score: 1.9934315443412283, V2 normalized quality score: 57.62, commentator tiers 1-3: 37.31%, 35.22%, 27.47%) 
+- Attempt 3 BHT: Who are we to question God's will? Like a potter shaping clay into vessels of different purposes, God has the power to choose whom He wills for salvation and honor. The objection to this doctrine stems from irreverence and presumption, as the creature has no right to challenge the Creator. While man may resist God's will, such resistance is ultimately futile. Those who resist God's will accuse Him of tyranny and cruelty, failing to recognize His justice and righteousness.
+- 🔄 Romans 9:19 (attempt 3, 82 words, 40.98% quotes quality score: 2.1069311161328086, V2 normalized quality score: 61.4, commentator tiers 1-3: 31.81%, 38.83%, 29.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Who are we to challenge God's ways? Can the created object question the Creator's intentions? Like a potter molding clay, God has the right to create vessels for different purposes. The objection against this doctrine exposes the true nature of the issue: it is about God's predestined choice for salvation. It is presumptuous and disrespectful for the creature to question the Creator. Though individuals may resist God's will, their resistance is futile. Ultimately, who can truly withstand Him?
-- 🔄 Romans 9:19 (attempt 4, 82 words, 36.21% quotes quality score: 1.8349867969458713, V2 normalized quality score: 52.35, commentator tiers 1-3: 36.34%, 35.41%, 28.25%) 
+- Attempt 4 BHT: Who are we to question God's will and blame Him? Just as a potter molds clay into vessels of different purposes, God has the authority to choose whom He wills for salvation and honor. The objection to this doctrine arises from irreverence and presumption, as the creature has no right to challenge the Creator. While man may resist God's will, it is ultimately futile. Those who resist God's will wrongfully accuse Him of tyranny and cruelty, failing to acknowledge His justice and righteousness.
+- 🔄 Romans 9:19 (attempt 4, 86 words, 41.94% quotes quality score: 2.1458971972727108, V2 normalized quality score: 62.69, commentator tiers 1-3: 30.33%, 39.8%, 29.87%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Who are we to question God? Are we the ones who formed ourselves, asking why we were made a certain way? Just as a potter has authority over the clay, God has the power to create vessels for honor or dishonor. The objection to this doctrine reveals its true nature - it is about God's choice of election and non-election for salvation. It is an act of irreverence and presumption for the creature to resist the Creator's will.
-- 🔄 Romans 9:19 (attempt 5, 80 words, 44.64% quotes quality score: 1.8876462482954768, V2 normalized quality score: 54.11, commentator tiers 1-3: 37.51%, 36.33%, 26.17%) 
+- Attempt 5 BHT: Who are we to question God's will and blame Him for our circumstances? God, like a potter with clay, has the power to choose whom He wills for salvation and honor. The objection to this doctrine stems from irreverence and presumption, as the creature has no right to challenge the Creator. Although man may attempt to resist God's will, it is impossible to maintain such resistance. People who resist God's will accuse Him of tyranny and cruelty, failing to recognize His justice and righteousness.
+- 🔄 Romans 9:19 (attempt 5, 87 words, 41.94% quotes quality score: 2.1181471103264604, V2 normalized quality score: 61.77, commentator tiers 1-3: 29.87%, 39.58%, 30.56%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Romans 9:19 bht prompt v0.8 (86 words, 47.14% quotes)
-- quality score: 1.9934315443412283, V2 normalized quality score: 57.62, commentator tiers 1-3: 37.31%, 35.22%, 27.47%)
+- ✅ Romans 9:19 bht prompt v0.8 (86 words, 41.94% quotes)
+- quality score: 2.1458971972727108, V2 normalized quality score: 62.69, commentator tiers 1-3: 30.33%, 39.8%, 29.87%)

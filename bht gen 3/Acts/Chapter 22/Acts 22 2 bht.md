@@ -1,12 +1,13 @@
 # Acts 22:2 Commentary Help Text
 
 ## BHT:
-As Paul stood before the crowd, he made a striking choice to address them in the Hebrew tongue. This calculated decision silenced the crowd, as the sound of their holy mother tongue held a powerful sway over them. By speaking in this language, Paul aimed to capture their attention and respect, knowing that they would be more receptive to his message. The sudden hush that swept over the vast mob, under the spell of the Aramaic, created a sense of anticipation and opened their hearts to what Paul was about to say.
+When Paul addressed the crowd in their holy mother tongue, the Hebrew language, the sound of their language awed them into deeper silence. They would have understood Paul's Greek, but they much preferred hearing their own language, and Paul's choice to speak in their own language engaged their attention all the more. It is indeed an unusual thing that when men of diverse languages are together, we hear those who speak our own language more willingly.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "They could have understood him in Greek, and doubtless fully expected the renegade to address them in that language."
+1. "They could have understood him in Greek, and doubtless fully expected the renegade to address them in that language, but the sound of their holy mother tongue awed them into deeper silence."
 2. "The sound of their holy mother tongue awed them into deeper silence."
+3. "The sound of their holy mother tongue."
 
 ### Albert Barnes:
 1. The Hebrew tongue - See the notes on Acts 21:40.
@@ -17,61 +18,58 @@ As Paul stood before the crowd, he made a striking choice to address them in the
 
 
 ### John Calvin:
-1. "This is indeed an unusual thing, that when men which speak diverse languages are together, we hear those more willingly who speak our own language."
-2. "The Jews were moved with another peculiar cause, because they imagined that Paul was offended with his own kindred, so that he did even hate their tongue."
-3. "Now, so soon as they heard their own language, they began to have some better hope."
+1. "It is indeed an unusual thing, that when men which speak diverse languages are together, we hear those more willingly who speak our own language."
+2. "They [the Jews] imagined that Paul was offended with his own kindred, so that he did even hate their tongue, or that he was some rogue which had not so much as learned the speech of that nation whereof he said he came."
+3. "Furthermore, it is uncertain whether Paul spake in the Hebrew or in the Syrian tongue; for we know that the speech of the Jews was corrupt and degenerate after their exile, forasmuch as they had much from the Chaldeans and Syrians."
 
 ### Philip Schaff:
-1. "He addresses his hearers in the loved sacred language. They would be more likely, he knew, to listen to him whom they fancied was a blasphemer of the law of Moses and the temple, if they heard his account of himself in no hated Gentile language, but in the well-known cherished tongue of the people of God." 
-2. "The Hebrew tongue was chosen because he knew they would listen to it, and the event shows he had judged them rightly. 'When they heard the first words spoken in their fathers' tongue,' we read, 'they kept the more silence.'"
-3. "The speech of Paul on the steps of the Antonia tower, as reported by the writer of the 'Acts,' contains three divisions."
+1. "And when they heard that he spake in the Hebrew tongue to them, they kept the more silence."
+2. "The Hebrew tongue was chosen because he knew they would listen to it, and the event shows he had judged them rightly."
+3. "‘When they heard the first words spoken in their fathers’ tongue,’ we read, ‘they kept the more silence.’"
 
 ### Archibald T. Robertson:
 1. "He spake (προσεφωνε). Imperfect active, was speaking."
-2. "They were the more quiet (μαλλον παρεσχον ησυχιαν)."
-3. "It is a vivid picture of the sudden hush that swept over the vast mob under the spell of the Aramaic."
+2. "They were the more quiet (μαλλον παρεσχον ησυχιαν). Literally, The more (μαλλον) they furnished or supplied (second aorist active indicative of παρεχω) quietness (ησυχιαν)."
+3. "It is a vivid picture of the sudden hush that swept over the vast mob under the spell of the Aramaic. They would have understood Paul's Koine Greek, but they much preferred the Aramaic. It was a masterstroke."
 
 ### John Gill:
-1. "It being their mother tongue, and which they best understood."
-2. "When they heard him speak in the Hebrew tongue, it conciliated their minds more to him."
-3. "Engaged their attention the more to what he was about to say."
+1. "They kept the more silence; it being their mother tongue, and which they best understood..."
+2. "...chiefly because the Hellenistic language was not so agreeable to them, nor the Hellenistic Jews..."
+3. "...when they heard him speak in the Hebrew tongue, it conciliated their minds more to him, at least engaged their attention the more to what he was about to say."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:34:59
+- Timestamp: 12-25-2023 19:32:10
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 40.62%
-- BHT Quality Score: 1.849062527163685
+- BHT Word Count: 78
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 2.1813023486344956
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'about', 'address', 'aimed', 'and', 'anticipation', 'aramaic', 'as', 'attention', 'be', 'before', 'by', 'calculated', 'capture', 'choice', 'created', 'crowd', 'decision', 'he', 'hearts', 'hebrew', 'held', 'his', 'holy', 'hush', 'in', 'knowing', 'language', 'made', 'message', 'mob', 'more', 'mother', 'of', 'opened', 'over', 'paul', 'powerful', 'receptive', 'respect', 'say', 'sense', 'silenced', 'sound', 'speaking', 'spell', 'stood', 'striking', 'sudden', 'sway', 'swept', 'that', 'the', 'their', 'them', 'they', 'this', 'to', 'tongue', 'under', 'vast', 'was', 'what', 'would']
-- ChatGPT injected words (significant words only) (38):
-	['address', 'aimed', 'anticipation', 'aramaic', 'attention', 'calculated', 'capture', 'choice', 'created', 'crowd', 'decision', 'hearts', 'hebrew', 'held', 'holy', 'hush', 'knowing', 'language', 'message', 'mob', 'mother', 'opened', 'paul', 'powerful', 'receptive', 'respect', 'sense', 'silenced', 'sound', 'speaking', 'spell', 'stood', 'striking', 'sudden', 'sway', 'swept', 'tongue', 'vast']
+- ChatGPT injected words (56):
+	['addressed', 'all', 'an', 'and', 'are', 'attention', 'awed', 'but', 'choice', 'crowd', 'deeper', 'diverse', 'engaged', 'greek', 'have', 'hear', 'hearing', 'hebrew', 'holy', 'in', 'indeed', 'into', 'is', 'it', 'language', 'languages', 'men', 'more', 'mother', 'much', 'of', 'our', 'own', 'paul', 'preferred', 's', 'silence', 'sound', 'speak', 'that', 'the', 'their', 'them', 'they', 'thing', 'those', 'to', 'together', 'tongue', 'understood', 'unusual', 'we', 'when', 'who', 'willingly', 'would']
+- ChatGPT injected words (significant words only) (28):
+	['addressed', 'attention', 'awed', 'choice', 'crowd', 'deeper', 'diverse', 'engaged', 'greek', 'hear', 'hearing', 'hebrew', 'holy', 'language', 'languages', 'men', 'mother', 'paul', 'preferred', 's', 'silence', 'sound', 'speak', 'thing', 'tongue', 'understood', 'unusual', 'willingly']
 
 ### Logs
-- Attempt 1 BHT: When Paul stood before the crowd, he chose to address them in the Hebrew tongue, their holy mother tongue, which both awed them into silence and engaged their attention. By speaking in the language they cherished, Paul hoped to gain a more receptive audience, knowing that they would be more inclined to listen to him if he spoke in a language they respected. This decision proved to be effective, as the sudden hush that swept over the crowd demonstrated their deep respect for the Aramaic language. When people hear their own language being spoken, they tend to listen more willingly, and in this case, the familiar words stirred a glimmer of hope in them.
-- 🔄 Acts 22:2 (attempt 1, 114 words, 37.84% quotes quality score: 1.9217537911588989, V2 normalized quality score: 55.24, commentator tiers 1-3: 29.32%, 29.99%, 40.69%) 
+- Attempt 1 BHT: When Paul addressed the crowd in their holy mother tongue, the Hebrew language, they were awed into deeper silence. The sudden hush that swept over the vast mob under the spell of the Aramaic was a masterstroke. Though they could have understood him in Greek, they much preferred the Aramaic, and Paul's choice to speak in their own language engaged their attention all the more. It is indeed an unusual thing that when men of diverse languages are together, we hear those who speak our own language more willingly.
+- 🔄 Acts 22:2 (attempt 1, 90 words, 49.25% quotes quality score: 2.1181647361561646, V2 normalized quality score: 61.77, commentator tiers 1-3: 31.47%, 27.75%, 40.78%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Addressing the crowd, Paul intentionally chose to speak in the Hebrew tongue, their beloved language, which silenced them and commanded their attention. By using the language of their forefathers, he hoped to win their favor and show his respect for their traditions. This astute decision allowed him to capture their interest and foster a sense of hope among the listeners. Speaking in one's native tongue has a profound impact, drawing people closer and opening their hearts to receive the message being conveyed.
-- 🔄 Acts 22:2 (attempt 2, 83 words, 33.87% quotes quality score: 1.6430747641038523, V2 normalized quality score: 45.97, commentator tiers 1-3: 24.05%, 33.98%, 41.97%) 
+- Attempt 2 BHT: When Paul addressed the crowd in their holy mother tongue, the Hebrew language, the sound of their language awed them into deeper silence. They would have understood Paul's Greek, but they much preferred hearing their own language, and Paul's choice to speak in their own language engaged their attention all the more. It is indeed an unusual thing that when men of diverse languages are together, we hear those who speak our own language more willingly.
+- 🔄 Acts 22:2 (attempt 2, 78 words, 50.0% quotes quality score: 2.1813023486344956, V2 normalized quality score: 63.87, commentator tiers 1-3: 29.19%, 27.22%, 43.58%)
+- Attempt 3 BHT: When Paul addressed the crowd in their holy mother tongue, their deep silence showed their awe. They could have understood him in Greek but were much more moved by the sound of the language they best understood. It was a masterstroke for Paul to speak in the Hebrew tongue, ensuring that the listeners would pay closer attention. The use of this language created a sudden hush that swept over the crowd, captivating their minds and engaging their attention in a way that the Hellenistic language could not.
+- 🔄 Acts 22:2 (attempt 3, 87 words, 42.37% quotes quality score: 2.143239300087501, V2 normalized quality score: 62.6, commentator tiers 1-3: 31.86%, 29.38%, 38.77%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Paul's choice to speak in the Hebrew tongue immediately captivated the crowd, causing them to fall into a deep silence. The familiar sound of their holy mother tongue awed them into submission, creating a reverent atmosphere. By addressing them in this cherished language, Paul aimed to gain their attention and respect, knowing they would be more inclined to listen. Indeed, the impact of hearing their own language sparked a glimmer of hope within the crowd, engaging them and preparing their minds to receive Paul's message.
-- 🔄 Acts 22:2 (attempt 3, 87 words, 30.0% quotes quality score: 1.8454625179407276, V2 normalized quality score: 52.7, commentator tiers 1-3: 27.98%, 32.51%, 39.51%) 
+- Attempt 4 BHT: When Paul addressed the crowd in their holy mother tongue, their deep silence showed their awe. The sound of their holy mother tongue awed them, causing them to be even more quiet. It was a masterstroke for Paul to speak in the Hebrew tongue; the sudden hush that swept over the crowd revealed their preference for this language. By speaking in a language that they best understood, Paul captured their attention and engaged their minds more effectively than if he had spoken in Greek.
+- 🔄 Acts 22:2 (attempt 4, 84 words, 42.11% quotes quality score: 2.3385381505831484, V2 normalized quality score: 69.1, commentator tiers 1-3: 33.72%, 30.3%, 35.98%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As Paul stood before the crowd, he made a striking choice to address them in the Hebrew tongue. This calculated decision silenced the crowd, as the sound of their holy mother tongue held a powerful sway over them. By speaking in this language, Paul aimed to capture their attention and respect, knowing that they would be more receptive to his message. The sudden hush that swept over the vast mob, under the spell of the Aramaic, created a sense of anticipation and opened their hearts to what Paul was about to say.
-- 🔄 Acts 22:2 (attempt 4, 92 words, 40.62% quotes quality score: 1.849062527163685, V2 normalized quality score: 52.82, commentator tiers 1-3: 29.46%, 33.16%, 37.38%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: When Paul addressed the crowd in their holy mother tongue, the sound of their language awed them into deeper silence. It was a vivid picture of the sudden hush that swept over the vast mob. Speaking in the Hebrew tongue was a masterstroke, as the listeners clearly preferred it over Greek. By choosing their language, Paul captured their attention and engaged their minds, ensuring that they would listen more willingly and be attentive to what he had to say.
+- 🔄 Acts 22:2 (attempt 5, 79 words, 41.38% quotes quality score: 2.003384933469678, V2 normalized quality score: 57.95, commentator tiers 1-3: 33.5%, 30.33%, 36.17%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul, aware of the power of their holy mother tongue, chose to address the crowd in the Hebrew language. This decision silenced them and created an atmosphere of reverence and anticipation. By speaking in their deeply cherished language, it was likely that they would be more inclined to listen to his account and possibly find common ground. The impact of hearing their own language stirred a glimmer of hope and engaged their attention, preparing their minds for what Paul had to say.
-- 🔄 Acts 22:2 (attempt 5, 82 words, 39.34% quotes quality score: 1.750589439478286, V2 normalized quality score: 49.55, commentator tiers 1-3: 29.49%, 30.55%, 39.96%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 22:2 bht prompt v0.8 (92 words, 40.62% quotes)
-- quality score: 1.849062527163685, V2 normalized quality score: 52.82, commentator tiers 1-3: 29.46%, 33.16%, 37.38%)
+- ✅ Acts 22:2 bht prompt v0.8 (78 words, 50.0% quotes)
+- quality score: 2.1813023486344956, V2 normalized quality score: 63.87, commentator tiers 1-3: 29.19%, 27.22%, 43.58%)

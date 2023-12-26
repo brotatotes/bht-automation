@@ -1,58 +1,59 @@
 {
-    "timestamp": "12-19-2023 15:17:54",
+    "timestamp": "12-25-2023 19:33:23",
     "verseRef": "2 Corinthians 10:15",
     "bestBHT": {
-        "bht": "Their hope is not to boast excessively or go beyond their appointed boundaries, but rather to be enlarged among the Corinthians as their faith grows. They do not seek to rely on the labors of others or exceed their own measure. Instead, they aim to go even further in their ministry, guided by God's measuring line. The progress of the Corinthians will be a vital step towards reaching regions beyond, and their success will magnify the apostle's work.",
-        "wordCount": 80,
-        "quoteTokenProportion": 46.55,
-        "qualityScore": 1.9053006807992503,
-        "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+        "bht": "As our faith grows, we should not boast excessively in the work of others but hope to be enlarged according to our measure. Let us not stretch ourselves beyond our bounds or exceed them by boasting about what others have achieved. Instead, may our effectiveness as messengers of the Gospel increase as your faith grows. Our success in your case will serve as a catalyst for further progress and enlargement in our work, all in accordance with our God-given assignment.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0600946435736462,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.84,
         "commentatorTierSimilarities": [
-            36.05,
-            33.4,
-            30.55
+            38.76,
+            33.48,
+            27.76
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "Not boasting without measure in other men\u2019s labours (the element of the boasting); but having a hope, as your faith increaseth, to be enlarged among you according to our rule.\" ",
-            "We seek not to stretch ourselves (beyond it) unto great abundance.",
-            "So as to abound more than we now do."
+            "not boasting without measure in other men\u2019s labours... but having a hope, as your faith increaseth, to be enlarged among you according to our rule.\" ",
+            "we seek not to stretch ourselves (beyond it) unto great abundance.",
+            "so as to abound more than we now do."
         ],
         "Jamieson-Fausset-Brown": [
             "Not boasting to unmeasured bounds (that is, not exceeding our own bounds by boasting) of (literally, 'in') other men's labors.",
-            "The cause of his not yet reaching with the Gospel the regions beyond Corinth, was the weakness as yet of their faith.",
-            "Our success in your case will give us an important step towards further progress beyond you."
+            "Our success in your case will give us an important step towards further progress beyond you.",
+            "according to our divinely assigned apportionment of the area or sphere of our work; for 'we stretch not ourselves beyond our measure.'"
         ],
         "Albert Barnes": [
-            "Not boasting of things without our measure... That required a species of boldness to which he could lay no claim; and he did not assume honor to himself like that.\" ",
-            "Not intruding into churches which we did not establish, and claiming the right to direct their affairs, and to exclude the founders from all proper honors and all influence, and endeavoring to alienate the affections of Christians from their spiritual father and guide.",
-            "So far from a desire to enter into the labors of others and quietly enjoying the avails of their industry; and so far even from a desire to sit down ourselves and enjoy the fruit of our own labors, I desire to penetrate other untrodden regions; to encounter new dangers; to go where the gospel has not been planted, and to rear other churches there."
+            "I desire to penetrate other untrodden regions; to encounter new dangers; to go where the gospel has not been planted, and to rear other churches there.",
+            "When your faith is increased - When you become so strong as not to need my presence and my constant care; and when you shall be able to speed me on my way and to aid me on my journey.",
+            "He wished them to enlarge or magnify him by introducing him to larger fields of action; by giving him a wider sphere of labor."
         ],
         "Marvin Vincent": [
             "He who can work far off is a man of great stature, who, without overstretching himself, reaches afar\" (Meyer).",
-            "His wider labors will still be regulated by God's measuring - line."
+            "His wider labors will still be regulated by God's measuring - line.",
+            "Paul means that, as the faith of the Corinthians increases, he hopes that his apostolic efficiency will increase."
         ],
         "John Calvin": [
-            "Those persons afterwards come forward, and find the road made and the gate open. That they may appear persons of consequence, they impudently claim for themselves what did not of right belong to them, and disparage Paul\u2019s labors.",
-            "I ought now to have been employed in gaining over new Churches, and that too with your assistance, if you had made as much proficiency as you ought to have done; but now you retard me by your infirmity.",
+            "They impudently claim for themselves what did not of right belong to them, and disparage Paul\u2019s labors.",
+            "The weakness of faith...was the reason, why his career had been somewhat retarded.",
             "To glory in things that have been prepared is equivalent to glorying in the labors of others; for, while Paul had fought the battle, they enjoyed the triumph."
         ],
         "Philip Schaff": [
-            "Be encouraged by our success with you to extend our labours.",
-            "Preach the gospel even unto the parts beyond you.",
-            "Do not glory in another's line of things made ready to our hand."
+            "not glorying ... in other men\u2019s labours, but having hope that, as your faith groweth, we shall be magnified in you",
+            "be encouraged by our success with you to extend our labours",
+            "not to glory in another\u2019s line of things made ready to our hand"
         ],
         "Archibald T. Robertson": [
-            "In other men's labours.\" ",
-            "As your faith groweth.\" ",
-            "We shall be magnified."
+            "As your faith groweth (\u03b1\u03c5\u03be\u03b1\u03bd\u03bf\u03bc\u03b5\u03bd\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2). Genitive absolute of the present passive participle of \u03b1\u03c5\u03be\u03b1\u03bd\u03c9, to grow.",
+            "We shall be magnified (\u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03b8\u03b7\u03bd\u03b1). First aorist passive infinitive of \u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03c9, old verb (Luke 1:46) to make great (cf. Philippians 1:20 of Christ).",
+            "Indirect discourse after \u03b5\u03bb\u03c0\u03b9\u03b4\u03b1 (hope) with the construction of \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9, to hope."
         ],
         "John Gill": [
-            "They did not boast of other men's labours, as did the false apostles.",
-            "The apostle hoped... that they should be enlarged through their means.",
-            "If their church state were in a better and a more settled condition... it would serve to recommend it to other places beyond them."
+            "When they boasted of the Corinthians as their converts and children, whom they had begotten through the Gospel of Christ, they did not boast of other men's labours, as did the false apostles.",
+            "The apostle hoped... that when the faith of the Corinthians was grown stronger... they should be enlarged...",
+            "The weakness of their faith, and the disorders and divisions that were among them, were a hinderance to the spread of the Gospel."
         ],
         "John Wesley": [
             "Having hope, now your faith is increased \u2014 So that you can the better spare us.",
@@ -76,67 +77,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Not boasting excessively about the work of others, but having a hopeful expectation that as their faith grows, they will be able to expand their service among them according to the limits set by God. Their desire is not to go beyond what is necessary, but to go even farther than their current level of ministry. Their confidence in the Corinthians' faith is vital, as their progress in the faith will open doors for the apostle to reach other regions. Their intention is not to claim the accomplishments of others or overstep their boundaries, but to be magnified through the Corinthians' growth.",
-            "wordCount": 102,
-            "quoteTokenProportion": 43.08,
-            "qualityScore": 1.830801196717717,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
+            "bht": "As our faith grows, we should not boast excessively about the work done by others. Rather, our hope should be to expand our own efforts in accordance with the measure allotted to us. We should not strive to go beyond what is appropriate, but rather seek to abound in our own sphere of influence. As our faith increases, our effectiveness as messengers of the Gospel will also increase. May our faith be strengthened so that we may contribute to the enlargement of the Kingdom and be magnified in the eyes of others, all to the glory of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9548587486447482,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
             "commentatorTierSimilarities": [
-                30.73,
-                37.46,
-                31.81
+                37.94,
+                36.14,
+                25.92
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Not boasting excessively, but with a hopeful anticipation, they look forward to being enabled by the Corinthians' increased faith to expand their work among them. Their desire is not to go beyond what is necessary, but to radiate even more abundantly than before. They do not seek to claim the achievements of others or exceed the boundaries set by God's measure. Their success in the Corinthians' case will serve as a significant step towards further progress in reaching regions beyond.",
-            "wordCount": 81,
-            "quoteTokenProportion": 46.77,
-            "qualityScore": 1.7860314712943621,
-            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "bht": "As our faith grows, we should not boast excessively about the work done by others. Rather, our hope should be to expand our own efforts in accordance with the measure allotted to us. We should not strive to go beyond what is appropriate, but rather seek to abound in our own sphere of influence. May our faith increase and our effectiveness as messengers of the Gospel improve, contributing to the enlargement of the Kingdom and the magnification of our work.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.9437927608951644,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
             "commentatorTierSimilarities": [
-                34.26,
-                35.85,
-                29.88
+                39.2,
+                36.08,
+                24.72
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Their hope is not to boast excessively or go beyond the limits, but to be enlarged among the Corinthians as their faith grows. They seek to surpass their current level of ministry without overstepping their boundaries or relying on the labor of others. The apostle's intention is to go even further and reach regions beyond Corinth, while still being guided by God's measure. The Corinthians' progress in faith will contribute to their own magnification and the opportunity for greater ministry expansion.",
-            "wordCount": 83,
-            "quoteTokenProportion": 46.67,
-            "qualityScore": 1.8663663429882082,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.4,
+            "bht": "As our faith increaseth, we should not boast beyond our measure, but rather hope to be enlarged according to our rule. Let us not stretch ourselves to great abundance or exceed our bounds by boasting in the labors of others. Instead, may our success among you be a stepping stone towards further progress and the widening of our impact. Let our wider labors be regulated by God's measuring line as our efficiency as messengers of the Gospel increases along with your growing faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.1905532258507705,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.18,
             "commentatorTierSimilarities": [
-                34.27,
-                34.25,
-                31.48
+                40.11,
+                34.55,
+                25.34
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Their hope is not to boast excessively or exceed their own boundaries, but rather to be enlarged and expanded among the Corinthians as their faith increases. They aim to go beyond their current level of ministry, not by boasting in the work of others, but by relying on the progress of the Corinthians. The apostle seeks to reach regions beyond Corinth, guided by God's measure, and their success will serve as an important step towards further progress. Through the Corinthians' growth, the apostle will be magnified in his work.",
-            "wordCount": 90,
-            "quoteTokenProportion": 45.0,
-            "qualityScore": 1.87096021922385,
-            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "bht": "As our faith grows, we should not boast excessively in the work of others but hope to be enlarged according to our measure. Let us not stretch ourselves beyond our bounds or exceed them by boasting about what others have achieved. Instead, may our effectiveness as messengers of the Gospel increase as your faith grows. Our success in your case will serve as a catalyst for further progress and enlargement in our work, all in accordance with our God-given assignment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0600946435736462,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
             "commentatorTierSimilarities": [
-                35.83,
-                33.94,
-                30.24
+                38.76,
+                33.48,
+                27.76
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Their hope is not to boast excessively or go beyond their appointed boundaries, but rather to be enlarged among the Corinthians as their faith grows. They do not seek to rely on the labors of others or exceed their own measure. Instead, they aim to go even further in their ministry, guided by God's measuring line. The progress of the Corinthians will be a vital step towards reaching regions beyond, and their success will magnify the apostle's work.",
-            "wordCount": 80,
-            "quoteTokenProportion": 46.55,
-            "qualityScore": 1.9053006807992503,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "bht": "Let us not boast immoderately in the labors of others, but rather hope to be enlarged in our own sphere of work as our faith increases. It is important to not surpass our measure or strive for excessive abundance. Instead, we should seek to expand our impact in accordance with the rule appointed by God. As we witness the growth of faith in others, may we be magnified and encouraged to extend our labors, contributing to the advancement of the Kingdom.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.011761497050995,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
             "commentatorTierSimilarities": [
-                36.05,
-                33.4,
-                30.55
+                39.01,
+                36.39,
+                24.6
             ],
             "generationAttempt": 5
         }

@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-21-2023 03:15:28",
+    "timestamp": "12-25-2023 19:32:18",
     "verseRef": "John 20:28",
     "bestBHT": {
-        "bht": "This highest confession of faith made by Thomas goes beyond anything previously expressed, showing his understanding of Jesus' divinity. It is a remarkable declaration that surpasses all others and brings great blessing to those who believe without seeing. Thomas fearlessly addresses the Risen Christ as both Lord and God, and Jesus accepts and commends him for this bold act of faith. Thomas's immediate transformation from doubt to such a profound confession can be attributed to the powerful experiences he had witnessed leading up to that moment.",
-        "wordCount": 87,
-        "quoteTokenProportion": 42.86,
-        "qualityScore": 1.9663097085437689,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+        "bht": "The exclamation of Thomas, My Lord and my God, is the highest confession of faith. It is not a mere expression of surprise, but a sincere acknowledgement of Jesus as both Lord and God. Jesus accepts these words and praises Thomas for such a profound declaration. Thomas's immediate transition from doubt to unwavering faith is awe-inspiring, revealing his absolute conviction in the divinity of Jesus. This confession surpasses any prior utterance and solidifies Jesus's supreme authority and deity.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.099678872650848,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.16,
         "commentatorTierSimilarities": [
-            37.68,
-            38.0,
-            24.32
+            37.86,
+            32.84,
+            29.3
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "This is the highest confession of faith which has yet been made;\u2014and that it shows that (though not yet fully) the meaning of the previous confessions of His being \u2018the Son of God\u2019 was understood.",
-            "For these words cannot apply to the remaining Ten: they, like Thomas, had seen and believed. 'All the appearances of the forty days,' says Stier, 'were mere preparations for the believing without seeing.'",
-            "Wonderful indeed, and rich in blessing for us who have not seen Him, is this, the closing word of the Gospel."
+            "The Socinian view, that these words, My Lord and my God, are merely an exclamation, is refuted.",
+            "This is the highest confession of faith which has yet been made.",
+            "Wonderful indeed, and rich in blessing for us who have not seen Him, is this, the closing word (see below) of the Gospel."
         ],
         "Jamieson-Fausset-Brown": [
             "His exclamation surpasses all that had been yet uttered, nor can it be surpassed by anything that ever will be uttered in earth or heaven.",
-            "The Socinian invasion of the supreme divinity of Christ here manifestly taught\u2014as if it were a mere call upon God in a fit of astonishment\u2014is beneath notice",
-            "Save for the profanity it charges upon this disciple, and the straits to which it shows themselves reduced."
+            "The Socinian invasion of the supreme divinity of Christ here manifestly taught\u2014as if it were a mere call upon God in a fit of astonishment\u2014is beneath notice, save for the profanity it charges upon this disciple, and the straits to which it shows themselves reduced.",
+            "On the striking parallel in Nathanael, see on John 1:49."
         ],
         "Albert Barnes": [
             "There is no evidence that this was a mere expression, as some have supposed, of surprise or astonishment.",
@@ -33,21 +33,21 @@
         "Philip Schaff": [
             "He passes at once from the depths of his despondency and hesitation to the most exalted faith.",
             "They are a triumphant confession of his faith, not simply in the Resurrection, but in Him whom he sees before him in all the Divinity both of His Person and of His work.",
-            "We need not wonder that, having passed through a week so rich in training power, Thomas, when he did behold the Risen Lord, should have leaped at once from his former unbelief to faith in its highest stage, or that he should have exclaimed to Jesus, 'My Lord and my God.'"
+            "He had begun with \u2018the Word\u2019 who \u2018was God;\u2019 he closes with this highest truth accepted and ratified by those to whom the revelation was given."
         ],
         "Archibald T. Robertson": [
-            "My Lord and my God.\" ",
-            "Thomas was wholly convinced and did not hesitate to address the Risen Christ as Lord and God.\" ",
+            "My Lord and my God (H\u03bf \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 \u03bc\u03bf\u03c5 \u03ba\u03b1 \u03bf \u03b8\u03b5\u03bf\u03c2 \u03bc\u03bf\u03c5). Not exclamation, but address, the vocative case though the form of the nominative, a very common thing in the Koine.",
+            "Thomas was wholly convinced and did not hesitate to address the Risen Christ as Lord and God.",
             "And Jesus accepts the words and praises Thomas for so doing."
         ],
         "John Gill": [
-            "my Lord and my God; he owns him to be Lord, as he was both by creation and redemption; and God, of which he was fully assured from his omniscience",
-            "which denotes his subjection to him, his affection for him, and faith in him",
-            "so the divine word is called in Philo the Jew, \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 \u03bc\u03bf\u03c5, 'my Lord'"
+            "He owns him to be Lord, as he was both by creation and redemption.",
+            "He asserts his interest in him as his Lord and his God; which denotes his subjection to him, his affection for him, and faith in him.",
+            "The divine word is called in Philo the Jew, 'my Lord'."
         ],
         "John Wesley": [
-            "My Lord and my God.\" ",
-            "Thomas now not only acknowledges him to be the Lord [...] but also confesses his Godhead.",
+            "Thomas said, My Lord and my God.\" ",
+            "Thomas now not only acknowledges him to be the Lord... but also confesses his Godhead.",
             "And all this he did without putting his hand upon his side."
         ]
     },
@@ -68,67 +68,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This verse reveals the highest confession of faith made, demonstrating that the previous confessions of Jesus being the Son of God were understood. It is clear that these words uttered by Thomas cannot apply to the other disciples, who had already seen and believed. Thomas's exclamation surpasses all that had been yet uttered, as he addresses the Risen Christ as both Lord and God, a statement thoroughly accepted and praised by Jesus. Thomas's swift transition from doubt to the highest stage of faith is not surprising, given the rich training power he had experienced throughout the week.",
+            "bht": "This verse contains the highest confession of faith, as Thomas addresses the Risen Christ as My Lord and my God. This is not a mere exclamation, but a sincere affirmation of his belief in the divinity of Jesus. Thomas's words surpass anything that has been uttered before and will be uttered in the future, firmly establishing Jesus as both Lord and God. Jesus accepts and praises Thomas for his confession, highlighting the significance of this statement. Thomas's declaration not only acknowledges Jesus as Lord but also confesses his Godhead, demonstrating his subjection, affection, and faith in Him.",
             "wordCount": 99,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 2.0125156493782166,
-            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.1647076832371166,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.32,
             "commentatorTierSimilarities": [
-                40.19,
-                38.07,
-                21.74
+                35.29,
+                31.95,
+                32.76
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "This confession of Thomas is the highest ever made, showing that the previous confessions of Jesus being the Son of God were understood. It surpasses all others and is a blessing for those who have not seen Jesus. Thomas boldly addresses the Risen Christ as both Lord and God, and Jesus accepts these words and commends Thomas for his faith. This immediate transition from doubt to such strong faith is not surprising, considering the profound impact of the events leading up to this moment.",
+            "bht": "Thomas's address to the Risen Christ as My Lord and my God in this passage is the highest confession of faith. It is not a mere exclamation or a surprised utterance. Jesus accepts and praises Thomas for his words, acknowledging their significance. This confession establishes Jesus as both Lord and God, declaring His divinity and serving as a testament to Thomas's deep belief and devotion. Thomas's sincere affirmation surpasses anything previously spoken and confirms the profound truth of Jesus's identity.",
             "wordCount": 84,
-            "quoteTokenProportion": 45.0,
-            "qualityScore": 1.891228545106288,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9833719200139825,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
             "commentatorTierSimilarities": [
-                39.76,
-                36.33,
-                23.92
+                37.37,
+                33.38,
+                29.25
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "This confession goes beyond anything previously said and is a great blessing to those who believe without seeing. Thomas boldly acknowledges Jesus as both Lord and God, and Jesus accepts and praises him for this declaration of faith. The immediate transition from doubt to such a profound confession is not surprising, given the significant events that Thomas had witnessed.",
-            "wordCount": 59,
-            "quoteTokenProportion": 43.75,
-            "qualityScore": 1.8958573704989707,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+            "bht": "The exclamation of Thomas, My Lord and my God, is the highest confession of faith. It is not a mere expression of surprise, but a sincere acknowledgement of Jesus as both Lord and God. Jesus accepts these words and praises Thomas for such a profound declaration. Thomas's immediate transition from doubt to unwavering faith is awe-inspiring, revealing his absolute conviction in the divinity of Jesus. This confession surpasses any prior utterance and solidifies Jesus's supreme authority and deity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.099678872650848,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.16,
             "commentatorTierSimilarities": [
-                38.76,
-                37.23,
-                24.01
+                37.86,
+                32.84,
+                29.3
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "This confession of faith from Thomas, surpassing all previous ones, reveals his understanding that Jesus is not only the Son of God but also Lord and God Himself. It is a remarkable instance of belief without seeing and a source of great blessing for subsequent believers. Thomas confidently acknowledges the Risen Christ as both Lord and God, and Jesus receives and commends this declaration. This immediate shift from doubt to such a profound and bold confession can be attributed to the transformative experiences Thomas had witnessed throughout that week.",
-            "wordCount": 89,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 1.8936420493943924,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "bht": "Thomas's address to the Risen Christ as My Lord and my God in this verse is the highest confession of faith. His words refute the Socinian view that it was only an exclamation. Jesus accepts and praises Thomas for his acknowledgement, affirming its significance. This confession surpasses all previously spoken words and emphatically declares Jesus as both Lord and God. It stands as a powerful testament to Thomas's unwavering belief in the divine nature of Jesus, leaving no room for doubt or hesitation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0433371432506355,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
             "commentatorTierSimilarities": [
-                36.57,
-                36.27,
-                27.17
+                37.25,
+                32.75,
+                30.0
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This highest confession of faith made by Thomas goes beyond anything previously expressed, showing his understanding of Jesus' divinity. It is a remarkable declaration that surpasses all others and brings great blessing to those who believe without seeing. Thomas fearlessly addresses the Risen Christ as both Lord and God, and Jesus accepts and commends him for this bold act of faith. Thomas's immediate transformation from doubt to such a profound confession can be attributed to the powerful experiences he had witnessed leading up to that moment.",
-            "wordCount": 87,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 1.9663097085437689,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "bht": "Thomas's declaration of My Lord and my God is a profound confession of faith, refuting the Socinian view that it was merely an exclamation. Jesus accepts and commends Thomas for this acknowledgment, recognizing its significance. This confession surpasses all previous utterances and serves as a powerful testament to the divinity of Jesus. Thomas's unwavering belief in Jesus as both Lord and God demonstrates his deep devotion and commitment. It stands as a definitive affirmation of Jesus's supreme authority and divine nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9541210873943187,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
             "commentatorTierSimilarities": [
-                37.68,
-                38.0,
-                24.32
+                36.57,
+                32.19,
+                31.24
             ],
             "generationAttempt": 5
         }

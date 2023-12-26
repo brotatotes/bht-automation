@@ -1,47 +1,47 @@
 # Matthew 3:12 Commentary Help Text
 
 ## BHT:
-The winnowing process portrays the separation of the solid from the spiritually worthless. Through the preaching of the Gospel, the Messiah will thoroughly cleanse, separating the evil from the good. The chaff, representing empty and worthless professors of religion, will be burned by the unquenchable fire of divine wrath and vengeance. This metaphor highlights the Messiah's role in purging and judging, separating the wheat from the chaff, and ultimately preserving the true believers. The image of a diligent farmer sweeping the floor illustrates the meticulous process of purification, ensuring only the worthy remain.
+The preaching of the Gospel serves as the winnowing fan, separating the spiritually worthless from the worth of His true-hearted saints. This metaphor represents the Messiah's role in separating the evil from the good, consigning the unworthy to destruction and receiving the worthy into His kingdom. The unquenchable fire signifies the destruction of all that constitutes one's true life, while also representing the continued existence in that awful condition. The Messiah cleanses thoroughly, removing the chaff and preserving the wheat on His floor.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The winnowing is at hand: they throw the straw into the fire, the chaff to the wind, but preserve the wheat in the floor; so the nations of the world shall be the conflagration of a furnace: but Israel alone shall be preserved."
-2. "his floor...the contents of the barn-floor."
-3. "Not only the chaff, but also the straw: see reff.: ‘all that is not wheat.’"
+2. "The contents of the barn-floor."
+3. "Not only the chaff, but also the straw: see reff.: 'all that is not wheat.'"
 
 ### Jamieson-Fausset-Brown:
-1. "This is no other than the preaching of the Gospel, even now beginning, the effect of which would be to separate the solid from the spiritually worthless, as wheat, by the winnowing fan, from the chaff."
-2. "He will burn up the chaff—empty, worthless professors of religion, void of all solid religious principle and character."
+1. "This is no other than the preaching of the Gospel, even now beginning, the effect of which would be to separate the solid from the spiritually worthless, as wheat, by the winnowing fan, from the chaff." 
+2. "His true-hearted saints; so called for their solid worth."
 3. "Singular is the strength of this apparent contradiction of figures:—to be burnt up, but with a fire that is unquenchable; the one expressing the utter destruction of all that constitutes one's true life, the other the continued consciousness of existence in that awful condition."
 
 ### Albert Barnes:
-1. "His fan - The word used here and rendered 'fan' means a winnowing shovel instead. It was used for throwing the grain, after it was threshed, into the air, so that the chaff might be driven away by the wind."
-2. "The grain was usually trodden out by oxen. Sometimes it was beaten with flails, as with us; and sometimes with a sharp threshing instrument, made to roll over the grain and to cut the straw at the same time."
+1. "His fan - The word used here and rendered 'fan' means a winnowing shovel instead."
+2. "By the floor, here, is represented the Jewish people. By the wheat, the righteous, or the people of God. By the chaff, the wicked."
 3. "By the unquenchable fire is meant the eternal suffering of the wicked in hell, 2 Thessalonians 1:8-9; Mark 9:48; Matthew 25:41."
 
 ### Marvin Vincent:
-1. "Throughly cleanse [διακαθαριει]. Throughly (retained by Rev.) obsolete form of thoroughly, is the force of the preposition dia (through)."
-2. "In that preposition lies the picture of the farmer beginning at one side of the floor, and working through to the other, cleansing as he goes."
-3. "The whole metaphor represents the Messiah as separating the evil from the good, according to the tests of his kingdom and Gospel."
+1. "The whole metaphor represents the Messiah as separating the evil from the good, according to the tests of his kingdom and Gospel, receiving the worthy into his kingdom and consigning the unworthy to destruction."
+2. "Throughly (retained by Rev.) obsolete form of thoroughly, is the force of the preposition dia (through). In that preposition lies the picture of the farmer beginning at one side of the floor, and working through to the other, cleansing as he goes."
+3. "The picture is of a farmer at his threshing - floor, the area of hard - beaten earth on which the sheaves are spread and the grain trodden out by animals."
 
 ### John Calvin:
-1. "The preaching of the Gospel, then, is the winnowing-fan...when he reproves the consciences and summons them to the tribunal of God, the chaff is sifted out, which formerly occupied a great part of the thrashing-floor."
-2. "The thrashing floor accordingly denotes - not the world, but the Church...John tells them that it is foolish in them to be proud of it because they hold but a temporary place in the Church of God, from which they are soon to be thrown out, like chaff from the thrashing-floor."
-3. "But let us remember, that believers even now enter, by hope, into the granary of God, in which they will actually have their everlasting abode; while the reprobate experience, in their convictions of guilt, the heat of that fire, the actual burning of which they will feel at the last day."
+1. "The preaching of the Gospel, then, is the winnowing-fan... when he reproves the consciences and summons them to the tribunal of God, the chaff is sifted out."
+2. "The thrashing floor... denotes... the Church... covered with husks, and straws, and other rubbish, but would soon be cleansed by the strong breeze of the Gospel."
+3. "Let us lay aside the speculations, by which foolish men weary themselves to no purpose, and satisfy ourselves with believing, that these forms of speech denote... a dreadful torment, which no man can now comprehend, and no language can express."
 
 ### Philip Schaff:
 1. "The thorough cleansing of the floor itself will be completed when the end of the world comes, but the process of winnowing is included, i.e., the disciplinary and punitive leadings of God with men."
-2. "His wheat, the fruits of the husbandry, the persons saved."
-3. "Fire unquenchable. The violent, uncontrollable blaze of a straw fire is the figurative representation of an awful reality."
+2. "His wheat, the fruits of the husbandry, the persons saved, hence 'His.'"
+3. "Fire unquenchable. The violent, uncontrollable blaze of a straw fire is the figurative representation of an awful reality. Once begun, the fiery judgment continues, until the unquenchable fire of Gehenna is kindled."
 
 ### Archibald T. Robertson:
-1. "Will burn up with unquenchable fire." 
-2. "The 'fire' here is probably judgment by and at the coming of the Messiah." 
-3. "The Messiah 'will thoroughly cleanse.' He will sweep from side to side to make it clean."
+1. "Will burn up with unquenchable fire."
+2. "The 'fire' here is probably judgment by and at the coming of the Messiah."
+3. "The Messiah 'will thoroughly cleanse', He will sweep from side to side to make it clean."
 
 ### John Gill:
-1. "By the 'fan', here is meant, either the Gospel which Christ was just ready to publish; by which he would effectually call his chosen people among the Jews, and so distinguish and separate them from others, as well as purify and cleanse them, or rather the awful judgment of God, which Christ was ready to execute, and in a short time would execute on the unbelieving and impenitent Jews."
-2. "By 'his floor', is meant the land of Israel, where he was born, brought up, and lived... This, he says, 'he will thoroughly purge' of all his refuse and chaff, that is, by fanning: so fanning and cleansing, or purging, are joined together."
+1. "By the 'fan', here is meant, either the Gospel which Christ was just ready to publish; by which he would effectually call his chosen people among the Jews, and so distinguish and separate them from others, as well as purify and cleanse them."
+2. "By 'his floor', is meant the land of Israel, where he was born, brought up, and lived; of which the Lord says, 'O my threshing, and the corn of my floor!'"
 3. "By 'the chaff', are meant wicked and ungodly persons, such as are destitute of the grace of God, whether professors, or profane; being empty, barren, and unfruitful; and so good for nothing but the fire, which therefore 'he will burn with unquenchable fire', of divine wrath and vengeance."
 
 ### John Wesley:
@@ -52,43 +52,39 @@ The winnowing process portrays the separation of the solid from the spiritually 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:43:13
+- Timestamp: 12-25-2023 19:34:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 21.67%
-- BHT Quality Score: 1.9343709470341253
+- BHT Word Count: 86
+- BHT Commentary Usage: 27.59%
+- BHT Quality Score: 2.145736175384509
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'and', 'be', 'believers', 'burned', 'by', 'chaff', 'cleanse', 'diligent', 'divine', 'empty', 'ensuring', 'evil', 'farmer', 'fire', 'floor', 'from', 'good', 'gospel', 'highlights', 'illustrates', 'image', 'in', 'judging', 'messiah', 'metaphor', 'meticulous', 'of', 'only', 'portrays', 'preaching', 'preserving', 'process', 'professors', 'purging', 'purification', 'religion', 'remain', 'representing', 'role', 's', 'separating', 'separation', 'solid', 'spiritually', 'sweeping', 'the', 'this', 'thoroughly', 'through', 'true', 'ultimately', 'unquenchable', 'vengeance', 'wheat', 'will', 'winnowing', 'worthless', 'worthy', 'wrath']
-- ChatGPT injected words (significant words only) (47):
-	['believers', 'burned', 'chaff', 'cleanse', 'diligent', 'divine', 'ensuring', 'evil', 'farmer', 'fire', 'floor', 'good', 'gospel', 'highlights', 'illustrates', 'image', 'judging', 'messiah', 'metaphor', 'meticulous', 'portrays', 'preaching', 'preserving', 'process', 'professors', 'purging', 'purification', 'religion', 'remain', 'representing', 'role', 's', 'separating', 'separation', 'solid', 'spiritually', 'sweeping', 'thoroughly', 'true', 'ultimately', 'unquenchable', 'vengeance', 'wheat', 'winnowing', 'worthless', 'worthy', 'wrath']
+- ChatGPT injected words (58):
+	['all', 'also', 'and', 'as', 'awful', 'chaff', 'cleanses', 'condition', 'consigning', 'constitutes', 'continued', 'destruction', 'evil', 'existence', 'fan', 'fire', 'floor', 'from', 'good', 'gospel', 'hearted', 'his', 'in', 'into', 'kingdom', 'life', 'messiah', 'metaphor', 'of', 'on', 'one', 'preaching', 'preserving', 'receiving', 'removing', 'representing', 'represents', 'role', 's', 'saints', 'separating', 'serves', 'signifies', 'spiritually', 'that', 'the', 'this', 'thoroughly', 'to', 'true', 'unquenchable', 'unworthy', 'wheat', 'while', 'winnowing', 'worth', 'worthless', 'worthy']
+- ChatGPT injected words (significant words only) (42):
+	['awful', 'chaff', 'cleanses', 'condition', 'consigning', 'constitutes', 'continued', 'destruction', 'evil', 'existence', 'fan', 'fire', 'floor', 'good', 'gospel', 'hearted', 'kingdom', 'life', 'messiah', 'metaphor', 'preaching', 'preserving', 'receiving', 'removing', 'representing', 'represents', 'role', 's', 'saints', 'separating', 'serves', 'signifies', 'spiritually', 'thoroughly', 'true', 'unquenchable', 'unworthy', 'wheat', 'winnowing', 'worth', 'worthless', 'worthy']
 
 ### Logs
-- Attempt 1 BHT: The verse speaks of the winnowing process, where the straw and chaff are thrown into the fire and the wheat is preserved on the floor. This metaphor symbolizes the separation of the solid from the spiritually worthless, through the preaching of the Gospel. The chaff represents empty, worthless professors of religion, while the unquenchable fire signifies the utter destruction of all that constitutes one's true life. The Messiah, like a diligent farmer, will thoroughly cleanse, working from one side of the floor to the other, separating the evil from the good according to the tests of His kingdom and Gospel. The unquenchable fire represents the judgment that comes with the Messiah's coming.
-- 🔄 Matthew 3:12 (attempt 1, 114 words, 33.33% quotes quality score: 2.130357164425554, V2 normalized quality score: 62.18, commentator tiers 1-3: 36.71%, 30.51%, 32.78%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The winnowing process in this passage represents the separation of the solid from the spiritually worthless. Through the preaching of the Gospel, the Messiah will thoroughly cleanse and separate the evil from the good. The chaff symbolizes empty and worthless professors of religion, while the unquenchable fire represents the utter destruction of one's true life. This picture of the Messiah as a diligent farmer highlights His role in purging and judging, separating the wheat from the chaff, and ultimately preserving the true believers.
-- 🔄 Matthew 3:12 (attempt 2, 84 words, 26.42% quotes quality score: 1.9939235965228908, V2 normalized quality score: 57.64, commentator tiers 1-3: 37.42%, 27.39%, 35.19%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The winnowing process described in these commentaries signifies the separation of the solid from the spiritually worthless. Through the preaching of the Gospel, the Messiah will thoroughly cleanse, separating the evil from the good, just as a diligent farmer works through the floor to make it clean. The chaff, representing empty and worthless professors of religion, will be burned by the unquenchable fire of divine wrath and vengeance, while the wheat, symbolizing the true believers, will be gathered into the garner of heaven.
-- 🔄 Matthew 3:12 (attempt 3, 83 words, 32.76% quotes quality score: 1.9982827018702873, V2 normalized quality score: 57.78, commentator tiers 1-3: 34.35%, 27.72%, 37.94%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 4 BHT: The winnowing process in this verse signifies the separation of the solid from the spiritually worthless. Through the preaching of the Gospel, the Messiah will thoroughly cleanse, separating the evil from the good, as a diligent farmer works through the floor to make it clean. The chaff, representing empty and worthless professors of religion, will be burned by the unquenchable fire of divine wrath and vengeance, while the wheat, symbolizing the true believers, will be gathered into the garner of heaven.
-- 🔄 Matthew 3:12 (attempt 4, 81 words, 32.14% quotes quality score: 2.0529113673487966, V2 normalized quality score: 59.6, commentator tiers 1-3: 33.9%, 28.61%, 37.5%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The winnowing process portrays the separation of the solid from the spiritually worthless. Through the preaching of the Gospel, the Messiah will thoroughly cleanse, separating the evil from the good. The chaff, representing empty and worthless professors of religion, will be burned by the unquenchable fire of divine wrath and vengeance. This metaphor highlights the Messiah's role in purging and judging, separating the wheat from the chaff, and ultimately preserving the true believers. The image of a diligent farmer sweeping the floor illustrates the meticulous process of purification, ensuring only the worthy remain.
-- 🔄 Matthew 3:12 (attempt 5, 94 words, 21.67% quotes quality score: 1.9343709470341253, V2 normalized quality score: 55.66, commentator tiers 1-3: 36.16%, 28.79%, 35.04%) 
+- Attempt 1 BHT: The preaching of the Gospel is compared to the winnowing fan, separating the spiritually worthless from the solid worth of His true-hearted saints. This metaphor represents the Messiah's role in separating the evil from the good, consigning the unworthy to destruction and receiving the worthy into His kingdom. The unquenchable fire signifies the utter destruction of all that constitutes one's true life, while also representing the continued consciousness of existence in that awful condition. In this process of cleansing, the thoroughness of the Messiah is emphasized, as He works from one side of the floor to the other, removing the chaff and preserving the wheat. Ultimately, He will gather the wheat, the truly good, into His kingdom.
+- 🔄 Matthew 3:12 (attempt 1, 120 words, 28.17% quotes quality score: 2.0742012327982255, V2 normalized quality score: 60.31, commentator tiers 1-3: 35.72%, 30.93%, 33.35%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 3:12 bht prompt v0.8 (94 words, 21.67% quotes)
-- quality score: 1.9343709470341253, V2 normalized quality score: 55.66, commentator tiers 1-3: 36.16%, 28.79%, 35.04%)
+- Attempt 2 BHT: The preaching of the Gospel is compared to the winnowing fan, separating the worthless from the solid worth of His true-hearted saints. This metaphor represents the Messiah's role in separating the evil from the good, consigning the unworthy to destruction and receiving the worthy into His kingdom. The unquenchable fire signifies the utter destruction of all that constitutes one's true life, while also representing the continued consciousness of existence in that awful condition. The Messiah thoroughly cleanses, working from one side of the floor to the other, removing the chaff and preserving the wheat.
+- 🔄 Matthew 3:12 (attempt 2, 97 words, 27.42% quotes quality score: 2.0833388944117717, V2 normalized quality score: 60.61, commentator tiers 1-3: 37.17%, 29.69%, 33.14%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The preaching of the Gospel serves as the winnowing fan, separating the spiritually worthless from the worth of His true-hearted saints. This metaphor represents the Messiah's role in separating the evil from the good, consigning the unworthy to destruction and receiving the worthy into His kingdom. The unquenchable fire signifies the destruction of all that constitutes one's true life, while also representing the continued existence in that awful condition. The Messiah cleanses thoroughly, removing the chaff and preserving the wheat on His floor.
+- 🔄 Matthew 3:12 (attempt 3, 86 words, 27.59% quotes quality score: 2.145736175384509, V2 normalized quality score: 62.69, commentator tiers 1-3: 36.22%, 30.49%, 33.29%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The preaching of the Gospel acts as the winnowing fan, separating the spiritually worthless from the solid worth of His true-hearted saints. This imagery symbolizes the Messiah's task of distinguishing between the evil and the good, consigning the unworthy to destruction and welcoming the worthy into His kingdom. The unquenchable fire represents the complete obliteration of one's true life, juxtaposed with an ongoing awareness of existence in this dreadful state. The Messiah leaves no area untouched, cleansing the floor from one side to the other, removing the chaff and preserving the wheat.
+- 🔄 Matthew 3:12 (attempt 4, 95 words, 26.15% quotes quality score: 1.9922204189999428, V2 normalized quality score: 57.58, commentator tiers 1-3: 36.34%, 30.08%, 33.58%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The preaching of the Gospel is likened to a winnowing fan, separating the spiritually worthless from the solid worth of His true-hearted saints. This metaphor depicts the Messiah's role in distinguishing between the evil and the good, consigning the unworthy to destruction, while welcoming the worthy into His kingdom. The unquenchable fire symbolizes the utter destruction of all that constitutes one's true life, along with the continued consciousness of existence in that dreadful state. The Messiah's cleansing is thorough, working from one side of the floor to the other, removing the chaff and preserving the wheat.
+- 🔄 Matthew 3:12 (attempt 5, 100 words, 30.3% quotes quality score: 2.048222489311799, V2 normalized quality score: 59.44, commentator tiers 1-3: 36.6%, 30.06%, 33.35%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 3:12 bht prompt v0.8 (86 words, 27.59% quotes)
+- quality score: 2.145736175384509, V2 normalized quality score: 62.69, commentator tiers 1-3: 36.22%, 30.49%, 33.29%)

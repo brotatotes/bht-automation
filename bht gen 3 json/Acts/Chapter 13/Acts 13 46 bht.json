@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:31:16",
+    "timestamp": "12-25-2023 19:33:49",
     "verseRef": "Acts 13:46",
     "bestBHT": {
-        "bht": "It was a solemn and necessary moment when Paul and Barnabas turned away from the Jews and directed their efforts towards the Gentiles. The violent rejection they faced served as a testament to the Jews' unworthiness of everlasting life. This pivotal decision symbolized the future trajectory of Christianity, as Gentiles would be embraced into the kingdom even if the Jews rejected it. Paul and Barnabas faithfully followed Jesus' command to spread the gospel, recognizing that their duty was to focus on those who had a greater prospect of receiving the message.",
-        "wordCount": 91,
-        "quoteTokenProportion": 36.92,
-        "qualityScore": 1.9890059270198615,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+        "bht": "Paul and Barnabas, in a last and solemn protestation, confront the Jews with the word of God that should have been spoken to them first. By rejecting this message, the Jews judge themselves as unworthy of everlasting life, condemning themselves. The missionaries, recognizing their haughty refusal to include Gentiles in the blessings of Messiah's kingdom, turn to the Gentiles, foreshadowing the future of Christianity. This shift signifies that Gentiles would be admitted into the kingdom even if the Jews had not rejected Jesus, emphasizing the privilege and penalty of the Jews.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.1487449780031476,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.79,
         "commentatorTierSimilarities": [
-            22.36,
-            40.14,
-            37.49
+            24.85,
+            39.96,
+            35.19
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,11 +21,11 @@
         "Jamieson-Fausset-Brown": [
             "This is in the highest style of a last and solemn protestation.",
             "It was necessary that the word should first have been spoken to you.",
-            "Since ye judge yourselves unworthy of everlasting life, pass sentence upon yourselves."
+            "Since ye judge yourselves unworthy of everlasting life\u2014pass sentence upon yourselves."
         ],
         "Albert Barnes": [
             "The contradictions and blasphemies of sinners often show that their consciences are alarmed; that the truth has taken effect; and then is not the time to shrink, but to declare more fearlessly the truth.",
-            "When people, even but once, deliberately and solemnly reject the offers of God\u2019s mercy, it greatly endangers their salvation.",
+            "When people, even but once, deliberately and solemnly reject the offers of God\u2019s mercy, it greatly endangers their salvation. The probability is, that they then put the cup of salvation forever away from themselves.",
             "When sinners are hardened, and spurn the gospel, it may often be the duty of ministers to turn their efforts toward others where they may have more prospect of success."
         ],
         "Marvin Vincent": [
@@ -34,27 +34,27 @@
         ],
         "John Calvin": [
             "For the servants of God must be armed with invincible constancy of the Spirit, that they may never give place to the devil, nor to his ministers; as the Lord commandeth Jeremiah to encounter with the reprobate with a face of iron.",
-            "Therefore, that was the most lawful order, that the apostles should gather the Church first of the Jews, afterward of the Gentiles... but that they were always the chief in the Church of God.",
-            "So that their death was the life of the Gentiles, and the natural branches being cut off, the wild olives were ingrafted into the holy root, until God do at length restore them also unto life, being ingrafted into their former root, that the Israel of God being gathered together from all quarters may be saved."
+            "In that he saith, that it was meet that it should first be preached to them, it doth properly appertain unto the time of Christ\u2019s kingdom.",
+            "Therefore, unless the Jews had estranged themselves from the Church, the calling of the Gentiles should have been such as is by the prophets described: 'In that day shall seven strangers take hold of the cloak of a man that is a Jew, and shall say, we will walk with you; because God is with you.'"
         ],
         "Philip Schaff": [
-            "It was necessary that the word of God should first have been spoken to you.\" - Acts 13:46",
+            "It was necessary that the word of God should first have been spoken to you.\" ",
             "Gentiles would have been admitted into the kingdom of God even if the Jews had not rejected the Lord Jesus.",
-            "From their haughty refusal to share with Gentiles the glories of Messiah\u2019s kingdom, the missionaries recognised at once that these self-willed, stubborn men had condemned themselves as unworthy to partake of the blessed promises of Messiah; and so they simply pronounced the words, 'Lo, we turn to the Gentiles.'"
+            "From their haughty refusal to share with Gentiles the glories of Messiah\u2019s kingdom, the missionaries recognised at once that these self-willed, stubborn men had condemned themselves as unworthy to partake of the blessed promises of Messiah."
         ],
         "Archibald T. Robertson": [
             "Both Paul and Barnabas accepted the challenge of the rabbis. They would leave their synagogue, but not without a word of explanation.",
-            "They had done their duty and had followed the command of Jesus (Acts 1:8).",
+            "This position Paul as the apostle to the Gentiles will always hold, the Jew first in privilege and penalty.",
             "It is a dramatic moment as Paul and Barnabas turn from the Jews to the Gentiles, a prophecy of the future history of Christianity."
         ],
         "John Gill": [
             "They were not at all daunted at the opposition they met with, but rather grew more courageous, and used great liberty of speech, and spoke out freely, plainly, and openly.",
-            "No man is worthy of everlasting life, on account of anything done by him, for it is the free gift of God.",
-            "The Jews, by this act of theirs in rejecting the Gospel, did as it were pass sentence upon themselves, and determine against themselves that they ought not to be saved."
+            "No man is worthy of everlasting life, on account of anything done by him, for it is the free gift of God; and all who are sensible of themselves, and of the just demerit of sin, conclude themselves unworthy to inherit eternal life.",
+            "The Jews, by this act of theirs in rejecting the Gospel, did as it were pass sentence upon themselves, and determine against themselves that they ought not to be saved, since they despised the means of salvation."
         ],
         "John Wesley": [
             "Those who hinder others must be publicly reproved.",
-            "They indeed judged none but themselves worthy of it. Yet their rejecting of the Gospel was the same as saying, 'We are unworthy of eternal life.'",
+            "They indeed judged none but themselves worthy of it.",
             "We turn to the Gentiles - Not that they left off preaching to the Jews in other places. But they now determined to lose no more time at Antioch on their ungrateful countrymen, but to employ themselves wholly in doing what they could for the conversion of the Gentiles there."
         ]
     },
@@ -75,67 +75,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "It was a crucial and solemn moment when Paul and Barnabas addressed the Jews and declared that the word of God should have been spoken to them first. The violent rejection they faced from the Jewish community made it clear that the time had come to turn their efforts towards the Gentiles. This shift was not a deviation from their duty but a fulfillment of Jesus' command to spread the gospel to the ends of the earth. This dramatic moment marked a prophecy of the future history of Christianity, as Gentiles would be welcomed into the kingdom even if the Jews rejected it.",
+            "bht": "The verse in Acts 13:46 is a moment of dramatic shift, as Paul and Barnabas turn from the Jews to the Gentiles. In a last and solemn protestation, they confront the Jews with the word of God that should have been spoken to them first. The rejection by the Jews signifies their condemnation of themselves as unworthy of everlasting life. This rejection is marked by the violent and forceful nature of being thrust away. By pivoting towards the Gentiles, Paul and Barnabas prophesy the future history of Christianity, where the Gentiles will be admitted into the kingdom of God regardless of the Jews' rejection.",
             "wordCount": 103,
-            "quoteTokenProportion": 41.43,
-            "qualityScore": 2.0416255801451544,
-            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.011885147617784,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
             "commentatorTierSimilarities": [
-                22.03,
-                41.49,
-                36.48
+                27.98,
+                38.72,
+                33.3
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "It was a solemn and necessary moment when Paul and Barnabas turned away from the Jews and directed their efforts towards the Gentiles. The violent rejection they faced served as a testament to the Jews' unworthiness of everlasting life. This pivotal decision symbolized the future trajectory of Christianity, as Gentiles would be embraced into the kingdom even if the Jews rejected it. Paul and Barnabas faithfully followed Jesus' command to spread the gospel, recognizing that their duty was to focus on those who had a greater prospect of receiving the message.",
+            "bht": "Paul and Barnabas accept the challenge of the rabbis, leaving the synagogue with a word of explanation. By turning from the Jews to the Gentiles, it is a prophetic moment that signifies the future history of Christianity. The Jews, in their haughty refusal to include Gentiles in the kingdom of God, have condemned themselves as unworthy of the promised blessings of Messiah. This rejection prompts the missionaries to boldly preach the truth to others who may be more receptive, as the contradictions and blasphemies of sinners often reveal their alarmed consciences.",
             "wordCount": 91,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 1.9890059270198615,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.029045388596967,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
             "commentatorTierSimilarities": [
-                22.36,
-                40.14,
-                37.49
+                24.3,
+                43.97,
+                31.72
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In a profound and solemn moment, Paul and Barnabas made the decision to turn away from the Jews and redirect their efforts towards the Gentiles. This shift was not a deviation from their duty, but a demonstration of their obedience to Jesus' command. The rejection by the Jewish community marked a self-imposed sentence on themselves, declaring their unworthiness of everlasting life. This pivotal moment foreshadowed the future history of Christianity as Gentiles would be welcomed into the kingdom and embraced by the gospel message.",
-            "wordCount": 85,
-            "quoteTokenProportion": 34.43,
-            "qualityScore": 1.8845947241722594,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "bht": "In a powerful and solemn protestation, Paul and Barnabas confront the Jews with the word of God that should have been spoken to them first. The rejection by the Jews reveals their judgment of themselves as unworthy of everlasting life, as they pass sentence upon themselves. This rejection is marked by a violent and forceful thrust away. By turning from the Jews to the Gentiles, Paul and Barnabas provide a prophetic glimpse into the future history of Christianity, where Gentiles would be welcomed into the kingdom of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9404317071287807,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
             "commentatorTierSimilarities": [
-                22.16,
-                40.94,
-                36.9
+                29.23,
+                38.52,
+                32.25
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In a decisive and weighty moment, Paul and Barnabas confronted the Jews with the proclamation that the word of God should have been spoken to them first. The strong rejection they encountered prompted them to direct their efforts towards the Gentiles. This pivotal shift aligned with Jesus' command to spread the gospel to all corners of the earth. By rejecting the message, the Jews essentially passed judgment on themselves, deeming themselves unworthy of everlasting life. This turning point anticipated the future of Christianity, where Gentiles would be welcomed into the kingdom.",
-            "wordCount": 91,
-            "quoteTokenProportion": 36.76,
-            "qualityScore": 1.8530087110276106,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "bht": "Paul and Barnabas, in a last and solemn protestation, confront the Jews with the word of God that should have been spoken to them first. By rejecting this message, the Jews judge themselves as unworthy of everlasting life, condemning themselves. The missionaries, recognizing their haughty refusal to include Gentiles in the blessings of Messiah's kingdom, turn to the Gentiles, foreshadowing the future of Christianity. This shift signifies that Gentiles would be admitted into the kingdom even if the Jews had not rejected Jesus, emphasizing the privilege and penalty of the Jews.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1487449780031476,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.79,
             "commentatorTierSimilarities": [
-                21.97,
-                41.65,
-                36.37
+                24.85,
+                39.96,
+                35.19
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Paul and Barnabas, in a solemn and necessary moment, turned away from the Jews and redirected their efforts towards the Gentiles. The fact that the Jews rejected the message served as a self-imposed sentence, declaring their own unworthiness of everlasting life. This pivotal moment marked a prophecy of Christianity's future, as the Gentiles would be embraced into the kingdom, fulfilling God's plan. Paul and Barnabas faithfully followed Jesus' command to spread the gospel and recognized that their duty was to focus on those who were more receptive to the message.",
-            "wordCount": 93,
-            "quoteTokenProportion": 33.85,
-            "qualityScore": 1.9859025096307028,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "bht": "In a poignant moment, Paul and Barnabas turn from the Jews to the Gentiles, prophesying the future of Christianity. The rejection of the word of God by the Jews signifies their condemnation of themselves as unworthy of everlasting life. This rejection, marked by a violent thrust, prompts the missionaries to boldly proclaim the truth to others who may be more receptive. It is a powerful reminder that the Gentiles would be admitted into the kingdom of God, even if the Jews had not rejected Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.0558115676186652,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
             "commentatorTierSimilarities": [
-                22.61,
-                41.09,
-                36.31
+                23.67,
+                42.68,
+                33.65
             ],
             "generationAttempt": 5
         }

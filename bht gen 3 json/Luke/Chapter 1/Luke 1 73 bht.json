@@ -1,39 +1,38 @@
 {
-    "timestamp": "12-19-2023 16:13:41",
+    "timestamp": "12-25-2023 19:34:34",
     "verseRef": "Luke 1:73",
     "bestBHT": {
-        "bht": "God's promise to Abraham and his descendants is fulfilled through Jesus Christ, as stated in the oath recorded in Genesis. This oath, which God swore by himself, emphasizes the certainty and faithfulness of his commitment. Jesus embodies both grace and truth, signifying the completion of the covenant of mercy. As the Messiah, he brings redemption, allowing his people to possess victory over their enemies. Indeed, all the aspects of God's covenant find fulfillment in Jesus, the promised Seed.",
-        "wordCount": 80,
-        "quoteTokenProportion": 33.93,
-        "qualityScore": 1.9546964200935548,
-        "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+        "bht": "The whole work and kingdom of Messiah is a mercy pledged on oath to Abraham and his seed. Through Jesus Christ, grace and fidelity to the promise of blessing are realized. The oppression of the Gentiles is in Zacharias' mind, although his understanding of the spiritual Israel may not be as clear as Paul's. The oath signifies the firmness and sacredness of God's truth, sealing His covenant of mercy. Doubting the fulfillment of God's promises shows ingratitude and insult to His holy name.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.1570485927512593,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.06,
         "commentatorTierSimilarities": [
-            35.11,
-            35.77,
-            29.12
+            39.02,
+            36.29,
+            24.69
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "The whole work and kingdom of Messiah is represented as a mercy pledged on oath to Abraham and his seed, to be realized at an appointed period",
-            "Grace, or the thing promised; but 'truth,' or fidelity to the promise, are said to 'come by Jesus Christ'",
-            "Hence, not only 'grace,' or the thing promised; but 'truth,' or fidelity to the promise, are said to 'come by Jesus Christ'"
+            "The whole work and kingdom of Messiah is represented as a mercy pledged on oath to Abraham and his seed, to be realized at an appointed period.\" ",
+            "Hence, not only 'grace,' or the thing promised; but 'truth,' or fidelity to the promise, are said to 'come by Jesus Christ' ( :-)."
         ],
         "Albert Barnes": [
-            "The oath is recorded in Genesis 22:16-17. It was an oath in which God swore by himself...that he would surely bless Abraham and his posterity.\" ",
-            "It was an oath...that promise was now to be entirely fulfilled by the coming of the Messiah.",
-            "That promise was now to be entirely fulfilled by the coming of the Messiah."
+            "This oath is recorded in Genesis 22:16-17...that he would surely bless Abraham and his posterity.\" ",
+            "It was an oath in which God swore by himself...that promise was now to be entirely fulfilled by the coming of the Messiah.\" ",
+            "God swore by himself...that he would surely bless Abraham and his posterity."
         ],
         "John Calvin": [
-            "The oath is mentioned, for the purpose of expressing more fully the firmness and sacredness of his truth: for such is his gracious condescension, that he deigns to employ his name for the support of our weakness.",
             "If his bare promises do not satisfy us, let us at least remember this confirmation of them; and if it does not remove all doubt, we are chargeable with heinous ingratitude to God, and insult to his holy name.",
-            "To give to us Zacharias does not enumerate the several points of God\u2019s covenant, but shows that God\u2019s purpose, in dealing so kindly and mercifully with his people, was to redeem them."
+            "The oath is mentioned, for the purpose of expressing more fully the firmness and sacredness of his truth: for such is his gracious condescension, that he deigns to employ his name for the support of our weakness.",
+            "God\u2019s purpose, in dealing so kindly and mercifully with his people, was to redeem them."
         ],
         "Philip Schaff": [
-            "The oath. This explains the word 'covenant' in Luke 1:72. God's covenant of mercy had been sealed by an oath.",
-            "The Abrahamic covenant becomes prominent as the coming of the Messiah draws near.",
-            "Comp. Galatians 3:0."
+            "The oath. This explains the word \u2018covenant\u2019 in Luke 1:72.",
+            "God\u2019s covenant of mercy had been sealed by an oath.",
+            "The Abrahamic covenant becomes prominent as the coming of the Messiah draws near."
         ],
         "Archibald T. Robertson": [
             "The oath which he sware (\u03bf\u03c1\u03ba\u03bf\u03bd \u03bf\u03bd \u03c9\u03bc\u03bf\u03c3\u03b5\u03bd).",
@@ -41,7 +40,7 @@
             "It is not certain how clearly he grasped the idea of the spiritual Israel as Paul saw it in Galatians and Romans."
         ],
         "John Gill": [
-            "When he swore by himself, because he could swear by no greater, that in blessing he would bless him.",
+            "When he swore by himself, because he could swear by no greater, that in blessing he would bless him.\" ",
             "That his seed should possess the gates of his enemies.",
             "All which have been fulfilled in Jesus the Messiah."
         ]
@@ -63,67 +62,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 1:73, the promise of God's mercy and faithfulness to Abraham and his descendants is fulfilled through Jesus Christ. The mention of the oath conveys the firmness and sacredness of God's truth. The coming of the Messiah signifies the complete fulfillment of the Abrahamic covenant, as seen in Galatians 3:0. This demonstrates God's gracious condescension to support our weak faith and calls us to remember this confirmation of his promises. Ultimately, Jesus, as the Seed of Abraham, has fulfilled all the aspects of God's covenant, leading to the redemption of his people and the possession of victory over their enemies.",
-            "wordCount": 103,
-            "quoteTokenProportion": 26.23,
-            "qualityScore": 1.9828526567153142,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+            "bht": "The whole work and kingdom of Messiah is seen as a mercy promised to Abraham and his seed, to be fulfilled in due time. The oath which God swore to bless Abraham and his descendants is mentioned to emphasize the firmness and sacredness of His truth. It is through Jesus Christ that grace and faithfulness to the promise are brought forth. The oppression of the Gentiles is on Zacharias' mind, though it is uncertain how clearly he understood the spiritual aspect of the Israel of God. God's covenant of mercy, sealed by an oath, becomes prominent as the coming of the Messiah approaches. This confirms the fulfillment of God's promises, and anyone who doubts this is guilty of ingratitude and insult to His holy name.",
+            "wordCount": 127,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 2.1749112103391313,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.66,
             "commentatorTierSimilarities": [
-                34.99,
-                36.94,
-                28.07
+                35.65,
+                39.52,
+                24.83
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The oath of God, mentioned in the verse, emphasizes the firmness and sacredness of His truth. This oath, recorded in Genesis, sealed the covenant of mercy with Abraham and his descendants. Through Jesus Christ, the promised mercy and faithfulness to Abraham are fully realized. It is in Jesus that both grace and truth come. As the Messiah, Jesus fulfills all aspects of the Abrahamic covenant, bringing redemption to his people and granting victory over their enemies.",
-            "wordCount": 76,
-            "quoteTokenProportion": 35.29,
-            "qualityScore": 1.9722447714854079,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "bht": "The whole work and kingdom of Messiah is a mercy pledged on oath to Abraham and his seed. Through Jesus Christ, grace and fidelity to the promise of blessing are realized. The oppression of the Gentiles is in Zacharias' mind, although his understanding of the spiritual Israel may not be as clear as Paul's. The oath signifies the firmness and sacredness of God's truth, sealing His covenant of mercy. Doubting the fulfillment of God's promises shows ingratitude and insult to His holy name.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.1570485927512593,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
             "commentatorTierSimilarities": [
-                38.54,
-                34.17,
-                27.29
+                39.02,
+                36.29,
+                24.69
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The fulfillment of God's promise to Abraham and his descendants is accomplished through Jesus Christ. The mention of the oath underscores the solemnity and certainty of God's faithfulness. By swearing by himself, God demonstrates the unshakable nature of his commitment. Jesus becomes the embodiment of both grace and truth, bringing to fruition the covenant of mercy made with Abraham. Through his coming, Jesus fulfills the role of the Messiah, thereby redeeming his people and granting them victory over their adversaries.",
-            "wordCount": 82,
-            "quoteTokenProportion": 32.08,
-            "qualityScore": 1.8467670828518936,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
+            "bht": "The kingdom of Messiah is a mercy pledged on oath to Abraham and his seed, to be realized at an appointed time. Grace and fidelity to the promise come through Jesus Christ. The oppression of the Gentiles weighs on Zacharias' mind, hinting at their future redemption. The mention of the oath serves to emphasize the firmness and sacredness of God's truth. Doubting the fulfillment of God's promises shows ingratitude and insults His holy name. The coming of the Messiah brings to fruition the Abrahamic covenant.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 2.094396716438413,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
             "commentatorTierSimilarities": [
-                35.56,
-                34.35,
-                30.09
+                38.24,
+                38.28,
+                23.48
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "God's promise to Abraham and his descendants is fulfilled through Jesus Christ, as stated in the oath recorded in Genesis. This oath, which God swore by himself, emphasizes the certainty and faithfulness of his commitment. Jesus embodies both grace and truth, signifying the completion of the covenant of mercy. As the Messiah, he brings redemption, allowing his people to possess victory over their enemies. Indeed, all the aspects of God's covenant find fulfillment in Jesus, the promised Seed.",
-            "wordCount": 80,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.9546964200935548,
-            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "bht": "The kingdom of Messiah is a mercy pledged on oath to Abraham and his seed, to be realized in due time. Jesus Christ brings grace and fidelity to the promise. The mention of the oath underscores the firmness and sacredness of God's truth. Zacharias contemplates the oppression of the Gentiles. Doubting the fulfillment of God's promises is ingratitude and an insult to His holy name. The coming of the Messiah fulfills the Abrahamic covenant, bringing blessings to his descendants.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.111144835740652,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
             "commentatorTierSimilarities": [
-                35.11,
-                35.77,
-                29.12
+                37.48,
+                38.27,
+                24.25
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The fulfillment of God's promise to Abraham and his descendants is realized through Jesus Christ. The oath mentioned signifies the solemnity and unwavering faithfulness of God's truth. By swearing upon himself, God demonstrates the sacredness of his commitment. Jesus serves as the embodiment of both grace and truth, bringing to fruition the covenant of mercy with Abraham. As the Messiah, Jesus fulfills all aspects of God's covenant, leading to the redemption of his people and the triumph over their adversaries.",
-            "wordCount": 83,
-            "quoteTokenProportion": 31.37,
-            "qualityScore": 1.9290584905363557,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+            "bht": "The kingdom of Messiah is a mercy pledged on oath to Abraham and his descendants. Jesus Christ brings grace and faithfulness to the promise. The mention of the oath highlights the firmness and sacredness of God's truth. Zacharias contemplates the oppression of the Gentiles, though his understanding of the spiritual Israel is unclear. Doubting God's promises shows ingratitude and insults His holy name. The coming of the Messiah fulfills the Abrahamic covenant, bringing blessings to his descendants.",
+            "wordCount": 79,
+            "quoteTokenProportion": 20.0,
+            "qualityScore": 2.120431266860747,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
             "commentatorTierSimilarities": [
-                36.11,
-                34.85,
-                29.05
+                36.78,
+                39.26,
+                23.95
             ],
             "generationAttempt": 5
         }

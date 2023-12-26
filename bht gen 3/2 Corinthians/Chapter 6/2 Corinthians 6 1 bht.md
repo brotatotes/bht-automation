@@ -1,90 +1,86 @@
 # 2 Corinthians 6:1 Commentary Help Text
 
 ## BHT:
-We entreat you not to receive the grace of God in vain. It is not enough to simply hear about salvation; it must be embraced and applied. As messengers of God, we plea for you to live a life that reflects the transformative power of God's grace. The plan of God, the work of Christ, and our pleas may all be nullified by a life of sin. Therefore, we urge you to receive the grace of God and walk worthy of the calling you have received. (79 words)
+As workers together with God, we entreat you not to receive the reconciliation provided by His grace in vain. It is not enough for ministers to simply advance doctrine; they must labor for it to be received and not offered in vain. We plead with you, already reconciled, to turn that grace to practical account by walking worthy of your vocation. The ministers of the Gospel are workers, and their ministry is a very laborious one, for which they have strength equal to.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "This is implied not only in what went before, but in the words 'the grace of God,' of our verse itself."
-2. "Moreover, while working with God, we also intreat that ye (when preaching to you) receive not the grace of God to no purpose."
-3. "i.e. un-accompanied by sanctification of life."
+1. "This is implied not only in what went before, but in the words, 'the grace of God,' of our verse itself." 
+2. "While working with God, we also intreat that ye receive not the grace of God to no purpose."
 
 ### Jamieson-Fausset-Brown:
-1. "Not only as 'ambassadors'." 
-2. "He is describing his ministry, not exhorting directly."
-3. "By a life of sin, showing that the word of reconciliation has been in vain, so far as you are concerned."
+1."workers together—with God" (Acts 15:4; 1 Corinthians 3:9) - Not only as "ambassadors."
+2. "in vain—by making the grace of God a ground for continuance in sin" (2 Corinthians 6:15) - By a life of sin, showing that the word of reconciliation has been in vain, so far as you are concerned.
+3. "The grace of God" - here, is "the reconciliation" provided by God's love. (2 Corinthians 5:18; 2 Corinthians 5:19)
 
 ### Albert Barnes:
-1. "We entreat you not to neglect or slight this offer of pardon, so as to lose the benefit of it, and be lost."
-2. "Simply to hear of the plan of salvation or the offers of mercy, will no more save a sinner than to hear of medicine will save the sick. It must be embraced and applied, or it will be in vain."
-3. "They should examine their own hearts; they should inquire into their own condition; they should guard against self-deception."
+1. "We then, as workers together with him..."
+2. "We entreat you not to neglect or slight this offer of pardon..."
+3. "They should use all possible care and anxiety lest these offers should have been made in vain."
 
 ### Marvin Vincent:
-1. "That it refers to God, not to the fellow-Christians, is evident from the parallel 1 Corinthians 3:9, laborers together with God."
-2. "The phrase Qeou paredroi, assessors of God, occurs in Ignatius' letter to Polycarp. Compare Mark 16:20."
-3. "In vain [εις κενον]. Lit., to what is vain. Equivalent to the phrase to no purpose."
+1. "Working together with Him is implied in the compounded oun with. That it refers to God, not to the fellow-Christians, is evident from the parallel 1 Corinthians 3:9."
+2. "The act of exhortation or entreaty in which the fellowship is exhibited is ascribed to God."
+3. "In vain... equivalent to the phrase to no purpose."
 
 ### John Calvin:
-1. "Ministers are here taught, that it is not enough simply to advance doctrine. They must also labor that it may be received by the hearers, and that not once merely, but continually."
-2. "For as they are messengers between God and men, the first duty devolving upon them is, to make offer of the grace of God, and the second is, to strive with all their might, that it may not be offered in vain."
-3. "They must, I say, add continual exhortation’s, that their embassy may be efficacious. This is what he means by συνεργοῦντες, (fellow-workers,) that is, devoted to the advancement of the work; for it is not enough to teach, if you do not also urge."
+1. "Ministers are here taught, that it is not enough simply to advance doctrine. They must also labor that it may be received by the hearers, and that not once merely, but continually." 
+2. "For as they are messengers between God and men, the first duty devolving upon them is, to make offer of the grace of God, and the second is, to strive with all their might, that it may not be offered in vain." 
+3. "The doctrine of the gospel is helped by exhortations, so as not to be without effect, and ministers connect their endeavors with God’s commission; as it is the part of an ambassador to enforce by arguments, what he brings forward in the name of his prince."
 
 ### Philip Schaff:
-1. "Having pleaded with the unreconciled, as though God were pleading by us, no longer to resist the yearning desire and the gracious provision of God in Christ for their reconciliation..."
-2. "We now turn to you, already reconciled, and, in the same capacity of 'workers together with Him,' entreat you to turn that grace to practical account..."
-3. "...by 'walking worthy of the vocation wherewith ye are called.'"
+1. "Having pleaded with the unreconciled, as though God were pleading by us, no longer to resist the yearning desire and the gracious provision of God in Christ for their reconciliation."
+2. "We now turn to you, already reconciled, and, in the same capacity of 'workers together with Him,' entreat you to turn that grace to practical account."
+3. "By 'walking worthy of the vocation wherewith ye are called.'"
 
 ### Archibald T. Robertson:
-1. "We are co-workers, partners with God in this work of grace."
+1. "We are co-workers, partners with God in this work of grace." 
 2. "The plan of God, the work of Christ on the Cross, the pleas of the ambassador may all be nullified by the recipient of the message."
-3. "The plan of God, the work of Christ on the Cross, the pleas of the ambassador may all be nullified by the recipient of the message."
 
 ### John Gill:
-1. "The ministers of the Gospel are workers or labourers; their ministry is a work, and a very laborious one, which none have strength equal to, and are sufficient for." 
-2. "They have encouragement to work; and hence it is that their work is successful." 
-3. "By 'the grace of God,' is not meant the grace of God in regeneration, and effectual calling, which can never be received in vain; for the grace of God never fails of producing a thorough work of conversion; nor is it ever lost, but is strictly connected with eternal glory."
+1. "The ministers of the Gospel are workers or labourers; their ministry is a work, and a very laborious one, which none have strength equal to."
+2. "He is the chief shepherd, they under ones; he is the chief master builder, they under workers; but inasmuch as he is with them, and they with him, he is over them, and stands by them, great honour is done them; they have encouragement to work; and hence it is that their work is successful."
+3. "By 'the grace of God', is not meant the grace of God in regeneration, and effectual calling, which can never be received in vain; but by it is meant either the doctrine of grace, the Gospel of Christ, so called, because it is a declaration of the love and grace of God to sinners, ascribes salvation in part, and in whole, to the free grace of God, and is a means of implanting and increasing grace in the hearts of men."
 
 ### John Wesley:
-1. "We then not only beseech, but as fellow-labourers with you, who are working out your own salvation, do also exhort you..."
-2. "...not to receive the grace of God - Which we have been now describing."
+1. "We then not only beseech, but as fellow-labourers with you, who are working out your own salvation, do also exhort you..." 
+2. "Not to receive the grace of God - Which we have been now describing."
 3. "In vain — We receive it by faith; and not in vain, if we add to this, persevering holiness."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 15:16:37
+- Timestamp: 12-25-2023 19:30:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 44.44%
-- BHT Quality Score: 1.899558274229825
+- BHT Word Count: 83
+- BHT Commentary Usage: 51.72%
+- BHT Quality Score: 2.153826564499108
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'about', 'all', 'and', 'applied', 'as', 'be', 'by', 'calling', 'christ', 'embraced', 'enough', 'entreat', 'for', 'god', 'grace', 'have', 'hear', 'in', 'is', 'it', 'life', 'live', 'may', 'messengers', 'must', 'not', 'nullified', 'of', 'our', 'plan', 'plea', 'pleas', 'power', 'receive', 'received', 'reflects', 's', 'salvation', 'simply', 'sin', 'that', 'the', 'therefore', 'to', 'transformative', 'urge', 'vain', 'walk', 'we', 'words', 'work', 'worthy', 'you']
-- ChatGPT injected words (significant words only) (30):
-	['applied', 'calling', 'christ', 'embraced', 'entreat', 'god', 'grace', 'hear', 'life', 'live', 'messengers', 'nullified', 'plan', 'plea', 'pleas', 'power', 'receive', 'received', 'reflects', 's', 'salvation', 'simply', 'sin', 'transformative', 'urge', 'vain', 'walk', 'words', 'work', 'worthy']
+- ChatGPT injected words (58):
+	['a', 'account', 'advance', 'already', 'and', 'are', 'as', 'be', 'by', 'doctrine', 'enough', 'entreat', 'equal', 'for', 'god', 'gospel', 'grace', 'have', 'his', 'in', 'is', 'it', 'labor', 'laborious', 'ministers', 'ministry', 'must', 'not', 'of', 'offered', 'one', 'plead', 'practical', 'provided', 'receive', 'received', 'reconciled', 'reconciliation', 'simply', 'strength', 'that', 'the', 'their', 'they', 'to', 'together', 'turn', 'vain', 'very', 'vocation', 'walking', 'we', 'which', 'with', 'workers', 'worthy', 'you', 'your']
+- ChatGPT injected words (significant words only) (28):
+	['account', 'advance', 'doctrine', 'entreat', 'equal', 'god', 'gospel', 'grace', 'labor', 'laborious', 'ministers', 'ministry', 'offered', 'plead', 'practical', 'provided', 'receive', 'received', 'reconciled', 'reconciliation', 'simply', 'strength', 'turn', 'vain', 'vocation', 'walking', 'workers', 'worthy']
 
 ### Logs
-- Attempt 1 BHT: We, as ministers and messengers of God, entreat you not to receive the grace of God in vain. It is not enough to simply hear about the plan of salvation or the offers of mercy; it must be embraced and applied. We urge you, as recipients of the reconciling message, to walk worthy of the calling you have received, as fellow-workers with God. The plan of God, the work of Christ, and our pleas may all be nullified if the message is met with a life of sin. Therefore, we beseech you, not only to receive the grace of God, but to also live a life that reflects the transformative power of that grace.
-- 🔄 2 Corinthians 6:1 (attempt 1, 115 words, 43.08% quotes quality score: 2.137404012904434, V2 normalized quality score: 62.41, commentator tiers 1-3: 32.5%, 30.91%, 36.59%) 
+- Attempt 1 BHT: We, as workers together with God, urge you not to receive the reconciliation provided by His grace in vain. It is not enough for ministers to simply advance doctrine, they must labor for it to be received by the hearers and strive to ensure it is not offered in vain. The doctrine of the gospel is helped by exhortations, as ministers connect their endeavors with God's commission. We plead with you, already reconciled, to turn that grace to practical account by walking worthy of the vocation wherewith you are called.
+- 🔄 2 Corinthians 6:1 (attempt 1, 91 words, 40.68% quotes quality score: 2.2177553364897826, V2 normalized quality score: 65.08, commentator tiers 1-3: 33.26%, 28.21%, 38.53%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: We, as ministers and messengers of God, entreat you not to receive the grace of God in vain. It is not enough to simply hear about the plan of salvation or the offers of mercy; it must be embraced and applied. We urge you, as recipients of the reconciling message, to walk worthy of the calling you have received, as fellow-workers with God. The plan of God, the work of Christ, and our pleas may all be nullified if the message is met with a life of sin. Therefore, we beseech you, not only to receive the grace of God, but to also live a life that reflects the transformative power of that grace. (65 words)
-- 🔄 2 Corinthians 6:1 (attempt 2, 116 words, 42.42% quotes quality score: 1.9753582414505537, V2 normalized quality score: 57.02, commentator tiers 1-3: 33.01%, 30.31%, 36.68%) 
+- Attempt 2 BHT: As workers together with God, we entreat you not to receive the reconciliation provided by His grace in vain. Ministers must labor for their doctrine to be received and not offered in vain. The Gospel is helped by exhortations, as ministers connect their endeavors with God's commission. We plead with you, already reconciled, to turn that grace to practical account by walking worthy of your vocation.
+- 🔄 2 Corinthians 6:1 (attempt 2, 67 words, 42.86% quotes quality score: 2.1723598315777766, V2 normalized quality score: 63.57, commentator tiers 1-3: 33.68%, 29.22%, 37.09%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: As workers together with God, we also intreat that ye receive not the grace of God to no purpose. We are co-workers, partners with God in this work of grace. The plan of God, the work of Christ on the Cross, the pleas of the ambassador may all be nullified by the recipient of the message. Ministers are here taught that it is not enough simply to advance doctrine; they must also labor that it may be received by the hearers and not offered in vain.
+- 🔄 2 Corinthians 6:1 (attempt 3, 87 words, 48.15% quotes quality score: 2.321555532150298, V2 normalized quality score: 68.53, commentator tiers 1-3: 43.78%, 20.7%, 35.52%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: We urge you not to neglect the grace of God, but to receive it and let it transform your life. It is not enough to hear about salvation; it must be embraced and applied. We, as messengers of God, plead with you to walk in alignment with the calling you have received. The plan of God, the work of Christ, and our pleas may all be in vain if you choose to live a life of sin. Don't let the message of reconciliation go to waste. (76 words)
-- 🔄 2 Corinthians 6:1 (attempt 3, 88 words, 43.86% quotes quality score: 1.8074804948555285, V2 normalized quality score: 51.44, commentator tiers 1-3: 32.76%, 33.49%, 33.75%) 
+- Attempt 4 BHT: As workers together with God, we entreat you not to receive the grace of God in vain. We are co-workers, partners with God in this work of grace. Ministers must labor that their doctrine may not be offered in vain and strive to ensure it is not received to no purpose. The Gospel is helped by exhortations, as ministers connect their endeavors with God's commission. We plead with you, already reconciled, to turn that grace to practical account by walking worthy of your vocation.
+- 🔄 2 Corinthians 6:1 (attempt 4, 86 words, 42.86% quotes quality score: 2.2365451064965036, V2 normalized quality score: 65.71, commentator tiers 1-3: 38.48%, 25.95%, 35.57%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: We entreat you not to receive the grace of God in vain. It is not enough to simply hear about salvation; it must be embraced and applied. As messengers of God, we plea for you to live a life that reflects the transformative power of God's grace. The plan of God, the work of Christ, and our pleas may all be nullified by a life of sin. Therefore, we urge you to receive the grace of God and walk worthy of the calling you have received. (79 words)
-- 🔄 2 Corinthians 6:1 (attempt 4, 88 words, 44.44% quotes quality score: 1.899558274229825, V2 normalized quality score: 54.5, commentator tiers 1-3: 33.47%, 30.37%, 36.16%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As ambassadors of God, we implore you not to receive God's grace in vain. Mere hearing without embracing and applying is insufficient. We earnestly appeal to you to live a life aligned with the calling you have received, becoming co-workers with God. If the reconciling message is met with a life of sin, it renders the work of Christ, God's plan, and our pleas ineffective. Therefore, we beseech you not only to receive God's unmerited favor but also to exemplify its transforming power through a life of holiness. (79 words)
-- 🔄 2 Corinthians 6:1 (attempt 5, 93 words, 38.1% quotes quality score: 1.8412580304075794, V2 normalized quality score: 52.56, commentator tiers 1-3: 35.51%, 28.89%, 35.6%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 2 Corinthians 6:1 bht prompt v0.8 (88 words, 44.44% quotes)
-- quality score: 1.899558274229825, V2 normalized quality score: 54.5, commentator tiers 1-3: 33.47%, 30.37%, 36.16%)
+- Attempt 5 BHT: As workers together with God, we entreat you not to receive the reconciliation provided by His grace in vain. It is not enough for ministers to simply advance doctrine; they must labor for it to be received and not offered in vain. We plead with you, already reconciled, to turn that grace to practical account by walking worthy of your vocation. The ministers of the Gospel are workers, and their ministry is a very laborious one, for which they have strength equal to.
+- 🔄 2 Corinthians 6:1 (attempt 5, 83 words, 51.72% quotes quality score: 2.153826564499108, V2 normalized quality score: 62.96, commentator tiers 1-3: 31.28%, 28.97%, 39.75%) 
+	- BHT WAS OVER 80 WORDS!
+- ✅ 2 Corinthians 6:1 bht prompt v0.8 (83 words, 51.72% quotes)
+- quality score: 2.153826564499108, V2 normalized quality score: 62.96, commentator tiers 1-3: 31.28%, 28.97%, 39.75%)

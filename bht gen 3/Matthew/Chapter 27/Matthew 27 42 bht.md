@@ -1,7 +1,7 @@
 # Matthew 27:42 Commentary Help Text
 
 ## BHT:
-The soldiers' mocking taunts towards Jesus on the cross revealed a bitter irony. They acknowledged that Jesus had saved others through his miracles, yet questioned why he could not save himself. This ironic statement, although spoken in sarcasm, unwittingly highlighted the purpose of Jesus' ultimate sacrifice. His mission was not to save himself but to save humanity spiritually and eternally through his selfless death. Their mocking words reflected the blindness of those who failed to recognize the true power and sacrifice of the Son of God.
+Others he saved; himself he cannot save. This paradoxical taunt reveals the irony of the situation. Jesus had saved others through his miracles, yet in this moment he did not save himself. His rejection of saving himself is in line with his philosophy of life, as he did not come to save himself but to save others. By not delivering himself from death, Jesus shows that he came to save others spiritually and eternally; had he saved himself, there would be no reason to believe in him as the true Messiah.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -12,18 +12,18 @@ The soldiers' mocking taunts towards Jesus on the cross revealed a bitter irony.
 
 
 ### John Calvin:
-1. "Let us, on the contrary, that our faith may firmly rely on Christ, seek a foundation in his cross."
-2. "For the Jews, in consequence of having imagined to themselves a King who had been suggested to them by their own senses, rejected Christ crucified, because they reckoned it absurd to believe in him; while we regard it as the best and highest reason for believing, that he voluntarily subjected himself on our account to the ignominy of the cross."
-3. "And it is too customary with all wicked men to estimate the power of God by present appearances, so that whatever he does not accomplish they think that he cannot accomplish, and so they accuse him of weakness, whenever he does not comply with their wicked desire."
+1. "By so doing, they declare that they have no good-will to the King whom the Lord had promised to give."
+2. "Let us, on the contrary, that our faith may firmly rely on Christ, seek a foundation in his cross."
+3. "But let us believe that Christ, though he might easily have done it, did not immediately deliver himself from death, but it was because he did not wish to deliver himself."
 
 ### Philip Schaff:
 1. "He saved others. This may be ironical, or it is a recognition of His miracles of mercy, to taunt Him with a supposed loss of power just when He needed it most for Himself. His very mercy is used in mockery."
 2. "He is the king of Israel, etc. Ironical, with a mocking suggestion of still being open to the proof of His Messiahship."
-3. "And we will believe on him. Unless there was an atoning purpose in Christ’s death, it will always seem strange that He did not offer some such miraculous proof of His power. The soldiers repeated this reproach, but of course without this last clause (see Luke 23:36-37)."
+3. "And we will believe on him. Unless there was an atoning purpose in Christ’s death, it will always seem strange that He did not offer some such miraculous proof of His power."
 
 ### Archibald T. Robertson:
-1. "He saved others; himself he cannot save. The sarcasm is true, though they do not know its full significance."
-2. "If he had saved himself now, he could not have saved any one."
+1. "If he had saved himself now, he could not have saved any one."
+2. "The paradox is precisely the philosophy of life proclaimed by Jesus himself."
 3. "Christ will not give new proofs to the blind in heart."
 
 ### John Gill:
@@ -34,39 +34,37 @@ The soldiers' mocking taunts towards Jesus on the cross revealed a bitter irony.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:54:25
+- Timestamp: 12-25-2023 19:34:16
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 42.19%
-- BHT Quality Score: 1.9356773547383073
+- BHT Word Count: 91
+- BHT Commentary Usage: 51.85%
+- BHT Quality Score: 2.0331754639215784
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'acknowledged', 'although', 'and', 'bitter', 'blindness', 'but', 'could', 'cross', 'death', 'eternally', 'failed', 'god', 'had', 'he', 'highlighted', 'himself', 'his', 'humanity', 'in', 'ironic', 'irony', 'jesus', 'miracles', 'mission', 'mocking', 'not', 'of', 'on', 'others', 'power', 'purpose', 'questioned', 'recognize', 'reflected', 'revealed', 'sacrifice', 'sarcasm', 'save', 'saved', 'selfless', 'soldiers', 'son', 'spiritually', 'spoken', 'statement', 'taunts', 'that', 'the', 'their', 'they', 'this', 'those', 'through', 'to', 'towards', 'true', 'ultimate', 'unwittingly', 'was', 'who', 'why', 'words', 'yet']
-- ChatGPT injected words (significant words only) (37):
-	['acknowledged', 'bitter', 'blindness', 'cross', 'death', 'eternally', 'failed', 'god', 'highlighted', 'humanity', 'ironic', 'irony', 'jesus', 'miracles', 'mission', 'mocking', 'power', 'purpose', 'questioned', 'recognize', 'reflected', 'revealed', 'sacrifice', 'sarcasm', 'save', 'saved', 'selfless', 'soldiers', 'son', 'spiritually', 'spoken', 'statement', 'taunts', 'true', 'ultimate', 'unwittingly', 'words']
+- ChatGPT injected words (54):
+	['and', 'as', 'be', 'believe', 'but', 'by', 'came', 'cannot', 'come', 'death', 'delivering', 'did', 'eternally', 'from', 'had', 'he', 'him', 'himself', 'his', 'in', 'irony', 'is', 'jesus', 'life', 'line', 'messiah', 'miracles', 'moment', 'no', 'not', 'of', 'others', 'paradoxical', 'philosophy', 'reason', 'rejection', 'reveals', 'save', 'saved', 'saving', 'shows', 'situation', 'spiritually', 'taunt', 'that', 'the', 'there', 'this', 'through', 'to', 'true', 'with', 'would', 'yet']
+- ChatGPT injected words (significant words only) (26):
+	['believe', 'came', 'come', 'death', 'delivering', 'eternally', 'irony', 'jesus', 'life', 'line', 'messiah', 'miracles', 'moment', 'paradoxical', 'philosophy', 'reason', 'rejection', 'reveals', 'save', 'saved', 'saving', 'shows', 'situation', 'spiritually', 'taunt', 'true']
 
 ### Logs
-- Attempt 1 BHT: The taunts hurled at Jesus on the cross highlighted the irony of the situation. As the soldiers mockingly acknowledged, Jesus had saved others through his miracles, but now found himself unable to save himself. However, they did not fully grasp the significance of their words. If Jesus had saved himself at that moment, he would not have been able to save anyone else. His mission was not to demonstrate earthly power but to offer salvation through his sacrificial death. The sarcastic reproach reflects the blindness of those who fail to see the truth and the hardness of heart that rejects the Son of God, even in the face of his ultimate act of selflessness.
-- 🔄 Matthew 27:42 (attempt 1, 114 words, 42.86% quotes quality score: 1.8090521960786008, V2 normalized quality score: 51.49, commentator tiers 1-3: 35.34%, 32.67%, 31.99%) 
+- Attempt 1 BHT: Others he saved; himself he cannot save. This paradoxical taunt reveals the irony of the situation. Jesus had saved others through his miracles, yet in this moment he did not save himself. His rejection of saving himself is in line with his philosophy of life, as he did not come to save himself but to save others. By not delivering himself from death, Jesus exemplifies his self-sacrificial nature and shows that he came to save others spiritually and eternally. If he had saved himself, there would be no reason to believe in him as the true Messiah.
+- 🔄 Matthew 27:42 (attempt 1, 98 words, 49.15% quotes quality score: 2.011389081305233, V2 normalized quality score: 58.22, commentator tiers 1-3: 38.41%, 30.68%, 30.91%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The soldiers' mockery towards Jesus on the cross highlighted an ironic truth. They sarcastically pointed out that Jesus had saved others through his miracles, yet appeared incapable of saving himself. However, they failed to fully grasp the significance of their words. Jesus' purpose was not to save himself but to offer salvation through his selfless sacrifice. Their taunts revealed the blindness of those who reject the Son of God, even in the face of his ultimate act of love and redemption.
-- 🔄 Matthew 27:42 (attempt 2, 81 words, 40.98% quotes quality score: 1.7570614657800894, V2 normalized quality score: 49.76, commentator tiers 1-3: 33.08%, 32.97%, 33.95%) 
+- Attempt 2 BHT: Others he saved; himself he cannot save. This paradoxical taunt reveals the irony of the situation. Jesus had saved others through his miracles, yet in this moment he did not save himself. His rejection of saving himself is in line with his philosophy of life, as he did not come to save himself but to save others. By not delivering himself from death, Jesus shows that he came to save others spiritually and eternally; had he saved himself, there would be no reason to believe in him as the true Messiah.
+- 🔄 Matthew 27:42 (attempt 2, 91 words, 51.85% quotes quality score: 2.0331754639215784, V2 normalized quality score: 58.94, commentator tiers 1-3: 40.44%, 29.78%, 29.79%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 3 BHT: In this verse, Jesus is mocked for his inability to save himself, despite having saved others through miracles. This taunt highlights the irony of the situation and reveals Jesus' self-sacrificial nature. By choosing not to save himself, Jesus demonstrates his commitment to saving others spiritually and eternally. This act of humility aligns with his philosophy of life and serves as a powerful testament to his role as the true Messiah.
+- 🔄 Matthew 27:42 (attempt 3, 71 words, 33.33% quotes quality score: 1.9364185517737367, V2 normalized quality score: 55.73, commentator tiers 1-3: 34.72%, 34.97%, 30.31%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: Mocked for his inability to save himself, Jesus defies expectations by prioritizing the salvation of others over his own. This paradoxical taunt highlights the irony of the situation, as Jesus had the power to save others through miracles but chooses not to save himself. This self-sacrificial act reflects his philosophy of life and underscores his role as the true Messiah. By willingly embracing his own death, Jesus demonstrates his commitment to saving others spiritually and eternally.
+- 🔄 Matthew 27:42 (attempt 4, 77 words, 33.33% quotes quality score: 1.9659471347012176, V2 normalized quality score: 56.71, commentator tiers 1-3: 32.25%, 36.02%, 31.73%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Others he saved; himself he cannot save. This paradoxical taunt reveals the irony of the situation. Jesus had saved others through his miracles, yet in this moment he did not save himself. His rejection of saving himself is in line with his philosophy of life, as he did not come to save himself but to save others. By not delivering himself from death, Jesus exemplifies his self-sacrificial nature and shows that he came to save others spiritually and eternally. If he had saved himself, there would be no reason to believe in him as the true Messiah.
+- 🔄 Matthew 27:42 (attempt 5, 98 words, 49.15% quotes quality score: 2.011389081305233, V2 normalized quality score: 58.22, commentator tiers 1-3: 38.41%, 30.68%, 30.91%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The soldiers' mocking taunts towards Jesus on the cross revealed a bitter irony. They acknowledged that Jesus had saved others through his miracles, yet questioned why he could not save himself. This ironic statement, although spoken in sarcasm, unwittingly highlighted the purpose of Jesus' ultimate sacrifice. His mission was not to save himself but to save humanity spiritually and eternally through his selfless death. Their mocking words reflected the blindness of those who failed to recognize the true power and sacrifice of the Son of God.
-- 🔄 Matthew 27:42 (attempt 3, 86 words, 42.19% quotes quality score: 1.9356773547383073, V2 normalized quality score: 55.7, commentator tiers 1-3: 31.84%, 35.84%, 32.32%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The soldiers' cruel taunts toward Jesus on the cross emphasized a profound irony. In their mockery, they acknowledged that Jesus had saved others through his miracles, implicitly questioning why he could not save himself. However, they failed to comprehend the true significance of their words. Jesus willingly chose not to save himself, for his mission was to save humanity spiritually and eternally through his selfless sacrifice. Their sarcastic reproach highlighted the inability of the blind-hearted to recognize the power and purpose of Christ's crucifixion.
-- 🔄 Matthew 27:42 (attempt 4, 86 words, 36.51% quotes quality score: 1.7485455265573613, V2 normalized quality score: 49.48, commentator tiers 1-3: 31.48%, 34.17%, 34.35%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The soldiers' mocking taunts on the cross captured the profound irony of the situation. They acknowledged Jesus' ability to save others through his miracles but questioned why he could not save himself. Little did they realize that if Jesus had saved himself, he would not have been able to save anyone else. His sacrificial death was not a sign of weakness but a demonstration of his love and power to save humanity. Their insulting words revealed their failure to understand the true purpose and significance of Christ's crucifixion.
-- 🔄 Matthew 27:42 (attempt 5, 89 words, 42.19% quotes quality score: 1.9340210957269157, V2 normalized quality score: 55.65, commentator tiers 1-3: 33.06%, 34.31%, 32.63%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 27:42 bht prompt v0.8 (86 words, 42.19% quotes)
-- quality score: 1.9356773547383073, V2 normalized quality score: 55.7, commentator tiers 1-3: 31.84%, 35.84%, 32.32%)
+- ✅ Matthew 27:42 bht prompt v0.8 (91 words, 51.85% quotes)
+- quality score: 2.0331754639215784, V2 normalized quality score: 58.94, commentator tiers 1-3: 40.44%, 29.78%, 29.79%)

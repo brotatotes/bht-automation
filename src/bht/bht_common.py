@@ -1,6 +1,7 @@
 from bibleref import BibleRange, BibleVerse
 import os
 import re
+import shutil
 
 # GLOBALS
 
@@ -55,6 +56,11 @@ BOOKS = [BibleRange(b) for b in [
         "Revelation",
         ]]
 
+ALL_VERSES = []
+for book in BOOKS:
+    for verse_ref in book:
+        ALL_VERSES.append(str(verse_ref))
+
 BOOK_CHAPTERS = {
     'Matthew': 28,
     'Mark': 16,
@@ -86,6 +92,15 @@ BOOK_CHAPTERS = {
 }
 
 # HELPER FUNCTIONS
+
+def get_bht_json_path(choicest_prompt, bht_prompt, book, chapter, verse):
+    return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/json/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.json'
+
+def get_bht_md_path(choicest_prompt, bht_prompt, book, chapter, verse):
+    return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/md/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
+
+def get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator):
+    return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
 def get_book_chapter_verse(verse_ref):
     verse_ref = str(verse_ref)
@@ -179,3 +194,14 @@ def remove_html_tags(html_text):
     text = re.sub(r'<.*?>', '', html_text)
     text = re.sub(r' +', ' ', text)
     return text
+
+def copy_file(source_path, destination_path):
+    try:
+        shutil.copy2(source_path, destination_path)
+        print(f"File copied successfully from {source_path} to {destination_path}")
+    except FileNotFoundError:
+        print(f"Error: Source file {source_path} not found.")
+    except PermissionError:
+        print(f"Error: Permission denied to copy to {destination_path}")
+    except Exception as e:
+        print(f"An error occurred: {e}")

@@ -1,54 +1,54 @@
 {
-    "timestamp": "12-19-2023 16:30:24",
+    "timestamp": "12-25-2023 19:30:35",
     "verseRef": "Acts 12:25",
     "bestBHT": {
-        "bht": "After the death of Herod, Saul and Barnabas returned to Antioch, having fulfilled their ministry of delivering relief to the poor saints and churches of Palestine. They were accompanied by John Mark, the nephew of Barnabas and a disciple of Peter. The specific timing and purpose of their return remain uncertain, but it is evident that their mission had been accomplished. This transition marks the end of their work and sets the stage for their future endeavors.",
-        "wordCount": 77,
-        "quoteTokenProportion": 32.14,
-        "qualityScore": 1.7221514414620325,
-        "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+        "bht": "Barnabas and Saul returned to Antioch from Jerusalem after fulfilling their ministry there, bringing with them John Mark, who was Barnabas's nephew and had a spiritual connection to Peter. Saul, being a prime target for the Jews, did not linger in Jerusalem. Their return to Antioch served as a bridge between their mission in Jerusalem and their future efforts. John Mark, regarded as a man of promise, joined them on their journey, proving to be a significant figure later on.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.119832754733981,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.83,
         "commentatorTierSimilarities": [
-            30.82,
-            33.59,
-            35.58
+            31.06,
+            30.25,
+            38.69
         ],
         "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The purpose of the mission would be very soon accomplished: Saul would naturally not remain longer in Jerusalem than was unavoidable, and would court no publicity.",
-            "Hence there seems an additional reason for placing the visit after Herod's death: for, of all the persons whose execution would be pleasing to the Jews, Saul would hold the foremost place.",
-            "Our verse is probably inserted as a note of passage from the last recorded fact of Barnabas and Saul to their being found at Antioch."
+            "Hence there seems an additional reason for placing the visit after Herod\u2019s death: for, of all the persons whose execution would be pleasing to the Jews, Saul would hold the foremost place.",
+            "Our verse is probably inserted as a note of passage from the last recorded fact of Barnabas and Saul (xi. 30), to their being found at Antioch (xiii. 1)."
         ],
         "Jamieson-Fausset-Brown": [
-            "Barnabas and Saul returned from Jerusalem\u2014where, it thus appears, they had remained during all this persecution.\" ",
-            "took with them John . . . Mark\u2014(See on Acts 12:1), not to be confounded with the second Evangelist, as is often done.\" ",
+            "Barnabas and Saul returned from Jerusalem\u2014where, it thus appears, they had remained during all this persecution.",
+            "Took with them John . . . Mark\u2014(See on Acts 12:1), not to be confounded with the second Evangelist, as is often done.",
             "As his uncle was Barnabas, so his spiritual father was Peter (Acts 12:1- :)."
         ],
         "Albert Barnes": [
-            "When they had fulfilled their ministry - When they had accomplished the purpose for which they had been sent there; that is, to deposit the alms of the church at Antioch in the hands of the eiders of the churches.",
-            "The labors of the other apostles are, after this, seldom referred to in this book, and the attention is fixed almost entirely on the trials and travels of the great apostle of the Gentiles.",
+            "When they had fulfilled their ministry - When they had accomplished the purpose for which they had been sent there.",
+            "From this period the sacred historian records chiefly the labors of Paul.",
             "In that God and Saviour who then defended the church, we may still confide, and may be assured that he who was then its friend has it still 'engraved on the palms of his hands,' and designs that it shall extend until it fills the earth with light and salvation."
         ],
         "John Calvin": [
             "The ministry which Luke saith Barnabas and Paul did finish, must be referred unto the alms, whereof mention was made before.",
-            "The carrying of this money was committed to Barnabas and Paul.",
+            "Now Luke saith that they returned to Antioch, that he may pass over unto a new history.",
             "He addeth, that they took with them John, whose surname was Mark, whose mother was honorably commended before, that he might keep them company, who was afterward, as we shall see, a cause of grievous and dangerous [hurtful] discord between them."
         ],
         "Philip Schaff": [
+            "Barnabas and Saul returned from Jerusalem when they had fulfilled their ministry.",
             "Barnabas and Saul, after the prediction of Agabus, had been sent from Antioch to Judea with alms for the poor saints of Jerusalem and the churches of Palestine.",
-            "It seems most probable that they had sojourned during the Passover at Jerusalem, and had been eye-witnesses of the events related in this chapter.",
             "Chrysostom remarks that the writer of the \u2018Acts\u2019 still mentions Barnabas first, for Paul was not yet famous; he had not as yet wrought any sign."
         ],
         "Archibald T. Robertson": [
-            "The ministration (\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b9\u03b1\u03bd) referred to is that in Acts 11:29 which may have taken place, in point of time, after the death of Herod.",
-            "Taking along (\u03c0\u03b1\u03c1\u03b1) with (\u03c3\u03c5\u03bd) them, John Mark from Jerusalem (Acts 12:12) to Antioch (Acts 13:1).",
-            "The aorist participle does not express subsequent action as Rackham here argues."
+            "From Jerusalem (\u03b5\u03be \u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03b7\u03bc). Probably correct text, though D has \u03b1\u03c0\u03bf.",
+            "The ministration (\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b9\u03b1\u03bd) referred to is that in Acts 11:29.",
+            "Taking along (\u03c0\u03b1\u03c1\u03b1) with (\u03c3\u03c5\u03bd) them, John Mark from Jerusalem (Acts 12:12) to Antioch (Acts 13:1)."
         ],
         "John Gill": [
-            "And Barnabas and Saul returned from Jerusalem...",
-            "...when they had fulfilled their ministry; which was the carrying the relief...",
-            "...and took with them John, whose surname was Mark..."
+            "And Barnabas and Saul returned from Jerusalem.... unto Antioch.\" ",
+            "When they had fulfilled their ministry.... the carrying the relief, or the money collected by the Christians at Antioch, for the brethren in Judea, on account of the famine that was there.",
+            "Him they brought with them from Jerusalem to Antioch, being a kinsman of Barnabas; and a man of promising gifts and usefulness, and judged to be a fit companion with them in their travels, for the spread of the Gospel."
         ],
         "John Wesley": [
             "Saul returned \u2014 To Antioch; taking John, surnamed Mark - The son of Mary, (at whose house the disciples met, to pray for Peter,) who was sister to Barnabas."
@@ -71,67 +71,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "After the death of Herod, Barnabas and Saul returned from Jerusalem to Antioch, but not before fulfilling their ministry of carrying relief to the poor saints and churches of Palestine. They also took John Mark with them, who was the son of Mary and nephew of Barnabas, as well as a disciple of Peter. Although the exact timing of their return and the purpose of this visit is uncertain, it is clear that their mission had been accomplished. It is likely that Saul, given his notoriety and desire to avoid the Jews, did not linger in Jerusalem unnecessarily. This verse serves as a transitional note, marking the conclusion of Barnabas and Saul's work and paving the way for their future endeavors.",
-            "wordCount": 122,
-            "quoteTokenProportion": 36.59,
-            "qualityScore": 1.9963927459831707,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "bht": "Barnabas and Saul returned from Jerusalem after fulfilling their ministration there, and they took John Mark with them to Antioch. Saul, who would have been a prominent target for the Jews, naturally did not remain in Jerusalem for long. Their return to Antioch marked the transition from their mission in Jerusalem to their next venture in spreading the Gospel. John Mark, who was both Barnabas's nephew and had a spiritual connection to Peter, was chosen to accompany them. This young man, praised for his promising gifts, would later play a significant role in their journey.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0373236354522026,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
             "commentatorTierSimilarities": [
-                30.33,
-                34.81,
-                34.86
+                30.78,
+                29.92,
+                39.3
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "After the death of Herod, Saul and Barnabas returned to Antioch, having fulfilled their ministry of delivering relief to the poor saints and churches of Palestine. They were accompanied by John Mark, the nephew of Barnabas and a disciple of Peter. The specific timing and purpose of their return remain uncertain, but it is evident that their mission had been accomplished. This transition marks the end of their work and sets the stage for their future endeavors.",
-            "wordCount": 77,
-            "quoteTokenProportion": 32.14,
-            "qualityScore": 1.7221514414620325,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+            "bht": "Barnabas and Saul returned to Antioch from Jerusalem after fulfilling their ministry there, bringing with them John Mark, who was Barnabas's nephew and had a spiritual connection to Peter. Saul, being a prime target for the Jews, did not linger in Jerusalem. Their return to Antioch served as a bridge between their mission in Jerusalem and their future efforts. John Mark, regarded as a man of promise, joined them on their journey, proving to be a significant figure later on.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.119832754733981,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
             "commentatorTierSimilarities": [
-                30.82,
-                33.59,
-                35.58
+                31.06,
+                30.25,
+                38.69
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "After Herod's death, Barnabas and Saul completed their ministry of delivering relief to the poor saints and churches of Palestine. John Mark, who was the son of Mary and nephew of Barnabas and a disciple of Peter, accompanied them on their return to Antioch. The verse serves as a transition, marking the conclusion of their work and setting the stage for their future endeavors. The exact timing and purpose of their return remain unclear, but it is evident that their mission had been fulfilled.",
-            "wordCount": 85,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.8156607658234085,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "bht": "Barnabas and Saul fulfilled their ministry in Jerusalem and subsequently returned to Antioch, accompanied by John Mark, who had a familial and spiritual connection to them. Their departure from Jerusalem after the death of Herod was beneficial for both their safety and the progression of their mission. This verse marks the transition from their previous endeavors to their presence in Antioch, setting the stage for their future missionary work. John Mark, a man of promise, served as their companion during their travels.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9876096433621457,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
             "commentatorTierSimilarities": [
-                29.68,
-                34.28,
-                36.04
+                28.42,
+                32.29,
+                39.29
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "After the death of Herod, Saul and Barnabas returned to Antioch, having fulfilled their ministry of delivering relief to the poor saints in Palestine. Accompanying them was John Mark, the nephew of Barnabas and a disciple of Peter. The precise timing and reason for their return may be uncertain, but it is clear that their mission had been accomplished. This passage serves as a transition, signaling the end of their work and paving the way for their future endeavors.",
-            "wordCount": 79,
-            "quoteTokenProportion": 35.59,
-            "qualityScore": 1.8005817846231356,
-            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "bht": "After fulfilling their ministry in Jerusalem, Barnabas and Saul returned to Antioch, accompanied by John Mark, whose mother was highly regarded. The timing of their departure from Jerusalem, soon after Herod's death, was strategic for their safety and the success of their mission. This marked a significant transition point as they moved from their previous location to Antioch, setting the stage for their future work in spreading the Gospel. John Mark, recognized for his promise, joined them as a valued companion in their travels.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8410204085624193,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
             "commentatorTierSimilarities": [
-                31.31,
-                32.11,
-                36.58
+                27.95,
+                31.96,
+                40.09
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Following the demise of Herod, Saul and Barnabas journeyed back to Antioch, having successfully fulfilled their ministry by providing assistance to the impoverished saints in Palestine. John Mark, identified as the son of Mary and the nephew of Barnabas, accompanied them on their return. While the exact timing and purpose of their visit remain unclear, it is evident that their task had been completed. This transition denotes the conclusion of their work, setting the stage for their forthcoming endeavors.",
-            "wordCount": 79,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.6174165607474853,
-            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "bht": "Barnabas and Saul completed their ministry in Jerusalem and returned to Antioch, taking with them John Mark, who was related to Barnabas and had a connection to Peter. The timing of their departure, after Herod's death, allowed for the safety and effectiveness of their mission. This transition marked their shift from Jerusalem to Antioch, laying the foundation for their future work in spreading the Gospel. John Mark, recognized for his potential, accompanied them as a trusted companion on their journey.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.843725381720336,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
             "commentatorTierSimilarities": [
-                29.83,
-                32.95,
-                37.22
+                28.23,
+                31.02,
+                40.74
             ],
             "generationAttempt": 5
         }

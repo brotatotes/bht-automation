@@ -1,7 +1,7 @@
 # Luke 12:29 Commentary Help Text
 
 ## BHT:
-Do not be of a doubtful and unsettled mind, constantly fluctuating and seeking after false hopes and imagined necessities. Do not rise in fancy to high demands, creating more discontentment and anxiety. Instead, stop being anxious and cease your endless circuits of worry. Do not let excessive curiosity lead you to unnecessary uneasiness, making yourselves miserable before the time. Be steadfast in your thoughts and do not be fickle or inconstant. Release yourself from the tormenting and vexatious care, and let your mind find peace from the distractions and hesitations that keep you from true contentment.
+Do not be of a doubtful, unsettled mind, constantly seeking and fluctuating in your thoughts about what you shall eat and drink, for this only leads to anxiety and misery. Stop being anxious and seek not these things in a tormenting and vexatious manner. Instead, trust in God's providence and set aside your doubts, for excessive curiosity and endless speculation only bring unnecessary care and misery.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -12,68 +12,67 @@ Do not be of a doubtful and unsettled mind, constantly fluctuating and seeking a
 ### Marvin Vincent:
 1. "Be ye of doubtful mind." 
 2. "The verb primarily means to raise to a height; buoy up, as with false hopes; and so to unsettle, or excite, or keep in fluctuation." 
-3. "Thus Thucydides says of the war between Athens and Sparta : 'All Hellas was excited by the coming conflict between the two chief cities'."
+3. "All Hellas was excited by the coming conflict between the two chief cities."
 
 ### John Calvin:
-1. "Be not lifted on high... for the intemperate desires of the flesh are never satisfied without making a hundred revolutions of heaven and earth." 
-2. "This is a reproof of excessive curiosity; for it leads us to bring upon ourselves uneasiness to no purpose, and voluntarily to make ourselves miserable before the time." 
+1. "The consequence is, that they leave no room for the providence of God."
+2. "This is a reproof of excessive curiosity; for it leads us to bring upon ourselves uneasiness to no purpose, and voluntarily to make ourselves miserable before the time."
 3. "For, as we have said, it does not condemn every kind of care, but only that which wanders, by indirect and endless circuits, beyond limits."
 
 ### Philip Schaff:
 1. "Do not rise in fancy to high demands, creating imagined necessities, thus making yourselves more ill-contented and more disposed to unbelieving anxiety."
 2. "Do not be fluctuating, i.e., anxious, tossed between hope and fear."
-3. "This suits the connection, but is a less usual sense."
 
 ### Archibald T. Robertson:
-1. "Stop seeking." 
-2. "Do not become anxious."
-3. "Stop being anxious, to be in doubt."
+1. "Seek not ye... Stop seeking." 
+2. "Do not become anxious." 
+3. "Stop being anxious... to be in doubt."
 
 ### John Gill:
-1. "Seek not what ye shall eat, or what ye shall drink...in an anxious and distressing manner, with a tormenting and vexatious care."
+1. "And seek not what ye shall eat, or what ye shall drink,.... That is, in an anxious and distressing manner, with a tormenting and vexatious care."
 2. "Be not fickle, unstable, and inconstant, and wandering in your thoughts about these things."
 3. "Let not your minds be disturbed and distracted about them; or be anxiously solicitous for them."
 
 ### John Wesley:
 1. "Neither be ye of a doubtful mind." 
 2. "The word in the original signifies, any speculations or musings in which the mind fluctuates, or is suspended."
-3. "Like meteors in the air, in an uneasy hesitation."
+3. "(like meteors in the air) in an uneasy hesitation."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:19:00
+- Timestamp: 12-25-2023 19:30:40
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 30.88%
-- BHT Quality Score: 1.9094349168730096
+- BHT Word Count: 67
+- BHT Commentary Usage: 32.69%
+- BHT Quality Score: 2.0342103733406884
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'after', 'and', 'anxiety', 'anxious', 'be', 'before', 'being', 'care', 'cease', 'circuits', 'constantly', 'contentment', 'creating', 'curiosity', 'demands', 'discontentment', 'distractions', 'do', 'doubtful', 'endless', 'excessive', 'false', 'fancy', 'fickle', 'find', 'fluctuating', 'from', 'hesitations', 'high', 'hopes', 'imagined', 'in', 'inconstant', 'instead', 'keep', 'lead', 'let', 'making', 'mind', 'miserable', 'more', 'necessities', 'not', 'of', 'or', 'peace', 'release', 'rise', 'seeking', 'steadfast', 'stop', 'that', 'the', 'thoughts', 'time', 'to', 'tormenting', 'true', 'uneasiness', 'unnecessary', 'unsettled', 'vexatious', 'worry', 'you', 'your', 'yourself', 'yourselves']
-- ChatGPT injected words (significant words only) (47):
-	['anxiety', 'anxious', 'care', 'cease', 'circuits', 'constantly', 'contentment', 'creating', 'curiosity', 'demands', 'discontentment', 'distractions', 'doubtful', 'endless', 'excessive', 'false', 'fancy', 'fickle', 'find', 'fluctuating', 'hesitations', 'high', 'hopes', 'imagined', 'inconstant', 'instead', 'lead', 'let', 'making', 'mind', 'miserable', 'necessities', 'peace', 'release', 'rise', 'seeking', 'steadfast', 'stop', 'thoughts', 'time', 'tormenting', 'true', 'uneasiness', 'unnecessary', 'unsettled', 'vexatious', 'worry']
+- ChatGPT injected words (52):
+	['a', 'about', 'and', 'anxiety', 'anxious', 'aside', 'be', 'being', 'bring', 'care', 'constantly', 'curiosity', 'do', 'doubtful', 'doubts', 'drink', 'eat', 'endless', 'excessive', 'fluctuating', 'for', 'god', 'in', 'instead', 'leads', 'manner', 'mind', 'misery', 'not', 'of', 'only', 'providence', 's', 'seek', 'seeking', 'set', 'shall', 'speculation', 'stop', 'these', 'things', 'this', 'thoughts', 'to', 'tormenting', 'trust', 'unnecessary', 'unsettled', 'vexatious', 'what', 'you', 'your']
+- ChatGPT injected words (significant words only) (35):
+	['anxiety', 'anxious', 'aside', 'bring', 'care', 'constantly', 'curiosity', 'doubtful', 'doubts', 'drink', 'eat', 'endless', 'excessive', 'fluctuating', 'god', 'instead', 'leads', 'manner', 'mind', 'misery', 'providence', 's', 'seek', 'seeking', 'set', 'shall', 'speculation', 'stop', 'things', 'thoughts', 'tormenting', 'trust', 'unnecessary', 'unsettled', 'vexatious']
 
 ### Logs
-- Attempt 1 BHT: Do not be of a doubtful and unsettled mind, constantly fluctuating and seeking after false hopes and imagined necessities. Do not rise in fancy to high demands, creating more discontentment and anxiety. Instead, stop being anxious and cease your endless circuits of worry. Do not let excessive curiosity lead you to unnecessary uneasiness, making yourselves miserable before the time. Be steadfast in your thoughts and do not be fickle or inconstant. Release yourself from the tormenting and vexatious care, and let your mind find peace from the distractions and hesitations that keep you from true contentment.
-- 🔄 Luke 12:29 (attempt 1, 96 words, 30.88% quotes quality score: 1.9094349168730096, V2 normalized quality score: 54.83, commentator tiers 1-3: 25.45%, 38.9%, 35.65%) 
+- Attempt 1 BHT: Do not be of a doubtful, unsettled mind, constantly seeking and fluctuating in your thoughts about what you shall eat and drink, for this only leads to anxiety and misery. Do not create imagined necessities and high demands that make you ill-contented and disposed to unbelieving anxiety. Instead, stop being anxious and seek not these things in a tormenting and vexatious manner. By being fickle and constantly wandering in your thoughts, you leave no room for the providence of God and bring upon yourselves unnecessary uneasiness. So, set aside your doubts and trust in God's providence, for excessive curiosity and endless speculation only lead to unnecessary care and misery.
+- 🔄 Luke 12:29 (attempt 1, 111 words, 33.33% quotes quality score: 2.0369808348767555, V2 normalized quality score: 59.07, commentator tiers 1-3: 21.12%, 47.79%, 31.1%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Do not be of a doubtful mind, constantly fluctuating and seeking false hopes. Stop being anxious and release yourself from tormenting and vexatious care. Do not let excessive curiosity lead to unnecessary uneasiness, making yourselves miserable before the time. Be steadfast and do not be fickle or inconstant. Find peace from the distractions and hesitations that keep you from true contentment.
-- 🔄 Luke 12:29 (attempt 2, 61 words, 35.42% quotes quality score: 1.851784260642476, V2 normalized quality score: 52.91, commentator tiers 1-3: 28.75%, 34.39%, 36.87%) 
+- Attempt 2 BHT: Do not be of a doubtful, unsettled mind, constantly seeking and fluctuating in your thoughts about what you shall eat and drink, for this only leads to anxiety and misery. Stop being anxious and seek not these things in a tormenting and vexatious manner. Instead, trust in God's providence and set aside your doubts, for excessive curiosity and endless speculation only bring unnecessary care and misery.
+- 🔄 Luke 12:29 (attempt 2, 67 words, 32.69% quotes quality score: 2.0342103733406884, V2 normalized quality score: 58.98, commentator tiers 1-3: 23.69%, 43.38%, 32.93%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Do not be of a doubtful and unsettled mind, constantly fluctuating and seeking after false hopes and imagined necessities. Stop being anxious and cease your endless circuits of worry. Do not let excessive curiosity lead you to unnecessary uneasiness, making yourselves miserable before the time. Be steadfast in your thoughts and do not be fickle or inconstant. Release yourself from the tormenting and vexatious care, and let your mind find peace from the distractions and hesitations that keep you from true contentment.
-- 🔄 Luke 12:29 (attempt 3, 82 words, 33.9% quotes quality score: 1.891015603984795, V2 normalized quality score: 54.22, commentator tiers 1-3: 27.16%, 35.07%, 37.77%) 
+- Attempt 3 BHT: Stop being of a doubtful mind and cease to be anxious or unsettled about what you will eat or drink. Do not fluctuate in your thoughts or create imagined necessities, as this only leads to ill-contentment and unbelieving anxiety. Instead, let go of your worries and trust in the providence of God. Excessive curiosity and endless speculation will only bring about unnecessary uneasiness and misery. Seek not these things in a tormenting and vexatious manner, but rather find peace in knowing that God will provide.
+- 🔄 Luke 12:29 (attempt 3, 86 words, 36.92% quotes quality score: 1.992219366719441, V2 normalized quality score: 57.58, commentator tiers 1-3: 23.31%, 45.27%, 31.42%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Do not be of a doubtful and unsettled mind, constantly fluctuating and seeking after false hopes and imagined necessities. Stop being anxious and cease your endless circuits of worry. Find peace from the distractions and hesitations that keep you from true contentment. Release yourself from the tormenting and vexatious care, and be steadfast in your thoughts. Let not excessive curiosity lead you to unnecessary uneasiness, making yourselves miserable before the time. Do not be fickle or inconstant, but instead, seek true tranquility.
-- 🔄 Luke 12:29 (attempt 4, 82 words, 33.33% quotes quality score: 1.825654758015474, V2 normalized quality score: 52.04, commentator tiers 1-3: 26.73%, 35.14%, 38.13%) 
+- Attempt 4 BHT: Stop being of a doubtful mind and cease to be anxious or unsettled about what you will eat or drink. Do not fluctuate in your thoughts or create imagined necessities, as this only leads to ill-contentment and unbelieving anxiety. Instead, let go of your worries and trust in the providence of God. Excessive curiosity and endless speculation will only bring about unnecessary uneasiness and misery. Seek not these things in a tormenting and vexatious manner, but rather find peace in knowing that God will provide.
+- 🔄 Luke 12:29 (attempt 4, 86 words, 36.92% quotes quality score: 1.992219366719441, V2 normalized quality score: 57.58, commentator tiers 1-3: 23.31%, 45.27%, 31.42%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Do not be of a doubtful and unsettled mind, constantly fluctuating and seeking after false hopes and imagined necessities. Instead, stop being anxious and cease your endless circuits of worry. Find peace from the distractions and hesitations that keep you from true contentment. Release yourself from the tormenting and vexatious care, and be steadfast in your thoughts. Let not excessive curiosity lead you to unnecessary uneasiness, making yourselves miserable before the time. Do not be fickle or inconstant, but seek true tranquility.
-- 🔄 Luke 12:29 (attempt 5, 82 words, 33.33% quotes quality score: 1.8257231685566464, V2 normalized quality score: 52.05, commentator tiers 1-3: 26.59%, 35.25%, 38.15%) 
+- Attempt 5 BHT: Stop being of a doubtful, unsettled mind and cease to be anxious or fluctuate in your thoughts about what you will eat or drink. This only leads to ill-contentment, anxiety, and unnecessary uneasiness. Instead, let go of your worries and trust in the providence of God. Do not create imagined necessities or be excessively curious about these things, for it will only bring about misery. Seek not in a tormenting and vexatious manner, but find peace in knowing that God will provide.
+- 🔄 Luke 12:29 (attempt 5, 83 words, 38.71% quotes quality score: 1.890813347157085, V2 normalized quality score: 54.21, commentator tiers 1-3: 23.36%, 45.87%, 30.78%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 12:29 bht prompt v0.8 (96 words, 30.88% quotes)
-- quality score: 1.9094349168730096, V2 normalized quality score: 54.83, commentator tiers 1-3: 25.45%, 38.9%, 35.65%)
+- ✅ Luke 12:29 bht prompt v0.8 (67 words, 32.69% quotes)
+- quality score: 2.0342103733406884, V2 normalized quality score: 58.98, commentator tiers 1-3: 23.69%, 43.38%, 32.93%)

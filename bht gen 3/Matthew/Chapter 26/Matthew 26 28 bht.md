@@ -1,28 +1,28 @@
 # Matthew 26:28 Commentary Help Text
 
 ## BHT:
-The shedding of Christ's blood in the New Testament establishes a covenant - a settlement or agreement - for the forgiveness of sins. Jesus had a definite conception of his death on the cross as the basis of forgiveness, dispelling sentimentalism or trivializing His teaching. This act of shedding His blood on the cross confirms the new administration of the covenant of grace, providing full forgiveness and satisfaction to the justice of God. The wine symbolizes His blood and serves as a visible sign of His atonement. (80 words, 53% from quotes)
+Jesus speaks of His blood as the basis of a covenant or will, using the term testament to depict the distribution or arrangement of property. The blood of the covenant mentioned refers to the establishment of a new covenant, contrasting it with the old. Jesus had a precise understanding of His death on the cross as the means for forgiveness and the foundation of this new covenant. The wine, representing His shed blood, symbolizes this new administration of the covenant of grace, ensuring our reception of Christ's benefits for eternal life.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "Testament...on the idea of disposing or arranging is based that of settlement or agreement, and thence of a covenant." 
-2. "Covenant is the general Old Testament sense of the word...and so in the New Testament."
-3. "The present participle, is being shed. Christ's thought goes forward to the consummation."
+1. "Testament [διαθηκης] . From diatiqhmi, to distribute; dispose of. Hence of the disposition of one's property. On the idea of disposing or arranging is based that of settlement or agreement, and thence of a covenant." 
+2. "The Hebrew word of which this is a translation is primarily covenant, from a verb meaning to cut. Hence the phrase, to make a covenant, in connection with dividing the victims slain in ratification of covenants." 
+3. "Is shed [εκχυννομενον] . The present participle, is being shed. Christ 's thought goes forward to the consummation."
 
 ### Philip Schaff:
 1. "The wine, poured-out, is a symbol of the blood of Christ shed for us."
-2. "Our Lord here declares, with reference to His own death, that it was an actual dying for others, to the end that their sins might be pardoned."
+2. "Both 'bread' and 'wine' set forth Christ in us, as well as Christ for us."
 3. "The central fact is the atoning death of Christ, which we commemorate; the present blessing is the assurance conveyed by visible signs, that we receive, truly though spiritually, Christ, with all His benefits, and are nourished by His life into life eternal."
 
 ### Archibald T. Robertson:
-1. "This passage answers all the modern sentimentalism that finds in the teaching of Jesus only pious ethical remarks or eschatological dreamings."
-2. "He had the definite conception of his death on the cross as the basis of forgiveness of sin."
-3. "The purpose of the shedding of his blood of the New Covenant was precisely to remove (forgive) sins."
+1. "Either covenant or will makes sense here."
+2. "Jesus here uses the solemn words of Exodus 24:8 'the blood of the covenant' at Sinai. 'My blood of the covenant' is in contrast with that. This is the New Covenant."
+3. "He had the definite conception of his death on the cross as the basis of forgiveness of sin."
 
 ### John Gill:
-1. "The red wine in the cup, was an emblem and representation of his precious blood, whereby was exhibited a new dispensation, or administration of the covenant of grace." 
-2. "The second covenant, or the new administration of the covenant of grace, for which reason it is called the New Testament, is exhibited and established in the blood of Christ the testator." 
-3. "Whereby the full forgiveness of all their sins was procured, in a way consistent with, and honourable to the justice of God; full satisfaction being made to the law of God, for all their transgressions."
+1. "the red wine in the cup, was an emblem and representation of his precious blood, whereby was exhibited a new dispensation, or administration of the covenant of grace"
+2. "the new administration of the covenant of grace, for which reason it is called the New Testament, is exhibited and established in the blood of Christ the testator"
+3. "full satisfaction being made to the law of God, for all their transgressions"
 
 ### John Wesley:
 1. This is the sign of my blood, whereby the new testament or covenant is confirmed.
@@ -32,40 +32,41 @@ Which is shed for many — As many as spring from Adam.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:53:27
+- Timestamp: 12-25-2023 19:17:15
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 28.3%
-- BHT Quality Score: 1.7657135739056953
+- BHT Word Count: 92
+- BHT Commentary Usage: 31.48%
+- BHT Quality Score: 2.0016449658393185
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['a', 'act', 'administration', 'agreement', 'and', 'as', 'atonement', 'basis', 'blood', 'christ', 'conception', 'confirms', 'covenant', 'cross', 'death', 'definite', 'dispelling', 'establishes', 'for', 'forgiveness', 'from', 'full', 'god', 'grace', 'had', 'his', 'in', 'jesus', 'justice', 'new', 'of', 'on', 'or', 'providing', 'quotes', 's', 'satisfaction', 'sentimentalism', 'serves', 'settlement', 'shedding', 'sign', 'sins', 'symbolizes', 'teaching', 'testament', 'the', 'this', 'to', 'trivializing', 'visible', 'wine', 'words']
-- ChatGPT injected words (significant words only) (38):
-	['act', 'administration', 'agreement', 'atonement', 'basis', 'blood', 'christ', 'conception', 'confirms', 'covenant', 'cross', 'death', 'definite', 'dispelling', 'establishes', 'forgiveness', 'god', 'grace', 'jesus', 'justice', 'new', 'providing', 'quotes', 's', 'satisfaction', 'sentimentalism', 'serves', 'settlement', 'shedding', 'sign', 'sins', 'symbolizes', 'teaching', 'testament', 'trivializing', 'visible', 'wine', 'words']
+- ChatGPT injected words (54):
+	['a', 'administration', 'and', 'arrangement', 'as', 'basis', 'benefits', 'blood', 'christ', 'contrasting', 'covenant', 'cross', 'death', 'depict', 'distribution', 'ensuring', 'establishment', 'eternal', 'for', 'forgiveness', 'foundation', 'grace', 'had', 'his', 'it', 'jesus', 'life', 'means', 'mentioned', 'new', 'of', 'old', 'on', 'or', 'our', 'precise', 'property', 'reception', 'refers', 'representing', 's', 'shed', 'speaks', 'symbolizes', 'term', 'testament', 'the', 'this', 'to', 'understanding', 'using', 'will', 'wine', 'with']
+- ChatGPT injected words (significant words only) (37):
+	['administration', 'arrangement', 'basis', 'benefits', 'blood', 'christ', 'contrasting', 'covenant', 'cross', 'death', 'depict', 'distribution', 'ensuring', 'establishment', 'eternal', 'forgiveness', 'foundation', 'grace', 'jesus', 'life', 'means', 'mentioned', 'new', 'old', 'precise', 'property', 'reception', 'refers', 'representing', 's', 'shed', 'speaks', 'symbolizes', 'term', 'testament', 'understanding', 'wine']
 
 ### Logs
-- Attempt 1 BHT: The shedding of Christ's blood in the New Testament is not merely a sentimental or symbolic act, but a deliberate and necessary means for the forgiveness of sins. By using the term testament, Jesus emphasized the idea of an arrangement or covenant, which is the central theme throughout the Old and New Testaments. The wine, representing the blood of Christ, serves as a visible sign of this atoning death and the assurance that we receive His benefits. Through His precious blood, the new administration of the covenant of grace is established, providing full forgiveness for all those who believe in Him.
-- 🔄 Matthew 26:28 (attempt 1, 102 words, 38.81% quotes quality score: 2.0002340288728035, V2 normalized quality score: 57.85, commentator tiers 1-3: 32.21%, 33.98%, 33.81%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The shedding of Christ's blood in the New Testament is not merely symbolic, but a deliberate means for the forgiveness of sins. Jesus emphasizes the idea of a covenant, connecting the Old and New Testaments. The wine symbolizes His blood, a visible sign of His atoning death and assurance of receiving His benefits. Through His precious blood, the new administration of the covenant of grace is established, providing full forgiveness for believers, satisfying the justice of God. (65 words, 50% from quotes)
-- 🔄 Matthew 26:28 (attempt 2, 81 words, 25.0% quotes quality score: 1.703964174865717, V2 normalized quality score: 48.0, commentator tiers 1-3: 33.45%, 33.96%, 32.59%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: In Matthew 26:28, Jesus sheds light on the purpose of His death on the cross, as the basis for the forgiveness of sins. The shedding of His blood in the New Testament is not a mere symbol, but a deliberate act that establishes a new administration of the covenant of grace. Through His blood, believers receive assurance and nourishment for eternal life. By using the term testament, Jesus highlights the arrangement and settlement that His death brings, emphasizing the importance and significance of His sacrifice. (77 words, 51% from quotes)
-- 🔄 Matthew 26:28 (attempt 3, 87 words, 30.36% quotes quality score: 1.630993706765949, V2 normalized quality score: 45.57, commentator tiers 1-3: 34.64%, 36.01%, 29.35%) 
+- Attempt 1 BHT: In Matthew 26:28, Jesus speaks of His blood as the foundation of a covenant or will. The word testament implies the distribution or arrangement of property, while covenant refers to the cutting of animals in a ratification ritual. Jesus specifically references the blood of the covenant from Exodus, signaling the establishment of a new covenant. He had a clear understanding that His death on the cross would serve as the basis for forgiveness of sins. The wine symbolizes Christ's shed blood, representing the new administration of the covenant of grace. This act of communion signifies the assurance of receiving Christ's benefits and being nourished into eternal life.
+- 🔄 Matthew 26:28 (attempt 1, 108 words, 30.43% quotes quality score: 1.9012904617955266, V2 normalized quality score: 54.56, commentator tiers 1-3: 35.79%, 31.62%, 32.59%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The shedding of Christ's blood in the New Testament establishes a covenant - a settlement or agreement - for the forgiveness of sins. Jesus had a definite conception of his death on the cross as the basis of forgiveness, dispelling sentimentalism or trivializing His teaching. This act of shedding His blood on the cross confirms the new administration of the covenant of grace, providing full forgiveness and satisfaction to the justice of God. The wine symbolizes His blood and serves as a visible sign of His atonement. (80 words, 53% from quotes)
-- 🔄 Matthew 26:28 (attempt 4, 89 words, 28.3% quotes quality score: 1.7657135739056953, V2 normalized quality score: 50.05, commentator tiers 1-3: 35.61%, 32.09%, 32.3%) 
+- Attempt 2 BHT: In this passage, Jesus refers to His blood as the basis of a covenant or will, drawing on the understanding of the word testament as a distribution or arrangement of property. His mention of the blood of the covenant links to the establishment of a new covenant, while His awareness of His impending death on the cross underlines its significance in forgiving sins. The wine in communion symbolizes this shed blood, representing the new administration of the covenant of grace and our assurance of receiving Christ's benefits for eternal life.
+- 🔄 Matthew 26:28 (attempt 2, 91 words, 29.09% quotes quality score: 2.0477339966199968, V2 normalized quality score: 59.43, commentator tiers 1-3: 34.57%, 33.02%, 32.41%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: Jesus speaks of His blood as the basis of a covenant or will, using the term testament to depict the distribution or arrangement of property. The blood of the covenant mentioned refers to the establishment of a new covenant, contrasting it with the old. Jesus had a precise understanding of His death on the cross as the means for forgiveness and the foundation of this new covenant. The wine, representing His shed blood, symbolizes this new administration of the covenant of grace, ensuring our reception of Christ's benefits for eternal life.
+- 🔄 Matthew 26:28 (attempt 3, 92 words, 31.48% quotes quality score: 2.0016449658393185, V2 normalized quality score: 57.9, commentator tiers 1-3: 36.85%, 29.68%, 33.48%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The shedding of Christ's blood in the New Testament is not merely symbolic, but a deliberate and necessary act for the forgiveness of sins. Jesus had a definite conception of his death on the cross as the basis of forgiveness, confirming the new administration of the covenant of grace. The wine, symbolizing His blood, serves as a visible sign of His atoning death and assurance of receiving His benefits. Through His precious blood, full forgiveness is procured and satisfaction is made to the justice of God. (70 words, 50% from quotes)
-- 🔄 Matthew 26:28 (attempt 5, 90 words, 31.58% quotes quality score: 1.7020307072560614, V2 normalized quality score: 47.93, commentator tiers 1-3: 33.1%, 36.13%, 30.76%) 
+- Attempt 4 BHT: Jesus refers to His blood as the basis of a covenant or will, emphasizing the distribution or arrangement of property found in the concept of a testament. In contrast to the old covenant, He establishes a new covenant through His shed blood, symbolized by the wine. This new administration of the covenant of grace offers forgiveness of sins and the reception of Christ's benefits. Jesus' understanding of His death on the cross underscores its significance as the foundation for this new covenant.
+- 🔄 Matthew 26:28 (attempt 4, 83 words, 33.33% quotes quality score: 1.9358744055082369, V2 normalized quality score: 55.71, commentator tiers 1-3: 37.84%, 26.93%, 35.24%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 26:28 bht prompt v0.8 (89 words, 28.3% quotes)
-- quality score: 1.7657135739056953, V2 normalized quality score: 50.05, commentator tiers 1-3: 35.61%, 32.09%, 32.3%)
+- Attempt 5 BHT: Jesus speaks of His blood as the basis of a covenant or will. The term testament implies a distribution or arrangement of property, while covenant refers to the ritualistic cutting of animals. Jesus specifically recalls the blood of the covenant from Exodus, signifying the establishment of a new covenant. He had a clear understanding that His death on the cross would serve as the foundation for forgiveness of sins. The wine represents His shed blood, symbolizing the new administration of the covenant of grace.
+- 🔄 Matthew 26:28 (attempt 5, 84 words, 31.37% quotes quality score: 1.9228287529340164, V2 normalized quality score: 55.28, commentator tiers 1-3: 38.85%, 26.59%, 34.55%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 26:28 bht prompt v0.8 (92 words, 31.48% quotes)
+- quality score: 2.0016449658393185, V2 normalized quality score: 57.9, commentator tiers 1-3: 36.85%, 29.68%, 33.48%)

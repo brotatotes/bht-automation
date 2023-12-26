@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:17:16",
+    "timestamp": "12-25-2023 19:32:10",
     "verseRef": "Luke 9:34",
     "bestBHT": {
-        "bht": "On a high mountain, a cloud swiftly covered the cap and overshadowed them all. As they entered into the cloud, the disciples became filled with fear. The cloud's presence was a symbol of the divine, much like the Shekinah-cloud that represented God's manifestation among His people. This event of entering the cloud was significant, representing a direct encounter with the divine that only a select few had ever experienced.",
-        "wordCount": 72,
-        "quoteTokenProportion": 43.14,
-        "qualityScore": 1.9788673228295615,
-        "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+        "bht": "As the disciples entered into a cloud, a symbol of the divine presence, they were filled with fear. Peter, James, and John became afraid as they witnessed the voice of God and the magnificent glory surrounding Moses and Elijah. They entered the cloud, and it is worth noting the rapid formation and disappearance of clouds on the summit of Hermon, akin to the extraordinary cloud that appeared on this occasion. The disciples' fear intensified, beginning with the sight of the company, growing as they entered the cloud, and peaking with the hearing of the voice.",
+        "wordCount": 95,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 2.1663734753379247,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.37,
         "commentatorTierSimilarities": [
-            24.46,
-            29.51,
-            46.03
+            20.9,
+            31.34,
+            47.76
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
@@ -21,29 +21,28 @@
             "Compare also Ps. lxxxix. 3. 19: Isa. xliii. 10 (cited in Matt. xii. 18)."
         ],
         "Jamieson-Fausset-Brown": [
-            "the Shekinah-cloud, the pavilion of the manifested presence of God with His people\" ",
-            "such a voice\" ",
-            "this voice we heard, when we were with Him in the holy mount"
+            "a cloud\u2014not one of our watery clouds, but the Shekinah-cloud, the pavilion of the manifested presence of God with His people.\" ",
+            "such a voice,\" says Peter emphatically; \"and this voice [he adds] we heard, when we were with Him in the holy mount.\" ",
+            "the excellent\" of \"magnificent glory."
         ],
         "Marvin Vincent": [
-            "A strange peculiarity has been noticed about Hermon, in the extreme rapidity of the formation of cloud on the summit.\" (Edersheim)",
-            "Overshadowed them [\u03b5\u03c0\u03b5\u03c3\u03ba\u03b9\u03b1\u03b6\u03b5\u03bd]. A beautiful imperfect: 'began to overshadow them;' thus harmonizing with the words, 'as they entered into.'\" (Commentator)",
-            "The cloud, as a symbol of the divine presence, rests on these three as a sign to the disciples.\" (Commentator)"
+            "A strange peculiarity has been noticed about Hermon, in the extreme rapidity of the formation of cloud on the summit. In a few minutes a thick cap forms over the top of the mountain, and as quickly disperses and entirely disappears.\" (Edersheim)",
+            "Overshadowed them [\u03b5\u03c0\u03b5\u03c3\u03ba\u03b9\u03b1\u03b6\u03b5\u03bd]. A beautiful imperfect: 'began to overshadow them'; thus harmonizing with the words, 'as they entered into.' Them [\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2] must, I think, be confined to Moses, Elias, and Jesus.\" ",
+            "Grammatically, it might include all the six; but the disciples hear the voice out of the cloud, and the cloud, as a symbol of the divine presence, rests on these three as a sign to the disciples."
         ],
         "Philip Schaff": [
-            "As they entered the cloud.",
             "The fear was a growing one.",
-            "Culminating as the voice was heard."
+            "Beginning as they saw the company (Mark), increasing as that company entered the cloud (Luke), culminating as the voice was heard (Matthew)."
         ],
         "Archibald T. Robertson": [
             "On Hermon as on many high mountains a cloud will swiftly cover the cap.",
-            "This same verb is used of the Holy Spirit upon Mary.",
-            "All six 'entered into' the cloud, but only Peter, James, and John 'became afraid'."
+            "This same verb is used of the Holy Spirit upon Mary (Luke 1:35).",
+            "All six 'entered into' the cloud, but only Peter, James, and John 'became afraid' (\u03b5\u03c6\u03bf\u03b2\u03b7\u03b8\u03b7\u03c3\u03b1\u03bd, ingressive first aorist passive)."
         ],
         "John Gill": [
-            "While Peter was making the above request, before an answer was returned, a cloud appeared, a very uncommon one, as a symbol of the divine presence.",
-            "And overshadowed them.",
-            "They feared as they entered into the cloud."
+            "a cloud appeared, a very uncommon one, as a symbol of the divine presence",
+            "they feared as they entered into the cloud",
+            "they feared when they saw Moses and Elias enter into the cloud"
         ],
         "John Wesley": [
             "A cloud came and overshadowed them all. And they, the apostles, feared, while they (Moses and Elijah) entered into the cloud, which took them away."
@@ -66,67 +65,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "On a high mountain, a cloud swiftly covered the cap, overshadowing Peter, James, and John. The cloud's manifestation was a symbol of the divine presence, just as the Shekinah-cloud represented God's presence among His people. As the disciples entered into the cloud, they became filled with fear, emphasizing the magnitude of the moment. The fear grew as a voice spoke, culminating in the disciples being overtaken by awe. This event of entering the cloud was significant, as it signified a direct encounter with the divine that only a select few had experienced.",
-            "wordCount": 95,
-            "quoteTokenProportion": 36.51,
-            "qualityScore": 1.9079688093886606,
-            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "bht": "As the disciples entered into a cloud, a symbol of the divine presence, they were filled with fear. It is significant that the same verb used to describe the Holy Spirit overshadowing Mary is also used here. Peter, James, and John were particularly affected, becoming afraid as they witnessed the voice of God and the magnificent glory surrounding Moses and Elijah. This fear intensified, beginning with the sight of the company, growing as they entered the cloud, and reaching its peak with the hearing of the voice. It is worth noting the rapid formation and disappearance of clouds on the summit of Hermon, similar to the extraordinary cloud that appeared on this occasion.",
+            "wordCount": 113,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9510993077968901,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
             "commentatorTierSimilarities": [
-                27.08,
-                28.91,
-                44.01
+                24.0,
+                30.97,
+                45.03
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "On a high mountain, a cloud swiftly covered the cap, overshadowing Peter, James, and John. The cloud's manifestation was a symbol of the divine presence, just as the Shekinah-cloud represented God's presence among His people. As the disciples entered into the cloud, they became filled with fear. This event of entering the cloud was significant, signifying a direct encounter with the divine that only a select few had experienced.",
-            "wordCount": 72,
-            "quoteTokenProportion": 38.0,
-            "qualityScore": 1.9271361858838603,
-            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "bht": "As the disciples entered into a cloud, a symbol of the divine presence, they were filled with fear. Peter, James, and John became afraid as they witnessed the voice of God and the magnificent glory surrounding Moses and Elijah. They entered the cloud, and it is worth noting the rapid formation and disappearance of clouds on the summit of Hermon, akin to the extraordinary cloud that appeared on this occasion. The disciples' fear intensified, beginning with the sight of the company, growing as they entered the cloud, and peaking with the hearing of the voice.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.1663734753379247,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.37,
             "commentatorTierSimilarities": [
-                26.12,
-                27.38,
-                46.51
+                20.9,
+                31.34,
+                47.76
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "On a high mountain, a cloud swiftly covered the cap and overshadowed them all. As they entered into the cloud, the disciples became filled with fear. The cloud's presence was a symbol of the divine, much like the Shekinah-cloud that represented God's manifestation among His people. This event of entering the cloud was significant, representing a direct encounter with the divine that only a select few had ever experienced.",
-            "wordCount": 72,
-            "quoteTokenProportion": 43.14,
-            "qualityScore": 1.9788673228295615,
-            "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+            "bht": "As the disciples entered into the Shekinah-cloud, a sign of God's presence, they were overcome with fear. Peter, James, and John, in particular, were afraid as they witnessed the voice of God and the magnificent glory encompassing Moses and Elijah. The disciples entered the cloud, which swiftly formed and dissipated like the clouds on Hermon. Their fear intensified, starting with the sight of the company, escalating as they entered the cloud, and climaxing with the hearing of the voice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.094899808502265,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
             "commentatorTierSimilarities": [
-                24.46,
-                29.51,
-                46.03
+                21.11,
+                33.29,
+                45.6
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "On a high mountain, a remarkable cloud swiftly covered the cap, overshadowing Peter, James, and John. This cloud, a symbol of the divine presence, was comparable to the Shekinah-cloud that represented God's manifested presence among His people. As the disciples entered into the cloud, they were filled with fear, experiencing a unique and awe-inspiring encounter. This event of entering the cloud reflected a select few's direct encounter with the divine, evoking a deep sense of reverence and wonder.",
-            "wordCount": 82,
+            "bht": "As they entered into the Shekinah-cloud, a manifestation of God's presence, the disciples were filled with fear. Peter, James, and John, in particular, were afraid as they heard the voice of God and witnessed the magnificent glory surrounding Moses and Elijah. It is worth noting the extraordinary swiftness of cloud formation and dispersion on Hermon, reminiscent of the cloud that appeared in this instance. Their fear grew, beginning with the sight of the company, intensifying as they entered the cloud, and reaching its peak with the voice they heard.",
+            "wordCount": 91,
             "quoteTokenProportion": 29.82,
-            "qualityScore": 1.8479412707103888,
-            "qualityScoreNormalizedComparedToV2BHTs": 52.79,
+            "qualityScore": 2.033002846365816,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
             "commentatorTierSimilarities": [
-                27.82,
-                24.8,
-                47.38
+                21.44,
+                34.07,
+                44.49
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "On a high mountain, a remarkable cloud swiftly covered the cap, overshadowing Peter, James, and John. This cloud, a symbol of the divine presence, was comparable to the Shekinah-cloud that represented God's manifested presence among His people. As the disciples entered into the cloud, they were filled with fear, experiencing a unique and awe-inspiring encounter. This event reflected a select few's direct encounter with the divine, evoking a deep sense of reverence and wonder.",
-            "wordCount": 78,
-            "quoteTokenProportion": 30.36,
-            "qualityScore": 1.7282314851230591,
-            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "bht": "As the disciples entered into the Shekinah-cloud, a visible presence of God, fear gripped them. Peter, James, and John were particularly afraid, overwhelmed by the voice of God and the magnificent glory surrounding Moses and Elijah. The rapidity of cloud formation and disappearance on Hermon parallels the extraordinary cloud that manifested on this occasion. Their fear intensified, beginning with the sight of the company, growing as they entered the cloud, and culminating with the awe-inspiring voice they heard.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.9994658212060925,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.82,
             "commentatorTierSimilarities": [
-                29.43,
-                23.37,
-                47.2
+                20.83,
+                34.65,
+                44.53
             ],
             "generationAttempt": 5
         }
