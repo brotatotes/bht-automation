@@ -1,7 +1,7 @@
 # Luke 17:35 Commentary Help Text
 
 ## BHT:
-The depiction of two women grinding together suggests a sense of unity, while the statement that one shall be taken and the other left underscores the sovereign will and providence of God. Despite the debate surrounding the inclusion of a specific portion, the fundamental message is clear: our destinies are shaped by a higher power. This highlights the divine control that guides our lives, reminding us of the inexplicable workings of God's will.
+Two women will be grinding together, in the same place, near each other, as grinding was a common task for women. The outcome is that one woman will be taken, while the other will be left. This distinction can only be attributed to the sovereign will and providence of God.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -12,56 +12,49 @@ The depiction of two women grinding together suggests a sense of unity, while th
 
 
 ### Archibald T. Robertson:
-1. "Shall be grinding."
-2. "Periphrastic future active indicative of αληθω, an old verb only in the N.T. here and Matthew 24:41."
-3. "Together (επ το αυτο). In the same place, near together as in Acts 2:1."
+1. "Shall be grinding (εσοντα αληθουσα). Periphrastic future active indicative of αληθω, an old verb only in the N.T." 
+2. "Together (επ το αυτο). In the same place, near together as in Acts 2:1."
 
 ### John Gill:
-1. "Two [women] shall be grinding together" (Luke 17:35)
-2. "The one shall be taken and the other left" (Luke 17:35)
-3. "No other reason can be given, but the sovereign will and providence of God" (Luke 17:35)
+1. "Two shall be grinding together... and at one and the same mill." 
+2. "Grinding was the business of women."
+3. "The one shall be taken and the other left;... for which no other reason can be given, but the sovereign will and providence of God."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:21:06
+- Timestamp: 12-25-2023 21:00:47
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 33.33%
-- BHT Quality Score: 0.5943972430856566
+- BHT Word Count: 50
+- BHT Commentary Usage: 60.53%
+- BHT Quality Score: 0.8353944580317755
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'and', 'are', 'be', 'by', 'clear', 'control', 'debate', 'depiction', 'despite', 'destinies', 'divine', 'fundamental', 'god', 'grinding', 'guides', 'higher', 'highlights', 'inclusion', 'inexplicable', 'is', 'left', 'lives', 'message', 'of', 'one', 'other', 'our', 'portion', 'power', 'providence', 'reminding', 's', 'sense', 'shall', 'shaped', 'sovereign', 'specific', 'statement', 'suggests', 'surrounding', 'taken', 'that', 'the', 'this', 'together', 'two', 'underscores', 'unity', 'us', 'while', 'will', 'women', 'workings']
-- ChatGPT injected words (significant words only) (36):
-	['clear', 'control', 'debate', 'depiction', 'despite', 'destinies', 'divine', 'fundamental', 'god', 'grinding', 'guides', 'higher', 'highlights', 'inclusion', 'inexplicable', 'left', 'lives', 'message', 'portion', 'power', 'providence', 'reminding', 's', 'sense', 'shall', 'shaped', 'sovereign', 'specific', 'statement', 'suggests', 'surrounding', 'taken', 'underscores', 'unity', 'women', 'workings']
+- ChatGPT injected words (38):
+	['a', 'and', 'as', 'attributed', 'be', 'can', 'common', 'distinction', 'each', 'for', 'god', 'grinding', 'in', 'is', 'left', 'near', 'of', 'one', 'only', 'other', 'outcome', 'place', 'providence', 'same', 'sovereign', 'taken', 'task', 'that', 'the', 'this', 'to', 'together', 'two', 'was', 'while', 'will', 'woman', 'women']
+- ChatGPT injected words (significant words only) (15):
+	['attributed', 'common', 'distinction', 'god', 'grinding', 'left', 'near', 'outcome', 'place', 'providence', 'sovereign', 'taken', 'task', 'woman', 'women']
 
 ### Logs
-- Attempt 1 BHT: Two women shall be grinding together (Luke 17:35), and while some may argue that this verse was inserted from Matthew 24:40, the overarching message remains clear: one will be taken and the other left. The commentary suggests that this selection is reliant on the sovereign will and providence of God. Despite the absence of Luke 17:36 in the best authorities, the significance of two women grinding together is emphasized, possibly highlighting the unity and proximity of their actions. Ultimately, this verse reveals the divine power and control that determines the destiny of individuals.
-- 🔄 Luke 17:35 (attempt 1, 90 words, 33.33% quotes quality score: 0.9777467739307776, V2 normalized quality score: 23.85, commentator tiers 1-3: 12.61%, 31.22%, 56.16%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: In Luke 17:35, it mentions that two women shall be grinding together, which was a common task for women. The commentary emphasizes that these women will be in the same place, near together. This verse shows the sovereign will and providence of God as it states that one woman will be taken and the other left, and no other reason can be given for this outcome.
+- 🔄 Luke 17:35 (attempt 1, 65 words, 48.89% quotes quality score: 0.9849124787825496, V2 normalized quality score: 24.09, commentator tiers 1-3: 23.34%, 28.59%, 48.07%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: One striking image presented is that of two women grinding together, suggesting a sense of unity and shared actions. The idea that one shall be taken and the other left unveils the inexplicable sovereignty of God's will and providence. While some scholars argue that Luke 17:36 may have been inserted from Matthew 24:40, the essential message remains intact. This verse serves as a reminder that our destinies are ultimately determined by a higher power, emphasizing the divine control at play in our lives.
-- 🔄 Luke 17:35 (attempt 2, 82 words, 37.31% quotes quality score: 0.8700857459493508, V2 normalized quality score: 20.27, commentator tiers 1-3: 15.07%, 31.27%, 53.66%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: Two women grinding together highlights the unity and proximity of their actions, while the phrase one shall be taken and the other left emphasizes the inexplicable sovereignty of God's will and providence. Some argue that the omission of a certain verse suggests possible insertion from another biblical account. Nonetheless, this verse serves as a powerful reminder that our destinies are ultimately determined by a higher power, showcasing the divine control that shapes our lives.
-- 🔄 Luke 17:35 (attempt 3, 75 words, 35.0% quotes quality score: 0.7513861429406804, V2 normalized quality score: 16.33, commentator tiers 1-3: 19.75%, 27.01%, 53.25%) 
+- Attempt 2 BHT: In this passage, it is mentioned that two women will be grinding together, a common task for women. These women will be near each other, in the same place. One woman will be taken and the other left, for reasons that can only be attributed to the sovereign will and providence of God.
+- 🔄 Luke 17:35 (attempt 2, 53 words, 57.89% quotes quality score: 0.8904725529186838, V2 normalized quality score: 20.95, commentator tiers 1-3: 23.26%, 17.39%, 59.35%) 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: Two women, engaged in the task of grinding, are depicted in this verse. They work together, side by side, in close proximity. The outcome reveals that one woman will be taken, while the other will be left, solely based on God's sovereign will and providence.
+- 🔄 Luke 17:35 (attempt 3, 46 words, 47.37% quotes quality score: 0.7889000524585338, V2 normalized quality score: 17.58, commentator tiers 1-3: 31.25%, 12.72%, 56.03%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The image of two women grinding together depicts unity and shared actions, while the assertion that one shall be taken and the other left reveals the sovereign will and providence of God. Although there is debate about the inclusion of a specific verse, the underlying message remains clear. This passage underscores that our destinies are ultimately determined by a higher power, highlighting the divine control that shapes our lives.
-- 🔄 Luke 17:35 (attempt 4, 69 words, 36.36% quotes quality score: 0.636780419939017, V2 normalized quality score: 12.52, commentator tiers 1-3: 20.83%, 25.16%, 54.01%) 
+- Attempt 4 BHT: Two women shall be grinding together, in the same place, near together. The verse highlights the activity of grinding, typically performed by women. It further reveals that one woman will be taken and the other left, emphasizing the absolute sovereignty and providence of God as the underlying reason behind this distinction.
+- 🔄 Luke 17:35 (attempt 4, 51 words, 45.0% quotes quality score: 0.9138708825190299, V2 normalized quality score: 21.73, commentator tiers 1-3: 26.83%, 9.88%, 63.3%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The depiction of two women grinding together suggests a sense of unity, while the statement that one shall be taken and the other left underscores the sovereign will and providence of God. Despite the debate surrounding the inclusion of a specific portion, the fundamental message is clear: our destinies are shaped by a higher power. This highlights the divine control that guides our lives, reminding us of the inexplicable workings of God's will.
-- 🔄 Luke 17:35 (attempt 5, 74 words, 33.33% quotes quality score: 0.5943972430856566, V2 normalized quality score: 11.11, commentator tiers 1-3: 15.6%, 25.28%, 59.12%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 17:35 bht prompt v0.8 (74 words, 33.33% quotes)
-- quality score: 0.5943972430856566, V2 normalized quality score: 11.11, commentator tiers 1-3: 15.6%, 25.28%, 59.12%)
+- Attempt 5 BHT: Two women will be grinding together, in the same place, near each other, as grinding was a common task for women. The outcome is that one woman will be taken, while the other will be left. This distinction can only be attributed to the sovereign will and providence of God.
+- 🔄 Luke 17:35 (attempt 5, 50 words, 60.53% quotes quality score: 0.8353944580317755, V2 normalized quality score: 19.12, commentator tiers 1-3: 20.48%, 12.49%, 67.03%)
+- ✅ Luke 17:35 bht prompt v0.8 (50 words, 60.53% quotes)
+- quality score: 0.8353944580317755, V2 normalized quality score: 19.12, commentator tiers 1-3: 20.48%, 12.49%, 67.03%)

@@ -1,54 +1,51 @@
 # Mark 12:2 Commentary Help Text
 
 ## BHT:
-The verb used in this context is significant as it conveys the idea of summarization and hitting the main point, which is unique to this context in the New Testament. The mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the need to present righteousness, judgment, truth, and holiness, and give an account of them.
+The owner of the vineyard sent his servant, described as a bondslave, to collect the fruit. The husbandmen, however, responded with rebellion, inflicting a wound to the servant's head. The act of violence towards the servant represents the resistance and refusal of the husbandmen to give the owner the fruit he was due. The owner had expected to receive the fruit of the vineyard, but instead encountered opposition and defiance.
 
 ## Choicest Commentary Quotes:
 ### Archibald T. Robertson:
-1. "An old verb (κεφαλαιω), to bring under heads (κεφαλη), to summarize." 
-2. "Then to hit on the head." 
-3. "Only here in the N.T."
+1. "For fruits as in the end of the sentence."
+2. "A servant (δουλον). Bondslave."
+3. "Wounded in the head (εκεφαλιωσαν). An old verb (κεφαλαιω), to bring under heads (κεφαλη), to summarize. Then to hit on the head."
 
 ### John Gill:
-1. "when the time of the fruit drew near"
-2. "a vineyard of the fourth year was marked with clods of earth... and the fruit of it was brought up to Jerusalem"
-3. "such as righteousness and judgment, truth and holiness, so as to give an account of them"
+1. "When the time of the fruit drew near."
+2. "A vineyard of the fourth year was marked with clods of earth, to show it was not to be eaten of."
+3. "That he might receive from the husbandmen the fruit of the vineyard."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:26:37
+- Timestamp: 12-25-2023 21:16:22
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 63
-- BHT Commentary Usage: 34.88%
-- BHT Quality Score: 0.7841256756496952
+- BHT Word Count: 71
+- BHT Commentary Usage: 38.1%
+- BHT Quality Score: 1.2235658517798698
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (43):
-	['account', 'an', 'and', 'as', 'clods', 'context', 'conveys', 'drawing', 'earth', 'fruit', 'give', 'hitting', 'holiness', 'idea', 'in', 'is', 'it', 'judgment', 'main', 'marking', 'mention', 'near', 'need', 'new', 'of', 'point', 'present', 'righteousness', 'significant', 'signifies', 'summarization', 'testament', 'the', 'them', 'this', 'to', 'truth', 'unique', 'used', 'verb', 'vineyard', 'which', 'with']
-- ChatGPT injected words (significant words only) (28):
-	['account', 'clods', 'context', 'conveys', 'drawing', 'earth', 'fruit', 'hitting', 'holiness', 'idea', 'judgment', 'main', 'marking', 'mention', 'near', 'need', 'new', 'point', 'present', 'righteousness', 'significant', 'signifies', 'summarization', 'testament', 'truth', 'unique', 'verb', 'vineyard']
+- ChatGPT injected words (42):
+	['a', 'act', 'and', 'as', 'bondslave', 'but', 'collect', 'defiance', 'described', 'due', 'encountered', 'expected', 'fruit', 'give', 'had', 'he', 'head', 'his', 'however', 'husbandmen', 'inflicting', 'instead', 'of', 'opposition', 'owner', 'rebellion', 'receive', 'refusal', 'represents', 'resistance', 'responded', 's', 'sent', 'servant', 'the', 'to', 'towards', 'vineyard', 'violence', 'was', 'with', 'wound']
+- ChatGPT injected words (significant words only) (26):
+	['act', 'bondslave', 'collect', 'defiance', 'described', 'encountered', 'expected', 'fruit', 'head', 'husbandmen', 'inflicting', 'instead', 'opposition', 'owner', 'rebellion', 'receive', 'refusal', 'represents', 'resistance', 'responded', 's', 'sent', 'servant', 'vineyard', 'violence', 'wound']
 
 ### Logs
-- Attempt 1 BHT: The verse uses a verb that means to summarize or to hit on the head, which is only used in the New Testament here. This suggests that the verse is emphasizing the importance of summarizing or hitting on the main point. Additionally, the mention of the fruit drawing near and the vineyard being marked with clods of earth indicates that it is time to bring forth the fruit and give an account of righteousness, judgment, truth, and holiness.
-- 🔄 Mark 12:2 (attempt 1, 78 words, 37.04% quotes quality score: 0.9804429024102104, V2 normalized quality score: 23.94, commentator tiers 1-3: 46.28%, 0.0%, 53.72%) 
+- Attempt 1 BHT: The verse talks about a servant who was sent by the owner of the vineyard to collect the fruit. The servant, who is a bondslave, was wounded in the head by the husbandmen when he came to them. This act of violence suggests that the husbandmen were rebellious and did not want to give the owner the fruit he deserved. The owner was expecting to receive the fruit of the vineyard but instead met with resistance.
+- 🔄 Mark 12:2 (attempt 1, 76 words, 47.83% quotes quality score: 1.2496071038086525, V2 normalized quality score: 32.89, commentator tiers 1-3: 36.39%, 0.0%, 63.61%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The verb used in this passage, which means to summarize or to hit on the head, is unique to this context in the New Testament. This implies an emphasis on the importance of summarization and hitting the main point. Furthermore, the mention of the fruit drawing near and the marking of the vineyard with clods of earth suggests that it is time to present righteousness, judgment, truth, and holiness and give an account of them.
-- 🔄 Mark 12:2 (attempt 2, 75 words, 33.33% quotes quality score: 0.8922645011507315, V2 normalized quality score: 21.01, commentator tiers 1-3: 41.82%, 0.0%, 58.18%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The verb used in this context is significant as it conveys the idea of summarization and hitting the main point, which is unique to this context in the New Testament. The mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the need to present righteousness, judgment, truth, and holiness, and give an account of them.
-- 🔄 Mark 12:2 (attempt 3, 63 words, 34.88% quotes quality score: 0.7841256756496952, V2 normalized quality score: 17.42, commentator tiers 1-3: 22.67%, 0.0%, 77.33%) 
+- Attempt 2 BHT: The owner of the vineyard sent his servant, a bondslave, to collect the fruit and was met with resistance, resulting in the servant being wounded in the head. This act of violence symbolizes the rebellious nature of the husbandmen who refused to give the owner the fruit he rightfully deserved. The owner had expected to receive the fruit of the vineyard but encountered opposition instead.
+- 🔄 Mark 12:2 (attempt 2, 65 words, 38.1% quotes quality score: 1.223042513403922, V2 normalized quality score: 32.01, commentator tiers 1-3: 35.04%, 0.0%, 64.96%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The verb used in this context, meaning to summarize or to hit on the head, is exclusive to this passage in the New Testament. This suggests the significance of summarizing or hitting the main point. Additionally, the mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the time to bring forth the fruit and give an account of righteousness, judgment, truth, and holiness.
-- 🔄 Mark 12:2 (attempt 4, 71 words, 27.66% quotes quality score: 0.8500258539810374, V2 normalized quality score: 19.61, commentator tiers 1-3: 38.73%, 0.0%, 61.27%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: The verb used exclusively in this passage conveys the idea of summarizing or hitting the main point. It indicates the significance of summarization. Furthermore, the mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the time to present righteousness, judgment, truth, and holiness and give an account of them.
-- 🔄 Mark 12:2 (attempt 5, 57 words, 30.95% quotes quality score: 0.6904271771800036, V2 normalized quality score: 14.3, commentator tiers 1-3: 28.07%, 0.0%, 71.93%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Mark 12:2 bht prompt v0.8 (63 words, 34.88% quotes)
-- quality score: 0.7841256756496952, V2 normalized quality score: 17.42, commentator tiers 1-3: 22.67%, 0.0%, 77.33%)
+- Attempt 3 BHT: The servant, a bondslave, was sent by the owner of the vineyard to collect the fruit. However, the husbandmen reacted rebelliously and wounded the servant in the head. This violent act signifies the resistance of the husbandmen towards giving the owner the fruit that was rightfully his. The owner had anticipated receiving the fruitful outcome from his vineyard, but instead encountered opposition and hostility.
+- 🔄 Mark 12:2 (attempt 3, 64 words, 38.1% quotes quality score: 1.031724390066744, V2 normalized quality score: 25.65, commentator tiers 1-3: 37.74%, 0.0%, 62.26%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The owner of the vineyard sent his servant, described as a bondslave, to collect the fruit. The husbandmen, however, responded with rebellion, inflicting a wound to the servant's head. The act of violence towards the servant represents the resistance and refusal of the husbandmen to give the owner the fruit he was due. The owner had expected to receive the fruit of the vineyard, but instead encountered opposition and defiance.
+- 🔄 Mark 12:2 (attempt 4, 71 words, 38.1% quotes quality score: 1.2235658517798698, V2 normalized quality score: 32.03, commentator tiers 1-3: 39.58%, 0.0%, 60.42%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The servant, described as a bondslave, was sent by the owner of the vineyard to collect the fruit. Unfortunately, the husbandmen responded rebelliously and wounded the servant in the head. This aggressive act of striking the servant's head indicates a deliberate intention to resist and reject the rightful claims of the vineyard owner. Instead of receiving the anticipated fruit, the owner faced opposition and defiance from the husbandmen.
+- 🔄 Mark 12:2 (attempt 5, 69 words, 26.19% quotes quality score: 1.113763205004637, V2 normalized quality score: 28.38, commentator tiers 1-3: 46.51%, 0.0%, 53.49%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 12:2 bht prompt v0.8 (71 words, 38.1% quotes)
+- quality score: 1.2235658517798698, V2 normalized quality score: 32.03, commentator tiers 1-3: 39.58%, 0.0%, 60.42%)

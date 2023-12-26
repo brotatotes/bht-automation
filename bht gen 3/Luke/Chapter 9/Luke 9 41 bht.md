@@ -1,58 +1,52 @@
 # Luke 9:41 Commentary Help Text
 
 ## BHT:
-Jesus expresses his frustration and disappointment towards his disciples, labeling them as faithless and perverse, due to their inability to cast out a demon from a young boy. He questions how much longer he must endure their lack of faith and correct their misguided mindset. Jesus's use of the term bear with indicates his patience towards their shortcomings. His description of them as faithless signifies their disbelief, while perverse emphasizes their twisted and distorted understanding. This encounter highlights the significance of faith and understanding that Jesus expects from his followers as they strive to live out their beliefs faithfully.
+How long shall I bear with you? How long shall I hold myself from you, this disbelieving and twisted generation? It is a plea of frustration from Jesus, asking until when will I endure this suffering because of your unbelief? Bring your son here to witness the power and glory of God.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "Faithless." 
-2. "Perverse."
-3. "Suffer [ανεξομαι]. Better as Rev., bear with."
+1. "How long [εως ποτε] . Lit., until when."
+2. "Suffer [ανεξομαι] . Better as Rev., bear with."
+3. "The literal meaning is to 'bear up [ανα] under.'"
 
 ### Archibald T. Robertson:
-1. "How long shall I be with you and bear with you?" 
+1. "How long shall I be with you and bear with you?" (εως ποτε εσομα προς υμας κα ανεξομα υμων?) 
 2. "Bear with (ανεξομα, direct middle future) is, hold myself from you (ablative case υμων)."
 3. "Faithless (απιστος) is disbelieving and perverse (διεστραμμενη, perfect passive participle of διαστρεφω), is twisted, turned, or torn in two."
 
 ### John Gill:
-1. "O faithless and perverse generation, how long shall I be with you, and suffer you?"
-2. "bring thy son hither."
+1. "O faithless and perverse generation, how long shall I be with you, and suffer you? bring thy son hither." 
+
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:17:21
+- Timestamp: 12-25-2023 21:00:51
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 33.33%
-- BHT Quality Score: 0.8960567349935362
+- BHT Word Count: 52
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 1.4351324222547652
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'and', 'as', 'bear', 'beliefs', 'boy', 'cast', 'correct', 'demon', 'description', 'disappointment', 'disbelief', 'disciples', 'distorted', 'due', 'emphasizes', 'encounter', 'endure', 'expects', 'expresses', 'faith', 'faithfully', 'faithless', 'followers', 'from', 'frustration', 'he', 'highlights', 'his', 'how', 'inability', 'indicates', 'jesus', 'labeling', 'lack', 'live', 'longer', 'mindset', 'misguided', 'much', 'must', 'of', 'out', 'patience', 'perverse', 'questions', 's', 'shortcomings', 'significance', 'signifies', 'strive', 'term', 'that', 'the', 'their', 'them', 'they', 'this', 'to', 'towards', 'twisted', 'understanding', 'use', 'while', 'with', 'young']
-- ChatGPT injected words (significant words only) (44):
-	['bear', 'beliefs', 'boy', 'cast', 'correct', 'demon', 'description', 'disappointment', 'disbelief', 'disciples', 'distorted', 'emphasizes', 'encounter', 'endure', 'expects', 'expresses', 'faith', 'faithfully', 'faithless', 'followers', 'frustration', 'highlights', 'inability', 'indicates', 'jesus', 'labeling', 'lack', 'live', 'longer', 'mindset', 'misguided', 'patience', 'perverse', 'questions', 's', 'shortcomings', 'significance', 'signifies', 'strive', 'term', 'twisted', 'understanding', 'use', 'young']
+- ChatGPT injected words (40):
+	['a', 'and', 'asking', 'bear', 'because', 'bring', 'disbelieving', 'endure', 'from', 'frustration', 'generation', 'glory', 'god', 'here', 'hold', 'how', 'i', 'is', 'it', 'jesus', 'long', 'myself', 'of', 'plea', 'power', 'shall', 'son', 'suffering', 'the', 'this', 'to', 'twisted', 'unbelief', 'until', 'when', 'will', 'with', 'witness', 'you', 'your']
+- ChatGPT injected words (significant words only) (20):
+	['asking', 'bear', 'bring', 'disbelieving', 'endure', 'frustration', 'generation', 'glory', 'god', 'hold', 'jesus', 'long', 'plea', 'power', 'shall', 'son', 'suffering', 'twisted', 'unbelief', 'witness']
 
 ### Logs
-- Attempt 1 BHT: The verse describes Jesus' frustration with his disciples, whom he calls faithless and perverse, as they struggle with casting out a demon from a boy. In response to their lack of faith and understanding, Jesus questions how much longer he needs to bear with them. The term bear with implies that Jesus is showing patience towards his disciples despite their shortcomings. His use of faithless indicates their disbelief, while perverse emphasizes their twisted perspective. This exchange highlights the faith and understanding that Jesus expects from his followers.
-- 🔄 Luke 9:41 (attempt 1, 87 words, 38.98% quotes quality score: 0.9047684955763069, V2 normalized quality score: 21.43, commentator tiers 1-3: 45.9%, 0.0%, 54.1%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Jesus expresses his frustration and disappointment towards his disciples, labeling them as faithless and perverse, due to their inability to cast out a demon from a young boy. He questions how much longer he must endure their lack of faith and correct their misguided mindset. Jesus's use of the term bear with indicates his patience towards their shortcomings. His description of them as faithless signifies their disbelief, while perverse emphasizes their twisted and distorted understanding. This encounter highlights the significance of faith and understanding that Jesus expects from his followers as they strive to live out their beliefs faithfully.
-- 🔄 Luke 9:41 (attempt 2, 100 words, 33.33% quotes quality score: 0.8960567349935362, V2 normalized quality score: 21.14, commentator tiers 1-3: 48.94%, 0.0%, 51.06%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: How long will I bear with you? How long must I hold myself back from you? This is the cry of a teacher who is frustrated and weary with his disciples' lack of faith and their twisted, stubborn thinking. The teacher is disheartened by their disbelief and their turning away from the truth. He yearns for them to bring their son, their burden, to him, so that he can help them and guide them towards a deeper understanding and trust in his teachings.
+- 🔄 Luke 9:41 (attempt 1, 83 words, 50.88% quotes quality score: 1.026398592909258, V2 normalized quality score: 25.47, commentator tiers 1-3: 35.31%, 0.0%, 64.69%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 2 BHT: How long will I bear with you? How long must I hold myself back from you? This is the cry of a teacher who is frustrated and weary with his disciples' lack of faith and their twisted, stubborn thinking. The teacher is disheartened by their disbelief and their turning away from the truth. He yearns for them to bring their son, their burden, to him, so that he can help them and guide them towards a deeper understanding and trust in his teachings.
+- 🔄 Luke 9:41 (attempt 2, 83 words, 50.88% quotes quality score: 1.026398592909258, V2 normalized quality score: 25.47, commentator tiers 1-3: 35.31%, 0.0%, 64.69%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 3 BHT: How long must I bear with your lack of faith and twisted thinking? The teacher is frustrated by the disciples' disbelief and perversity. He yearns for them to bring their burdened son to him so he can help them.
+- 🔄 Luke 9:41 (attempt 3, 39 words, 52.94% quotes quality score: 0.9257318619327544, V2 normalized quality score: 22.12, commentator tiers 1-3: 28.37%, 0.0%, 71.63%)
+- Attempt 4 BHT: How long shall I bear with you? How long shall I hold myself from you, this disbelieving and twisted generation? It is a plea of frustration and weariness from Jesus towards those lacking faith and turning away from truth. He asks, until when will I endure this? Until when will I be with you, suffering because of your unbelief? Bring your son here, for he needs to witness the power and glory of God.
+- 🔄 Luke 9:41 (attempt 4, 74 words, 48.08% quotes quality score: 1.3246292956357733, V2 normalized quality score: 35.39, commentator tiers 1-3: 29.48%, 0.0%, 70.52%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus shows his disappointment with his disciples, calling them faithless and perverse when they struggle to cast out a demon from a boy. He questions how long he must bear with their lack of faith and understanding. Bear with implies Jesus's patient endurance with their weaknesses. By labeling them as faithless and perverse, Jesus highlights their disbelief and twisted mindset. This interaction emphasizes the importance of faith and a proper understanding of Jesus's teachings for his followers.
-- 🔄 Luke 9:41 (attempt 3, 79 words, 37.74% quotes quality score: 0.8845306734699467, V2 normalized quality score: 20.76, commentator tiers 1-3: 46.33%, 0.0%, 53.67%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus expresses frustration with his disciples, referring to them as faithless and perverse as they struggle to cast out a demon from a boy. He questions how long he must bear with their lack of faith, indicating his patient endurance. By calling them faithless and perverse, Jesus highlights their disbelief and twisted mindset. This interaction emphasizes the importance of faith and understanding in following Jesus.
-- 🔄 Luke 9:41 (attempt 4, 65 words, 39.58% quotes quality score: 0.8424377972367431, V2 normalized quality score: 19.36, commentator tiers 1-3: 41.34%, 0.0%, 58.66%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus reveals his disappointment with his disciples, whom he labels as faithless and perverse, due to their struggle to cast out a demon from a boy. He questions how long he must bear with their lack of faith and understanding, indicating his patient endurance. The term bear with signifies Jesus's willingness to hold himself back from them despite their shortcomings. Their faithlessness signifies their disbelief, while perverse emphasizes their twisted and torn attitude. This interaction underscores the importance of faith and comprehension for Jesus' followers.
-- 🔄 Luke 9:41 (attempt 5, 86 words, 36.67% quotes quality score: 0.8277912625725428, V2 normalized quality score: 18.87, commentator tiers 1-3: 50.76%, 0.0%, 49.24%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 9:41 bht prompt v0.8 (100 words, 33.33% quotes)
-- quality score: 0.8960567349935362, V2 normalized quality score: 21.14, commentator tiers 1-3: 48.94%, 0.0%, 51.06%)
+- Attempt 5 BHT: How long shall I bear with you? How long shall I hold myself from you, this disbelieving and twisted generation? It is a plea of frustration from Jesus, asking until when will I endure this suffering because of your unbelief? Bring your son here to witness the power and glory of God.
+- 🔄 Luke 9:41 (attempt 5, 52 words, 50.0% quotes quality score: 1.4351324222547652, V2 normalized quality score: 39.06, commentator tiers 1-3: 28.89%, 0.0%, 71.11%)
+- ✅ Luke 9:41 bht prompt v0.8 (52 words, 50.0% quotes)
+- quality score: 1.4351324222547652, V2 normalized quality score: 39.06, commentator tiers 1-3: 28.89%, 0.0%, 71.11%)

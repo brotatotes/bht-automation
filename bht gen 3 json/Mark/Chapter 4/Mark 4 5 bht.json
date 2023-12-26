@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:21:09",
+    "timestamp": "12-25-2023 21:16:24",
     "verseRef": "Mark 4:5",
     "bestBHT": {
-        "bht": "Some individuals who heard the word of God had hearts that were like thorny ground; when the word was preached to them, it did not take root. These people made a quick and superficial profession of faith without truly experiencing the transformative power of the word. If their hearts had been deeper, the word would have had more time to do its work and they would have had a more substantial and genuine profession of faith.",
-        "wordCount": 76,
-        "quoteTokenProportion": 54.72,
-        "qualityScore": 0.7716253141484419,
-        "qualityScoreNormalizedComparedToV2BHTs": 17.0,
+        "bht": "The seed falling on rocky ground refers to a situation where there is a thin layer of earth covering a rock. This symbolizes those who hear the word of God but fail to let it take root in their hearts. They may hastily profess their belief without truly experiencing its power, resulting in hardened hearts. By contrasting this scenario with fertile ground, the passage emphasizes the importance of cultivating a receptive heart that nurtures the word of God to bring forth a fruitful life.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 0.8825984104867441,
+        "qualityScoreNormalizedComparedToV2BHTs": 20.69,
         "commentatorTierSimilarities": [
-            8.99,
+            50.32,
             0.0,
-            91.01
+            49.68
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "What means this? See on Matthew 13:5- :.\" ",
-            "Third Case: THE THORNY GROUND.",
-            "(Mark 4:7; Mark 4:18; Mark 4:19)."
+            "The thing intended is, not ground with stones in it which would not prevent the roots striking downward, but ground where a quite thin surface of earth covers a rock.\" ",
+            "What means this?",
+            "Third Case: THE THORNY GROUND."
         ],
         "John Gill": [
             "The word was preached to some persons who had hearts of stone, and which remained so.",
@@ -43,67 +43,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some individuals who heard the word of God had hearts that were like thorny ground; when the word was preached to them, it did not take root. These people made a quick and superficial profession of faith without truly experiencing the transformative power of the word. If their hearts had been deeper, the word would have had more time to do its work and they would have had a more substantial and genuine profession of faith.",
-            "wordCount": 76,
-            "quoteTokenProportion": 54.72,
-            "qualityScore": 0.7716253141484419,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.0,
+            "bht": "The verse describes a scenario where the seed falls on rocky ground, where there is only a thin surface of earth covering a rock. The commentators suggest that this represents individuals who hear the word of God but do not allow it to take root in their hearts. They may make a hasty profession of faith without truly experiencing its power. Their hearts remain hardened, preventing the word from deepening and bearing fruit. This serves as a reminder to cultivate a receptive heart that allows the word of God to penetrate deeply and transform our lives.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 0.7183126389547838,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.23,
             "commentatorTierSimilarities": [
-                8.99,
+                38.65,
                 0.0,
-                91.01
+                61.35
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Some people heard the word of God but had hearts like thorny ground, choked by the cares of the world and the deceitfulness of riches. Their response to the word was hasty and shallow, lacking a true transformation of heart. If their hearts had been deeper, rooted in the word, the growth would have been slower but more substantial, and a genuine profession of faith would have been made. (Matthew 13:5-; Mark 4:7; Mark 4:18; Mark 4:19)",
-            "wordCount": 73,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 0.9815784618553745,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.98,
+            "bht": "The seed falling on rocky ground refers to a situation where there is a thin layer of earth covering a rock. This symbolizes those who hear the word of God but fail to let it take root in their hearts. They may hastily profess their belief without truly experiencing its power, resulting in hardened hearts. By contrasting this scenario with fertile ground, the passage emphasizes the importance of cultivating a receptive heart that nurtures the word of God to bring forth a fruitful life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 0.8825984104867441,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.69,
             "commentatorTierSimilarities": [
-                38.53,
+                50.32,
                 0.0,
-                61.47
+                49.68
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Some individuals heard the word of God, but their response was shallow and lacking a true transformation. Their hearts resembled thorny ground that was choked by worldly concerns and the allure of material wealth. Their response was hasty, without a deep understanding or experience of the word. If their hearts had been rooted deeply in the word, the growth would have been slower but more substantial, leading to a genuine profession of faith.",
-            "wordCount": 73,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 0.5574659557400908,
-            "qualityScoreNormalizedComparedToV2BHTs": 9.88,
+            "bht": "The seed falling on rocky ground represents a situation where a thin layer of earth covers a rock, hindering the growth of roots. This illustrates those who hear the word but do not allow it to take root in their hearts. Their hasty profession of faith lacks a transformative experience and results in hardened hearts. The passage uses this analogy to emphasize the importance of cultivating a receptive heart that allows the word of God to penetrate deeply and bear fruit in one's life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 0.8464510252823934,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.49,
             "commentatorTierSimilarities": [
-                2.77,
+                44.32,
                 0.0,
-                97.23
+                55.68
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Upon hearing the word of God, some people responded without experiencing its power, their hearts remaining hard like stone. Their profession of faith was sudden and lacking depth, as they failed to truly understand and internalize the message. If their hearts had been more receptive, the growth of their faith would have been more deliberate and profound, requiring time and genuine work. (Matthew 13:5-; Mark 4:7; Mark 4:18; Mark 4:19)",
-            "wordCount": 66,
-            "quoteTokenProportion": 36.0,
-            "qualityScore": 0.926106185335623,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.14,
+            "bht": "The seed falling on rocky ground refers to ground with only a thin surface of earth covering a rock. This represents those who hear the word but do not let it take root in their hearts. Their hasty profession of faith lacks a powerful experience, resulting in hardened hearts. The verse serves as a reminder to cultivate a receptive heart that allows the word to penetrate deeply and bring forth transformative growth.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 0.8737162348109762,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.4,
             "commentatorTierSimilarities": [
-                35.98,
+                42.46,
                 0.0,
-                64.02
+                57.54
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In response to the preaching of the word, there were those whose hearts resembled thorny ground, hindered by worldly distractions and the deceitfulness of riches. Their profession of faith was quick and superficial, lacking a genuine experience of its power. If their hearts had been more receptive and grounded, the growth would have been gradual, allowing for a deeper transformation to take place before making a sincere profession of faith.",
-            "wordCount": 70,
-            "quoteTokenProportion": 43.4,
-            "qualityScore": 0.5741686608147274,
-            "qualityScoreNormalizedComparedToV2BHTs": 10.44,
+            "bht": "The seed falling on rocky ground represents individuals who hear the word of God but fail to let it take root in their hearts. Their hasty profession of faith lacks a powerful experience, resulting in hardened hearts. If the rocky ground had depth of earth, it would have taken longer for the seed to come up and more work would have been done before making a profession of faith. This passage reminds us to cultivate a receptive heart that allows the word of God to penetrate deeply and bear lasting fruit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 0.8692966240452388,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.25,
             "commentatorTierSimilarities": [
-                5.31,
+                30.44,
                 0.0,
-                94.69
+                69.56
             ],
             "generationAttempt": 5
         }

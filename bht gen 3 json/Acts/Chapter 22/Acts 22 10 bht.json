@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 16:34:56",
+    "timestamp": "12-25-2023 20:59:27",
     "verseRef": "Acts 22:10",
     "bestBHT": {
-        "bht": "And I said, What shall I do, Lord? This is the voice of a tamed man, who has truly turned to the Lord and seeks His guidance. Paul's response exemplifies the beginning of well-doing, for he asks the mouth of God for direction. It is a reminder to all that labor is futile if one attempts to embark on the path of repentance without consulting His word. God does not blind those whom He wishes to enlighten, but it is a reminder that we must humble ourselves and seek His wisdom, for anyone who strives to be wise in their own eyes will only become foolish in His sight.",
-        "wordCount": 111,
-        "quoteTokenProportion": 50.63,
-        "qualityScore": 0.8166653467163358,
-        "qualityScoreNormalizedComparedToV2BHTs": 18.5,
+        "bht": "This is the true turning unto the Lord; when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us. Moreover, this is the beginning of well-doing, to ask the mouth of God; their labor is lost who think upon repentance without his word. Into Damascus, of all things which are appointed for thee, I said, what shall I do, Lord?",
+        "wordCount": 76,
+        "quoteTokenProportion": 47.46,
+        "qualityScore": 0.9871561504097488,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.17,
         "commentatorTierSimilarities": [
-            21.05,
+            27.1,
             0.0,
-            78.95
+            72.9
         ],
-        "generationAttempt": 1
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "John Calvin": [
-            "What shall I do, Lord? This is the voice of a tamed man, and this is the true turning unto the Lord.",
+            "This is the voice of a tamed man, and this is the true turning unto the Lord; when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us.",
             "Moreover, this is the beginning of well-doing, to ask the mouth of God; for their labor is lost who think upon repentance without his word.",
-            "God doth not indeed make blind all those whom he will lighten; but there is a general rule prescribed to all men, that those become foolish with themselves who will be wise to him."
+            "[God] teaches us that we must not grudge to hear him speak with the tongue of men."
         ],
         "Archibald T. Robertson": [
-            "Into Damascus (\u03b5\u03b9\u03c2 \u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03bf\u03bd). In Acts 9:6 simply 'into the city' (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03c0\u03bf\u03bb\u03b9\u03bd).\" ",
-            "Of all things which (\u03c0\u03b5\u03c1 \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c9\u03bd). H\u03c9\u03bd, relative plural attracted to genitive of antecedent from accusative \u03b1, object of \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1 (do).\" ",
-            "Are appointed for thee (\u03c4\u03b5\u03c4\u03b1\u03ba\u03c4\u03b1 \u03c3\u03bf). Perfect passive indicative of \u03c4\u03b1\u03c3\u03c3\u03c9, to appoint, to order, with dative \u03c3\u03bf. Compare with \u03bf\u03c4 \u03c3\u03b5 \u03b4\u03b5 of Acts 9:6. The words were spoken to Paul, of course, in the Aramaic, Saoul, Saoul."
+            "Into Damascus (\u03b5\u03b9\u03c2 \u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03bf\u03bd). In Acts 9:6 simply 'into the city' (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03c0\u03bf\u03bb\u03b9\u03bd).",
+            "Of all things which (\u03c0\u03b5\u03c1 \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c9\u03bd). H\u03c9\u03bd, relative plural attracted to genitive of antecedent from accusative \u03b1, object of \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1 (do).",
+            "Are appointed for thee (\u03c4\u03b5\u03c4\u03b1\u03ba\u03c4\u03b1 \u03c3\u03bf). Perfect passive indicative of \u03c4\u03b1\u03c3\u03c3\u03c9, to appoint, to order, with dative \u03c3\u03bf."
         ],
         "John Gill": [
             "And I said, what shall I do, Lord?....",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "And I said, What shall I do, Lord? This is the voice of a tamed man, who has truly turned to the Lord and seeks His guidance. Paul's response exemplifies the beginning of well-doing, for he asks the mouth of God for direction. It is a reminder to all that labor is futile if one attempts to embark on the path of repentance without consulting His word. God does not blind those whom He wishes to enlighten, but it is a reminder that we must humble ourselves and seek His wisdom, for anyone who strives to be wise in their own eyes will only become foolish in His sight.",
-            "wordCount": 111,
-            "quoteTokenProportion": 50.63,
-            "qualityScore": 0.8166653467163358,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.5,
+            "bht": "This is the voice of a tamed man, and this is the true turning unto the Lord; when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us. Moreover, this is the beginning of well-doing, to ask the mouth of God; for their labor is lost who think upon repentance without his word. Into Damascus, of all things which are appointed for thee, I said, what shall I do, Lord?.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 0.9665108052507887,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.48,
             "commentatorTierSimilarities": [
-                21.05,
+                24.32,
                 0.0,
-                78.95
+                75.68
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "And I said, What shall I do, Lord? This is the voice of a tamed man, who has truly turned to the Lord and seeks His guidance. Paul's response exemplifies the beginning of well-doing, for he asks the mouth of God for direction. It is a reminder to all that labor is futile if one attempts to embark on the path of repentance without consulting His word. God does not blind those whom He wishes to enlighten, but it is a reminder that we must humble ourselves and seek His wisdom.",
-            "wordCount": 93,
-            "quoteTokenProportion": 48.48,
-            "qualityScore": 0.8155653152913471,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.46,
+            "bht": "This is the true turning unto the Lord; when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us. Moreover, this is the beginning of well-doing, to ask the mouth of God; their labor is lost who think upon repentance without his word. Into Damascus, I said, what shall I do, Lord?",
+            "wordCount": 68,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 0.904020632799865,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.4,
             "commentatorTierSimilarities": [
-                20.84,
+                22.06,
                 0.0,
-                79.16
+                77.94
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "And I said, What shall I do, Lord? This is the voice of a tamed man, who has truly turned to the Lord and seeks His guidance. Paul's response reflects the beginning of well-doing, as he acknowledges the necessity of seeking the mouth of God for direction. It serves as a reminder that labor is in vain without consulting His word. God does not blind those whom He desires to enlighten, but rather imparts wisdom to those who humble themselves and rely on Him for guidance.",
-            "wordCount": 88,
-            "quoteTokenProportion": 47.69,
-            "qualityScore": 0.8000245085507813,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.95,
+            "bht": "This is the true turning unto the Lord, when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us. Moreover, this is the beginning of well-doing, to ask the mouth of God; their labor is lost who think upon repentance without his word. Into Damascus, of all things appointed for thee, I said, what shall I do, Lord?",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 0.9724690440860098,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.68,
             "commentatorTierSimilarities": [
-                23.15,
+                26.49,
                 0.0,
-                76.85
+                73.51
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "And I said, What shall I do, Lord? This is the voice of a tamed man, who has truly turned to the Lord and seeks His guidance. Paul's response exemplifies the beginning of well-doing, for he asks the mouth of God for direction. It is a reminder to all that labor is futile if one attempts to embark on the path of repentance without consulting His word. It is paramount to humbly seek His wisdom, for those who think they are wise in their own eyes become foolish in His sight.",
-            "wordCount": 93,
-            "quoteTokenProportion": 45.59,
-            "qualityScore": 0.8060181403742566,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.14,
+            "bht": "This is the true turning unto the Lord; when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us. Moreover, this is the beginning of well-doing, to ask the mouth of God; their labor is lost who think upon repentance without his word. Into Damascus, of all things which are appointed for thee, I said, what shall I do, Lord?",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 0.9871561504097488,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.17,
             "commentatorTierSimilarities": [
-                22.2,
+                27.1,
                 0.0,
-                77.8
+                72.9
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "And I said, What shall I do, Lord? This is the voice of a tamed man, who has truly turned to the Lord and seeks His guidance. Paul's response reflects the beginning of well-doing, as he acknowledges the necessity of seeking the mouth of God for direction. It serves as a reminder that labor is in vain without consulting His word. God does not blind those whom He desires to enlighten, but rather imparts wisdom to those who humbly ask for it.",
-            "wordCount": 84,
-            "quoteTokenProportion": 45.16,
-            "qualityScore": 0.808688102120463,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.23,
+            "bht": "This is the true turning unto the Lord; when laying away all fierceness and fury, we bow down our necks willingly to bear his yoke, and are ready to do whatsoever he commandeth us. Moreover, this is the beginning of well-doing, to ask the mouth of God; their labor is lost who think upon repentance without his word. Into Damascus, of all things which are appointed for thee, I said, what shall I do, Lord?",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 0.9871561504097488,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.17,
             "commentatorTierSimilarities": [
-                23.9,
+                27.1,
                 0.0,
-                76.1
+                72.9
             ],
             "generationAttempt": 5
         }

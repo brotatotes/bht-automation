@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-19-2023 16:16:43",
+    "timestamp": "12-25-2023 21:16:26",
     "verseRef": "Luke 8:34",
     "bestBHT": {
-        "bht": "The Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 highlights the significance of this event, found in a parallel account. The multiple participles in this narrative underscore its dramatic nature. The demons were expelled from the possessed man and entered a herd of swine, driving them into the sea where they perished. Witnesses were both frightened and astonished, rapidly spreading the astonishing news to the surrounding cities.",
-        "wordCount": 63,
-        "quoteTokenProportion": 30.0,
-        "qualityScore": 0.8063235338562408,
-        "qualityScoreNormalizedComparedToV2BHTs": 18.15,
+        "bht": "The onlookers, taken aback by the remarkable unfolding of events, stood in awe as they witnessed the demons being expelled from the possessed man and entering the herd of swine. The Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 underscores the extraordinary nature of this occurrence. Additionally, the multiple participles employed in this portion of the text highlight the various actions and movements taking place. The frenzied behavior of the swine, plunging into the sea in desperation, left a lasting impression on the astonished witnesses.",
+        "wordCount": 81,
+        "quoteTokenProportion": 23.73,
+        "qualityScore": 0.8889257858712846,
+        "qualityScoreNormalizedComparedToV2BHTs": 20.9,
         "commentatorTierSimilarities": [
-            41.98,
+            54.78,
             0.0,
-            58.02
+            45.22
         ],
         "generationAttempt": 5
     },
     "choicestQuotes": {
         "Archibald T. Robertson": [
-            "Note the neat Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2, articular second perfect active participle of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1.\" ",
-            "Repeated in verse Luke 8:35 and in Mark 5:14.",
+            "Saw what had come to pass (\u03b9\u03b4\u03bf\u03bd\u03c4\u03b5\u03c2 \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2). This item only in Luke.",
+            "Note the neat Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2, articular second perfect active participle of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1.",
             "Note numerous participles here in verse Luke 8:35 as in Mark 5:15."
         ],
         "John Gill": [
             "That the devils went out of the man possessed by them, and entered into the herd of swine, which becoming mad therewith, ran furiously down the precipice into the sea, and were drowned.",
             "They fled; as persons affrighted, at these uncommon and surprising events, and as afraid to see their owners.",
-            "And went and told it in the city; that is, of Gadara, or some other city near at hand; the Syriac and Ethiopic versions read, \"in the cities\"; in all the cities round about, in that country."
+            "and in the country, or 'fields', in the villages adjacent, and in the houses which were scattered about in the fields for conveniency, for rural business."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -43,67 +43,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 8:34, the use of the Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 is worth noting. This phrase is repeated in verse 35 and in Mark 5:14, emphasizing the significance of the event. The presence of numerous participles in verse 35 further highlights the dramatic nature of the situation, as also seen in Mark 5:15. The devils that had possessed the man were expelled and entered into the herd of swine, causing them to run madly into the sea and drown. The witnesses of this extraordinary event were both afraid and amazed, spreading the news throughout the surrounding cities.",
-            "wordCount": 92,
-            "quoteTokenProportion": 28.33,
-            "qualityScore": 1.2740991653299005,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.71,
+            "bht": "Seeing the incredible events that had taken place, the people who witnessed the demons being cast out of the possessed man and into the herd of swine were astounded. This astonishment is highlighted by the unique Greek idiom used to describe their reaction. Not only that, but there are also numerous participles used in this verse, emphasizing the actions and movements of both the demons and the witnesses. The frenzy of the swine, their subsequent plunge into the sea, and the fear and awe of the onlookers all contribute to the dramatic nature of this event.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 0.9627048041927188,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.35,
             "commentatorTierSimilarities": [
-                63.54,
+                47.3,
                 0.0,
-                36.46
+                52.7
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The use of the Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 in this passage, along with its repetition in another passage, emphasizes the significance of the event. Additionally, the presence of numerous participles underscores the dramatic nature of the situation. The demons were expelled from the possessed man and entered a herd of swine, leading them to run uncontrollably into the sea and drown. Witnesses were both terrified and astonished, spreading news of the extraordinary event throughout the nearby cities.",
-            "wordCount": 77,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 0.8580287429286357,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.87,
+            "bht": "Witnessing the astonishing events unfold before their eyes, the observers were left in awe as they beheld the demons being expelled from the possessed man and entering the herd of swine. The use of the Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 accentuates the remarkable nature of what had occurred. Additionally, the presence of multiple participles in this passage underscores the dynamic actions and movements taking place. The ensuing chaos, as the swine ran fiercely and ultimately drowned, along with the profound amazement of the witnesses, culminate in a truly captivating occurrence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 0.8816846750190709,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.66,
             "commentatorTierSimilarities": [
-                46.52,
+                51.65,
                 0.0,
-                53.48
+                48.35
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 underscores the significance of the event, which is highlighted not only in this verse but also in a parallel account. The presence of numerous participles in this verse and its parallel further enhances the dramatic nature of the situation. The demons were expelled from the possessed person and entered a herd of swine, causing them to run frenziedly into the sea and drown. Witnesses were both terrified and amazed, and they quickly spread the astonishing news throughout the surrounding cities.",
-            "wordCount": 85,
-            "quoteTokenProportion": 36.07,
-            "qualityScore": 0.9145818335796128,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.75,
+            "bht": "Witnessing the extraordinary events, the enthusiastic spectators were astounded by the expulsion of the demons from the possessed man and their subsequent entry into the herd of swine. The usage of the Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 adds weight to the significance of what unfolded. Furthermore, the presence of multiple participles in this account accentuates the dynamic and active nature of the events. As the swine went into a frenzy and eventually perished in the sea, the witnesses were left in awe and admiration.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 0.8721012790495184,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.34,
             "commentatorTierSimilarities": [
-                45.74,
+                46.96,
                 0.0,
-                54.26
+                53.04
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 emphasizes the significance of this event, echoed in another account. The multiple participles in this narrative heighten the dramatic nature of the situation. The demons expelled from the possessed man entered a herd of swine, which ran uncontrollably into the sea and drowned. Witnesses were both terrified and amazed, swiftly spreading the astonishing news throughout nearby cities.",
-            "wordCount": 62,
-            "quoteTokenProportion": 26.53,
-            "qualityScore": 0.7903140801851259,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.62,
+            "bht": "Witnessing the incredulous spectacle, those present were left in sheer astonishment at the expulsion of the demons from the possessed man and their subsequent entrance into the herd of swine. The employment of the Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 heightens the gravity of the extraordinary event. Moreover, the multitude of participles utilized throughout this verse emphasizes the dynamic actions and movements occurring. The erratic behavior of the swine, their wild descent into the sea, and the overwhelming reaction of the witnesses all contribute to the gripping nature of this occurrence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 0.8813647169033072,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.65,
             "commentatorTierSimilarities": [
-                41.37,
+                52.05,
                 0.0,
-                58.63
+                47.95
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 highlights the significance of this event, found in a parallel account. The multiple participles in this narrative underscore its dramatic nature. The demons were expelled from the possessed man and entered a herd of swine, driving them into the sea where they perished. Witnesses were both frightened and astonished, rapidly spreading the astonishing news to the surrounding cities.",
-            "wordCount": 63,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 0.8063235338562408,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.15,
+            "bht": "The onlookers, taken aback by the remarkable unfolding of events, stood in awe as they witnessed the demons being expelled from the possessed man and entering the herd of swine. The Greek idiom \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03bf\u03c2 underscores the extraordinary nature of this occurrence. Additionally, the multiple participles employed in this portion of the text highlight the various actions and movements taking place. The frenzied behavior of the swine, plunging into the sea in desperation, left a lasting impression on the astonished witnesses.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 0.8889257858712846,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.9,
             "commentatorTierSimilarities": [
-                41.98,
+                54.78,
                 0.0,
-                58.02
+                45.22
             ],
             "generationAttempt": 5
         }

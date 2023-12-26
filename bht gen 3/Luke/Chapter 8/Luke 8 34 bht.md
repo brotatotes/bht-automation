@@ -1,56 +1,58 @@
 # Luke 8:34 Commentary Help Text
 
 ## BHT:
-The Greek idiom το γεγονος highlights the significance of this event, found in a parallel account. The multiple participles in this narrative underscore its dramatic nature. The demons were expelled from the possessed man and entered a herd of swine, driving them into the sea where they perished. Witnesses were both frightened and astonished, rapidly spreading the astonishing news to the surrounding cities.
+The onlookers, taken aback by the remarkable unfolding of events, stood in awe as they witnessed the demons being expelled from the possessed man and entering the herd of swine. The Greek idiom το γεγονος underscores the extraordinary nature of this occurrence. Additionally, the multiple participles employed in this portion of the text highlight the various actions and movements taking place. The frenzied behavior of the swine, plunging into the sea in desperation, left a lasting impression on the astonished witnesses.
 
 ## Choicest Commentary Quotes:
 ### Archibald T. Robertson:
-1. "Note the neat Greek idiom το γεγονος, articular second perfect active participle of γινομα." 
-2. "Repeated in verse Luke 8:35 and in Mark 5:14."
+1. "Saw what had come to pass (ιδοντες το γεγονος). This item only in Luke."
+2. "Note the neat Greek idiom το γεγονος, articular second perfect active participle of γινομα."
 3. "Note numerous participles here in verse Luke 8:35 as in Mark 5:15."
 
 ### John Gill:
 1. "That the devils went out of the man possessed by them, and entered into the herd of swine, which becoming mad therewith, ran furiously down the precipice into the sea, and were drowned."
 2. "They fled; as persons affrighted, at these uncommon and surprising events, and as afraid to see their owners."
-3. "And went and told it in the city; that is, of Gadara, or some other city near at hand; the Syriac and Ethiopic versions read, "in the cities"; in all the cities round about, in that country."
+3. "and in the country, or 'fields', in the villages adjacent, and in the houses which were scattered about in the fields for conveniency, for rural business."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:43
+- Timestamp: 12-25-2023 21:16:26
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 63
-- BHT Commentary Usage: 30.0%
-- BHT Quality Score: 0.8063235338562408
+- BHT Word Count: 81
+- BHT Commentary Usage: 23.73%
+- BHT Quality Score: 0.8889257858712846
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (50):
-	['a', 'account', 'and', 'astonished', 'astonishing', 'both', 'cities', 'demons', 'dramatic', 'driving', 'entered', 'event', 'expelled', 'found', 'frightened', 'from', 'greek', 'herd', 'highlights', 'idiom', 'in', 'into', 'its', 'man', 'multiple', 'narrative', 'nature', 'news', 'of', 'parallel', 'participles', 'perished', 'possessed', 'rapidly', 'sea', 'significance', 'spreading', 'surrounding', 'swine', 'the', 'them', 'they', 'this', 'to', 'underscore', 'were', 'where', 'witnesses', 'γεγονος', 'το']
-- ChatGPT injected words (significant words only) (35):
-	['account', 'astonished', 'astonishing', 'cities', 'demons', 'dramatic', 'driving', 'entered', 'event', 'expelled', 'found', 'frightened', 'greek', 'herd', 'highlights', 'idiom', 'man', 'multiple', 'narrative', 'nature', 'news', 'parallel', 'participles', 'perished', 'possessed', 'rapidly', 'sea', 'significance', 'spreading', 'surrounding', 'swine', 'underscore', 'witnesses', 'γεγονος', 'το']
+- ChatGPT injected words (59):
+	['a', 'aback', 'actions', 'additionally', 'and', 'as', 'astonished', 'awe', 'behavior', 'being', 'by', 'demons', 'desperation', 'employed', 'entering', 'events', 'expelled', 'extraordinary', 'frenzied', 'from', 'greek', 'herd', 'highlight', 'idiom', 'impression', 'in', 'into', 'lasting', 'left', 'man', 'movements', 'multiple', 'nature', 'occurrence', 'of', 'on', 'onlookers', 'participles', 'place', 'plunging', 'portion', 'possessed', 'remarkable', 'sea', 'stood', 'swine', 'taken', 'taking', 'text', 'the', 'they', 'this', 'underscores', 'unfolding', 'various', 'witnessed', 'witnesses', 'γεγονος', 'το']
+- ChatGPT injected words (significant words only) (45):
+	['aback', 'actions', 'additionally', 'astonished', 'awe', 'behavior', 'demons', 'desperation', 'employed', 'entering', 'events', 'expelled', 'extraordinary', 'frenzied', 'greek', 'herd', 'highlight', 'idiom', 'impression', 'lasting', 'left', 'man', 'movements', 'multiple', 'nature', 'occurrence', 'onlookers', 'participles', 'place', 'plunging', 'portion', 'possessed', 'remarkable', 'sea', 'stood', 'swine', 'taken', 'taking', 'text', 'underscores', 'unfolding', 'witnessed', 'witnesses', 'γεγονος', 'το']
 
 ### Logs
-- Attempt 1 BHT: In Luke 8:34, the use of the Greek idiom το γεγονος is worth noting. This phrase is repeated in verse 35 and in Mark 5:14, emphasizing the significance of the event. The presence of numerous participles in verse 35 further highlights the dramatic nature of the situation, as also seen in Mark 5:15. The devils that had possessed the man were expelled and entered into the herd of swine, causing them to run madly into the sea and drown. The witnesses of this extraordinary event were both afraid and amazed, spreading the news throughout the surrounding cities.
-- 🔄 Luke 8:34 (attempt 1, 92 words, 28.33% quotes quality score: 1.2740991653299005, V2 normalized quality score: 33.71, commentator tiers 1-3: 63.54%, 0.0%, 36.46%) 
+- Attempt 1 BHT: Seeing the incredible events that had taken place, the people who witnessed the demons being cast out of the possessed man and into the herd of swine were astounded. This astonishment is highlighted by the unique Greek idiom used to describe their reaction. Not only that, but there are also numerous participles used in this verse, emphasizing the actions and movements of both the demons and the witnesses. The frenzy of the swine, their subsequent plunge into the sea, and the fear and awe of the onlookers all contribute to the dramatic nature of this event.
+- 🔄 Luke 8:34 (attempt 1, 96 words, 39.06% quotes quality score: 0.9627048041927188, V2 normalized quality score: 23.35, commentator tiers 1-3: 47.3%, 0.0%, 52.7%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The use of the Greek idiom το γεγονος in this passage, along with its repetition in another passage, emphasizes the significance of the event. Additionally, the presence of numerous participles underscores the dramatic nature of the situation. The demons were expelled from the possessed man and entered a herd of swine, leading them to run uncontrollably into the sea and drown. Witnesses were both terrified and astonished, spreading news of the extraordinary event throughout the nearby cities.
-- 🔄 Luke 8:34 (attempt 2, 77 words, 30.91% quotes quality score: 0.8580287429286357, V2 normalized quality score: 19.87, commentator tiers 1-3: 46.52%, 0.0%, 53.48%) 
+- Attempt 2 BHT: Witnessing the astonishing events unfold before their eyes, the observers were left in awe as they beheld the demons being expelled from the possessed man and entering the herd of swine. The use of the Greek idiom το γεγονος accentuates the remarkable nature of what had occurred. Additionally, the presence of multiple participles in this passage underscores the dynamic actions and movements taking place. The ensuing chaos, as the swine ran fiercely and ultimately drowned, along with the profound amazement of the witnesses, culminate in a truly captivating occurrence.
+- 🔄 Luke 8:34 (attempt 2, 89 words, 25.76% quotes quality score: 0.8816846750190709, V2 normalized quality score: 20.66, commentator tiers 1-3: 51.65%, 0.0%, 48.35%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The Greek idiom το γεγονος underscores the significance of the event, which is highlighted not only in this verse but also in a parallel account. The presence of numerous participles in this verse and its parallel further enhances the dramatic nature of the situation. The demons were expelled from the possessed person and entered a herd of swine, causing them to run frenziedly into the sea and drown. Witnesses were both terrified and amazed, and they quickly spread the astonishing news throughout the surrounding cities.
-- 🔄 Luke 8:34 (attempt 3, 85 words, 36.07% quotes quality score: 0.9145818335796128, V2 normalized quality score: 21.75, commentator tiers 1-3: 45.74%, 0.0%, 54.26%) 
+- Attempt 3 BHT: Witnessing the extraordinary events, the enthusiastic spectators were astounded by the expulsion of the demons from the possessed man and their subsequent entry into the herd of swine. The usage of the Greek idiom το γεγονος adds weight to the significance of what unfolded. Furthermore, the presence of multiple participles in this account accentuates the dynamic and active nature of the events. As the swine went into a frenzy and eventually perished in the sea, the witnesses were left in awe and admiration.
+- 🔄 Luke 8:34 (attempt 3, 83 words, 25.45% quotes quality score: 0.8721012790495184, V2 normalized quality score: 20.34, commentator tiers 1-3: 46.96%, 0.0%, 53.04%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Witnessing the incredulous spectacle, those present were left in sheer astonishment at the expulsion of the demons from the possessed man and their subsequent entrance into the herd of swine. The employment of the Greek idiom το γεγονος heightens the gravity of the extraordinary event. Moreover, the multitude of participles utilized throughout this verse emphasizes the dynamic actions and movements occurring. The erratic behavior of the swine, their wild descent into the sea, and the overwhelming reaction of the witnesses all contribute to the gripping nature of this occurrence.
+- 🔄 Luke 8:34 (attempt 4, 89 words, 25.0% quotes quality score: 0.8813647169033072, V2 normalized quality score: 20.65, commentator tiers 1-3: 52.05%, 0.0%, 47.95%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: The Greek idiom το γεγονος emphasizes the significance of this event, echoed in another account. The multiple participles in this narrative heighten the dramatic nature of the situation. The demons expelled from the possessed man entered a herd of swine, which ran uncontrollably into the sea and drowned. Witnesses were both terrified and amazed, swiftly spreading the astonishing news throughout nearby cities.
-- 🔄 Luke 8:34 (attempt 4, 62 words, 26.53% quotes quality score: 0.7903140801851259, V2 normalized quality score: 17.62, commentator tiers 1-3: 41.37%, 0.0%, 58.63%) 
+- Attempt 5 BHT: The onlookers, taken aback by the remarkable unfolding of events, stood in awe as they witnessed the demons being expelled from the possessed man and entering the herd of swine. The Greek idiom το γεγονος underscores the extraordinary nature of this occurrence. Additionally, the multiple participles employed in this portion of the text highlight the various actions and movements taking place. The frenzied behavior of the swine, plunging into the sea in desperation, left a lasting impression on the astonished witnesses.
+- 🔄 Luke 8:34 (attempt 5, 81 words, 23.73% quotes quality score: 0.8889257858712846, V2 normalized quality score: 20.9, commentator tiers 1-3: 54.78%, 0.0%, 45.22%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Greek idiom το γεγονος highlights the significance of this event, found in a parallel account. The multiple participles in this narrative underscore its dramatic nature. The demons were expelled from the possessed man and entered a herd of swine, driving them into the sea where they perished. Witnesses were both frightened and astonished, rapidly spreading the astonishing news to the surrounding cities.
-- 🔄 Luke 8:34 (attempt 5, 63 words, 30.0% quotes quality score: 0.8063235338562408, V2 normalized quality score: 18.15, commentator tiers 1-3: 41.98%, 0.0%, 58.02%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 8:34 bht prompt v0.8 (63 words, 30.0% quotes)
-- quality score: 0.8063235338562408, V2 normalized quality score: 18.15, commentator tiers 1-3: 41.98%, 0.0%, 58.02%)
+- ✅ Luke 8:34 bht prompt v0.8 (81 words, 23.73% quotes)
+- quality score: 0.8889257858712846, V2 normalized quality score: 20.9, commentator tiers 1-3: 54.78%, 0.0%, 45.22%)

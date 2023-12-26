@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:23:40",
+    "timestamp": "12-25-2023 21:00:49",
     "verseRef": "Mark 7:5",
     "bestBHT": {
-        "bht": "Some leaders questioned Jesus about his disciples not following the tradition of the elders, specifically about not washing their hands before eating. The word common used here refers to unwashed hands. It is important to note that the word of God should be the ultimate guide and not the traditions of men. Walking according to the rule of God's word brings true peace.",
-        "wordCount": 64,
-        "quoteTokenProportion": 36.96,
-        "qualityScore": 0.8100585665821621,
-        "qualityScoreNormalizedComparedToV2BHTs": 18.28,
+        "bht": "Jesus confronts the Pharisees and scribes about their focus on the tradition of the elders rather than the commandments of God. He points out that they are more concerned with human traditions than with following God's word. Jesus emphasizes the importance of abiding by God's word as the rule for one's conduct and walk. He clarifies that the term common refers to unwashed hands, signifying uncleanness or unholiness. The rule handed down from forefathers is challenged by Jesus, who encourages obedience to the word of God for true peace.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 0.9206060847875445,
+        "qualityScoreNormalizedComparedToV2BHTs": 21.95,
         "commentatorTierSimilarities": [
             0.0,
-            12.31,
-            87.69
+            20.76,
+            79.24
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -20,9 +20,9 @@
             "\t"
         ],
         "John Gill": [
-            "The word 'common' is used for that which is unclean or unholy, Acts 10:14, and so signifies unwashen hands, as we read, and render it.\" ",
-            "Instead of 'the tradition of the elders', the Ethiopic version reads, 'the constitution of the Scribes and Pharisees'; and which are sometimes by the Jews called, 'the words', or 'sayings of the Scribes.",
-            "Not the traditions of men, but the word of God, should be the rule of walk and conversation; and as many as walk according to this rule, peace will be upon them."
+            "The words 'common' is used for that which is unclean or unholy...and so signifies unwashen hands.\" ",
+            "Not the traditions of men, but the word of God, should be the rule of walk and conversation.",
+            "As many as walk according to this rule, peace will be upon them."
         ],
         "John Wesley": [
             "The tradition of the elders \u2014 The rule delivered down from your forefathers."
@@ -45,67 +45,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some religious leaders questioned Jesus about his disciples not following the tradition of the elders, specifically about not washing their hands before eating. The word common used in this verse refers to unwashed hands. The tradition of the elders was seen as a rule passed down from previous generations. However, it's important to note that the word of God should be the ultimate guide and not the traditions of men. True peace is found in walking according to the rule of God's word.",
-            "wordCount": 85,
-            "quoteTokenProportion": 40.68,
-            "qualityScore": 0.9022004933407268,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.34,
+            "bht": "The Pharisees and scribes question Jesus about his disciples not washing their hands before eating, in accordance with the tradition of the elders. Jesus rebukes them, stating that they are more concerned with human traditions than with following the commandments of God. He emphasizes the importance of abiding by the word of God rather than the traditions of men. It is through obedience to God's word that peace is found.",
+            "wordCount": 71,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 0.8424589793781732,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.36,
             "commentatorTierSimilarities": [
                 0.0,
-                13.58,
-                86.42
+                17.61,
+                82.39
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Some leaders questioned Jesus about his disciples not following the tradition of the elders, specifically about not washing their hands before eating. The word common used here refers to unwashed hands. It is important to note that the word of God should be the ultimate guide and not the traditions of men. Walking according to the rule of God's word brings true peace.",
-            "wordCount": 64,
-            "quoteTokenProportion": 36.96,
-            "qualityScore": 0.8100585665821621,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.28,
+            "bht": "The tradition of the elders, referred to as the rule delivered from forefathers, is challenged by Jesus when the Pharisees and scribes question his disciples for not washing their hands before eating. Jesus points out their focus on human traditions rather than the commandments of God. He emphasizes that it is not the traditions of men but the word of God that should be the guiding principle for one's walk and conduct. Those who follow this rule will experience peace. The term common in the verse refers to that which is unclean or unholy, specifically signifying unwashed hands.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 0.966238943206101,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.47,
             "commentatorTierSimilarities": [
                 0.0,
-                12.31,
-                87.69
+                18.73,
+                81.27
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The religious leaders confronted Jesus about his disciples not adhering to the tradition of the elders, particularly regarding their failure to wash their hands before eating. The term common in this context denotes unwashed hands. However, it is crucial to recognize that the word of God should take precedence over human traditions. True peace can only be found by living according to the guidance of God's word.",
-            "wordCount": 68,
-            "quoteTokenProportion": 40.74,
-            "qualityScore": 0.6894754906068319,
-            "qualityScoreNormalizedComparedToV2BHTs": 14.27,
+            "bht": "Jesus confronts the Pharisees and scribes about their focus on the tradition of the elders rather than the commandments of God. He points out that they are more concerned with human traditions than with following God's word. Jesus emphasizes the importance of abiding by God's word as the rule for one's conduct and walk. He clarifies that the term common refers to unwashed hands, signifying uncleanness or unholiness. The rule handed down from forefathers is challenged by Jesus, who encourages obedience to the word of God for true peace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 0.9206060847875445,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.95,
             "commentatorTierSimilarities": [
                 0.0,
-                13.97,
-                86.03
+                20.76,
+                79.24
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The tradition of the elders was questioned by some religious leaders when they noticed that Jesus' disciples did not observe the custom of washing their hands before eating. The term common in this verse refers to unwashed hands. However, it is important to prioritize the word of God over human traditions. Walking according to the rule of God's word brings about true peace and should be the guiding principle in our lives.",
-            "wordCount": 73,
-            "quoteTokenProportion": 41.38,
-            "qualityScore": 0.8542420468798836,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.75,
+            "bht": "Jesus challenges the Pharisees and scribes who prioritize the tradition of the elders over God's commandments. He highlights their fixation on human traditions rather than following God's word. Jesus emphasizes that one's conduct and walk should be governed by God's word, not the traditions of men. He clarifies that common refers to unwashed hands, symbolizing impurity. Jesus confronts the rule handed down from forefathers, urging obedience to God's word as the pathway to true peace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 0.9075426564809258,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.52,
             "commentatorTierSimilarities": [
                 0.0,
-                16.12,
-                83.88
+                17.52,
+                82.48
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The tradition of the elders came under scrutiny when religious leaders confronted Jesus about his disciples neglecting the practice of washing their hands before eating. Common in this context refers to unwashed hands. It is essential to recognize that the word of God should supersede human traditions. Those who abide by God's word will find peace in their lives, as living in accordance with His teachings should be the ultimate guide for our actions and conduct.",
-            "wordCount": 77,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 0.7487147198301447,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.24,
+            "bht": "Jesus rebukes the Pharisees and scribes for prioritizing the tradition of the elders over the commandments of God. He highlights their focus on human traditions instead of following God's word. Jesus underscores that it is not the traditions of men but God's word that should guide one's conduct and actions. He clarifies that common refers to unwashed hands, representing impurity. By challenging the rule passed down from earlier generations, Jesus emphasizes the importance of obedience to God's word for finding true peace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 0.8931907876954115,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.04,
             "commentatorTierSimilarities": [
                 0.0,
-                15.17,
-                84.83
+                20.7,
+                79.3
             ],
             "generationAttempt": 5
         }

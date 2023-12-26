@@ -1,27 +1,27 @@
 {
-    "timestamp": "12-19-2023 23:48:37",
+    "timestamp": "12-25-2023 21:16:22",
     "verseRef": "Matthew 16:10",
     "bestBHT": {
-        "bht": "It is important to remember the past miracle of feeding the four thousand, where Jesus displayed His ability to abundantly provide even with limited resources. This knowledge should comfort and reassure us, preventing distress and doubt from creeping into our minds. We should not underestimate His power or doubt His ability to meet our needs. Instead, we should trust in Him wholeheartedly, recognizing that He is capable of doing far more than we can imagine.",
-        "wordCount": 75,
-        "quoteTokenProportion": 46.67,
-        "qualityScore": 0.5557799550564868,
-        "qualityScoreNormalizedComparedToV2BHTs": 9.83,
+        "bht": "In this account, the truthfulness of Jesus' ability to provide is confirmed through the recollection of the miraculous feeding of thousands with meager resources. Believers are warned against distress or doubt, as they reflect serious lack of wisdom and sensitivity. Instead, they are encouraged to have faith in Jesus' unsurpassed capability to meet their needs abundantly. These past instances of His miraculous provisions serve as a powerful reminder of His unchanging faithfulness and the boundless depths of His care.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 0.7013621395523291,
+        "qualityScoreNormalizedComparedToV2BHTs": 14.67,
         "commentatorTierSimilarities": [
             0.0,
-            37.93,
-            62.07
+            56.37,
+            43.63
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Philip Schaff": [
-            "Baskets. A different word in the original from that used in Matthew 16:9, but the same one we find in the account of the miracle (chap. Matthew 15:37)."
+            "This difference incidentally confirms the truthfulness of the account."
         ],
         "John Gill": [
             "Have you forgot the other miracle done but a very little while ago, when I fed four thousand men, beside women and children, with seven loaves and a few small fishes?",
-            "Am I not able to provide for you? Distress not yourselves about this matter.",
-            "Give not way to unbelief, which must argue great stupidity and insensibility."
+            "Distress not yourselves about this matter; give not way to unbelief, which must argue great stupidity and insensibility.",
+            "Am I not able to provide for you?"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -41,67 +41,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse reminds us of the miracle of feeding the four thousand, when Jesus provided an abundance of food with just a few loaves and fishes. It assures us that we should not be distressed or doubtful about His ability to provide for us. Instead, we should trust in Him, knowing that He is capable of more than we can comprehend.",
-            "wordCount": 61,
-            "quoteTokenProportion": 58.0,
-            "qualityScore": 0.8432539245439004,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.38,
+            "bht": "In Matthew 16:10, the commentators emphasize the power of Jesus to provide for His followers, reminding readers of His previous miracles such as feeding thousands with a few loaves and fishes. They urge believers not to be distressed or doubt His ability to meet their needs, highlighting the foolishness and insensitivity of unbelief. This reinforces the truthfulness of the account and strengthens the faith of those who trust in Jesus' provision.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 0.883112205075752,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.71,
             "commentatorTierSimilarities": [
                 0.0,
-                49.46,
-                50.54
+                56.27,
+                43.73
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "It is important to remember the past miracle of feeding the four thousand, where Jesus displayed His ability to abundantly provide even with limited resources. This knowledge should comfort and reassure us, preventing distress and doubt from creeping into our minds. We should not underestimate His power or doubt His ability to meet our needs. Instead, we should trust in Him wholeheartedly, recognizing that He is capable of doing far more than we can imagine.",
-            "wordCount": 75,
-            "quoteTokenProportion": 46.67,
-            "qualityScore": 0.5557799550564868,
-            "qualityScoreNormalizedComparedToV2BHTs": 9.83,
+            "bht": "In Matthew 16:10, the truthfulness of Jesus' ability to provide is confirmed by recalling the miraculous feeding of thousands with little food. Distress and doubt are unwarranted, as they reflect great stupidity and insensitivity, while faith affirms His power to meet all needs.",
+            "wordCount": 42,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 0.8244668299606841,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.76,
             "commentatorTierSimilarities": [
                 0.0,
-                37.93,
-                62.07
+                45.64,
+                54.36
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "We are reminded of the previous miracle of feeding the four thousand, which showcased Jesus' capacity to abundantly provide with only a finite amount of resources. This knowledge should bring solace and assurance, preventing anxiety or skepticism from taking hold. We should not underestimate His power or question His ability to fulfill our needs. Instead, we ought to wholeheartedly place our trust in Him, acknowledging that His capabilities surpass anything we can fathom.",
-            "wordCount": 73,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.542549409563375,
-            "qualityScoreNormalizedComparedToV2BHTs": 9.39,
+            "bht": "In this verse, the account of Jesus' ability to provide for His followers is affirmed by the commentators. They remind us of the previous miracle where Jesus fed thousands with a small amount of food, highlighting His unmatched power. They urge believers not to be distressed or doubt His provision, as it reflects great stupidity and insensitivity. Trusting in Jesus' sufficiency is the antidote to unbelief and guarantees His faithful care.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 0.7234761135576173,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.4,
             "commentatorTierSimilarities": [
                 0.0,
-                38.61,
-                61.39
+                45.49,
+                54.51
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "This verse recalls the astonishing miracle of feeding the four thousand, illustrating Jesus' ability to provide abundantly with limited provisions. It urges us not to succumb to distress or doubt, but to instead place our trust in His unwavering ability to care for us. We should not undermine His power nor question His capacity to meet our needs. Rather, we should wholeheartedly rely on Him, understanding that He is capable of surpassing our greatest expectations.",
-            "wordCount": 75,
-            "quoteTokenProportion": 40.68,
-            "qualityScore": 0.6489420174615945,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.92,
+            "bht": "In this passage, the truthfulness of Jesus' ability to provide is confirmed by pointing to the miracle of feeding thousands with only a few loaves and fishes. Believers are warned against distress and doubt, as it displays foolishness and insensitivity. Instead, they are encouraged to trust in Jesus' unmatched power to meet their needs. His miraculous provisions serve as a reminder of His faithfulness and the unfathomable depths of His care.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 0.6872361063408432,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.2,
             "commentatorTierSimilarities": [
                 0.0,
-                43.5,
-                56.5
+                45.98,
+                54.02
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "This passage brings to mind the remarkable miracle of feeding the four thousand, which serves as a powerful reminder of Jesus' ability to abundantly provide, even with limited resources at hand. It encourages us not to be overwhelmed by distress or doubt, but to fully trust in His unwavering ability to meet our needs. Instead of underestimating His power or questioning His capability, we should wholeheartedly rely on Him, recognizing that He is capable of far surpassing our limited understanding and expectations.",
-            "wordCount": 82,
-            "quoteTokenProportion": 42.65,
-            "qualityScore": 0.6327501799944635,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.38,
+            "bht": "In this account, the truthfulness of Jesus' ability to provide is confirmed through the recollection of the miraculous feeding of thousands with meager resources. Believers are warned against distress or doubt, as they reflect serious lack of wisdom and sensitivity. Instead, they are encouraged to have faith in Jesus' unsurpassed capability to meet their needs abundantly. These past instances of His miraculous provisions serve as a powerful reminder of His unchanging faithfulness and the boundless depths of His care.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 0.7013621395523291,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.67,
             "commentatorTierSimilarities": [
                 0.0,
-                44.98,
-                55.02
+                56.37,
+                43.63
             ],
             "generationAttempt": 5
         }

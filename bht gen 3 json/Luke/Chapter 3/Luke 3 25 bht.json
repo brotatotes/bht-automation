@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:14:24",
+    "timestamp": "12-25-2023 21:16:21",
     "verseRef": "Luke 3:25",
     "bestBHT": {
-        "bht": "This passage meticulously goes through the genealogy of Jesus, specifically mentioning the governors Mattathias, Amos, and Naum, who ruled for different lengths of time. These details emphasize the authenticity and importance of Jesus' lineage, tying him to the extensive history of Israel and confirming his role as the fulfillment of God's covenant with his people.",
-        "wordCount": 56,
-        "quoteTokenProportion": 29.55,
-        "qualityScore": 0.6365836780322225,
-        "qualityScoreNormalizedComparedToV2BHTs": 12.51,
+        "bht": "In Luke 3:25, we are introduced to a list of individuals who governed during certain periods of time. Siloah governed for ten years, Amos for fourteen years, and Esli for eight years. This list of names and the duration of their rule may seem insignificant, but it highlights the historical context and the factual nature of the Bible. It serves as a reminder that the events and people recorded in Scripture were real and had a significant impact on the lives of those who followed them.",
+        "wordCount": 85,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 0.9839145044013715,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.06,
         "commentatorTierSimilarities": [
             0.0,
             0.0,
             100.0
         ],
-        "generationAttempt": 2
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "John Gill": [
-            "Which was the son of Mattathias....who governed ten years.",
-            "Which was the son of Amos....who governed fourteen years.",
-            "Which was the son of Naum....who governed seven years."
+            "Siloah, who governed ten years",
+            "Amos, who governed fourteen years",
+            "Esli, who governed eight years"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -38,11 +38,11 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This verse in Luke 3:25 traces the genealogy of Jesus through his ancestors, mentioning key figures such as Mattathias, Amos, and Naum who governed for various periods of time. These historical details serve to highlight the significance and legitimacy of Jesus' lineage, connecting him with the rich tapestry of Israel's history and affirming his role as the fulfillment of God's promises to his people.",
-            "wordCount": 65,
-            "quoteTokenProportion": 32.0,
-            "qualityScore": 0.5980685977559341,
-            "qualityScoreNormalizedComparedToV2BHTs": 11.23,
+            "bht": "In Luke 3:25, we are introduced to a list of individuals who governed during certain periods of time. Siloah governed for ten years, Amos for fourteen years, and Esli for eight years. This list of names and the duration of their rule may seem insignificant, but it highlights the historical context and the factual nature of the Bible. It serves as a reminder that the events and people recorded in Scripture were real and had a significant impact on the lives of those who followed them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 0.9839145044013715,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.06,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -51,11 +51,11 @@
             "generationAttempt": 1
         },
         {
-            "bht": "This passage meticulously goes through the genealogy of Jesus, specifically mentioning the governors Mattathias, Amos, and Naum, who ruled for different lengths of time. These details emphasize the authenticity and importance of Jesus' lineage, tying him to the extensive history of Israel and confirming his role as the fulfillment of God's covenant with his people.",
-            "wordCount": 56,
-            "quoteTokenProportion": 29.55,
-            "qualityScore": 0.6365836780322225,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.51,
+            "bht": "In Luke 3:25, we encounter a record of individuals who governed for specific periods of time: Siloah, who governed for ten years; Amos, who governed for fourteen years; and Esli, who governed for eight years. This seemingly small list of names and tenures serves as a powerful reminder of the Bible's historical accuracy and factual nature. It emphasizes the reality of the events and individuals documented in Scripture, reinforcing the impact they had on the lives of those who followed them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.7944699444221957,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.76,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -64,11 +64,11 @@
             "generationAttempt": 2
         },
         {
-            "bht": "This verse traces the lineage of Jesus by mentioning key figures like Mattathias, Amos, and Naum who held positions of authority for specific durations. These genealogical details serve to affirm the authenticity and significance of Jesus' ancestry, demonstrating his connection to the rich historical tapestry of Israel and solidifying his role as the ultimate fulfillment of God's promises to His people.",
-            "wordCount": 62,
-            "quoteTokenProportion": 22.92,
-            "qualityScore": 0.4583368955604863,
-            "qualityScoreNormalizedComparedToV2BHTs": 6.59,
+            "bht": "The historical context of Luke 3:25 comes to life through a list of names and their respective periods of governance. Siloah governed for ten years, Amos for fourteen years, and Esli for eight years. This record emphasizes the accuracy and factual nature of the Bible, showcasing the real events and people who played significant roles in shaping the lives of those who came after them. Such details remind us of the authenticity and impact of Scripture in historical accounts.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 0.8858232325988642,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.8,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -77,11 +77,11 @@
             "generationAttempt": 3
         },
         {
-            "bht": "This verse highlights the genealogy of Jesus through notable individuals such as Mattathias, Amos, and Naum who governed for specific periods. By including these historical details, it emphasizes the importance and legitimacy of Jesus' lineage, establishing his connection to the rich history of Israel and confirming his role as the fulfillment of God's covenant with His people.",
-            "wordCount": 58,
-            "quoteTokenProportion": 32.61,
-            "qualityScore": 0.6101114474454818,
-            "qualityScoreNormalizedComparedToV2BHTs": 11.63,
+            "bht": "The historical accuracy of Luke 3:25 is evident through the mention of Siloah, who governed for ten years, Amos for fourteen years, and Esli for eight years. These names and their respective tenures serve as a reminder of the factual nature of the Bible, shedding light on the events and individuals that shaped the lives of people during that time. This attention to detail underscores the authenticity and impact of Scripture in documenting real historical accounts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 0.6883455228767517,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.23,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -90,11 +90,11 @@
             "generationAttempt": 4
         },
         {
-            "bht": "This verse unveils the genealogy of Jesus, featuring figures like Mattathias, Amos, and Naum who held governmental positions for varying durations. By specifying these historical details, it underscores the significance and authenticity of Jesus' lineage, establishing his connection to the intricate narrative of Israel's past and attesting to his role as the ultimate fulfillment of God's covenant with His people.",
-            "wordCount": 62,
-            "quoteTokenProportion": 26.53,
-            "qualityScore": 0.4921463624688617,
-            "qualityScoreNormalizedComparedToV2BHTs": 7.71,
+            "bht": "The inclusion of Siloah, who governed for ten years, Amos for fourteen years, and Esli for eight years in Luke 3:25 reminds readers of the historical accuracy and factual nature of the Bible. These names, along with their specific periods of governance, provide a glimpse into the significant impact these individuals had during their respective times. This attention to detail reinforces the authenticity of the Scriptures, highlighting the real events and people that shaped the lives of those who followed them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 0.6431804340688574,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.73,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,

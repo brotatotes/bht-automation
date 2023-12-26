@@ -1,51 +1,52 @@
 # Luke 20:31 Commentary Help Text
 
 ## BHT:
-In this account, a woman is taken as a wife by several men, one after another, yet no children are born and no legacy is left behind. The repetition of these marriages resulting in barrenness underscores the fleeting nature of life and the reminder that our time on earth is limited. It prompts contemplation on the significance of creating a lasting impact and leaving behind a meaningful legacy for future generations, recognizing the brevity and fragility of our mortal existence.
+In this story, we encounter a series of seven brothers who each, in turn, took the same woman as their wife. Remarkably, none of these marriages produced any children, and all seven brothers eventually passed away. This narrative prompts us to reflect on the meaning and purpose of marriage, as well as the desire for a lasting legacy. It raises profound questions about the nature of relationships, the longing for offspring, and the significance of leaving a lasting impact on future generations.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
 1. "And the third took her.... and in like manner the seven also." 
-2. "The other four, one after another, when all seven married her."
+2. "The other four, one after another, when all seven married her." 
 3. "And they left no children, and died; or they died, leaving no children behind them."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:22:10
+- Timestamp: 12-25-2023 21:16:29
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 38.98%
-- BHT Quality Score: 0.6675717217861017
+- BHT Word Count: 82
+- BHT Commentary Usage: 38.33%
+- BHT Quality Score: 0.8469405633511773
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'account', 'after', 'and', 'another', 'are', 'as', 'barrenness', 'behind', 'born', 'brevity', 'by', 'children', 'contemplation', 'creating', 'earth', 'existence', 'fleeting', 'for', 'fragility', 'future', 'generations', 'impact', 'in', 'is', 'it', 'lasting', 'leaving', 'left', 'legacy', 'life', 'limited', 'marriages', 'meaningful', 'men', 'mortal', 'nature', 'no', 'of', 'on', 'one', 'our', 'prompts', 'recognizing', 'reminder', 'repetition', 'resulting', 'several', 'significance', 'taken', 'that', 'the', 'these', 'this', 'time', 'underscores', 'wife', 'woman', 'yet']
-- ChatGPT injected words (significant words only) (36):
-	['account', 'barrenness', 'born', 'brevity', 'children', 'contemplation', 'creating', 'earth', 'existence', 'fleeting', 'fragility', 'future', 'generations', 'impact', 'lasting', 'leaving', 'left', 'legacy', 'life', 'limited', 'marriages', 'meaningful', 'men', 'mortal', 'nature', 'prompts', 'recognizing', 'reminder', 'repetition', 'resulting', 'significance', 'taken', 'time', 'underscores', 'wife', 'woman']
+- ChatGPT injected words (60):
+	['a', 'about', 'all', 'and', 'any', 'as', 'away', 'brothers', 'children', 'desire', 'each', 'encounter', 'eventually', 'for', 'future', 'generations', 'impact', 'in', 'it', 'lasting', 'leaving', 'legacy', 'longing', 'marriage', 'marriages', 'meaning', 'narrative', 'nature', 'none', 'of', 'offspring', 'on', 'passed', 'produced', 'profound', 'prompts', 'purpose', 'questions', 'raises', 'reflect', 'relationships', 'remarkably', 'same', 'series', 'seven', 'significance', 'story', 'the', 'their', 'these', 'this', 'to', 'took', 'turn', 'us', 'we', 'well', 'who', 'wife', 'woman']
+- ChatGPT injected words (significant words only) (37):
+	['away', 'brothers', 'children', 'desire', 'encounter', 'eventually', 'future', 'generations', 'impact', 'lasting', 'leaving', 'legacy', 'longing', 'marriage', 'marriages', 'meaning', 'narrative', 'nature', 'offspring', 'passed', 'produced', 'profound', 'prompts', 'purpose', 'questions', 'raises', 'reflect', 'relationships', 'remarkably', 'series', 'seven', 'significance', 'story', 'took', 'turn', 'wife', 'woman']
 
 ### Logs
-- Attempt 1 BHT: In this verse, we see a series of events where multiple individuals take a woman as their wife, but each one ultimately leaves no descendants. The commentators highlight the repetitive pattern of these marriages, emphasizing how one after another, these marriages resulted in no children. The verse suggests a sense of futility and emptiness as each marriage ends in death without leaving behind any offspring. This repetition and lack of fruitfulness serve as a reminder of the transient nature of life and the importance of legacy.
-- 🔄 Luke 20:31 (attempt 1, 86 words, 38.33% quotes quality score: 0.7633265612657831, V2 normalized quality score: 16.73, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
+- Attempt 1 BHT: In Luke 20:31, we read about the succession of seven brothers who successively took a woman as their wife. None of the husbands left behind any children, and eventually, they all died. This passage highlights the concept of marriage and the importance of continuity through progeny. It also raises questions about the nature of relationships and the desire for legacy and offspring. Despite the brevity of the passage, it provides valuable insights into the complexities of human relationships and the longing for a lasting impact.
+- 🔄 Luke 20:31 (attempt 1, 84 words, 35.59% quotes quality score: 0.7338184385053945, V2 normalized quality score: 15.74, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In this passage, several men consecutively marry a woman, but none of these marriages bear children nor leave a lasting legacy. The recurring sequence of these unions, devoid of any descendants, highlights the futility and transience of life. These marriages serve as a reminder of the ephemeral nature of human existence and emphasize the importance of leaving behind a lasting impact on future generations.
-- 🔄 Luke 20:31 (attempt 2, 64 words, 31.91% quotes quality score: 0.649395716072027, V2 normalized quality score: 12.94, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Through a series of repetitive marriages, one following the other, the married woman in this account experiences an unfruitful cycle. None of these unions result in the birth of children or leave any lasting descendants. The succession of these marriages with no offspring serves as a poignant reminder of the transient nature of life and the sobering reality of leaving behind no legacy. This narrative prompts reflection on the brevity of our human existence and the significance of creating a meaningful and lasting impact during our time on earth.
-- 🔄 Luke 20:31 (attempt 3, 89 words, 33.87% quotes quality score: 0.5910780890821161, V2 normalized quality score: 11.0, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
+- Attempt 2 BHT: In this verse, we see a series of seven brothers who married the same woman one after another, but none of them had any children and eventually died. This raises important questions about marriage and the desire for posterity. The absence of offspring in these marriages sheds light on the significance of leaving a legacy and the complexities of human relationships. It prompts us to ponder the importance of continuity and the longing for a lasting impact beyond our own lives.
+- 🔄 Luke 20:31 (attempt 2, 81 words, 45.16% quotes quality score: 0.8362952991073269, V2 normalized quality score: 19.15, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 3 BHT: In this story, we encounter a series of seven brothers who each, in turn, took the same woman as their wife. Remarkably, none of these marriages produced any children, and all seven brothers eventually passed away. This narrative prompts us to reflect on the meaning and purpose of marriage, as well as the desire for a lasting legacy. It raises profound questions about the nature of relationships, the longing for offspring, and the significance of leaving a lasting impact on future generations.
+- 🔄 Luke 20:31 (attempt 3, 82 words, 38.33% quotes quality score: 0.8469405633511773, V2 normalized quality score: 19.51, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In this account, a woman is taken as a wife by several men, one after another, yet no children are born and no legacy is left behind. The repetition of these marriages resulting in barrenness underscores the fleeting nature of life and the reminder that our time on earth is limited. It prompts contemplation on the significance of creating a lasting impact and leaving behind a meaningful legacy for future generations, recognizing the brevity and fragility of our mortal existence.
-- 🔄 Luke 20:31 (attempt 4, 80 words, 38.98% quotes quality score: 0.6675717217861017, V2 normalized quality score: 13.54, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
+- Attempt 4 BHT: In this intriguing account, we witness a succession of seven brothers who each took the same woman as their wife. Curiously, none of these unions resulted in children, and eventually, all seven brothers perished. Their story compels us to contemplate the complexities of marriage and the innate human desire for posterity. It also prompts us to reflect on the significance of leaving a lasting impact and the longing for a legacy that extends beyond our own mortality.
+- 🔄 Luke 20:31 (attempt 4, 77 words, 42.37% quotes quality score: 0.8169364118184694, V2 normalized quality score: 18.51, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: One after another, several men took the woman as their wife, and in a pattern of unfruitfulness, no descendants were left behind. These marriages ended in death without leaving any children, highlighting the transient nature of life and the importance of legacy. This repetitive cycle emphasizes the futility of worldly pursuits and calls us to consider the significance of leaving a lasting impact beyond our own mortality. Our time on earth may be brief, but our influence can endure through the generations.
-- 🔄 Luke 20:31 (attempt 5, 82 words, 43.94% quotes quality score: 0.6228139486378124, V2 normalized quality score: 12.05, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
+- Attempt 5 BHT: In this fascinating narrative, we encounter a series of seven brothers who married the same woman, one after another. Strangely, none of these marriages bore any children, and all seven brothers eventually died. This account invites us to reflect on the purpose of marriage and the yearning for a lasting legacy. It provokes us to ponder the complexities of human relationships and the profound desire to leave behind a lasting impact. The absence of offspring in these unions raises essential questions about the significance of continuity and the longing for a meaningful heritage.
+- 🔄 Luke 20:31 (attempt 5, 93 words, 35.38% quotes quality score: 0.6988762731610716, V2 normalized quality score: 14.58, commentator tiers 1-3: 0.0%, 0.0%, 100.0%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 20:31 bht prompt v0.8 (80 words, 38.98% quotes)
-- quality score: 0.6675717217861017, V2 normalized quality score: 13.54, commentator tiers 1-3: 0.0%, 0.0%, 100.0%)
+- ✅ Luke 20:31 bht prompt v0.8 (82 words, 38.33% quotes)
+- quality score: 0.8469405633511773, V2 normalized quality score: 19.51, commentator tiers 1-3: 0.0%, 0.0%, 100.0%)

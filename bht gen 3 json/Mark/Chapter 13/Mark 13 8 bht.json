@@ -1,32 +1,32 @@
 {
-    "timestamp": "12-22-2023 23:27:29",
+    "timestamp": "12-25-2023 21:00:53",
     "verseRef": "Mark 13:8",
     "bestBHT": {
-        "bht": "These are the beginnings of sorrows, comparable to the pains of a woman in labor. The turmoil in the Roman world before the downfall of Jerusalem, with rival imperial claimants, further emphasizes the gravity of the situation. The troubles preceding Jerusalem's destruction were just a precursor to the impending catastrophe. Nations would rise against each other, including the Romans and the Jews. This speaks to the escalating tensions and conflicts that would ultimately lead to Jerusalem's devastating downfall.",
-        "wordCount": 80,
-        "quoteTokenProportion": 34.55,
-        "qualityScore": 0.9976184821333702,
-        "qualityScoreNormalizedComparedToV2BHTs": 24.51,
+        "bht": "The repetition of the phrase there shall be... there shall be signifies the beginning stages of sorrows, serving to emphasize the significance of these initial signs of trouble. These early tremors can be compared to the early labor pains of a woman with child, which are a mere precursor to the intense anguish that follows. The conflicts between nations, such as the Romans and Jews, as well as Tacitus' historical accounts, shed light on the convulsions that will rock the world. Through this repetition, Jesus amplifies the gravity of the impending calamities.",
+        "wordCount": 92,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.2268571490472182,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.14,
         "commentatorTierSimilarities": [
-            35.35,
+            45.33,
             0.0,
-            64.65
+            54.67
         ],
-        "generationAttempt": 4
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
             "8. there shall be... there shall be] By these repetitions majesty is given to the discourse. the beginnings;\u2014i. e. but the beginnings\u2014the mere beginnings."
         ],
         "Jamieson-Fausset-Brown": [
-            "These are the beginnings of sorrows...",
-            "of travail-pangs, to which heavy calamities are compared.",
-            "The annals of TACITUS tell us how the Roman world was convulsed, before the destruction of Jerusalem, by rival claimants of the imperial purple."
+            "These are the beginnings of sorrows.",
+            "Travail-pangs, to which heavy calamities are compared.",
+            "The annals of TACITUS tell us how the Roman world was convulsed."
         ],
         "John Gill": [
+            "For nation shall rise against nation,.... The nations of the world one against another, and the Romans against the Jews, and the Jews against them.",
             "These are the beginnings of sorrows as of a woman with child, as the word signifies; whose pains before, though they are the beginnings and pledges of what shall come after, are not to be compared with those that immediately precede, and attend the birth of the child.",
-            "And so all those troubles, which should be some time before the destruction of Jerusalem, would be but small, but light afflictions, the beginning of sorrows, in comparison of what should immediately go before, and attend that desolation.",
-            "For nation shall rise against nation,.... The nations of the world one against another, and the Romans against the Jews, and the Jews against them."
+            "And so all those troubles, which should be some time before the destruction of Jerusalem, would be but small, but light afflictions, the beginning of sorrows, in comparison of what should immediately go before, and attend that desolation."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -46,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "These are the beginnings of sorrows, like the pains of a woman in labor, which are only the beginning compared to the intense anguish that follows. The Roman world was also in turmoil before the destruction of Jerusalem, with rival claimants to the imperial throne. Thus, the troubles that would precede the fall of Jerusalem were relatively minor compared to the catastrophic events that were yet to come. Nations would rise against each other, including the Romans against the Jews and vice versa. This verse speaks to the escalating tensions and conflicts that would ultimately culminate in the destruction of Jerusalem.",
-            "wordCount": 101,
-            "quoteTokenProportion": 35.38,
-            "qualityScore": 1.1427200726124047,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.34,
+            "bht": "In Mark 13:8, Jesus speaks of the beginnings of sorrows, referring to the calamities that will occur. These early signs are compared to the early stages of a woman's labor, which while significant, cannot be compared to the intense pain during the actual birth. This imagery highlights the magnitude of the tribulations that will precede the destruction of Jerusalem, as nations go against one another and convulsions shake the Roman world. Jesus' repetition emphasizes the seriousness and weight of these events.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.200674126183593,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.27,
             "commentatorTierSimilarities": [
-                31.16,
+                42.35,
                 0.0,
-                68.84
+                57.65
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "These are the beginnings of sorrows, comparable to the pains of a woman in labor. The turmoil in the Roman world before the downfall of Jerusalem, with rival imperial claimants, further emphasizes the gravity of the situation. The troubles preceding Jerusalem's destruction were just a precursor to the impending catastrophe. Nations would rise against each other, including the Romans and the Jews. This verse points to the escalating tensions and conflicts that would eventually lead to the devastating downfall of Jerusalem.",
-            "wordCount": 82,
-            "quoteTokenProportion": 33.93,
-            "qualityScore": 1.0363301786861039,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.8,
+            "bht": "In this passage, the repeated phrase there shall be... there shall be adds a majestic tone to Jesus' discourse, emphasizing the significance of the beginnings of sorrows. These early signs of trouble are compared to the early stages of labor pains, symbolizing the lesser magnitude compared to what will follow. The imagery suggests that the troubles leading up to the destruction of Jerusalem will be mere preludes to the intense afflictions that will accompany it. The clash between nations, including the Romans and Jews, will shake the world, as we learn from Tacitus' historical accounts.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.2599162909610404,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.24,
             "commentatorTierSimilarities": [
-                33.64,
+                40.51,
                 0.0,
-                66.36
+                59.49
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "These are the beginnings of sorrows, akin to the pains of a woman in childbirth. The Roman world experienced upheaval prior to the destruction of Jerusalem, with rival claimants vying for the imperial throne. The troubles preceding Jerusalem's fall were merely the initial signs of the intense suffering that would follow. Nations would rise against each other, including the Romans and the Jews. This passage highlights the escalating conflicts and tensions that ultimately culminated in the ruinous fate of Jerusalem.",
-            "wordCount": 81,
-            "quoteTokenProportion": 28.81,
-            "qualityScore": 1.0818656464953507,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.32,
+            "bht": "The repetition of the phrase there shall be... there shall be in Mark 13:8 adds a regal tone to Jesus' words, underscoring the significance of the beginnings of sorrows. These initial signs of trouble can be compared to the early stages of labor pains, symbolic of their lesser intensity compared to the end. The mention of conflicts between nations, including the Romans and Jews, further highlights the tumultuous state of the world. Tacitus' historical accounts demonstrate the convulsions that rocked the Roman empire.",
+            "wordCount": 82,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.1124177933898511,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.33,
             "commentatorTierSimilarities": [
-                35.66,
+                47.72,
                 0.0,
-                64.34
+                52.28
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "These are the beginnings of sorrows, comparable to the pains of a woman in labor. The turmoil in the Roman world before the downfall of Jerusalem, with rival imperial claimants, further emphasizes the gravity of the situation. The troubles preceding Jerusalem's destruction were just a precursor to the impending catastrophe. Nations would rise against each other, including the Romans and the Jews. This speaks to the escalating tensions and conflicts that would ultimately lead to Jerusalem's devastating downfall.",
-            "wordCount": 80,
-            "quoteTokenProportion": 34.55,
-            "qualityScore": 0.9976184821333702,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.51,
+            "bht": "In this passage, Jesus emphasizes the significance of the beginnings of sorrow by repeating the phrase there shall be... there shall be. These initial signs of trouble are likened to the early stages of labor pains, which pale in comparison to the intense suffering that follows. The clash between nations, including the Romans and the Jews, and the historical evidence from Tacitus, indicate the convulsions and conflicts that will shake the world. The repetition in Jesus' words adds weight and importance to these forthcoming calamities.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.2047370132905004,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.4,
             "commentatorTierSimilarities": [
-                35.35,
+                44.42,
                 0.0,
-                64.65
+                55.58
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "These are the beginnings of sorrows, similar to the travail-pangs of a woman with child. The Roman world experienced convulsions prior to the destruction of Jerusalem due to rival claimants of the imperial throne. The afflictions that would precede the fall of Jerusalem were but small compared to the intense troubles that would immediately follow. Nations would rise against one another, including the Romans against the Jews. This verse alludes to the escalating conflicts and tensions that ultimately led to the desolation of Jerusalem.",
-            "wordCount": 85,
-            "quoteTokenProportion": 29.82,
-            "qualityScore": 1.1325537892818276,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.0,
+            "bht": "The repetition of the phrase there shall be... there shall be signifies the beginning stages of sorrows, serving to emphasize the significance of these initial signs of trouble. These early tremors can be compared to the early labor pains of a woman with child, which are a mere precursor to the intense anguish that follows. The conflicts between nations, such as the Romans and Jews, as well as Tacitus' historical accounts, shed light on the convulsions that will rock the world. Through this repetition, Jesus amplifies the gravity of the impending calamities.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2268571490472182,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.14,
             "commentatorTierSimilarities": [
-                31.69,
+                45.33,
                 0.0,
-                68.31
+                54.67
             ],
             "generationAttempt": 5
         }

@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:22:02",
+    "timestamp": "12-25-2023 21:16:24",
     "verseRef": "Luke 20:15",
     "bestBHT": {
-        "bht": "They cast him out of the vineyard, denying his role as the Messiah and rejecting his identity as a part of the Jewish nation. In doing so, they delivered him to the Gentiles and ultimately put him to death. He, who is the Prince of life, faced rejection and death at the hands of those who should have recognized and honored him.",
-        "wordCount": 62,
-        "quoteTokenProportion": 52.38,
-        "qualityScore": 0.9388348239561918,
-        "qualityScoreNormalizedComparedToV2BHTs": 22.56,
+        "bht": "They cast him out of the vineyard, much like how Hebrews 13:11-13 depicts the casting out of Jesus outside the camp. This rejection of Jesus as the Messiah is akin to denying his Jewish heritage, going so far as to claim he was a Samaritan. This act of killing the Prince of life and the Lord of glory, who was the rightful heir of all things, must have deeply incensed and provoked God, who had his own Son's life taken away.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.1958235892374247,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.1,
         "commentatorTierSimilarities": [
-            20.82,
+            31.21,
             0.0,
-            79.18
+            68.79
         ],
         "generationAttempt": 2
     },
@@ -21,9 +21,9 @@
             "\t1 Kings 21:13; John 19:17)."
         ],
         "John Gill": [
-            "Rejected him as the Messiah, even denied that he was of the Jewish nation.\" ",
-            "Delivered him to the Gentiles that were without, and were aliens from the commonwealth of Israel.",
-            "Put him to death, as follows: and killed him; the Prince of life, the Lord of glory, and heir of all things."
+            "Rejected him as the Messiah, even denied that he was of the Jewish nation; said he was a Samaritan, and delivered him to the Gentiles that were without...\"  ",
+            "Killed him; the Prince of life, the Lord of glory, and heir of all things...\"  ",
+            "At whose solicitations the life of his Son, and heir, was taken away; by which he must be greatly provoked and incensed."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -43,67 +43,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "They cast him out of the vineyard, denying his role as the Messiah and rejecting his identity as a part of the Jewish nation. In doing so, they delivered him to the Gentiles and ultimately put him to death. He, who is the Prince of life, the Lord of glory, and the heir of all things, faced rejection and death at the hands of those who should have recognized and honored him. (Luke 20:15; Hebrews 13:11-13; 1 Kings 21:13; John 19:17)",
-            "wordCount": 76,
-            "quoteTokenProportion": 45.1,
-            "qualityScore": 1.2566841516539504,
-            "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+            "bht": "They cast him out of the vineyard, much like how Hebrews 13:11-13 depicts the casting out of Jesus outside the camp. This rejection of Jesus as the Messiah is akin to denying his Jewish heritage, going so far as to claim he was a Samaritan. Ultimately, they handed him over to the Gentiles. This act of killing the Prince of life and the Lord of glory, who was the rightful heir of all things, must have deeply incensed and provoked God, who had his own Son's life taken away.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.1511421637068655,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.62,
             "commentatorTierSimilarities": [
-                37.39,
+                33.05,
                 0.0,
-                62.61
+                66.95
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "They cast him out of the vineyard, denying his role as the Messiah and rejecting his identity as a part of the Jewish nation. In doing so, they delivered him to the Gentiles and ultimately put him to death. He, who is the Prince of life, faced rejection and death at the hands of those who should have recognized and honored him.",
-            "wordCount": 62,
-            "quoteTokenProportion": 52.38,
-            "qualityScore": 0.9388348239561918,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.56,
+            "bht": "They cast him out of the vineyard, much like how Hebrews 13:11-13 depicts the casting out of Jesus outside the camp. This rejection of Jesus as the Messiah is akin to denying his Jewish heritage, going so far as to claim he was a Samaritan. This act of killing the Prince of life and the Lord of glory, who was the rightful heir of all things, must have deeply incensed and provoked God, who had his own Son's life taken away.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1958235892374247,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.1,
             "commentatorTierSimilarities": [
-                20.82,
+                31.21,
                 0.0,
-                79.18
+                68.79
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "They cast him out of the vineyard, rejecting him as the Messiah and denying his Jewish heritage. They delivered him to the Gentiles, who were outsiders to the commonwealth of Israel, ultimately putting him to death. He, who was the Prince of life, the Lord of glory, and the heir of all things, was treated with such contempt and hostility. (57 words)",
-            "wordCount": 61,
-            "quoteTokenProportion": 39.02,
-            "qualityScore": 0.9656114400831133,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.45,
+            "bht": "They cast him out of the vineyard, much like how Hebrews 13:11-13 depicts the casting out of Jesus outside the camp. This rejection of Jesus as the Messiah is akin to denying his Jewish heritage, going so far as to claim he was a Samaritan. This act of killing the Prince of life and the Lord of glory, who was the rightful heir of all things, must have deeply incensed and provoked God, who had his own Son's life taken away.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1958235892374247,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.1,
             "commentatorTierSimilarities": [
-                27.61,
+                31.21,
                 0.0,
-                72.39
+                68.79
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "They cast him out of the vineyard, rejecting him as the Messiah, even denying that he was of the Jewish nation. They delivered him to the Gentiles that were without, and were aliens from the commonwealth of Israel, ultimately putting him to death, as follows: and killed him; the Prince of life, the Lord of glory, and heir of all things. (46 words)",
-            "wordCount": 62,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.0086322983248102,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.88,
+            "bht": "They cast him out of the vineyard, just as Hebrews 13:11-13 illustrates the expulsion of Jesus outside the camp. This rejection, denying his Jewish lineage, even claiming him to be a Samaritan, led to his delivery to the Gentiles. The profound offense committed by killing the Prince of life, the Lord of glory and rightful heir, inevitably provoked and angered God. This act of taking away the life of his own Son would certainly have stirred great indignation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 0.969413579843637,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.58,
             "commentatorTierSimilarities": [
-                24.56,
+                26.47,
                 0.0,
-                75.44
+                73.53
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "They cast him out of the vineyard, rejecting him as the Messiah and denying his Jewish heritage. They delivered him to the Gentiles, who were outsiders to the commonwealth of Israel, ultimately putting him to death. He, who was the Prince of life, the Lord of glory, and heir of all things, was treated with contempt. (42 words)",
-            "wordCount": 57,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 0.9586719774990231,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.22,
+            "bht": "Jesus was cast out of the vineyard, reminiscent of the account in Hebrews 13:11-13 where he was also expelled outside the camp. This act of rejection involved denying his Jewish heritage, even going as far as accusing him of being a Samaritan. Ultimately, he was handed over to the Gentiles. The gravity of the situation cannot be understated \u2014 the killing of the Prince of life, the Lord of glory, and the rightful heir of all things would have surely provoked and incensed God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.0119418635129604,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.99,
             "commentatorTierSimilarities": [
-                25.66,
+                30.41,
                 0.0,
-                74.34
+                69.59
             ],
             "generationAttempt": 5
         }

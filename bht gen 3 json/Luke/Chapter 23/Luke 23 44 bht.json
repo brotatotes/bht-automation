@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:23:32",
+    "timestamp": "12-25-2023 21:00:46",
     "verseRef": "Luke 23:44",
     "bestBHT": {
-        "bht": "Around midday, darkness descended upon the earth, shrouding both the upper and lower hemispheres. The sun was concealed, resulting in a profound darkness that covered the entire land. This momentous occurrence, which transpired during the crucifixion of Jesus, highlighted the tremendous significance of this event in history. This darkness was not a natural phenomenon but a purposeful act of symbolism, representing the immense weight and magnitude of Jesus' sacrifice on the cross.",
-        "wordCount": 72,
-        "quoteTokenProportion": 30.77,
-        "qualityScore": 0.720627332156744,
-        "qualityScoreNormalizedComparedToV2BHTs": 15.31,
+        "bht": "Around midday, a remarkable darkness blanketed the entire earth. This darkness obscured the sun and created an extraordinary gloom that lasted for about three hours. Notably, even the moon lacked its customary brightness due to its opposition to the sun during this period. It is crucial to understand that this significant darkness is directly linked to the crucifixion of Jesus, indicating the profound impact and importance of this momentous event.",
+        "wordCount": 70,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 0.9215743340545286,
+        "qualityScoreNormalizedComparedToV2BHTs": 21.99,
         "commentatorTierSimilarities": [
-            31.75,
+            42.81,
             0.0,
-            68.25
+            57.19
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -46,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "At around midday, darkness fell upon the earth, enveloping both the upper and lower hemispheres. The sun was obscured, causing a profound darkness that reached across the land. This event, described in the Gospel of Luke, took place during the crucifixion of Jesus, further emphasizing the significance of this moment in history. This darkness was not a mere natural occurrence but a deeply symbolic event, representing the weight and magnitude of Jesus' sacrifice on the cross.",
-            "wordCount": 76,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.7532626701647711,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.39,
+            "bht": "At about noon, darkness covered the earth, obscuring the sun and creating an eerie darkness that lasted until about 3:00 pm. This darkness was not limited to the physical realm, as the moon also lost its light during this time. It is worth noting that the darkness mentioned here is in reference to the crucifixion of Jesus.",
+            "wordCount": 56,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 0.8581621264757653,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.88,
             "commentatorTierSimilarities": [
-                32.7,
+                31.55,
                 0.0,
-                67.3
+                68.45
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Around midday, darkness descended upon the earth, shrouding both the upper and lower hemispheres. The sun was concealed, resulting in a profound darkness that covered the entire land. This momentous occurrence, which transpired during the crucifixion of Jesus, highlighted the tremendous significance of this event in history. This darkness was not a natural phenomenon but a purposeful act of symbolism, representing the immense weight and magnitude of Jesus' sacrifice on the cross.",
-            "wordCount": 72,
-            "quoteTokenProportion": 30.77,
-            "qualityScore": 0.720627332156744,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.31,
+            "bht": "Around midday, darkness enveloped the entire earth, overshadowing the sun and causing a profound obscurity that lasted for approximately three hours. This remarkable event also affected the moon, which, being in opposition to the sun, remained devoid of its usual radiance. Notably, the darkness mentioned here is in connection to the crucifixion of Jesus, a momentous and significant occurrence.",
+            "wordCount": 59,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 0.8277462062712961,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.87,
             "commentatorTierSimilarities": [
-                31.75,
+                37.69,
                 0.0,
-                68.25
+                62.31
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "At approximately midday, darkness blanketed the earth, enveloping both the upper and lower hemispheres. The sun was obscured, causing a deep darkness that covered the entire land. This remarkable event occurred during the crucifixion of Jesus, serving as a powerful testament to the profound significance of this moment in history. It was not a natural occurrence, but rather a deliberate and symbolic act, representing the immense gravity and impact of Jesus' sacrificial death on the cross.",
-            "wordCount": 76,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 0.6567812030699094,
-            "qualityScoreNormalizedComparedToV2BHTs": 13.18,
+            "bht": "The darkness that fell over all the earth at about noon was an extraordinary phenomenon, completely obscuring the sun and enveloping the world in a profound gloom that lasted for around three hours. Even the moon, in its opposition to the sun, was devoid of its usual luminosity during this time. This enigmatic darkness, associated with the crucifixion of Jesus, signifies the momentous nature of this event.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 0.7709181826778748,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.98,
             "commentatorTierSimilarities": [
-                29.96,
+                31.78,
                 0.0,
-                70.04
+                68.22
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Around midday, darkness fell and covered the entire earth, concealing the sun's light. This remarkable event, occurring during the crucifixion of Jesus, held immense symbolism, signifying the weight and magnitude of His sacrificial death on the cross. The darkness was not a natural phenomenon but a deliberate and purposeful act that underscored the profound significance of this pivotal moment in history. It serves as a powerful testament to the depth of Jesus' love and the magnitude of His redemptive work.",
-            "wordCount": 81,
-            "quoteTokenProportion": 28.81,
-            "qualityScore": 0.60082735859733,
-            "qualityScoreNormalizedComparedToV2BHTs": 11.32,
+            "bht": "Around midday, a remarkable darkness blanketed the entire earth. This darkness obscured the sun and created an extraordinary gloom that lasted for about three hours. Notably, even the moon lacked its customary brightness due to its opposition to the sun during this period. It is crucial to understand that this significant darkness is directly linked to the crucifixion of Jesus, indicating the profound impact and importance of this momentous event.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 0.9215743340545286,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.99,
             "commentatorTierSimilarities": [
-                30.58,
+                42.81,
                 0.0,
-                69.42
+                57.19
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Around midday, darkness covered the earth, concealing the sun's light. This remarkable event, during the crucifixion of Jesus, held immense symbolism, signifying the weight and magnitude of His sacrificial death on the cross. This darkness was a deliberate act, emphasizing the profound significance of this pivotal moment. It serves as a powerful testament to Jesus' love and redemptive work.",
-            "wordCount": 60,
-            "quoteTokenProportion": 27.66,
-            "qualityScore": 0.6264454926641894,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.17,
+            "bht": "At about noon, darkness covered the earth, obscuring the sun and creating an eerie gloom that lasted for approximately three hours. This darkness was not limited to the physical realm, as even the moon lost its radiance due to its opposition to the sun during this time. It is important to recognize that this profound darkness is associated with the crucifixion of Jesus, emphasizing the significance and magnitude of this pivotal event.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 0.8356638334702553,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.13,
             "commentatorTierSimilarities": [
-                38.04,
+                31.67,
                 0.0,
-                61.96
+                68.33
             ],
             "generationAttempt": 5
         }

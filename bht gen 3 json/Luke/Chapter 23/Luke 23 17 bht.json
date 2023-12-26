@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:23:17",
+    "timestamp": "12-25-2023 21:16:22",
     "verseRef": "Luke 23:17",
     "bestBHT": {
-        "bht": "During the Passover feast, it was customary to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, sheds light on the context and provides a deeper understanding of the governor's offer to release a prisoner to the crowd.",
-        "wordCount": 52,
-        "quoteTokenProportion": 44.74,
-        "qualityScore": 0.6376166778959726,
-        "qualityScoreNormalizedComparedToV2BHTs": 12.55,
+        "bht": "In this narrative, we encounter the necessity of releasing a prisoner during the Passover feast. Although not legally mandated, it had become an indispensable custom, as affirmed by various versions of the Bible. Understanding the weight of this tradition enhances our comprehension of the cultural backdrop and the significance of the feast. For deeper insights, refer to the accompanying notes at Matthew 27:15. The vital role of this custom highlights the intrinsic meaning and importance underlying these events during the annual Passover celebration.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 0.7896307594015908,
+        "qualityScoreNormalizedComparedToV2BHTs": 17.6,
         "commentatorTierSimilarities": [
             0.0,
-            1.37,
-            98.63
+            62.14,
+            37.86
         ],
         "generationAttempt": 4
     },
@@ -19,9 +19,9 @@
             "See the notes at Matthew 27:15."
         ],
         "John Gill": [
-            "Custom had made it necessary.",
-            "It was a custom to release.",
-            "Not at each feast, or every feast, only at the passover."
+            "For of necessity he must release one....custom had made it necessary.",
+            "Not that there was any law that obliged to it, but it having been customary.",
+            "Custom had made it necessary: and so the Syriac, Arabic, and Persic versions render it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -41,67 +41,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Custom dictated that during the Passover feast, it was customary for the governor to release a prisoner of the people's choosing. This tradition had become a necessary part of the celebration, happening not at every feast, but specifically during the Passover. This sheds light on the context of Luke 23:17, providing a deeper understanding of the significance of Pilate's offer to release a prisoner to the crowd.",
-            "wordCount": 68,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.4312443401636548,
-            "qualityScoreNormalizedComparedToV2BHTs": 5.68,
+            "bht": "In Luke 23:17, we see the mention of a custom where a prisoner would be released during the Passover feast. This custom, although not a legal requirement, had become a necessity due to tradition. The Syriac, Arabic, and Persic versions also interpret it as a necessary custom. This highlights the significance and weight of this tradition in the context of the Passover feast. To further explore this theme, one can refer to the notes at Matthew 27:15 for additional insights.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 0.7481275732218875,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.22,
             "commentatorTierSimilarities": [
                 0.0,
-                -4.34,
-                104.34
+                41.5,
+                58.5
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During the Passover feast, it was customary for the governor to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, held great significance. It provides valuable context for understanding the governor's offer to release a prisoner to the crowd in the verse.",
-            "wordCount": 56,
-            "quoteTokenProportion": 41.03,
-            "qualityScore": 0.5876444858480929,
-            "qualityScoreNormalizedComparedToV2BHTs": 10.88,
+            "bht": "In this particular passage, we learn about the necessity of releasing a prisoner during the Passover feast. It was not a legal obligation, but rather a custom that had been established and deemed necessary. The Syriac, Arabic, and Persic versions of the Bible also emphasize the importance of this custom. By understanding the significance and weight of this tradition, we gain insight into the cultural context and the deeper meaning behind the events that unfold during the Passover feast. For further insights, one can refer to the notes provided at Matthew 27:15.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 0.9114598127409848,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.65,
             "commentatorTierSimilarities": [
                 0.0,
-                11.58,
-                88.42
+                55.2,
+                44.8
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "During the Passover feast, it was customary for the governor to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, held great significance. It sheds light on the context, providing a deeper understanding of the governor's offer to release a prisoner to the crowd.",
-            "wordCount": 58,
-            "quoteTokenProportion": 41.46,
-            "qualityScore": 0.5078812524791128,
-            "qualityScoreNormalizedComparedToV2BHTs": 8.23,
+            "bht": "In this verse, we discover the necessity of releasing a prisoner during the Passover feast. Although not legally required, it had become a crucial custom, as denoted by the Syriac, Arabic, and Persic versions. Understanding the significance of this tradition deepens our understanding of the cultural context and the events surrounding the feast. For additional insights, consult the accompanying notes at Matthew 27:15. The importance of this custom sheds light on the underlying meaning and importance of these events during the annual Passover celebration.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 0.8566754731115602,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.83,
             "commentatorTierSimilarities": [
                 0.0,
-                3.19,
-                96.81
+                59.19,
+                40.81
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "During the Passover feast, it was customary to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, sheds light on the context and provides a deeper understanding of the governor's offer to release a prisoner to the crowd.",
-            "wordCount": 52,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 0.6376166778959726,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.55,
+            "bht": "In this narrative, we encounter the necessity of releasing a prisoner during the Passover feast. Although not legally mandated, it had become an indispensable custom, as affirmed by various versions of the Bible. Understanding the weight of this tradition enhances our comprehension of the cultural backdrop and the significance of the feast. For deeper insights, refer to the accompanying notes at Matthew 27:15. The vital role of this custom highlights the intrinsic meaning and importance underlying these events during the annual Passover celebration.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 0.7896307594015908,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.6,
             "commentatorTierSimilarities": [
                 0.0,
-                1.37,
-                98.63
+                62.14,
+                37.86
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "During the Passover feast, it was customary to release a prisoner, as custom had made it necessary. This unique tradition sheds light on the context and provides a deeper understanding of the governor's offer to release a prisoner to the crowd during this specific occasion.",
-            "wordCount": 46,
-            "quoteTokenProportion": 38.24,
-            "qualityScore": 0.45586324232272263,
-            "qualityScoreNormalizedComparedToV2BHTs": 6.5,
+            "bht": "In this account, we witness the enforced release of a prisoner during the Passover observance. Despite lacking legal obligations, it had become an essential customary practice, as affirmed by various Bible translations. Appreciating the significance of this tradition enriches our understanding of the cultural context and the symbolism embedded within the feast. For further illumination, consult the annotations provided for Matthew 27:15. The mandatory nature of this custom underscores its underlying significance and profound relevance to the annual Passover celebration.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 0.7068212935503735,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.85,
             "commentatorTierSimilarities": [
                 0.0,
-                -15.01,
-                115.01
+                55.55,
+                44.45
             ],
             "generationAttempt": 5
         }

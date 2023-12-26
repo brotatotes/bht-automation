@@ -1,34 +1,32 @@
 {
-    "timestamp": "12-19-2023 16:21:02",
+    "timestamp": "12-25-2023 21:16:29",
     "verseRef": "Luke 17:28",
     "bestBHT": {
-        "bht": "The days of Lot are presented as an example in this portion of scripture, demonstrating the Lord's affirmation of another part of the sacred record. This serves as a response to the skepticism prevalent in modern times, as doubts have been cast upon the authenticity of the Bible. Pay attention to the contrast between the imperfects and aorists used here, as they convey the ongoing actions of eating, drinking, buying, selling, and planting. These details offer valuable insights into the way of life during the days of Lot.",
-        "wordCount": 89,
-        "quoteTokenProportion": 34.92,
-        "qualityScore": 0.855944791866692,
-        "qualityScoreNormalizedComparedToV2BHTs": 19.8,
+        "bht": "The example of the days of Lot reveals the support given by the Lord of Truth to another part of the sacred record, standing against modern skepticism. The contrast between the imperfects and aorists emphasizes the significance of these events. The people during Lot's time lacked compassion for the poor and oppressed, yet lived in peace and abundance in a fertile land.",
+        "wordCount": 63,
+        "quoteTokenProportion": 32.61,
+        "qualityScore": 1.0299719483879277,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.59,
         "commentatorTierSimilarities": [
-            93.7,
+            56.85,
             0.0,
-            6.3
+            43.15
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Henry Alford": [
-            "The example of the days of Lot is added here",
-            "the sanction of the Lord of Truth given to another part of the sacred record",
-            "modern scepticism has laid its unhallowed hands"
+            "The example of the days of Lot is added here.",
+            "The sanction of the Lord of Truth given to another part of the sacred record.",
+            "Modern skepticism has laid its unhallowed hands."
         ],
         "Archibald T. Robertson": [
-            "Note the same sharp contrast between the imperfects here and the aorists in verse Luke 17:29.\" ",
-            "(\u2026) the imperfects here (\u2026) and the aorists in verse Luke 17:29.\" ",
-            "The imperfects here (\u2026) and the aorists in verse Luke 17:29."
+            "Note the same sharp contrast between the imperfects here (ate \u03b7\u03c3\u03b8\u03b9\u03bf\u03bd, drank \u03b5\u03c0\u03b9\u03bd\u03bf\u03bd, bought \u03b7\u03b3\u03bf\u03c1\u03b1\u03b6\u03bf\u03bd, sold \u03b5\u03c0\u03c9\u03bb\u03bf\u03c5\u03bd, planted \u03b5\u03c6\u03c5\u03c4\u03b5\u03c5\u03bf\u03bd, builded \u03c9\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03bf\u03c5\u03bd) and the aorists in verse Luke 17:29 (went out \u03b5\u03be\u03b7\u03bb\u03b8\u03b5\u03bd, rained \u03b5\u03b2\u03c1\u03b5\u03be\u03b5\u03bd, destroyed \u03b1\u03c0\u03c9\u03bb\u03b5\u03c3\u03b5\u03bd)."
         ],
         "John Gill": [
-            "they did eat, they drank\" - ",
-            "they bought, they sold: they traded among themselves, and with their neighbors",
-            "they planted; vineyards, and fruit trees"
+            "They had no regard to the poor and needy; they made no conscience of defrauding and oppressing them.\" ",
+            "Living in a very fruitful soil, like the garden of God.",
+            "Being filled with the increase of the earth, they lived in security, peace, and tranquillity."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -48,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 17:28, the example of the days of Lot is given as a reference, serving as the Lord of Truth's approval of another part of the sacred record. This is particularly important in light of modern skepticism that has disregarded the authenticity of the Bible. It's worth noting the sharp contrast between the imperfects used in this verse and the aorists in verse 29. The imperfects signify continuous actions, such as eating, drinking, buying, selling, and planting, which provide insight into the lifestyle and activities of the people during the days of Lot.",
-            "wordCount": 94,
-            "quoteTokenProportion": 31.67,
-            "qualityScore": 1.0383095372227817,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.87,
+            "bht": "In Luke 17:28, the example of the days of Lot is added as a sanction by the Lord of Truth to another part of the sacred record. Modern skepticism has cast doubt on these events, but the contrast between the imperfects and the aorists in this verse is noteworthy. The people in the days of Lot lacked regard for the poor and needy and made no conscience of defrauding and oppressing them. Living in a fruitful land, they enjoyed security, peace, and tranquillity, being filled with the increase of the earth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.235560566036699,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.43,
             "commentatorTierSimilarities": [
-                93.25,
+                41.82,
                 0.0,
-                6.75
+                58.18
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The example of the days of Lot is added here, indicating the Lord's endorsement of another part of the sacred record. This serves as a response to modern skepticism that has dismissed the Bible. Note the contrast between the imperfects in this passage and the aorists in the subsequent section, highlighting continuous actions such as eating, drinking, buying, selling, and planting. These details provide valuable insights into the lifestyle and activities of the people during the days of Lot.",
-            "wordCount": 80,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.8881319226010671,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.87,
+            "bht": "The example of the days of Lot in this passage serves as a sanction from the Lord of Truth to another part of the sacred record, countering the doubts sown by modern skepticism. The sharp contrast between the imperfects and the aorists emphasizes the significance of the events described. The people during Lot's time lacked compassion for the poor and oppressed but lived in peace, security, and prosperity in a fruitful land.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.1336891391018826,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.04,
             "commentatorTierSimilarities": [
-                85.25,
+                56.59,
                 0.0,
-                14.75
+                43.41
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The days of Lot are presented as an example in this portion of scripture, demonstrating the Lord's affirmation of another part of the sacred record. This serves as a response to the skepticism prevalent in modern times, as doubts have been cast upon the authenticity of the Bible. Pay attention to the contrast between the imperfects and aorists used here, as they convey the ongoing actions of eating, drinking, buying, selling, and planting. These details offer valuable insights into the way of life during the days of Lot.",
-            "wordCount": 89,
-            "quoteTokenProportion": 34.92,
-            "qualityScore": 0.855944791866692,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.8,
+            "bht": "The days of Lot are referred to here, showcasing the sanction provided by the Lord of Truth to a different part of the sacred record, countering the skepticism of our time. The sharp contrast stands out between the imperfects and aorists, highlighting the importance of these events. The people during Lot's time lacked compassion for the needy, while living peacefully and prosperously in a fertile land.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.003807433570629,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.72,
             "commentatorTierSimilarities": [
-                93.7,
+                63.03,
                 0.0,
-                6.3
+                36.97
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The Lord references the days of Lot, approving another part of the sacred record and countering modern skepticism. The contrast between the imperfects and aorists is notable, highlighting continuous actions such as eating, drinking, buying, selling, and planting. These actions provide insights into the daily lives and activities of the people during the days of Lot.",
-            "wordCount": 56,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 0.8497357343024408,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.6,
+            "bht": "The example of the days of Lot is exhibited in this particular verse, presenting the support given by the Lord of Truth to another segment of the sacred record, in response to the doubts raised by contemporary skepticism. The noteworthy distinction between the imperfects and the aorists emphasizes the significance of the described events. In the days of Lot, the people displayed a lack of concern for the impoverished and oppressed, while enjoying a life of security, peace, and abundance in a fertile land.",
+            "wordCount": 84,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.0217424315675672,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.32,
             "commentatorTierSimilarities": [
-                63.89,
+                60.65,
                 0.0,
-                36.11
+                39.35
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The Lord's approval of another part of the sacred record, the days of Lot, serves as a response to modern skepticism that questions the authenticity of the Bible. The contrast between the imperfects and aorists in this passage is significant, as it highlights continuous actions like eating, drinking, buying, selling, and planting. These actions offer valuable insights into the lifestyle and activities of the people during the days of Lot.",
-            "wordCount": 71,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.8275035605002424,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.86,
+            "bht": "The example of the days of Lot reveals the support given by the Lord of Truth to another part of the sacred record, standing against modern skepticism. The contrast between the imperfects and aorists emphasizes the significance of these events. The people during Lot's time lacked compassion for the poor and oppressed, yet lived in peace and abundance in a fertile land.",
+            "wordCount": 63,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.0299719483879277,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.59,
             "commentatorTierSimilarities": [
-                82.62,
+                56.85,
                 0.0,
-                17.38
+                43.15
             ],
             "generationAttempt": 5
         }

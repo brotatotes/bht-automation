@@ -147,7 +147,8 @@ data['commentator_tier_similarities'] = []
 data['v2_tiers'] = []
 data['v3_tiers'] = []
 
-folder = f'gpt output/bht/json/{choicest_prompt} X {bht_prompt}'
+# folder = f'gpt output/bht/json/{choicest_prompt} X {bht_prompt}'
+folder = f'bht gen 3 json'
 for verse_ref, v2_score in verses_and_scores:
     book, chapter, verse = get_book_chapter_verse(verse_ref)
     v3_path = f'{folder}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.json'

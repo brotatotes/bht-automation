@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-22-2023 23:20:36",
+    "timestamp": "12-25-2023 21:00:55",
     "verseRef": "Mark 2:11",
     "bestBHT": {
-        "bht": "The emphasis is on Jesus turning to the paralytic and addressing him, demonstrating compassion and intentionality. By instructing the man to take up his bed and go home, Jesus not only showed the completeness of the cure but also empowered him to reintegrate into society. It was an authoritative command given in the presence of all the people, proving the extent of the healing. Through this act, Jesus encouraged the man to return to his family and friends, sharing the good news of his restoration.",
-        "wordCount": 85,
-        "quoteTokenProportion": 40.68,
-        "qualityScore": 0.9657041397002029,
-        "qualityScoreNormalizedComparedToV2BHTs": 23.45,
+        "bht": "The focus of this instruction is on the individual receiving the healing, with Mark repeatedly using this language throughout his Gospel. The action of taking up the portable bed and walking home demonstrates the completeness of the cure, signifying the transformative power of Jesus' healing. This act serves as a tangible proof of physical and spiritual restoration, enabling the person to reintegrate into their community and resume their daily activities. Additionally, it allows them to show their renewed state of well-being to their family and friends.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.0925695597869975,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.67,
         "commentatorTierSimilarities": [
-            35.75,
+            57.67,
             0.0,
-            64.25
+            42.33
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Henry Alford": [
             "The stress is on thee.\" ",
-            "The words are precisely those used, as so often in Mark,\u2014and denote the turning to the paralytic and addressing him.",
+            "The words are precisely those used, as so often in Mark.\" ",
             "There may have been something in his state, which required the emphatic address."
         ],
         "Jamieson-Fausset-Brown": [
-            "This taking up the portable couch",
-            "was designed to prove the completeness of the cure.",
-            "Go thy way into thine house"
+            "This taking up the portable couch, and walking home with it, was designed to prove the completeness of the cure.",
+            "Arise, and take up thy bed, and go thy way into thine house\u2014This taking up the portable couch, and walking home with it, was designed to prove the completeness of the cure.",
+            "This taking up the portable couch, and walking home with it, was designed to prove the completeness of the cure."
         ],
         "John Gill": [
-            "He bid him, in an authoritative way to arise from his bed, in which he was brought, and on which he lay before him, and take it up upon his shoulders, directly, and in the face of all the people, carry it away.",
-            "To show himself whole to his family and friends, and go about his business.",
-            "Go thy way into thine house."
+            "He bid him, in an authoritative way to arise from his bed... and in the face of all the people, carry it away.\" ",
+            "to show himself whole to his family and friends...",
+            "and go about his business..."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -48,67 +48,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The emphasis of this verse is on the turning to the paralytic and addressing him. This shows the compassion and intentionality of Jesus towards the man's condition. By instructing him to take up his bed and go home, Jesus not only demonstrated the completeness of the cure but also empowered the man to reintegrate into society and resume his normal life. It was an authoritative command, given in the presence of all the people, to show the extent of the healing. Through this act, Jesus encouraged the man to go back to his family and friends, sharing the good news of his restoration.",
-            "wordCount": 104,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 0.8821105182166069,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.67,
+            "bht": "The emphasis in this verse is on the person that Jesus is addressing, highlighting the individual's involvement and responsibility in the healing process. This phrase, Arise, and take up thy bed, and go thy way into thine house, is a recurring theme in Mark's Gospel, showing the completeness of the cure. The act of taking up the portable bed and walking home with it is significant as it proves the transformative power of Jesus' healing. It is a demonstration of both physical and spiritual wholeness, allowing the person to reintegrate into their community and resume their daily activities.",
+            "wordCount": 100,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.1337082190389598,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.04,
             "commentatorTierSimilarities": [
-                35.7,
+                67.01,
                 0.0,
-                64.3
+                32.99
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The emphasis is on Jesus turning to the paralytic and addressing him, demonstrating compassion and intentionality. By instructing the man to take up his bed and go home, Jesus not only showed the completeness of the cure but also empowered him to reintegrate into society. It was an authoritative command given in the presence of all the people, proving the extent of the healing. Through this act, Jesus encouraged the man to return to his family and friends, sharing the good news of his restoration.",
+            "bht": "The emphasis of the healing in this passage lies in the direct address to the person, showing their active participation. Mark uses this language repeatedly in his Gospel. Taking up the portable bed and walking home with it is a powerful symbol of the complete cure. The act serves as proof of the transformative power of Jesus' healing, encompassing both physical and spiritual restoration. It enables the person to reintegrate into their community and resume their daily activities, showcasing their wholeness before family and friends.",
             "wordCount": 85,
-            "quoteTokenProportion": 40.68,
-            "qualityScore": 0.9657041397002029,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.45,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.046400814009459,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.14,
             "commentatorTierSimilarities": [
-                35.75,
+                59.89,
                 0.0,
-                64.25
+                40.11
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The emphasis is on Jesus turning to the paralytic and addressing him directly. This shows both the compassion and intention behind his words. By instructing the man to take up his bed and go home, Jesus not only demonstrates the completeness of the cure but also empowers him to reintegrate into society. It is an authoritative command, given in the presence of all the people, to show the extent of the healing. Through this act, Jesus encourages the man to return to his family and friends and resume his normal life.",
-            "wordCount": 91,
-            "quoteTokenProportion": 42.62,
-            "qualityScore": 0.9531542131494739,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.04,
+            "bht": "The focus of this instruction is on the individual receiving the healing, with Mark repeatedly using this language throughout his Gospel. The action of taking up the portable bed and walking home demonstrates the completeness of the cure, signifying the transformative power of Jesus' healing. This act serves as a tangible proof of physical and spiritual restoration, enabling the person to reintegrate into their community and resume their daily activities. Additionally, it allows them to show their renewed state of well-being to their family and friends.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.0925695597869975,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.67,
             "commentatorTierSimilarities": [
-                35.43,
+                57.67,
                 0.0,
-                64.57
+                42.33
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The emphasis in this passage lies in the turning of Jesus to the paralytic and addressing him directly. This highlights both the compassion and intentionality of Jesus towards the man's condition. By instructing him to take up his bed and go home, Jesus not only exhibits the completeness of the cure but also empowers the man to reintegrate into society. This command, given in front of the onlooking crowd, exemplifies the extent of the healing. Ultimately, Jesus encourages the man to return to his household and share the news of his restoration.",
-            "wordCount": 93,
-            "quoteTokenProportion": 35.09,
-            "qualityScore": 0.8549176252926282,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.77,
+            "bht": "The emphasis in this verse is on the individual, symbolizing their active participation in the healing process. Mark uses this language repeatedly throughout his Gospel. Taking up the portable couch and walking home with it is a powerful display of the completeness of the cure. This action serves as visible proof of the transformative power of Jesus' healing, encompassing both physical and spiritual restoration. It allows the person to reintegrate into their community, showcasing their newfound wholeness to their family and friends.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.094370165494105,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.73,
             "commentatorTierSimilarities": [
-                38.09,
+                58.02,
                 0.0,
-                61.91
+                41.98
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The emphasis is on Jesus turning to the paralytic and addressing him directly. This demonstrates both compassion and intentionality towards the man's condition. Instructing him to take up his bed and go home, Jesus showcases the completeness of the cure and empowers the man to reintegrate into society. This authoritative command, witnessed by all, highlights the extent of the healing. Jesus encourages the man to return to his household and share the news of his restoration with family and friends.",
-            "wordCount": 81,
-            "quoteTokenProportion": 33.96,
-            "qualityScore": 0.8888553138423425,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.9,
+            "bht": "The focus of this instruction is on the individual, with Mark frequently using this language. Taking up the portable bed and walking home is a powerful symbol of the complete cure, demonstrating the transformative power of Jesus' healing. It serves as tangible proof of physical and spiritual restoration, allowing the person to reintegrate into their community and resume their daily activities. Furthermore, it provides an opportunity for the person to exhibit their well-being to their family and friends.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.0658736527617572,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.78,
             "commentatorTierSimilarities": [
-                36.33,
+                53.44,
                 0.0,
-                63.67
+                46.56
             ],
             "generationAttempt": 5
         }

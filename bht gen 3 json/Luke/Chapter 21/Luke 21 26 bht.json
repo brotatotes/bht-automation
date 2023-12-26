@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-19-2023 16:22:35",
+    "timestamp": "12-25-2023 20:59:31",
     "verseRef": "Luke 21:26",
     "bestBHT": {
-        "bht": "In the face of unprecedented events, men will be overwhelmed with fear, causing their hearts to fail and their spirits to expire. The anticipation of what is to come, the trembling of the world and the shaking of the powers of heaven, leaves them in a state of breathlessness. The very expectation of these events, the looking forward to the upheaval that will impact the entire inhabited earth, weighs heavily on their souls and fills them with trepidation.",
-        "wordCount": 78,
-        "quoteTokenProportion": 33.33,
-        "qualityScore": 0.9572979506664341,
-        "qualityScoreNormalizedComparedToV2BHTs": 23.17,
+        "bht": "As the world shakes, people will faint out of fear. The word used for fainting originally means to leave off breathing or to swoon. This is exemplified by the description of Hector being dragged behind Achilles' chariot, where he breathed out his life. This conveys the intense fear and distress that will be experienced. The anticipation of the impending events adds to the intensity, as men's hearts fail them. The phrase the world refers to the inhabited earth, underscoring the widespread impact of this shaking.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.0118839356136904,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.99,
         "commentatorTierSimilarities": [
-            36.27,
+            53.33,
             0.0,
-            63.73
+            46.67
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Failing [\u03b1\u03c0\u03bf\u03c8\u03c5\u03c7\u03bf\u03bd\u03c4\u03c9\u03bd]. Only here in New Testament. The word originally means to leave off breathing; to swoon.",
-            "So also Sophocles, of Hector dragged behind Achilles' chariot: 'He breathed out his life [\u03b1\u03c0\u03b5\u03c8\u03c5\u03be\u03b5\u03bd \u03b2\u03b9\u03bf\u03bd].' Ajax, 1031.",
-            "Shall be shaken [\u03c3\u03b1\u03bb\u03b5\u03c5\u03b8\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9]. Compare Matthew 11:7; Luke 6:38; Acts 4:31; Hebrews 12:26, Hebrews 12:27. The root of the verb is the same as that of billows, ver 25."
+            "The word originally means to leave off breathing; to swoon.",
+            "So also Sophocles, of Hector dragged behind Achilles' chariot: 'He breathed out his life.'\" ",
+            "The world shall be shaken."
         ],
         "Archibald T. Robertson": [
-            "Men fainting (\u03b1\u03c0\u03bf\u03c8\u03c5\u03c7\u03bf\u03bd\u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd). Genitive absolute of \u03b1\u03c0\u03bf\u03c8\u03c5\u03c7\u03c9, to expire, to breathe off or out.\" ",
-            "Expectation (\u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03b9\u03b1\u03c2). Old word from \u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03b1\u03c9, to look for or towards. In the N.T. only here and Acts 12:11.",
+            "Men fainting (\u03b1\u03c0\u03bf\u03c8\u03c5\u03c7\u03bf\u03bd\u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd). Genitive absolute of \u03b1\u03c0\u03bf\u03c8\u03c5\u03c7\u03c9, to expire, to breathe off or out. Old word. Here only in N.T.\" ",
+            "Expectation (\u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03b9\u03b1\u03c2). Old word from \u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03b1\u03c9, to look for or towards. In the N.T. only here and Acts 12:11.\" ",
             "The world (\u03c4\u03b7 \u03bf\u03b9\u03ba\u03bf\u03c5\u03bc\u03b5\u03bd\u03b7). Dative case, 'the inhabited' (earth, \u03b3\u03b7)."
         ],
         "John Gill": [
-            "Men's hearts failing them for fear...\".",
-            "For looking after those things which are coming on the earth...",
-            "For the powers of heaven shall be shaken."
+            "Men's hearts failing them for fear...",
+            "and for looking after those things which are coming on the earth...",
+            "for the powers of heaven shall be shaken..."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -48,67 +48,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Men will faint with fear as they experience the overwhelming events that will unfold. This isn't just a temporary weakness or a momentary swooning, but a complete loss of breath as they face the terrifying reality of the world shaking around them. It's the expectation of what is coming that causes their hearts to fail, for the entire inhabited earth will be affected by these unprecedented events. The powers of heaven themselves will be shaken, further intensifying the fear and uncertainty that grips the hearts of men.",
-            "wordCount": 89,
-            "quoteTokenProportion": 40.62,
-            "qualityScore": 0.9240802495476688,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.07,
+            "bht": "In Luke 21:26, it is said that men will faint out of fear as the world shakes. The word used for fainting originally means to leave off breathing or to swoon, like when Hector was dragged behind Achilles' chariot and 'breathed out his life.' This signifies the magnitude of the fear and distress that will be experienced. The expectation or anticipation of the events to come adds to the intensity, as men's hearts fail them. The phrase 'the world' refers to the inhabited earth, which emphasizes that this shaking will affect all of humanity.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.0609880288637246,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.62,
             "commentatorTierSimilarities": [
-                30.32,
+                53.56,
                 0.0,
-                69.68
+                46.44
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "As the world is shaken and the powers of heaven themselves are unsettled, men will be overcome with fear, with their hearts failing and their spirits expiring. The anticipation of what is to come causes a sense of dread, a feeling of breathlessness. The expectation of the earth being impacted by these unprecedented events weighs heavily on their souls, leaving them weak and filled with trepidation. Ultimately, it is the profound and overwhelming magnitude of these circumstances that leads to their hearts failing them.",
-            "wordCount": 84,
-            "quoteTokenProportion": 36.21,
-            "qualityScore": 0.8521547269615357,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.68,
+            "bht": "In this verse, it is mentioned that people will faint due to fear as the world shakes. The word used for fainting originally means to leave off breathing or to swoon. This is similar to when Hector was dragged behind Achilles' chariot and breathed out his life. It signifies the immense fear and distress that will be experienced. The expectation or anticipation of the events to come adds to the intensity, as men's hearts fail them. The phrase the world refers to the inhabited earth, highlighting that this shaking will impact all of humanity.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.044662417937341,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.08,
             "commentatorTierSimilarities": [
-                32.29,
+                57.4,
                 0.0,
-                67.71
+                42.6
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "As the powers of heaven are shaken and the world trembles, men will experience a deep fear that leaves them faint-hearted. The expectation of the impending events, the looming catastrophe, causes their spirits to expire, leaving them breathless and overwhelmed. The very nature of their fears and anxieties brings about a physical weakness, as their fear grips their hearts and leaves them feeling faint. Thus, the profound disruption and uncertainty that surrounds them leads to their hearts failing them under the weight of their dread.",
+            "bht": "As the world shakes, people will faint out of fear. The word used for fainting originally means to leave off breathing or to swoon. This is exemplified by the description of Hector being dragged behind Achilles' chariot, where he breathed out his life. This conveys the intense fear and distress that will be experienced. The anticipation of the impending events adds to the intensity, as men's hearts fail them. The phrase the world refers to the inhabited earth, underscoring the widespread impact of this shaking.",
             "wordCount": 86,
-            "quoteTokenProportion": 27.27,
-            "qualityScore": 0.8774979546123312,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.52,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.0118839356136904,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.99,
             "commentatorTierSimilarities": [
-                29.66,
+                53.33,
                 0.0,
-                70.34
+                46.67
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In the face of unprecedented events, men will be overwhelmed with fear, causing their hearts to fail and their spirits to expire. The anticipation of what is to come, the trembling of the world and the shaking of the powers of heaven, leaves them in a state of breathlessness. The very expectation of these events, the looking forward to the upheaval that will impact the entire inhabited earth, weighs heavily on their souls and fills them with trepidation.",
-            "wordCount": 78,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.9572979506664341,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.17,
+            "bht": "In Luke 21:26, it is foretold that the world will be shaken and men will faint due to fear. The word used for fainting means to leave off breathing or to swoon, like Hector when he breathed out his life while being dragged behind Achilles' chariot. As the anticipation of these events grows, men's hearts fail them. This shaking will have a significant impact, affecting the inhabited earth. Therefore, this verse emphasizes the overwhelming fear and distress that will be experienced by all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.0482839480743633,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.2,
             "commentatorTierSimilarities": [
-                36.27,
+                45.05,
                 0.0,
-                63.73
+                54.95
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "As the powers of heaven are shaken, the expectation of the world being impacted by unprecedented events fills men with fear and causes their hearts to fail. This fear is not fleeting, but rather a complete loss of breath, leaving them faint-hearted. The trembling of the world and the impending catastrophe create an overwhelming sense of uncertainty, leading to a profound weakening of their spirits. It is the weight of these circumstances that ultimately causes their hearts to fail under the pressure of their dread.",
-            "wordCount": 86,
+            "bht": "When the world shakes, people will faint in fear. The word used for fainting means to leave off breathing, like when Hector breathed out his life while being dragged behind Achilles' chariot. This signifies the immense fear and distress that will be experienced. The anticipation of these events adds to the intensity, as men's hearts fail them. The world refers to the inhabited earth, highlighting the widespread impact of this shaking on humanity.",
+            "wordCount": 74,
             "quoteTokenProportion": 37.29,
-            "qualityScore": 0.8553159986897061,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.78,
+            "qualityScore": 0.9814287504300607,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.98,
             "commentatorTierSimilarities": [
-                34.24,
+                45.69,
                 0.0,
-                65.76
+                54.31
             ],
             "generationAttempt": 5
         }

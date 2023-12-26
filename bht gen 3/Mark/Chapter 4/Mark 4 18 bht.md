@@ -1,7 +1,7 @@
 # Mark 4:18 Commentary Help Text
 
 ## BHT:
-Some people, described as seeds sown among thorns, are characterized by their worldly dispositions, being excessively concerned with acquiring earthly riches and gratifying their carnal and sensual appetites. Despite their inclination towards the world, these individuals still find themselves compelled to listen to the teachings of the word, whether it be out of habit or the inner voice of conscience. This serves as a reminder to prioritize spiritual matters over worldly concerns.
+Some hearers of the word are like thorny ground, characterized by their worldly dispositions and excessive concern for earthly riches and carnal desires. Nevertheless, they still find themselves attending the ministry of the word, driven by custom or their own consciences.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -10,44 +10,41 @@ Some people, described as seeds sown among thorns, are characterized by their wo
 
 
 ### John Gill:
-1. "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown, who are of worldly dispositions; who are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites." 
-2. "Such as hear the word; who notwithstanding are prevailed upon through custom, or the dictates of their consciences, to attend upon the ministry of the word."
+1. "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown, who are of worldly dispositions." 
+2. "Who are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites."
+3. "Who notwithstanding are prevailed upon through custom, or the dictates of their consciences, to attend upon the ministry of the word."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:21:18
+- Timestamp: 12-25-2023 21:16:20
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 72
-- BHT Commentary Usage: 40.0%
-- BHT Quality Score: 0.9813036775813427
+- BHT Word Count: 41
+- BHT Commentary Usage: 41.18%
+- BHT Quality Score: 1.2134414076791582
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'acquiring', 'among', 'and', 'appetites', 'are', 'as', 'be', 'being', 'by', 'carnal', 'characterized', 'compelled', 'concerned', 'concerns', 'conscience', 'described', 'despite', 'dispositions', 'earthly', 'excessively', 'find', 'gratifying', 'habit', 'inclination', 'individuals', 'inner', 'it', 'listen', 'matters', 'of', 'or', 'out', 'over', 'people', 'prioritize', 'reminder', 'riches', 'seeds', 'sensual', 'serves', 'some', 'sown', 'spiritual', 'still', 'teachings', 'the', 'their', 'themselves', 'these', 'this', 'thorns', 'to', 'towards', 'voice', 'whether', 'with', 'word', 'world', 'worldly']
-- ChatGPT injected words (significant words only) (36):
-	['acquiring', 'appetites', 'carnal', 'characterized', 'compelled', 'concerned', 'concerns', 'conscience', 'described', 'despite', 'dispositions', 'earthly', 'excessively', 'find', 'gratifying', 'habit', 'inclination', 'individuals', 'inner', 'listen', 'matters', 'people', 'prioritize', 'reminder', 'riches', 'seeds', 'sensual', 'serves', 'sown', 'spiritual', 'teachings', 'thorns', 'voice', 'word', 'world', 'worldly']
+- ChatGPT injected words (34):
+	['and', 'are', 'attending', 'by', 'carnal', 'characterized', 'concern', 'consciences', 'custom', 'desires', 'dispositions', 'driven', 'earthly', 'excessive', 'find', 'for', 'ground', 'hearers', 'like', 'ministry', 'nevertheless', 'of', 'or', 'own', 'riches', 'some', 'still', 'the', 'their', 'themselves', 'they', 'thorny', 'word', 'worldly']
+- ChatGPT injected words (significant words only) (20):
+	['attending', 'carnal', 'characterized', 'concern', 'consciences', 'custom', 'desires', 'dispositions', 'driven', 'earthly', 'excessive', 'find', 'ground', 'hearers', 'like', 'ministry', 'riches', 'thorny', 'word', 'worldly']
 
 ### Logs
-- Attempt 1 BHT: Some people are like seeds sown among thorns, representing those who hear the word but are consumed by worldly desires. These individuals become overly preoccupied with acquiring earthly riches and satisfying their carnal and sensual appetites. However, despite their worldly dispositions, they are still compelled to listen to the teachings of the word, whether it be due to habit or the prompting of their consciences. This verse reminds us of the importance of prioritizing spiritual pursuits above earthly concerns.
-- 🔄 Mark 4:18 (attempt 1, 79 words, 41.94% quotes quality score: 1.133868297894464, V2 normalized quality score: 29.04, commentator tiers 1-3: 27.47%, 0.0%, 72.53%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Some people, described as seeds sown among thorns, are characterized by their worldly dispositions, being excessively concerned with acquiring earthly riches and gratifying their carnal and sensual appetites. Despite their inclination towards the world, these individuals still find themselves compelled to listen to the teachings of the word, whether it be out of habit or the inner voice of conscience. This serves as a reminder to prioritize spiritual matters over worldly concerns.
-- 🔄 Mark 4:18 (attempt 2, 72 words, 40.0% quotes quality score: 0.9813036775813427, V2 normalized quality score: 23.97, commentator tiers 1-3: 23.39%, 0.0%, 76.61%) 
+- Attempt 1 BHT: Some people that hear the word are like the thorns that it falls among. These individuals have worldly dispositions, being overly concerned with acquiring earthly riches and satisfying their carnal and sensual appetites. Despite this, they still feel compelled, either out of habit or conscience, to attend the ministry of the word.
+- 🔄 Mark 4:18 (attempt 1, 52 words, 44.44% quotes quality score: 1.20148001402384, V2 normalized quality score: 31.29, commentator tiers 1-3: 35.46%, 0.0%, 64.54%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Seeds sown among thorns portrays those who hear the word but are consumed by worldly desires. They become overly preoccupied with acquiring earthly riches and satisfying their carnal appetites. Nonetheless, they still attend to the ministry of the word, either out of custom or the dictates of their consciences. This verse emphasizes the need to prioritize spiritual pursuits over earthly concerns, cautioning against worldly preoccupations that hinder the growth of faith.
-- 🔄 Mark 4:18 (attempt 3, 71 words, 38.6% quotes quality score: 1.2371498474242166, V2 normalized quality score: 32.48, commentator tiers 1-3: 29.39%, 0.0%, 70.61%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: Some individuals, referred to as seeds sown among thorns, possess worldly dispositions. They are consumed by the desire to attain earthly riches and fulfill their carnal and sensual appetites. Despite this, they do listen to the word, whether influenced by habit or the conviction of their consciences. This serves as a reminder to prioritize spiritual matters over the distractions and allure of worldly pursuits.
-- 🔄 Mark 4:18 (attempt 4, 64 words, 34.69% quotes quality score: 0.9730799949089959, V2 normalized quality score: 23.7, commentator tiers 1-3: 27.59%, 0.0%, 72.41%) 
+- Attempt 2 BHT: Some individuals who hear the word of God can be compared to thorny ground. These hearers are marked by their worldly dispositions, being excessively preoccupied with earthly wealth and indulging their fleshly desires. However, despite their attachment to worldly things, they still find themselves compelled to attend the ministry of the word, either out of habit or the prompting of their conscience.
+- 🔄 Mark 4:18 (attempt 2, 62 words, 42.86% quotes quality score: 1.0928384798855224, V2 normalized quality score: 27.68, commentator tiers 1-3: 29.5%, 0.0%, 70.5%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Those who are represented as seeds sown among thorns are characterized by their preoccupation with worldly concerns. Their incessant pursuit of earthly riches and indulgence in carnal desires hinders their ability to fully embrace the teachings of the word. However, they still feel compelled to attend to the ministry of the word, either due to habit or the inner voice of their conscience. This verse serves as a reminder to prioritize spiritual growth above the temptations and distractions of the world.
-- 🔄 Mark 4:18 (attempt 5, 81 words, 36.67% quotes quality score: 1.0748995999780686, V2 normalized quality score: 27.08, commentator tiers 1-3: 28.91%, 0.0%, 71.09%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Mark 4:18 bht prompt v0.8 (72 words, 40.0% quotes)
-- quality score: 0.9813036775813427, V2 normalized quality score: 23.97, commentator tiers 1-3: 23.39%, 0.0%, 76.61%)
+- Attempt 3 BHT: Some hearers of the word are like thorny ground, characterized by their worldly dispositions and excessive concern for earthly riches and carnal desires. Nevertheless, they still find themselves attending the ministry of the word, driven by custom or their own consciences.
+- 🔄 Mark 4:18 (attempt 3, 41 words, 41.18% quotes quality score: 1.2134414076791582, V2 normalized quality score: 31.69, commentator tiers 1-3: 25.59%, 0.0%, 74.41%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Among those who hear the word, there are some who resemble thorny ground. These individuals possess worldly dispositions and are consumed by their pursuit of material wealth and gratification of their sensual desires. Despite these tendencies, they are compelled to partake in the ministry of the word, either because of their ingrained habits or a guiding sense of right and wrong.
+- 🔄 Mark 4:18 (attempt 4, 61 words, 41.3% quotes quality score: 1.1520702879597897, V2 normalized quality score: 29.65, commentator tiers 1-3: 35.91%, 0.0%, 64.09%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Some hearers of the word can be likened to thorny ground. These individuals are characterized by their worldly dispositions and excessive preoccupation with acquiring earthly riches and satisfying carnal desires. Nevertheless, they still attend the ministry of the word, driven by either custom or the dictates of their consciences.
+- 🔄 Mark 4:18 (attempt 5, 49 words, 42.5% quotes quality score: 1.0910296001144786, V2 normalized quality score: 27.62, commentator tiers 1-3: 28.14%, 0.0%, 71.86%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 4:18 bht prompt v0.8 (41 words, 41.18% quotes)
+- quality score: 1.2134414076791582, V2 normalized quality score: 31.69, commentator tiers 1-3: 25.59%, 0.0%, 74.41%)

@@ -1,40 +1,34 @@
 {
-    "timestamp": "12-19-2023 16:22:43",
+    "timestamp": "12-25-2023 20:59:36",
     "verseRef": "Luke 22:5",
     "bestBHT": {
-        "bht": "The payment of thirty pieces of silver is significant, as it is the same amount required as a fine for accidentally causing the death of a servant. This sum holds considerable value, equivalent to four or five pounds in today's currency. The use of the phrase goodly price highlights the worth attributed to this transaction. Interestingly, Luke only mentions money without specifying the exact amount involved. However, it is evident that this payment was opportune and agreeable, willingly agreed upon by both parties.",
-        "wordCount": 84,
-        "quoteTokenProportion": 36.92,
-        "qualityScore": 0.8861992616753578,
-        "qualityScoreNormalizedComparedToV2BHTs": 20.81,
+        "bht": "One of the Twelve disciples agrees to betray Jesus for thirty pieces of silver, a sum with significant biblical associations. This payment echoes the fine payable in Exodus 21:32 for the accidental death of a servant. The value placed on Jesus in this exchange is shockingly low, reducing him to the level of mere property. The irony lies in the fact that this seemingly substantial price becomes a goodly amount for betraying the Savior. Although not explicitly mentioned, the weight of the money exchanged emphasizes the significance of this treacherous act.",
+        "wordCount": 90,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 0.9732812217173883,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.71,
         "commentatorTierSimilarities": [
-            43.99,
+            67.04,
             0.0,
-            56.01
+            32.96
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "thirty pieces",
-            "\tof silver\" (Matthew 26:15);",
-            "\t",
-            "thirty shekels, the fine payable for man- or maid-servant",
-            "\taccidentally killed (Exodus 21:32),",
-            "\tand equal to between four and five pounds of our money",
-            "\t",
-            "a",
-            "\tgoodly price that I was priced at of them\" (Exodus 21:32- :)"
+            "thirty pieces of silver\" (Matthew 26:15).",
+            "thirty shekels, the fine payable for man- or maid-servant accidentally killed\" (Exodus 21:32).",
+            "a goodly price that I was priced at of them\" (Exodus 21:32)."
         ],
         "Archibald T. Robertson": [
             "Ingressive aorist, a natural exultation that one of the Twelve had offered to do this thing.",
             "An old verb to put together and in the middle with one another.",
-            "Luke only mentions 'money,' but not 'thirty pieces'."
+            "Luke only mentions 'money,' but not 'thirty pieces.'"
         ],
         "John Gill": [
-            "For nothing could be more opportune and agreeable to them.\" ",
-            "And covenanted to give him money.",
-            "Which was the sum they agreed to give him, and he accepted of."
+            "For nothing could be more opportune and agreeable to them.",
+            "than that one of his disciples should meet them at this juncture, and offer to put him into their hands in the most private manner.",
+            "The sum they agreed to give him, and he accepted of."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -54,67 +48,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "This verse discusses the payment of thirty pieces of silver, which is significant because it is the same amount that is paid as a fine for accidentally killing a servant. The price of thirty pieces of silver is seen as a goodly price and carries a weight of value. The use of the verb to put together in relation to this transaction suggests an intentional joining together. Interestingly, Luke only mentions money, not the specific amount of thirty pieces. It is clear that this payment was regarded as opportune and agreeable, as the agreed sum was willingly accepted.",
-            "wordCount": 98,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 0.9303905350868951,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.28,
+            "bht": "One of the disciples betrays Jesus for thirty pieces of silver, a significant sum that is reminiscent of the fine payable for accidentally killing a servant in Exodus 21:32. This choice of payment reveals the low value they placed on Jesus, considering him merely as property. The use of a goodly price in Exodus 21:32 highlights the irony of the situation, as Jesus was offered this substantial sum to be handed over to his enemies. Luke's account, although not mentioning the exact amount, emphasizes the significance of the money exchanged in this treacherous act.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.1427370005294308,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.34,
             "commentatorTierSimilarities": [
-                48.88,
+                70.14,
                 0.0,
-                51.12
+                29.86
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The transaction in question involves the payment of thirty pieces of silver, a sum that carries significant value, equivalent to a fine for accidentally killing a servant. The willingness to pay this goodly price suggests an intentional joining together. Interestingly, Luke mentions money without specifying the exact amount, emphasizing the nature of the payment rather than its specific value. The agreement to give this sum indicates its opportune and agreeable nature, willingly accepted by the parties involved in the transaction.",
-            "wordCount": 80,
-            "quoteTokenProportion": 31.03,
-            "qualityScore": 0.8499551301030853,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.61,
+            "bht": "One of the Twelve disciples offers to betray Jesus for thirty pieces of silver, a sum that carries strong biblical connotations. This amount echoes the fine payable for accidentally killing a servant as outlined in Exodus 21:32. Remarkably, this payment reveals the disturbingly low value the betrayer attributes to Jesus, effectively equating him with mere property. The chosen coins hold an ironic significance, as they are considered a goodly price for handing over the Messiah to his enemies. While Luke does not specify the exact amount, the emphasis lies on the weight that this treacherous act carries.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.115206511204876,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.42,
             "commentatorTierSimilarities": [
-                33.64,
+                64.39,
                 0.0,
-                66.36
+                35.61
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The payment of thirty pieces of silver, akin to the fine for accidentally killing a servant, signifies a significant value. The phrase goodly price conveys the weight of the transaction, along with the intentional agreement between parties. Notably, Luke omits the specific quantity, focusing on the nature of the payment instead. The willingness to give this sum indicates the opportune and agreeable nature of the transaction, with both parties accepting the agreed-upon terms.",
-            "wordCount": 74,
-            "quoteTokenProportion": 27.45,
-            "qualityScore": 0.8068031998886733,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.17,
+            "bht": "One of the Twelve disciples agrees to betray Jesus for thirty pieces of silver, a sum with significant biblical associations. This payment echoes the fine payable in Exodus 21:32 for the accidental death of a servant. The value placed on Jesus in this exchange is shockingly low, reducing him to the level of mere property. The irony lies in the fact that this seemingly substantial price becomes a goodly amount for betraying the Savior. Although not explicitly mentioned, the weight of the money exchanged emphasizes the significance of this treacherous act.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 0.9732812217173883,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.71,
             "commentatorTierSimilarities": [
-                42.36,
+                67.04,
                 0.0,
-                57.64
+                32.96
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The payment of thirty pieces of silver is significant, as it is the same amount required as a fine for accidentally causing the death of a servant. This sum holds considerable value, equivalent to four or five pounds in today's currency. The use of the phrase goodly price highlights the worth attributed to this transaction. Interestingly, Luke only mentions money without specifying the exact amount involved. However, it is evident that this payment was opportune and agreeable, willingly agreed upon by both parties.",
-            "wordCount": 84,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 0.8861992616753578,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.81,
+            "bht": "One of Jesus' disciples, motivated by greed, offers to betray him for thirty pieces of silver, a sum with deep biblical connotations. This amount mirrors the fine for unintentionally causing the death of a servant, highlighting the low value placed on Jesus by the betrayer. It is striking that this treacherous act is met with a sense of triumph, demonstrated by the use of the verb to put together, signaling the betrayer's eagerness to align himself with Jesus' enemies. The mention of money implies the weightiness and significance of this act of betrayal.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 0.9561888105366156,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.14,
             "commentatorTierSimilarities": [
-                43.99,
+                53.28,
                 0.0,
-                56.01
+                46.72
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The payment of thirty pieces of silver is notable, as it is the same amount as the fine for accidentally killing a servant. This sum carries considerable value, equivalent to four or five pounds in today's currency. The phrase goodly price emphasizes the worth attached to this transaction. Interestingly, Luke's mention of money without specifying the exact amount suggests a focus on the nature of the payment rather than the specific value. It is evident that this payment was opportune and agreeable, willingly accepted by both parties.",
-            "wordCount": 89,
-            "quoteTokenProportion": 36.92,
-            "qualityScore": 0.8155867554444958,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.46,
+            "bht": "One of the Twelve disciples willingly betrays Jesus and agrees to hand him over for thirty pieces of silver, a sum that carries strong biblical significance. This amount is reminiscent of the fine paid for the accidental killing of a servant, emphasizing the low value attributed to Jesus by the betrayer. The choice of payment as a goodly price ironically highlights the devaluation of the Messiah. Although not explicitly mentioned by Luke, the mention of money underscores the weight and significance of this traitorous act.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.0833246359402933,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.36,
             "commentatorTierSimilarities": [
-                38.59,
+                63.68,
                 0.0,
-                61.41
+                36.32
             ],
             "generationAttempt": 5
         }

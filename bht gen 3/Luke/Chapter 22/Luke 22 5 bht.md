@@ -1,70 +1,63 @@
 # Luke 22:5 Commentary Help Text
 
 ## BHT:
-The payment of thirty pieces of silver is significant, as it is the same amount required as a fine for accidentally causing the death of a servant. This sum holds considerable value, equivalent to four or five pounds in today's currency. The use of the phrase goodly price highlights the worth attributed to this transaction. Interestingly, Luke only mentions money without specifying the exact amount involved. However, it is evident that this payment was opportune and agreeable, willingly agreed upon by both parties.
+One of the Twelve disciples agrees to betray Jesus for thirty pieces of silver, a sum with significant biblical associations. This payment echoes the fine payable in Exodus 21:32 for the accidental death of a servant. The value placed on Jesus in this exchange is shockingly low, reducing him to the level of mere property. The irony lies in the fact that this seemingly substantial price becomes a goodly amount for betraying the Savior. Although not explicitly mentioned, the weight of the money exchanged emphasizes the significance of this treacherous act.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "thirty pieces
-	of silver" (Matthew 26:15);
-	
-2. thirty shekels, the fine payable for man- or maid-servant
-	accidentally killed (Exodus 21:32),
-	and equal to between four and five pounds of our money
-	
-3. "a
-	goodly price that I was priced at of them" (Exodus 21:32- :)
+1. "thirty pieces of silver" (Matthew 26:15).
+2. "thirty shekels, the fine payable for man- or maid-servant accidentally killed" (Exodus 21:32).
+3. "a goodly price that I was priced at of them" (Exodus 21:32).
 
 ### Archibald T. Robertson:
 1. "Ingressive aorist, a natural exultation that one of the Twelve had offered to do this thing."
 2. "An old verb to put together and in the middle with one another."
-3. "Luke only mentions 'money,' but not 'thirty pieces'."
+3. "Luke only mentions 'money,' but not 'thirty pieces.'"
 
 ### John Gill:
-1. "For nothing could be more opportune and agreeable to them." 
-2. "And covenanted to give him money."
-3. "Which was the sum they agreed to give him, and he accepted of."
+1. "For nothing could be more opportune and agreeable to them."
+2. "than that one of his disciples should meet them at this juncture, and offer to put him into their hands in the most private manner."
+3. "The sum they agreed to give him, and he accepted of."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:22:43
+- Timestamp: 12-25-2023 20:59:36
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 36.92%
-- BHT Quality Score: 0.8861992616753578
+- BHT Word Count: 90
+- BHT Commentary Usage: 28.12%
+- BHT Quality Score: 0.9732812217173883
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'accidentally', 'agreeable', 'agreed', 'amount', 'and', 'as', 'attributed', 'both', 'by', 'causing', 'considerable', 'currency', 'death', 'equivalent', 'evident', 'exact', 'fine', 'five', 'for', 'four', 'goodly', 'highlights', 'holds', 'however', 'in', 'interestingly', 'involved', 'is', 'it', 'luke', 'mentions', 'money', 'of', 'only', 'opportune', 'or', 'parties', 'payment', 'phrase', 'pieces', 'pounds', 'price', 'required', 's', 'same', 'servant', 'significant', 'silver', 'specifying', 'sum', 'that', 'the', 'thirty', 'this', 'to', 'today', 'transaction', 'upon', 'use', 'value', 'was', 'willingly', 'without', 'worth']
-- ChatGPT injected words (significant words only) (41):
-	['accidentally', 'agreeable', 'agreed', 'attributed', 'causing', 'considerable', 'currency', 'death', 'equivalent', 'evident', 'exact', 'fine', 'goodly', 'highlights', 'holds', 'interestingly', 'involved', 'luke', 'mentions', 'money', 'opportune', 'parties', 'payment', 'phrase', 'pieces', 'pounds', 'price', 'required', 's', 'servant', 'significant', 'silver', 'specifying', 'sum', 'thirty', 'today', 'transaction', 'use', 'value', 'willingly', 'worth']
+- ChatGPT injected words (64):
+	['a', 'accidental', 'act', 'agrees', 'although', 'amount', 'associations', 'becomes', 'betray', 'betraying', 'biblical', 'death', 'disciples', 'echoes', 'emphasizes', 'exchange', 'exchanged', 'exodus', 'explicitly', 'fact', 'fine', 'for', 'goodly', 'him', 'in', 'irony', 'is', 'jesus', 'level', 'lies', 'low', 'mentioned', 'mere', 'money', 'not', 'of', 'on', 'one', 'payable', 'payment', 'pieces', 'placed', 'price', 'property', 'reducing', 'savior', 'seemingly', 'servant', 'shockingly', 'significance', 'significant', 'silver', 'substantial', 'sum', 'that', 'the', 'thirty', 'this', 'to', 'treacherous', 'twelve', 'value', 'weight', 'with']
+- ChatGPT injected words (significant words only) (46):
+	['accidental', 'act', 'agrees', 'associations', 'betray', 'betraying', 'biblical', 'death', 'disciples', 'echoes', 'emphasizes', 'exchange', 'exchanged', 'exodus', 'explicitly', 'fact', 'fine', 'goodly', 'irony', 'jesus', 'level', 'lies', 'low', 'mentioned', 'mere', 'money', 'payable', 'payment', 'pieces', 'placed', 'price', 'property', 'reducing', 'savior', 'seemingly', 'servant', 'shockingly', 'significance', 'significant', 'silver', 'substantial', 'sum', 'thirty', 'treacherous', 'value', 'weight']
 
 ### Logs
-- Attempt 1 BHT: This verse discusses the payment of thirty pieces of silver, which is significant because it is the same amount that is paid as a fine for accidentally killing a servant. The price of thirty pieces of silver is seen as a goodly price and carries a weight of value. The use of the verb to put together in relation to this transaction suggests an intentional joining together. Interestingly, Luke only mentions money, not the specific amount of thirty pieces. It is clear that this payment was regarded as opportune and agreeable, as the agreed sum was willingly accepted.
-- 🔄 Luke 22:5 (attempt 1, 98 words, 36.67% quotes quality score: 0.9303905350868951, V2 normalized quality score: 22.28, commentator tiers 1-3: 48.88%, 0.0%, 51.12%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The transaction in question involves the payment of thirty pieces of silver, a sum that carries significant value, equivalent to a fine for accidentally killing a servant. The willingness to pay this goodly price suggests an intentional joining together. Interestingly, Luke mentions money without specifying the exact amount, emphasizing the nature of the payment rather than its specific value. The agreement to give this sum indicates its opportune and agreeable nature, willingly accepted by the parties involved in the transaction.
-- 🔄 Luke 22:5 (attempt 2, 80 words, 31.03% quotes quality score: 0.8499551301030853, V2 normalized quality score: 19.61, commentator tiers 1-3: 33.64%, 0.0%, 66.36%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: The payment of thirty pieces of silver, akin to the fine for accidentally killing a servant, signifies a significant value. The phrase goodly price conveys the weight of the transaction, along with the intentional agreement between parties. Notably, Luke omits the specific quantity, focusing on the nature of the payment instead. The willingness to give this sum indicates the opportune and agreeable nature of the transaction, with both parties accepting the agreed-upon terms.
-- 🔄 Luke 22:5 (attempt 3, 74 words, 27.45% quotes quality score: 0.8068031998886733, V2 normalized quality score: 18.17, commentator tiers 1-3: 42.36%, 0.0%, 57.64%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: The payment of thirty pieces of silver is significant, as it is the same amount required as a fine for accidentally causing the death of a servant. This sum holds considerable value, equivalent to four or five pounds in today's currency. The use of the phrase goodly price highlights the worth attributed to this transaction. Interestingly, Luke only mentions money without specifying the exact amount involved. However, it is evident that this payment was opportune and agreeable, willingly agreed upon by both parties.
-- 🔄 Luke 22:5 (attempt 4, 84 words, 36.92% quotes quality score: 0.8861992616753578, V2 normalized quality score: 20.81, commentator tiers 1-3: 43.99%, 0.0%, 56.01%) 
+- Attempt 1 BHT: One of the disciples betrays Jesus for thirty pieces of silver, a significant sum that is reminiscent of the fine payable for accidentally killing a servant in Exodus 21:32. This choice of payment reveals the low value they placed on Jesus, considering him merely as property. The use of a goodly price in Exodus 21:32 highlights the irony of the situation, as Jesus was offered this substantial sum to be handed over to his enemies. Luke's account, although not mentioning the exact amount, emphasizes the significance of the money exchanged in this treacherous act.
+- 🔄 Luke 22:5 (attempt 1, 93 words, 31.82% quotes quality score: 1.1427370005294308, V2 normalized quality score: 29.34, commentator tiers 1-3: 70.14%, 0.0%, 29.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: The payment of thirty pieces of silver is notable, as it is the same amount as the fine for accidentally killing a servant. This sum carries considerable value, equivalent to four or five pounds in today's currency. The phrase goodly price emphasizes the worth attached to this transaction. Interestingly, Luke's mention of money without specifying the exact amount suggests a focus on the nature of the payment rather than the specific value. It is evident that this payment was opportune and agreeable, willingly accepted by both parties.
-- 🔄 Luke 22:5 (attempt 5, 89 words, 36.92% quotes quality score: 0.8155867554444958, V2 normalized quality score: 18.46, commentator tiers 1-3: 38.59%, 0.0%, 61.41%) 
+- Attempt 2 BHT: One of the Twelve disciples offers to betray Jesus for thirty pieces of silver, a sum that carries strong biblical connotations. This amount echoes the fine payable for accidentally killing a servant as outlined in Exodus 21:32. Remarkably, this payment reveals the disturbingly low value the betrayer attributes to Jesus, effectively equating him with mere property. The chosen coins hold an ironic significance, as they are considered a goodly price for handing over the Messiah to his enemies. While Luke does not specify the exact amount, the emphasis lies on the weight that this treacherous act carries.
+- 🔄 Luke 22:5 (attempt 2, 96 words, 31.08% quotes quality score: 1.115206511204876, V2 normalized quality score: 28.42, commentator tiers 1-3: 64.39%, 0.0%, 35.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Luke 22:5 bht prompt v0.8 (84 words, 36.92% quotes)
-- quality score: 0.8861992616753578, V2 normalized quality score: 20.81, commentator tiers 1-3: 43.99%, 0.0%, 56.01%)
+- Attempt 3 BHT: One of the Twelve disciples agrees to betray Jesus for thirty pieces of silver, a sum with significant biblical associations. This payment echoes the fine payable in Exodus 21:32 for the accidental death of a servant. The value placed on Jesus in this exchange is shockingly low, reducing him to the level of mere property. The irony lies in the fact that this seemingly substantial price becomes a goodly amount for betraying the Savior. Although not explicitly mentioned, the weight of the money exchanged emphasizes the significance of this treacherous act.
+- 🔄 Luke 22:5 (attempt 3, 90 words, 28.12% quotes quality score: 0.9732812217173883, V2 normalized quality score: 23.71, commentator tiers 1-3: 67.04%, 0.0%, 32.96%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: One of Jesus' disciples, motivated by greed, offers to betray him for thirty pieces of silver, a sum with deep biblical connotations. This amount mirrors the fine for unintentionally causing the death of a servant, highlighting the low value placed on Jesus by the betrayer. It is striking that this treacherous act is met with a sense of triumph, demonstrated by the use of the verb to put together, signaling the betrayer's eagerness to align himself with Jesus' enemies. The mention of money implies the weightiness and significance of this act of betrayal.
+- 🔄 Luke 22:5 (attempt 4, 94 words, 30.16% quotes quality score: 0.9561888105366156, V2 normalized quality score: 23.14, commentator tiers 1-3: 53.28%, 0.0%, 46.72%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: One of the Twelve disciples willingly betrays Jesus and agrees to hand him over for thirty pieces of silver, a sum that carries strong biblical significance. This amount is reminiscent of the fine paid for the accidental killing of a servant, emphasizing the low value attributed to Jesus by the betrayer. The choice of payment as a goodly price ironically highlights the devaluation of the Messiah. Although not explicitly mentioned by Luke, the mention of money underscores the weight and significance of this traitorous act.
+- 🔄 Luke 22:5 (attempt 5, 85 words, 30.0% quotes quality score: 1.0833246359402933, V2 normalized quality score: 27.36, commentator tiers 1-3: 63.68%, 0.0%, 36.32%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Luke 22:5 bht prompt v0.8 (90 words, 28.12% quotes)
+- quality score: 0.9732812217173883, V2 normalized quality score: 23.71, commentator tiers 1-3: 67.04%, 0.0%, 32.96%)

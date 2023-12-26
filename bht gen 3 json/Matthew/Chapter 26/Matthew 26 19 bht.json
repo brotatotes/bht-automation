@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-19-2023 23:53:14",
+    "timestamp": "12-25-2023 21:16:27",
     "verseRef": "Matthew 26:19",
     "bestBHT": {
-        "bht": "The disciples' prompt obedience to Jesus' command showcases their holy submission and desire for their faith to be approved. Trusting in God's promise of success, they move forward without excessive anxiety, adhering faithfully to His commands. They diligently carry out Jesus' instructions, finding the man carrying a pitcher of water, securing a suitable upper room as foretold, and preparing everything necessary for the Passover celebration. They acquire a lamb, have it slain and prepared in accordance with the required rituals, and ensure every detail is taken care of for the Passover feast.",
-        "wordCount": 93,
-        "quoteTokenProportion": 29.17,
-        "qualityScore": 0.7446683764488944,
-        "qualityScoreNormalizedComparedToV2BHTs": 16.11,
+        "bht": "The disciples' prompt compliance with Jesus\u2019 command demonstrates their submissive faith. They obediently followed His instructions without concerning themselves with the outcome, peacefully abiding by His word. They entered the house He specified, which was prepared for the Passover meal, and obtained a lamb for sacrifice at the temple. They then returned to the house to roast the lamb, and made sure to provide all the necessary elements for the meal, including bread, wine, bitter herbs, and a special sauce. This account highlights the disciples' unwavering trust in God's commands and their faithful execution of His instructions.",
+        "wordCount": 98,
+        "quoteTokenProportion": 31.43,
+        "qualityScore": 0.8114241409579369,
+        "qualityScoreNormalizedComparedToV2BHTs": 18.32,
         "commentatorTierSimilarities": [
             0.0,
-            15.41,
-            84.59
+            21.91,
+            78.09
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "John Calvin": [
             "The readiness with which the disciples comply ought to be observed as a proof of their holy submission.",
-            "And if we are desirous to have our faith approved, we ought to abide by this rule, to be satisfied with the command alone and go forward wherever God commands.",
-            "Expecting the success which he promises, not to indulge in excessive anxiety."
+            "Yet they make no anxious inquiry about the result, but peaceably obey the injunction.",
+            "If we are desirous to have our faith approved, we ought to abide by this rule, to be satisfied with the command alone and go forward wherever God commands."
         ],
         "Philip Schaff": [
             "Matthew 26:19. Comp, the fuller accounts of Mark (Mark 14:14-16) and Luke (Luke 22:11-13).",
             "\t"
         ],
         "John Gill": [
-            "They went into the city of Jerusalem; they met the man carrying a pitcher of water home; they followed him into the house he entered; they addressed the master of the house, in the manner Christ directed, who showed them a large upper room, prepared with all proper furniture for such an occasion, as Christ had foretold.",
-            "and they made ready the passover; they went and bought a lamb; they carried it to the temple to be slain in the court, where it was presented as a passover lamb for such a number of persons; they had it flayed, cut up, the fat taken out, and burnt on the altar, and its blood sprinkled on the foot of it",
-            "and, in short, everything that was necessary."
+            "They followed him into the house he entered; they addressed the master of the house, in the manner Christ directed, who showed them a large upper room, prepared with all proper furniture for such an occasion, as Christ had foretold.",
+            "They went and bought a lamb; they carried it to the temple to be slain in the court, where it was presented as a passover lamb for such a number of persons.",
+            "They then brought it to the house where they were to eat it; here they roasted it, and provided bread, and wine, and bitter herbs, and a sauce called 'Charoseth', into which the herbs were dipped: and, in short, everything that was necessary."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The disciples' immediate compliance with Jesus' command to prepare for the Passover exemplifies their holy submission. Their faith is shown by their satisfaction with the command alone and their willingness to go forward wherever God commands. They trust in the success that Jesus promises without excessive anxiety. They follow Jesus' instructions precisely, finding the man carrying a pitcher of water and arranging for the Passover in a large upper room, just as Christ had foretold. They take care of every necessary detail, even buying a lamb, having it slain and prepared, and ensuring that everything is in order for the Passover celebration.",
-            "wordCount": 102,
-            "quoteTokenProportion": 34.72,
-            "qualityScore": 0.7130337378092254,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.05,
+            "bht": "The disciples' readiness to comply with Jesus' command in Matthew 26:19 is a demonstration of their holy submission. Without anxiety about the outcome, they obediently followed His instructions, placing their faith in His guidance. They entered the house He directed them to and were shown a large upper room, prepared with all the necessary items for the Passover meal. They then bought a lamb, brought it to the temple to be slain, and roasted it at the designated house, along with providing bread, wine, bitter herbs, and other essentials for the meal. Their faithful obedience showcases the importance of trusting in God's commands and faithfully carrying them out.",
+            "wordCount": 108,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 0.7911233755222244,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.65,
             "commentatorTierSimilarities": [
                 0.0,
-                17.25,
-                82.75
+                18.07,
+                81.93
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The disciples' instant compliance with Jesus' command demonstrates their holy submission, reflecting their desire to have their faith approved. They trust in God's command, not yielding to excessive anxiety, and move forward wherever He directs. Obeying Jesus' instructions precisely, they locate the man carrying a pitcher of water and secure a large upper room with all necessary preparations, as Christ had prophesied. They diligently gather a lamb, take it to the temple, prepare it according to Passover regulations, and attend to every required detail to ensure a well-prepared Passover.",
-            "wordCount": 91,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 0.7347011804320344,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.77,
+            "bht": "The disciples' prompt compliance with Jesus\u2019 command demonstrates their submissive faith. They obediently followed His instructions without concerning themselves with the outcome, peacefully abiding by His word. They entered the house He specified, which was prepared for the Passover meal, and obtained a lamb for sacrifice at the temple. They then returned to the house to roast the lamb, and made sure to provide all the necessary elements for the meal, including bread, wine, bitter herbs, and a special sauce. This account highlights the disciples' unwavering trust in God's commands and their faithful execution of His instructions.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 0.8114241409579369,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.32,
             "commentatorTierSimilarities": [
                 0.0,
-                19.4,
-                80.6
+                21.91,
+                78.09
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The disciples' prompt obedience to Jesus' command showcases their holy submission and desire for their faith to be approved. Trusting in God's promise of success, they move forward without excessive anxiety, adhering faithfully to His commands. They diligently carry out Jesus' instructions, finding the man carrying a pitcher of water, securing a suitable upper room as foretold, and preparing everything necessary for the Passover celebration. They acquire a lamb, have it slain and prepared in accordance with the required rituals, and ensure every detail is taken care of for the Passover feast.",
+            "bht": "The disciples' immediate compliance serves as evidence of their holy submission. They obediently followed Jesus' instructions, without anxiously questioning the outcome, demonstrating their trust in His guidance. They entered the designated house and were shown a fully prepared upper room for the Passover celebration, as Jesus had foretold. They acquired a lamb, had it sacrificed at the temple, and then returned to the house to roast and prepare it, along with providing all the necessary elements for the meal. Their unwavering faithfulness emphasizes the importance of accepting and obeying God's commands wholeheartedly.",
             "wordCount": 93,
-            "quoteTokenProportion": 29.17,
-            "qualityScore": 0.7446683764488944,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.11,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 0.7438040524430426,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.08,
             "commentatorTierSimilarities": [
                 0.0,
-                15.41,
-                84.59
+                17.6,
+                82.4
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The disciples' immediate compliance serves as a testament to their holy submission, demonstrating their faith and willingness to follow God's commands without hesitation. Their readiness to fulfill Jesus' instructions reveals their trust in His promised success, avoiding unnecessary anxiety. They diligently carry out each step with precision, locating the man carrying a pitcher of water, preparing the upper room as Christ had foretold, and taking care of every necessary detail for the Passover. Their obedience and thoroughness exemplify a steadfast commitment to God's will.",
-            "wordCount": 86,
-            "quoteTokenProportion": 26.47,
-            "qualityScore": 0.723667226261066,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.41,
+            "bht": "The disciples' prompt compliance with Jesus\u2019 command showcases their holy submission. Without anxiety, they obediently followed His instructions, satisfied with the command alone. They entered the specified house and were shown a prepared upper room, just as Christ had predicted. They acquired a lamb, had it sacrificed at the temple, and then returned to the house to roast it, along with providing all the necessary elements for the Passover meal. Their faith was evidenced by their unwavering obedience to God's commands, exemplifying the importance of trust and faithful action.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 0.6655551447416035,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.47,
             "commentatorTierSimilarities": [
                 0.0,
-                18.04,
-                81.96
+                13.0,
+                87.0
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The disciples' immediate compliance with Jesus' command serves as a testimony to their holy submission. Their faith is evident in their satisfaction with the command alone, going forward wherever God directs, and trusting in His promised success. Carrying out Jesus' instructions precisely, they find the man with a pitcher of water, secure the prepared upper room, and attend to every necessary detail for the Passover. Their unwavering obedience and thoroughness reflect their commitment to following God's will faithfully.",
-            "wordCount": 79,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 0.7198650625735611,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.28,
+            "bht": "The disciples' immediate compliance serves as a testament to their holy submission. They obediently followed Jesus' instructions without hesitation, calmly obeying the command without seeking a detailed explanation. They entered the designated house and were shown a fully prepared upper room for the Passover, fulfilling Christ's prophecy. They acquired a lamb, had it sacrificed, and then returned to the house to roast it, ensuring all necessary provisions for the meal were in place. Their unquestioning faith in God's commands and their faithful execution are admirable examples to follow.",
+            "wordCount": 90,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 0.6631852258500939,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.4,
             "commentatorTierSimilarities": [
                 0.0,
-                21.95,
-                78.05
+                12.11,
+                87.89
             ],
             "generationAttempt": 5
         }

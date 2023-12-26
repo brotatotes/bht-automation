@@ -1,7 +1,7 @@
 # Matthew 22:25 Commentary Help Text
 
 ## BHT:
-In this scenario mentioned, if a man marries but dies without children, Jewish customs stipulate his brother must marry the widow after a waiting period. However, if the widow is found to be pregnant with the deceased brother's child, it is deemed unlawful for the living brother to marry her. This story serves as a frequently raised objection, illustrating the complexities of marriage and inheritance laws of that time.
+In a particular scenario, a man passed away without leaving any offspring, and a hypothetical objection arose regarding whether his brother should marry the widow if she was already pregnant. This objection was brought up on various occasions, although it seemed to lack significance. Nevertheless, it shed light on the complexity of Jewish laws and customs, specifically the requirement for a brother to marry the widow to ensure the deceased's lineage and protect the widow's well-being.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -10,52 +10,50 @@ In this scenario mentioned, if a man marries but dies without children, Jewish c
 
 
 ### John Gill:
-1. "the first, when he had married a wife, deceased, and having no issue, left his wife unto his brother"
+1. "brethren by the mother's side were not counted brethren, nor obliged by this law"
 2. "according to the Jewish canons, could not be done before ninety days, or three months after the decease of his brother"
-3. "for so long they were to wait and see, whether she was with child by his brother or not; for if she was, it was not necessary, yea, it was unlawful for him to marry her"
+3. "for if she was [pregnant], it was not necessary, yea, it was unlawful for him to marry her."
 
 ### John Wesley:
-1. "This story seems to have been a kind of common-place objection, which no doubt they brought upon all occasions."
+1. "This story seems to have been a kind of common-place objection." 
+2. "No doubt they brought [this objection] upon all occasions."
+3. "Objection"
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:51:16
+- Timestamp: 12-25-2023 21:16:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 70
-- BHT Commentary Usage: 40.0%
-- BHT Quality Score: 0.7191634321052828
+- BHT Word Count: 79
+- BHT Commentary Usage: 46.55%
+- BHT Quality Score: 0.85253191631936
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (55):
-	['a', 'after', 'and', 'as', 'be', 'brother', 'but', 'child', 'children', 'complexities', 'customs', 'deceased', 'deemed', 'dies', 'for', 'found', 'frequently', 'her', 'his', 'however', 'if', 'illustrating', 'in', 'inheritance', 'is', 'it', 'jewish', 'laws', 'living', 'man', 'marriage', 'marries', 'marry', 'mentioned', 'must', 'objection', 'of', 'period', 'pregnant', 'raised', 's', 'scenario', 'serves', 'stipulate', 'story', 'that', 'the', 'this', 'time', 'to', 'unlawful', 'waiting', 'widow', 'with', 'without']
-- ChatGPT injected words (significant words only) (33):
-	['brother', 'child', 'children', 'complexities', 'customs', 'deceased', 'deemed', 'dies', 'found', 'frequently', 'illustrating', 'inheritance', 'jewish', 'laws', 'living', 'man', 'marriage', 'marries', 'marry', 'mentioned', 'objection', 'period', 'pregnant', 'raised', 's', 'scenario', 'serves', 'stipulate', 'story', 'time', 'unlawful', 'waiting', 'widow']
+- ChatGPT injected words (58):
+	['a', 'already', 'although', 'and', 'any', 'arose', 'away', 'being', 'brother', 'brought', 'complexity', 'customs', 'deceased', 'ensure', 'for', 'his', 'hypothetical', 'if', 'in', 'it', 'jewish', 'lack', 'laws', 'leaving', 'light', 'lineage', 'man', 'marry', 'nevertheless', 'objection', 'occasions', 'of', 'offspring', 'on', 'particular', 'passed', 'pregnant', 'protect', 'regarding', 'requirement', 's', 'scenario', 'seemed', 'she', 'shed', 'should', 'significance', 'specifically', 'the', 'this', 'to', 'up', 'various', 'was', 'well', 'whether', 'widow', 'without']
+- ChatGPT injected words (significant words only) (31):
+	['arose', 'away', 'brother', 'brought', 'complexity', 'customs', 'deceased', 'ensure', 'hypothetical', 'jewish', 'lack', 'laws', 'leaving', 'light', 'lineage', 'man', 'marry', 'objection', 'occasions', 'offspring', 'particular', 'passed', 'pregnant', 'protect', 'requirement', 's', 'scenario', 'shed', 'significance', 'specifically', 'widow']
 
 ### Logs
-- Attempt 1 BHT: In Matthew 22:25, we encounter a fictitious case given by the commentators. They explain that according to Jewish canons, if a man marries a wife and then dies without leaving any children, his brother is required to marry the widow after a waiting period of three months. However, if the widow is found to be pregnant with the deceased brother's child, it is unlawful for the living brother to marry her. This story seems to have been a common objection raised by individuals, highlighting the complexities of marriage and inheritance laws during that time.
-- 🔄 Matthew 22:25 (attempt 1, 94 words, 41.43% quotes quality score: 0.8333933382514137, V2 normalized quality score: 19.05, commentator tiers 1-3: 0.0%, 33.52%, 66.48%) 
+- Attempt 1 BHT: In Matthew 22:25, a fictitious case is presented where a man died without leaving any offspring. According to Jewish customs, if one of his brothers were to marry his widow, it would ensure the deceased's lineage and protect the widow. However, the hypothetical objection raised was that if the widow was already pregnant, there would be no need for the brother to marry her. This objection seems to have been a common argument brought up by individuals, although it did not hold much weight. Ultimately, this case highlighted the intricate details and discussions surrounding Jewish laws and customs at the time.
+- 🔄 Matthew 22:25 (attempt 1, 101 words, 48.0% quotes quality score: 0.9243155211794056, V2 normalized quality score: 22.08, commentator tiers 1-3: 0.0%, 41.17%, 58.83%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this passage, we encounter a hypothetical scenario presented by the first-tier commentary. According to Jewish laws, if a man marries a woman and dies without leaving any children, his brother is obligated to marry the widow after a specific waiting period. However, if the widow is found to be pregnant with her deceased husband's child, it is unlawful for the living brother to marry her. This story appears to be a recurring objection frequently brought up during that time, shedding light on the intricate laws surrounding marriage and inheritance.
-- 🔄 Matthew 22:25 (attempt 2, 92 words, 36.23% quotes quality score: 0.6960209637662607, V2 normalized quality score: 14.49, commentator tiers 1-3: 0.0%, 25.93%, 74.07%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: In this particular verse, a fictional scenario is introduced whereby a man marries but passes away without leaving any children. According to Jewish traditions, his brother is expected to marry the widow after a waiting period. However, if it is discovered that the widow is already pregnant with her deceased husband's child, it becomes unlawful for the living brother to marry her. This anecdote serves as a common objection that people frequently raised, revealing the complexities of marriage and inheritance laws during that time.
-- 🔄 Matthew 22:25 (attempt 3, 85 words, 37.88% quotes quality score: 0.6600349221881543, V2 normalized quality score: 13.29, commentator tiers 1-3: 0.0%, 17.18%, 82.82%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: In this scenario mentioned, if a man marries but dies without children, Jewish customs stipulate his brother must marry the widow after a waiting period. However, if the widow is found to be pregnant with the deceased brother's child, it is deemed unlawful for the living brother to marry her. This story serves as a frequently raised objection, illustrating the complexities of marriage and inheritance laws of that time.
-- 🔄 Matthew 22:25 (attempt 4, 70 words, 40.0% quotes quality score: 0.7191634321052828, V2 normalized quality score: 15.26, commentator tiers 1-3: 0.0%, 14.73%, 85.27%) 
+- Attempt 2 BHT: In a particular scenario, a man passed away without leaving any offspring, and a hypothetical objection arose regarding whether his brother should marry the widow if she was already pregnant. This objection was brought up on various occasions, although it seemed to lack significance. Nevertheless, it shed light on the complexity of Jewish laws and customs, specifically the requirement for a brother to marry the widow to ensure the deceased's lineage and protect the widow's well-being.
+- 🔄 Matthew 22:25 (attempt 2, 79 words, 46.55% quotes quality score: 0.85253191631936, V2 normalized quality score: 19.69, commentator tiers 1-3: 0.0%, 28.18%, 71.82%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: According to Jewish laws, if a man marries a wife and dies without leaving children, his brother is required to wait for three months before marrying the widow. During this waiting period, it would be determined if she is pregnant with the deceased brother's child. If she is indeed pregnant, it becomes unlawful for the living brother to marry her. This scenario was a common objection, highlighting the intricacies of marriage and inheritance regulations at that time.
-- 🔄 Matthew 22:25 (attempt 5, 78 words, 42.37% quotes quality score: 0.6478999375393382, V2 normalized quality score: 12.89, commentator tiers 1-3: 0.0%, 16.25%, 83.75%) 
+- Attempt 3 BHT: In Matthew 22:25, a fictitious case arises where a man's brother questions the necessity of marrying the widow if she is already pregnant. This objection was a common argument that lacked real substance. Nevertheless, the scenario highlights the intricate details and debates surrounding Jewish laws and customs, particularly in relation to preserving lineage and providing for the well-being of widows. The case prompts us to consider the complexities and significance of these cultural practices during that time.
+- 🔄 Matthew 22:25 (attempt 3, 78 words, 34.43% quotes quality score: 0.7256561449329816, V2 normalized quality score: 15.47, commentator tiers 1-3: 0.0%, 40.3%, 59.7%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: In a hypothetical situation, a man's death leaves his sibling questioning the need to marry the widow if she is already pregnant. This objection, although commonly raised, lacks substantial merit. Nonetheless, this case unveils the multifaceted discussions and considerations surrounding Jewish laws and customs, focusing on the preservation of lineage and the support and protection of widows. The story serves as a reminder of the intricate complexities and relevance of these cultural practices during that time period.
+- 🔄 Matthew 22:25 (attempt 4, 78 words, 29.03% quotes quality score: 0.6388809763795567, V2 normalized quality score: 12.59, commentator tiers 1-3: 0.0%, 29.62%, 70.38%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 22:25 bht prompt v0.8 (70 words, 40.0% quotes)
-- quality score: 0.7191634321052828, V2 normalized quality score: 15.26, commentator tiers 1-3: 0.0%, 14.73%, 85.27%)
+- Attempt 5 BHT: In Matthew 22:25, an objection is presented concerning the necessity of a brother marrying a widow who is already pregnant. This objection, frequently mentioned in different scenarios, lacks substantial grounds. Nevertheless, this fictitious case provides insight into the intricacies of Jewish laws and customs, specifically the importance of preserving lineage and safeguarding the well-being of widows. It serves as a reminder of the prevalent debates and intricacies surrounding these cultural practices during that era.
+- 🔄 Matthew 22:25 (attempt 5, 74 words, 33.33% quotes quality score: 0.761415135375654, V2 normalized quality score: 16.66, commentator tiers 1-3: 0.0%, 37.0%, 63.0%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Matthew 22:25 bht prompt v0.8 (79 words, 46.55% quotes)
+- quality score: 0.85253191631936, V2 normalized quality score: 19.69, commentator tiers 1-3: 0.0%, 28.18%, 71.82%)

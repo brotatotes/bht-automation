@@ -1,7 +1,7 @@
 # Mark 10:43 Commentary Help Text
 
 ## BHT:
-Jesus teaches that true greatness in His kingdom does not come from wielding power, but from adopting a humble servant's heart. He urges believers to be subordinate servants, actively engaging in ministry and diligently serving others. In order to attain greatness, one must be willing to take on substantial responsibilities, endure hardships, and exert great effort. This commitment to selfless service brings glory to God and fosters a profound impact on the lives of people, reflecting the values of Christ's kingdom.
+Jesus teaches that greatness in his kingdom does not stem from pursuing power or status, but from embracing the role of a humble servant. Those who desire true greatness must become subordinate servants, ministering to others. This stands in stark contrast to the worldly mindset of seeking personal glory and authority. Rather, to attain greatness in Christ's kingdom, one must be willing to labor diligently in the work of the ministry, enduring hardships to bring glory to God and bless the souls of others.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -15,47 +15,46 @@ Jesus teaches that true greatness in His kingdom does not come from wielding pow
 
 
 ### John Gill:
-1. "But so shall it not be among you...such a lordly spirit does not become you." 
-2. "The only way to preferment and greatness in Christ's kingdom...is to labour in the work of the ministry more abundantly than others." 
-3. "...to take great pains and endure great hardships in order to bring great glory to God, and do great good to the souls of men."
+1. "Such a lordly spirit does not become you; this is heathenish."
+2. "The only way to preferment and greatness in Christ's kingdom...is to labor in the work of the ministry more abundantly than others."
+3. "To take great pains and endure great hardships in order to bring great glory to God, and do great good to the souls of men."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:26:06
+- Timestamp: 12-25-2023 21:00:48
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 30.3%
-- BHT Quality Score: 0.9933492991780501
+- BHT Word Count: 85
+- BHT Commentary Usage: 35.48%
+- BHT Quality Score: 1.0391560447308417
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'actively', 'adopting', 'and', 'attain', 'be', 'believers', 'brings', 'but', 'christ', 'come', 'commitment', 'diligently', 'does', 'effort', 'endure', 'engaging', 'exert', 'fosters', 'from', 'glory', 'god', 'great', 'greatness', 'hardships', 'he', 'heart', 'his', 'humble', 'impact', 'in', 'jesus', 'kingdom', 'lives', 'ministry', 'must', 'not', 'of', 'on', 'one', 'order', 'others', 'people', 'power', 'profound', 'reflecting', 'responsibilities', 's', 'selfless', 'servant', 'servants', 'service', 'serving', 'subordinate', 'substantial', 'take', 'teaches', 'that', 'the', 'this', 'to', 'true', 'urges', 'values', 'wielding', 'willing']
-- ChatGPT injected words (significant words only) (46):
-	['actively', 'adopting', 'attain', 'believers', 'brings', 'christ', 'come', 'commitment', 'diligently', 'effort', 'endure', 'engaging', 'exert', 'fosters', 'glory', 'god', 'great', 'greatness', 'hardships', 'heart', 'humble', 'impact', 'jesus', 'kingdom', 'lives', 'ministry', 'order', 'people', 'power', 'profound', 'reflecting', 'responsibilities', 's', 'selfless', 'servant', 'servants', 'service', 'serving', 'subordinate', 'substantial', 'teaches', 'true', 'urges', 'values', 'wielding', 'willing']
+- ChatGPT injected words (62):
+	['a', 'and', 'attain', 'authority', 'be', 'become', 'bless', 'bring', 'but', 'christ', 'contrast', 'desire', 'diligently', 'does', 'embracing', 'enduring', 'from', 'glory', 'god', 'greatness', 'hardships', 'his', 'humble', 'in', 'jesus', 'kingdom', 'labor', 'mindset', 'ministering', 'ministry', 'must', 'not', 'of', 'one', 'or', 'others', 'personal', 'power', 'pursuing', 'rather', 'role', 's', 'seeking', 'servant', 'servants', 'souls', 'stands', 'stark', 'status', 'stem', 'subordinate', 'teaches', 'that', 'the', 'this', 'those', 'to', 'true', 'who', 'willing', 'work', 'worldly']
+- ChatGPT injected words (significant words only) (40):
+	['attain', 'authority', 'bless', 'bring', 'christ', 'contrast', 'desire', 'diligently', 'embracing', 'enduring', 'glory', 'god', 'greatness', 'hardships', 'humble', 'jesus', 'kingdom', 'labor', 'mindset', 'ministering', 'ministry', 'personal', 'power', 'pursuing', 'role', 's', 'seeking', 'servant', 'servants', 'souls', 'stands', 'stark', 'status', 'stem', 'subordinate', 'teaches', 'true', 'willing', 'work', 'worldly']
 
 ### Logs
-- Attempt 1 BHT: In Mark 10:43, Jesus teaches that greatness in His kingdom is not measured by authority or dominance, but by servanthood. The commentary explains that instead of adopting a lordly spirit, believers are called to be subordinate servants. The primary way to attain greatness in Christ's kingdom is through ministry and laboring diligently in the work of serving others. This includes taking on great responsibilities and enduring hardships in order to bring glory to God and make a significant impact in the lives of people.
-- 🔄 Mark 10:43 (attempt 1, 84 words, 31.75% quotes quality score: 1.0300386367303571, V2 normalized quality score: 25.59, commentator tiers 1-3: 25.86%, 0.0%, 74.14%) 
+- Attempt 1 BHT: In Mark 10:43, Jesus teaches that true greatness in his kingdom is not achieved through status or power, but through humble service to others. He emphasizes that those who desire greatness should become subordinate servants, ministering to the needs of those around them. This idea is contrasted with the worldly mindset of seeking personal glory and authority. The commentary even points out that such an approach is heathenish. To attain greatness in Christ's kingdom, one must be willing to work diligently in the ministry, going above and beyond to bring glory to God and bless others.
+- 🔄 Mark 10:43 (attempt 1, 96 words, 43.66% quotes quality score: 0.9105218258417678, V2 normalized quality score: 21.62, commentator tiers 1-3: 27.21%, 0.0%, 72.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In this verse, Jesus cautions against adopting a domineering mindset and instead emphasizes the importance of serving others. He encourages believers to seek greatness through acts of humble service, choosing to be a subordinate servant. This means actively engaging in the work of ministry, laboring diligently to bring glory to God and positively impact the lives of others. True greatness in Christ's kingdom lies not in authority or dominance, but in selfless service and sacrificial love.
-- 🔄 Mark 10:43 (attempt 2, 77 words, 25.86% quotes quality score: 0.9675349402795492, V2 normalized quality score: 23.51, commentator tiers 1-3: 27.72%, 0.0%, 72.28%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: Jesus emphasizes that true greatness in His kingdom does not come from a position of power or authority, but from a heart of servanthood. He calls His followers to be subordinate servants, actively engaging in the work of ministry. This means taking on great responsibilities and enduring hardships in order to bring glory to God and make a significant impact in the lives of others. The path to greatness lies in selflessly serving and seeking to bring about positive change through diligent labor and sacrificial love.
-- 🔄 Mark 10:43 (attempt 3, 86 words, 32.81% quotes quality score: 0.9820212856266552, V2 normalized quality score: 24.0, commentator tiers 1-3: 26.28%, 0.0%, 73.72%) 
+- Attempt 2 BHT: True greatness in Christ's kingdom is not attained through power or status, but rather through humble service as a subordinate servant. This contrasts with the worldly mindset of seeking personal glory, which is deemed unbecoming and heathenish. The path to greatness lies in diligently laboring in the ministry, enduring hardships, and dedicating oneself to bringing glory to God and benefiting the souls of others.
+- 🔄 Mark 10:43 (attempt 2, 65 words, 33.33% quotes quality score: 0.9194154594736339, V2 normalized quality score: 21.91, commentator tiers 1-3: 19.45%, 0.0%, 80.55%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: In the words of Jesus, greatness in his kingdom is not achieved through power or status, but rather through humble service as a subordinate servant. This perspective contrasts with the worldly desire for personal glory, which is described as unbecoming and heathenish. To attain true greatness in Christ's kingdom, one must be willing to labor diligently in the ministry, enduring hardships, to bring glory to God and make a profound positive impact on the lives of others.
+- 🔄 Mark 10:43 (attempt 3, 78 words, 40.0% quotes quality score: 0.9835776340654709, V2 normalized quality score: 24.05, commentator tiers 1-3: 22.88%, 0.0%, 77.12%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Jesus teaches that greatness in his kingdom does not stem from pursuing power or status, but from embracing the role of a humble servant. Those who desire true greatness must become subordinate servants, ministering to others. This stands in stark contrast to the worldly mindset of seeking personal glory and authority. Rather, to attain greatness in Christ's kingdom, one must be willing to labor diligently in the work of the ministry, enduring hardships to bring glory to God and bless the souls of others.
+- 🔄 Mark 10:43 (attempt 4, 85 words, 35.48% quotes quality score: 1.0391560447308417, V2 normalized quality score: 25.9, commentator tiers 1-3: 24.03%, 0.0%, 75.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus teaches that true greatness in His kingdom does not come from wielding power, but from adopting a humble servant's heart. He urges believers to be subordinate servants, actively engaging in ministry and diligently serving others. In order to attain greatness, one must be willing to take on substantial responsibilities, endure hardships, and exert great effort. This commitment to selfless service brings glory to God and fosters a profound impact on the lives of people, reflecting the values of Christ's kingdom.
-- 🔄 Mark 10:43 (attempt 4, 83 words, 30.3% quotes quality score: 0.9933492991780501, V2 normalized quality score: 24.37, commentator tiers 1-3: 27.6%, 0.0%, 72.4%) 
+- Attempt 5 BHT: To achieve greatness in Christ's kingdom, one must adopt a humble servant mindset instead of seeking power or status. Jesus emphasizes that those who desire greatness should become subordinate servants, ministering to others. This starkly contrasts with the worldly pursuit of personal glory and authority, which is deemed as unbecoming and heathenish. True greatness is found in tirelessly laboring in the ministry, enduring hardships, and striving to bring glory to God and make a positive impact on the souls of others.
+- 🔄 Mark 10:43 (attempt 5, 82 words, 34.38% quotes quality score: 1.0126053890250537, V2 normalized quality score: 25.01, commentator tiers 1-3: 25.61%, 0.0%, 74.39%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus teaches that in His kingdom, greatness is not attained through a domineering spirit, but rather through a heart of humility and servanthood. He calls His followers to be subordinate servants, actively engaging in the work of ministry and willingly taking on great responsibilities. The path to greatness involves enduring hardships and working diligently to bring glory to God and bring about positive change in the lives of others. True greatness is found in selfless service and sacrificial love.
-- 🔄 Mark 10:43 (attempt 5, 79 words, 31.03% quotes quality score: 0.9595386286853353, V2 normalized quality score: 23.25, commentator tiers 1-3: 22.37%, 0.0%, 77.63%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 10:43 bht prompt v0.8 (83 words, 30.3% quotes)
-- quality score: 0.9933492991780501, V2 normalized quality score: 24.37, commentator tiers 1-3: 27.6%, 0.0%, 72.4%)
+- ✅ Mark 10:43 bht prompt v0.8 (85 words, 35.48% quotes)
+- quality score: 1.0391560447308417, V2 normalized quality score: 25.9, commentator tiers 1-3: 24.03%, 0.0%, 75.97%)

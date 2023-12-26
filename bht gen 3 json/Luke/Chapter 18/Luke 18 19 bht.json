@@ -1,32 +1,29 @@
 {
-    "timestamp": "12-19-2023 16:21:20",
+    "timestamp": "12-25-2023 21:16:26",
     "verseRef": "Luke 18:19",
     "bestBHT": {
-        "bht": "To fully comprehend the significance of Jesus' words, it is essential to grasp His purpose of challenging the young man's perception. By stating none is good, save one, that is, God, Jesus redirects the young man's belief that He is merely a good teacher or prophet. He subtly unveils His divinity, inviting the young man to acknowledge Him as God incarnate. This proclamation deviates from the norm of addressing anyone other than God with such a title. Jesus's assertion that only God is good reveals His true identity and calls for a deeper understanding of His nature.",
-        "wordCount": 100,
-        "quoteTokenProportion": 37.88,
-        "qualityScore": 0.8447180205237322,
-        "qualityScoreNormalizedComparedToV2BHTs": 19.43,
+        "bht": "Jesus' response to the youth offered more than just a mere objection; it aimed to elevate His status above other good masters. By refusing the title of good in isolation, Jesus implied His divine nature, surpassing human teachers. This undercurrent in His words rebuffs the beliefs of Socinianism, leaving them perplexed. Indeed, Jesus questioned the youth's address as good since it was unusual to use such a term when addressing men, reserving it exclusively for the one true God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.2745362953358768,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.72,
         "commentatorTierSimilarities": [
-            38.31,
+            59.52,
             0.0,
-            61.69
+            40.48
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "Impossible, for that had been to contradict all Scripture teaching,",
-            "\tand His own, too.",
-            "Unless therefore we are to ascribe captiousness to our Lord, He could",
-            "\thave had but one object\u2014to raise the youth's ideas of Himself.",
-            "This indeed is but distantly hinted; but unless this is seen in the background of",
-            "\tour Lord's words, nothing worthy of Him can be made out of them."
+            "Unless therefore we are to ascribe captiousness to our Lord, He could have had but one object\u2014to raise the youth's ideas of Himself, as not to be classed merely with other 'good masters', and declining to receive this title apart from the 'One' who is essentially and only 'good.'\" ",
+            "This indeed is but distantly hinted; but unless this is seen in the background of our Lord's words, nothing worthy of Him can be made out of them.",
+            "Hence, Socinianism, instead of having any support here, is only baffled by it."
         ],
         "John Gill": [
-            "It being unusual to address men, even their Rabbins, under such a title...",
-            "None is good, save one, [that is], God...",
-            "But God alone..."
+            "Why callest thou me good? it being unusual to address men, even their Rabbins, under such a title.",
+            "None is good, save one, [that is], God: or 'but God alone.'",
+            "But the one God."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -46,67 +43,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "It is impossible to fully understand Luke 18:19 without considering the backdrop of Jesus' intention to raise the young man's perception of Himself. By proclaiming that none is good, save one, that is, God, Jesus challenges the young man's belief that He is merely a good teacher or prophet. Through this statement, Jesus subtly reveals His divinity and invites the young man to recognize Him as God incarnate. This assertion would have been seen as unusual during that time as it was not common to attribute such a title to anyone but God Himself. Therefore, by stating that only God is good, Jesus demonstrates the true nature of His identity.",
-            "wordCount": 111,
-            "quoteTokenProportion": 43.06,
-            "qualityScore": 0.9484743821757151,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.88,
+            "bht": "To truly understand the meaning behind this verse, we must recognize that Jesus was not being captious; rather, he was attempting to elevate the youth's perception of Him. Our Lord did not wish to be grouped together with other good masters, but desired to be acknowledged as the one and only truly good. Though not overtly stated, this background knowledge is crucial to truly grasp the significance of His words. Therefore, the teachings of Socinianism are ultimately confounded by this verse. Jesus questions the youth's declaration of Him as good because it was uncommon to address men with such a title, reserving it instead for God alone.",
+            "wordCount": 109,
+            "quoteTokenProportion": 48.05,
+            "qualityScore": 1.2252392340715252,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.08,
             "commentatorTierSimilarities": [
-                42.57,
+                63.1,
                 0.0,
-                57.43
+                36.9
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "To fully grasp the depth of Luke 18:19, one must understand the subtle intention behind Jesus' words. By challenging the young man's perception and proclaiming that none is good, save one, that is, God, Jesus invites him to recognize His divinity. This assertion, viewed as unusual at the time, reveals Jesus as more than a good teacher or prophet. Instead, Jesus is subtly pointing to His true identity as God incarnate, elevating the young man's understanding and unveiling the deeper truth behind his question.",
-            "wordCount": 85,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.7773561915342371,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.19,
+            "bht": "Jesus' response to the youth who called Him good was not meant to be contentious, but rather to exalt Himself as beyond comparison to other teachers. It is essential to understand this underlying message for a proper interpretation. Striving to disprove Socinianism, which lacks support from this verse, Jesus challenges the youth's address as good, since this title is typically reserved for God alone.",
+            "wordCount": 65,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.130524906963299,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.93,
             "commentatorTierSimilarities": [
-                45.59,
+                64.44,
                 0.0,
-                54.41
+                35.56
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Understanding Jesus' words in Luke 18:19 requires recognizing His intention to challenge the young man's beliefs. By proclaiming none is good, save one, that is, God, Jesus goes beyond being seen as a mere teacher or prophet. Instead, He subtly reveals His divinity, prompting the young man to acknowledge Him as God in the flesh. This notion might have been unusual at the time, but Jesus seeks to elevate the young man's understanding by demonstrating His true nature and inviting him into a deeper recognition of who Jesus truly is.",
-            "wordCount": 91,
+            "bht": "In order to fully grasp the significance of Jesus' response, we need to recognize His intention in challenging the youth's notion of Him as merely one of many good masters. He wished to set Himself apart, not accepting the title of good apart from the one and only true good - God Himself. Consequently, this verse undermines Socinianism, which lacks support here. Jesus' query about being called good reflects the uncommonness of addressing men in such a way, signifying that this term is reserved exclusively for God.",
+            "wordCount": 87,
             "quoteTokenProportion": 39.39,
-            "qualityScore": 0.8550947508056949,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.78,
+            "qualityScore": 1.3820797427802565,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
             "commentatorTierSimilarities": [
-                43.87,
+                59.85,
                 0.0,
-                56.13
+                40.15
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "To fully understand the significance of this verse, it is crucial to consider Jesus' intention of raising the young man's perception of Himself. By proclaiming none is good, save one, that is, God, Jesus challenges the young man's belief that He is merely a good teacher or prophet. By doing so, Jesus subtly reveals His divinity, prompting the young man to recognize Him as God incarnate. This statement may have been seen as unusual, as it was not customary to address anyone other than God with such a title. Therefore, by declaring that only God is good, Jesus indicates His true identity and invites the young man to a deeper understanding of His nature.",
-            "wordCount": 116,
-            "quoteTokenProportion": 43.24,
-            "qualityScore": 0.8796899781636509,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.59,
+            "bht": "Jesus' response to the youth offered more than just a mere objection; it aimed to elevate His status above other good masters. By refusing the title of good in isolation, Jesus implied His divine nature, surpassing human teachers. This undercurrent in His words rebuffs the beliefs of Socinianism, leaving them perplexed. Indeed, Jesus questioned the youth's address as good since it was unusual to use such a term when addressing men, reserving it exclusively for the one true God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.2745362953358768,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.72,
             "commentatorTierSimilarities": [
-                38.62,
+                59.52,
                 0.0,
-                61.38
+                40.48
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "To fully comprehend the significance of Jesus' words, it is essential to grasp His purpose of challenging the young man's perception. By stating none is good, save one, that is, God, Jesus redirects the young man's belief that He is merely a good teacher or prophet. He subtly unveils His divinity, inviting the young man to acknowledge Him as God incarnate. This proclamation deviates from the norm of addressing anyone other than God with such a title. Jesus's assertion that only God is good reveals His true identity and calls for a deeper understanding of His nature.",
-            "wordCount": 100,
-            "quoteTokenProportion": 37.88,
-            "qualityScore": 0.8447180205237322,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.43,
+            "bht": "Jesus' primary intention in responding to the youth was not to argue but to emphasize His distinction from other good masters. His refusal to accept the title of good in isolation was a subtle way of hinting at His divine identity. This aspect of His words challenges the beliefs of Socinianism, which find no basis in this verse. Moreover, Jesus's question about being called good highlights the uncommonness of addressing men with such a title, reserving it exclusively for the one true God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.2083979648439425,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.52,
             "commentatorTierSimilarities": [
-                38.31,
+                58.7,
                 0.0,
-                61.69
+                41.3
             ],
             "generationAttempt": 5
         }

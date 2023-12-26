@@ -42,6 +42,6 @@ if __name__ == '__main__':
 
     bht_generator = BHTGenerator()
 
-    verses = ["Luke 22:34"]
+    verses = ["Matthew 20:7"]
 
-    bht_generator.generate_bhts(verses, ["choicest prompt v0.4"], ["bht prompt v0.8"], COMMENTATORS, redo_choicest=False, redo_bht=False, debug=False)
+    bht_generator.generate_bhts(verses, ["choicest prompt v0.4"], ["bht prompt v0.8"], COMMENTATORS, redo_choicest=True, redo_bht=True, debug=False)

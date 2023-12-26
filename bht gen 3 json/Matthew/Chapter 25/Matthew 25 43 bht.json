@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 23:52:53",
+    "timestamp": "12-25-2023 21:16:19",
     "verseRef": "Matthew 25:43",
     "bestBHT": {
-        "bht": "When we fail to extend hospitality to strangers, neglect to provide clothing for the naked, and do not visit the sick and imprisoned, our actions reveal a reflection of our character. These words caution us against the consequences of disregarding the basic principles of compassion and empathy. We are reminded that the righteous path entails embodying kindness and demonstrating care for our fellow human beings.",
-        "wordCount": 65,
-        "quoteTokenProportion": 32.0,
-        "qualityScore": 0.8445467595770024,
-        "qualityScoreNormalizedComparedToV2BHTs": 19.43,
+        "bht": "The lack of hospitality towards strangers and failure to provide clothing to the naked, as well as the absence of visits to the sick and imprisoned, are indicative of the conduct and character of those in question. Their behavior stands in direct opposition to that of the righteous, resulting in a distinct sentence. This highlights the vital importance of displaying empathy and support for those who find themselves in vulnerable circumstances.",
+        "wordCount": 71,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 0.9272853285461213,
+        "qualityScoreNormalizedComparedToV2BHTs": 22.18,
         "commentatorTierSimilarities": [
             0.0,
             0.0,
             100.0
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "John Gill": [
-            "I was a stranger, and ye took me not in...",
-            "...naked, and ye clothed me not: sick and in prison, and ye visited me not...",
-            "Their conduct, behaviour, and character, are just the reverse of the righteous..."
+            "I was a stranger, and ye took me not in... naked, and ye clothed me not: sick and in prison, and ye visited me not.\" ",
+            "Their conduct, behaviour, and character, are just the reverse of the righteous.",
+            "It is no wonder that their sentence is different."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -38,11 +38,11 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "When we read Matthew 25:43, we are confronted with a solemn reminder of the importance of compassion and empathy. This verse highlights the consequences of failing to extend hospitality and care to those in need. The words I was a stranger, and ye took me not in...naked, and ye clothed me not: sick and in prison, and ye visited me not... convey the disappointment that comes from neglecting to show kindness to our fellow human beings. These actions, or rather, the lack thereof, demonstrate a deviation from the righteous path and a failure to uphold the values that we should hold dear.",
-            "wordCount": 102,
-            "quoteTokenProportion": 34.78,
-            "qualityScore": 0.8724257971790752,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.35,
+            "bht": "In Matthew 25:43, the passage speaks of those who were not compassionate towards strangers, the naked, and the sick and imprisoned. The commentary describes these individuals as having conduct and character that is completely opposite to the righteous. Their lack of kindness and neglect towards others leads to their different sentencing, emphasizing the importance of compassion and care for those in need.",
+            "wordCount": 61,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.0993575185139615,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.9,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -51,11 +51,11 @@
             "generationAttempt": 1
         },
         {
-            "bht": "When we fail to extend hospitality to strangers, neglect to provide clothing for the naked, and do not visit the sick and imprisoned, our actions reveal a reflection of our character. These words caution us against the consequences of disregarding the basic principles of compassion and empathy. We are reminded that the righteous path entails embodying kindness and demonstrating care for our fellow human beings.",
-            "wordCount": 65,
-            "quoteTokenProportion": 32.0,
-            "qualityScore": 0.8445467595770024,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.43,
+            "bht": "In this verse, it is highlighted that those who failed to show compassion towards strangers, the naked, and the sick and imprisoned will face a different outcome due to their contrasting conduct and character when compared to the righteous. By neglecting to extend kindness and care to those in need, they receive a distinct sentence that underscores the significance of demonstrating compassion and support towards others.",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.0892915796292455,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.56,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -64,11 +64,11 @@
             "generationAttempt": 2
         },
         {
-            "bht": "When we choose not to welcome strangers, or clothe the naked, or visit the sick and imprisoned, we deviate from the conduct and character of the righteous. These actions, or rather, the lack thereof, expose our failure to extend compassion and care to those in need. Matthew 25:43 serves as a poignant reminder of the significance of showing hospitality and empathy towards others, underscoring the consequences of neglecting to do so.",
-            "wordCount": 70,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 0.8677029591779504,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.2,
+            "bht": "Those who refused to provide aid to strangers, neglected to clothe the naked, and failed to visit the sick and imprisoned are described as possessing character that is entirely opposite to the righteous. Consequently, their punishment aptly differs. The passage serves as a reminder of the importance of displaying compassion and extending support to those who are in need.",
+            "wordCount": 59,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 0.853350425822317,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.72,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -77,11 +77,11 @@
             "generationAttempt": 3
         },
         {
-            "bht": "When we turn away strangers in need, refuse to clothe the naked, and neglect to visit the sick and imprisoned, our behavior diverges completely from that of the righteous. These actions, or lack thereof, serve as a stark contrast to the compassion and care we ought to demonstrate. The verse underscores the significance of extending hospitality and empathy towards others, reminding us of the repercussions of failing to do so.",
-            "wordCount": 70,
-            "quoteTokenProportion": 35.85,
-            "qualityScore": 0.8705935725655973,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.29,
+            "bht": "As the verse suggests, those who had no mercy for strangers, neglected to clothe the naked, and showed no concern for the sick and imprisoned are depicted as having behavior and character that starkly contrasts that of the righteous. As a result, their sentence deviates from the righteous. This serves as a poignant reminder of the significance of demonstrating compassion and care towards those who are in need.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.0512750965984243,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.3,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -90,11 +90,11 @@
             "generationAttempt": 4
         },
         {
-            "bht": "When we neglect to take in strangers, fail to clothe the naked, and overlook the sick and imprisoned, our conduct and character reflect the opposite of the righteous. These words highlight the repercussions of lacking compassion and empathy towards others. They serve as a reminder of the importance of extending hospitality and care to those in need. Our actions, or lack thereof, reveal our deviation from the values that should guide us in our interactions with our fellow human beings.",
-            "wordCount": 80,
-            "quoteTokenProportion": 37.29,
-            "qualityScore": 0.7589313634119277,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.58,
+            "bht": "The lack of hospitality towards strangers and failure to provide clothing to the naked, as well as the absence of visits to the sick and imprisoned, are indicative of the conduct and character of those in question. Their behavior stands in direct opposition to that of the righteous, resulting in a distinct sentence. This highlights the vital importance of displaying empathy and support for those who find themselves in vulnerable circumstances.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 0.9272853285461213,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.18,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,

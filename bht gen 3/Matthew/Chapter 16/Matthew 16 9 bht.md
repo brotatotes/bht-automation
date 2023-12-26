@@ -1,13 +1,13 @@
 # Matthew 16:9 Commentary Help Text
 
 ## BHT:
-Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.
+As the disciples travel to Bethsaida, Jesus questions their lack of perception and reminds them of the miracle of feeding the five thousand, challenging their doubts about his ability to provide. Their failure to understand and remember what was recently done demonstrates their lack of faith and comprehension of Jesus' ministry.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "On the two sorts of baskets (cophini on the former occasion, spyrides on the latter), see note, ch. xv. 36."
-2. "This voyage brought them to Bethsaida: i.e. Bethsaida Jatias, on the North-Eastern side of the lake, see Mark viii. 22."
-3. "...and the miracle there related."
+2. "This voyage brought them to Bethsaida: i.e. Bethsaida Jatias, on the North-Eastern side of the lake."
+3. "See Mark viii. 22, and the miracle there related."
 
 ### Philip Schaff:
 1. Matthew 16:9. Do ye not yet perceive. Mark (Mark 8:17-18) is more full. Besides want of faith, they had shown great want of perception.
@@ -15,42 +15,42 @@ Do you not yet perceive and understand? Jesus asked, disappointed in the lack of
 
 
 ### John Gill:
-1. "Do ye not understand... neither remember the five loaves of the five thousand, and how many baskets ye took up?" 
-2. "Have you forgot what was so lately done, namely, the feeding five thousand men, besides women and children, with five loaves and two fishes?"
-3. "Have I fed so many with so small a quantity of food? and am I not able to feed twelve of you, though you have but one loaf?"
+1. "Do ye not understand" - Jesus questions the disciples' comprehension.
+2. "neither remember the five loaves of the five thousand, and how many baskets ye took up?" - Jesus reminds the disciples of the miracle of feeding the five thousand and the abundance of leftovers they collected.
+3. "Have you forgot what was so lately done...Have I fed so many with so small a quantity of food?" - Jesus challenges the disciples to recall the recent miraculous feeding and questions their doubts about his ability to provide.
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 23:48:39
+- Timestamp: 12-25-2023 20:59:35
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 58.73%
-- BHT Quality Score: 0.7874962134561587
+- BHT Word Count: 51
+- BHT Commentary Usage: 36.11%
+- BHT Quality Score: 1.2796736109464506
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'ability', 'able', 'amount', 'and', 'as', 'asked', 'back', 'before', 'disappointed', 'disciples', 'do', 'done', 'eyes', 'faith', 'feed', 'feeding', 'five', 'food', 'for', 'forgotten', 'from', 'had', 'have', 'he', 'his', 'i', 'if', 'in', 'jesus', 'lack', 'lacked', 'many', 'miraculous', 'not', 'now', 'of', 'perceive', 'perception', 'place', 'provide', 'provision', 'referred', 'reminding', 'say', 'small', 'so', 'still', 'such', 'taken', 'that', 'the', 'their', 'them', 'they', 'thousand', 'to', 'understand', 'very', 'was', 'what', 'yet', 'you']
-- ChatGPT injected words (significant words only) (26):
-	['ability', 'able', 'asked', 'disappointed', 'disciples', 'eyes', 'faith', 'feed', 'feeding', 'food', 'forgotten', 'jesus', 'lack', 'lacked', 'miraculous', 'perceive', 'perception', 'place', 'provide', 'provision', 'referred', 'reminding', 'small', 'taken', 'thousand', 'understand']
+- ChatGPT injected words (36):
+	['ability', 'about', 'and', 'as', 'bethsaida', 'challenging', 'comprehension', 'demonstrates', 'disciples', 'done', 'doubts', 'failure', 'faith', 'feeding', 'five', 'his', 'jesus', 'lack', 'ministry', 'miracle', 'of', 'perception', 'provide', 'questions', 'recently', 'remember', 'reminds', 'the', 'their', 'them', 'thousand', 'to', 'travel', 'understand', 'was', 'what']
+- ChatGPT injected words (significant words only) (23):
+	['ability', 'bethsaida', 'challenging', 'comprehension', 'demonstrates', 'disciples', 'doubts', 'failure', 'faith', 'feeding', 'jesus', 'lack', 'ministry', 'miracle', 'perception', 'provide', 'questions', 'recently', 'remember', 'reminds', 'thousand', 'travel', 'understand']
 
 ### Logs
-- Attempt 1 BHT: Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.
-- 🔄 Matthew 16:9 (attempt 1, 83 words, 58.73% quotes quality score: 0.7874962134561587, V2 normalized quality score: 17.53, commentator tiers 1-3: 9.48%, 32.63%, 57.89%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 2 BHT: Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.
-- 🔄 Matthew 16:9 (attempt 2, 83 words, 58.73% quotes quality score: 0.7874962134561587, V2 normalized quality score: 17.53, commentator tiers 1-3: 9.48%, 32.63%, 57.89%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 3 BHT: Do you not yet perceive and understand? Jesus asked his disciples. He reminded them of the feeding of the five thousand, emphasizing the miraculous provision from a small amount of food. Jesus wanted them to remember this event as a demonstration of his power to provide for their needs. Despite witnessing this incredible miracle, their lack of faith and understanding persisted. Jesus wanted them to have faith in his ability to provide for them even now.
-- 🔄 Matthew 16:9 (attempt 3, 76 words, 44.23% quotes quality score: 0.7520322004026353, V2 normalized quality score: 16.35, commentator tiers 1-3: 23.25%, 31.7%, 45.04%) 
+- Attempt 1 BHT: The disciples are struggling to understand Jesus' teachings and actions as they journey to Bethsaida. Jesus questions their perception and reminds them of the miracle of feeding the five thousand, asking if they have forgotten the abundance of leftovers that were collected. He challenges them to remember what was so recently done and questions their doubts about his ability to provide. The disciples' lack of faith and perception is evident, as they struggle to comprehend the nature of Jesus' ministry.
+- 🔄 Matthew 16:9 (attempt 1, 80 words, 40.74% quotes quality score: 1.1201902103566383, V2 normalized quality score: 28.59, commentator tiers 1-3: 13.73%, 22.89%, 63.38%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Do you not yet perceive and understand? Jesus asked his disciples, disappointed in their lack of faith and perception. He reminded them of the feeding of the five thousand, emphasizing the miraculous provision from a small amount of food. Jesus wanted them to remember this event, to recall the baskets of leftovers gathered. Despite witnessing this incredible miracle, their lack of faith and understanding persisted. Jesus wanted them to have faith in his ability to provide for them, even with limited resources.
-- 🔄 Matthew 16:9 (attempt 4, 82 words, 39.29% quotes quality score: 0.8677585069916598, V2 normalized quality score: 20.2, commentator tiers 1-3: 24.2%, 31.52%, 44.28%) 
+- Attempt 2 BHT: As the disciples travel to Bethsaida, Jesus questions their lack of perception and reminds them of the miracle of feeding the five thousand, challenging their doubts about his ability to provide. Their failure to understand and remember what was recently done demonstrates their lack of faith and comprehension of Jesus' ministry.
+- 🔄 Matthew 16:9 (attempt 2, 51 words, 36.11% quotes quality score: 1.2796736109464506, V2 normalized quality score: 33.89, commentator tiers 1-3: 15.51%, 21.46%, 63.03%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: On their journey to Bethsaida, Jesus questions the disciples' comprehension and challenges them to remember the miraculous feeding of the five thousand and the abundance of leftovers collected. Their lack of faith and perception is evident as they struggle to understand Jesus' teachings and actions. Jesus seeks to remind them of what was so recently done and questions their doubts about his ability to provide.
+- 🔄 Matthew 16:9 (attempt 3, 65 words, 37.78% quotes quality score: 1.1669767913335785, V2 normalized quality score: 30.15, commentator tiers 1-3: 14.2%, 21.87%, 63.93%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: As the disciples make their way to Bethsaida, Jesus confronts their lack of understanding and perception. He reminds them of the miraculous feeding of the five thousand and the multitude of baskets filled with leftovers, prompting them to recall the magnitude of the provision. Jesus challenges their doubts and questions their faith, considering how they could forget such a recent display of His power. The disciples' struggle to comprehend His teachings and actions highlights their need for greater faith and insight.
+- 🔄 Matthew 16:9 (attempt 4, 81 words, 32.73% quotes quality score: 1.1028416706143376, V2 normalized quality score: 28.01, commentator tiers 1-3: 15.0%, 26.35%, 58.65%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Do you not yet perceive and understand? Jesus questioned his disciples, disappointed in their faith and perception. He reminded them of the feeding of the five thousand, highlighting the miraculous provision from minimal resources. Jesus urged them to remember the abundance of leftovers collected from that event. Nevertheless, despite witnessing this astounding miracle, their faith and comprehension remained lacking. Jesus desired for them to trust in his ability to provide, even in times of scarcity.
-- 🔄 Matthew 16:9 (attempt 5, 75 words, 36.36% quotes quality score: 0.8076863936052913, V2 normalized quality score: 18.2, commentator tiers 1-3: 22.32%, 33.65%, 44.04%) 
+- Attempt 5 BHT: On their journey to Bethsaida, Jesus questions the disciples' comprehension and challenges them to remember the miraculous feeding of the five thousand and the abundance of leftovers collected. Their lack of faith and perception is evident as they struggle to understand Jesus' teachings and actions. Jesus seeks to remind them of what was so recently done and questions their doubts about his ability to provide. The disciples' understanding is lacking, and they need to have a greater faith in Jesus.
+- 🔄 Matthew 16:9 (attempt 5, 80 words, 38.46% quotes quality score: 1.156653925055369, V2 normalized quality score: 29.8, commentator tiers 1-3: 13.23%, 23.54%, 63.22%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 16:9 bht prompt v0.8 (83 words, 58.73% quotes)
-- quality score: 0.7874962134561587, V2 normalized quality score: 17.53, commentator tiers 1-3: 9.48%, 32.63%, 57.89%)
+- ✅ Matthew 16:9 bht prompt v0.8 (51 words, 36.11% quotes)
+- quality score: 1.2796736109464506, V2 normalized quality score: 33.89, commentator tiers 1-3: 15.51%, 21.46%, 63.03%)

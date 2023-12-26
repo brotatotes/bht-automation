@@ -1,29 +1,29 @@
 {
-    "timestamp": "12-22-2023 23:26:37",
+    "timestamp": "12-25-2023 21:16:22",
     "verseRef": "Mark 12:2",
     "bestBHT": {
-        "bht": "The verb used in this context is significant as it conveys the idea of summarization and hitting the main point, which is unique to this context in the New Testament. The mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the need to present righteousness, judgment, truth, and holiness, and give an account of them.",
-        "wordCount": 63,
-        "quoteTokenProportion": 34.88,
-        "qualityScore": 0.7841256756496952,
-        "qualityScoreNormalizedComparedToV2BHTs": 17.42,
+        "bht": "The owner of the vineyard sent his servant, described as a bondslave, to collect the fruit. The husbandmen, however, responded with rebellion, inflicting a wound to the servant's head. The act of violence towards the servant represents the resistance and refusal of the husbandmen to give the owner the fruit he was due. The owner had expected to receive the fruit of the vineyard, but instead encountered opposition and defiance.",
+        "wordCount": 71,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.2235658517798698,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.03,
         "commentatorTierSimilarities": [
-            22.67,
+            39.58,
             0.0,
-            77.33
+            60.42
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Archibald T. Robertson": [
-            "An old verb (\u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03b9\u03c9), to bring under heads (\u03ba\u03b5\u03c6\u03b1\u03bb\u03b7), to summarize.\" ",
-            "Then to hit on the head.\" ",
-            "Only here in the N.T."
+            "For fruits as in the end of the sentence.",
+            "A servant (\u03b4\u03bf\u03c5\u03bb\u03bf\u03bd). Bondslave.",
+            "Wounded in the head (\u03b5\u03ba\u03b5\u03c6\u03b1\u03bb\u03b9\u03c9\u03c3\u03b1\u03bd). An old verb (\u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03b9\u03c9), to bring under heads (\u03ba\u03b5\u03c6\u03b1\u03bb\u03b7), to summarize. Then to hit on the head."
         ],
         "John Gill": [
-            "when the time of the fruit drew near",
-            "a vineyard of the fourth year was marked with clods of earth... and the fruit of it was brought up to Jerusalem",
-            "such as righteousness and judgment, truth and holiness, so as to give an account of them"
+            "When the time of the fruit drew near.",
+            "A vineyard of the fourth year was marked with clods of earth, to show it was not to be eaten of.",
+            "That he might receive from the husbandmen the fruit of the vineyard."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -43,67 +43,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse uses a verb that means to summarize or to hit on the head, which is only used in the New Testament here. This suggests that the verse is emphasizing the importance of summarizing or hitting on the main point. Additionally, the mention of the fruit drawing near and the vineyard being marked with clods of earth indicates that it is time to bring forth the fruit and give an account of righteousness, judgment, truth, and holiness.",
-            "wordCount": 78,
-            "quoteTokenProportion": 37.04,
-            "qualityScore": 0.9804429024102104,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.94,
+            "bht": "The verse talks about a servant who was sent by the owner of the vineyard to collect the fruit. The servant, who is a bondslave, was wounded in the head by the husbandmen when he came to them. This act of violence suggests that the husbandmen were rebellious and did not want to give the owner the fruit he deserved. The owner was expecting to receive the fruit of the vineyard but instead met with resistance.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.2496071038086525,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.89,
             "commentatorTierSimilarities": [
-                46.28,
+                36.39,
                 0.0,
-                53.72
+                63.61
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The verb used in this passage, which means to summarize or to hit on the head, is unique to this context in the New Testament. This implies an emphasis on the importance of summarization and hitting the main point. Furthermore, the mention of the fruit drawing near and the marking of the vineyard with clods of earth suggests that it is time to present righteousness, judgment, truth, and holiness and give an account of them.",
-            "wordCount": 75,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.8922645011507315,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.01,
+            "bht": "The owner of the vineyard sent his servant, a bondslave, to collect the fruit and was met with resistance, resulting in the servant being wounded in the head. This act of violence symbolizes the rebellious nature of the husbandmen who refused to give the owner the fruit he rightfully deserved. The owner had expected to receive the fruit of the vineyard but encountered opposition instead.",
+            "wordCount": 65,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.223042513403922,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.01,
             "commentatorTierSimilarities": [
-                41.82,
+                35.04,
                 0.0,
-                58.18
+                64.96
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The verb used in this context is significant as it conveys the idea of summarization and hitting the main point, which is unique to this context in the New Testament. The mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the need to present righteousness, judgment, truth, and holiness, and give an account of them.",
-            "wordCount": 63,
-            "quoteTokenProportion": 34.88,
-            "qualityScore": 0.7841256756496952,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.42,
+            "bht": "The servant, a bondslave, was sent by the owner of the vineyard to collect the fruit. However, the husbandmen reacted rebelliously and wounded the servant in the head. This violent act signifies the resistance of the husbandmen towards giving the owner the fruit that was rightfully his. The owner had anticipated receiving the fruitful outcome from his vineyard, but instead encountered opposition and hostility.",
+            "wordCount": 64,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.031724390066744,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.65,
             "commentatorTierSimilarities": [
-                22.67,
+                37.74,
                 0.0,
-                77.33
+                62.26
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The verb used in this context, meaning to summarize or to hit on the head, is exclusive to this passage in the New Testament. This suggests the significance of summarizing or hitting the main point. Additionally, the mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the time to bring forth the fruit and give an account of righteousness, judgment, truth, and holiness.",
+            "bht": "The owner of the vineyard sent his servant, described as a bondslave, to collect the fruit. The husbandmen, however, responded with rebellion, inflicting a wound to the servant's head. The act of violence towards the servant represents the resistance and refusal of the husbandmen to give the owner the fruit he was due. The owner had expected to receive the fruit of the vineyard, but instead encountered opposition and defiance.",
             "wordCount": 71,
-            "quoteTokenProportion": 27.66,
-            "qualityScore": 0.8500258539810374,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.61,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.2235658517798698,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.03,
             "commentatorTierSimilarities": [
-                38.73,
+                39.58,
                 0.0,
-                61.27
+                60.42
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The verb used exclusively in this passage conveys the idea of summarizing or hitting the main point. It indicates the significance of summarization. Furthermore, the mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the time to present righteousness, judgment, truth, and holiness and give an account of them.",
-            "wordCount": 57,
-            "quoteTokenProportion": 30.95,
-            "qualityScore": 0.6904271771800036,
-            "qualityScoreNormalizedComparedToV2BHTs": 14.3,
+            "bht": "The servant, described as a bondslave, was sent by the owner of the vineyard to collect the fruit. Unfortunately, the husbandmen responded rebelliously and wounded the servant in the head. This aggressive act of striking the servant's head indicates a deliberate intention to resist and reject the rightful claims of the vineyard owner. Instead of receiving the anticipated fruit, the owner faced opposition and defiance from the husbandmen.",
+            "wordCount": 69,
+            "quoteTokenProportion": 26.19,
+            "qualityScore": 1.113763205004637,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.38,
             "commentatorTierSimilarities": [
-                28.07,
+                46.51,
                 0.0,
-                71.93
+                53.49
             ],
             "generationAttempt": 5
         }

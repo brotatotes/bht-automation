@@ -1,12 +1,12 @@
 {
-    "timestamp": "12-22-2023 23:28:13",
+    "timestamp": "12-25-2023 21:16:22",
     "verseRef": "Mark 14:34",
     "bestBHT": {
-        "bht": "Jesus's soul is gripped with sorrow, an overwhelming anguish that feels like it could bring him to the point of death. He requests the disciples to remain and keep watch alongside him in the midst of this profound distress. These words reveal the depth of Jesus's emotional and spiritual struggle as he faces the approaching crucifixion.",
-        "wordCount": 58,
-        "quoteTokenProportion": 36.96,
-        "qualityScore": 0.7448727345242951,
-        "qualityScoreNormalizedComparedToV2BHTs": 16.11,
+        "bht": "Feeling surrounded and oppressed by an intense sorrow, Jesus found himself at the brink of despair, as he declared, My soul is exceeding sorrowful unto death. The weight of this sorrow threatened to consume him entirely, leaving him on the verge of death. Recognizing the gravity of his predicament, he implored his disciples to tarry ye here, and watch, emphasizing the crucial importance of their presence and vigilance during this agonizing moment.",
+        "wordCount": 72,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.5609840219476556,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.25,
         "commentatorTierSimilarities": [
             0.0,
             0.0,
@@ -16,9 +16,8 @@
     },
     "choicestQuotes": {
         "John Gill": [
-            "My soul is exceeding sorrowful unto death: he was surrounded with sorrow, and it pressed him so hard, and close, on every side, that he was just ready to die with it.\" ",
-            "Tarry ye here, and watch.\" ",
-            "with me."
+            "My soul is exceeding sorrowful unto death: he was surrounded with sorrow, and it pressed him so hard, and close, on every side, that he was just ready to die with it.",
+            "Tarry ye here, and watch: in Matthew it is added, 'with me'."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -38,11 +37,11 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Jesus, in this verse, expresses the deep anguish he feels in his soul. The commentary describes how he was surrounded by intense sorrow, so overwhelming that it made him feel as though he was on the brink of death. He then instructs his disciples to stay and keep watch with him, underscoring the weight of his sorrowful state. This passage highlights the immense emotional and spiritual struggle Jesus experienced in anticipation of his crucifixion.",
-            "wordCount": 74,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.637800013771749,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.55,
+            "bht": "Surrounded by an overwhelming sorrow, feeling as though he would die from it, Jesus expressed the depth of his anguish when he said, My soul is exceeding sorrowful unto death. This sorrow pressed hard on every side, weighing heavily on his spirit. In his distress, he asked his disciples to stay with him and keep watch, emphasizing the need for their presence and support during this challenging time.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.3567867383102077,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.46,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -51,11 +50,11 @@
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus's soul is gripped with sorrow, an overwhelming anguish that feels like it could bring him to the point of death. He requests the disciples to remain and keep watch alongside him in the midst of this profound distress. These words reveal the depth of Jesus's emotional and spiritual struggle as he faces the approaching crucifixion.",
-            "wordCount": 58,
-            "quoteTokenProportion": 36.96,
-            "qualityScore": 0.7448727345242951,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.11,
+            "bht": "Feeling surrounded and oppressed by an intense sorrow, Jesus found himself at the brink of despair, as he declared, My soul is exceeding sorrowful unto death. The weight of this sorrow threatened to consume him entirely, leaving him on the verge of death. Recognizing the gravity of his predicament, he implored his disciples to tarry ye here, and watch, emphasizing the crucial importance of their presence and vigilance during this agonizing moment.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5609840219476556,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.25,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -64,11 +63,11 @@
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus, inexpressibly sorrowful, finds himself on the brink of death as sadness envelops him from all sides. He implores his disciples to remain with him and stay vigilant. This verse illuminates the magnitude of Jesus's inward turmoil and the immense weight he carries before his impending crucifixion.",
-            "wordCount": 48,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 0.703782982634727,
-            "qualityScoreNormalizedComparedToV2BHTs": 14.75,
+            "bht": "In the face of immense sorrow, Jesus found himself in a state of utter despair, with the weight of his anguish pressing so heavily upon him that he felt as though he would die. His soul was overwhelmed by the intensity of this sorrow, leaving him in a state of distress. Recognizing the significance of the situation, he implored his disciples to remain with him and remain alert, emphasizing the importance of their companionship and watchfulness during this trying time.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.104091164077583,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.05,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -77,11 +76,11 @@
             "generationAttempt": 3
         },
         {
-            "bht": "Surrounded by crushing sorrow that feels like a threat to his very life, Jesus agonizes deeply in his soul. The intensity of his anguish is vividly described as he tells his disciples to stay and be watchful. Jesus's words reflect the immense emotional and spiritual struggle he experiences before his crucifixion, revealing the profound depth of his suffering.",
-            "wordCount": 59,
-            "quoteTokenProportion": 31.91,
-            "qualityScore": 0.6431587642352832,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.73,
+            "bht": "As Jesus faced an unprecedented sorrow, he felt as though he was on the verge of death. The intensity of his despair weighed heavily on him, pressing from all sides. With the weight of impending doom, he exclaimed, My soul is exceeding sorrowful unto death. Aware of the gravity of the situation, he pleaded with his disciples, Tarry ye here, and watch, emphasizing the need for their presence and attentiveness during this overwhelming moment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.283266602121746,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.01,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -90,11 +89,11 @@
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus, in the face of overwhelming sorrow, pleads for his disciples to remain alert and watchful. The deep anguish pressing upon Jesus is depicted as he describes his soul being consumed by sorrow to the point of death. These words signify the immense emotional turmoil that Jesus endures in anticipation of his crucifixion, emphasizing the intensity of his suffering.",
-            "wordCount": 59,
-            "quoteTokenProportion": 34.09,
-            "qualityScore": 0.7198805201428327,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.28,
+            "bht": "My soul is exceeding sorrowful unto death: Jesus expressed the profound anguish he experienced, feeling as though this sorrow would consume him entirely. It pressed him from all sides, causing him immense distress and the feeling of being at the edge of death. In his vulnerability, he sought the support of his disciples, asking them to remain and keep watch, highlighting the significance of their presence during this distressing time.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.3575003612042773,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.48,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,

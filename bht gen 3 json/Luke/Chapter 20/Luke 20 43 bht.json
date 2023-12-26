@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:22:14",
+    "timestamp": "12-25-2023 21:16:20",
     "verseRef": "Luke 20:43",
     "bestBHT": {
-        "bht": "These words are a continuation of the citation from Psalm 110:1, emphasizing the authority and power of the Messiah. The reference to making enemies a footstool signifies the complete defeat and subjugation of those who oppose the Messiah. This highlights the victorious and reigning position of the Messiah, as the enemies are placed under his feet.",
-        "wordCount": 55,
-        "quoteTokenProportion": 37.84,
-        "qualityScore": 0.9217562938362557,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.99,
+        "bht": "The omission of the phrase of thy feet underscores the significance of the subsequent statement: Until I make thine enemies thy footstool. This citation from Psalm 110:1 specifically pertains to the Messiah. It emphasizes the extraordinary authority and power of the Messiah, represented by his enemies being subdued and serving as his footstool. This conveys the promise of the Messiah's future triumph and ultimate victory over all adversaries.",
+        "wordCount": 68,
+        "quoteTokenProportion": 34.04,
+        "qualityScore": 0.9824096721918154,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.01,
         "commentatorTierSimilarities": [
-            19.01,
+            27.58,
             0.0,
-            80.99
+            72.42
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -41,67 +41,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Until I make thine enemies thy footstool. These words, which are a continuation of the citation from Psalm 110:1, emphasize the authority and power of the Messiah. The reference to making enemies a footstool signifies the complete defeat and subjugation of those who oppose the Messiah. This verse highlights the victorious and reigning position of the Messiah, as the enemies are placed under his feet.",
-            "wordCount": 64,
-            "quoteTokenProportion": 40.91,
-            "qualityScore": 1.1556491658003483,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.77,
+            "bht": "The phrase of thy feet is omitted in this verse, but it is important to note that it is referring to the phrase Until I make thine enemies thy footstool. This is a continuation of a citation from Psalm 110:1, where these words are applied to the Messiah. The verse is emphasizing the authority and power of the Messiah, who will ultimately conquer his enemies and have them as his footstool.",
+            "wordCount": 70,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.1382079861052343,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.19,
             "commentatorTierSimilarities": [
-                24.39,
+                21.68,
                 0.0,
-                75.61
+                78.32
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "These words are a continuation of the citation from Psalm 110:1, emphasizing the authority and power of the Messiah. The reference to making enemies a footstool signifies the complete defeat and subjugation of those who oppose the Messiah. This highlights the victorious and reigning position of the Messiah, as the enemies are placed under his feet.",
-            "wordCount": 55,
-            "quoteTokenProportion": 37.84,
-            "qualityScore": 0.9217562938362557,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.99,
+            "bht": "The omission of the phrase of thy feet in this passage highlights the significance of the following words: Until I make thine enemies thy footstool. This reference to Psalm 110:1 allows us to understand that the verse is speaking about the Messiah. The verse conveys the idea that the Messiah possesses great authority and power, symbolized by his enemies becoming his footstool. It speaks to the future triumph and ultimate victory of the Messiah over all adversaries.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 0.8988056937727735,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.23,
             "commentatorTierSimilarities": [
-                19.01,
+                20.47,
                 0.0,
-                80.99
+                79.53
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "These words, a continuation of the citation from Psalm 110:1, emphasize the authority and power of the Messiah. The enemies being made a footstool signifies their complete defeat and subjugation. This verse highlights the victorious and reigning position of the Messiah, as the enemies are placed under his feet.",
-            "wordCount": 48,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.9489526421620759,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.9,
+            "bht": "The significance of the omitted phrase of thy feet lies in its connection to the following statement: Until I make thine enemies thy footstool. This citation from Psalm 110:1 establishes that the passage refers to the Messiah. It conveys the idea of the Messiah's exceptional authority and power, symbolized by the subjugation of his enemies as his footstool. This verse emphasizes the future triumph and ultimate victory of the Messiah over all adversaries.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.0479490449595577,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.19,
             "commentatorTierSimilarities": [
-                22.78,
+                27.2,
                 0.0,
-                77.22
+                72.8
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "These words, a continuation of the citation from Psalm 110:1, emphasize the authority and power of the Messiah. The enemies being made a footstool signifies their complete defeat and subjugation. This highlights the victorious and reigning position of the Messiah, as the opponents are placed under his feet.",
-            "wordCount": 47,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.9017625111122478,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.33,
+            "bht": "The omission of the phrase of thy feet underscores the significance of the subsequent statement: Until I make thine enemies thy footstool. This citation from Psalm 110:1 specifically pertains to the Messiah. It emphasizes the extraordinary authority and power of the Messiah, represented by his enemies being subdued and serving as his footstool. This conveys the promise of the Messiah's future triumph and ultimate victory over all adversaries.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 0.9824096721918154,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.01,
             "commentatorTierSimilarities": [
-                24.01,
+                27.58,
                 0.0,
-                75.99
+                72.42
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "These words, a continuation of the citation from Psalm 110:1, emphasize the authority and power of the Messiah. The enemies being made a footstool signifies their complete defeat and subjugation. This highlights the victorious and reigning position of the Messiah, as the enemies are placed under his feet.",
-            "wordCount": 47,
-            "quoteTokenProportion": 41.18,
-            "qualityScore": 0.9198198528203251,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.93,
+            "bht": "The absence of the phrase of thy feet draws attention to the following words: Until I make thine enemies thy footstool. These words are taken from Psalm 110:1 and pertain to the Messiah. The verse highlights the Messiah's authority and power, symbolized by the subjugation of his enemies as his footstool. It signifies the ultimate defeat and triumph of the Messiah over all adversaries.",
+            "wordCount": 64,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.0810635811706273,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.29,
             "commentatorTierSimilarities": [
-                23.6,
+                26.35,
                 0.0,
-                76.4
+                73.65
             ],
             "generationAttempt": 5
         }

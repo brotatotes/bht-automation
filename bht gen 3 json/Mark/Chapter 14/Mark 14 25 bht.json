@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:28:14",
+    "timestamp": "12-25-2023 21:00:50",
     "verseRef": "Mark 14:25",
     "bestBHT": {
-        "bht": "Jesus speaks of abstaining from earthly wine until the day he partakes of it anew in the kingdom of God. This statement carries a symbolic meaning, signifying the joys of heaven. It points to a time when earthly distinctions will cease and God will be all in all. The mention of wine represents the heavenly state of eternal bliss, emphasizing the everlasting reign of God.",
-        "wordCount": 65,
-        "quoteTokenProportion": 33.33,
-        "qualityScore": 0.7517516626032839,
-        "qualityScoreNormalizedComparedToV2BHTs": 16.34,
+        "bht": "Jesus reveals that He will refrain from drinking the fruit of the vine until the day when He partakes of it anew, representing the joys of heaven. This hints at a future where God will reign in the saints, and they will enjoy His presence for all eternity. Emphasizing that the next time He drinks, it will not be of this earthly realm but in the heavenly kingdom, Jesus highlights the eternal nature of His joy and the transformative experience that lies ahead.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.023656272698657,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.38,
         "commentatorTierSimilarities": [
-            14.14,
+            25.67,
             0.0,
-            85.86
+            74.33
         ],
-        "generationAttempt": 5
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -21,11 +21,12 @@
         "John Gill": [
             "I will drink no more of the fruit of the vine; that is, wine, until that day that I drink it new; in a figurative and mystical sense; by which are meant the joys of heaven.\" ",
             "By which are meant the joys of heaven.",
-            "When the kingdom of the Mediator will be delivered up, and there will be no distinction of government; but God, Father, Son, and Spirit, will be all in all, and shall reign in the saints, and they with them, to all eternity."
+            "God, Father, Son, and Spirit, will be all in all, and shall reign in the saints, and they with them, to all eternity."
         ],
         "John Wesley": [
             "I will drink no more of the fruit of the vine, till I drink it new in the kingdom of God.\" ",
-            "I shall drink no more before I die: the next wine I drink will not be earthly, but heavenly."
+            "That is, I shall drink no more before I die.\" ",
+            "The next wine I drink will not be earthly, but heavenly."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -45,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 14:25, Jesus says, I will drink no more of the fruit of the vine until that day that I drink it new. This statement holds a figurative and mystical meaning, referring to the joys of heaven. Jesus is speaking of the future kingdom of God, where distinctions of earthly government will cease and God will be all in all. The wine he refers to is not earthly, but heavenly, representing the eternal reign of God in the saints.",
+            "bht": "Jesus declares in this verse that He will not partake in the fruit of the vine until the day when He drinks it anew. This signifies a figurative and mystical sense, representing the joys of heaven. It foreshadows the time when God will be all in all, reigning in the saints for all eternity. Jesus reveals that the next time He partakes of the wine, it will not be of this earthly realm, but in the kingdom of God.",
             "wordCount": 79,
-            "quoteTokenProportion": 40.38,
-            "qualityScore": 1.0052601344872012,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.77,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 0.9466307979865409,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.82,
             "commentatorTierSimilarities": [
-                21.06,
+                23.24,
                 0.0,
-                78.94
+                76.76
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this particular passage, Jesus declares that he will not partake in the earthly wine again until he drinks it anew in the kingdom of God. This statement carries a deep and symbolic meaning, referring to the ultimate joy and bliss found in heaven. It signifies the time when all earthly distinctions will cease, and God will reign over everything. The wine mentioned here represents the heavenly and eternal state, emphasizing the divinity and everlasting sovereignty of God.",
-            "wordCount": 78,
-            "quoteTokenProportion": 34.55,
-            "qualityScore": 0.6790154179905792,
-            "qualityScoreNormalizedComparedToV2BHTs": 13.92,
+            "bht": "Jesus declares that He will refrain from drinking the fruit of the vine until the day when He partakes of it anew. This signifies the joys of heaven, representing a figurative and mystical sense. It hints at a future where God will reign in the saints, and they will enjoy His presence for all eternity. Jesus emphasizes that the next time He drinks, it will not be of this earthly realm but in the heavenly kingdom, highlighting the eternal nature of His joy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 0.8926337054409244,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.02,
             "commentatorTierSimilarities": [
-                7.94,
+                21.46,
                 0.0,
-                92.06
+                78.54
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus states that he will refrain from partaking in the earthly wine until the day he drinks it anew in the kingdom of God. His words contain figurative and mystical significance, pointing towards the eternal joys found in heaven. This indicates a time when earthly distinctions will no longer exist, and God will reign over all things. The mention of wine symbolizes the heavenly and everlasting reign of God, emphasizing his divine authority.",
-            "wordCount": 73,
-            "quoteTokenProportion": 33.96,
-            "qualityScore": 0.7329995178447983,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.72,
+            "bht": "Jesus proclaims that He will abstain from the fruit of the vine until the day when He drinks it anew, symbolizing the joys of heaven. This points to an eternal reign wherein God will be all in all, and believers will partake in His everlasting presence. By linking the cessation of drinking to the kingdom of God, Jesus conveys that His next consumption will transcend earthly realms, revealing a heavenly and everlasting fulfillment. His declaration underscores the transformative nature of His future divine banquets.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 0.7787556786348915,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.24,
             "commentatorTierSimilarities": [
-                11.53,
+                20.63,
                 0.0,
-                88.47
+                79.37
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus makes a significant statement in Mark 14:25, expressing that he will not drink of the earthly wine until he drinks it anew in the kingdom of God. This declaration holds figurative and mystical implications, referring to the joys of heaven that await believers. It signifies a future time when all earthly governance will be relinquished, and God will reign supreme. The mention of wine in this context serves as a representation of the heavenly and eternal realities, emphasizing the everlasting sovereignty and glory of God.",
-            "wordCount": 85,
-            "quoteTokenProportion": 29.31,
-            "qualityScore": 0.7894008051441483,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.59,
+            "bht": "Jesus reveals that He will refrain from drinking the fruit of the vine until the day when He partakes of it anew, representing the joys of heaven. This hints at a future where God will reign in the saints, and they will enjoy His presence for all eternity. Emphasizing that the next time He drinks, it will not be of this earthly realm but in the heavenly kingdom, Jesus highlights the eternal nature of His joy and the transformative experience that lies ahead.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.023656272698657,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.38,
             "commentatorTierSimilarities": [
-                16.73,
+                25.67,
                 0.0,
-                83.27
+                74.33
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus speaks of abstaining from earthly wine until the day he partakes of it anew in the kingdom of God. This statement carries a symbolic meaning, signifying the joys of heaven. It points to a time when earthly distinctions will cease and God will be all in all. The mention of wine represents the heavenly state of eternal bliss, emphasizing the everlasting reign of God.",
-            "wordCount": 65,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.7517516626032839,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.34,
+            "bht": "Jesus declares that He will abstain from the fruit of the vine until the day when He partakes of it anew, signifying the joys of heaven. This alludes to a future when God will reign in the saints and they will share in His eternal rule. The next time Jesus drinks, it will not be of this earthly realm but in the heavenly kingdom, portraying the everlasting nature of His joyous communion. This statement underscores the transformative and heavenly reality awaiting His followers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 0.9562339802909963,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.14,
             "commentatorTierSimilarities": [
-                14.14,
+                28.27,
                 0.0,
-                85.86
+                71.73
             ],
             "generationAttempt": 5
         }

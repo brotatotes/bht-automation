@@ -1,23 +1,23 @@
 {
-    "timestamp": "12-19-2023 16:22:10",
+    "timestamp": "12-25-2023 21:16:29",
     "verseRef": "Luke 20:31",
     "bestBHT": {
-        "bht": "In this account, a woman is taken as a wife by several men, one after another, yet no children are born and no legacy is left behind. The repetition of these marriages resulting in barrenness underscores the fleeting nature of life and the reminder that our time on earth is limited. It prompts contemplation on the significance of creating a lasting impact and leaving behind a meaningful legacy for future generations, recognizing the brevity and fragility of our mortal existence.",
-        "wordCount": 80,
-        "quoteTokenProportion": 38.98,
-        "qualityScore": 0.6675717217861017,
-        "qualityScoreNormalizedComparedToV2BHTs": 13.54,
+        "bht": "In this story, we encounter a series of seven brothers who each, in turn, took the same woman as their wife. Remarkably, none of these marriages produced any children, and all seven brothers eventually passed away. This narrative prompts us to reflect on the meaning and purpose of marriage, as well as the desire for a lasting legacy. It raises profound questions about the nature of relationships, the longing for offspring, and the significance of leaving a lasting impact on future generations.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 0.8469405633511773,
+        "qualityScoreNormalizedComparedToV2BHTs": 19.51,
         "commentatorTierSimilarities": [
             0.0,
             0.0,
             100.0
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "John Gill": [
             "And the third took her.... and in like manner the seven also.\" ",
-            "The other four, one after another, when all seven married her.",
+            "The other four, one after another, when all seven married her.\" ",
             "And they left no children, and died; or they died, leaving no children behind them."
         ]
     },
@@ -38,11 +38,11 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In this verse, we see a series of events where multiple individuals take a woman as their wife, but each one ultimately leaves no descendants. The commentators highlight the repetitive pattern of these marriages, emphasizing how one after another, these marriages resulted in no children. The verse suggests a sense of futility and emptiness as each marriage ends in death without leaving behind any offspring. This repetition and lack of fruitfulness serve as a reminder of the transient nature of life and the importance of legacy.",
-            "wordCount": 86,
-            "quoteTokenProportion": 38.33,
-            "qualityScore": 0.7633265612657831,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.73,
+            "bht": "In Luke 20:31, we read about the succession of seven brothers who successively took a woman as their wife. None of the husbands left behind any children, and eventually, they all died. This passage highlights the concept of marriage and the importance of continuity through progeny. It also raises questions about the nature of relationships and the desire for legacy and offspring. Despite the brevity of the passage, it provides valuable insights into the complexities of human relationships and the longing for a lasting impact.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 0.7338184385053945,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.74,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -51,11 +51,11 @@
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, several men consecutively marry a woman, but none of these marriages bear children nor leave a lasting legacy. The recurring sequence of these unions, devoid of any descendants, highlights the futility and transience of life. These marriages serve as a reminder of the ephemeral nature of human existence and emphasize the importance of leaving behind a lasting impact on future generations.",
-            "wordCount": 64,
-            "quoteTokenProportion": 31.91,
-            "qualityScore": 0.649395716072027,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.94,
+            "bht": "In this verse, we see a series of seven brothers who married the same woman one after another, but none of them had any children and eventually died. This raises important questions about marriage and the desire for posterity. The absence of offspring in these marriages sheds light on the significance of leaving a legacy and the complexities of human relationships. It prompts us to ponder the importance of continuity and the longing for a lasting impact beyond our own lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 0.8362952991073269,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.15,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -64,11 +64,11 @@
             "generationAttempt": 2
         },
         {
-            "bht": "Through a series of repetitive marriages, one following the other, the married woman in this account experiences an unfruitful cycle. None of these unions result in the birth of children or leave any lasting descendants. The succession of these marriages with no offspring serves as a poignant reminder of the transient nature of life and the sobering reality of leaving behind no legacy. This narrative prompts reflection on the brevity of our human existence and the significance of creating a meaningful and lasting impact during our time on earth.",
-            "wordCount": 89,
-            "quoteTokenProportion": 33.87,
-            "qualityScore": 0.5910780890821161,
-            "qualityScoreNormalizedComparedToV2BHTs": 11.0,
+            "bht": "In this story, we encounter a series of seven brothers who each, in turn, took the same woman as their wife. Remarkably, none of these marriages produced any children, and all seven brothers eventually passed away. This narrative prompts us to reflect on the meaning and purpose of marriage, as well as the desire for a lasting legacy. It raises profound questions about the nature of relationships, the longing for offspring, and the significance of leaving a lasting impact on future generations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 0.8469405633511773,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.51,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -77,11 +77,11 @@
             "generationAttempt": 3
         },
         {
-            "bht": "In this account, a woman is taken as a wife by several men, one after another, yet no children are born and no legacy is left behind. The repetition of these marriages resulting in barrenness underscores the fleeting nature of life and the reminder that our time on earth is limited. It prompts contemplation on the significance of creating a lasting impact and leaving behind a meaningful legacy for future generations, recognizing the brevity and fragility of our mortal existence.",
-            "wordCount": 80,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 0.6675717217861017,
-            "qualityScoreNormalizedComparedToV2BHTs": 13.54,
+            "bht": "In this intriguing account, we witness a succession of seven brothers who each took the same woman as their wife. Curiously, none of these unions resulted in children, and eventually, all seven brothers perished. Their story compels us to contemplate the complexities of marriage and the innate human desire for posterity. It also prompts us to reflect on the significance of leaving a lasting impact and the longing for a legacy that extends beyond our own mortality.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 0.8169364118184694,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.51,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -90,11 +90,11 @@
             "generationAttempt": 4
         },
         {
-            "bht": "One after another, several men took the woman as their wife, and in a pattern of unfruitfulness, no descendants were left behind. These marriages ended in death without leaving any children, highlighting the transient nature of life and the importance of legacy. This repetitive cycle emphasizes the futility of worldly pursuits and calls us to consider the significance of leaving a lasting impact beyond our own mortality. Our time on earth may be brief, but our influence can endure through the generations.",
-            "wordCount": 82,
-            "quoteTokenProportion": 43.94,
-            "qualityScore": 0.6228139486378124,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.05,
+            "bht": "In this fascinating narrative, we encounter a series of seven brothers who married the same woman, one after another. Strangely, none of these marriages bore any children, and all seven brothers eventually died. This account invites us to reflect on the purpose of marriage and the yearning for a lasting legacy. It provokes us to ponder the complexities of human relationships and the profound desire to leave behind a lasting impact. The absence of offspring in these unions raises essential questions about the significance of continuity and the longing for a meaningful heritage.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 0.6988762731610716,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.58,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,

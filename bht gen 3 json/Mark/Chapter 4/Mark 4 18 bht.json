@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:21:18",
+    "timestamp": "12-25-2023 21:16:20",
     "verseRef": "Mark 4:18",
     "bestBHT": {
-        "bht": "Some people, described as seeds sown among thorns, are characterized by their worldly dispositions, being excessively concerned with acquiring earthly riches and gratifying their carnal and sensual appetites. Despite their inclination towards the world, these individuals still find themselves compelled to listen to the teachings of the word, whether it be out of habit or the inner voice of conscience. This serves as a reminder to prioritize spiritual matters over worldly concerns.",
-        "wordCount": 72,
-        "quoteTokenProportion": 40.0,
-        "qualityScore": 0.9813036775813427,
-        "qualityScoreNormalizedComparedToV2BHTs": 23.97,
+        "bht": "Some hearers of the word are like thorny ground, characterized by their worldly dispositions and excessive concern for earthly riches and carnal desires. Nevertheless, they still find themselves attending the ministry of the word, driven by custom or their own consciences.",
+        "wordCount": 41,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.2134414076791582,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.69,
         "commentatorTierSimilarities": [
-            23.39,
+            25.59,
             0.0,
-            76.61
+            74.41
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
@@ -20,8 +20,9 @@
             "\tsown among thorns; such as hear the word,"
         ],
         "John Gill": [
-            "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown, who are of worldly dispositions; who are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites.\" ",
-            "Such as hear the word; who notwithstanding are prevailed upon through custom, or the dictates of their consciences, to attend upon the ministry of the word."
+            "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown, who are of worldly dispositions.\" ",
+            "Who are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites.",
+            "Who notwithstanding are prevailed upon through custom, or the dictates of their consciences, to attend upon the ministry of the word."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -41,67 +42,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Some people are like seeds sown among thorns, representing those who hear the word but are consumed by worldly desires. These individuals become overly preoccupied with acquiring earthly riches and satisfying their carnal and sensual appetites. However, despite their worldly dispositions, they are still compelled to listen to the teachings of the word, whether it be due to habit or the prompting of their consciences. This verse reminds us of the importance of prioritizing spiritual pursuits above earthly concerns.",
-            "wordCount": 79,
-            "quoteTokenProportion": 41.94,
-            "qualityScore": 1.133868297894464,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.04,
+            "bht": "Some people that hear the word are like the thorns that it falls among. These individuals have worldly dispositions, being overly concerned with acquiring earthly riches and satisfying their carnal and sensual appetites. Despite this, they still feel compelled, either out of habit or conscience, to attend the ministry of the word.",
+            "wordCount": 52,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.20148001402384,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.29,
             "commentatorTierSimilarities": [
-                27.47,
+                35.46,
                 0.0,
-                72.53
+                64.54
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Some people, described as seeds sown among thorns, are characterized by their worldly dispositions, being excessively concerned with acquiring earthly riches and gratifying their carnal and sensual appetites. Despite their inclination towards the world, these individuals still find themselves compelled to listen to the teachings of the word, whether it be out of habit or the inner voice of conscience. This serves as a reminder to prioritize spiritual matters over worldly concerns.",
-            "wordCount": 72,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.9813036775813427,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.97,
+            "bht": "Some individuals who hear the word of God can be compared to thorny ground. These hearers are marked by their worldly dispositions, being excessively preoccupied with earthly wealth and indulging their fleshly desires. However, despite their attachment to worldly things, they still find themselves compelled to attend the ministry of the word, either out of habit or the prompting of their conscience.",
+            "wordCount": 62,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.0928384798855224,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.68,
             "commentatorTierSimilarities": [
-                23.39,
+                29.5,
                 0.0,
-                76.61
+                70.5
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Seeds sown among thorns portrays those who hear the word but are consumed by worldly desires. They become overly preoccupied with acquiring earthly riches and satisfying their carnal appetites. Nonetheless, they still attend to the ministry of the word, either out of custom or the dictates of their consciences. This verse emphasizes the need to prioritize spiritual pursuits over earthly concerns, cautioning against worldly preoccupations that hinder the growth of faith.",
-            "wordCount": 71,
-            "quoteTokenProportion": 38.6,
-            "qualityScore": 1.2371498474242166,
-            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
+            "bht": "Some hearers of the word are like thorny ground, characterized by their worldly dispositions and excessive concern for earthly riches and carnal desires. Nevertheless, they still find themselves attending the ministry of the word, driven by custom or their own consciences.",
+            "wordCount": 41,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.2134414076791582,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.69,
             "commentatorTierSimilarities": [
-                29.39,
+                25.59,
                 0.0,
-                70.61
+                74.41
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Some individuals, referred to as seeds sown among thorns, possess worldly dispositions. They are consumed by the desire to attain earthly riches and fulfill their carnal and sensual appetites. Despite this, they do listen to the word, whether influenced by habit or the conviction of their consciences. This serves as a reminder to prioritize spiritual matters over the distractions and allure of worldly pursuits.",
-            "wordCount": 64,
-            "quoteTokenProportion": 34.69,
-            "qualityScore": 0.9730799949089959,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.7,
+            "bht": "Among those who hear the word, there are some who resemble thorny ground. These individuals possess worldly dispositions and are consumed by their pursuit of material wealth and gratification of their sensual desires. Despite these tendencies, they are compelled to partake in the ministry of the word, either because of their ingrained habits or a guiding sense of right and wrong.",
+            "wordCount": 61,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.1520702879597897,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.65,
             "commentatorTierSimilarities": [
-                27.59,
+                35.91,
                 0.0,
-                72.41
+                64.09
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Those who are represented as seeds sown among thorns are characterized by their preoccupation with worldly concerns. Their incessant pursuit of earthly riches and indulgence in carnal desires hinders their ability to fully embrace the teachings of the word. However, they still feel compelled to attend to the ministry of the word, either due to habit or the inner voice of their conscience. This verse serves as a reminder to prioritize spiritual growth above the temptations and distractions of the world.",
-            "wordCount": 81,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 1.0748995999780686,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.08,
+            "bht": "Some hearers of the word can be likened to thorny ground. These individuals are characterized by their worldly dispositions and excessive preoccupation with acquiring earthly riches and satisfying carnal desires. Nevertheless, they still attend the ministry of the word, driven by either custom or the dictates of their consciences.",
+            "wordCount": 49,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.0910296001144786,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.62,
             "commentatorTierSimilarities": [
-                28.91,
+                28.14,
                 0.0,
-                71.09
+                71.86
             ],
             "generationAttempt": 5
         }

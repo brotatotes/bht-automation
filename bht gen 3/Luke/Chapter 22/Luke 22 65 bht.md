@@ -1,7 +1,7 @@
 # Luke 22:65 Commentary Help Text
 
 ## BHT:
-During Jesus' crucifixion, he encountered a multitude of insults and ridicule. People denied and ridiculed his deity and divine sonship, belittled his roles as a prophet, priest, and king, and portrayed him as a sinful and gluttonous man. They accused him of blasphemy due to his claim of being the Son of God, but ironically, their accusations only affirmed the truth of his divine nature. The mocking words hurled at Jesus served as a stark reflection of the unbelievers' refusal to acknowledge the reality of his identity.
+During this time, as Jesus faced insults and mockery, those who opposed him hurled numerous blasphemous charges against him. They denied his deity and divine sonship, mocking and burlesquing his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. They attacked his character, his office, and his claim to be the Son of God. Yet, it was their false accusations that amounted to true blasphemy, for Jesus was indeed the Son of God.
 
 ## Choicest Commentary Quotes:
 ### Archibald T. Robertson:
@@ -9,50 +9,48 @@ During Jesus' crucifixion, he encountered a multitude of insults and ridicule. P
 
 
 ### John Gill:
-1. "As denying and ridiculing his deity, and divine sonship;"
-2. "mocking at, and burlesquing his offices, of prophet, priest, and king;"
-3. "asserting him to be a mere man, and a very wicked one; a profane sinner, a glutton, and a winebibber;"
+1. "As denying and ridiculing his deity, and divine sonship; mocking at, and burlesquing his offices, of prophet, priest, and king." 
+2. "Asserting him to be a mere man, and a very wicked one; a profane sinner, a glutton, and a winebibber; a sabbath breaker, a blasphemer, and a seditious person."
+3. "And one that had a devil, or dealt with familiar spirits: and thus spake they against him; his person, office, and character."
 
 ### John Wesley:
-1. "They charged him with blasphemy, because he said he was the Son of God: but the evangelist fixes that charge on them, because he really was so."
-2. "They charged him with blasphemy, because he said he was the Son of God."
-3. "But the evangelist fixes that charge on them, because he really was so."
+1. "Many other things blasphemously spake they against him." 
+2. "They charged him with blasphemy, because he said he was the Son of God: but the evangelist fixes that charge on them, because he really was so."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:23:13
+- Timestamp: 12-25-2023 21:00:52
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 28.81%
-- BHT Quality Score: 0.627533810093729
+- BHT Word Count: 91
+- BHT Commentary Usage: 35.94%
+- BHT Quality Score: 0.6379012368990858
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'accusations', 'accused', 'acknowledge', 'affirmed', 'and', 'as', 'at', 'being', 'belittled', 'blasphemy', 'but', 'claim', 'crucifixion', 'deity', 'denied', 'divine', 'due', 'during', 'encountered', 'gluttonous', 'god', 'he', 'him', 'his', 'hurled', 'identity', 'insults', 'ironically', 'jesus', 'king', 'man', 'mocking', 'multitude', 'nature', 'of', 'only', 'people', 'portrayed', 'priest', 'prophet', 'reality', 'reflection', 'refusal', 'ridicule', 'ridiculed', 'roles', 'served', 'sinful', 'son', 'sonship', 'stark', 'the', 'their', 'they', 'to', 'truth', 'unbelievers', 'words']
-- ChatGPT injected words (significant words only) (42):
-	['accusations', 'accused', 'acknowledge', 'affirmed', 'belittled', 'blasphemy', 'claim', 'crucifixion', 'deity', 'denied', 'divine', 'encountered', 'gluttonous', 'god', 'hurled', 'identity', 'insults', 'ironically', 'jesus', 'king', 'man', 'mocking', 'multitude', 'nature', 'people', 'portrayed', 'priest', 'prophet', 'reality', 'reflection', 'refusal', 'ridicule', 'ridiculed', 'roles', 'served', 'sinful', 'son', 'sonship', 'stark', 'truth', 'unbelievers', 'words']
+- ChatGPT injected words (64):
+	['a', 'accusations', 'accused', 'against', 'amounted', 'and', 'as', 'attacked', 'be', 'being', 'blasphemer', 'blasphemous', 'blasphemy', 'breaker', 'burlesquing', 'character', 'charges', 'claim', 'deity', 'denied', 'divine', 'during', 'faced', 'false', 'for', 'glutton', 'god', 'him', 'his', 'hurled', 'indeed', 'insults', 'it', 'jesus', 'king', 'man', 'mockery', 'mocking', 'numerous', 'of', 'office', 'opposed', 'person', 'priest', 'prophet', 'roles', 'sabbath', 'seditious', 'son', 'sonship', 'that', 'the', 'their', 'they', 'this', 'those', 'time', 'to', 'true', 'was', 'who', 'wicked', 'winebibber', 'yet']
+- ChatGPT injected words (significant words only) (41):
+	['accusations', 'accused', 'amounted', 'attacked', 'blasphemer', 'blasphemous', 'blasphemy', 'breaker', 'burlesquing', 'character', 'charges', 'claim', 'deity', 'denied', 'divine', 'faced', 'false', 'glutton', 'god', 'hurled', 'insults', 'jesus', 'king', 'man', 'mockery', 'mocking', 'numerous', 'office', 'opposed', 'person', 'priest', 'prophet', 'roles', 'sabbath', 'seditious', 'son', 'sonship', 'time', 'true', 'wicked', 'winebibber']
 
 ### Logs
-- Attempt 1 BHT: In Luke 22:65, we see a glimpse of the many ways in which Jesus was mocked and ridiculed during his crucifixion. The comments made by those present were just a few examples of the unbelief and denial of Jesus' divine nature and his roles as a prophet, priest, and king. They accused him of being a mere man, a glutton, and a winebibber, seeking to diminish his authority and magnify their ridicule. However, what they failed to recognize was that their charge of blasphemy against Jesus actually revealed his true identity and divine sonship.
-- 🔄 Luke 22:65 (attempt 1, 93 words, 43.08% quotes quality score: 0.594030973639541, V2 normalized quality score: 11.1, commentator tiers 1-3: -3.36%, 0.0%, 103.36%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: During Jesus' crucifixion, he faced numerous acts of mockery and ridicule. People denounced his deity, ridiculed his offices as a prophet, priest, and king, and characterized him as a sinful, gluttonous man. They accused him of blasphemy for claiming to be the Son of God, but ironically, their accusations only confirmed his true identity. The insults hurled at Jesus were merely a glimpse of the unbelievers' denial of his divinity and failure to recognize the truth.
-- 🔄 Luke 22:65 (attempt 2, 76 words, 31.58% quotes quality score: 0.5650851434837993, V2 normalized quality score: 10.13, commentator tiers 1-3: -8.68%, 0.0%, 108.68%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: During Jesus' crucifixion, he encountered a multitude of insults and ridicule. People denied and ridiculed his deity and divine sonship, belittled his roles as a prophet, priest, and king, and portrayed him as a sinful and gluttonous man. They accused him of blasphemy due to his claim of being the Son of God, but ironically, their accusations only affirmed the truth of his divine nature. The mocking words hurled at Jesus served as a stark reflection of the unbelievers' refusal to acknowledge the reality of his identity.
-- 🔄 Luke 22:65 (attempt 3, 87 words, 28.81% quotes quality score: 0.627533810093729, V2 normalized quality score: 12.21, commentator tiers 1-3: -0.81%, 0.0%, 100.81%) 
+- Attempt 1 BHT: During this time, as Jesus endured insults and mockery, those who opposed him hurled many derogatory remarks His way. They ridiculed His deity, denying His divine sonship. They even went so far as to mock and burlesque His roles as prophet, priest, and king. They accused Him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. Their false accusations portrayed Him as a mere man, a profane sinner who dealt with familiar spirits. Their blasphemous words aimed to undermine His person, office, and character. However, in truth, it was they who were guilty of blasphemy, for Jesus was indeed the Son of God.
+- 🔄 Luke 22:65 (attempt 1, 112 words, 32.91% quotes quality score: 0.5967233878792235, V2 normalized quality score: 11.19, commentator tiers 1-3: -3.71%, 0.0%, 103.71%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: During Jesus' crucifixion, he endured numerous insults and ridicule. People denied his deity, mocked his roles as a prophet, priest, and king, and labeled him as a sinful, gluttonous man. They accused him of blasphemy for proclaiming himself as the Son of God. Ironically, their accusations actually confirmed his true identity. The insults directed at Jesus demonstrated the refusal of unbelievers to recognize his divine nature and the profound truth of his claim as the Son of God.
-- 🔄 Luke 22:65 (attempt 4, 78 words, 27.78% quotes quality score: 0.5694937175554212, V2 normalized quality score: 10.28, commentator tiers 1-3: -5.86%, 0.0%, 105.86%) 
+- Attempt 2 BHT: During this time, as Jesus endured insults and mockery, those who opposed him blasphemed by denying his divine sonship and mocking his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. Their false accusations aimed to undermine his person, office, and character. However, in truth, it was they who were guilty of blasphemy, for Jesus was indeed the Son of God.
+- 🔄 Luke 22:65 (attempt 2, 79 words, 38.98% quotes quality score: 0.49769103521451813, V2 normalized quality score: 7.89, commentator tiers 1-3: -14.23%, 0.0%, 114.23%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: During Jesus' crucifixion, he faced intense mockery and ridicule. He was accused of denying his deity, ridiculed in his roles as a prophet, priest, and king, and labeled as a sinful glutton and winebibber. The people charged him with blasphemy for declaring himself as the Son of God. In an ironic twist, these accusations actually confirmed the truth of his divine sonship. The insults hurled at Jesus during this time serve as a reminder of the unbelievers' refusal to acknowledge his true identity.
-- 🔄 Luke 22:65 (attempt 5, 83 words, 31.15% quotes quality score: 0.4715380644770574, V2 normalized quality score: 7.02, commentator tiers 1-3: -17.55%, 0.0%, 117.55%) 
+- Attempt 3 BHT: During this time, as Jesus faced insults and mockery, those who opposed him hurled numerous blasphemous charges against him. They denied his deity and divine sonship, mocking and burlesquing his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. They attacked his character, his office, and his claim to be the Son of God. Yet, it was their false accusations that amounted to true blasphemy, for Jesus was indeed the Son of God.
+- 🔄 Luke 22:65 (attempt 3, 91 words, 35.94% quotes quality score: 0.6379012368990858, V2 normalized quality score: 12.56, commentator tiers 1-3: -2.45%, 0.0%, 102.45%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 22:65 bht prompt v0.8 (87 words, 28.81% quotes)
-- quality score: 0.627533810093729, V2 normalized quality score: 12.21, commentator tiers 1-3: -0.81%, 0.0%, 100.81%)
+- Attempt 4 BHT: During this time, as Jesus faced insults and mockery, those who opposed him denied his deity and divine sonship, while mocking and ridiculing his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. These blasphemous statements were aimed at undermining his character, office, and claim to be the Son of God. However, it was their false accusations that constituted true blasphemy, as Jesus truly was the Son of God.
+- 🔄 Luke 22:65 (attempt 4, 87 words, 36.92% quotes quality score: 0.5074723820200137, V2 normalized quality score: 8.22, commentator tiers 1-3: -15.57%, 0.0%, 115.57%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: During this time, as Jesus faced insults and mockery, those who opposed him denied his deity and divine sonship, ridiculing his roles as prophet, priest, and king. Accusing him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person, they aimed to undermine his character, office, and claim. However, Jesus was indeed the Son of God, making their false accusations the very blasphemy they falsely accused him of.
+- 🔄 Luke 22:65 (attempt 5, 76 words, 33.33% quotes quality score: 0.41141163824517046, V2 normalized quality score: 5.03, commentator tiers 1-3: -27.11%, 0.0%, 127.11%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 22:65 bht prompt v0.8 (91 words, 35.94% quotes)
+- quality score: 0.6379012368990858, V2 normalized quality score: 12.56, commentator tiers 1-3: -2.45%, 0.0%, 102.45%)

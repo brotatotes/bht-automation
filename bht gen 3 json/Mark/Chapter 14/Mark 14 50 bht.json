@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-22-2023 23:28:25",
+    "timestamp": "12-25-2023 21:16:22",
     "verseRef": "Mark 14:50",
     "bestBHT": {
-        "bht": "Jesus' disciples, as various versions of the Bible indicate, forsook Him and fled during His arrest. This highlights their frailty and fear, even in their close relationship with Jesus. It is important to note that the fleeing disciples were not part of the multitude Jesus was addressing. Their desertion serves as a poignant reminder of our own human weaknesses, even when we are intimately connected to Christ.",
-        "wordCount": 67,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 0.9135080291737887,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.72,
+        "bht": "In that moment, as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions reveal, the disciples all forsook Jesus and fled. This act of desertion emphasizes the fulfillment of prophecy and exposes the fragility of the disciples when faced with imminent danger. Their scattered departure serves as a stark reminder of the challenges and trials that believers may encounter in their own spiritual journeys.",
+        "wordCount": 64,
+        "quoteTokenProportion": 29.17,
+        "qualityScore": 1.2760108171400097,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.77,
         "commentatorTierSimilarities": [
             0.0,
             0.0,
             100.0
         ],
-        "generationAttempt": 3
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "John Gill": [
             "And they all forsook him and fled.",
-            "His disciples, as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions read.",
-            "Lest it should be thought, that the multitude whom Christ addressed, were intended."
+            "That is, his disciples, as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions read.",
+            "And who seem to have transcribed it from Matthew, and lest it should be thought, that the multitude whom Christ addressed, were intended."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -38,11 +38,11 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 14:50, it is highlighted how Jesus' disciples abandoned Him and ran away when He was arrested. The different versions of the Bible emphasize this desertion by His followers. This verse specifically pertains to the multitude that Christ was addressing, ensuring that it is not mistaken that those who fled were included in that group. The disciples' flight is a significant event that demonstrates the human weaknesses and fears of even those closest to Jesus in times of intense trial.",
-            "wordCount": 80,
-            "quoteTokenProportion": 37.93,
-            "qualityScore": 0.9659112780904919,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.46,
+            "bht": "In Mark 14:50, we see that the disciples all forsook Jesus and fled. This abandonment of Jesus by his closest followers is a weighty moment in his journey. The disciples, who had been with him throughout his ministry, suddenly turned away when faced with the imminent arrest and crucifixion of Jesus. This verse underscores the fulfillment of prophecy and highlights the human frailty and fear that the disciples experienced in the face of danger. It serves as a stark reminder of the challenges and tests that believers may face in their own journey of faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.016154339204954,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.13,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -51,11 +51,11 @@
             "generationAttempt": 1
         },
         {
-            "bht": "When Jesus was arrested, His disciples deserted Him and fled, as noted in the Latin, Syriac, Arabic, Persic, and Ethiopic versions of the Bible. This emphasizes the disciples' abandonment of Jesus, highlighting their human weaknesses and fears even in their close proximity to Him. It is crucial to understand that the ones who ran away were not the same multitude that Jesus was addressing at that time. This event serves as a powerful demonstration of the disciples' vulnerability in the face of tremendous trial.",
-            "wordCount": 84,
-            "quoteTokenProportion": 37.29,
-            "qualityScore": 0.9478802013315468,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.86,
+            "bht": "The disciples forsook Jesus and fled, a moment that holds significant weight in his journey. This abandonment emphasizes the prophecy fulfilled and reveals the human frailty the disciples experienced when confronted with danger. They, who had been by Jesus' side throughout his ministry, suddenly turned away in fear of his imminent arrest and crucifixion. This verse serves as a reminder of the challenges believers may face and the tests of faith they encounter.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 0.9513427262897032,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.98,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -64,11 +64,11 @@
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus' disciples, as various versions of the Bible indicate, forsook Him and fled during His arrest. This highlights their frailty and fear, even in their close relationship with Jesus. It is important to note that the fleeing disciples were not part of the multitude Jesus was addressing. Their desertion serves as a poignant reminder of our own human weaknesses, even when we are intimately connected to Christ.",
-            "wordCount": 67,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 0.9135080291737887,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.72,
+            "bht": "In the pivotal moment, the disciples, as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions read, all forsook Jesus and fled. This incredible act of desertion highlights the fulfillment of prophecy and exposes the frailty of the disciples in the face of imminent danger. Their hasty retreat serves as a powerful reminder of the difficulties believers may encounter on their own spiritual journeys.",
+            "wordCount": 64,
+            "quoteTokenProportion": 25.53,
+            "qualityScore": 1.0298438701254073,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.59,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -77,11 +77,11 @@
             "generationAttempt": 3
         },
         {
-            "bht": "In Mark 14:50, the disciples scattered and abandoned Jesus in his time of need. This is evident from the various versions, such as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic, which all describe the disciples forsaking him. It is important to note that this refers specifically to the disciples, and not to the larger crowd that Jesus was addressing at the time. The disciples' desertion highlights the challenging and lonely path that Jesus was about to embark on, as he faced his crucifixion.",
-            "wordCount": 83,
-            "quoteTokenProportion": 41.82,
-            "qualityScore": 1.283173073985191,
-            "qualityScoreNormalizedComparedToV2BHTs": 34.01,
+            "bht": "In this crucial moment, the disciples, as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions recount, all forsook Jesus and fled. This abandonment by his closest followers underscores the fulfillment of prophecy and highlights the human frailty exhibited by the disciples when faced with the impending danger. Their sudden flight serves as a poignant reminder of the challenges and tests that believers may encounter on their own paths of faith.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.1614601529155564,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.96,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,
@@ -90,11 +90,11 @@
             "generationAttempt": 4
         },
         {
-            "bht": "In the midst of Jesus' hour of great trial, the disciples, as stated by the various versions, forsook and fled from him. This desertion was exclusive to the disciples, not the multitude that surrounded Jesus. The disciples' abandonment magnifies the difficult and solitary road that lay ahead of Jesus as he prepared to face his crucifixion.",
-            "wordCount": 56,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 1.1218018313558789,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.64,
+            "bht": "In that moment, as the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions reveal, the disciples all forsook Jesus and fled. This act of desertion emphasizes the fulfillment of prophecy and exposes the fragility of the disciples when faced with imminent danger. Their scattered departure serves as a stark reminder of the challenges and trials that believers may encounter in their own spiritual journeys.",
+            "wordCount": 64,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.2760108171400097,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.77,
             "commentatorTierSimilarities": [
                 0.0,
                 0.0,

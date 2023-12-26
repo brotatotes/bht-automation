@@ -1,24 +1,24 @@
 {
-    "timestamp": "12-19-2023 16:14:21",
+    "timestamp": "12-25-2023 21:00:45",
     "verseRef": "Luke 3:17",
     "bestBHT": {
-        "bht": "John the Baptist's ministry was highly successful in arousing anticipation for the immediate appearance of the Messiah, which was a testament to the high regard and reverence people held for him. With a fan in his hand, he exemplified the process of separating the valuable wheat from the worthless chaff. By emphasizing the significance of John's role and his ability to command respect, Luke 3:17 underscores the profound impact of his ministry and his pivotal role in preparing the way for the coming Savior.",
-        "wordCount": 85,
-        "quoteTokenProportion": 26.79,
-        "qualityScore": 0.921355851172291,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.98,
+        "bht": "John the Baptist's success in awakening the anticipation of the Messiah's immediate appearing and the reverence he commanded due to his character suggests that some people questioned if he was the Christ. With the imagery of the fan in his hand, John symbolizes the process of purging and refining, revealing his role in distinguishing between genuine believers and the rest.",
+        "wordCount": 62,
+        "quoteTokenProportion": 32.56,
+        "qualityScore": 1.2620770730766655,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.31,
         "commentatorTierSimilarities": [
-            59.81,
+            59.9,
             0.0,
-            40.19
+            40.1
         ],
-        "generationAttempt": 2
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "showing both how successful he had been in awakening the expectation of Messiah's immediate appearing",
-            "the high estimation, and even reverence, which his own character commanded",
-            "his own character commanded"
+            "Showing both how successful he had been in awakening the expectation of Messiah's immediate appearing.",
+            "The high estimation, and even reverence, which his own character commanded.",
+            "Whether he were the Christ."
         ],
         "Marvin Vincent": [
             "Fan - floor - purge. See on Matthew 3:12."
@@ -45,67 +45,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "John the Baptist's ministry was incredibly effective in stirring up anticipation for the coming of the Messiah. People were not only drawn to him because of his message, but also because of the deep respect they held for him. The verse talks about how John held a fan in his hand, symbolizing the work of disconnecting the wheat from the chaff. This ties in with Matthew 3:12, where the image of the fan is further explained. Overall, Luke 3:17 highlights the powerful impact of John's ministry in preparing the way for the Savior.",
-            "wordCount": 93,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 0.9332207367420755,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.37,
+            "bht": "John the Baptist is depicted in Luke 3:17 as someone who was able to inspire and ignite the anticipation of the arrival of the Messiah. His character was esteemed and revered by many, leading some to speculate whether he was the long-awaited Christ. The metaphor of the fan in his hand suggests that John played a role in separating the wheat from the chaff, purging and refining people's hearts. (Matthew 3:12)",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.1351785461190858,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.09,
             "commentatorTierSimilarities": [
-                69.05,
+                69.52,
                 0.0,
-                30.95
+                30.48
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "John the Baptist's ministry was highly successful in arousing anticipation for the immediate appearance of the Messiah, which was a testament to the high regard and reverence people held for him. With a fan in his hand, he exemplified the process of separating the valuable wheat from the worthless chaff. By emphasizing the significance of John's role and his ability to command respect, Luke 3:17 underscores the profound impact of his ministry and his pivotal role in preparing the way for the coming Savior.",
-            "wordCount": 85,
-            "quoteTokenProportion": 26.79,
-            "qualityScore": 0.921355851172291,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.98,
+            "bht": "John the Baptist was successful in arousing the anticipation of the immediate appearance of the Messiah. His own character commanded great respect and reverence, leading some to question if he was the Christ. The imagery of the fan in his hand signifies his role in separating the true believers from the false, purging and purifying their hearts.",
+            "wordCount": 57,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 1.1307223702170417,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.94,
             "commentatorTierSimilarities": [
-                59.81,
+                68.82,
                 0.0,
-                40.19
+                31.18
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "John the Baptist's successful ministry in awakening the anticipation for the immediate appearance of the Messiah is a testament to the high esteem and reverence people had for him. With a fan in his hand, he symbolized the process of separating the valuable wheat from the worthless chaff. Luke 3:17 highlights the powerful impact of John's character and his pivotal role in preparing the way for the coming Savior.",
-            "wordCount": 70,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 0.9035991809636454,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.39,
+            "bht": "John the Baptist's ability to stir the expectation of the imminent arrival of the Messiah is evident in Luke 3:17. His esteemed character elevated him to a position of high regard and reverence, causing some to question if he himself was the Christ. The use of the fan metaphor highlights John's role in separating the wheat from the chaff, symbolizing his role in purging and refining the hearts of those who encountered his message.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.0343852193540612,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.74,
             "commentatorTierSimilarities": [
-                64.98,
+                77.28,
                 0.0,
-                35.02
+                22.72
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "John the Baptist's ministry proved to be highly effective in arousing anticipation for the imminent arrival of the Messiah. The respect and reverence generated by his own character played a significant role in his success. By illustrating the image of a fan in his hand, John symbolized the act of separating the valuable wheat from the worthless chaff. Luke 3:17 captures the profound impact of John's ministry, underscoring his crucial role in preparing the way for the coming Savior.",
-            "wordCount": 80,
-            "quoteTokenProportion": 22.64,
-            "qualityScore": 0.8669542110474322,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.17,
+            "bht": "John the Baptist's success in awakening the anticipation of the Messiah's immediate appearing and the reverence he commanded due to his character suggests that some people questioned if he was the Christ. With the imagery of the fan in his hand, John symbolizes the process of purging and refining, revealing his role in distinguishing between genuine believers and the rest.",
+            "wordCount": 62,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 1.2620770730766655,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.31,
             "commentatorTierSimilarities": [
-                70.34,
+                59.9,
                 0.0,
-                29.66
+                40.1
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "John the Baptist's ministry was successful in stirring up anticipation for the immediate appearing of the Messiah, and this success can be attributed to the high estimation and reverence that people held for his character. Luke 3:17 emphasizes the powerful image of a fan in John's hand as he separates the wheat from the chaff, symbolizing the process of purification. This verse highlights the profound impact of John's ministry in preparing the way for the coming Savior.",
-            "wordCount": 79,
-            "quoteTokenProportion": 30.91,
-            "qualityScore": 0.8897470684540918,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.93,
+            "bht": "John the Baptist effectively aroused the expectation of the Messiah's imminent arrival due to his influential character, prompting some to speculate if he himself was the Christ. The metaphor of the fan in his hand symbolizes his role in the separation and purification of individuals, akin to a process of purging the undesirable from the desirable.",
+            "wordCount": 57,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.0967670145243023,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.81,
             "commentatorTierSimilarities": [
-                74.46,
+                58.57,
                 0.0,
-                25.54
+                41.43
             ],
             "generationAttempt": 5
         }

@@ -1,33 +1,33 @@
 {
-    "timestamp": "12-19-2023 23:48:39",
+    "timestamp": "12-25-2023 20:59:35",
     "verseRef": "Matthew 16:9",
     "bestBHT": {
-        "bht": "Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.",
-        "wordCount": 83,
-        "quoteTokenProportion": 58.73,
-        "qualityScore": 0.7874962134561587,
-        "qualityScoreNormalizedComparedToV2BHTs": 17.53,
+        "bht": "As the disciples travel to Bethsaida, Jesus questions their lack of perception and reminds them of the miracle of feeding the five thousand, challenging their doubts about his ability to provide. Their failure to understand and remember what was recently done demonstrates their lack of faith and comprehension of Jesus' ministry.",
+        "wordCount": 51,
+        "quoteTokenProportion": 36.11,
+        "qualityScore": 1.2796736109464506,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.89,
         "commentatorTierSimilarities": [
-            9.48,
-            32.63,
-            57.89
+            15.51,
+            21.46,
+            63.03
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Henry Alford": [
             "On the two sorts of baskets (cophini on the former occasion, spyrides on the latter), see note, ch. xv. 36.",
-            "This voyage brought them to Bethsaida: i.e. Bethsaida Jatias, on the North-Eastern side of the lake, see Mark viii. 22.",
-            "...and the miracle there related."
+            "This voyage brought them to Bethsaida: i.e. Bethsaida Jatias, on the North-Eastern side of the lake.",
+            "See Mark viii. 22, and the miracle there related."
         ],
         "Philip Schaff": [
             "Matthew 16:9. Do ye not yet perceive. Mark (Mark 8:17-18) is more full. Besides want of faith, they had shown great want of perception.",
             "\t"
         ],
         "John Gill": [
-            "Do ye not understand... neither remember the five loaves of the five thousand, and how many baskets ye took up?\" ",
-            "Have you forgot what was so lately done, namely, the feeding five thousand men, besides women and children, with five loaves and two fishes?",
-            "Have I fed so many with so small a quantity of food? and am I not able to feed twelve of you, though you have but one loaf?"
+            "Do ye not understand\" - Jesus questions the disciples' comprehension.",
+            "neither remember the five loaves of the five thousand, and how many baskets ye took up?\" - Jesus reminds the disciples of the miracle of feeding the five thousand and the abundance of leftovers they collected.",
+            "Have you forgot what was so lately done...Have I fed so many with so small a quantity of food?\" - Jesus challenges the disciples to recall the recent miraculous feeding and questions their doubts about his ability to provide."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.",
-            "wordCount": 83,
-            "quoteTokenProportion": 58.73,
-            "qualityScore": 0.7874962134561587,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.53,
+            "bht": "The disciples are struggling to understand Jesus' teachings and actions as they journey to Bethsaida. Jesus questions their perception and reminds them of the miracle of feeding the five thousand, asking if they have forgotten the abundance of leftovers that were collected. He challenges them to remember what was so recently done and questions their doubts about his ability to provide. The disciples' lack of faith and perception is evident, as they struggle to comprehend the nature of Jesus' ministry.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.1201902103566383,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.59,
             "commentatorTierSimilarities": [
-                9.48,
-                32.63,
-                57.89
+                13.73,
+                22.89,
+                63.38
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Do you not yet perceive and understand? Jesus asked, disappointed in the lack of faith and perception from his disciples. He referred back to the feeding of the five thousand, as if to say, Have you forgotten what was done? From such a small amount of food, I was able to feed so many. Jesus was reminding them of the miraculous provision that had taken place before their very eyes, yet they still lacked faith in his ability to provide for them now.",
-            "wordCount": 83,
-            "quoteTokenProportion": 58.73,
-            "qualityScore": 0.7874962134561587,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.53,
+            "bht": "As the disciples travel to Bethsaida, Jesus questions their lack of perception and reminds them of the miracle of feeding the five thousand, challenging their doubts about his ability to provide. Their failure to understand and remember what was recently done demonstrates their lack of faith and comprehension of Jesus' ministry.",
+            "wordCount": 51,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.2796736109464506,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.89,
             "commentatorTierSimilarities": [
-                9.48,
-                32.63,
-                57.89
+                15.51,
+                21.46,
+                63.03
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Do you not yet perceive and understand? Jesus asked his disciples. He reminded them of the feeding of the five thousand, emphasizing the miraculous provision from a small amount of food. Jesus wanted them to remember this event as a demonstration of his power to provide for their needs. Despite witnessing this incredible miracle, their lack of faith and understanding persisted. Jesus wanted them to have faith in his ability to provide for them even now.",
-            "wordCount": 76,
-            "quoteTokenProportion": 44.23,
-            "qualityScore": 0.7520322004026353,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.35,
+            "bht": "On their journey to Bethsaida, Jesus questions the disciples' comprehension and challenges them to remember the miraculous feeding of the five thousand and the abundance of leftovers collected. Their lack of faith and perception is evident as they struggle to understand Jesus' teachings and actions. Jesus seeks to remind them of what was so recently done and questions their doubts about his ability to provide.",
+            "wordCount": 65,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.1669767913335785,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.15,
             "commentatorTierSimilarities": [
-                23.25,
-                31.7,
-                45.04
+                14.2,
+                21.87,
+                63.93
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Do you not yet perceive and understand? Jesus asked his disciples, disappointed in their lack of faith and perception. He reminded them of the feeding of the five thousand, emphasizing the miraculous provision from a small amount of food. Jesus wanted them to remember this event, to recall the baskets of leftovers gathered. Despite witnessing this incredible miracle, their lack of faith and understanding persisted. Jesus wanted them to have faith in his ability to provide for them, even with limited resources.",
-            "wordCount": 82,
-            "quoteTokenProportion": 39.29,
-            "qualityScore": 0.8677585069916598,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.2,
+            "bht": "As the disciples make their way to Bethsaida, Jesus confronts their lack of understanding and perception. He reminds them of the miraculous feeding of the five thousand and the multitude of baskets filled with leftovers, prompting them to recall the magnitude of the provision. Jesus challenges their doubts and questions their faith, considering how they could forget such a recent display of His power. The disciples' struggle to comprehend His teachings and actions highlights their need for greater faith and insight.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.1028416706143376,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.01,
             "commentatorTierSimilarities": [
-                24.2,
-                31.52,
-                44.28
+                15.0,
+                26.35,
+                58.65
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Do you not yet perceive and understand? Jesus questioned his disciples, disappointed in their faith and perception. He reminded them of the feeding of the five thousand, highlighting the miraculous provision from minimal resources. Jesus urged them to remember the abundance of leftovers collected from that event. Nevertheless, despite witnessing this astounding miracle, their faith and comprehension remained lacking. Jesus desired for them to trust in his ability to provide, even in times of scarcity.",
-            "wordCount": 75,
-            "quoteTokenProportion": 36.36,
-            "qualityScore": 0.8076863936052913,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.2,
+            "bht": "On their journey to Bethsaida, Jesus questions the disciples' comprehension and challenges them to remember the miraculous feeding of the five thousand and the abundance of leftovers collected. Their lack of faith and perception is evident as they struggle to understand Jesus' teachings and actions. Jesus seeks to remind them of what was so recently done and questions their doubts about his ability to provide. The disciples' understanding is lacking, and they need to have a greater faith in Jesus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.156653925055369,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.8,
             "commentatorTierSimilarities": [
-                22.32,
-                33.65,
-                44.04
+                13.23,
+                23.54,
+                63.22
             ],
             "generationAttempt": 5
         }

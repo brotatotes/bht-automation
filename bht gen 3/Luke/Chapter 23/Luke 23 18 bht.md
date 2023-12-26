@@ -1,7 +1,7 @@
 # Luke 23:18 Commentary Help Text
 
 ## BHT:
-The whole multitude came together, joining their voices in unison, fervently urging for Jesus to be taken away. In an intense and clamorous manner, they cried out with anger and indignation, vehemently declaring that he should be cast out of the world and deemed unworthy to live. Simultaneously, they demanded the release of Barabbas. The crowd's unified outcry and their insistence on Jesus' removal displayed a passionate resolve that was impossible to ignore.
+The whole multitude of them cried out in unison, demanding that he be taken away. The word all together indicates their unanimous decision, a term used only here in the New Testament. Their urgency is emphasized by the imperative take away, as they wished for him to be promptly removed. Their adamant cry, resembling the situation with Paul, made it clear that they wanted him gone: Away with this man!
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -10,47 +10,49 @@ Away [αιρε] . Lit., take away. Compare Acts 21:36; Acts 22:22.
 
 
 ### Archibald T. Robertson:
-1. "All together (πανπληθε). An adverb from the adjective πανπληθης, all together."
+1. "All together. An adverb from the adjective πανπληθης, all together. Used by Dio Cassius. Only here in the N.T."
 2. "Away (αιρε). Present active imperative, Take him on away and keep him away as in Acts 21:36; Acts 22:22, of Paul."
-3. "But release (απολυσον) is first aorist active imperative, do it now and at once."
+3. "Release (απολυσον) is first aorist active imperative, do it now and at once."
 
 ### John Gill:
-1. "And they cried out all at once... enraged at the proposal... in a most clamorous way." 
-2. "Away with this man... away with him out of the world; he is not fit to live." 
-3. "And release unto us Barabbas."
+1. "Away with this man; to the cross; to Calvary, the place of execution; away with him out of the world; he is not fit to live." (Luke 23:18)
+2. "Release unto us Barabbas." (Luke 23:18)
+3. "Whose character is given in the next verse." (Luke 23:18)
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:23:23
+- Timestamp: 12-25-2023 21:00:50
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 34.48%
-- BHT Quality Score: 0.8948774966306166
+- BHT Word Count: 70
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 0.9745956378374994
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (58):
-	['a', 'an', 'and', 'anger', 'away', 'barabbas', 'be', 'came', 'cast', 'clamorous', 'cried', 'crowd', 'declaring', 'deemed', 'demanded', 'displayed', 'fervently', 'for', 'he', 'ignore', 'impossible', 'in', 'indignation', 'insistence', 'intense', 'jesus', 'joining', 'live', 'manner', 'multitude', 'of', 'on', 'out', 'outcry', 'passionate', 'release', 'removal', 'resolve', 's', 'should', 'simultaneously', 'taken', 'that', 'the', 'their', 'they', 'to', 'together', 'unified', 'unison', 'unworthy', 'urging', 'vehemently', 'voices', 'was', 'whole', 'with', 'world']
-- ChatGPT injected words (significant words only) (38):
-	['anger', 'away', 'barabbas', 'came', 'cast', 'clamorous', 'cried', 'crowd', 'declaring', 'deemed', 'demanded', 'displayed', 'fervently', 'ignore', 'impossible', 'indignation', 'insistence', 'intense', 'jesus', 'joining', 'live', 'manner', 'multitude', 'outcry', 'passionate', 'release', 'removal', 'resolve', 's', 'simultaneously', 'taken', 'unified', 'unison', 'unworthy', 'urging', 'vehemently', 'voices', 'world']
+- ChatGPT injected words (56):
+	['a', 'adamant', 'all', 'as', 'away', 'be', 'by', 'clear', 'cried', 'cry', 'decision', 'demanding', 'emphasized', 'for', 'gone', 'he', 'here', 'him', 'imperative', 'in', 'indicates', 'is', 'it', 'made', 'man', 'multitude', 'new', 'of', 'only', 'out', 'paul', 'promptly', 'removed', 'resembling', 'situation', 'take', 'taken', 'term', 'testament', 'that', 'the', 'their', 'them', 'they', 'this', 'to', 'together', 'unanimous', 'unison', 'urgency', 'used', 'wanted', 'whole', 'wished', 'with', 'word']
+- ChatGPT injected words (significant words only) (28):
+	['adamant', 'away', 'clear', 'cried', 'cry', 'decision', 'demanding', 'emphasized', 'gone', 'imperative', 'indicates', 'man', 'multitude', 'new', 'paul', 'promptly', 'removed', 'resembling', 'situation', 'taken', 'term', 'testament', 'unanimous', 'unison', 'urgency', 'wanted', 'wished', 'word']
 
 ### Logs
-- Attempt 1 BHT: The crowd came together in full force, calling for Jesus to be taken away. They shouted in anger, demanding that he be removed from their presence. The people cried out in a loud and clamorous way, declaring that Jesus should be cast out of the world and that he was not worthy to live. Meanwhile, they also requested the release of Barabbas. The intensity of their outcry and the urgency in their request is evident.
-- 🔄 Luke 23:18 (attempt 1, 75 words, 42.31% quotes quality score: 0.8480445519312432, V2 normalized quality score: 19.54, commentator tiers 1-3: 34.16%, 0.0%, 65.84%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The whole multitude of them joined together in one resounding voice, shouting for Jesus to be taken away. In a most clamorous way, they cried out, enraged at the proposal, and demanded that he be removed from their midst. Their fervent outcry proclaimed that Jesus should be cast out of the world, for he was perceived as unfit to live. As they raised their voices, they also requested the release of Barabbas. The impassioned plea and urgent desire expressed by the crowd were unmistakable.
-- 🔄 Luke 23:18 (attempt 2, 84 words, 41.94% quotes quality score: 0.8471479690732138, V2 normalized quality score: 19.51, commentator tiers 1-3: 31.79%, 0.0%, 68.21%) 
+- Attempt 1 BHT: The crowd cried out, Take him away! It was a unanimous decision, with the whole multitude of them demanding his removal. The word used here, all together, is only found in the New Testament in this verse. The imperative, take away, emphasizes the urgency and immediacy of their demand. The crowd wanted him gone, removed from their presence. They were adamant in their desire, echoing the words used when Paul was taken away and kept away. Their cry was clear: Away with this man!
+- 🔄 Luke 23:18 (attempt 1, 84 words, 44.83% quotes quality score: 0.8541739516332794, V2 normalized quality score: 19.75, commentator tiers 1-3: 57.23%, 0.0%, 42.77%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The whole multitude of them cried out in unison, demanding that he be taken away. The word all together indicates their unanimous decision, a term used only here in the New Testament. Their urgency is emphasized by the imperative take away, as they wished for him to be promptly removed. Their adamant cry, resembling the situation with Paul, made it clear that they wanted him gone: Away with this man!
+- 🔄 Luke 23:18 (attempt 2, 70 words, 50.0% quotes quality score: 0.9745956378374994, V2 normalized quality score: 23.75, commentator tiers 1-3: 61.78%, 0.0%, 38.22%)
+- Attempt 3 BHT: They all joined together, demanding for him to be taken away. Take him away and keep him away, they cried, echoing the words spoken about Paul in Acts. They wanted him out of their sight, quickly and without delay. The crowd's outcry was clear: Away with this man! they shouted. They wanted him gone, and instead, they called for the release of Barabbas, a man whose character is further explained in the following verse. (Luke 23:18)
+- 🔄 Luke 23:18 (attempt 3, 76 words, 44.44% quotes quality score: 0.8270998948984611, V2 normalized quality score: 18.85, commentator tiers 1-3: 29.1%, 0.0%, 70.9%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: They all joined together, demanding for him to be taken away. Take him away and keep him away, they cried. Away with this man! they shouted, wanting him gone. Instead, they called for the release of Barabbas, a man whose character is further explained.
+- 🔄 Luke 23:18 (attempt 4, 44 words, 54.55% quotes quality score: 0.6973026333619321, V2 normalized quality score: 14.53, commentator tiers 1-3: 29.29%, 0.0%, 70.71%)
+- Attempt 5 BHT: The multitude of people cried out, All together, take him away! Their resounding demand for his removal reveals their desire to be rid of him entirely. The imperative away reflects the urgency and insistence in their voices, much like the command to take away seen in other instances of people being forcefully removed. Their cry for his release is juxtaposed with their request for the freedom of Barabbas, emphasizing the stark contrast between the two figures and highlighting the unjust choice that would soon be made.
+- 🔄 Luke 23:18 (attempt 5, 86 words, 40.0% quotes quality score: 0.788750065666707, V2 normalized quality score: 17.57, commentator tiers 1-3: 46.78%, 0.0%, 53.22%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The whole multitude came together, joining their voices in unison, fervently urging for Jesus to be taken away. In an intense and clamorous manner, they cried out with anger and indignation, vehemently declaring that he should be cast out of the world and deemed unworthy to live. Simultaneously, they demanded the release of Barabbas. The crowd's unified outcry and their insistence on Jesus' removal displayed a passionate resolve that was impossible to ignore.
-- 🔄 Luke 23:18 (attempt 3, 74 words, 34.48% quotes quality score: 0.8948774966306166, V2 normalized quality score: 21.1, commentator tiers 1-3: 36.98%, 0.0%, 63.02%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The entire multitude assembled as one, their voices joining in a clamorous chorus, passionately demanding the removal of Jesus. Their outcry conveyed a collective anger and resentment, exclaiming that he should be cast out from the world as he was unworthy to live. The crowd's urgent plea for Jesus' removal echoed alongside their request for the release of Barabbas. Their combined fervor and resolute demand left no room for uncertainty or hesitation.
-- 🔄 Luke 23:18 (attempt 4, 73 words, 33.33% quotes quality score: 0.7805306708447188, V2 normalized quality score: 17.3, commentator tiers 1-3: 39.36%, 0.0%, 60.64%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The whole multitude came together, calling for Jesus to be taken away. In a clamorous outcry, they angrily declared that he should be cast out of the world and deemed unworthy to live. They also demanded the release of Barabbas. The crowd's intense and urgent plea, filled with anger and indignation, revealed their strong desire for Jesus' removal. Their collective voice resonated with fervor and unwavering determination.
-- 🔄 Luke 23:18 (attempt 5, 68 words, 33.33% quotes quality score: 0.8589385801976521, V2 normalized quality score: 19.9, commentator tiers 1-3: 35.41%, 0.0%, 64.59%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 23:18 bht prompt v0.8 (74 words, 34.48% quotes)
-- quality score: 0.8948774966306166, V2 normalized quality score: 21.1, commentator tiers 1-3: 36.98%, 0.0%, 63.02%)
+- ✅ Luke 23:18 bht prompt v0.8 (70 words, 50.0% quotes)
+- quality score: 0.9745956378374994, V2 normalized quality score: 23.75, commentator tiers 1-3: 61.78%, 0.0%, 38.22%)

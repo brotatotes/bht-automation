@@ -1,27 +1,26 @@
 {
-    "timestamp": "12-19-2023 16:14:21",
+    "timestamp": "12-25-2023 21:16:23",
     "verseRef": "Luke 3:9",
     "bestBHT": {
-        "bht": "Every tree that does not bring forth good fruit will be cut down and thrown into the fire. This highlights the urgent need for repentance and spiritual transformation. Just as an axe is laid to the root of the trees, the Romans were seen as the means through which God's judgment would bring ruin and destruction upon their nation, city, and temple. Therefore, it is crucial to produce good fruit as a genuine expression of repentance and a heart that has been transformed by God's grace.",
-        "wordCount": 88,
-        "quoteTokenProportion": 45.45,
-        "qualityScore": 0.8200295905770261,
-        "qualityScoreNormalizedComparedToV2BHTs": 18.61,
+        "bht": "The significance of not producing good fruit is emphasized, drawing a parallel with Matthew 3:10. The imagery of an axe at the roots of trees portrays the impending judgment for those who fail to bear good fruit. Any tree not bringing forth good fruit is warned that it will face destruction, being cut down and cast into the fire. This reminds us of the severe consequences for those who do not lead a righteous life.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.20783446072823,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.5,
         "commentatorTierSimilarities": [
-            17.71,
+            33.2,
             0.0,
-            82.29
+            66.8
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Marvin Vincent": [
             "See on Matthew 3:10."
         ],
         "John Gill": [
-            "And now also the axe is laid unto the root of the trees\"- .",
-            "every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire\" - .",
-            "the Romans were now among them, the axe in God's hand; by means of whom, utter ruin and destruction would be brought upon their nation, city, and temple\" - ."
+            "And now also the axe is laid unto the root of the trees",
+            "every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -41,67 +40,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Every tree that does not bear good fruit will be cut down and thrown into the fire. This passage highlights the urgent need for repentance and spiritual transformation in our lives. Just as an axe is laid to the root of the trees, the Romans were seen as the instrument of God's judgment at the time. Failure to produce good fruit will result in devastating consequences, emphasizing the importance of genuine repentance and a transformed heart.",
-            "wordCount": 77,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 0.8783630402696856,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.55,
+            "bht": "The verse emphasizes the consequences of not producing good fruit, as illustrated in Matthew 3:10. It highlights the axe being laid at the root of trees, symbolizing the impending judgment for those who fail to bear good fruit. Ultimately, any tree that does not bring forth good fruit will be cut down and thrown into the fire, representing the severe consequences that await those who do not live a righteous life.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.4490905337286661,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
             "commentatorTierSimilarities": [
-                24.14,
+                37.28,
                 0.0,
-                75.86
+                62.72
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Every tree that fails to bring forth good fruit will be hewn down and cast into the fire. This emphasizes the urgency and necessity of repentance and spiritual transformation. Just as an axe is laid to the root of the trees, the Romans were viewed as the means through which God would bring ruin and destruction upon their nation, city, and temple. Therefore, it is crucial to produce good fruit, demonstrating genuine repentance and a heart transformed by God's grace.",
-            "wordCount": 81,
-            "quoteTokenProportion": 40.98,
-            "qualityScore": 0.8184407040822137,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.56,
+            "bht": "The significance of not producing good fruit is emphasized in this passage, drawing a parallel with the message in Matthew 3:10. It vividly portrays the imagery of an axe laid at the roots of trees, symbolizing the impending judgment for those who fail to bear good fruit. The passage warns that any tree that does not bring forth good fruit will ultimately face destruction, being cut down and cast into the fire. This serves as a reminder of the severe consequences that await those who do not lead a righteous life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.207075569722769,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.48,
             "commentatorTierSimilarities": [
-                17.45,
+                35.5,
                 0.0,
-                82.55
+                64.5
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Every tree that fails to bring forth good fruit will be hewn down and cast into the fire. This emphasizes the urgency and necessity of repentance and spiritual transformation. Just as an axe is laid to the root of the trees, the Romans were seen as the instrument of God's judgment. Their presence signified impending ruin and destruction upon their nation, city, and temple. Thus, it is vital to produce good fruit as evidence of true repentance and a heart transformed by God's grace.",
-            "wordCount": 86,
-            "quoteTokenProportion": 35.48,
-            "qualityScore": 0.8112885270614838,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.32,
+            "bht": "The significance of not producing good fruit is emphasized, drawing a parallel with Matthew 3:10. The imagery of an axe at the roots of trees portrays the impending judgment for those who fail to bear good fruit. Any tree not bringing forth good fruit is warned that it will face destruction, being cut down and cast into the fire. This reminds us of the severe consequences for those who do not lead a righteous life.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.20783446072823,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
             "commentatorTierSimilarities": [
-                18.64,
+                33.2,
                 0.0,
-                81.36
+                66.8
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Every tree that does not bring forth good fruit will be cut down and thrown into the fire. This highlights the urgent need for repentance and spiritual transformation. Just as an axe is laid to the root of the trees, the Romans were seen as the means through which God's judgment would bring ruin and destruction upon their nation, city, and temple. Therefore, it is crucial to produce good fruit as a genuine expression of repentance and a heart that has been transformed by God's grace.",
-            "wordCount": 88,
-            "quoteTokenProportion": 45.45,
-            "qualityScore": 0.8200295905770261,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.61,
+            "bht": "The implication of not producing good fruit is stressed, aligning with Matthew 3:10. The illustration of an axe at the tree's roots vividly symbolizes the imminent judgment for those who fail to bear good fruit. It serves as a warning that any tree unable to bring forth good fruit will face destruction, being cut down and cast into the fire. This sobering message reinforces the severe consequences that await those who do not live a righteous life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.2048052799426219,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.4,
             "commentatorTierSimilarities": [
-                17.71,
+                35.47,
                 0.0,
-                82.29
+                64.53
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Every tree that does not bring forth good fruit will be cut down and thrown into the fire. The presence of the Romans symbolizes God's imminent judgment, bringing ruin and destruction upon their nation, city, and temple. Thus, it is crucial to produce good fruit as a sign of authentic repentance and a heart transformed by God's grace. The urgency of this message calls for immediate spiritual transformation to avoid the devastating consequences that result from bearing no fruit.",
-            "wordCount": 81,
-            "quoteTokenProportion": 37.5,
-            "qualityScore": 0.738938246436694,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.91,
+            "bht": "The verse echoes the warning in Matthew 3:10, emphasizing the gravity of not producing good fruit. Illustrated by the imagery of an axe at the root of trees, it signifies the impending judgment for those who fail to bear good fruit. The passage admonishes that any tree lacking good fruit will be cut down and cast into the fire. This serves as a stark reminder of the severe consequences awaiting those who do not live a righteous life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.2088250296763863,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.54,
             "commentatorTierSimilarities": [
-                17.31,
+                32.91,
                 0.0,
-                82.69
+                67.09
             ],
             "generationAttempt": 5
         }

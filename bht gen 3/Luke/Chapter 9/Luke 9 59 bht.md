@@ -1,60 +1,55 @@
 # Luke 9:59 Commentary Help Text
 
 ## BHT:
-When the Lord says, Follow me, there is a request for immediate action, which prompts the individual to respond, Lord, suffer me first. This phrase reflects the struggle of balancing competing responsibilities and deciding which takes precedence. While it may seem like a challenge to Jesus' call, the individual's intention is not one of opposition but of grappling with the complexities of life. They desire to fulfill their duty to their father before fully committing to the journey of discipleship.
+When Jesus said, Follow me, the disciple replied, Lord, suffer me first. This statement reveals a lack of true commitment and an attempt to prioritize worldly responsibilities over following Jesus. The scribes were experts at justifying their reasons for not actively following Jesus, highlighting the challenge of balancing different duties in life. However, Jesus' call to follow him requires an immediate response, showing that there is no real opposition or excuse significant enough to delay discipleship.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Follow me" 
-2. "Lord, suffer me first"
-3. "Words could hardly be spoken without a reference"
+1. "Follow me... Lord, suffer me first."
 
 ### Archibald T. Robertson:
 1. "There is no real opposition, of course."
-2. "One of the problems of life is the relation of duties to each other, which comes first."
-3. "What the scribe apparently meant was that he could not leave his father while still alive to follow Jesus around over the country."
+2. "The scribes knew how to give plausible reasons for not being active disciples."
+3. "One of the problems of life is the relation of duties to each other, which comes first."
 
 ### John Gill:
-1. "According to Matthew, one of his disciples, who had attended him some time, and whom he now called to the ministerial work..."
-2. "But he said, Lord, suffer me first to go and bury my father..."
-3. "The Ethiopic version reads, 'another said to him, shall I not follow thee?' but without any foundation: they are certainly the words of Christ, directed to another person, at the same time he met with the former..."
+1. "And he said unto another, follow me...." - According to Matthew, one of his disciples, who had attended him some time, and whom he now called to the ministerial work.
+2. "But he said, Lord, suffer me first to go and bury my father" - This person hesitated to follow Jesus immediately, requesting to attend to familial responsibilities first.
+3. "The Ethiopic version reads, 'another said to him, shall I not follow thee?'" - It clarifies that the words spoken by Christ were directed to another person, not the one mentioned in the alternative translation.
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:17:24
+- Timestamp: 12-25-2023 21:01:00
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 40.98%
-- BHT Quality Score: 0.9064445370410661
+- BHT Word Count: 76
+- BHT Commentary Usage: 40.62%
+- BHT Quality Score: 1.5278713310363166
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'action', 'and', 'balancing', 'before', 'but', 'call', 'challenge', 'committing', 'competing', 'complexities', 'deciding', 'desire', 'discipleship', 'duty', 'father', 'first', 'follow', 'for', 'fulfill', 'fully', 'grappling', 'immediate', 'individual', 'intention', 'is', 'it', 'jesus', 'journey', 'life', 'like', 'lord', 'may', 'me', 'not', 'of', 'one', 'opposition', 'phrase', 'precedence', 'prompts', 'reflects', 'request', 'respond', 'responsibilities', 's', 'says', 'seem', 'struggle', 'suffer', 'takes', 'the', 'their', 'there', 'they', 'this', 'to', 'when', 'which', 'while', 'with']
-- ChatGPT injected words (significant words only) (36):
-	['action', 'balancing', 'challenge', 'committing', 'competing', 'complexities', 'deciding', 'desire', 'discipleship', 'duty', 'father', 'follow', 'fulfill', 'fully', 'grappling', 'immediate', 'individual', 'intention', 'jesus', 'journey', 'life', 'like', 'lord', 'opposition', 'phrase', 'precedence', 'prompts', 'reflects', 'request', 'respond', 'responsibilities', 's', 'says', 'struggle', 'suffer', 'takes']
+- ChatGPT injected words (64):
+	['a', 'actively', 'an', 'and', 'at', 'attempt', 'balancing', 'call', 'challenge', 'commitment', 'delay', 'different', 'disciple', 'discipleship', 'duties', 'enough', 'excuse', 'experts', 'first', 'follow', 'following', 'for', 'highlighting', 'him', 'however', 'immediate', 'in', 'is', 'jesus', 'justifying', 'lack', 'life', 'lord', 'me', 'no', 'not', 'of', 'opposition', 'or', 'over', 'prioritize', 'real', 'reasons', 'replied', 'requires', 'response', 'responsibilities', 'reveals', 'said', 'scribes', 'showing', 'significant', 'statement', 'suffer', 'that', 'the', 'their', 'there', 'this', 'to', 'true', 'were', 'when', 'worldly']
+- ChatGPT injected words (significant words only) (38):
+	['actively', 'attempt', 'balancing', 'challenge', 'commitment', 'delay', 'different', 'disciple', 'discipleship', 'duties', 'excuse', 'experts', 'follow', 'following', 'highlighting', 'immediate', 'jesus', 'justifying', 'lack', 'life', 'lord', 'opposition', 'prioritize', 'real', 'reasons', 'replied', 'requires', 'response', 'responsibilities', 'reveals', 'said', 'scribes', 'showing', 'significant', 'statement', 'suffer', 'true', 'worldly']
 
 ### Logs
-- Attempt 1 BHT: In the verse, the Lord invites someone to follow Him, but this person hesitates and says, Lord, suffer me first. This phrase reveals the clash between different duties and priorities in life. Although there seems to be opposition, it is important to note that the individual's request is not necessarily an act of defiance. Rather, they are expressing the difficulty of choosing between their duty to care for their father and the call to follow Jesus. Their intention is not to neglect their responsibilities but to fulfill them first before committing fully to discipleship.
-- 🔄 Luke 9:59 (attempt 1, 95 words, 43.28% quotes quality score: 0.9927399740598877, V2 normalized quality score: 24.35, commentator tiers 1-3: 44.08%, 0.0%, 55.92%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: When the Lord says, Follow me, there is a request for immediate action, which prompts the individual to respond, Lord, suffer me first. This phrase reflects the struggle of balancing competing responsibilities and deciding which takes precedence. While it may seem like a challenge to Jesus' call, the individual's intention is not one of opposition but of grappling with the complexities of life. They desire to fulfill their duty to their father before fully committing to the journey of discipleship.
-- 🔄 Luke 9:59 (attempt 2, 81 words, 40.98% quotes quality score: 0.9064445370410661, V2 normalized quality score: 21.48, commentator tiers 1-3: 42.42%, 0.0%, 57.58%) 
+- Attempt 1 BHT: When Jesus said, Follow me, the disciple replied, Lord, suffer me first. This statement reveals a lack of true commitment and an attempt to prioritize worldly responsibilities over following Jesus. The scribes were experts at justifying their reasons for not actively following Jesus, highlighting the challenge of balancing different duties in life. However, Jesus' call to follow him requires an immediate response, showing that there is no real opposition or excuse significant enough to delay discipleship.
+- 🔄 Luke 9:59 (attempt 1, 76 words, 40.62% quotes quality score: 1.5278713310363166, V2 normalized quality score: 42.14, commentator tiers 1-3: 43.3%, 0.0%, 56.7%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: When Jesus said, Follow me, one disciple responded, Lord, suffer me first. This reveals a lack of commitment and an attempt to prioritize worldly responsibilities over following Jesus. The scribes were skilled at giving plausible reasons for not being active disciples. Balancing various duties in life can be challenging, as evident in the disciple's request to attend to familial responsibilities before following Jesus immediately. However, Jesus' call to follow him requires an immediate response, as there is no real opposition or excuse significant enough to delay discipleship.
+- 🔄 Luke 9:59 (attempt 2, 88 words, 43.06% quotes quality score: 1.4777108626552797, V2 normalized quality score: 40.48, commentator tiers 1-3: 44.56%, 0.0%, 55.44%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When the call to Follow me is given by the Lord, the response of Lord, suffer me first reflects the tension between competing obligations and the struggle of determining priorities. The individual's hesitation does not indicate true opposition, but rather highlights the challenge of navigating the relationships between different responsibilities. Their request suggests a desire to fulfill their duty to their father before fully embracing the path of discipleship. It underscores the complexity of decision-making in relation to our various obligations in life.
-- 🔄 Luke 9:59 (attempt 3, 85 words, 35.48% quotes quality score: 0.8235903103530859, V2 normalized quality score: 18.73, commentator tiers 1-3: 46.44%, 0.0%, 53.56%) 
+- Attempt 3 BHT: When Jesus said, Follow me, the disciple's response of Lord, suffer me first reflects a lack of commitment and the tendency to prioritize other responsibilities over discipleship. The scribes were known for providing plausible justifications for not actively following Jesus. They understood the challenge of balancing different duties in life and potentially used it as an excuse. However, Jesus' call to follow him requires an immediate response, highlighting that there is no legitimate opposition or excuse to delay obedience to him.
+- 🔄 Luke 9:59 (attempt 3, 82 words, 42.19% quotes quality score: 1.2561871219130627, V2 normalized quality score: 33.11, commentator tiers 1-3: 41.35%, 0.0%, 58.65%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: In the call to Follow me, the response of Lord, suffer me first reveals the underlying dilemma of prioritizing duties in life. The individual's hesitation is not a direct opposition to the invitation but an acknowledgement of the intricate nature of our responsibilities. This interaction raises the question of what takes precedence when faced with conflicting obligations. The individual's request indicates a desire to fulfill the duty to their father before committing fully to the journey of discipleship.
-- 🔄 Luke 9:59 (attempt 4, 80 words, 33.33% quotes quality score: 0.8763738667126846, V2 normalized quality score: 20.48, commentator tiers 1-3: 43.57%, 0.0%, 56.43%) 
+- Attempt 4 BHT: When Jesus said, Follow me, the disciple's response of Lord, suffer me first demonstrated a lack of commitment and a tendency to prioritize other responsibilities over immediate discipleship. The scribes were adept at presenting plausible reasons for not actively following Jesus. They understood the challenge of balancing different duties in life and used it to avoid becoming active disciples. Nevertheless, Jesus' call to follow him required an immediate response, dismissing any valid opposition or excuse to delay obedience.
+- 🔄 Luke 9:59 (attempt 4, 79 words, 39.06% quotes quality score: 1.3804866330486023, V2 normalized quality score: 37.24, commentator tiers 1-3: 41.21%, 0.0%, 58.79%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In the encounter where the Lord beckons with the words Follow me, the response of Lord, suffer me first shines a light on the intricate dilemmas surrounding the order of duties in our lives. This hesitation is not a sign of outright opposition but rather a recognition of the challenge of weighing our various responsibilities. The individual's request reveals their intention to attend to their father's needs before fully embracing the path of discipleship. It highlights the complexities we face when discerning our priorities in light of competing obligations.
-- 🔄 Luke 9:59 (attempt 5, 91 words, 34.38% quotes quality score: 0.7686769102945752, V2 normalized quality score: 16.9, commentator tiers 1-3: 38.44%, 0.0%, 61.56%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: When Jesus called the disciple to Follow me, the response of Lord, suffer me first revealed a prioritization of worldly responsibilities over immediate discipleship. The scribes were skilled at providing plausible reasons for not actively following Jesus. They understood the struggle of balancing different duties in life and used it as an excuse. However, Jesus' call required an immediate response, indicating that there is no legitimate opposition or excuse substantial enough to delay obedience to him.
+- 🔄 Luke 9:59 (attempt 5, 76 words, 45.16% quotes quality score: 1.1736063262519894, V2 normalized quality score: 30.37, commentator tiers 1-3: 40.02%, 0.0%, 59.98%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 9:59 bht prompt v0.8 (81 words, 40.98% quotes)
-- quality score: 0.9064445370410661, V2 normalized quality score: 21.48, commentator tiers 1-3: 42.42%, 0.0%, 57.58%)
+- ✅ Luke 9:59 bht prompt v0.8 (76 words, 40.62% quotes)
+- quality score: 1.5278713310363166, V2 normalized quality score: 42.14, commentator tiers 1-3: 43.3%, 0.0%, 56.7%)

@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:25:49",
+    "timestamp": "12-25-2023 20:59:21",
     "verseRef": "Mark 10:20",
     "bestBHT": {
-        "bht": "All these, meaning all the commandments that Jesus had mentioned, were observed by the man from his youth. With a great deal of pertness, he proudly told Jesus that he had faithfully followed these commandments. However, he still felt a lack within himself and he sought to find out what it was that he lacked. Recognizing the man's pride and self-righteousness, Jesus drops the epithet good and addresses him as Master, gently reproving him.",
-        "wordCount": 76,
-        "quoteTokenProportion": 44.64,
-        "qualityScore": 0.6561085129161507,
-        "qualityScoreNormalizedComparedToV2BHTs": 13.16,
+        "bht": "All these, every single one of them, I have observed diligently from my youth. But, Master, what lack I yet? With a great deal of pertness, the man questions Jesus, seeking confirmation of his good deeds. However, Jesus, dropping the epithet good, reproves him and responds to his query by exposing the one thing he still lacks.",
+        "wordCount": 57,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 0.7667761999103431,
+        "qualityScoreNormalizedComparedToV2BHTs": 16.84,
         "commentatorTierSimilarities": [
-            3.94,
-            33.1,
-            62.95
+            22.34,
+            18.63,
+            59.03
         ],
-        "generationAttempt": 1
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -24,8 +24,8 @@
             "these all (of them). "
         ],
         "John Gill": [
-            "With a great deal of pertness.\" ",
-            "Master, all these have I observed from my youth.",
+            "With a great deal of pertness",
+            "Master, all these have I observed from my youth",
             "What lack I yet?"
         ],
         "John Wesley": [
@@ -49,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "All these, meaning all the commandments that Jesus had mentioned, were observed by the man from his youth. With a great deal of pertness, he proudly told Jesus that he had faithfully followed these commandments. However, he still felt a lack within himself and he sought to find out what it was that he lacked. Recognizing the man's pride and self-righteousness, Jesus drops the epithet good and addresses him as Master, gently reproving him.",
-            "wordCount": 76,
-            "quoteTokenProportion": 44.64,
-            "qualityScore": 0.6561085129161507,
-            "qualityScoreNormalizedComparedToV2BHTs": 13.16,
+            "bht": "All these, every single one of them, I have observed diligently from my youth. But, Master, what lack I yet? With a great deal of pertness, the man questions Jesus, seeking confirmation of his good deeds. However, Jesus, dropping the epithet good, reproves him and responds to his query by exposing the one thing he still lacks. (Mark 10:20)",
+            "wordCount": 58,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 0.8535392282358562,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.72,
             "commentatorTierSimilarities": [
-                3.94,
-                33.1,
-                62.95
+                18.61,
+                38.34,
+                43.05
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "With a great deal of pertness, the man confidently affirmed that he had observed all these commandments from his youth. However, he still felt a lack and sought to find out what he was missing. Jesus, recognizing the man's pride and self-righteousness, drops the epithet good and addresses him as Master, gently reproving him for his attitude.",
-            "wordCount": 59,
-            "quoteTokenProportion": 42.86,
-            "qualityScore": 0.5757182004283923,
-            "qualityScoreNormalizedComparedToV2BHTs": 10.49,
+            "bht": "All these, every single one of them, I have observed diligently from my youth. But, Master, what lack I yet? With a great deal of pertness, the man questions Jesus, seeking confirmation of his good deeds. However, Jesus, dropping the epithet good, reproves him and responds to his query by exposing the one thing he still lacks.",
+            "wordCount": 57,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 0.7667761999103431,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.84,
             "commentatorTierSimilarities": [
-                -9.94,
-                31.1,
-                78.84
+                22.34,
+                18.63,
+                59.03
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "All these commandments, the man stated with a great deal of pertness, he had faithfully observed from his youth. Despite his self-assuredness, he still felt a sense of lack within himself and approached Jesus, asking what it was that he was missing. In response, Jesus, in a gentle reproach, addressed the man as Master, subtly highlighting his need for further growth and humility.",
-            "wordCount": 64,
-            "quoteTokenProportion": 43.14,
-            "qualityScore": 0.6290077792964187,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.26,
+            "bht": "All these, referring to the specific commandments mentioned, have the man observed diligently since his youth. He implores Jesus, asking what he lacks in his pursuit of righteousness. Recognizing the man's sense of importance, Jesus responds by addressing him as Master, implying a newfound realization that the man's self-assuredness stems from a place of arrogance rather than genuine humility.",
+            "wordCount": 62,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 0.7100106109216897,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.95,
             "commentatorTierSimilarities": [
-                -2.68,
-                39.28,
-                63.4
+                11.52,
+                35.13,
+                53.35
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "With a great deal of pertness, the man boldly responded to Jesus, affirming that he had observed all these commandments diligently since his youth. However, he still felt a sense of lacking and sought to discover what it was that he needed to acquire. Jesus, recognizing the man's pride and self-assuredness, dropped the epithet good and addressed him as Master, subtly rebuking his attitude.",
-            "wordCount": 66,
-            "quoteTokenProportion": 38.46,
-            "qualityScore": 0.5401856619993535,
-            "qualityScoreNormalizedComparedToV2BHTs": 9.31,
+            "bht": "All these, referring to the specific commandments mentioned, have I observed from my youth. What lack I yet? Master, he calls Jesus, acknowledging his own obedience to the commandments. Yet Jesus, in his response, highlights the man's sense of arrogance by no longer referring to him as good.",
+            "wordCount": 49,
+            "quoteTokenProportion": 48.72,
+            "qualityScore": 0.6986341103974881,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.57,
             "commentatorTierSimilarities": [
-                -14.52,
-                34.57,
-                79.95
+                18.45,
+                20.68,
+                60.86
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "All these commandments, the man claimed, he had observed faithfully from his youth, demonstrating a great deal of pertness. Despite his confident proclamation, he still felt a sense of lack and approached Jesus, asking what he needed to do further. In response, Jesus, aware of the man's pride, dropped the epithet good and addressed him as Master, subtly reproving him for his attitude.",
-            "wordCount": 64,
-            "quoteTokenProportion": 37.25,
-            "qualityScore": 0.6025530034789,
-            "qualityScoreNormalizedComparedToV2BHTs": 11.38,
+            "bht": "All these, referring to the specific commandments mentioned, have the man diligently observed from his youth. Seeking further guidance, the man respectfully addresses Jesus as Master, recognizing his own adherence to the commandments. However, Jesus, sensing the man's pride, shifts his response, no longer addressing him as good.",
+            "wordCount": 49,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 0.6671299475061158,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.53,
             "commentatorTierSimilarities": [
-                -3.07,
-                30.71,
-                72.36
+                7.67,
+                42.27,
+                50.06
             ],
             "generationAttempt": 5
         }

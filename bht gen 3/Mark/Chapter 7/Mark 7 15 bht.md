@@ -1,7 +1,7 @@
 # Mark 7:15 Commentary Help Text
 
 ## BHT:
-The verse teaches that external factors have no power to defile us; rather, it is the evil thoughts and intentions that come from the heart that can bring moral defilement. Although our dietary choices can affect our health, the pollution arises from the wickedness of the heart. Ultimately, the verse emphasizes that our internal disposition determines our guilt and moral defilement.
+The defilement of a person does not come from what they consume externally, but rather from the sinful words that originate from their heart and mouth. These words, such as idle, unchaste, blasphemous, and wrathful expressions, result in moral defilement, affecting the mind, conscience, and actions of an individual. It is important to note that even if something harmful is ingested, the pollution still arises from the wickedness within. Ultimately, it is the condition of the heart that determines a person's moral purity or defilement.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -10,54 +10,49 @@ The verse teaches that external factors have no power to defile us; rather, it i
 
 
 ### John Gill:
-1. "There is nothing from without a man, that entering into him, can defile him." 
-2. "The things which come out of him... these are they that defile the man." 
-3. "It is not what enters from without into the mouth of man, which can defile him; but only what goes out of the heart man, this defiles the man."
+1. "but the things which come out of him; the things are, all sinful words which proceed from the imaginations and lusts of the heart; as all idle, unchaste, blasphemous, and wrathful words and expressions..."
+2. "these are they that defile the man: his mind and conscience, the faculties of his soul, and the members of his body; and render him abominable in the sight of God, and expose him to his wrath and displeasure..."
+3. "it is sin in the heart, and what proceeds from it; as all evil thoughts, wicked words, and impure actions; which denominate a man filthy and unclean, and expose him to the abhorrence of God, and of his people..."
 
 ### John Wesley:
-1. "There is nothing entering into a man from without which can defile him." 
-2. "A man may bring guilt, which is moral defilement, upon himself by eating what hurts his health, or by excess either in meat or drink yet even here the pollution arises from the wickedness of the heart, and is just proportionable to it."
-3. "And this is all that our Lord asserts."
+1. "There is nothing entering into a man from without which can defile him."
+2. "A man may bring guilt, which is moral defilement, upon himself by eating what hurts his health, or by excess either in meat or drink."
+3. "Even here the pollution arises from the wickedness of the heart, and is just proportionable to it."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-22-2023 23:23:52
+- Timestamp: 12-25-2023 21:00:53
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 61
-- BHT Commentary Usage: 35.71%
-- BHT Quality Score: 0.7335561135639589
+- BHT Word Count: 86
+- BHT Commentary Usage: 44.26%
+- BHT Quality Score: 1.013367553454522
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (42):
-	['affect', 'although', 'and', 'arises', 'bring', 'can', 'choices', 'come', 'defile', 'defilement', 'determines', 'dietary', 'disposition', 'emphasizes', 'evil', 'external', 'factors', 'from', 'guilt', 'have', 'health', 'heart', 'intentions', 'internal', 'is', 'it', 'moral', 'no', 'of', 'our', 'pollution', 'power', 'rather', 'teaches', 'that', 'the', 'thoughts', 'to', 'ultimately', 'us', 'verse', 'wickedness']
-- ChatGPT injected words (significant words only) (27):
-	['affect', 'arises', 'bring', 'choices', 'come', 'defile', 'defilement', 'determines', 'dietary', 'disposition', 'emphasizes', 'evil', 'external', 'factors', 'guilt', 'health', 'heart', 'intentions', 'internal', 'moral', 'pollution', 'power', 'teaches', 'thoughts', 'ultimately', 'verse', 'wickedness']
+- ChatGPT injected words (61):
+	['a', 'actions', 'affecting', 'an', 'and', 'arises', 'as', 'blasphemous', 'but', 'come', 'condition', 'conscience', 'consume', 'defilement', 'determines', 'does', 'even', 'expressions', 'externally', 'from', 'harmful', 'heart', 'idle', 'if', 'important', 'in', 'individual', 'ingested', 'is', 'it', 'mind', 'moral', 'mouth', 'not', 'note', 'of', 'or', 'originate', 'person', 'pollution', 'purity', 'rather', 'result', 's', 'sinful', 'something', 'still', 'such', 'that', 'the', 'their', 'these', 'they', 'to', 'ultimately', 'unchaste', 'what', 'wickedness', 'within', 'words', 'wrathful']
+- ChatGPT injected words (significant words only) (34):
+	['actions', 'affecting', 'arises', 'blasphemous', 'come', 'condition', 'conscience', 'consume', 'defilement', 'determines', 'expressions', 'externally', 'harmful', 'heart', 'idle', 'important', 'individual', 'ingested', 'mind', 'moral', 'mouth', 'note', 'originate', 'person', 'pollution', 'purity', 'result', 's', 'sinful', 'ultimately', 'unchaste', 'wickedness', 'words', 'wrathful']
 
 ### Logs
-- Attempt 1 BHT: According to the commentary, the verse suggests that external factors, such as what we eat or encounter, do not have the power to defile us. Rather, it is the things that come out of our hearts that can defile us. The emphasis is on the evil thoughts and intentions that stem from the heart, which ultimately determine our moral defilement. While certain dietary choices may adversely affect our health, the pollution stems from the wickedness of the heart. In essence, the verse asserts that it is our internal disposition that has the potential to bring guilt and moral defilement upon ourselves.
-- 🔄 Mark 7:15 (attempt 1, 101 words, 42.65% quotes quality score: 0.7970989688454054, V2 normalized quality score: 17.85, commentator tiers 1-3: 0.0%, 18.9%, 81.1%) 
+- Attempt 1 BHT: The verse suggests that it is not what enters a person from the outside that defiles them, but rather the sinful words that come out from their heart and mouth. These words, which include idle, unchaste, blasphemous, and wrathful expressions, defile a person and render them abominable in the sight of God. The defilement is not physical, but rather moral, affecting the person's mind, conscience, faculties, and actions. It is important to note that even if something harmful is ingested, the pollution still arises from the wickedness of the heart. In essence, it is the condition of the heart that determines a person's moral purity or defilement.
+- 🔄 Mark 7:15 (attempt 1, 109 words, 36.36% quotes quality score: 1.0144753006147076, V2 normalized quality score: 25.08, commentator tiers 1-3: 0.0%, 23.85%, 76.15%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The verse teaches that external factors have no power to defile us; rather, it is the evil thoughts and intentions that come from the heart that can bring moral defilement. Although our dietary choices can affect our health, the pollution arises from the wickedness of the heart. Ultimately, the verse emphasizes that our internal disposition determines our guilt and moral defilement.
-- 🔄 Mark 7:15 (attempt 2, 61 words, 35.71% quotes quality score: 0.7335561135639589, V2 normalized quality score: 15.74, commentator tiers 1-3: 0.0%, 19.9%, 80.1%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: It is not external factors that can defile us, but rather the evil thoughts and intentions that arise from the heart. Our moral defilement is determined by what comes out of us rather than what enters into us. While our diet and behaviors may impact our health, the pollution is rooted in the wickedness of the heart. This passage highlights the significance of our internal disposition in bringing about guilt and moral defilement.
-- 🔄 Mark 7:15 (attempt 3, 73 words, 46.0% quotes quality score: 0.7118677559190385, V2 normalized quality score: 15.01, commentator tiers 1-3: 0.0%, 19.8%, 80.2%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: There is no external source able to defile us; instead, it is the malicious thoughts and intentions originating from the heart that possess the power to bring moral defilement. Our moral pollution is not derived from external factors, but rather from the wickedness within us. Although our dietary choices may impact our health, the contamination arises from the inner disposition. In essence, this verse emphasizes the internal condition as the determinant of guilt and moral defilement.
-- 🔄 Mark 7:15 (attempt 4, 76 words, 38.18% quotes quality score: 0.622617614466439, V2 normalized quality score: 12.05, commentator tiers 1-3: 0.0%, 21.24%, 78.76%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: There is no external influence capable of defiling a person; rather, it is the impure thoughts and intentions that emanate from within the heart that have the potential to bring about moral defilement. The pollution does not arise from external factors, but rather from the wickedness within. While our choices in food and behavior may impact our physical well-being, the true contamination stems from the inner disposition. This passage underscores the significance of our internal state in determining guilt and moral impurity.
-- 🔄 Mark 7:15 (attempt 5, 83 words, 40.98% quotes quality score: 0.627377643215522, V2 normalized quality score: 12.21, commentator tiers 1-3: 0.0%, 25.36%, 74.64%) 
+- Attempt 2 BHT: The defilement of a person does not come from what they consume externally, but rather from the sinful words that originate from their heart and mouth. These words, such as idle, unchaste, blasphemous, and wrathful expressions, result in moral defilement, affecting the mind, conscience, and actions of an individual. It is important to note that even if something harmful is ingested, the pollution still arises from the wickedness within. Ultimately, it is the condition of the heart that determines a person's moral purity or defilement.
+- 🔄 Mark 7:15 (attempt 2, 86 words, 44.26% quotes quality score: 1.013367553454522, V2 normalized quality score: 25.04, commentator tiers 1-3: 0.0%, 23.93%, 76.07%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Mark 7:15 bht prompt v0.8 (61 words, 35.71% quotes)
-- quality score: 0.7335561135639589, V2 normalized quality score: 15.74, commentator tiers 1-3: 0.0%, 19.9%, 80.1%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The defilement of a person does not result from what enters them externally, but from the sinful words that come forth from their heart and mouth. These words, including idle, unchaste, blasphemous, and wrathful expressions, bring moral impurity, tarnishing the mind, conscience, and actions of an individual. Notably, even if something harmful is consumed, the pollution still arises from the wickedness within. Ultimately, the condition of the heart determines one's ethical purity or defilement.
+- 🔄 Mark 7:15 (attempt 3, 75 words, 37.29% quotes quality score: 0.9403865491032705, V2 normalized quality score: 22.61, commentator tiers 1-3: 0.0%, 22.19%, 77.81%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The defilement of a person arises not from external intake, but from the sinful words that originate within their heart and flow out of their mouth. These words, comprising idle, unchaste, blasphemous, and wrathful expressions, contribute to moral impurity, polluting the mind, conscience, and behavior. It is crucial to recognize that even if harmful substances are ingested, the contamination stems from the wickedness residing within. Ultimately, the state of one's heart determines their moral cleanliness or defilement.
+- 🔄 Mark 7:15 (attempt 4, 78 words, 34.48% quotes quality score: 0.8699099364446584, V2 normalized quality score: 20.27, commentator tiers 1-3: 0.0%, 19.62%, 80.38%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The defilement of a person does not come from what enters them externally, but rather from the sinful words that emanate from their heart and mouth. These words, including idle, unchaste, blasphemous, and wrathful expressions, bring about moral contamination, tarnishing the mind, conscience, and actions of an individual. Notably, even if harmful substances are consumed, the pollution still arises from the wickedness within. Ultimately, the condition of the heart determines one's moral purity or defilement.
+- 🔄 Mark 7:15 (attempt 5, 76 words, 38.98% quotes quality score: 0.9119847973559848, V2 normalized quality score: 21.67, commentator tiers 1-3: 0.0%, 20.35%, 79.65%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 7:15 bht prompt v0.8 (86 words, 44.26% quotes)
+- quality score: 1.013367553454522, V2 normalized quality score: 25.04, commentator tiers 1-3: 0.0%, 23.93%, 76.07%)

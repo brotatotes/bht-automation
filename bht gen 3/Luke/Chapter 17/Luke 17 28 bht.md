@@ -1,61 +1,59 @@
 # Luke 17:28 Commentary Help Text
 
 ## BHT:
-The days of Lot are presented as an example in this portion of scripture, demonstrating the Lord's affirmation of another part of the sacred record. This serves as a response to the skepticism prevalent in modern times, as doubts have been cast upon the authenticity of the Bible. Pay attention to the contrast between the imperfects and aorists used here, as they convey the ongoing actions of eating, drinking, buying, selling, and planting. These details offer valuable insights into the way of life during the days of Lot.
+The example of the days of Lot reveals the support given by the Lord of Truth to another part of the sacred record, standing against modern skepticism. The contrast between the imperfects and aorists emphasizes the significance of these events. The people during Lot's time lacked compassion for the poor and oppressed, yet lived in peace and abundance in a fertile land.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The example of the days of Lot is added here"
-2. "the sanction of the Lord of Truth given to another part of the sacred record"
-3. "modern scepticism has laid its unhallowed hands"
+1. "The example of the days of Lot is added here."
+2. "The sanction of the Lord of Truth given to another part of the sacred record."
+3. "Modern skepticism has laid its unhallowed hands."
 
 ### Archibald T. Robertson:
-1. "Note the same sharp contrast between the imperfects here and the aorists in verse Luke 17:29." 
-2. "(…) the imperfects here (…) and the aorists in verse Luke 17:29." 
-3. "The imperfects here (…) and the aorists in verse Luke 17:29."
+1. "Note the same sharp contrast between the imperfects here (ate ησθιον, drank επινον, bought ηγοραζον, sold επωλουν, planted εφυτευον, builded ωικοδομουν) and the aorists in verse Luke 17:29 (went out εξηλθεν, rained εβρεξεν, destroyed απωλεσεν)."
 
 ### John Gill:
-1. "they did eat, they drank" - 
-2. "they bought, they sold: they traded among themselves, and with their neighbors"
-3. "they planted; vineyards, and fruit trees"
+1. "They had no regard to the poor and needy; they made no conscience of defrauding and oppressing them." 
+2. "Living in a very fruitful soil, like the garden of God."
+3. "Being filled with the increase of the earth, they lived in security, peace, and tranquillity."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:21:02
+- Timestamp: 12-25-2023 21:16:29
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 34.92%
-- BHT Quality Score: 0.855944791866692
+- BHT Word Count: 63
+- BHT Commentary Usage: 32.61%
+- BHT Quality Score: 1.0299719483879277
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['a', 'actions', 'affirmation', 'an', 'and', 'another', 'aorists', 'are', 'as', 'attention', 'authenticity', 'been', 'between', 'bible', 'buying', 'cast', 'contrast', 'convey', 'days', 'demonstrating', 'details', 'doubts', 'drinking', 'during', 'eating', 'example', 'have', 'here', 'imperfects', 'in', 'insights', 'into', 'life', 'lord', 'lot', 'modern', 'of', 'offer', 'ongoing', 'part', 'pay', 'planting', 'portion', 'presented', 'prevalent', 'record', 'response', 's', 'sacred', 'scripture', 'selling', 'serves', 'skepticism', 'the', 'these', 'they', 'this', 'times', 'to', 'upon', 'used', 'valuable', 'way']
-- ChatGPT injected words (significant words only) (41):
-	['actions', 'affirmation', 'aorists', 'attention', 'authenticity', 'bible', 'buying', 'cast', 'contrast', 'convey', 'days', 'demonstrating', 'details', 'doubts', 'drinking', 'eating', 'example', 'imperfects', 'insights', 'life', 'lord', 'lot', 'modern', 'offer', 'ongoing', 'pay', 'planting', 'portion', 'presented', 'prevalent', 'record', 'response', 's', 'sacred', 'scripture', 'selling', 'serves', 'skepticism', 'times', 'valuable', 'way']
+- ChatGPT injected words (46):
+	['a', 'abundance', 'against', 'and', 'another', 'aorists', 'between', 'by', 'compassion', 'contrast', 'days', 'during', 'emphasizes', 'events', 'example', 'fertile', 'for', 'given', 'imperfects', 'in', 'lacked', 'land', 'lived', 'lord', 'lot', 'modern', 'of', 'oppressed', 'part', 'peace', 'people', 'poor', 'record', 'reveals', 's', 'sacred', 'significance', 'skepticism', 'standing', 'support', 'the', 'these', 'time', 'to', 'truth', 'yet']
+- ChatGPT injected words (significant words only) (31):
+	['abundance', 'aorists', 'compassion', 'contrast', 'days', 'emphasizes', 'events', 'example', 'fertile', 'given', 'imperfects', 'lacked', 'land', 'lived', 'lord', 'lot', 'modern', 'oppressed', 'peace', 'people', 'poor', 'record', 'reveals', 's', 'sacred', 'significance', 'skepticism', 'standing', 'support', 'time', 'truth']
 
 ### Logs
-- Attempt 1 BHT: In Luke 17:28, the example of the days of Lot is given as a reference, serving as the Lord of Truth's approval of another part of the sacred record. This is particularly important in light of modern skepticism that has disregarded the authenticity of the Bible. It's worth noting the sharp contrast between the imperfects used in this verse and the aorists in verse 29. The imperfects signify continuous actions, such as eating, drinking, buying, selling, and planting, which provide insight into the lifestyle and activities of the people during the days of Lot.
-- 🔄 Luke 17:28 (attempt 1, 94 words, 31.67% quotes quality score: 1.0383095372227817, V2 normalized quality score: 25.87, commentator tiers 1-3: 93.25%, 0.0%, 6.75%) 
+- Attempt 1 BHT: In Luke 17:28, the example of the days of Lot is added as a sanction by the Lord of Truth to another part of the sacred record. Modern skepticism has cast doubt on these events, but the contrast between the imperfects and the aorists in this verse is noteworthy. The people in the days of Lot lacked regard for the poor and needy and made no conscience of defrauding and oppressing them. Living in a fruitful land, they enjoyed security, peace, and tranquillity, being filled with the increase of the earth.
+- 🔄 Luke 17:28 (attempt 1, 90 words, 38.71% quotes quality score: 1.235560566036699, V2 normalized quality score: 32.43, commentator tiers 1-3: 41.82%, 0.0%, 58.18%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The example of the days of Lot is added here, indicating the Lord's endorsement of another part of the sacred record. This serves as a response to modern skepticism that has dismissed the Bible. Note the contrast between the imperfects in this passage and the aorists in the subsequent section, highlighting continuous actions such as eating, drinking, buying, selling, and planting. These details provide valuable insights into the lifestyle and activities of the people during the days of Lot.
-- 🔄 Luke 17:28 (attempt 2, 80 words, 33.33% quotes quality score: 0.8881319226010671, V2 normalized quality score: 20.87, commentator tiers 1-3: 85.25%, 0.0%, 14.75%) 
+- Attempt 2 BHT: The example of the days of Lot in this passage serves as a sanction from the Lord of Truth to another part of the sacred record, countering the doubts sown by modern skepticism. The sharp contrast between the imperfects and the aorists emphasizes the significance of the events described. The people during Lot's time lacked compassion for the poor and oppressed but lived in peace, security, and prosperity in a fruitful land.
+- 🔄 Luke 17:28 (attempt 2, 73 words, 30.77% quotes quality score: 1.1336891391018826, V2 normalized quality score: 29.04, commentator tiers 1-3: 56.59%, 0.0%, 43.41%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The days of Lot are presented as an example in this portion of scripture, demonstrating the Lord's affirmation of another part of the sacred record. This serves as a response to the skepticism prevalent in modern times, as doubts have been cast upon the authenticity of the Bible. Pay attention to the contrast between the imperfects and aorists used here, as they convey the ongoing actions of eating, drinking, buying, selling, and planting. These details offer valuable insights into the way of life during the days of Lot.
-- 🔄 Luke 17:28 (attempt 3, 89 words, 34.92% quotes quality score: 0.855944791866692, V2 normalized quality score: 19.8, commentator tiers 1-3: 93.7%, 0.0%, 6.3%) 
+- Attempt 3 BHT: The days of Lot are referred to here, showcasing the sanction provided by the Lord of Truth to a different part of the sacred record, countering the skepticism of our time. The sharp contrast stands out between the imperfects and aorists, highlighting the importance of these events. The people during Lot's time lacked compassion for the needy, while living peacefully and prosperously in a fertile land.
+- 🔄 Luke 17:28 (attempt 3, 67 words, 34.69% quotes quality score: 1.003807433570629, V2 normalized quality score: 24.72, commentator tiers 1-3: 63.03%, 0.0%, 36.97%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The example of the days of Lot is exhibited in this particular verse, presenting the support given by the Lord of Truth to another segment of the sacred record, in response to the doubts raised by contemporary skepticism. The noteworthy distinction between the imperfects and the aorists emphasizes the significance of the described events. In the days of Lot, the people displayed a lack of concern for the impoverished and oppressed, while enjoying a life of security, peace, and abundance in a fertile land.
+- 🔄 Luke 17:28 (attempt 4, 84 words, 24.53% quotes quality score: 1.0217424315675672, V2 normalized quality score: 25.32, commentator tiers 1-3: 60.65%, 0.0%, 39.35%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Lord references the days of Lot, approving another part of the sacred record and countering modern skepticism. The contrast between the imperfects and aorists is notable, highlighting continuous actions such as eating, drinking, buying, selling, and planting. These actions provide insights into the daily lives and activities of the people during the days of Lot.
-- 🔄 Luke 17:28 (attempt 4, 56 words, 30.0% quotes quality score: 0.8497357343024408, V2 normalized quality score: 19.6, commentator tiers 1-3: 63.89%, 0.0%, 36.11%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Lord's approval of another part of the sacred record, the days of Lot, serves as a response to modern skepticism that questions the authenticity of the Bible. The contrast between the imperfects and aorists in this passage is significant, as it highlights continuous actions like eating, drinking, buying, selling, and planting. These actions offer valuable insights into the lifestyle and activities of the people during the days of Lot.
-- 🔄 Luke 17:28 (attempt 5, 71 words, 33.33% quotes quality score: 0.8275035605002424, V2 normalized quality score: 18.86, commentator tiers 1-3: 82.62%, 0.0%, 17.38%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ Luke 17:28 bht prompt v0.8 (89 words, 34.92% quotes)
-- quality score: 0.855944791866692, V2 normalized quality score: 19.8, commentator tiers 1-3: 93.7%, 0.0%, 6.3%)
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: The example of the days of Lot reveals the support given by the Lord of Truth to another part of the sacred record, standing against modern skepticism. The contrast between the imperfects and aorists emphasizes the significance of these events. The people during Lot's time lacked compassion for the poor and oppressed, yet lived in peace and abundance in a fertile land.
+- 🔄 Luke 17:28 (attempt 5, 63 words, 32.61% quotes quality score: 1.0299719483879277, V2 normalized quality score: 25.59, commentator tiers 1-3: 56.85%, 0.0%, 43.15%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 17:28 bht prompt v0.8 (63 words, 32.61% quotes)
+- quality score: 1.0299719483879277, V2 normalized quality score: 25.59, commentator tiers 1-3: 56.85%, 0.0%, 43.15%)

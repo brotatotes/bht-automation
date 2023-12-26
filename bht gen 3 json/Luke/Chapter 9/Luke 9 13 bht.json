@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:17:00",
+    "timestamp": "12-25-2023 20:59:25",
     "verseRef": "Luke 9:13",
     "bestBHT": {
-        "bht": "Jesus emphasized the importance of the disciples providing food, using the emphatic ye to stress their responsibility. The Greek word for food used here refers to edible pieces, similar to our modern-day eats. This command demonstrates Jesus' compassion and concern for the physical needs of the people. Another gospel account shows that Jesus wanted the disciples to offer food instead of dismissing the crowd. Despite the perceived impossibility and cost, Jesus instructed them to show care by providing nourishment.",
-        "wordCount": 80,
-        "quoteTokenProportion": 28.07,
-        "qualityScore": 0.9149141242802832,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.77,
+        "bht": "Jesus instructs his disciples to provide food for the multitude, emphasizing their role with the use of ye. The word for food, \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1, refers to edible pieces, highlighting the necessity of sustenance. Jesus's intention was not to send the people away hungry but to supply them with provisions. The use of barley loaves and small fish represented the seemingly impossible task of feeding everyone with limited resources.",
+        "wordCount": 68,
+        "quoteTokenProportion": 26.0,
+        "qualityScore": 1.0556229852100623,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.44,
         "commentatorTierSimilarities": [
-            46.31,
+            33.8,
             0.0,
-            53.69
+            66.2
         ],
-        "generationAttempt": 5
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -20,13 +20,13 @@
             "Buy food. Compare Mark 6:37."
         ],
         "Archibald T. Robertson": [
-            "Unless\" is better here than \"except.",
-            "Food (\u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1), means eaten pieces from \u03b2\u03b9\u03b2\u03c1\u03c9\u03c3\u03ba\u03c9, to eat, somewhat like our \"edibles\" or vernacular \"eats."
+            "Unless\" is better here than \"except.\" ",
+            "Food (\u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1), means eaten pieces from \u03b2\u03b9\u03b2\u03c1\u03c9\u03c3\u03ba\u03c9, to eat, somewhat like our 'edibles' or vernacular 'eats'."
         ],
         "John Gill": [
-            "It was not his will to dismiss people, and send them scattering abroad into the adjacent cities, towns, or houses.",
+            "It was not his will to dismiss people, and send them scattering abroad... his will was, that they should be supplied with provisions out of their stock.\" ",
             "And these loaves were barley loaves, and the fishes small.",
-            "Which would at least cost them two hundred pence; and which they represent as impossible to be done, either through want of so much money, or the scarcity of provision in those parts."
+            "They represent as impossible to be done, either through want of so much money, or the scarcity of provision in those parts."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -46,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 9:13, Jesus tells his disciples to give food to the people. The emphatic ye in the sentence emphasizes the importance of this command. Comparing this verse to Mark 6:37, it is clear that Jesus wants the disciples to provide food for the crowd rather than dismissing them. The Greek word for food, \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1, refers to edible pieces, similar to our modern-day eats. Jesus' command to feed the people shows his compassion and concern for their physical well-being, even when it seemed impossible or costly to do so.",
-            "wordCount": 89,
-            "quoteTokenProportion": 40.32,
-            "qualityScore": 1.039633024764111,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.91,
+            "bht": "In this verse, Jesus instructs the disciples to give food to the multitude. The emphatic use of ye emphasizes the disciples' role in this task. The word used for food, \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1, refers to edible pieces and emphasizes the necessity of sustenance. Jesus knew that it was not his will to send the people away hungry, but rather that they should be supplied with provisions. The use of barley loaves and small fish represented the seemingly impossible task of providing for everyone with limited resources.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.0024079643894563,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.67,
             "commentatorTierSimilarities": [
-                61.85,
+                36.58,
                 0.0,
-                38.15
+                63.42
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus emphasized the importance of providing food by instructing his disciples to give it to the people. This shows his compassion and concern for their physical well-being. The Greek word for food used here refers to edible pieces, similar to our modern-day eats. Comparing this passage to another gospel account, Jesus wanted the disciples to provide food instead of dispersing the crowd. Even though it seemed impossible or costly, Jesus still commanded them to feed the people.",
-            "wordCount": 79,
-            "quoteTokenProportion": 40.35,
-            "qualityScore": 0.9599200146945337,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.26,
+            "bht": "Jesus instructs his disciples to provide food for the multitude, emphasizing their role with the use of ye. The word for food, \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1, refers to edible pieces, highlighting the necessity of sustenance. Jesus's intention was not to send the people away hungry but to supply them with provisions. The use of barley loaves and small fish represented the seemingly impossible task of feeding everyone with limited resources.",
+            "wordCount": 68,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 1.0556229852100623,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.44,
             "commentatorTierSimilarities": [
-                49.4,
+                33.8,
                 0.0,
-                50.6
+                66.2
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus emphasized the importance of showing compassion by commanding his disciples to provide food for the people. The Greek word used for food in this verse refers to edible pieces, similar to our modern-day eats. Comparing this to another gospel account, Jesus wanted the disciples to give food instead of dismissing the crowd. Despite the perceived impossibility and cost, Jesus wanted them to meet the physical needs of the people.",
-            "wordCount": 71,
-            "quoteTokenProportion": 29.17,
-            "qualityScore": 1.015831554009368,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.12,
+            "bht": "Jesus urges his disciples to give food to the multitude, emphasizing their responsibility with the use of ye. The term \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1 denotes consumed pieces and underscores the importance of sustenance. Jesus did not desire to send the people away hungry but to provide them with provisions. The choice to use barley loaves and small fish symbolized the perception of impossibility in meeting the needs of the crowd with limited resources.",
+            "wordCount": 70,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 0.9446404514484348,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.75,
             "commentatorTierSimilarities": [
-                47.21,
+                28.9,
                 0.0,
-                52.79
+                71.1
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus emphasized the disciples' responsibility to provide food, using the emphatic ye to stress the importance of their role. The Greek word for food used here refers to edible pieces, similar to our modern-day eats. This command highlights Jesus' compassion and concern for the physical needs of the people. Another gospel account reveals that Jesus desired the disciples to offer food rather than dispersing the crowd. Despite the perceived impossibility and cost, Jesus instructed them to demonstrate care by providing nourishment.",
-            "wordCount": 82,
-            "quoteTokenProportion": 28.33,
-            "qualityScore": 0.8778095262679169,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.53,
+            "bht": "Jesus directs his disciples to distribute food to the multitude, highlighting their role with the use of ye. The word for food, \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1, refers to eaten pieces and underscores the significance of sustenance. Jesus did not want to dismiss the people hungry; rather, his intention was for them to be provided with provisions. The choice to employ barley loaves and small fish illustrates the perceived impossibility of meeting everyone's needs with limited resources.",
+            "wordCount": 74,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.0225318787198476,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.34,
             "commentatorTierSimilarities": [
-                47.84,
+                31.16,
                 0.0,
-                52.16
+                68.84
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus emphasized the importance of the disciples providing food, using the emphatic ye to stress their responsibility. The Greek word for food used here refers to edible pieces, similar to our modern-day eats. This command demonstrates Jesus' compassion and concern for the physical needs of the people. Another gospel account shows that Jesus wanted the disciples to offer food instead of dismissing the crowd. Despite the perceived impossibility and cost, Jesus instructed them to show care by providing nourishment.",
-            "wordCount": 80,
-            "quoteTokenProportion": 28.07,
-            "qualityScore": 0.9149141242802832,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.77,
+            "bht": "Jesus instructs the disciples to give food to the multitude, emphasizing their responsibility with the use of ye. The Greek word for food, \u03b2\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1, refers to edible pieces and underscores the necessity of sustenance. Jesus did not intend to send the people away hungry; rather, his desire was for them to be supplied with provisions. The mention of barley loaves and small fish highlights the seemingly impossible task of providing for everyone with limited resources.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.0510367549517043,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.29,
             "commentatorTierSimilarities": [
-                46.31,
+                31.04,
                 0.0,
-                53.69
+                68.96
             ],
             "generationAttempt": 5
         }

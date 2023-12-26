@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:23:23",
+    "timestamp": "12-25-2023 21:00:50",
     "verseRef": "Luke 23:18",
     "bestBHT": {
-        "bht": "The whole multitude came together, joining their voices in unison, fervently urging for Jesus to be taken away. In an intense and clamorous manner, they cried out with anger and indignation, vehemently declaring that he should be cast out of the world and deemed unworthy to live. Simultaneously, they demanded the release of Barabbas. The crowd's unified outcry and their insistence on Jesus' removal displayed a passionate resolve that was impossible to ignore.",
-        "wordCount": 74,
-        "quoteTokenProportion": 34.48,
-        "qualityScore": 0.8948774966306166,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.1,
+        "bht": "The whole multitude of them cried out in unison, demanding that he be taken away. The word all together indicates their unanimous decision, a term used only here in the New Testament. Their urgency is emphasized by the imperative take away, as they wished for him to be promptly removed. Their adamant cry, resembling the situation with Paul, made it clear that they wanted him gone: Away with this man!",
+        "wordCount": 70,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 0.9745956378374994,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.75,
         "commentatorTierSimilarities": [
-            36.98,
+            61.78,
             0.0,
-            63.02
+            38.22
         ],
-        "generationAttempt": 3
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -20,14 +20,14 @@
             "Away [\u03b1\u03b9\u03c1\u03b5] . Lit., take away. Compare Acts 21:36; Acts 22:22."
         ],
         "Archibald T. Robertson": [
-            "All together (\u03c0\u03b1\u03bd\u03c0\u03bb\u03b7\u03b8\u03b5). An adverb from the adjective \u03c0\u03b1\u03bd\u03c0\u03bb\u03b7\u03b8\u03b7\u03c2, all together.",
+            "All together. An adverb from the adjective \u03c0\u03b1\u03bd\u03c0\u03bb\u03b7\u03b8\u03b7\u03c2, all together. Used by Dio Cassius. Only here in the N.T.",
             "Away (\u03b1\u03b9\u03c1\u03b5). Present active imperative, Take him on away and keep him away as in Acts 21:36; Acts 22:22, of Paul.",
-            "But release (\u03b1\u03c0\u03bf\u03bb\u03c5\u03c3\u03bf\u03bd) is first aorist active imperative, do it now and at once."
+            "Release (\u03b1\u03c0\u03bf\u03bb\u03c5\u03c3\u03bf\u03bd) is first aorist active imperative, do it now and at once."
         ],
         "John Gill": [
-            "And they cried out all at once... enraged at the proposal... in a most clamorous way.\" ",
-            "Away with this man... away with him out of the world; he is not fit to live.\" ",
-            "And release unto us Barabbas."
+            "Away with this man; to the cross; to Calvary, the place of execution; away with him out of the world; he is not fit to live.\" (Luke 23:18)",
+            "Release unto us Barabbas.\" (Luke 23:18)",
+            "Whose character is given in the next verse.\" (Luke 23:18)"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The crowd came together in full force, calling for Jesus to be taken away. They shouted in anger, demanding that he be removed from their presence. The people cried out in a loud and clamorous way, declaring that Jesus should be cast out of the world and that he was not worthy to live. Meanwhile, they also requested the release of Barabbas. The intensity of their outcry and the urgency in their request is evident.",
-            "wordCount": 75,
-            "quoteTokenProportion": 42.31,
-            "qualityScore": 0.8480445519312432,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.54,
+            "bht": "The crowd cried out, Take him away! It was a unanimous decision, with the whole multitude of them demanding his removal. The word used here, all together, is only found in the New Testament in this verse. The imperative, take away, emphasizes the urgency and immediacy of their demand. The crowd wanted him gone, removed from their presence. They were adamant in their desire, echoing the words used when Paul was taken away and kept away. Their cry was clear: Away with this man!",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 0.8541739516332794,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.75,
             "commentatorTierSimilarities": [
-                34.16,
+                57.23,
                 0.0,
-                65.84
+                42.77
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The whole multitude of them joined together in one resounding voice, shouting for Jesus to be taken away. In a most clamorous way, they cried out, enraged at the proposal, and demanded that he be removed from their midst. Their fervent outcry proclaimed that Jesus should be cast out of the world, for he was perceived as unfit to live. As they raised their voices, they also requested the release of Barabbas. The impassioned plea and urgent desire expressed by the crowd were unmistakable.",
-            "wordCount": 84,
-            "quoteTokenProportion": 41.94,
-            "qualityScore": 0.8471479690732138,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.51,
+            "bht": "The whole multitude of them cried out in unison, demanding that he be taken away. The word all together indicates their unanimous decision, a term used only here in the New Testament. Their urgency is emphasized by the imperative take away, as they wished for him to be promptly removed. Their adamant cry, resembling the situation with Paul, made it clear that they wanted him gone: Away with this man!",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 0.9745956378374994,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.75,
             "commentatorTierSimilarities": [
-                31.79,
+                61.78,
                 0.0,
-                68.21
+                38.22
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The whole multitude came together, joining their voices in unison, fervently urging for Jesus to be taken away. In an intense and clamorous manner, they cried out with anger and indignation, vehemently declaring that he should be cast out of the world and deemed unworthy to live. Simultaneously, they demanded the release of Barabbas. The crowd's unified outcry and their insistence on Jesus' removal displayed a passionate resolve that was impossible to ignore.",
-            "wordCount": 74,
-            "quoteTokenProportion": 34.48,
-            "qualityScore": 0.8948774966306166,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.1,
+            "bht": "They all joined together, demanding for him to be taken away. Take him away and keep him away, they cried, echoing the words spoken about Paul in Acts. They wanted him out of their sight, quickly and without delay. The crowd's outcry was clear: Away with this man! they shouted. They wanted him gone, and instead, they called for the release of Barabbas, a man whose character is further explained in the following verse. (Luke 23:18)",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 0.8270998948984611,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.85,
             "commentatorTierSimilarities": [
-                36.98,
+                29.1,
                 0.0,
-                63.02
+                70.9
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "The entire multitude assembled as one, their voices joining in a clamorous chorus, passionately demanding the removal of Jesus. Their outcry conveyed a collective anger and resentment, exclaiming that he should be cast out from the world as he was unworthy to live. The crowd's urgent plea for Jesus' removal echoed alongside their request for the release of Barabbas. Their combined fervor and resolute demand left no room for uncertainty or hesitation.",
-            "wordCount": 73,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.7805306708447188,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.3,
+            "bht": "They all joined together, demanding for him to be taken away. Take him away and keep him away, they cried. Away with this man! they shouted, wanting him gone. Instead, they called for the release of Barabbas, a man whose character is further explained.",
+            "wordCount": 44,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 0.6973026333619321,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.53,
             "commentatorTierSimilarities": [
-                39.36,
+                29.29,
                 0.0,
-                60.64
+                70.71
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The whole multitude came together, calling for Jesus to be taken away. In a clamorous outcry, they angrily declared that he should be cast out of the world and deemed unworthy to live. They also demanded the release of Barabbas. The crowd's intense and urgent plea, filled with anger and indignation, revealed their strong desire for Jesus' removal. Their collective voice resonated with fervor and unwavering determination.",
-            "wordCount": 68,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.8589385801976521,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.9,
+            "bht": "The multitude of people cried out, All together, take him away! Their resounding demand for his removal reveals their desire to be rid of him entirely. The imperative away reflects the urgency and insistence in their voices, much like the command to take away seen in other instances of people being forcefully removed. Their cry for his release is juxtaposed with their request for the freedom of Barabbas, emphasizing the stark contrast between the two figures and highlighting the unjust choice that would soon be made.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 0.788750065666707,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.57,
             "commentatorTierSimilarities": [
-                35.41,
+                46.78,
                 0.0,
-                64.59
+                53.22
             ],
             "generationAttempt": 5
         }

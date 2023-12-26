@@ -1,7 +1,7 @@
 # Revelation 3:13 Commentary Help Text
 
 ## BHT:
-This call to attentive listening refers back to a previous instruction, reminding readers of the importance of comprehension. The repeated phrase he that hath an ear, let him hear serves as a concluding statement for a specific set of letters, signifying the completion of a series of guidance and encouragement. By emphasizing the act of listening, it emphasizes the necessity of paying close attention and recognizing the significance of the message being communicated.
+Those who have ears, let them hear and comprehend the message. This call to attentiveness is a reminder found throughout the book of Revelation, emphasizing the importance of understanding and heeding the words spoken.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -24,42 +24,41 @@ This call to attentive listening refers back to a previous instruction, remindin
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 21:40:10
+- Timestamp: 12-25-2023 21:00:43
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 31.48%
-- BHT Quality Score: 0.6484780144113429
+- BHT Word Count: 34
+- BHT Commentary Usage: 44.83%
+- BHT Quality Score: 0.8266615366231393
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (54):
-	['a', 'act', 'an', 'and', 'as', 'attention', 'attentive', 'back', 'being', 'by', 'call', 'close', 'communicated', 'completion', 'comprehension', 'concluding', 'ear', 'emphasizes', 'emphasizing', 'encouragement', 'for', 'guidance', 'hath', 'he', 'hear', 'him', 'importance', 'instruction', 'it', 'let', 'letters', 'listening', 'message', 'necessity', 'of', 'paying', 'phrase', 'previous', 'readers', 'recognizing', 'refers', 'reminding', 'repeated', 'series', 'serves', 'set', 'significance', 'signifying', 'specific', 'statement', 'that', 'the', 'this', 'to']
-- ChatGPT injected words (significant words only) (37):
-	['act', 'attention', 'attentive', 'close', 'communicated', 'completion', 'comprehension', 'concluding', 'ear', 'emphasizes', 'emphasizing', 'encouragement', 'guidance', 'hath', 'hear', 'importance', 'instruction', 'let', 'letters', 'listening', 'message', 'necessity', 'paying', 'phrase', 'previous', 'readers', 'recognizing', 'refers', 'reminding', 'repeated', 'series', 'serves', 'set', 'significance', 'signifying', 'specific', 'statement']
+- ChatGPT injected words (29):
+	['a', 'and', 'attentiveness', 'book', 'call', 'comprehend', 'ears', 'emphasizing', 'found', 'have', 'hear', 'heeding', 'importance', 'is', 'let', 'message', 'of', 'reminder', 'revelation', 'spoken', 'the', 'them', 'this', 'those', 'throughout', 'to', 'understanding', 'who', 'words']
+- ChatGPT injected words (significant words only) (16):
+	['attentiveness', 'book', 'comprehend', 'ears', 'emphasizing', 'found', 'hear', 'heeding', 'importance', 'let', 'message', 'reminder', 'revelation', 'spoken', 'understanding', 'words']
 
 ### Logs
-- Attempt 1 BHT: The verse in question is a reference to a previous verse in the book of Revelation, specifically chapter 2, verse 7. It serves as a call to attention and understanding for those who are willing to listen and comprehend the message being conveyed. This verse is a conclusion to the second group of seven letters, signaling the end of a specific set of instructions and exhortations. The repetition of the phrase he that hath an ear, let him hear emphasizes the importance of paying attention and heeding the words being spoken.
-- 🔄 Revelation 3:13 (attempt 1, 89 words, 33.9% quotes quality score: 0.8692184672835093, V2 normalized quality score: 20.25, commentator tiers 1-3: 11.55%, 43.36%, 45.1%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: The verse encourages those who have ears to listen and understand. It is a call reminiscent of previous exhortations in the book of Revelation.
+- 🔄 Revelation 3:13 (attempt 1, 24 words, 54.55% quotes quality score: 0.8122668503699355, V2 normalized quality score: 18.35, commentator tiers 1-3: 2.33%, 45.28%, 52.39%) 
+	- BHT WAS UNDER 30 WORDS! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Those who have ears, let them hear and comprehend the message. This call to attentiveness is a reminder found throughout the book of Revelation, emphasizing the importance of understanding and heeding the words spoken.
+- 🔄 Revelation 3:13 (attempt 2, 34 words, 44.83% quotes quality score: 0.8266615366231393, V2 normalized quality score: 18.83, commentator tiers 1-3: 1.37%, 36.02%, 62.6%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Let the one who possesses the ability to hear, truly listen and understand the message being conveyed. This recurring exhortation, present in the book of Revelation, serves as a timely reminder about the significance of grasping and heeding the words that have been spoken.
+- 🔄 Revelation 3:13 (attempt 3, 44 words, 40.54% quotes quality score: 0.6400304490729412, V2 normalized quality score: 12.63, commentator tiers 1-3: -14.74%, 50.53%, 64.21%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The verse serves as a call for those with ears to attentively listen and comprehend the message being conveyed. This call to attentiveness is reminiscent of previous exhortations found throughout the book of Revelation, highlighting the importance of understanding and heeding the words that have been spoken.
+- 🔄 Revelation 3:13 (attempt 4, 47 words, 44.74% quotes quality score: 0.7945922570815037, V2 normalized quality score: 17.76, commentator tiers 1-3: 3.78%, 40.61%, 55.61%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: This passage echoes a previous verse, highlighting the significance of attentive listening and comprehension. The phrase he that hath an ear, let him hear serves as a call to attention, inviting individuals to engage with the message being shared. It functions as a conclusion to a set of letters, indicating the end of a specific collection of instructions and exhortations. This repetition emphasizes the importance of paying heed and recognizing the weight of the words being conveyed.
-- 🔄 Revelation 3:13 (attempt 2, 77 words, 27.27% quotes quality score: 0.6328440696360139, V2 normalized quality score: 12.39, commentator tiers 1-3: -9.47%, 36.97%, 72.5%) 
+- Attempt 5 BHT: Let those with ears hear, listen, and truly understand the profound message being spoken. This call, echoing similar exhortations in the book of Revelation, emphasizes the significance of comprehending and heeding the words that have been shared.
+- 🔄 Revelation 3:13 (attempt 5, 37 words, 37.5% quotes quality score: 0.7227222231580854, V2 normalized quality score: 15.38, commentator tiers 1-3: -9.58%, 38.9%, 70.68%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: This call to attentive listening refers back to a previous instruction, reminding readers of the importance of comprehension. The repeated phrase he that hath an ear, let him hear serves as a concluding statement for a specific set of letters, signifying the completion of a series of guidance and encouragement. By emphasizing the act of listening, it emphasizes the necessity of paying close attention and recognizing the significance of the message being communicated.
-- 🔄 Revelation 3:13 (attempt 3, 73 words, 31.48% quotes quality score: 0.6484780144113429, V2 normalized quality score: 12.91, commentator tiers 1-3: -11.51%, 42.03%, 69.49%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: This reference directs attention back to a prior section, reinforcing the value of understanding and perceiving. The reiterated expression he that hath an ear, let him hear serves as a final call to action, concluding a distinct collection of letters. It signifies the culmination of specific directives and exhortations. By highlighting the act of listening, it underscores the criticality of diligently paying attention and appreciating the import of the conveyed message.
-- 🔄 Revelation 3:13 (attempt 4, 71 words, 28.3% quotes quality score: 0.5934713813108636, V2 normalized quality score: 11.08, commentator tiers 1-3: -11.6%, 36.59%, 75.02%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: This verse in Revelation harkens back to a previous passage, drawing attention to the significance of attentiveness and comprehension. The recurring phrase he that hath an ear, let him hear serves as a concluding admonition for a specific group of letters, signifying the completion of a set of instructions and encouragements. By stressing the act of listening, it underscores the importance of actively listening and grasping the weight of the message being conveyed.
-- 🔄 Revelation 3:13 (attempt 5, 73 words, 31.48% quotes quality score: 0.7693286838078421, V2 normalized quality score: 16.92, commentator tiers 1-3: 6.88%, 40.43%, 52.68%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Revelation 3:13 bht prompt v0.8 (73 words, 31.48% quotes)
-- quality score: 0.6484780144113429, V2 normalized quality score: 12.91, commentator tiers 1-3: -11.51%, 42.03%, 69.49%)
+	- VERSE_REF FOUND IN BHT!
+- ✅ Revelation 3:13 bht prompt v0.8 (34 words, 44.83% quotes)
+- quality score: 0.8266615366231393, V2 normalized quality score: 18.83, commentator tiers 1-3: 1.37%, 36.02%, 62.6%)

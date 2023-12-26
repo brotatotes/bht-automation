@@ -1,33 +1,32 @@
 {
-    "timestamp": "12-19-2023 16:17:21",
+    "timestamp": "12-25-2023 21:00:51",
     "verseRef": "Luke 9:41",
     "bestBHT": {
-        "bht": "Jesus expresses his frustration and disappointment towards his disciples, labeling them as faithless and perverse, due to their inability to cast out a demon from a young boy. He questions how much longer he must endure their lack of faith and correct their misguided mindset. Jesus's use of the term bear with indicates his patience towards their shortcomings. His description of them as faithless signifies their disbelief, while perverse emphasizes their twisted and distorted understanding. This encounter highlights the significance of faith and understanding that Jesus expects from his followers as they strive to live out their beliefs faithfully.",
-        "wordCount": 100,
-        "quoteTokenProportion": 33.33,
-        "qualityScore": 0.8960567349935362,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.14,
+        "bht": "How long shall I bear with you? How long shall I hold myself from you, this disbelieving and twisted generation? It is a plea of frustration from Jesus, asking until when will I endure this suffering because of your unbelief? Bring your son here to witness the power and glory of God.",
+        "wordCount": 52,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4351324222547652,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.06,
         "commentatorTierSimilarities": [
-            48.94,
+            28.89,
             0.0,
-            51.06
+            71.11
         ],
-        "generationAttempt": 2
+        "generationAttempt": 5
     },
     "choicestQuotes": {
         "Marvin Vincent": [
-            "Faithless.\" ",
-            "Perverse.",
-            "Suffer [\u03b1\u03bd\u03b5\u03be\u03bf\u03bc\u03b1\u03b9]. Better as Rev., bear with."
+            "How long [\u03b5\u03c9\u03c2 \u03c0\u03bf\u03c4\u03b5] . Lit., until when.",
+            "Suffer [\u03b1\u03bd\u03b5\u03be\u03bf\u03bc\u03b1\u03b9] . Better as Rev., bear with.",
+            "The literal meaning is to 'bear up [\u03b1\u03bd\u03b1] under.'"
         ],
         "Archibald T. Robertson": [
-            "How long shall I be with you and bear with you?\" ",
+            "How long shall I be with you and bear with you?\" (\u03b5\u03c9\u03c2 \u03c0\u03bf\u03c4\u03b5 \u03b5\u03c3\u03bf\u03bc\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03c5\u03bc\u03b1\u03c2 \u03ba\u03b1 \u03b1\u03bd\u03b5\u03be\u03bf\u03bc\u03b1 \u03c5\u03bc\u03c9\u03bd?) ",
             "Bear with (\u03b1\u03bd\u03b5\u03be\u03bf\u03bc\u03b1, direct middle future) is, hold myself from you (ablative case \u03c5\u03bc\u03c9\u03bd).",
             "Faithless (\u03b1\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2) is disbelieving and perverse (\u03b4\u03b9\u03b5\u03c3\u03c4\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b7, perfect passive participle of \u03b4\u03b9\u03b1\u03c3\u03c4\u03c1\u03b5\u03c6\u03c9), is twisted, turned, or torn in two."
         ],
         "John Gill": [
-            "O faithless and perverse generation, how long shall I be with you, and suffer you?",
-            "bring thy son hither."
+            "O faithless and perverse generation, how long shall I be with you, and suffer you? bring thy son hither.\" "
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The verse describes Jesus' frustration with his disciples, whom he calls faithless and perverse, as they struggle with casting out a demon from a boy. In response to their lack of faith and understanding, Jesus questions how much longer he needs to bear with them. The term bear with implies that Jesus is showing patience towards his disciples despite their shortcomings. His use of faithless indicates their disbelief, while perverse emphasizes their twisted perspective. This exchange highlights the faith and understanding that Jesus expects from his followers.",
-            "wordCount": 87,
-            "quoteTokenProportion": 38.98,
-            "qualityScore": 0.9047684955763069,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.43,
+            "bht": "How long will I bear with you? How long must I hold myself back from you? This is the cry of a teacher who is frustrated and weary with his disciples' lack of faith and their twisted, stubborn thinking. The teacher is disheartened by their disbelief and their turning away from the truth. He yearns for them to bring their son, their burden, to him, so that he can help them and guide them towards a deeper understanding and trust in his teachings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.026398592909258,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.47,
             "commentatorTierSimilarities": [
-                45.9,
+                35.31,
                 0.0,
-                54.1
+                64.69
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Jesus expresses his frustration and disappointment towards his disciples, labeling them as faithless and perverse, due to their inability to cast out a demon from a young boy. He questions how much longer he must endure their lack of faith and correct their misguided mindset. Jesus's use of the term bear with indicates his patience towards their shortcomings. His description of them as faithless signifies their disbelief, while perverse emphasizes their twisted and distorted understanding. This encounter highlights the significance of faith and understanding that Jesus expects from his followers as they strive to live out their beliefs faithfully.",
-            "wordCount": 100,
-            "quoteTokenProportion": 33.33,
-            "qualityScore": 0.8960567349935362,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.14,
+            "bht": "How long will I bear with you? How long must I hold myself back from you? This is the cry of a teacher who is frustrated and weary with his disciples' lack of faith and their twisted, stubborn thinking. The teacher is disheartened by their disbelief and their turning away from the truth. He yearns for them to bring their son, their burden, to him, so that he can help them and guide them towards a deeper understanding and trust in his teachings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.026398592909258,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.47,
             "commentatorTierSimilarities": [
-                48.94,
+                35.31,
                 0.0,
-                51.06
+                64.69
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Jesus shows his disappointment with his disciples, calling them faithless and perverse when they struggle to cast out a demon from a boy. He questions how long he must bear with their lack of faith and understanding. Bear with implies Jesus's patient endurance with their weaknesses. By labeling them as faithless and perverse, Jesus highlights their disbelief and twisted mindset. This interaction emphasizes the importance of faith and a proper understanding of Jesus's teachings for his followers.",
-            "wordCount": 79,
-            "quoteTokenProportion": 37.74,
-            "qualityScore": 0.8845306734699467,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.76,
+            "bht": "How long must I bear with your lack of faith and twisted thinking? The teacher is frustrated by the disciples' disbelief and perversity. He yearns for them to bring their burdened son to him so he can help them.",
+            "wordCount": 39,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 0.9257318619327544,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.12,
             "commentatorTierSimilarities": [
-                46.33,
+                28.37,
                 0.0,
-                53.67
+                71.63
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Jesus expresses frustration with his disciples, referring to them as faithless and perverse as they struggle to cast out a demon from a boy. He questions how long he must bear with their lack of faith, indicating his patient endurance. By calling them faithless and perverse, Jesus highlights their disbelief and twisted mindset. This interaction emphasizes the importance of faith and understanding in following Jesus.",
-            "wordCount": 65,
-            "quoteTokenProportion": 39.58,
-            "qualityScore": 0.8424377972367431,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.36,
+            "bht": "How long shall I bear with you? How long shall I hold myself from you, this disbelieving and twisted generation? It is a plea of frustration and weariness from Jesus towards those lacking faith and turning away from truth. He asks, until when will I endure this? Until when will I be with you, suffering because of your unbelief? Bring your son here, for he needs to witness the power and glory of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.3246292956357733,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
             "commentatorTierSimilarities": [
-                41.34,
+                29.48,
                 0.0,
-                58.66
+                70.52
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Jesus reveals his disappointment with his disciples, whom he labels as faithless and perverse, due to their struggle to cast out a demon from a boy. He questions how long he must bear with their lack of faith and understanding, indicating his patient endurance. The term bear with signifies Jesus's willingness to hold himself back from them despite their shortcomings. Their faithlessness signifies their disbelief, while perverse emphasizes their twisted and torn attitude. This interaction underscores the importance of faith and comprehension for Jesus' followers.",
-            "wordCount": 86,
-            "quoteTokenProportion": 36.67,
-            "qualityScore": 0.8277912625725428,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.87,
+            "bht": "How long shall I bear with you? How long shall I hold myself from you, this disbelieving and twisted generation? It is a plea of frustration from Jesus, asking until when will I endure this suffering because of your unbelief? Bring your son here to witness the power and glory of God.",
+            "wordCount": 52,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4351324222547652,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
             "commentatorTierSimilarities": [
-                50.76,
+                28.89,
                 0.0,
-                49.24
+                71.11
             ],
             "generationAttempt": 5
         }

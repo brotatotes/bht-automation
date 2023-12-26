@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:37:17",
+    "timestamp": "12-25-2023 21:00:47",
     "verseRef": "Acts 28:9",
     "bestBHT": {
-        "bht": "During their stay on the island, people continuously came to the apostle and were healed, not all at once, but persistently throughout the three months; a golden opportunity for the gospel to be made known to receptive hearts. This miracle spread the fame of the healing, drawing others from various parts of the island who were afflicted with diseases, and they too were healed.",
-        "wordCount": 64,
-        "quoteTokenProportion": 54.0,
-        "qualityScore": 0.9786463529051084,
-        "qualityScoreNormalizedComparedToV2BHTs": 23.88,
+        "bht": "During their stay on the island, people kept coming to Paul and getting healed. The population was small, but this presented a golden opportunity for Paul to spread the gospel to those who were already predisposed to receive it. It is clear that Paul did not neglect his missionary duties, as the healing ministry was accompanied by his spiritual work. The fame of these healings spread throughout the island, and others with various diseases also came and were healed.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.0207361060446187,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.28,
         "commentatorTierSimilarities": [
-            1.98,
-            34.14,
-            63.88
+            7.85,
+            48.34,
+            43.81
         ],
         "generationAttempt": 1
     },
@@ -23,12 +23,12 @@
         ],
         "Philip Schaff": [
             "The population was scanty, the island was small, and the apostle remained there three months.",
-            "The imperfect tense, too, of the verbs which follow, denotes something that went on continuously.",
-            "This was a golden opportunity for making known the gospel to hearts predisposed to receive it."
+            "This was a golden opportunity for making known the gospel to hearts predisposed to receive it.",
+            "We cannot suppose either that St. Paul neglected his Master\u2019s cause, or that his spiritual work was without result."
         ],
         "John Gill": [
-            "This miracle was wrought, and the fame of it spread over the island.",
-            "Others also which had diseases in the island came: from all parts of it, to the apostle.",
+            "The fame of it spread over the island.",
+            "Others also which had diseases in the island came.",
             "And were healed; of whatsoever diseases they were afflicted with."
         ]
     },
@@ -49,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "During their stay on the island, people continuously came to the apostle and were healed, not all at once, but persistently throughout the three months; a golden opportunity for the gospel to be made known to receptive hearts. This miracle spread the fame of the healing, drawing others from various parts of the island who were afflicted with diseases, and they too were healed.",
-            "wordCount": 64,
-            "quoteTokenProportion": 54.0,
-            "qualityScore": 0.9786463529051084,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.88,
+            "bht": "During their stay on the island, people kept coming to Paul and getting healed. The population was small, but this presented a golden opportunity for Paul to spread the gospel to those who were already predisposed to receive it. It is clear that Paul did not neglect his missionary duties, as the healing ministry was accompanied by his spiritual work. The fame of these healings spread throughout the island, and others with various diseases also came and were healed.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0207361060446187,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.28,
             "commentatorTierSimilarities": [
-                1.98,
-                34.14,
-                63.88
+                7.85,
+                48.34,
+                43.81
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During their stay, others from all parts of the island kept coming to the apostle and getting healed. The population was small, but this continuous flow of people presented a golden opportunity to share the gospel with hearts predisposed to receive it. The fame of these miracles spread throughout the island, attracting even more people who were afflicted with diseases and seeking healing, which the apostle graciously provided.",
-            "wordCount": 68,
-            "quoteTokenProportion": 41.51,
-            "qualityScore": 1.0370093224242605,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.82,
+            "bht": "During their stay, people kept coming to them to be healed. It wasn't a one-time event, but a continuous stream of individuals seeking healing. The small population and three-month duration of their stay provided a golden opportunity to spread the gospel to those who were receptive. The reputation of the healing work done by Paul was spreading throughout the island, resulting in even more people with various diseases seeking healing and finding it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 0.8376358104697899,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.2,
             "commentatorTierSimilarities": [
-                4.99,
-                40.85,
-                54.16
+                13.47,
+                39.17,
+                47.36
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "During their stay, others from all parts of the island kept coming to the apostle and getting healed. The continuous flow of people presented a golden opportunity to share the gospel with hearts predisposed to receive it. The fame of these miracles spread throughout the island, attracting even more people seeking healing, which the apostle graciously provided.",
-            "wordCount": 57,
-            "quoteTokenProportion": 38.64,
-            "qualityScore": 0.949701333609773,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.92,
+            "bht": "During their stay, others came and were healed, seeking healing repeatedly rather than all at once. This presented a significant opportunity to spread the gospel to a receptive population on the small island. The reputation of Paul's healing work spread, drawing others who had diseases in the island to seek healing and subsequent relief from their afflictions.",
+            "wordCount": 58,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 0.8362056532773208,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.15,
             "commentatorTierSimilarities": [
-                3.02,
-                42.57,
-                54.42
+                7.78,
+                38.21,
+                54.01
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "During their stay, others came and were healed, continuously seeking healing during their three-month stay on the small island. This presented a remarkable opportunity to spread the gospel to receptive hearts. The fame of these miracles quickly spread, drawing others from all parts of the island who were afflicted with diseases, and the apostle healed them of their afflictions.",
-            "wordCount": 60,
-            "quoteTokenProportion": 41.86,
-            "qualityScore": 0.893724536144153,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.06,
+            "bht": "During their stay, people kept coming to them and getting healed, with individuals seeking healing continuously throughout the duration of their time on the island. The small population and three-month stay provided an ideal opportunity for the dissemination of the gospel to those who were open to receiving it. The healing work performed by Paul garnered a reputation, leading to an increasing number of individuals with various diseases coming to seek healing and finding relief.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.7369024554936363,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.85,
             "commentatorTierSimilarities": [
-                4.01,
-                35.35,
-                60.64
+                12.05,
+                41.74,
+                46.21
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "During their stay, others came and were healed, continuously seeking healing during their three-month stay on the small island. This presented a remarkable opportunity to spread the gospel to receptive hearts. The fame of these miracles spread over the island, drawing others from all parts of it, seeking healing for whatever diseases they were afflicted with.",
-            "wordCount": 57,
-            "quoteTokenProportion": 48.84,
-            "qualityScore": 0.8880403859511996,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.87,
+            "bht": "Throughout their stay on the island, others continually came seeking healing from Paul and his companions, finding relief from their afflictions. The chance to spread the gospel to a receptive population presented itself due to the small population and three-month duration of their stay. The healing work done by Paul gained fame, resulting in more people with various diseases coming to seek healing and finding it.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 0.8607153409627399,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.96,
             "commentatorTierSimilarities": [
-                3.9,
-                34.66,
-                61.45
+                11.48,
+                43.29,
+                45.23
             ],
             "generationAttempt": 5
         }

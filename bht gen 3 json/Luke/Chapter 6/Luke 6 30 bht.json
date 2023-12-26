@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 16:15:55",
+    "timestamp": "12-25-2023 21:00:55",
     "verseRef": "Luke 6:30",
     "bestBHT": {
-        "bht": "Give to others when they ask, discerning between their genuine needs and wants. If someone takes something from you, do not insist on its return. Instead, exercise patience and release them from their obligation. This teaches us the importance of generosity in our giving, extending it to both friends and enemies alike. We should be willing to provide what we can spare and what is truly necessary, following the principles outlined in the law.",
-        "wordCount": 74,
-        "quoteTokenProportion": 51.61,
-        "qualityScore": 0.8909117166748348,
-        "qualityScoreNormalizedComparedToV2BHTs": 20.97,
+        "bht": "Give to everyone who asks, but not everything they ask for. The language used here is similar to that of medical treatment, suggesting that we should discern what is truly needed and beneficial. We are not called to constantly ask for things in return, as the focus is on giving selflessly. While there may be times where our possessions are taken from us, we should not demand them back, but instead exhibit patience, trusting that the Lord will address the wrongs done to us.",
+        "wordCount": 84,
+        "quoteTokenProportion": 54.69,
+        "qualityScore": 1.2598799873665862,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.23,
         "commentatorTierSimilarities": [
-            31.53,
+            51.51,
             0.0,
-            68.47
+            48.49
         ],
-        "generationAttempt": 4
+        "generationAttempt": 1
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -22,22 +22,21 @@
         ],
         "John Calvin": [
             "From him who takes away what are thine, ask them not again.",
-            "An exhortation to liberality in giving.",
-            "We are only enjoined to exercise patience, that we may not be unduly distressed by the loss of our property, but calmly wait."
+            "It is undoubtedly an exposition of the former doctrine, that we ought to bear patiently 'the spoiling of our goods.'",
+            "We are only enjoined to exercise patience, that we may not be unduly distressed by the loss of our property, but calmly wait, till the Lord himself shall call the robbers to account."
         ],
         "Archibald T. Robertson": [
-            "Ask them not again (\u03bc\u03b7 \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5).",
-            "This common verb only here in the N.T.",
+            "Ask them not again... do not have the habit of asking back.\" ",
             "The literary flavour of Luke's Koine style is seen in his frequent use of words common in the literary Greek, but appearing nowhere else in the N.T."
         ],
         "John Gill": [
-            "And give to every man that asketh....",
+            "And give to every man that asketh...",
             "...one that takes them by agreement, and is not able to make a return of them, or to give a valuable consideration for them, of such an one ask them not again...",
-            "...but give him a release, as the law requires, in Deuteronomy 15:2 which seems to be respected here; and where the same word is used by the Septuagint, as here."
+            "...do not exact or demand them, but give him a release, as the law requires..."
         ],
         "John Wesley": [
-            "Give to every one \u2014 Friend or enemy, what thou canst spare, and he really wants.",
-            "And of him that taketh away thy goods - By borrowing, if he be insolvent, ask them not again.",
+            "Give to every one \u2014 Friend or enemy, what thou canst spare, and he really wants...",
+            "...and of him that taketh away thy goods - By borrowing, if he be insolvent, ask them not again.",
             "Matthew 5:42."
         ]
     },
@@ -58,67 +57,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "Give to everyone who asks, but not necessarily everything they ask for. It's important to discern between genuine needs and wants. And when someone takes something from you, do not insist on getting it back. Instead, exercise patience and release them from their obligation, as this is what the law requires. This verse encourages us to practice liberality in giving, not just to friends but also to enemies. We should be willing to give what we can spare and what is truly needed.",
+            "bht": "Give to everyone who asks, but not everything they ask for. The language used here is similar to that of medical treatment, suggesting that we should discern what is truly needed and beneficial. We are not called to constantly ask for things in return, as the focus is on giving selflessly. While there may be times where our possessions are taken from us, we should not demand them back, but instead exhibit patience, trusting that the Lord will address the wrongs done to us.",
             "wordCount": 84,
-            "quoteTokenProportion": 53.85,
-            "qualityScore": 1.0146447071479703,
-            "qualityScoreNormalizedComparedToV2BHTs": 25.08,
+            "quoteTokenProportion": 54.69,
+            "qualityScore": 1.2598799873665862,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.23,
             "commentatorTierSimilarities": [
-                38.05,
+                51.51,
                 0.0,
-                61.95
+                48.49
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Give to everyone who asks, but discern whether their requests are genuine needs. And if someone takes something from you, do not insist on getting it back. Instead, exercise patience and release them from their obligation. This verse encourages us to be generous in our giving, even to our enemies. We should be willing to provide what we can spare and what is truly necessary. Remember that the law requires us to be compassionate and understanding in these situations.",
-            "wordCount": 79,
-            "quoteTokenProportion": 53.97,
-            "qualityScore": 0.9740817042148957,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.73,
+            "bht": "Give to everyone who asks, but not everything they ask for. The language used here is similar to that of medical treatment, suggesting that we should discern what is truly needed and beneficial. While we are not called to constantly ask for things in return, the focus is on giving selflessly. When our possessions are taken from us, instead of demanding them back, we should exhibit patience, knowing that the Lord will address the wrongs done to us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.2580065426549,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.17,
             "commentatorTierSimilarities": [
-                36.4,
+                51.15,
                 0.0,
-                63.6
+                48.85
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Give to everyone who asks, distinguishing between genuine needs and wants. If someone takes something from you, do not insist on its return. Instead, be patient and release them from the obligation. This passage emphasizes the importance of generosity in our giving, even to those who may be our enemies. We should be willing to provide what we can spare and what is truly necessary in accordance with the law.",
-            "wordCount": 70,
-            "quoteTokenProportion": 55.36,
-            "qualityScore": 0.964227657554984,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.4,
+            "bht": "Give to everyone who asks of you, but not everything they ask for. This verse reminds us to be generous and willing to help others in need, but it also cautions against blindly giving in to every demand. We are not obligated to fulfill every request, especially if it goes against our well-being or is unjust. It is important to exercise discernment and use wisdom when deciding how to respond. We are called to be gracious and compassionate, but we should also be responsible stewards of what we have been entrusted with.",
+            "wordCount": 93,
+            "quoteTokenProportion": 53.73,
+            "qualityScore": 1.0257117054616345,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.45,
             "commentatorTierSimilarities": [
-                34.11,
+                43.14,
                 0.0,
-                65.89
+                56.86
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Give to others when they ask, discerning between their genuine needs and wants. If someone takes something from you, do not insist on its return. Instead, exercise patience and release them from their obligation. This teaches us the importance of generosity in our giving, extending it to both friends and enemies alike. We should be willing to provide what we can spare and what is truly necessary, following the principles outlined in the law.",
+            "bht": "Give to everyone who asks of you, but not everything they ask for. This reminds us to be generous and help those in need, but it also advises against blindly fulfilling every demand. We should exercise discernment and wisdom in our giving, being mindful of our own well-being and the stewardship of our resources. It is important to be gracious and compassionate, but we are not obliged to fulfill unjust or harmful requests.",
             "wordCount": 74,
-            "quoteTokenProportion": 51.61,
-            "qualityScore": 0.8909117166748348,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.97,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 1.0468807953502135,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.15,
             "commentatorTierSimilarities": [
-                31.53,
+                43.11,
                 0.0,
-                68.47
+                56.89
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Give to everyone who asks, but not everything they ask for. This verse reminds us of the importance of generosity, but also of discernment. We are called to help those in need, but we are not obligated to fulfill every request. It is like a medical treatment; we need to ask again, to assess and determine what truly benefits the person. This teaching reflects Luke's unique literary style, using words that are not found elsewhere in the New Testament. Ultimately, we should exercise patience and not be distressed by the loss of our possessions, and instead focus on generously giving to others.",
-            "wordCount": 103,
-            "quoteTokenProportion": 44.74,
-            "qualityScore": 1.1589032852840766,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.88,
+            "bht": "Give to every one that asks, but not everything he asks. If someone needs something, give it to them willingly, but don't feel obligated to fulfill every request they make. In some cases, people may ask for things out of greed or dishonesty, and it is not our responsibility to enable their behavior. We should also be careful not to become enablers of those who repeatedly take from us without giving in return. Instead, we should exercise patience and trust that God will bring justice to those who wrongfully take from us.",
+            "wordCount": 93,
+            "quoteTokenProportion": 55.71,
+            "qualityScore": 1.1895427769217601,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.9,
             "commentatorTierSimilarities": [
-                49.85,
+                42.33,
                 0.0,
-                50.15
+                57.67
             ],
             "generationAttempt": 5
         }

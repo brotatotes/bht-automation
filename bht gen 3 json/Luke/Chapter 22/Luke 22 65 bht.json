@@ -1,16 +1,16 @@
 {
-    "timestamp": "12-19-2023 16:23:13",
+    "timestamp": "12-25-2023 21:00:52",
     "verseRef": "Luke 22:65",
     "bestBHT": {
-        "bht": "During Jesus' crucifixion, he encountered a multitude of insults and ridicule. People denied and ridiculed his deity and divine sonship, belittled his roles as a prophet, priest, and king, and portrayed him as a sinful and gluttonous man. They accused him of blasphemy due to his claim of being the Son of God, but ironically, their accusations only affirmed the truth of his divine nature. The mocking words hurled at Jesus served as a stark reflection of the unbelievers' refusal to acknowledge the reality of his identity.",
-        "wordCount": 87,
-        "quoteTokenProportion": 28.81,
-        "qualityScore": 0.627533810093729,
-        "qualityScoreNormalizedComparedToV2BHTs": 12.21,
+        "bht": "During this time, as Jesus faced insults and mockery, those who opposed him hurled numerous blasphemous charges against him. They denied his deity and divine sonship, mocking and burlesquing his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. They attacked his character, his office, and his claim to be the Son of God. Yet, it was their false accusations that amounted to true blasphemy, for Jesus was indeed the Son of God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 0.6379012368990858,
+        "qualityScoreNormalizedComparedToV2BHTs": 12.56,
         "commentatorTierSimilarities": [
-            -0.81,
+            -2.45,
             0.0,
-            100.81
+            102.45
         ],
         "generationAttempt": 3
     },
@@ -19,14 +19,13 @@
             "Many other things (\u03b5\u03c4\u03b5\u03c1\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1). These are just samples. "
         ],
         "John Gill": [
-            "As denying and ridiculing his deity, and divine sonship;",
-            "mocking at, and burlesquing his offices, of prophet, priest, and king;",
-            "asserting him to be a mere man, and a very wicked one; a profane sinner, a glutton, and a winebibber;"
+            "As denying and ridiculing his deity, and divine sonship; mocking at, and burlesquing his offices, of prophet, priest, and king.\" ",
+            "Asserting him to be a mere man, and a very wicked one; a profane sinner, a glutton, and a winebibber; a sabbath breaker, a blasphemer, and a seditious person.",
+            "And one that had a devil, or dealt with familiar spirits: and thus spake they against him; his person, office, and character."
         ],
         "John Wesley": [
-            "They charged him with blasphemy, because he said he was the Son of God: but the evangelist fixes that charge on them, because he really was so.",
-            "They charged him with blasphemy, because he said he was the Son of God.",
-            "But the evangelist fixes that charge on them, because he really was so."
+            "Many other things blasphemously spake they against him.\" ",
+            "They charged him with blasphemy, because he said he was the Son of God: but the evangelist fixes that charge on them, because he really was so."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -46,67 +45,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 22:65, we see a glimpse of the many ways in which Jesus was mocked and ridiculed during his crucifixion. The comments made by those present were just a few examples of the unbelief and denial of Jesus' divine nature and his roles as a prophet, priest, and king. They accused him of being a mere man, a glutton, and a winebibber, seeking to diminish his authority and magnify their ridicule. However, what they failed to recognize was that their charge of blasphemy against Jesus actually revealed his true identity and divine sonship.",
-            "wordCount": 93,
-            "quoteTokenProportion": 43.08,
-            "qualityScore": 0.594030973639541,
-            "qualityScoreNormalizedComparedToV2BHTs": 11.1,
+            "bht": "During this time, as Jesus endured insults and mockery, those who opposed him hurled many derogatory remarks His way. They ridiculed His deity, denying His divine sonship. They even went so far as to mock and burlesque His roles as prophet, priest, and king. They accused Him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. Their false accusations portrayed Him as a mere man, a profane sinner who dealt with familiar spirits. Their blasphemous words aimed to undermine His person, office, and character. However, in truth, it was they who were guilty of blasphemy, for Jesus was indeed the Son of God.",
+            "wordCount": 112,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 0.5967233878792235,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.19,
             "commentatorTierSimilarities": [
-                -3.36,
+                -3.71,
                 0.0,
-                103.36
+                103.71
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "During Jesus' crucifixion, he faced numerous acts of mockery and ridicule. People denounced his deity, ridiculed his offices as a prophet, priest, and king, and characterized him as a sinful, gluttonous man. They accused him of blasphemy for claiming to be the Son of God, but ironically, their accusations only confirmed his true identity. The insults hurled at Jesus were merely a glimpse of the unbelievers' denial of his divinity and failure to recognize the truth.",
-            "wordCount": 76,
-            "quoteTokenProportion": 31.58,
-            "qualityScore": 0.5650851434837993,
-            "qualityScoreNormalizedComparedToV2BHTs": 10.13,
+            "bht": "During this time, as Jesus endured insults and mockery, those who opposed him blasphemed by denying his divine sonship and mocking his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. Their false accusations aimed to undermine his person, office, and character. However, in truth, it was they who were guilty of blasphemy, for Jesus was indeed the Son of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 0.49769103521451813,
+            "qualityScoreNormalizedComparedToV2BHTs": 7.89,
             "commentatorTierSimilarities": [
-                -8.68,
+                -14.23,
                 0.0,
-                108.68
+                114.23
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "During Jesus' crucifixion, he encountered a multitude of insults and ridicule. People denied and ridiculed his deity and divine sonship, belittled his roles as a prophet, priest, and king, and portrayed him as a sinful and gluttonous man. They accused him of blasphemy due to his claim of being the Son of God, but ironically, their accusations only affirmed the truth of his divine nature. The mocking words hurled at Jesus served as a stark reflection of the unbelievers' refusal to acknowledge the reality of his identity.",
-            "wordCount": 87,
-            "quoteTokenProportion": 28.81,
-            "qualityScore": 0.627533810093729,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.21,
+            "bht": "During this time, as Jesus faced insults and mockery, those who opposed him hurled numerous blasphemous charges against him. They denied his deity and divine sonship, mocking and burlesquing his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. They attacked his character, his office, and his claim to be the Son of God. Yet, it was their false accusations that amounted to true blasphemy, for Jesus was indeed the Son of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 0.6379012368990858,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.56,
             "commentatorTierSimilarities": [
-                -0.81,
+                -2.45,
                 0.0,
-                100.81
+                102.45
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "During Jesus' crucifixion, he endured numerous insults and ridicule. People denied his deity, mocked his roles as a prophet, priest, and king, and labeled him as a sinful, gluttonous man. They accused him of blasphemy for proclaiming himself as the Son of God. Ironically, their accusations actually confirmed his true identity. The insults directed at Jesus demonstrated the refusal of unbelievers to recognize his divine nature and the profound truth of his claim as the Son of God.",
-            "wordCount": 78,
-            "quoteTokenProportion": 27.78,
-            "qualityScore": 0.5694937175554212,
-            "qualityScoreNormalizedComparedToV2BHTs": 10.28,
+            "bht": "During this time, as Jesus faced insults and mockery, those who opposed him denied his deity and divine sonship, while mocking and ridiculing his roles as prophet, priest, and king. They accused him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person. These blasphemous statements were aimed at undermining his character, office, and claim to be the Son of God. However, it was their false accusations that constituted true blasphemy, as Jesus truly was the Son of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 0.5074723820200137,
+            "qualityScoreNormalizedComparedToV2BHTs": 8.22,
             "commentatorTierSimilarities": [
-                -5.86,
+                -15.57,
                 0.0,
-                105.86
+                115.57
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "During Jesus' crucifixion, he faced intense mockery and ridicule. He was accused of denying his deity, ridiculed in his roles as a prophet, priest, and king, and labeled as a sinful glutton and winebibber. The people charged him with blasphemy for declaring himself as the Son of God. In an ironic twist, these accusations actually confirmed the truth of his divine sonship. The insults hurled at Jesus during this time serve as a reminder of the unbelievers' refusal to acknowledge his true identity.",
-            "wordCount": 83,
-            "quoteTokenProportion": 31.15,
-            "qualityScore": 0.4715380644770574,
-            "qualityScoreNormalizedComparedToV2BHTs": 7.02,
+            "bht": "During this time, as Jesus faced insults and mockery, those who opposed him denied his deity and divine sonship, ridiculing his roles as prophet, priest, and king. Accusing him of being a wicked man, a glutton, a winebibber, a sabbath breaker, a blasphemer, and a seditious person, they aimed to undermine his character, office, and claim. However, Jesus was indeed the Son of God, making their false accusations the very blasphemy they falsely accused him of.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.41141163824517046,
+            "qualityScoreNormalizedComparedToV2BHTs": 5.03,
             "commentatorTierSimilarities": [
-                -17.55,
+                -27.11,
                 0.0,
-                117.55
+                127.11
             ],
             "generationAttempt": 5
         }

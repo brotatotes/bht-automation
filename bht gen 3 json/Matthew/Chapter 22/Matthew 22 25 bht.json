@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-19-2023 23:51:16",
+    "timestamp": "12-25-2023 21:16:24",
     "verseRef": "Matthew 22:25",
     "bestBHT": {
-        "bht": "In this scenario mentioned, if a man marries but dies without children, Jewish customs stipulate his brother must marry the widow after a waiting period. However, if the widow is found to be pregnant with the deceased brother's child, it is deemed unlawful for the living brother to marry her. This story serves as a frequently raised objection, illustrating the complexities of marriage and inheritance laws of that time.",
-        "wordCount": 70,
-        "quoteTokenProportion": 40.0,
-        "qualityScore": 0.7191634321052828,
-        "qualityScoreNormalizedComparedToV2BHTs": 15.26,
+        "bht": "In a particular scenario, a man passed away without leaving any offspring, and a hypothetical objection arose regarding whether his brother should marry the widow if she was already pregnant. This objection was brought up on various occasions, although it seemed to lack significance. Nevertheless, it shed light on the complexity of Jewish laws and customs, specifically the requirement for a brother to marry the widow to ensure the deceased's lineage and protect the widow's well-being.",
+        "wordCount": 79,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 0.85253191631936,
+        "qualityScoreNormalizedComparedToV2BHTs": 19.69,
         "commentatorTierSimilarities": [
             0.0,
-            14.73,
-            85.27
+            28.18,
+            71.82
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -20,12 +20,14 @@
             "\t"
         ],
         "John Gill": [
-            "the first, when he had married a wife, deceased, and having no issue, left his wife unto his brother",
+            "brethren by the mother's side were not counted brethren, nor obliged by this law",
             "according to the Jewish canons, could not be done before ninety days, or three months after the decease of his brother",
-            "for so long they were to wait and see, whether she was with child by his brother or not; for if she was, it was not necessary, yea, it was unlawful for him to marry her"
+            "for if she was [pregnant], it was not necessary, yea, it was unlawful for him to marry her."
         ],
         "John Wesley": [
-            "This story seems to have been a kind of common-place objection, which no doubt they brought upon all occasions."
+            "This story seems to have been a kind of common-place objection.\" ",
+            "No doubt they brought [this objection] upon all occasions.",
+            "Objection"
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -45,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Matthew 22:25, we encounter a fictitious case given by the commentators. They explain that according to Jewish canons, if a man marries a wife and then dies without leaving any children, his brother is required to marry the widow after a waiting period of three months. However, if the widow is found to be pregnant with the deceased brother's child, it is unlawful for the living brother to marry her. This story seems to have been a common objection raised by individuals, highlighting the complexities of marriage and inheritance laws during that time.",
-            "wordCount": 94,
-            "quoteTokenProportion": 41.43,
-            "qualityScore": 0.8333933382514137,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.05,
+            "bht": "In Matthew 22:25, a fictitious case is presented where a man died without leaving any offspring. According to Jewish customs, if one of his brothers were to marry his widow, it would ensure the deceased's lineage and protect the widow. However, the hypothetical objection raised was that if the widow was already pregnant, there would be no need for the brother to marry her. This objection seems to have been a common argument brought up by individuals, although it did not hold much weight. Ultimately, this case highlighted the intricate details and discussions surrounding Jewish laws and customs at the time.",
+            "wordCount": 101,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 0.9243155211794056,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.08,
             "commentatorTierSimilarities": [
                 0.0,
-                33.52,
-                66.48
+                41.17,
+                58.83
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, we encounter a hypothetical scenario presented by the first-tier commentary. According to Jewish laws, if a man marries a woman and dies without leaving any children, his brother is obligated to marry the widow after a specific waiting period. However, if the widow is found to be pregnant with her deceased husband's child, it is unlawful for the living brother to marry her. This story appears to be a recurring objection frequently brought up during that time, shedding light on the intricate laws surrounding marriage and inheritance.",
-            "wordCount": 92,
-            "quoteTokenProportion": 36.23,
-            "qualityScore": 0.6960209637662607,
-            "qualityScoreNormalizedComparedToV2BHTs": 14.49,
+            "bht": "In a particular scenario, a man passed away without leaving any offspring, and a hypothetical objection arose regarding whether his brother should marry the widow if she was already pregnant. This objection was brought up on various occasions, although it seemed to lack significance. Nevertheless, it shed light on the complexity of Jewish laws and customs, specifically the requirement for a brother to marry the widow to ensure the deceased's lineage and protect the widow's well-being.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 0.85253191631936,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.69,
             "commentatorTierSimilarities": [
                 0.0,
-                25.93,
-                74.07
+                28.18,
+                71.82
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this particular verse, a fictional scenario is introduced whereby a man marries but passes away without leaving any children. According to Jewish traditions, his brother is expected to marry the widow after a waiting period. However, if it is discovered that the widow is already pregnant with her deceased husband's child, it becomes unlawful for the living brother to marry her. This anecdote serves as a common objection that people frequently raised, revealing the complexities of marriage and inheritance laws during that time.",
-            "wordCount": 85,
-            "quoteTokenProportion": 37.88,
-            "qualityScore": 0.6600349221881543,
-            "qualityScoreNormalizedComparedToV2BHTs": 13.29,
+            "bht": "In Matthew 22:25, a fictitious case arises where a man's brother questions the necessity of marrying the widow if she is already pregnant. This objection was a common argument that lacked real substance. Nevertheless, the scenario highlights the intricate details and debates surrounding Jewish laws and customs, particularly in relation to preserving lineage and providing for the well-being of widows. The case prompts us to consider the complexities and significance of these cultural practices during that time.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 0.7256561449329816,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.47,
             "commentatorTierSimilarities": [
                 0.0,
-                17.18,
-                82.82
+                40.3,
+                59.7
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this scenario mentioned, if a man marries but dies without children, Jewish customs stipulate his brother must marry the widow after a waiting period. However, if the widow is found to be pregnant with the deceased brother's child, it is deemed unlawful for the living brother to marry her. This story serves as a frequently raised objection, illustrating the complexities of marriage and inheritance laws of that time.",
-            "wordCount": 70,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.7191634321052828,
-            "qualityScoreNormalizedComparedToV2BHTs": 15.26,
+            "bht": "In a hypothetical situation, a man's death leaves his sibling questioning the need to marry the widow if she is already pregnant. This objection, although commonly raised, lacks substantial merit. Nonetheless, this case unveils the multifaceted discussions and considerations surrounding Jewish laws and customs, focusing on the preservation of lineage and the support and protection of widows. The story serves as a reminder of the intricate complexities and relevance of these cultural practices during that time period.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 0.6388809763795567,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.59,
             "commentatorTierSimilarities": [
                 0.0,
-                14.73,
-                85.27
+                29.62,
+                70.38
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "According to Jewish laws, if a man marries a wife and dies without leaving children, his brother is required to wait for three months before marrying the widow. During this waiting period, it would be determined if she is pregnant with the deceased brother's child. If she is indeed pregnant, it becomes unlawful for the living brother to marry her. This scenario was a common objection, highlighting the intricacies of marriage and inheritance regulations at that time.",
-            "wordCount": 78,
-            "quoteTokenProportion": 42.37,
-            "qualityScore": 0.6478999375393382,
-            "qualityScoreNormalizedComparedToV2BHTs": 12.89,
+            "bht": "In Matthew 22:25, an objection is presented concerning the necessity of a brother marrying a widow who is already pregnant. This objection, frequently mentioned in different scenarios, lacks substantial grounds. Nevertheless, this fictitious case provides insight into the intricacies of Jewish laws and customs, specifically the importance of preserving lineage and safeguarding the well-being of widows. It serves as a reminder of the prevalent debates and intricacies surrounding these cultural practices during that era.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.761415135375654,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.66,
             "commentatorTierSimilarities": [
                 0.0,
-                16.25,
-                83.75
+                37.0,
+                63.0
             ],
             "generationAttempt": 5
         }

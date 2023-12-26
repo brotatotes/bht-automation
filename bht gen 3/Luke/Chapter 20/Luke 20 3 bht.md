@@ -1,7 +1,7 @@
 # Luke 20:3 Commentary Help Text
 
 ## BHT:
-I will also ask you one thing, and answer me... Jesus' strategic use of the term word in this account reflects his deliberate approach to dealing with the religious leaders. By declining to provide a direct response, Jesus avoids their trap and instead presents them with a thought-provoking question. This not only safeguards him, but also allows him to deliver a fitting answer to their inquiry. Through his shrewd response, Jesus skillfully transforms their attempt to ensnare him into an opportunity for instruction and revelation.
+In response to the chief priests, scribes, and elders, Jesus craftily says, I will also ask you one thing, and answer me. His choice of words is both a prudent way to avoid their snare and a fitting reply to their question. By doing so, He sets the stage for a proper response, thus displaying His astuteness in handling tricky situations with wisdom and discernment.
 
 ## Choicest Commentary Quotes:
 ### Archibald T. Robertson:
@@ -9,48 +9,44 @@ I will also ask you one thing, and answer me... Jesus' strategic use of the term
 
 
 ### John Gill:
-1. "I will also ask you one thing, and answer me..."
-2. "This was a prudent decline to avoid the snare they laid for him."
-3. "It was not an impertinent reply to them; since it led on to a proper answer to their question."
+1. "I will also ask you one thing, and answer me."
+2. "...this was a prudent decline to avoid the snare they laid for him, so it was not an impertinent reply to them."
+3. "It led on to a proper answer to their question, as appears by the case proposed."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:21:58
+- Timestamp: 12-25-2023 21:16:21
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 40.0%
-- BHT Quality Score: 0.9340040046962015
+- BHT Word Count: 65
+- BHT Commentary Usage: 43.4%
+- BHT Quality Score: 1.1016844013886635
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'account', 'allows', 'also', 'an', 'and', 'answer', 'approach', 'ask', 'attempt', 'avoids', 'but', 'by', 'dealing', 'declining', 'deliberate', 'deliver', 'direct', 'ensnare', 'fitting', 'for', 'him', 'his', 'i', 'in', 'inquiry', 'instead', 'instruction', 'into', 'jesus', 'leaders', 'me', 'not', 'of', 'one', 'only', 'opportunity', 'presents', 'provide', 'provoking', 'question', 'reflects', 'religious', 'response', 'revelation', 'safeguards', 'shrewd', 'skillfully', 'strategic', 'term', 'the', 'their', 'them', 'thing', 'this', 'thought', 'through', 'to', 'transforms', 'trap', 'use', 'will', 'with', 'word', 'you']
-- ChatGPT injected words (significant words only) (39):
-	['account', 'allows', 'answer', 'approach', 'ask', 'attempt', 'avoids', 'dealing', 'declining', 'deliberate', 'deliver', 'direct', 'ensnare', 'fitting', 'inquiry', 'instead', 'instruction', 'jesus', 'leaders', 'opportunity', 'presents', 'provide', 'provoking', 'question', 'reflects', 'religious', 'response', 'revelation', 'safeguards', 'shrewd', 'skillfully', 'strategic', 'term', 'thing', 'thought', 'transforms', 'trap', 'use', 'word']
+- ChatGPT injected words (53):
+	['a', 'also', 'and', 'answer', 'ask', 'astuteness', 'avoid', 'both', 'by', 'chief', 'choice', 'craftily', 'discernment', 'displaying', 'doing', 'elders', 'fitting', 'for', 'handling', 'he', 'his', 'i', 'in', 'is', 'jesus', 'me', 'of', 'one', 'priests', 'proper', 'prudent', 'question', 'reply', 'response', 'says', 'scribes', 'sets', 'situations', 'snare', 'so', 'stage', 'the', 'their', 'thing', 'thus', 'to', 'tricky', 'way', 'will', 'wisdom', 'with', 'words', 'you']
+- ChatGPT injected words (significant words only) (30):
+	['answer', 'ask', 'astuteness', 'avoid', 'chief', 'choice', 'craftily', 'discernment', 'displaying', 'elders', 'fitting', 'handling', 'jesus', 'priests', 'proper', 'prudent', 'question', 'reply', 'response', 'says', 'scribes', 'sets', 'situations', 'snare', 'stage', 'thing', 'tricky', 'way', 'wisdom', 'words']
 
 ### Logs
-- Attempt 1 BHT: I will also ask you one thing, and answer me... The use of the word word in this verse is significant, as it suggests a deliberate choice of Jesus to respond to the religious leaders. It was a prudent decline to avoid the snare they laid for him, while also leading to a proper answer to their question. By posing an additional question before giving his own response, Jesus skillfully navigates the situation and turns their trap into an opportunity for teaching and revelation.
-- 🔄 Luke 20:3 (attempt 1, 84 words, 45.16% quotes quality score: 1.211495765984002, V2 normalized quality score: 31.63, commentator tiers 1-3: 37.69%, 0.0%, 62.31%) 
+- Attempt 1 BHT: In Luke 20:3, Jesus responds to the chief priests, scribes, and elders by stating, I will also ask you one thing, and answer me. This intentional choice of words by Jesus is a wise way to avoid the snare the religious leaders were trying to trap Him in, as well as a clever response to their question. It leads to a proper solution to the issue at hand. This emphasizes Jesus' discernment and demonstrates His ability to navigate difficult situations with wisdom and insight.
+- 🔄 Luke 20:3 (attempt 1, 83 words, 38.1% quotes quality score: 1.0150024165934928, V2 normalized quality score: 25.09, commentator tiers 1-3: 56.76%, 0.0%, 43.24%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: I will also ask you one thing, and answer me... Jesus' clever use of the word word in this passage shows his intentionality in responding to the religious leaders. He tactfully avoids their trap by declining to give a direct answer, instead posing an additional question. This not only prevents their snare, but also allows Jesus to provide a proper response to their query. With this approach, Jesus skillfully turns their attempt to corner him into an opportunity for teaching and revelation.
-- 🔄 Luke 20:3 (attempt 2, 82 words, 41.27% quotes quality score: 1.0717716276498797, V2 normalized quality score: 26.98, commentator tiers 1-3: 42.02%, 0.0%, 57.98%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: I will also ask you one thing, and answer me... Jesus' strategic use of the term word in this account reflects his deliberate approach to dealing with the religious leaders. By declining to provide a direct response, Jesus avoids their trap and instead presents them with a thought-provoking question. This not only safeguards him, but also allows him to deliver a fitting answer to their inquiry. Through his shrewd response, Jesus skillfully transforms their attempt to ensnare him into an opportunity for instruction and revelation.
-- 🔄 Luke 20:3 (attempt 3, 86 words, 40.0% quotes quality score: 0.9340040046962015, V2 normalized quality score: 22.4, commentator tiers 1-3: 37.26%, 0.0%, 62.74%) 
-	- BHT WAS OVER 80 WORDS! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: In his response to the chief priests, scribes, and elders, Jesus employs a shrewd strategy by saying, I will also ask you one thing, and answer me. This choice of words not only helps Him avoid their trap but also serves as a clever counter to their question. It ultimately leads to a satisfactory resolution. This showcases Jesus' discernment and showcases His aptitude for navigating challenging scenarios with wisdom and insight.
+- 🔄 Luke 20:3 (attempt 2, 71 words, 41.38% quotes quality score: 0.7735653389913135, V2 normalized quality score: 17.07, commentator tiers 1-3: 44.52%, 0.0%, 55.48%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: I will also ask you one thing, and answer me... The intentional use of the word word in this passage highlights Jesus' calculated approach towards the religious leaders. By skillfully declining to directly answer their question, Jesus avoids their trap and instead poses another thought-provoking query. This astute maneuver not only protects Jesus, but also paves the way for him to provide a suitable response to their inquiry. Through his wise response, Jesus skillfully transforms their attempt to ensnare him into an opportunity for teaching and revelation.
-- 🔄 Luke 20:3 (attempt 4, 88 words, 39.39% quotes quality score: 1.0587271014673085, V2 normalized quality score: 26.55, commentator tiers 1-3: 44.38%, 0.0%, 55.62%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: I will also ask you one thing, and answer me... Jesus' use of the word word in this context signifies a deliberate choice to respond to the religious leaders. By skillfully evading their trap, Jesus deftly poses a counter-question. This not only safeguards him but also enables him to deliver a fitting answer to their inquiry. Through this wise approach, Jesus transforms their attempt to ensnare him into a valuable opportunity for teaching and revelation.
-- 🔄 Luke 20:3 (attempt 5, 76 words, 39.29% quotes quality score: 0.9224965558268297, V2 normalized quality score: 22.02, commentator tiers 1-3: 41.83%, 0.0%, 58.17%) 
+- Attempt 3 BHT: In response to the chief priests, scribes, and elders, Jesus craftily says, I will also ask you one thing, and answer me. His choice of words is both a prudent way to avoid their snare and a fitting reply to their question. By doing so, He sets the stage for a proper response, thus displaying His astuteness in handling tricky situations with wisdom and discernment.
+- 🔄 Luke 20:3 (attempt 3, 65 words, 43.4% quotes quality score: 1.1016844013886635, V2 normalized quality score: 27.97, commentator tiers 1-3: 43.61%, 0.0%, 56.39%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 20:3 bht prompt v0.8 (86 words, 40.0% quotes)
-- quality score: 0.9340040046962015, V2 normalized quality score: 22.4, commentator tiers 1-3: 37.26%, 0.0%, 62.74%)
+- Attempt 4 BHT: In Luke 20:3, Jesus tactfully responds to the chief priests, scribes, and elders by stating, I will also ask you one thing, and answer me. This skillful choice of words is a wise means of avoiding the trap they had set while simultaneously offering a pertinent reply. It leads the conversation in a direction where Jesus can provide a suitable answer to their initial question. This showcases His prudence and ability to navigate complex situations with discernment and wisdom.
+- 🔄 Luke 20:3 (attempt 4, 78 words, 38.1% quotes quality score: 0.9700715372332169, V2 normalized quality score: 23.6, commentator tiers 1-3: 55.09%, 0.0%, 44.91%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: In response to the chief priests, scribes, and elders, Jesus shrewdly states, I will also ask you one thing, and answer me. This response serves as a cautious decline to avoid the snare they had laid for Him and demonstrates His ability to navigate such situations with prudence. Moreover, it leads to a valid answer to their question, indicating the relevance and purpose of the inquiry posed by Jesus.
+- 🔄 Luke 20:3 (attempt 5, 69 words, 45.45% quotes quality score: 1.0076001915683606, V2 normalized quality score: 24.85, commentator tiers 1-3: 42.06%, 0.0%, 57.94%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 20:3 bht prompt v0.8 (65 words, 43.4% quotes)
+- quality score: 1.1016844013886635, V2 normalized quality score: 27.97, commentator tiers 1-3: 43.61%, 0.0%, 56.39%)

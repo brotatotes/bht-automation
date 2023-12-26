@@ -1,7 +1,7 @@
 # Luke 4:11 Commentary Help Text
 
 ## BHT:
-The proper interpretation of the phrase in their hands as on their hands provides new insight into the devil's temptation of Jesus. This linguistic detail brings to light the nuanced manipulation employed by the devil and the unwavering response of Jesus. By recognizing this subtle distinction, we gain a deeper understanding of the profound encounter between Jesus and the devil, enhancing our appreciation for the strength and wisdom demonstrated by Jesus in the face of temptation.
+The phrase in their hands in question is connected to the similar wording found in Matthew 4:6. This link underscores the importance of God's protection and support, represented by His physical presence. It is a reminder of His unwavering care for His people, even in difficult situations. This reassures us that we can depend on His guidance and provision, finding solace in the knowledge that He is constantly watching over us.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -15,42 +15,42 @@ The proper interpretation of the phrase in their hands as on their hands provide
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:14:41
+- Timestamp: 12-25-2023 21:16:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 32.0%
-- BHT Quality Score: 0.8361487443883318
+- BHT Word Count: 71
+- BHT Commentary Usage: 38.89%
+- BHT Quality Score: 0.9314631969137697
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (50):
-	['a', 'and', 'appreciation', 'as', 'between', 'brings', 'by', 'deeper', 'demonstrated', 'detail', 'devil', 'distinction', 'employed', 'encounter', 'enhancing', 'face', 'for', 'gain', 'hands', 'in', 'insight', 'interpretation', 'into', 'jesus', 'light', 'linguistic', 'manipulation', 'new', 'nuanced', 'of', 'on', 'our', 'phrase', 'profound', 'proper', 'provides', 'recognizing', 'response', 's', 'strength', 'subtle', 'temptation', 'the', 'their', 'this', 'to', 'understanding', 'unwavering', 'we', 'wisdom']
-- ChatGPT injected words (significant words only) (34):
-	['appreciation', 'brings', 'deeper', 'demonstrated', 'detail', 'devil', 'distinction', 'employed', 'encounter', 'enhancing', 'face', 'gain', 'hands', 'insight', 'interpretation', 'jesus', 'light', 'linguistic', 'manipulation', 'new', 'nuanced', 'phrase', 'profound', 'proper', 'provides', 'recognizing', 'response', 's', 'strength', 'subtle', 'temptation', 'understanding', 'unwavering', 'wisdom']
+- ChatGPT injected words (54):
+	['a', 'and', 'by', 'can', 'care', 'connected', 'constantly', 'depend', 'difficult', 'even', 'finding', 'for', 'found', 'god', 'guidance', 'hands', 'he', 'his', 'importance', 'in', 'is', 'it', 'knowledge', 'link', 'matthew', 'of', 'on', 'over', 'people', 'phrase', 'physical', 'presence', 'protection', 'provision', 'question', 'reassures', 'reminder', 'represented', 's', 'similar', 'situations', 'solace', 'support', 'that', 'the', 'their', 'this', 'to', 'underscores', 'unwavering', 'us', 'watching', 'we', 'wording']
+- ChatGPT injected words (significant words only) (33):
+	['care', 'connected', 'constantly', 'depend', 'difficult', 'finding', 'found', 'god', 'guidance', 'hands', 'importance', 'knowledge', 'link', 'matthew', 'people', 'phrase', 'physical', 'presence', 'protection', 'provision', 'question', 'reassures', 'reminder', 'represented', 's', 'similar', 'situations', 'solace', 'support', 'underscores', 'unwavering', 'watching', 'wording']
 
 ### Logs
-- Attempt 1 BHT: In Luke 4:11, when the devil tempts Jesus to throw Himself down from the pinnacle of the temple, the first-tier commentary points out that the phrase in their hands should actually be translated as on their hands. This highlights the importance of paying attention to the subtleties of language in biblical interpretation, as even a small change in preposition can significantly impact the meaning of a verse. By understanding this nuance, we gain a deeper understanding of the devil's attempt to deceive Jesus and the firmness of Jesus' response.
-- 🔄 Luke 4:11 (attempt 1, 90 words, 37.7% quotes quality score: 1.0387287718292915, V2 normalized quality score: 25.88, commentator tiers 1-3: 76.18%, 0.0%, 23.82%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 1 BHT: In Luke 4:11, the phrase in their hands (or on their hands as some translations render it) is used, drawing a parallel to Matthew 4:6. The commentators emphasize the significance of this phrase, as it implies a physical manifestation of protection and support. This highlights the assurance of God's care and safeguarding of His people, even in the face of temptation or danger. It reminds us that we can trust in His constant presence and guidance in our lives.
+- 🔄 Luke 4:11 (attempt 1, 78 words, 40.74% quotes quality score: 0.9295380110467286, V2 normalized quality score: 22.25, commentator tiers 1-3: 80.47%, 0.0%, 19.53%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: In Luke 4:11, the phrase in their hands stresses the idea of physical protection and support, a theme found in Matthew 4:6 as well. This emphasizes the assurance of God's presence and care for His people. It serves as a reminder that we can trust in His constant guidance and provision, even in the midst of temptation or danger. 
+- 🔄 Luke 4:11 (attempt 2, 58 words, 38.64% quotes quality score: 0.9428887885521379, V2 normalized quality score: 22.7, commentator tiers 1-3: 86.44%, 0.0%, 13.56%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The phrase in their hands used in the verse draws a parallel to another passage in Matthew 4:6. This connection highlights the significance of God's protection and support, symbolized by physical presence. It serves as a reminder of His unwavering care for His people, even in challenging circumstances. This verse assures us that we can rely on His guidance and provision, finding comfort in His constant watch over us.
+- 🔄 Luke 4:11 (attempt 3, 69 words, 40.74% quotes quality score: 0.9702037706186897, V2 normalized quality score: 23.6, commentator tiers 1-3: 83.98%, 0.0%, 16.02%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: The phrase in their hands in question is connected to the similar wording found in Matthew 4:6. This link underscores the importance of God's protection and support, represented by His physical presence. It is a reminder of His unwavering care for His people, even in difficult situations. This reassures us that we can depend on His guidance and provision, finding solace in the knowledge that He is constantly watching over us.
+- 🔄 Luke 4:11 (attempt 4, 71 words, 38.89% quotes quality score: 0.9314631969137697, V2 normalized quality score: 22.32, commentator tiers 1-3: 80.79%, 0.0%, 19.21%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The phrase in their hands in Luke 4:11 corresponds to the parallel passage in Matthew 4:6. This connection emphasizes the significance of God's protection and support demonstrated through physical presence. It serves as a reminder of His unwavering care for His people, even in challenging circumstances. This verse assures us that we can trust in His guidance and provision, finding comfort in His constant watchfulness over us.
+- 🔄 Luke 4:11 (attempt 5, 66 words, 36.54% quotes quality score: 1.0005488217382235, V2 normalized quality score: 24.61, commentator tiers 1-3: 83.36%, 0.0%, 16.64%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: In the passage in question, it is noted that the correct translation is on their hands instead of in their hands. This small distinction is vital in understanding the subtle nuances and implications of the devil's temptation towards Jesus. By recognizing this linguistic detail, we can delve deeper into the significance of Jesus' firm response and gain a greater insight into the deceptive tactics employed by the devil. Attention to such linguistic subtleties enriches our understanding of this pivotal moment.
-- 🔄 Luke 4:11 (attempt 2, 81 words, 33.93% quotes quality score: 0.7314795094773922, V2 normalized quality score: 15.67, commentator tiers 1-3: 69.15%, 0.0%, 30.85%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The importance lies in recognizing that the phrase in their hands should actually be translated as on their hands. By understanding this linguistic detail, we gain a deeper understanding of the devil's attempt to deceive Jesus and the firmness of Jesus' response. This small but significant change in preposition shifts our comprehension of the devil's temptation, revealing the subtle manipulation at play. Paying heed to these linguistic subtleties enriches our understanding of the profound encounter between Jesus and the devil.
-- 🔄 Luke 4:11 (attempt 3, 82 words, 35.71% quotes quality score: 0.7356007036053392, V2 normalized quality score: 15.8, commentator tiers 1-3: 58.65%, 0.0%, 41.35%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The attentive reader will notice that the proper translation of the phrase in their hands is actually on their hands. This seemingly minor change illuminates a deeper understanding of the devil's temptation and Jesus' resolute response. By recognizing this linguistic nuance, we can appreciate the subtle manipulations employed by the devil and the unwavering resolve demonstrated by Jesus in the face of temptation. These small but significant details enhance our appreciation of the profound encounter captured in this verse.
-- 🔄 Luke 4:11 (attempt 4, 80 words, 29.82% quotes quality score: 0.6513068477268734, V2 normalized quality score: 13.0, commentator tiers 1-3: 62.08%, 0.0%, 37.92%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The proper interpretation of the phrase in their hands as on their hands provides new insight into the devil's temptation of Jesus. This linguistic detail brings to light the nuanced manipulation employed by the devil and the unwavering response of Jesus. By recognizing this subtle distinction, we gain a deeper understanding of the profound encounter between Jesus and the devil, enhancing our appreciation for the strength and wisdom demonstrated by Jesus in the face of temptation.
-- 🔄 Luke 4:11 (attempt 5, 77 words, 32.0% quotes quality score: 0.8361487443883318, V2 normalized quality score: 19.15, commentator tiers 1-3: 61.06%, 0.0%, 38.94%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 4:11 bht prompt v0.8 (77 words, 32.0% quotes)
-- quality score: 0.8361487443883318, V2 normalized quality score: 19.15, commentator tiers 1-3: 61.06%, 0.0%, 38.94%)
+- ✅ Luke 4:11 bht prompt v0.8 (71 words, 38.89% quotes)
+- quality score: 0.9314631969137697, V2 normalized quality score: 22.32, commentator tiers 1-3: 80.79%, 0.0%, 19.21%)

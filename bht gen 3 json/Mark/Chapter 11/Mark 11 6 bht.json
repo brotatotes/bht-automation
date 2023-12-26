@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-22-2023 23:26:22",
+    "timestamp": "12-25-2023 21:16:25",
     "verseRef": "Mark 11:6",
     "bestBHT": {
-        "bht": "In this poignant account, Jesus showcases His authority and compassion. Described vividly as graphic and touching, this event carries deep significance. The colt, referred to as a beloved son, holds great value. It is remarkable to witness the obedience and willingness of those who released the colt, as they followed Jesus' command. This narrative reflects Jesus' divine authority and the responsive nature of both people and animals to His call.",
-        "wordCount": 70,
-        "quoteTokenProportion": 31.37,
-        "qualityScore": 0.8692569089790119,
-        "qualityScoreNormalizedComparedToV2BHTs": 20.25,
+        "bht": "Jesus, on his way to Jerusalem, sent his disciples to retrieve a colt, which Mark vividly describes as a beloved son. The people willingly let them take the colt because they recognized that The Lord hath need of him. Following Jesus' instructions, the disciples were satisfied and content with the outcome. This account highlights Jesus' authority and the obedient response of those who acknowledged his divine purpose.",
+        "wordCount": 67,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.0262069436973307,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.47,
         "commentatorTierSimilarities": [
             0.0,
-            52.88,
-            47.12
+            33.15,
+            66.85
         ],
-        "generationAttempt": 4
+        "generationAttempt": 2
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -20,9 +20,9 @@
             "\t"
         ],
         "John Gill": [
-            "The Lord hath need of him.",
-            "They let them go, and the colt with them, very freely.",
-            "Even as Jesus had commanded."
+            "The Lord hath need of him\": The Lord hath need of him.",
+            "And they let them go; and the colt with them, very freely\": They let them go; and the colt with them, very freely.",
+            "Even as Jesus had commanded... they were satisfied and contented\": Even as Jesus had commanded, they were satisfied and contented."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -42,67 +42,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Mark 11:6, we see a profound moment where Jesus shows His authority and power. The first-tier commentary describes the scene as graphic and touching, emphasizing the significance of this event. The second-tier commentary highlights the unique status of the colt, referred to as the beloved son, indicating its value and importance. The third-tier commentary further emphasizes the obedience and willingness of those who released the colt, following Jesus' command. This verse showcases Jesus' divine authority and how both people and animals respond to His call.",
-            "wordCount": 88,
-            "quoteTokenProportion": 35.0,
-            "qualityScore": 0.8254556586125421,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.79,
+            "bht": "As Jesus entered Jerusalem, his disciples were sent to retrieve a colt for him to ride upon. In Mark's account, it is described as a beloved son. The people were willing to let them take the colt freely, recognizing that The Lord hath need of him. The disciples followed Jesus' instructions, and they were completely satisfied and content with the outcome. This passage emphasizes the authority and sovereignty of Jesus, as well as the willing obedience of those who recognized his divine purpose.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 0.9507705701805307,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.96,
             "commentatorTierSimilarities": [
                 0.0,
-                61.54,
-                38.46
+                33.59,
+                66.41
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this poignant account, Jesus demonstrates His authority and compassion. Described vividly as graphic and touching, this event holds deep significance. The colt, referred to as a beloved son, holds great value as highlighted in the second-tier commentary. Mark 11:6 shows the obedience and willingness of those who released the colt, following Jesus' command. This verse showcases Jesus' divine authority, and the unwavering response of both people and animals to His call.",
-            "wordCount": 72,
-            "quoteTokenProportion": 25.49,
-            "qualityScore": 0.9245838913081408,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.09,
+            "bht": "Jesus, on his way to Jerusalem, sent his disciples to retrieve a colt, which Mark vividly describes as a beloved son. The people willingly let them take the colt because they recognized that The Lord hath need of him. Following Jesus' instructions, the disciples were satisfied and content with the outcome. This account highlights Jesus' authority and the obedient response of those who acknowledged his divine purpose.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.0262069436973307,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.47,
             "commentatorTierSimilarities": [
                 0.0,
-                60.34,
-                39.66
+                33.15,
+                66.85
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "In this poignant account, Jesus demonstrates His authority and compassion. Described vividly as graphic and touching, this event holds deep significance. The colt, referred to as a beloved son, holds great value. Mark 11:6 shows the obedience and willingness of those who released the colt, following Jesus' command. This verse showcases Jesus' divine authority, and the unwavering response of both people and animals to His call.",
-            "wordCount": 65,
-            "quoteTokenProportion": 27.66,
-            "qualityScore": 0.946416985421231,
-            "qualityScoreNormalizedComparedToV2BHTs": 22.81,
+            "bht": "As Jesus journeyed towards Jerusalem, he dispatched his disciples to procure a colt, referred to by Mark as a beloved son. Seeing the significance of Jesus' request, the people willingly released the colt, acknowledging that The Lord hath need of him. The disciples followed Jesus' instructions, finding contentment and satisfaction in the faithful execution of their task. This account underscores Jesus' authority and the willing response of those who recognized his divine purpose.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 0.9814130923196542,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.98,
             "commentatorTierSimilarities": [
                 0.0,
-                56.21,
-                43.79
+                34.29,
+                65.71
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "In this poignant account, Jesus showcases His authority and compassion. Described vividly as graphic and touching, this event carries deep significance. The colt, referred to as a beloved son, holds great value. It is remarkable to witness the obedience and willingness of those who released the colt, as they followed Jesus' command. This narrative reflects Jesus' divine authority and the responsive nature of both people and animals to His call.",
-            "wordCount": 70,
-            "quoteTokenProportion": 31.37,
-            "qualityScore": 0.8692569089790119,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.25,
+            "bht": "As Jesus made his way to Jerusalem, he sent his disciples to retrieve a colt, which Mark poignantly describes as a beloved son. Recognizing the significance of Jesus' request, the people willingly released the colt, acknowledging that The Lord hath need of him. The disciples faithfully followed Jesus' instructions and experienced contentment and satisfaction in their obedience. This powerful episode highlights Jesus' authority and the responsive hearts of those who acknowledged his divine purpose.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 0.955263361944181,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.11,
             "commentatorTierSimilarities": [
                 0.0,
-                52.88,
-                47.12
+                34.79,
+                65.21
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "In this compelling episode, Jesus displays both His authority and compassion. The description given as graphic and touching underscores the profound nature of this event. The colt, referred to affectionately as a beloved son, signifies its inherent worth. Mark 11:6 reveals the unwavering obedience and readiness of those who released the colt, meticulously following Jesus' command. This passage powerfully depicts Jesus' divine authority, as well as the wholehearted response displayed by both people and animals to His call.",
-            "wordCount": 77,
-            "quoteTokenProportion": 28.57,
-            "qualityScore": 0.8650808097334446,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.11,
+            "bht": "Jesus, on his way to Jerusalem, sent his disciples to retrieve a colt, described by Mark as a beloved son. Recognizing the significance of Jesus' request, the people willingly released the colt, acknowledging that The Lord hath need of him. The disciples obediently followed Jesus' instructions and found satisfaction and contentment in their faithful execution. Through this account, we witness the authority of Jesus and the responsive hearts of those who recognized his divine purpose.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.0170568683227987,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.16,
             "commentatorTierSimilarities": [
                 0.0,
-                57.42,
-                42.58
+                36.05,
+                63.95
             ],
             "generationAttempt": 5
         }
